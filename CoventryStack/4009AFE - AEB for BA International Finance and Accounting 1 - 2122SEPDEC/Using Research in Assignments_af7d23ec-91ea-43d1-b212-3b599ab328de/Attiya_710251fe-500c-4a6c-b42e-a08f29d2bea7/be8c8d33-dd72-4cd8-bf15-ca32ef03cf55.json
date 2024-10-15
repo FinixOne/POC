@@ -1,0 +1,305 @@
+{
+  "userId": "710251fe-500c-4a6c-b42e-a08f29d2bea7",
+  "firstName": "Attiya",
+  "lastName": "Clarke",
+  "assigmentId": "af7d23ec-91ea-43d1-b212-3b599ab328de",
+  "assigmentName": "Using Research in Assignments",
+  "sessionId": "be8c8d33-dd72-4cd8-bf15-ca32ef03cf55",
+  "email": "clarkea12@coventry.ac.uk",
+  "spaceId": "54572b50-c067-4efa-9cfd-3b761bdd8b02",
+  "spaceName": "4009AFE - AEB for BA International Finance and Accounting 1 - 2122SEPDEC",
+  "score": 2,
+  "max_score": 3,
+  "questions": [
+    {
+      "response_id": "be8c8d33-dd72-4cd8-bf15-ca32ef03cf55_61b142bd867df7279be3ca2988bb23a1",
+      "question_type": "mcq",
+      "dt_score_updated": "2021-10-17T12:29:58Z",
+      "automarkable": true,
+      "attempted": true,
+      "score": 1,
+      "max_score": 1,
+      "question_reference": "f338f5db-1227-4f6f-845e-7d9e81962c28",
+      "item_reference": "c3bfdf83-a13c-4d15-9ea5-66a3b3d85290",
+      "response": {
+        "value": [
+          "3",
+          "2",
+          "4",
+          "5",
+          "0"
+        ],
+        "type": "array",
+        "apiVersion": "v2.168.11",
+        "revision": 2
+      },
+      "questionInfo": {
+        "type": "mcq",
+        "widget_type": "response",
+        "reference": "f338f5db-1227-4f6f-845e-7d9e81962c28",
+        "data": {
+          "multiple_responses": true,
+          "options": [
+            {
+              "label": "To provide a useful example",
+              "value": "0"
+            },
+            {
+              "label": "To replace our own ideas",
+              "value": "1"
+            },
+            {
+              "label": "To give an expert opinion",
+              "value": "2"
+            },
+            {
+              "label": "To apply theories",
+              "value": "3"
+            },
+            {
+              "label": "To provide supporting statistics &amp; data",
+              "value": "4"
+            },
+            {
+              "label": "To show results from relevant research",
+              "value": "5"
+            }
+          ],
+          "stimulus": "<strong>Why should we&nbsp;use&nbsp;research in our academic assignments? (CHOOSE MORE THAN ONE ANSWER!)</strong>",
+          "type": "mcq",
+          "validation": {
+            "scoring_type": "partialMatchV2",
+            "valid_response": {
+              "score": 5,
+              "value": [
+                "2",
+                "3",
+                "4",
+                "5"
+              ]
+            }
+          },
+          "ui_style": {
+            "type": "horizontal"
+          },
+          "shuffle_options": true,
+          "instant_feedback": true
+        },
+        "metadata": {
+          "name": "Multiple choice – multiple response",
+          "template_reference": "908de244-5c71-4c09-b094-7fb49554f2f9"
+        }
+      },
+      "feedbackInfo": [
+        null,
+        null
+      ]
+    },
+    {
+      "response_id": "be8c8d33-dd72-4cd8-bf15-ca32ef03cf55_be99a3ffa3c7246c31dbe97ba0db3fd6",
+      "question_type": "association",
+      "dt_score_updated": "2021-10-17T12:32:18Z",
+      "automarkable": true,
+      "attempted": true,
+      "score": 1,
+      "max_score": 1,
+      "question_reference": "024b5527-2e95-43bd-bba3-90716da1e3b0",
+      "item_reference": "c3bfdf83-a13c-4d15-9ea5-66a3b3d85290",
+      "response": {
+        "value": [
+          "Is the content connected to you what you are writing about? E.g. Is a book on marketing patterns in the US appropriate for your report on marketing in the UK?",
+          "Is the author qualified to write about the topic? Can you trust their opinion or their research?",
+          "Does the writer want to sell you an idea or opinion? Do they have an agenda?",
+          "Who was the writer writing for? e.g.&nbsp; Academics? Students? The general public? Corporate clients?",
+          "Can you trust the sources and the research, which the author uses to support their theory or opinion?",
+          "Does the date of publication effect how relevant the source is to your own argument?"
+        ],
+        "type": "array",
+        "updatedFormat": true,
+        "apiVersion": "v2.168.11",
+        "revision": 11
+      },
+      "questionInfo": {
+        "type": "association",
+        "widget_type": "response",
+        "reference": "024b5527-2e95-43bd-bba3-90716da1e3b0",
+        "data": {
+          "possible_responses": [
+            "Can you trust the sources and the research, which the author uses to support their theory or opinion?",
+            "Who was the writer writing for? e.g.&nbsp; Academics? Students? The general public? Corporate clients?",
+            "Does the date of publication effect how relevant the source is to your own argument?",
+            "Does the writer want to sell you an idea or opinion? Do they have an agenda?",
+            "Is the content connected to you what you are writing about? E.g. Is a book on marketing patterns in the US appropriate for your report on marketing in the UK?",
+            "Is the author qualified to write about the topic? Can you trust their opinion or their research?"
+          ],
+          "stimulus": "<strong>For our assignments to be credible, we need to choose appropriate sources to support our arguments. One way to check our sources are appropriate is to apply the six-step REVIEW method. Can you match the different steps you need to take when checking your material</strong>",
+          "stimulus_list": [
+            "Relevance",
+            "Expertise",
+            "Viewpoint",
+            "Intended audience",
+            "Evidence",
+            "When published"
+          ],
+          "type": "association",
+          "validation": {
+            "scoring_type": "partialMatchV2",
+            "valid_response": {
+              "score": 6,
+              "value": [
+                "Is the content connected to you what you are writing about? E.g. Is a book on marketing patterns in the US appropriate for your report on marketing in the UK?",
+                "Is the author qualified to write about the topic? Can you trust their opinion or their research?",
+                "Does the writer want to sell you an idea or opinion? Do they have an agenda?",
+                "Who was the writer writing for? e.g.&nbsp; Academics? Students? The general public? Corporate clients?",
+                "Can you trust the sources and the research, which the author uses to support their theory or opinion?",
+                "Does the date of publication effect how relevant the source is to your own argument?"
+              ]
+            }
+          },
+          "instant_feedback": true
+        },
+        "metadata": {
+          "name": "Match list",
+          "template_reference": "1fa22aac-1f88-47f7-941b-3c77759549e6"
+        }
+      },
+      "feedbackInfo": [
+        null,
+        null
+      ]
+    },
+    {
+      "response_id": "be8c8d33-dd72-4cd8-bf15-ca32ef03cf55_217c7e30632f32e68dc893d4bb4705aa",
+      "question_type": "choicematrix",
+      "dt_score_updated": "2021-10-17T12:33:18Z",
+      "automarkable": true,
+      "attempted": true,
+      "score": 0,
+      "max_score": 1,
+      "question_reference": "05eaf282-ac46-4292-9996-d613068b35f2",
+      "item_reference": "c3bfdf83-a13c-4d15-9ea5-66a3b3d85290",
+      "response": {
+        "value": [
+          [
+            1
+          ],
+          [
+            2
+          ],
+          [
+            2
+          ],
+          [
+            0
+          ],
+          [
+            0
+          ],
+          [
+            2
+          ],
+          [
+            0
+          ],
+          [
+            1
+          ],
+          [
+            2
+          ],
+          [
+            0,
+            1
+          ]
+        ],
+        "type": "array",
+        "apiVersion": "v2.168.11",
+        "revision": 7
+      },
+      "questionInfo": {
+        "type": "choicematrix",
+        "widget_type": "response",
+        "reference": "05eaf282-ac46-4292-9996-d613068b35f2",
+        "data": {
+          "options": [
+            "Summary",
+            "Paraphrase",
+            "Quotation"
+          ],
+          "stems": [
+            "involves using your own words",
+            "involves copying the exact words from a text",
+            "puts words in inverted commas \" \"",
+            "is much shorter than the original text",
+            "is usually only a short piece of text",
+            "includes an in-text citation",
+            "presents a general overview of ideas and evidence from the original text",
+            "accurately presents an idea or piece of information from a text, but in your own words",
+            "should only be used if the exact words are important",
+            "demonstrate a good understanding of the text"
+          ],
+          "stimulus": "<p><span style=\"font-size:1.1em;\"><em><strong>Read the following descriptions of QUOTING, PARAPHRASING &amp; SUMMARISING, then complete the grid below by selecting the form by deciding which form (or forms) is being described.</strong></em></span></p>\n\n<p><span style=\"font-size:1.1em;\">We can use ideas from sources in our assignments by quoting, paraphrasing, or summarising.&nbsp;Quoting is using the exact words and phrases from the source. However, paraphrasing and summarising involve putting ideas in your own words, to demonstrate understanding of the text. Whichever you use, supporting your ideas with referenced sources makes your writing more credible. In order to avoid plagiarism, you need to make sure you do this correctly.</span></p>\n\n<h2><span style=\"font-size:1.1em;\">What are the differences?</span></h2>\n\n<h3><span style=\"font-size:1.1em;\">Quoting</span></h3>\n\n<ul>\n\t<li><span style=\"font-size:1.1em;\">involves copying short sentences or passages from the original text word-for-word</span></li>\n\t<li><span style=\"font-size:1.1em;\">places copied wording within “quotation marks”&nbsp;</span></li>\n\t<li><span style=\"font-size:1.1em;\">includes an in-text citation&nbsp;using the expected&nbsp;<a href=\"https://writingcenter.uagc.edu/apamlachicago\">formatting style&nbsp;</a>(APA, MLA, etc.)</span></li>\n</ul>\n\n<h3><span style=\"font-size:1.1em;\">Paraphrasing</span></h3>\n\n<ul>\n\t<li><span style=\"font-size:1.1em;\">involves putting a section of a text into your own words</span></li>\n\t<li><span style=\"font-size:1.1em;\">changes the words and phrasing of the original text, but keeps the original meaning of the text</span></li>\n\t<li><span style=\"font-size:1.1em;\">includes an in-text citation using the expected&nbsp;<a href=\"https://writingcenter.uagc.edu/apamlachicago\">formatting style&nbsp;</a>(APA, MLA, etc.)</span></li>\n</ul>\n\n<h3><span style=\"font-size:1.1em;\">Summarising</span></h3>\n\n<ul>\n\t<li><span style=\"font-size:1.1em;\">involves stating the main ideas and findings of a text into your own words</span></li>\n\t<li><span style=\"font-size:1.1em;\">presents a general overview, so is usually much shorter than the original text</span></li>\n\t<li><span style=\"font-size:1.1em;\">includes an in-text citation using the expected&nbsp;<a href=\"https://writingcenter.uagc.edu/apamlachicago\">formatting style&nbsp;</a>(APA, MLA, etc.)</span></li>\n</ul>\n\n<p>&nbsp;</p>\n",
+          "type": "choicematrix",
+          "ui_style": {
+            "stem_numeration": "upper-alpha",
+            "type": "table",
+            "horizontal_lines": false
+          },
+          "validation": {
+            "scoring_type": "partialMatchV2",
+            "valid_response": {
+              "score": 10,
+              "value": [
+                [
+                  0,
+                  1
+                ],
+                [
+                  2
+                ],
+                [
+                  2
+                ],
+                [
+                  0
+                ],
+                [
+                  2
+                ],
+                [
+                  0,
+                  1,
+                  2
+                ],
+                [
+                  0
+                ],
+                [
+                  1
+                ],
+                [
+                  2
+                ],
+                [
+                  0,
+                  1
+                ]
+              ]
+            }
+          },
+          "shuffle_options": true,
+          "multiple_responses": true,
+          "instant_feedback": true
+        },
+        "metadata": {
+          "name": "Choice matrix – labels",
+          "template_reference": "9de82e14-802c-4bea-a635-bf9ad0b622fb"
+        }
+      },
+      "feedbackInfo": [
+        null,
+        null
+      ]
+    }
+  ]
+}

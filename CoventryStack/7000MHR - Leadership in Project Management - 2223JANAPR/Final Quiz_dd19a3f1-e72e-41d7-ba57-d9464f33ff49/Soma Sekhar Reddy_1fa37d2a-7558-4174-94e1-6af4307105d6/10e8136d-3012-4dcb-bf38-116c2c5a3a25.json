@@ -1,0 +1,50 @@
+{
+  "userId": "1fa37d2a-7558-4174-94e1-6af4307105d6",
+  "firstName": "Soma Sekhar Reddy",
+  "lastName": "Chereddy",
+  "assigmentId": "dd19a3f1-e72e-41d7-ba57-d9464f33ff49",
+  "assigmentName": "Final Quiz",
+  "sessionId": "10e8136d-3012-4dcb-bf38-116c2c5a3a25",
+  "email": "chereddys@coventry.ac.uk",
+  "spaceId": "4fb344e0-2505-4dbc-9179-c896b74e9fe2",
+  "spaceName": "7000MHR - Leadership in Project Management - 2223JANAPR",
+  "score": 0,
+  "max_score": 0,
+  "questions": [
+    {
+      "response_id": "10e8136d-3012-4dcb-bf38-116c2c5a3a25_d74b3a6030c83fcf5ee153076270cc28",
+      "question_type": "longtextV2",
+      "dt_score_updated": "2023-03-27T09:24:40Z",
+      "automarkable": false,
+      "attempted": true,
+      "score": null,
+      "max_score": null,
+      "question_reference": "19cfb112-ed0c-48f3-9354-ee3d148b109b",
+      "item_reference": "48b87caa-f852-4992-b089-cc00d5b5a683",
+      "response": {
+        "value": "<p>Lewin's model has a first stage that deals with perception management and seeks to get the involved parties ready for the impending organisational transformation. Similar to Kotter's change model, change leaders must consider how to increase the organization's readiness for change and foster a feeling of urgency.<br><br>Effective change communication is crucial during this phase for gaining the desired team member buy-in and support of the change management team.<br></p>",
+        "wordCount": 69,
+        "type": "string",
+        "apiVersion": "v2.168.23",
+        "revision": 1
+      },
+      "questionInfo": {
+        "type": "longtextV2",
+        "widget_type": "response",
+        "reference": "19cfb112-ed0c-48f3-9354-ee3d148b109b",
+        "data": {
+          "stimulus": "Can you reflect on any change management model",
+          "type": "longtextV2"
+        },
+        "metadata": {
+          "name": "Essay with rich text",
+          "template_reference": "1e6039f8-0676-495d-aca9-108710a51ce5"
+        }
+      },
+      "feedbackInfo": [
+        null,
+        null
+      ]
+    }
+  ]
+}

@@ -1,0 +1,1373 @@
+{
+  "userId": "21bb08e3-a78a-4b9f-bdff-8e2778ae93bd",
+  "firstName": "Xueqian",
+  "lastName": "Fan",
+  "assigmentId": "360ea003-eacb-4120-8fdb-ad4c57f7f86f",
+  "assigmentName": "Using Sources in your Work",
+  "sessionId": "3ff05e4e-238d-4927-98aa-21a2ac70c3d5",
+  "email": "fanx18@coventry.ac.uk",
+  "spaceId": "eccb3434-e130-4250-b8cd-8ba714fcec86",
+  "spaceName": "(Community) Presessional English (PSE London)",
+  "score": 51,
+  "max_score": 64,
+  "questions": [
+    {
+      "response_id": "3ff05e4e-238d-4927-98aa-21a2ac70c3d5_12b6ed64ed3299025bbf054ce3a43f82",
+      "question_type": "association",
+      "dt_score_updated": "2022-07-12T03:39:03Z",
+      "automarkable": true,
+      "attempted": true,
+      "score": 5,
+      "max_score": 5,
+      "question_reference": "eb8f2942-2036-48da-9fae-ffd1abbc181e",
+      "item_reference": "e772cccf-c867-4f6b-8d08-f936b89a79e9",
+      "response": {
+        "value": [
+          "<div><em><span style=\"font-size:1.1em;\">In-text use of source material which shows who said something and when</span></em></div>\n",
+          "<div><em><span style=\"font-size:1.1em;\">A detailed record of the sources used in your work in alphabetical order</span></em></div>\n",
+          "<div><em><span style=\"font-size:1.1em;\">A word used to signal what someone said</span></em></div>\n",
+          "<div><em><span style=\"font-size:1.1em;\">Expressing someone else’s ideas in your own words</span></em></div>\n",
+          "<div><span style=\"font-size:1.1em;\"><em>Using someone else’s exact words in your own work</em></span></div>\n"
+        ],
+        "type": "array",
+        "updatedFormat": true,
+        "apiVersion": "v2.168.22",
+        "revision": 3,
+        "feedbackAttemptsCount": 1
+      },
+      "questionInfo": {
+        "type": "association",
+        "widget_type": "response",
+        "reference": "eb8f2942-2036-48da-9fae-ffd1abbc181e",
+        "data": {
+          "possible_responses": [
+            "<div><em><span style=\"font-size:1.1em;\">In-text use of source material which shows who said something and when</span></em></div>\n",
+            "<div><em><span style=\"font-size:1.1em;\">A detailed record of the sources used in your work in alphabetical order</span></em></div>\n",
+            "<div><em><span style=\"font-size:1.1em;\">A word used to signal what someone said</span></em></div>\n",
+            "<div><em><span style=\"font-size:1.1em;\">Expressing someone else’s ideas in your own words</span></em></div>\n",
+            "<div><span style=\"font-size:1.1em;\"><em>Using someone else’s exact words in your own work</em></span></div>\n"
+          ],
+          "stimulus": "<h2><img class=\"lrn-image-left\" height=\"110\" src=\"https://assets.learnosity.com/organisations/755/f17b055a-819d-4968-8c2d-8421a402488e.png\" width=\"110\"><span style=\"color:#000000;\"><br>\n<strong>Let's start with some </strong></span><u><span style=\"color:#ff8c00;\"><strong>vocabulary</strong></span></u><strong>.</strong><span style=\"color:#000000;\"></span></h2>\n\n<h4><span style=\"font-weight: bold; color: rgb(255, 140, 0);\">► </span><b>Below are some important terms for academic&nbsp;research. </b></h4>\n\n<h4><strong><span style=\"color:#ff8c00;\">► </span>Match the term to its definition.&nbsp;</strong></h4>\n",
+          "stimulus_list": [
+            "<span style=\"font-size:1.1em;\"><strong>Citation</strong></span>",
+            "<span style=\"font-size:1.1em;\"><strong>Reference List</strong></span>",
+            "<span style=\"font-size:1.1em;\"><strong>Reporting Verb</strong></span>",
+            "<span style=\"font-size:1.1em;\"><strong>Paraphrase</strong></span>",
+            "<span style=\"font-size:1.1em;\"><strong>Quotation</strong></span>"
+          ],
+          "type": "association",
+          "validation": {
+            "scoring_type": "partialMatchV2",
+            "valid_response": {
+              "score": 5,
+              "value": [
+                "<div><em><span style=\"font-size:1.1em;\">In-text use of source material which shows who said something and when</span></em></div>\n",
+                "<div><em><span style=\"font-size:1.1em;\">A detailed record of the sources used in your work in alphabetical order</span></em></div>\n",
+                "<div><em><span style=\"font-size:1.1em;\">A word used to signal what someone said</span></em></div>\n",
+                "<div><em><span style=\"font-size:1.1em;\">Expressing someone else’s ideas in your own words</span></em></div>\n",
+                "<div><span style=\"font-size:1.1em;\"><em>Using someone else’s exact words in your own work</em></span></div>\n"
+              ]
+            }
+          },
+          "ui_style": {
+            "show_drag_handle": false
+          },
+          "instant_feedback": true,
+          "shuffle_options": true
+        },
+        "metadata": {
+          "name": "Match list",
+          "template_reference": "1fa22aac-1f88-47f7-941b-3c77759549e6"
+        }
+      },
+      "feedbackInfo": [
+        null,
+        null
+      ]
+    },
+    {
+      "response_id": "3ff05e4e-238d-4927-98aa-21a2ac70c3d5_70b03e9373192893dcaace482e9a30c6",
+      "question_type": "tokenhighlight",
+      "dt_score_updated": "2022-07-12T03:39:45Z",
+      "automarkable": true,
+      "attempted": true,
+      "score": 0,
+      "max_score": 1,
+      "question_reference": "4d068ae4-4420-456a-a414-7bad02088237",
+      "item_reference": "e772cccf-c867-4f6b-8d08-f936b89a79e9",
+      "response": {
+        "value": [
+          1,
+          6,
+          8
+        ],
+        "type": "array",
+        "apiVersion": "v2.168.22",
+        "revision": 2
+      },
+      "questionInfo": {
+        "type": "tokenhighlight",
+        "widget_type": "response",
+        "reference": "4d068ae4-4420-456a-a414-7bad02088237",
+        "data": {
+          "template": "<span class=\"lrn_token\"><span style=\"font-size:1.1em;\"><span style=\"line-height:107%\"><span style=\"font-family:&quot;Calibri&quot;,sans-serif\">The flow of international students is defined as the movement from one country to another in order to receive an education at any level</span></span></span></span><span style=\"font-size:1.1em;\"><span style=\"line-height:107%\"><span style=\"font-family:&quot;Calibri&quot;,sans-serif\"> <span class=\"lrn_token\">(UNESCO, 2015)</span>. <span class=\"lrn_token\">Tremblay (2005)</span> <span class=\"lrn_token\">points out</span> that <span class=\"lrn_token\">studies of this area focus on <em>push</em> and <em>pull </em>factors</span>, in other words, the reasons that motivate students to study abroad. <span class=\"lrn_token\">Pull factors are positive reasons that international education offers; such as prestige, flexibility and facilities</span> <span class=\"lrn_token\">(Mazzarol &amp; Soutar, 2002)</span>. Whereas push factors are issues <span class=\"lrn_token\">“within the students home country that initiate the student’s decision to study overseas”</span> <span class=\"lrn_token\">(Wilkins, 2012, p. 3)</span>. These factors are usually the negative of pull factors, for example: lack of prestige, lack of flexibility and lower quality facilities. An understanding of these factors is key to understanding and trying to manage the overall flow students.&nbsp; </span></span></span>",
+          "tokenization": "custom",
+          "type": "tokenhighlight",
+          "validation": {
+            "scoring_type": "partialMatchV2",
+            "valid_response": {
+              "score": 1,
+              "value": [
+                1,
+                2,
+                6,
+                8
+              ]
+            }
+          },
+          "max_selection": 4,
+          "stimulus": "<h2><span style=\"color:#000080;\"><strong>Using Sources</strong></span></h2>\n\n<p><img height=\"197\" src=\"https://assets.learnosity.com/organisations/755/5d4bc138-c5bc-409a-bccb-9f714ed5e7b7.png\" width=\"150\"></p>\n\n<h4><strong>Review the extract from an article about \"<span style=\"color:#000080;\">International Student Flow</span>\" and answer the questions.&nbsp;</strong></h4>\n\n<p>&nbsp;</p>\n\n<div class=\"lrn-well\"><span style=\"font-size:1.3em;\"><strong>1. Highlight the <u>in-text&nbsp;citations</u>.</strong></span></div>\n",
+          "instant_feedback": true
+        },
+        "metadata": {
+          "name": "Token highlight",
+          "template_reference": "47f0db98-79e8-4273-946f-90faf4a2ae49"
+        }
+      },
+      "feedbackInfo": [
+        null,
+        null
+      ]
+    },
+    {
+      "response_id": "3ff05e4e-238d-4927-98aa-21a2ac70c3d5_98ce1376841ce8bff9907916303bcca8",
+      "question_type": "mcq",
+      "dt_score_updated": "2022-07-12T03:40:42Z",
+      "automarkable": true,
+      "attempted": true,
+      "score": 1,
+      "max_score": 1,
+      "question_reference": "7463f687-ea43-4a7f-8fa6-1f30810688ed",
+      "item_reference": "e772cccf-c867-4f6b-8d08-f936b89a79e9",
+      "response": {
+        "value": [
+          "0"
+        ],
+        "type": "array",
+        "apiVersion": "v2.168.22",
+        "revision": 1,
+        "feedbackAttemptsCount": 2
+      },
+      "questionInfo": {
+        "type": "mcq",
+        "widget_type": "response",
+        "reference": "7463f687-ea43-4a7f-8fa6-1f30810688ed",
+        "data": {
+          "options": [
+            {
+              "label": "One",
+              "value": "0"
+            },
+            {
+              "label": "Two",
+              "value": "1"
+            },
+            {
+              "label": "Three",
+              "value": "2"
+            },
+            {
+              "label": "Four",
+              "value": "3"
+            }
+          ],
+          "stimulus": "<div class=\"lrn-well\"><span style=\"font-size:1.3em;\"><strong>2. How many <u>quotations</u> are used in the text?&nbsp;</strong></span></div>\n",
+          "type": "mcq",
+          "validation": {
+            "scoring_type": "exactMatch",
+            "valid_response": {
+              "score": 1,
+              "value": [
+                "0"
+              ]
+            }
+          },
+          "ui_style": {
+            "type": "horizontal"
+          },
+          "instant_feedback": true
+        },
+        "metadata": {
+          "name": "Multiple choice – standard",
+          "template_reference": "9e8149bd-e4d8-4dd6-a751-1a113a4b9163"
+        }
+      },
+      "feedbackInfo": [
+        null,
+        null
+      ]
+    },
+    {
+      "response_id": "3ff05e4e-238d-4927-98aa-21a2ac70c3d5_69fbb6905e7e4169a3f3a2939679ae0b",
+      "question_type": "mcq",
+      "dt_score_updated": "2022-07-12T03:41:24Z",
+      "automarkable": true,
+      "attempted": true,
+      "score": 1,
+      "max_score": 1,
+      "question_reference": "4226247d-e843-47a9-b3d2-326f15bda155",
+      "item_reference": "e772cccf-c867-4f6b-8d08-f936b89a79e9",
+      "response": {
+        "value": [
+          "2"
+        ],
+        "type": "array",
+        "apiVersion": "v2.168.22",
+        "revision": 1,
+        "feedbackAttemptsCount": 1
+      },
+      "questionInfo": {
+        "type": "mcq",
+        "widget_type": "response",
+        "reference": "4226247d-e843-47a9-b3d2-326f15bda155",
+        "data": {
+          "options": [
+            {
+              "label": "One",
+              "value": "0"
+            },
+            {
+              "label": "Two",
+              "value": "1"
+            },
+            {
+              "label": "Three",
+              "value": "2"
+            },
+            {
+              "label": "Four",
+              "value": "3"
+            }
+          ],
+          "stimulus": "<div class=\"lrn-well\"><span style=\"font-size:1.3em;\"><strong>3. How many <u>paraphrases</u> are used in the text?&nbsp;</strong></span></div>\n",
+          "type": "mcq",
+          "validation": {
+            "scoring_type": "exactMatch",
+            "valid_response": {
+              "score": 1,
+              "value": [
+                "2"
+              ]
+            }
+          },
+          "ui_style": {
+            "type": "horizontal"
+          },
+          "instant_feedback": true
+        },
+        "metadata": {
+          "name": "Multiple choice – standard",
+          "template_reference": "9e8149bd-e4d8-4dd6-a751-1a113a4b9163"
+        }
+      },
+      "feedbackInfo": [
+        null,
+        null
+      ]
+    },
+    {
+      "response_id": "3ff05e4e-238d-4927-98aa-21a2ac70c3d5_a38ada1c4fe78ea2cb0dd5b05bad1610",
+      "question_type": "choicematrix",
+      "dt_score_updated": "2022-07-12T03:42:49Z",
+      "automarkable": true,
+      "attempted": true,
+      "score": 3,
+      "max_score": 5,
+      "question_reference": "0c3de232-555f-4bf3-8674-a2332fe1dfc6",
+      "item_reference": "e772cccf-c867-4f6b-8d08-f936b89a79e9",
+      "response": {
+        "value": [
+          [
+            0
+          ],
+          [
+            2
+          ],
+          [
+            1
+          ],
+          [
+            0
+          ]
+        ],
+        "type": "array",
+        "apiVersion": "v2.168.22",
+        "revision": 3,
+        "feedbackAttemptsCount": 1
+      },
+      "questionInfo": {
+        "type": "choicematrix",
+        "widget_type": "response",
+        "reference": "0c3de232-555f-4bf3-8674-a2332fe1dfc6",
+        "data": {
+          "options": [
+            "<span style=\"color:#ff0000;\"><strong>Quotation</strong></span>",
+            "<span style=\"color:#ff8c00;\"><strong>Paraphrase</strong></span>",
+            "<span style=\"color:#008000;\"><strong>Reporting Verb</strong></span>"
+          ],
+          "stems": [
+            "<span style=\"font-size:1.1em;\">(UNESCO, 2015)</span>",
+            "<span style=\"font-size:1.1em;\">(Tremblay, 2005)</span>",
+            "<span style=\"font-size:1.1em;\">(Mazzarol &amp; Soutar, 2002)</span>",
+            "<span style=\"font-size:1.1em;\">(Wilkins, 2012)</span>"
+          ],
+          "stimulus": "<div class=\"lrn-well\"><span style=\"font-size:1.3em;\"><strong>4. Review the table below. The first column shows the source in the text - the other columns show how the source is used. <em>Is the source&nbsp;<span style=\"color:#ff0000;\">quoted</span></em>?<em>&nbsp;<span style=\"color:#ff8c00;\">Paraphrased</span></em>? <em>Does it use a <span style=\"color:#008000;\">reporting verb</span></em>? <u>Choose the correct options</u>.&nbsp;</strong></span></div>\n",
+          "type": "choicematrix",
+          "validation": {
+            "scoring_type": "partialMatchV2",
+            "valid_response": {
+              "score": 5,
+              "value": [
+                [
+                  0
+                ],
+                [
+                  1,
+                  2
+                ],
+                [
+                  1
+                ],
+                [
+                  0
+                ]
+              ]
+            }
+          },
+          "ui_style": {
+            "type": "table",
+            "horizontal_lines": false
+          },
+          "instant_feedback": true,
+          "multiple_responses": true
+        },
+        "metadata": {
+          "name": "Choice matrix – standard",
+          "template_reference": "14b7af71-e146-4747-aae5-ca71618a5038"
+        }
+      },
+      "feedbackInfo": [
+        null,
+        null
+      ]
+    },
+    {
+      "response_id": "3ff05e4e-238d-4927-98aa-21a2ac70c3d5_88926114d898265dc59b57d2b28773ad",
+      "question_type": "clozeassociation",
+      "dt_score_updated": "2022-07-12T03:43:17Z",
+      "automarkable": true,
+      "attempted": true,
+      "score": 1,
+      "max_score": 1,
+      "question_reference": "3aade939-cb93-4cb6-8dcd-ba6c035440d5",
+      "item_reference": "80210b22-bb66-45a1-a8da-aadd4f98ac20",
+      "response": {
+        "value": [
+          "(",
+          "Jones",
+          ",",
+          "2019",
+          ")"
+        ],
+        "type": "array",
+        "apiVersion": "v2.168.22",
+        "revision": 2,
+        "feedbackAttemptsCount": 1
+      },
+      "questionInfo": {
+        "type": "clozeassociation",
+        "widget_type": "response",
+        "reference": "3aade939-cb93-4cb6-8dcd-ba6c035440d5",
+        "data": {
+          "possible_responses": [
+            "(",
+            "Jones",
+            ",",
+            "2019",
+            ")",
+            "p.",
+            "48"
+          ],
+          "response_container": {
+            "pointer": "left"
+          },
+          "stimulus": "<h2><span style=\"color:#a52a2a;\"><strong>In-text Citations: Format</strong></span></h2>\n\n<p><img height=\"145\" src=\"https://assets.learnosity.com/organisations/755/03a56d05-75b0-46d8-b3bd-d06d58d86a4d.jpg\" width=\"200\"></p>\n\n<h4>&nbsp;</h4>\n\n<h4><strong>Citations must contain certain features and those features <u>must</u> be in the correct order. Review the examples below and drag and drop your answers to create accurate citations.&nbsp;</strong></h4>\n\n<p>&nbsp;</p>\n\n<div class=\"lrn-well\"><span style=\"font-size:1.3em;\"><strong>1. This citation is for a <span style=\"color:#0000cd;\">paraphrase </span>and is used <span style=\"color:#008000;\">after </span>the source</strong></span></div>\n",
+          "template": "{{response}}{{response}}{{response}}&nbsp;{{response}}{{response}}",
+          "type": "clozeassociation",
+          "case_sensitive": true,
+          "validation": {
+            "scoring_type": "exactMatch",
+            "valid_response": {
+              "score": 1,
+              "value": [
+                "(",
+                "Jones",
+                ",",
+                "2019",
+                ")"
+              ]
+            }
+          },
+          "ui_style": {
+            "show_drag_handle": false
+          },
+          "instant_feedback": true,
+          "shuffle_options": true
+        },
+        "metadata": {
+          "name": "Cloze with drag & drop",
+          "template_reference": "51a8c1e7-f34f-4faf-b211-da458e891fcb"
+        }
+      },
+      "feedbackInfo": [
+        null,
+        null
+      ]
+    },
+    {
+      "response_id": "3ff05e4e-238d-4927-98aa-21a2ac70c3d5_bddad7af17e4d467b688f8d619aa4db9",
+      "question_type": "clozeassociation",
+      "dt_score_updated": "2022-07-12T03:44:16Z",
+      "automarkable": true,
+      "attempted": true,
+      "score": 1,
+      "max_score": 1,
+      "question_reference": "e25e0142-4223-4428-8ae8-50a9f040b127",
+      "item_reference": "80210b22-bb66-45a1-a8da-aadd4f98ac20",
+      "response": {
+        "value": [
+          "Stephenson",
+          "(2007,",
+          "p.92)",
+          "points",
+          "out..."
+        ],
+        "type": "array",
+        "apiVersion": "v2.168.22",
+        "revision": 2,
+        "feedbackAttemptsCount": 2
+      },
+      "questionInfo": {
+        "type": "clozeassociation",
+        "widget_type": "response",
+        "reference": "e25e0142-4223-4428-8ae8-50a9f040b127",
+        "data": {
+          "possible_responses": [
+            "Stephenson",
+            "(2007,",
+            "p.92)",
+            "points",
+            "out..."
+          ],
+          "response_container": {
+            "pointer": "left"
+          },
+          "stimulus": "<div class=\"lrn-well\"><span style=\"font-size:1.3em;\"><strong>2. This citation is for a <span style=\"color:#ff8c00;\">quotation&nbsp;</span>and is used <font color=\"#ff0000\">before&nbsp;</font>the source.</strong></span></div>\n",
+          "template": "{{response}}&nbsp;{{response}}&nbsp;{{response}}&nbsp;{{response}}&nbsp;{{response}}",
+          "type": "clozeassociation",
+          "case_sensitive": true,
+          "validation": {
+            "scoring_type": "exactMatch",
+            "valid_response": {
+              "score": 1,
+              "value": [
+                "Stephenson",
+                "(2007,",
+                "p.92)",
+                "points",
+                "out..."
+              ]
+            }
+          },
+          "ui_style": {
+            "show_drag_handle": false
+          },
+          "instant_feedback": true,
+          "shuffle_options": true
+        },
+        "metadata": {
+          "name": "Cloze with drag & drop",
+          "template_reference": "51a8c1e7-f34f-4faf-b211-da458e891fcb"
+        }
+      },
+      "feedbackInfo": [
+        null,
+        null
+      ]
+    },
+    {
+      "response_id": "3ff05e4e-238d-4927-98aa-21a2ac70c3d5_f3f247d90a658f50bde03942a900885b",
+      "question_type": "clozeassociation",
+      "dt_score_updated": "2022-07-12T03:44:30Z",
+      "automarkable": true,
+      "attempted": true,
+      "score": 1,
+      "max_score": 1,
+      "question_reference": "7f41e224-f808-47e0-a719-8f3c5351e8c0",
+      "item_reference": "80210b22-bb66-45a1-a8da-aadd4f98ac20",
+      "response": {
+        "value": [
+          "Lin &amp;",
+          "Hindmarsh",
+          "(2006)",
+          "argue",
+          "that..."
+        ],
+        "type": "array",
+        "apiVersion": "v2.168.22",
+        "revision": 1,
+        "feedbackAttemptsCount": 1
+      },
+      "questionInfo": {
+        "type": "clozeassociation",
+        "widget_type": "response",
+        "reference": "7f41e224-f808-47e0-a719-8f3c5351e8c0",
+        "data": {
+          "possible_responses": [
+            "Lin &amp;",
+            "Hindmarsh",
+            "(2006)",
+            "argue",
+            "that..."
+          ],
+          "response_container": {
+            "pointer": "left"
+          },
+          "stimulus": "<div class=\"lrn-well\"><span style=\"font-size:1.3em;\"><strong>3. This citation is for a <span style=\"color:#0000cd;\">paraphrase&nbsp;</span>and is used <font color=\"#ff0000\">before&nbsp;</font>the source.</strong></span></div>\n",
+          "template": "{{response}}&nbsp;{{response}}&nbsp;{{response}}&nbsp;{{response}}&nbsp;{{response}}",
+          "type": "clozeassociation",
+          "case_sensitive": true,
+          "validation": {
+            "scoring_type": "exactMatch",
+            "valid_response": {
+              "score": 1,
+              "value": [
+                "Lin &amp;",
+                "Hindmarsh",
+                "(2006)",
+                "argue",
+                "that..."
+              ]
+            }
+          },
+          "ui_style": {
+            "show_drag_handle": false
+          },
+          "instant_feedback": true,
+          "shuffle_options": true
+        },
+        "metadata": {
+          "name": "Cloze with drag & drop",
+          "template_reference": "51a8c1e7-f34f-4faf-b211-da458e891fcb"
+        }
+      },
+      "feedbackInfo": [
+        null,
+        null
+      ]
+    },
+    {
+      "response_id": "3ff05e4e-238d-4927-98aa-21a2ac70c3d5_11eb6ca9f1b7dc32f529c411e887c1d7",
+      "question_type": "clozeassociation",
+      "dt_score_updated": "2022-07-12T03:44:45Z",
+      "automarkable": true,
+      "attempted": true,
+      "score": 1,
+      "max_score": 1,
+      "question_reference": "f1c1cf57-3b5f-4a96-a790-56b34efae156",
+      "item_reference": "80210b22-bb66-45a1-a8da-aadd4f98ac20",
+      "response": {
+        "value": [
+          "(",
+          "Ackley &amp; Stubbs",
+          ",",
+          "2018,",
+          "p. 146",
+          ")"
+        ],
+        "type": "array",
+        "apiVersion": "v2.168.22",
+        "revision": 1
+      },
+      "questionInfo": {
+        "type": "clozeassociation",
+        "widget_type": "response",
+        "reference": "f1c1cf57-3b5f-4a96-a790-56b34efae156",
+        "data": {
+          "possible_responses": [
+            "(",
+            "Ackley &amp; Stubbs",
+            ",",
+            "2018,",
+            "p. 146",
+            ")"
+          ],
+          "response_container": {
+            "pointer": "left"
+          },
+          "stimulus": "<div class=\"lrn-well\"><span style=\"font-size:1.3em;\"><strong>4. This citation is for a <span style=\"color:#ff8c00\">quotation&nbsp;</span>and is used <span style=\"color:#008000;\">after&nbsp;</span>the source.</strong></span></div>\n",
+          "template": "<p>{{response}}&nbsp;{{response}}&nbsp;{{response}}&nbsp;{{response}}&nbsp;{{response}}&nbsp;{{response}}</p>\n\n<p>&nbsp;</p>\n",
+          "type": "clozeassociation",
+          "case_sensitive": true,
+          "validation": {
+            "scoring_type": "exactMatch",
+            "valid_response": {
+              "score": 1,
+              "value": [
+                "(",
+                "Ackley &amp; Stubbs",
+                ",",
+                "2018,",
+                "p. 146",
+                ")"
+              ]
+            }
+          },
+          "ui_style": {
+            "show_drag_handle": false
+          },
+          "instant_feedback": true,
+          "shuffle_options": true
+        },
+        "metadata": {
+          "name": "Cloze with drag & drop",
+          "template_reference": "51a8c1e7-f34f-4faf-b211-da458e891fcb"
+        }
+      },
+      "feedbackInfo": [
+        null,
+        null
+      ]
+    },
+    {
+      "response_id": "3ff05e4e-238d-4927-98aa-21a2ac70c3d5_867a7af46c77f9629e4a39d9569c95b9",
+      "question_type": "clozeassociation",
+      "dt_score_updated": "2022-07-12T03:47:37Z",
+      "automarkable": true,
+      "attempted": true,
+      "score": 8,
+      "max_score": 8,
+      "question_reference": "280be15b-af45-4fdd-b377-087e3eb354e2",
+      "item_reference": "5ad90c30-d28e-4581-b5c2-75975690a177",
+      "response": {
+        "value": [
+          "<strong>PARAPHRASE</strong>",
+          "<strong>QUOTE</strong>",
+          "short",
+          "quotation marks (\" \")",
+          "MUST NOT",
+          "MUST&nbsp;",
+          "<span style=\"font-size:1.1em;\">in-text citation of a&nbsp;</span>quotation",
+          "<span style=\"font-size:1.1em;\"> in-text citation of a&nbsp;</span>paraphrase"
+        ],
+        "type": "array",
+        "apiVersion": "v2.168.22",
+        "revision": 5,
+        "feedbackAttemptsCount": 1
+      },
+      "questionInfo": {
+        "type": "clozeassociation",
+        "widget_type": "response",
+        "reference": "280be15b-af45-4fdd-b377-087e3eb354e2",
+        "data": {
+          "response_container": {
+            "pointer": "left"
+          },
+          "stimulus": "<h3><b id=\"yui_3_17_2_1_1627824014187_3125\">Let's analyse the difference between a&nbsp;<span style=\"color:#0000ff;\"><u id=\"yui_3_17_2_1_1627824014187_3126\">paraphrase</u>&nbsp;</span>and a&nbsp;<span style=\"color:#b22222;\"><u id=\"yui_3_17_2_1_1627824014187_3128\">quotation</u></span>.</b></h3>\n\n<p><img class=\"lrn-image-left\" src=\"https://assets.learnosity.com/organisations/755/7aeeb9af-eead-46b3-9130-2f9aaafa6d31.png\" width=\"150\" height=\"150\"><img class=\"lrn-image-left\" src=\"https://assets.learnosity.com/organisations/755/2bfc1866-9326-4872-937c-f50bca016ce5.jpg\" width=\"173\" height=\"150\"></p>\n\n<p>&nbsp;</p>\n\n<p>&nbsp;</p>\n\n<p>&nbsp;</p>\n\n<p>&nbsp;</p>\n\n<p>&nbsp;</p>\n\n<p>&nbsp;</p>\n\n<p><span style=\"color:#b22222;\"><b>► </b></span><span style=\"color:#000000;\"><b>You can find all the information about APA referencing&nbsp;in your&nbsp;</b></span><span style=\"color:#b22222;\"><b>APA Referencing Short Guide&nbsp;</b></span><span style=\"color:#000000;\"><b>(in your OneNote Class Notebook, in the section Class Library)</b></span><span style=\"color:#b22222;\"></span></p>\n",
+          "template": "<h5><span style=\"font-size:1em;\">{{response}}</span><span style=\"font-size:1.1em;\">: To say the same idea in&nbsp;<b id=\"yui_3_17_2_1_1627824014187_3491\"><u id=\"yui_3_17_2_1_1627824014187_3492\">different</u>&nbsp;</b>words.</span><span style=\"font-size:1em;\"><br>\n{{response}}</span><span style=\"font-size:1.1em;\">: To say the same idea in the&nbsp;<b id=\"yui_3_17_2_1_1627824014187_3499\"><u id=\"yui_3_17_2_1_1627824014187_3500\">same</u>&nbsp;</b>words.&nbsp;&nbsp;</span><span style=\"font-size:1em;\"></span></h5>\n\n<ul>\n\t<li style=\"margin-left: 40px;\"><span style=\"font-size:1em;\">You should use quotes for {{response}} sentences only.&nbsp;</span></li>\n\t<li style=\"margin-left: 40px;\"><span style=\"font-size:1em;\"></span><span style=\"font-size:1em;\">You must use {{response}}&nbsp;at the beginning and the end of the quote.</span>​​​​</li>\n</ul>\n\n<h5><span style=\"color:#0000ff;\"><b>Page numbers in in-text citations:&nbsp;</b></span></h5>\n\n<ul>\n\t<li><span style=\"font-size:1.1em;\">The in-text citation of a&nbsp;paraphrase</span>&nbsp;{{response}}&nbsp;<span style=\"font-size:1.1em;\">include page numbers.</span></li>\n\t<li><span style=\"font-size:1.1em;\">The in-text citation of a&nbsp;quotation</span>&nbsp;{{response}}<span style=\"font-size:1.1em;\">&nbsp;include&nbsp;page numbers.</span></li>\n</ul>\n\n<h5 id=\"yui_3_17_2_1_1627824014187_3330\"><span style=\"color:#0000ff;\"><strong>Example:</strong></span></h5>\n\n<ul>\n\t<li><span style=\"font-size:1.1em;\">(Jackson 2020, p25)&nbsp;→ This is the</span>&nbsp;{{response}}</li>\n\t<li><span style=\"font-size:1.1em;\">(Jackson 2020)&nbsp;→ This is the </span>{{response}}</li>\n</ul>\n",
+          "type": "clozeassociation",
+          "case_sensitive": true,
+          "validation": {
+            "scoring_type": "partialMatchV2",
+            "valid_response": {
+              "score": 8,
+              "value": [
+                "<strong>PARAPHRASE</strong>",
+                "<strong>QUOTE</strong>",
+                "short",
+                "quotation marks (\" \")",
+                "MUST NOT",
+                "MUST&nbsp;",
+                "<span style=\"font-size:1.1em;\">in-text citation of a&nbsp;</span>quotation",
+                "<span style=\"font-size:1.1em;\"> in-text citation of a&nbsp;</span>paraphrase"
+              ]
+            }
+          },
+          "shuffle_options": true,
+          "possible_responses": [
+            "<strong>PARAPHRASE</strong>",
+            "<strong>QUOTE</strong>",
+            "short",
+            "quotation marks (\" \")",
+            "MUST&nbsp;",
+            "MUST NOT",
+            "<span style=\"font-size:1.1em;\"> in-text citation of a&nbsp;</span>paraphrase",
+            "<span style=\"font-size:1.1em;\">in-text citation of a&nbsp;</span>quotation"
+          ],
+          "instant_feedback": true,
+          "ui_style": {
+            "show_drag_handle": false
+          }
+        },
+        "metadata": {
+          "name": "Cloze with drag & drop",
+          "template_reference": "51a8c1e7-f34f-4faf-b211-da458e891fcb"
+        }
+      },
+      "feedbackInfo": [
+        null,
+        null
+      ]
+    },
+    {
+      "response_id": "3ff05e4e-238d-4927-98aa-21a2ac70c3d5_4adaa317d50c3936b47ad98478039218",
+      "question_type": "choicematrix",
+      "dt_score_updated": "2022-07-12T03:48:20Z",
+      "automarkable": true,
+      "attempted": true,
+      "score": 7,
+      "max_score": 7,
+      "question_reference": "9c682ed2-cc6f-4b95-868b-cee4193f7d0b",
+      "item_reference": "5ad90c30-d28e-4581-b5c2-75975690a177",
+      "response": {
+        "value": [
+          [
+            1
+          ],
+          [
+            0
+          ],
+          [
+            0
+          ],
+          [
+            1
+          ],
+          [
+            1
+          ],
+          [
+            1
+          ],
+          [
+            0
+          ]
+        ],
+        "type": "array",
+        "apiVersion": "v2.168.22",
+        "revision": 3,
+        "feedbackAttemptsCount": 2
+      },
+      "questionInfo": {
+        "type": "choicematrix",
+        "widget_type": "response",
+        "reference": "9c682ed2-cc6f-4b95-868b-cee4193f7d0b",
+        "data": {
+          "options": [
+            "<span style=\"font-size:1.1em;\"><strong>Quote&nbsp;</strong></span>",
+            "<span style=\"font-size:1.1em;\"><strong>Paraphrase&nbsp;</strong></span>"
+          ],
+          "stems": [
+            "You want to show you understand the main ideas of the author",
+            "The original wording is strong and engaging",
+            "You want to present specific ideas or claims of the author",
+            "You summarise information which matches your own ideas",
+            "You need to simplify complex ideas",
+            "You need your own 'voice'",
+            "You need to be accurate (in under 10 words!)"
+          ],
+          "stimulus": "<h2><span style=\"color:#0000ff;\"><strong>To paraphrase or quote...</strong></span></h2>\n\n<p><img height=\"150\" src=\"https://assets.learnosity.com/organisations/755/7aeeb9af-eead-46b3-9130-2f9aaafa6d31.png\" width=\"150\" />&nbsp; <img height=\"150\" src=\"https://assets.learnosity.com/organisations/755/d15ca106-10e0-430e-b401-6be74702e7a1.jpg\" width=\"92\" />&nbsp;<img height=\"150\" src=\"https://assets.learnosity.com/organisations/755/2bfc1866-9326-4872-937c-f50bca016ce5.jpg\" width=\"173\" /></p>\n\n<h4><strong>When using sources, you should decide whether it is better <span style=\"color:#b22222;\">to quote</span> or <span style=\"color:#0000ff;\">paraphrase </span>the source.</strong></h4>\n\n<p>&nbsp;</p>\n\n<p>&nbsp;</p>\n\n<div class=\"lrn-well\"><span style=\"font-size:1.3em;\"><strong>Read the statements below and decide if you should <span style=\"color:#a52a2a;\">quote</span> or <span style=\"color:#0000ff;\">paraphrase</span>:<span style=\"color:#0000ff;\"></span></strong></span></div>\n",
+          "type": "choicematrix",
+          "validation": {
+            "scoring_type": "partialMatchV2",
+            "valid_response": {
+              "score": 7,
+              "value": [
+                [
+                  1
+                ],
+                [
+                  0
+                ],
+                [
+                  0
+                ],
+                [
+                  1
+                ],
+                [
+                  1
+                ],
+                [
+                  1
+                ],
+                [
+                  0
+                ]
+              ]
+            }
+          },
+          "ui_style": {
+            "type": "table",
+            "horizontal_lines": false
+          },
+          "instant_feedback": true
+        },
+        "metadata": {
+          "name": "Choice matrix – standard",
+          "template_reference": "14b7af71-e146-4747-aae5-ca71618a5038"
+        }
+      },
+      "feedbackInfo": [
+        null,
+        null
+      ]
+    },
+    {
+      "response_id": "3ff05e4e-238d-4927-98aa-21a2ac70c3d5_24dd320bfed29d0b2b32bae2da8e58e6",
+      "question_type": "clozedropdown",
+      "dt_score_updated": "2022-07-12T03:52:22Z",
+      "automarkable": true,
+      "attempted": true,
+      "score": 9,
+      "max_score": 9,
+      "question_reference": "5a6bb566-3bff-4def-9f0d-db26b1a0ab5a",
+      "item_reference": "6d4ea633-61a0-4f41-90e7-0d36ef2c8e9a",
+      "response": {
+        "value": [
+          "Read the paragraph carefully",
+          "Use a dictionary or thesaurus",
+          "If you can’t find a synonym",
+          "Try changing the word class",
+          "change a verb into a noun",
+          "change grammar structures",
+          "active sentences to passives"
+        ],
+        "type": "array",
+        "apiVersion": "v2.168.22",
+        "revision": 6,
+        "feedbackAttemptsCount": 3
+      },
+      "questionInfo": {
+        "type": "clozedropdown",
+        "widget_type": "response",
+        "reference": "5a6bb566-3bff-4def-9f0d-db26b1a0ab5a",
+        "data": {
+          "possible_responses": [
+            [
+              "Read the paragraph carefully",
+              "Use a dictionary or thesaurus",
+              "If you can’t find a synonym",
+              "Try changing the word class",
+              "change grammar structures",
+              "active sentences to passives",
+              "change a verb into a noun"
+            ],
+            [
+              "Read the paragraph carefully",
+              "Use a dictionary or thesaurus",
+              "If you can’t find a synonym",
+              "Try changing the word class",
+              "change grammar structures",
+              "active sentences to passives",
+              "change a verb into a noun"
+            ],
+            [
+              "Read the paragraph carefully",
+              "Use a dictionary or thesaurus",
+              "If you can’t find a synonym",
+              "Try changing the word class",
+              "change grammar structures",
+              "active sentences to passives",
+              "change a verb into a noun"
+            ],
+            [
+              "Read the paragraph carefully",
+              "Use a dictionary or thesaurus",
+              "If you can’t find a synonym",
+              "Try changing the word class",
+              "change grammar structures",
+              "active sentences to passives",
+              "change a verb into a noun"
+            ],
+            [
+              "Read the paragraph carefully",
+              "Use a dictionary or thesaurus",
+              "If you can’t find a synonym",
+              "Try changing the word class",
+              "change grammar structures",
+              "active sentences to passives",
+              "change a verb into a noun"
+            ],
+            [
+              "Read the paragraph carefully",
+              "Use a dictionary or thesaurus",
+              "If you can’t find a synonym",
+              "Try changing the word class",
+              "change grammar structures",
+              "active sentences to passives",
+              "change a verb into a noun"
+            ],
+            [
+              "Read the paragraph carefully",
+              "Use a dictionary or thesaurus",
+              "If you can’t find a synonym",
+              "Try changing the word class",
+              "change grammar structures",
+              "active sentences to passives",
+              "change a verb into a noun"
+            ]
+          ],
+          "response_container": {
+            "pointer": "left"
+          },
+          "stimulus": "<h2><b id=\"yui_3_17_2_1_1635892190966_123\">Here are some&nbsp;<span style=\"color:#0000ff;\">Paraphrasing Strategies</span>&nbsp;to help you express the same idea in different words.&nbsp;</b></h2>\n\n<p><img height=\"169\" src=\"https://assets.learnosity.com/organisations/755/cd6c3657-9b1b-4730-b7d8-17a288af0396.jpg\" width=\"350\"></p>\n\n<h4><b><span style=\"color:#0000ff;\">► </span></b><b>Chose an option from the drop down to complete the strategies below.</b></h4>\n\n<ol id=\"yui_3_17_2_1_1627824652812_3117\">\n</ol>\n",
+          "template": "<ol id=\"yui_3_17_2_1_1627824652812_3117\">\n\t<li id=\"yui_3_17_2_1_1627824652812_3118\"><span style=\"font-size:1.3em;\"></span><span style=\"font-size:1.1em;\">{{response}}</span><span style=\"font-size:1.3em;\">&nbsp;and underline key words and ideas.</span></li>\n\t<li id=\"yui_3_17_2_1_1627824652812_3246\"><span style=\"font-size:1.3em;\"></span><span style=\"font-size:1.1em;\">{{response}}</span><span style=\"font-size:1.3em;\"> to find synonyms of the key words.</span></li>\n\t<li id=\"yui_3_17_2_1_1627824652812_3249\"><span style=\"font-size:1.3em;\"></span><span style=\"font-size:1.1em;\">{{response}}</span><span style=\"font-size:1.3em;\">, try an antonym and change the rest of the sentence accordingly.</span></li>\n\t<li id=\"yui_3_17_2_1_1627824652812_3252\"><span style=\"font-size:1.3em;\"></span><span style=\"font-size:1.1em;\">{{response}}</span><span style=\"font-size:1.3em;\">&nbsp;if you can’t find a good synonym. For example, </span><span style=\"font-size:1.1em;\">{{response}}</span><span style=\"font-size:1.3em;\">.</span></li>\n\t<li id=\"yui_3_17_2_1_1627824652812_3195\"><span style=\"font-size:1.3em;\">Remember to </span><span style=\"font-size:1.1em;\">{{response}}</span><span style=\"font-size:1.3em;\"> in addition to changing individual words. For example, change&nbsp;</span><span style=\"font-size:1.1em;\">{{response}}</span><span style=\"font-size:1.3em;\">.</span></li>\n</ol>\n",
+          "type": "clozedropdown",
+          "case_sensitive": true,
+          "validation": {
+            "scoring_type": "exactMatch",
+            "valid_response": {
+              "score": 9,
+              "value": [
+                "Read the paragraph carefully",
+                "Use a dictionary or thesaurus",
+                "If you can’t find a synonym",
+                "Try changing the word class",
+                "change a verb into a noun",
+                "change grammar structures",
+                "active sentences to passives"
+              ]
+            }
+          },
+          "shuffle_options": true,
+          "instant_feedback": true
+        },
+        "metadata": {
+          "name": "Cloze with drop down",
+          "template_reference": "2fbba51b-e35e-441f-83c7-2662e2e81fa6"
+        }
+      },
+      "feedbackInfo": [
+        null,
+        null
+      ]
+    },
+    {
+      "response_id": "3ff05e4e-238d-4927-98aa-21a2ac70c3d5_b2d20b9a32fa60e7a97f5fe0dd5e9731",
+      "question_type": "clozedropdown",
+      "dt_score_updated": "2022-07-12T03:54:14Z",
+      "automarkable": true,
+      "attempted": true,
+      "score": 10,
+      "max_score": 10,
+      "question_reference": "d6732089-1f92-4d97-aeb3-03acca11eed9",
+      "item_reference": "86470d6c-6f7d-4f7a-bc8e-8031ba40cdf6",
+      "response": {
+        "value": [
+          "vital",
+          "most",
+          "negative results",
+          "developing",
+          "obtain",
+          "challenging",
+          "strategy",
+          "highly",
+          "useful",
+          "context"
+        ],
+        "type": "array",
+        "apiVersion": "v2.168.22",
+        "revision": 6,
+        "feedbackAttemptsCount": 1
+      },
+      "questionInfo": {
+        "type": "clozedropdown",
+        "widget_type": "response",
+        "reference": "d6732089-1f92-4d97-aeb3-03acca11eed9",
+        "data": {
+          "possible_responses": [
+            [
+              "vital",
+              "most",
+              "negative results",
+              "developing",
+              "obtain",
+              "challenging",
+              "strategy",
+              "highly",
+              "useful",
+              "context"
+            ],
+            [
+              "vital",
+              "most",
+              "negative results",
+              "developing",
+              "obtain",
+              "challenging",
+              "strategy",
+              "highly",
+              "useful",
+              "context"
+            ],
+            [
+              "vital",
+              "most",
+              "negative results",
+              "developing",
+              "obtain",
+              "challenging",
+              "strategy",
+              "highly",
+              "useful",
+              "context"
+            ],
+            [
+              "vital",
+              "most",
+              "negative results",
+              "developing",
+              "obtain",
+              "challenging",
+              "strategy",
+              "highly",
+              "useful",
+              "context"
+            ],
+            [
+              "vital",
+              "most",
+              "negative results",
+              "developing",
+              "obtain",
+              "challenging",
+              "strategy",
+              "highly",
+              "useful",
+              "context"
+            ],
+            [
+              "vital",
+              "most",
+              "negative results",
+              "developing",
+              "obtain",
+              "challenging",
+              "strategy",
+              "highly",
+              "useful",
+              "context"
+            ],
+            [
+              "vital",
+              "most",
+              "negative results",
+              "developing",
+              "obtain",
+              "challenging",
+              "strategy",
+              "highly",
+              "useful",
+              "context"
+            ],
+            [
+              "vital",
+              "most",
+              "negative results",
+              "developing",
+              "obtain",
+              "challenging",
+              "strategy",
+              "highly",
+              "useful",
+              "context"
+            ],
+            [
+              "vital",
+              "most",
+              "negative results",
+              "developing",
+              "obtain",
+              "challenging",
+              "strategy",
+              "highly",
+              "useful",
+              "context"
+            ],
+            [
+              "vital",
+              "most",
+              "negative results",
+              "developing",
+              "obtain",
+              "challenging",
+              "strategy",
+              "highly",
+              "useful",
+              "context"
+            ]
+          ],
+          "response_container": {
+            "pointer": "left"
+          },
+          "stimulus": "<h3><b id=\"yui_3_17_2_1_1627825513988_6890\">When paraphrasing, we need to&nbsp;use <span style=\"color:#ff8c00;\">synonyms </span>(words with similar meanings) in order to be academic</b></h3>\n\n<p><img height=\"131\" src=\"https://assets.learnosity.com/organisations/755/c223d381-d1ee-4524-ae73-035d6152f8b7.jpg\" width=\"349\"></p>\n\n<h4 id=\"yui_3_17_2_1_1627825513988_6976\"><b id=\"yui_3_17_2_1_1627825513988_6979\">Consider the paragraph below.&nbsp;</b></h4>\n\n<ul id=\"yui_3_17_2_1_1627825513988_6955\">\n\t<li>\n\t<h4><b id=\"yui_3_17_2_1_1627825513988_6946\">Match the&nbsp;<u id=\"yui_3_17_2_1_1627825513988_6980\">underlined phrases</u>&nbsp;to their synonyms (choose form the drop down).</b></h4>\n\t</li>\n</ul>\n\n<p>&nbsp;</p>\n\n<p><span style=\"font-size:1.3em;\">An&nbsp;<u id=\"yui_3_17_2_1_1627825513988_7135\">essential</u>&nbsp;<sup id=\"yui_3_17_2_1_1627825513988_7136\">(1)</sup>&nbsp;skill for&nbsp;<u id=\"yui_3_17_2_1_1627825513988_7137\">the majority of</u>&nbsp;<sup id=\"yui_3_17_2_1_1627825513988_7138\">(2)</sup>&nbsp;teams, continuous improvement is the process of learning from&nbsp;<u id=\"yui_3_17_2_1_1627825513988_7139\">unfavourable outcomes</u>&nbsp;<sup id=\"yui_3_17_2_1_1627825513988_7140\">(3)</sup>&nbsp;and&nbsp;<u id=\"yui_3_17_2_1_1627825513988_7141\">implementing</u>&nbsp;<sup id=\"yui_3_17_2_1_1627825513988_7142\">(4)</sup>&nbsp;new strategies to&nbsp;<u id=\"yui_3_17_2_1_1627825513988_7143\">achieve</u>&nbsp;<sup id=\"yui_3_17_2_1_1627825513988_7144\">(5)</sup>&nbsp;better results. Although continuous improvement has proven to be a&nbsp;<u id=\"yui_3_17_2_1_1627825513988_7145\">difficult</u>&nbsp;<sup id=\"yui_3_17_2_1_1627825513988_7146\">(6)</sup>&nbsp;<u id=\"yui_3_17_2_1_1627825513988_7147\">tactic</u>&nbsp;<sup id=\"yui_3_17_2_1_1627825513988_7148\">(7)</sup>&nbsp;to master, once you achieve it, it is an&nbsp;<u id=\"yui_3_17_2_1_1627825513988_7149\">extremely</u>&nbsp;<sup id=\"yui_3_17_2_1_1627825513988_7150\">(8)</sup>&nbsp;<u id=\"yui_3_17_2_1_1627825513988_7151\">effective</u>&nbsp;<sup id=\"yui_3_17_2_1_1627825513988_7152\">(9)</sup>&nbsp;skill that can be implemented in almost any&nbsp;<u id=\"yui_3_17_2_1_1627825513988_7153\">environment</u>&nbsp;<sup id=\"yui_3_17_2_1_1627825513988_7154\">(10)</sup>&nbsp;(Kastner 2018).</span></p>\n",
+          "template": "<p style=\"margin-left: 40px;\">1. essential -&nbsp;{{response}}<br>\n2. the majority of -&nbsp;{{response}}<br>\n3. unfavourable outcomes -&nbsp;{{response}}<br>\n4. implementing -&nbsp;{{response}}<br>\n5. achieve -&nbsp;{{response}}<br>\n6. difficult -&nbsp;{{response}}<br>\n7. tactic -&nbsp;{{response}}<br>\n8.extremelly -&nbsp;{{response}}<br>\n9. effective -&nbsp;{{response}}<br>\n10. environment -&nbsp;{{response}}</p>\n",
+          "type": "clozedropdown",
+          "case_sensitive": true,
+          "validation": {
+            "scoring_type": "exactMatch",
+            "valid_response": {
+              "score": 10,
+              "value": [
+                "vital",
+                "most",
+                "negative results",
+                "developing",
+                "obtain",
+                "challenging",
+                "strategy",
+                "highly",
+                "useful",
+                "context"
+              ]
+            },
+            "match_all_possible_responses": true
+          },
+          "instant_feedback": true,
+          "shuffle_options": true
+        },
+        "metadata": {
+          "name": "Cloze with drop down",
+          "template_reference": "2fbba51b-e35e-441f-83c7-2662e2e81fa6"
+        }
+      },
+      "feedbackInfo": [
+        null,
+        null
+      ]
+    },
+    {
+      "response_id": "3ff05e4e-238d-4927-98aa-21a2ac70c3d5_1513d415e9c23ce262e4d88324754dbc",
+      "question_type": "clozedropdown",
+      "dt_score_updated": "2022-07-12T03:54:56Z",
+      "automarkable": true,
+      "attempted": true,
+      "score": 1,
+      "max_score": 1,
+      "question_reference": "c37a8689-fcd8-486c-adca-8762b49444ff",
+      "item_reference": "86470d6c-6f7d-4f7a-bc8e-8031ba40cdf6",
+      "response": {
+        "value": [
+          "B"
+        ],
+        "type": "array",
+        "apiVersion": "v2.168.22",
+        "revision": 2,
+        "feedbackAttemptsCount": 2
+      },
+      "questionInfo": {
+        "type": "clozedropdown",
+        "widget_type": "response",
+        "reference": "c37a8689-fcd8-486c-adca-8762b49444ff",
+        "data": {
+          "possible_responses": [
+            [
+              "A",
+              "B"
+            ]
+          ],
+          "response_container": {
+            "pointer": "left"
+          },
+          "stimulus": "<h4>&nbsp;</h4>\n\n<h4 id=\"yui_3_17_2_1_1627826605144_3030\"><b id=\"yui_3_17_2_1_1627826605144_3032\">Next, we are going to <span style=\"color:#0000ff;\">EVALUATE</span> some paraphrases - did the writer paraphrase <span style=\"color:#0000ff;\">EFFECTIVELY</span>?</b></h4>\n\n<p><img height=\"195\" src=\"https://assets.learnosity.com/organisations/755/f54809d9-3dbe-4627-9843-4d7ba17885f5.jpg\" width=\"228\"></p>\n\n<h4>&nbsp;</h4>\n\n<h4><b>Read the <span style=\"color:#0000ff;\">original sources</span> and <span style=\"color:#0000ff;\">paraphrases </span>below.&nbsp;</b></h4>\n\n<ul>\n\t<li>\n\t<h4><b id=\"yui_3_17_2_1_1627826605144_3037\">Which is the best paraphrase?</b></h4>\n\t</li>\n</ul>\n\n<h4>&nbsp;</h4>\n\n<p>&nbsp;</p>\n\n<h4 id=\"yui_3_17_2_1_1627826605144_3215\"><span style=\"color:#0000ff;\"><b id=\"yui_3_17_2_1_1627826605144_3217\">Paraphrase 1 (the paragraph above)&nbsp;</b></span></h4>\n\n<p><span style=\"font-size:1.3em;\"><b id=\"yui_3_17_2_1_1627826605144_3222\"><u id=\"yui_3_17_2_1_1627826605144_3224\">Original Source:</u></b></span></p>\n\n<p id=\"yui_3_17_2_1_1627826605144_3226\"><span style=\"font-size:1.3em;\">An essential skill for the majority of teams, continuous improvement is the process of learning from negative experiences and implementing new strategies to strive to achieve better results. Although continuous improvement has proven to be a difficult tactic to master, once you achieve it, it is an extremely effective skill that can be implemented in almost any environment.</span></p>\n\n<p><img height=\"495\" src=\"https://assets.learnosity.com/organisations/755/86fe3a34-6940-4493-9977-c0a12f4a080d.jpg\" width=\"899\"></p>\n",
+          "template": "<p style=\"margin-left: 120px;\"><span style=\"font-size:1.5em;\"><b id=\"yui_3_17_2_1_1627826605144_3327\">The best paraphrase is </b>{{response}}</span></p>\n",
+          "type": "clozedropdown",
+          "case_sensitive": true,
+          "validation": {
+            "scoring_type": "exactMatch",
+            "valid_response": {
+              "score": 1,
+              "value": [
+                "B"
+              ]
+            }
+          },
+          "instant_feedback": true
+        },
+        "metadata": {
+          "name": "Cloze with drop down",
+          "template_reference": "2fbba51b-e35e-441f-83c7-2662e2e81fa6"
+        }
+      },
+      "feedbackInfo": [
+        null,
+        null
+      ]
+    },
+    {
+      "response_id": "3ff05e4e-238d-4927-98aa-21a2ac70c3d5_8d135f05219a59edc65ef0de54658885",
+      "question_type": "clozedropdown",
+      "dt_score_updated": "2022-07-12T03:55:11Z",
+      "automarkable": true,
+      "attempted": true,
+      "score": 1,
+      "max_score": 1,
+      "question_reference": "2f61cddf-0b0f-45e1-b044-6c6c6430522d",
+      "item_reference": "86470d6c-6f7d-4f7a-bc8e-8031ba40cdf6",
+      "response": {
+        "value": [
+          "A"
+        ],
+        "type": "array",
+        "apiVersion": "v2.168.22",
+        "revision": 1,
+        "feedbackAttemptsCount": 1
+      },
+      "questionInfo": {
+        "type": "clozedropdown",
+        "widget_type": "response",
+        "reference": "2f61cddf-0b0f-45e1-b044-6c6c6430522d",
+        "data": {
+          "possible_responses": [
+            [
+              "A",
+              "B"
+            ]
+          ],
+          "response_container": {
+            "pointer": "left"
+          },
+          "stimulus": "<h4>&nbsp;</h4>\n\n<h4 id=\"yui_3_17_2_1_1627826936963_3033\"><span style=\"color:#008000;\"><span style=\"font-size:1.3em;\"><b id=\"yui_3_17_2_1_1627826936963_3035\">Paraphrase 2</b></span></span></h4>\n\n<p id=\"yui_3_17_2_1_1627826936963_3037\"><span style=\"font-size:1.3em;\"><b id=\"yui_3_17_2_1_1627826936963_3038\"><u id=\"yui_3_17_2_1_1627826936963_3039\">Original source:</u></b></span></p>\n\n<p id=\"yui_3_17_2_1_1627826936963_3042\"><span style=\"font-size:1.3em;\">Intercultural cooperation is an ideal tool for managing the increasingly complex processes we face in the workplace today because good international teamwork is more than the sum of each member's input. Ideally, each team member will have their own role to play while the team manager coordinates the project and monitors its progress (Kastner 2018).</span></p>\n\n<p><img height=\"479\" src=\"https://assets.learnosity.com/organisations/755/e4d4a04c-577b-48d1-85b0-fa6da2798c72.jpg\" width=\"900\"></p>\n",
+          "template": "<p style=\"margin-left: 120px;\"><span style=\"font-size:1.5em;\"><b id=\"yui_3_17_2_1_1627826936963_3087\">The best paraphrase is </b>{{response}}</span></p>\n",
+          "type": "clozedropdown",
+          "case_sensitive": true,
+          "validation": {
+            "scoring_type": "exactMatch",
+            "valid_response": {
+              "score": 1,
+              "value": [
+                "A"
+              ]
+            }
+          },
+          "instant_feedback": true
+        },
+        "metadata": {
+          "name": "Cloze with drop down",
+          "template_reference": "2fbba51b-e35e-441f-83c7-2662e2e81fa6"
+        }
+      },
+      "feedbackInfo": [
+        null,
+        null
+      ]
+    },
+    {
+      "response_id": "3ff05e4e-238d-4927-98aa-21a2ac70c3d5_f30b0627f5123270cee5237be2a448af",
+      "question_type": "clozedropdown",
+      "dt_score_updated": "2022-07-12T03:55:54Z",
+      "automarkable": true,
+      "attempted": true,
+      "score": 1,
+      "max_score": 1,
+      "question_reference": "4c72fbd5-9060-4df7-894b-b2cf68785313",
+      "item_reference": "86470d6c-6f7d-4f7a-bc8e-8031ba40cdf6",
+      "response": {
+        "value": [
+          "B"
+        ],
+        "type": "array",
+        "apiVersion": "v2.168.22",
+        "revision": 1,
+        "feedbackAttemptsCount": 1
+      },
+      "questionInfo": {
+        "type": "clozedropdown",
+        "widget_type": "response",
+        "reference": "4c72fbd5-9060-4df7-894b-b2cf68785313",
+        "data": {
+          "possible_responses": [
+            [
+              "A",
+              "B"
+            ]
+          ],
+          "response_container": {
+            "pointer": "left"
+          },
+          "stimulus": "<h4>&nbsp;</h4>\n\n<h4 id=\"yui_3_17_2_1_1627827007418_167\"><span style=\"color:#ff8c00;\"><b id=\"yui_3_17_2_1_1627827007418_166\">Paraphrase 3&nbsp;</b></span></h4>\n\n<p><span style=\"font-size:1.3em;\"><b><u>Original source:</u></b></span></p>\n\n<p><span style=\"font-size: 1.3em; font-family: &quot;Helvetica Neue&quot;, Helvetica, Arial, sans-serif;\">As technology constantly improves, the world of work is becoming truly international. Modern collaborative software and communication tools have made it easier than ever to run a completely international team. These can be hugely beneficial but has its own challenges. Overcoming some of the natural obstacles that coordinating an international team represents takes time, effort and understanding but in the long run will be well worth it (Kastner 2018).</span></p>\n\n<p><img height=\"472\" src=\"https://assets.learnosity.com/organisations/755/c69bd5e6-0979-4cde-82c8-3a7e1387c2d7.jpg\" width=\"901\"></p>\n",
+          "template": "<p style=\"margin-left: 160px;\"><span style=\"font-size:1.5em;\"><b id=\"yui_3_17_2_1_1627827148860_3040\">The best paraphrase is </b>{{response}}</span></p>\n",
+          "type": "clozedropdown",
+          "case_sensitive": true,
+          "validation": {
+            "scoring_type": "exactMatch",
+            "valid_response": {
+              "score": 1,
+              "value": [
+                "B"
+              ]
+            }
+          },
+          "instant_feedback": true
+        },
+        "metadata": {
+          "name": "Cloze with drop down",
+          "template_reference": "2fbba51b-e35e-441f-83c7-2662e2e81fa6"
+        }
+      },
+      "feedbackInfo": [
+        null,
+        null
+      ]
+    },
+    {
+      "response_id": "3ff05e4e-238d-4927-98aa-21a2ac70c3d5_07f2f1f7fb56e3a14908f0ec33de8a6b",
+      "question_type": "longtextV2",
+      "dt_score_updated": "2022-07-12T04:00:13Z",
+      "automarkable": false,
+      "attempted": true,
+      "score": null,
+      "max_score": 10,
+      "question_reference": "2622f0f5-d955-4dba-8fb5-dd55a7f42a7d",
+      "item_reference": "b5422353-6f42-4ada-9fd2-cfdf912616cb",
+      "response": {
+        "value": "<p>Option B</p><p>Perhaps as one of the most important members of any team, a leader can achieve or undermine the teamwork skills of a team. As a leader, showing confidence and confidence naturally boosts the morale of the entire team and motivates you to succeed.(Kastner,2018)<br></p>",
+        "wordCount": 45,
+        "type": "string",
+        "apiVersion": "v2.168.22",
+        "revision": 3
+      },
+      "questionInfo": {
+        "type": "longtextV2",
+        "widget_type": "response",
+        "reference": "2622f0f5-d955-4dba-8fb5-dd55a7f42a7d",
+        "data": {
+          "stimulus": "<h3 id=\"yui_3_17_2_1_1627827462838_1831\"><b id=\"yui_3_17_2_1_1627827462838_1832\">Now that you have reviewed the strategies, it's time to practise.</b></h3>\n\n<p id=\"yui_3_17_2_1_1627827462838_1737\"><img height=\"213\" src=\"https://assets.learnosity.com/organisations/755/55ac9477-79ad-4583-90da-16eaf6e11aeb.jpg\" width=\"401\"></p>\n\n<p><span style=\"font-size:1.3em;\"><b>Choose&nbsp;<span style=\"color:#008000;\"><u style=\"\">one or more</u></span>&nbsp;of the options below.</b></span></p>\n\n<div class=\"lrn-well\"><span style=\"font-size:1.3em;\"><b style=\"\">Use the&nbsp;<span style=\"color:#008000;\"><u style=\"\">strategies and steps</u></span>&nbsp;discussed earlier in this online lesson (ITEM 5) to paraphrase the text below. Don't forget to add a&nbsp;</b></span><span style=\"color:#ff0000;\"><span style=\"font-size:1.6em;\"><b style=\"\"><u style=\"\">citation</u></b></span></span><span style=\"font-size:1.3em;\"><b style=\"\">.</b></span></div>\n\n<p>&nbsp;</p>\n\n<h4><span style=\"color:#0000ff;\"><b>Option A - </b></span><span style=\"color:#ff0000;\"><b>Author - Kastner from 2018</b></span><span style=\"color:#0000ff;\"></span></h4>\n\n<h5><em>As companies continue to grow and expand their global workforce, managing and working with people from around the world is becoming the new reality. Whether you have employees working in one country or 100, as a leader you are responsible for ensuring your team’s individual and group success. When team members are dispersed around the world, maintaining team focus and ensuring that everyone is working toward the same goals can be one of the greatest challenges managers face.</em></h5>\n\n<p>&nbsp;</p>\n\n<h4><span style=\"color:#a52a2a;\"><b>Option B&nbsp; - </b></span><span style=\"color:#ff0000;\"><b>Author: Kastner from 2018</b></span><span style=\"color:#a52a2a;\"></span></h4>\n\n<h5><i>Arguably one of the most important members of any team, the leader can either make or break the teamwork skills of team. By displaying confidence and self-belief as a leader, the morale of the entire team will naturally boost and therefore motivation to succeed will also increase.</i></h5>\n\n<p>&nbsp;</p>\n\n<h4><b><u>Write your answers below</u></b></h4>\n",
+          "type": "longtextV2",
+          "validation": {
+            "max_score": 10
+          }
+        },
+        "metadata": {
+          "name": "Essay with rich text",
+          "template_reference": "1e6039f8-0676-495d-aca9-108710a51ce5"
+        }
+      },
+      "feedbackInfo": [
+        null,
+        null
+      ]
+    }
+  ]
+}

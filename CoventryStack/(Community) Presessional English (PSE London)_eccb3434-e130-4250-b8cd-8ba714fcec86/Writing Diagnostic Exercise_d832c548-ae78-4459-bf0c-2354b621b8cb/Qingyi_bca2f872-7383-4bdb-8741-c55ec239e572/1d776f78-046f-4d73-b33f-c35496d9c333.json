@@ -1,0 +1,87 @@
+{
+  "userId": "bca2f872-7383-4bdb-8741-c55ec239e572",
+  "firstName": "Qingyi",
+  "lastName": "Guo",
+  "assigmentId": "d832c548-ae78-4459-bf0c-2354b621b8cb",
+  "assigmentName": "Writing Diagnostic Exercise",
+  "sessionId": "1d776f78-046f-4d73-b33f-c35496d9c333",
+  "email": "guoq10@coventry.ac.uk",
+  "spaceId": "eccb3434-e130-4250-b8cd-8ba714fcec86",
+  "spaceName": "(Community) Presessional English (PSE London)",
+  "score": 0,
+  "max_score": 40,
+  "questions": [
+    {
+      "response_id": "1d776f78-046f-4d73-b33f-c35496d9c333_29a59873d64e3761ccb0d29ecca16973",
+      "question_type": "longtextV2",
+      "dt_score_updated": "2022-07-04T15:59:43Z",
+      "automarkable": false,
+      "attempted": true,
+      "score": null,
+      "max_score": 40,
+      "question_reference": "8ce3bee1-48e8-4baa-b2e3-5bf8083389e0",
+      "item_reference": "570ff370-fde4-49bc-959d-b91c3099b1d6",
+      "response": {
+        "value": "<p><i>﻿﻿﻿<b>﻿</b></i> Describe the bike and train  used by students, illustrate their advantages and disadvantages and make commendations to the university.</p><p>The most popular transportation  is bike, which is good for environment, healthy and cheap.However, there are some harmful points, which need to change clothes after bicycling and is no safe place for bikes and slow.</p><p>The second most popular transportation is train, which is good for environment, quickly and near to train station.But the disadvantages of train are expensive on buying tickets, and sometimes trains not be on time or late, even the journey may be cancelled. What’s more, train schedule is rush and crowded.<br></p><p>To sum up, the recommendations for bike on campus  is that put some safe place for bike, set more changing rooms for students. Also, related authorities should focus on collecting bikes for students to take.As for train, college could start lessons later to avoid rush hour and help students buy discounted tickets</p>",
+        "wordCount": 156,
+        "type": "string",
+        "apiVersion": "v2.168.22",
+        "revision": 84
+      },
+      "questionInfo": {
+        "type": "longtextV2",
+        "widget_type": "response",
+        "reference": "8ce3bee1-48e8-4baa-b2e3-5bf8083389e0",
+        "data": {
+          "stimulus": "<h2 id=\"yui_3_17_2_1_1628703407776_1784\"><span style=\"color:#0000ff;\"><b id=\"yui_3_17_2_1_1628703407776_2039\">You are going to write a report for your University. </b></span></h2>\n\n<h4><b>You should…</b></h4>\n\n<ul id=\"yui_3_17_2_1_1628703407776_2050\">\n\t<li><span style=\"font-size:1.3em;\">Write about the&nbsp;TWO&nbsp;most popular means of transportation used by students</span></li>\n\t<li><span style=\"font-size:1.3em;\">Discuss the advantages&nbsp;AND&nbsp;disadvantages</span></li>\n\t<li><span style=\"font-size:1.3em;\">Make some recommendations to the university</span></li>\n</ul>\n\n<h5 id=\"yui_3_17_2_1_1628703407776_2051\">&nbsp;</h5>\n\n<h4 id=\"yui_3_17_2_1_1628703407776_2055\"><b id=\"yui_3_17_2_1_1628703407776_2057\">Analyse the information in the table below:</b></h4>\n\n<p><img height=\"285\" src=\"https://assets.learnosity.com/organisations/755/501dfa12-1cf8-4ced-a6ab-aa6ba44e3379.JPG\" width=\"701\" /></p>\n\n<p><img height=\"259\" src=\"https://assets.learnosity.com/organisations/755/2bc31a90-4e37-4aed-8f9c-b1924cc4ec71.JPG\" width=\"699\" /></p>\n\n<h4>&nbsp;</h4>\n\n<h4><span style=\"color:#0000ff;\"><b>Write your report using&nbsp; ALL&nbsp;the information in the table.</b></span></h4>\n\n<h4><span style=\"color:#ff0000;\"><b><u>Write COMPLETE sentences.&nbsp;Do NOT use bullet points.</u></b></span></h4>\n\n<h4><b style=\"\">Use at least&nbsp;ONE&nbsp;of <u>your own ideas</u>&nbsp;</b><b style=\"\">in the recommendations section.</b></h4>\n\n<h4>&nbsp;</h4>\n\n<h4><b>Follow the&nbsp;report structure&nbsp;you can see below:</b></h4>\n\n<p>&nbsp;</p>\n\n<p><img height=\"523\" src=\"https://assets.learnosity.com/organisations/755/2694fd52-288e-4118-90cd-de27f223d78a.JPG\" width=\"400\" /></p>\n\n<h4>&nbsp;</h4>\n\n<h4><b>Write your report in the box below.&nbsp;Start with:&nbsp;</b></h4>\n\n<p><span style=\"font-size:1.3em;\"><i>The aim of this report is to ...</i></span></p>\n",
+          "type": "longtextV2",
+          "formatting_options": [
+            "bold",
+            "italic",
+            "underline",
+            "|",
+            "unorderedList",
+            "orderedList",
+            "redo"
+          ],
+          "validation": {
+            "max_score": 40
+          }
+        },
+        "metadata": {
+          "name": "Essay with rich text",
+          "template_reference": "1e6039f8-0676-495d-aca9-108710a51ce5"
+        }
+      },
+      "feedbackInfo": [
+        {
+          "id": "0707_bca2f872-7383-4bdb-8741-c55ec239e572_1d776f78-046f-4d73-b33f-c35496d9c333_55b3d7031b9c5d89d2f2ad501d8344ba",
+          "user_id": "bca2f872-7383-4bdb-8741-c55ec239e572",
+          "response_id": "1d776f78-046f-4d73-b33f-c35496d9c333_55b3d7031b9c5d89d2f2ad501d8344ba",
+          "type": "longtextV2",
+          "question": {
+            "type": "longtextV2",
+            "metadata": {
+              "source": {
+                "organisation_id": 755
+              },
+              "sheet_reference": "default_feedback",
+              "widget_reference": "de082b5f-742a-4ecf-82ca-4dc86e218fec",
+              "valid_response_count": 0
+            },
+            "stimulus": "Written feedback:",
+            "response_id": "1d776f78-046f-4d73-b33f-c35496d9c333_55b3d7031b9c5d89d2f2ad501d8344ba",
+            "show_word_count": false,
+            "show_word_limit": "off"
+          },
+          "response": null,
+          "creation_date": "2022-07-05 10:50:01",
+          "mod_date": "2022-07-05 10:50:01",
+          "persist_until": "2022-07-06 10:50:01",
+          "saved": false
+        },
+        null
+      ]
+    }
+  ]
+}

@@ -1,0 +1,1753 @@
+{
+  "userId": "88e4559e-4923-4970-a7ba-c67bd627cb28",
+  "firstName": "Zhang",
+  "lastName": "Shengming",
+  "assigmentId": "ec478e3c-5e8d-46df-87e6-881b6f3767bf",
+  "assigmentName": "Critical Writing",
+  "sessionId": "804f20a2-201b-440c-bf13-2b0765ba2f9b",
+  "email": "shengmingz@coventry.ac.uk",
+  "spaceId": "eccb3434-e130-4250-b8cd-8ba714fcec86",
+  "spaceName": "(Community) Presessional English (PSE London)",
+  "score": 60,
+  "max_score": 60,
+  "questions": [
+    {
+      "response_id": "804f20a2-201b-440c-bf13-2b0765ba2f9b_aca95b5d0168aaba965b90cbb9bea03a",
+      "question_type": "association",
+      "dt_score_updated": "2022-10-27T04:58:55Z",
+      "automarkable": true,
+      "attempted": true,
+      "score": 2,
+      "max_score": 2,
+      "question_reference": "12f7156a-133e-4278-8c34-82830f91a11d",
+      "item_reference": "c638ae0c-6fec-4128-b23c-6e07afbe574d",
+      "response": {
+        "value": [
+          "<span style=\"font-size:1.3em;\">when you&nbsp;<i><u><strong>present</strong></u>&nbsp;</i>information</span>",
+          "<span style=\"font-size:1.3em;\">when you&nbsp;<u><strong><i>consider</i></strong></u>,&nbsp;<u><strong><i>analyse&nbsp;</i></strong></u>and&nbsp;<u><strong><i>discuss&nbsp;</i></strong></u>information</span>"
+        ],
+        "type": "array",
+        "updatedFormat": true,
+        "apiVersion": "v2.168.23",
+        "revision": 1,
+        "feedbackAttemptsCount": 1
+      },
+      "questionInfo": {
+        "type": "association",
+        "widget_type": "response",
+        "reference": "12f7156a-133e-4278-8c34-82830f91a11d",
+        "data": {
+          "possible_responses": [
+            "<span style=\"font-size:1.3em;\">when you&nbsp;<i><u><strong>present</strong></u>&nbsp;</i>information</span>",
+            "<span style=\"font-size:1.3em;\">when you&nbsp;<u><strong><i>consider</i></strong></u>,&nbsp;<u><strong><i>analyse&nbsp;</i></strong></u>and&nbsp;<u><strong><i>discuss&nbsp;</i></strong></u>information</span>"
+          ],
+          "stimulus": "<table class=\"table table-condensed lrn_width_auto table-no-border\">\n\t<tbody>\n\t\t<tr>\n\t\t\t<td><img class=\"lrn-image-left\" height=\"100\" src=\"https://assets.learnosity.com/organisations/755/011e9bdd-b764-4e02-bd88-51597f2b7d26.jpg\" width=\"100\"></td>\n\t\t\t<td>\n\t\t\t<h2><strong>Academic texts include both <span style=\"color:#b22222;\">DESCRIPTIVE </span>and <span style=\"color:#b22222;\">CRITICAL </span>writing.</strong></h2>\n\n\t\t\t<p>&nbsp;</p>\n\n\t\t\t<h4><span style=\"font-weight: bold; color: rgb(178, 34, 34);\">► </span><b>What do&nbsp;\"<u><span style=\"color:#b22222;\">descriptive</span></u>\" and \"<u><span style=\"color:#b22222;\">critical</span></u>\" mean?</b></h4>\n\t\t\t</td>\n\t\t</tr>\n\t\t<tr>\n\t\t\t<td>&nbsp;</td>\n\t\t\t<td>&nbsp;</td>\n\t\t</tr>\n\t</tbody>\n</table>\n\n<p><img height=\"150\" src=\"https://assets.learnosity.com/organisations/755/321f5ee8-e334-4895-8658-d338899149b6.jpg\" width=\"175\"></p>\n",
+          "stimulus_list": [
+            "<strong><span style=\"font-size:1.3em;\">DESCRIPTIVE writing</span></strong>",
+            "<strong><span style=\"font-size:1.3em;\">CRITICAL writing</span></strong>"
+          ],
+          "type": "association",
+          "validation": {
+            "scoring_type": "exactMatch",
+            "valid_response": {
+              "score": 2,
+              "value": [
+                "<span style=\"font-size:1.3em;\">when you&nbsp;<i><u><strong>present</strong></u>&nbsp;</i>information</span>",
+                "<span style=\"font-size:1.3em;\">when you&nbsp;<u><strong><i>consider</i></strong></u>,&nbsp;<u><strong><i>analyse&nbsp;</i></strong></u>and&nbsp;<u><strong><i>discuss&nbsp;</i></strong></u>information</span>"
+              ]
+            }
+          },
+          "instant_feedback": true
+        },
+        "metadata": {
+          "name": "Match list",
+          "template_reference": "1fa22aac-1f88-47f7-941b-3c77759549e6"
+        }
+      },
+      "feedbackInfo": [
+        null,
+        null
+      ]
+    },
+    {
+      "response_id": "804f20a2-201b-440c-bf13-2b0765ba2f9b_b4d2a85f9d8035b8fea65baee5223766",
+      "question_type": "mcq",
+      "dt_score_updated": "2022-10-27T04:59:09Z",
+      "automarkable": true,
+      "attempted": true,
+      "score": 1,
+      "max_score": 1,
+      "question_reference": "e2a24c94-db69-4476-b188-38484bb77388",
+      "item_reference": "c638ae0c-6fec-4128-b23c-6e07afbe574d",
+      "response": {
+        "value": [
+          "0"
+        ],
+        "type": "array",
+        "apiVersion": "v2.168.23",
+        "revision": 1,
+        "feedbackAttemptsCount": 1
+      },
+      "questionInfo": {
+        "type": "mcq",
+        "widget_type": "response",
+        "reference": "e2a24c94-db69-4476-b188-38484bb77388",
+        "data": {
+          "options": [
+            {
+              "label": "<span style=\"font-size:1.1em;\">argues / claims / suggests</span>",
+              "value": "0"
+            },
+            {
+              "label": "<span style=\"font-size:1.1em;\">describes / notes / observes / states</span>",
+              "value": "1"
+            },
+            {
+              "label": "<span style=\"font-size:1.1em;\">shows / demonstrates / explains</span>",
+              "value": "2"
+            }
+          ],
+          "stimulus": "<h2>&nbsp;</h2>\n\n<h2><span style=\"color:#006400;\"><strong>Reporting Verbs</strong></span></h2>\n\n<p><img height=\"150\" src=\"https://assets.learnosity.com/organisations/755/3b34f937-d83f-43a8-a472-59bbe5eb126a.jpg\" width=\"265\"></p>\n\n<h4><strong>Reporting verbs are used to <u><span style=\"color:#006400;\">incorporate sources</span></u>&nbsp;into your writing.</strong></h4>\n\n<h4><strong>Use different reporting verbs to <u><span style=\"color:#006400;\">show&nbsp;your opinion</span></u>&nbsp;about the source of information you are citing.</strong></h4>\n\n<p>&nbsp;</p>\n\n<h4><strong><span style=\"color:#006400;\">►</span> </strong><b>Choose the best reporting verbs for each situation&nbsp;below:</b></h4>\n\n<p>&nbsp;</p>\n\n<div class=\"lrn-well\"><span style=\"font-size:1.3em;\"><b>Your source is <u><span style=\"color:#006400;\">giving an opinion</span></u>. You should&nbsp;use...</b></span></div>\n",
+          "type": "mcq",
+          "ui_style": {
+            "choice_label": "upper-alpha",
+            "type": "block"
+          },
+          "validation": {
+            "scoring_type": "exactMatch",
+            "valid_response": {
+              "score": 1,
+              "value": [
+                "0"
+              ]
+            }
+          },
+          "instant_feedback": true,
+          "shuffle_options": true
+        },
+        "metadata": {
+          "name": "Multiple choice – block layout",
+          "template_reference": "33d53a22-1a59-4a03-9671-7f5104edd62e"
+        }
+      },
+      "feedbackInfo": [
+        null,
+        null
+      ]
+    },
+    {
+      "response_id": "804f20a2-201b-440c-bf13-2b0765ba2f9b_1bac82c764c63d56df0b86fd126ea4b7",
+      "question_type": "mcq",
+      "dt_score_updated": "2022-10-27T04:59:23Z",
+      "automarkable": true,
+      "attempted": true,
+      "score": 1,
+      "max_score": 1,
+      "question_reference": "f0b67ea3-a9ff-415d-a126-35401528bae3",
+      "item_reference": "c638ae0c-6fec-4128-b23c-6e07afbe574d",
+      "response": {
+        "value": [
+          "1"
+        ],
+        "type": "array",
+        "apiVersion": "v2.168.23",
+        "revision": 1,
+        "feedbackAttemptsCount": 2
+      },
+      "questionInfo": {
+        "type": "mcq",
+        "widget_type": "response",
+        "reference": "f0b67ea3-a9ff-415d-a126-35401528bae3",
+        "data": {
+          "options": [
+            {
+              "label": "<span style=\"font-size:1.1em;\">argues / claims / suggests</span>",
+              "value": "0"
+            },
+            {
+              "label": "<span style=\"font-size:1.1em;\">describes / notes / observes / states</span>",
+              "value": "1"
+            },
+            {
+              "label": "<span style=\"font-size:1.1em;\">shows / demonstrates / explains</span>",
+              "value": "2"
+            }
+          ],
+          "stimulus": "<div class=\"lrn-well\"><strong><span style=\"font-size:1.3em;\">Your source&nbsp;is&nbsp;<u><span style=\"color:#006400;\">giving factual information</span></u>. You should use...</span></strong></div>\n",
+          "type": "mcq",
+          "ui_style": {
+            "choice_label": "upper-alpha",
+            "type": "block"
+          },
+          "validation": {
+            "scoring_type": "exactMatch",
+            "valid_response": {
+              "score": 1,
+              "value": [
+                "1"
+              ]
+            }
+          },
+          "instant_feedback": true,
+          "shuffle_options": true
+        },
+        "metadata": {
+          "name": "Multiple choice – block layout",
+          "template_reference": "33d53a22-1a59-4a03-9671-7f5104edd62e"
+        }
+      },
+      "feedbackInfo": [
+        null,
+        null
+      ]
+    },
+    {
+      "response_id": "804f20a2-201b-440c-bf13-2b0765ba2f9b_4b2319329cf5407d9d67f898384b83fc",
+      "question_type": "mcq",
+      "dt_score_updated": "2022-10-27T04:59:23Z",
+      "automarkable": true,
+      "attempted": true,
+      "score": 1,
+      "max_score": 1,
+      "question_reference": "9dc8daec-72ab-4902-a9ad-170c36f7ae97",
+      "item_reference": "c638ae0c-6fec-4128-b23c-6e07afbe574d",
+      "response": {
+        "value": [
+          "2"
+        ],
+        "type": "array",
+        "apiVersion": "v2.168.23",
+        "revision": 1,
+        "feedbackAttemptsCount": 1
+      },
+      "questionInfo": {
+        "type": "mcq",
+        "widget_type": "response",
+        "reference": "9dc8daec-72ab-4902-a9ad-170c36f7ae97",
+        "data": {
+          "options": [
+            {
+              "label": "<span style=\"font-size:1.1em;\">argues / claims / suggests</span>",
+              "value": "0"
+            },
+            {
+              "label": "<span style=\"font-size:1.1em;\">describes / notes / observes / states</span>",
+              "value": "1"
+            },
+            {
+              "label": "<span style=\"font-size:1.1em;\">shows / demonstrates / explains</span>",
+              "value": "2"
+            }
+          ],
+          "stimulus": "<div class=\"lrn-well\"><strong><span style=\"font-size:1.3em;\">The information in your sources <u><span style=\"color:#006400;\">proves your&nbsp;point</span></u>. You should use...</span></strong></div>\n",
+          "type": "mcq",
+          "ui_style": {
+            "choice_label": "upper-alpha",
+            "type": "block"
+          },
+          "validation": {
+            "scoring_type": "exactMatch",
+            "valid_response": {
+              "score": 1,
+              "value": [
+                "2"
+              ]
+            }
+          },
+          "instant_feedback": true,
+          "shuffle_options": true
+        },
+        "metadata": {
+          "name": "Multiple choice – block layout",
+          "template_reference": "33d53a22-1a59-4a03-9671-7f5104edd62e"
+        }
+      },
+      "feedbackInfo": [
+        null,
+        null
+      ]
+    },
+    {
+      "response_id": "804f20a2-201b-440c-bf13-2b0765ba2f9b_76f388dafa3f2385e598feabd1596332",
+      "question_type": "clozeassociation",
+      "dt_score_updated": "2022-10-27T05:00:06Z",
+      "automarkable": true,
+      "attempted": true,
+      "score": 5,
+      "max_score": 5,
+      "question_reference": "2d849ddb-557e-49f8-8b8b-314b8280dbd0",
+      "item_reference": "c638ae0c-6fec-4128-b23c-6e07afbe574d",
+      "response": {
+        "value": [
+          "<span style=\"font-size:11.0pt\"><span style=\"line-height:107%\"><span style=\"font-family:&quot;Calibri&quot;,sans-serif\">describe</span></span></span>",
+          "<span style=\"font-size:11.0pt\"><span style=\"line-height:107%\"><span style=\"font-family:&quot;Calibri&quot;,sans-serif\">suggest</span></span></span>",
+          "<span style=\"font-size:11.0pt\"><span style=\"line-height:107%\"><span style=\"font-family:&quot;Calibri&quot;,sans-serif\">state</span></span></span>",
+          "<span style=\"font-size:11.0pt\"><span style=\"line-height:107%\"><span style=\"font-family:&quot;Calibri&quot;,sans-serif\">argue</span></span></span>",
+          "<span style=\"font-size:11.0pt\"><span style=\"line-height:107%\"><span style=\"font-family:&quot;Calibri&quot;,sans-serif\">imply</span></span></span>"
+        ],
+        "type": "array",
+        "apiVersion": "v2.168.23",
+        "revision": 1,
+        "feedbackAttemptsCount": 2
+      },
+      "questionInfo": {
+        "type": "clozeassociation",
+        "widget_type": "response",
+        "reference": "2d849ddb-557e-49f8-8b8b-314b8280dbd0",
+        "data": {
+          "possible_responses": [
+            "<span style=\"font-size:11.0pt\"><span style=\"line-height:107%\"><span style=\"font-family:&quot;Calibri&quot;,sans-serif\">describe</span></span></span>",
+            "<span style=\"font-size:11.0pt\"><span style=\"line-height:107%\"><span style=\"font-family:&quot;Calibri&quot;,sans-serif\">suggest</span></span></span>",
+            "<span style=\"font-size:11.0pt\"><span style=\"line-height:107%\"><span style=\"font-family:&quot;Calibri&quot;,sans-serif\">state</span></span></span>",
+            "<span style=\"font-size:11.0pt\"><span style=\"line-height:107%\"><span style=\"font-family:&quot;Calibri&quot;,sans-serif\">argue</span></span></span>",
+            "<span style=\"font-size:11.0pt\"><span style=\"line-height:107%\"><span style=\"font-family:&quot;Calibri&quot;,sans-serif\">imply</span></span></span>"
+          ],
+          "response_container": {
+            "pointer": "left"
+          },
+          "stimulus": "<h2>&nbsp;</h2>\n\n<h2><strong>Next, let's look at each&nbsp;<span style=\"color:#008080;\">Reporting Verb</span>&nbsp;in more detail...</strong></h2>\n\n<p><img height=\"100\" src=\"https://assets.learnosity.com/organisations/755/5dda007b-8a74-4574-848d-f6b52d52eea7.jpg\" width=\"206\"></p>\n\n<h4><strong><span style=\"color:#008080;\">►</span> Choose the best verb for each definition.</strong></h4>\n",
+          "template": "<ul>\n\t<li style=\"margin-bottom: 11px;\"><strong><span style=\"font-size:1.3em;\"><span style=\"line-height:107%\"><span style=\"font-family:Calibri,sans-serif\">To <span style=\"color:#008080;\">give details</span> about something</span></span></span><span style=\"font-size:1.3em;\"><span style=\"line-height:107%\"><span style=\"font-family:Calibri,sans-serif\">:</span></span></span><span style=\"font-size:1.3em;\"><span style=\"line-height:107%\"><span style=\"font-family:Calibri,sans-serif\">&nbsp;</span></span></span></strong>{{response}}<strong><span style=\"font-size:1.3em;\"><span style=\"line-height:107%\"><span style=\"font-family:Calibri,sans-serif\"></span></span></span></strong></li>\n\t<li style=\"margin-bottom: 11px;\"><strong><span style=\"font-size:1.3em;\"><span style=\"line-height:107%\"><span style=\"font-family:Calibri,sans-serif\">To <span style=\"color:#008080;\">say </span>something <span style=\"color:#008080;\">indirectly or tentatively</span></span></span></span><span style=\"font-size:1.3em;\"><span style=\"line-height:107%\"><span style=\"font-family:Calibri,sans-serif\">:</span></span></span><span style=\"font-size:1.3em;\"><span style=\"line-height:107%\"><span style=\"font-family:Calibri,sans-serif\"><span style=\"color:#008080;\">&nbsp;</span></span></span></span></strong>{{response}}<strong><span style=\"font-size:1.3em;\"><span style=\"line-height:107%\"><span style=\"font-family:Calibri,sans-serif\"><span style=\"color:#008080;\"></span></span></span></span></strong></li>\n\t<li style=\"margin-bottom: 11px;\"><strong><span style=\"font-size:1.3em;\"><span style=\"line-height:107%\"><span style=\"font-family:Calibri,sans-serif\">To say something <span style=\"color:#008080;\">directly</span></span></span></span><span style=\"font-size:1.3em;\"><span style=\"line-height:107%\"><span style=\"font-family:Calibri,sans-serif\">:</span></span></span><span style=\"font-size:1.3em;\"><span style=\"line-height:107%\"><span style=\"font-family:Calibri,sans-serif\"><span style=\"color:#008080;\">&nbsp;</span></span></span></span></strong>{{response}}<strong><span style=\"font-size:1.3em;\"><span style=\"line-height:107%\"><span style=\"font-family:Calibri,sans-serif\"><span style=\"color:#008080;\"></span></span></span></span></strong></li>\n\t<li style=\"margin-bottom: 11px;\"><strong><span style=\"font-size:1.3em;\"><span style=\"line-height:107%\"><span style=\"font-family:Calibri,sans-serif\">To <span style=\"color:#008080;\">make an argument,</span> often used when others disagree:&nbsp;</span></span></span></strong>{{response}}<strong><span style=\"font-size:1.3em;\"><span style=\"line-height:107%\"><span style=\"font-family:Calibri,sans-serif\"></span></span></span></strong></li>\n\t<li style=\"margin-bottom: 11px;\"><strong><span style=\"font-size:1.3em;\"><span style=\"line-height:107%\"><span style=\"font-family:Calibri,sans-serif\">To <span style=\"color:#008080;\">suggest </span>something <span style=\"color:#008080;\">indirectly</span></span></span></span><span style=\"font-size:1.3em;\"><span style=\"line-height:107%\"><span style=\"font-family:Calibri,sans-serif\">:</span></span></span><span style=\"font-size:1.3em;\"><span style=\"line-height:107%\"><span style=\"font-family:Calibri,sans-serif\"><span style=\"color:#008080;\">&nbsp;</span></span></span></span></strong>{{response}}<strong><span style=\"font-size:1.3em;\"><span style=\"line-height:107%\"><span style=\"font-family:Calibri,sans-serif\"><span style=\"color:#008080;\"></span></span></span></span></strong></li>\n</ul>\n",
+          "type": "clozeassociation",
+          "case_sensitive": true,
+          "validation": {
+            "scoring_type": "partialMatchV2",
+            "valid_response": {
+              "score": 5,
+              "value": [
+                "<span style=\"font-size:11.0pt\"><span style=\"line-height:107%\"><span style=\"font-family:&quot;Calibri&quot;,sans-serif\">describe</span></span></span>",
+                "<span style=\"font-size:11.0pt\"><span style=\"line-height:107%\"><span style=\"font-family:&quot;Calibri&quot;,sans-serif\">suggest</span></span></span>",
+                "<span style=\"font-size:11.0pt\"><span style=\"line-height:107%\"><span style=\"font-family:&quot;Calibri&quot;,sans-serif\">state</span></span></span>",
+                "<span style=\"font-size:11.0pt\"><span style=\"line-height:107%\"><span style=\"font-family:&quot;Calibri&quot;,sans-serif\">argue</span></span></span>",
+                "<span style=\"font-size:11.0pt\"><span style=\"line-height:107%\"><span style=\"font-family:&quot;Calibri&quot;,sans-serif\">imply</span></span></span>"
+              ]
+            }
+          },
+          "instant_feedback": true,
+          "shuffle_options": true
+        },
+        "metadata": {
+          "name": "Cloze with drag & drop",
+          "template_reference": "51a8c1e7-f34f-4faf-b211-da458e891fcb"
+        }
+      },
+      "feedbackInfo": [
+        null,
+        null
+      ]
+    },
+    {
+      "response_id": "804f20a2-201b-440c-bf13-2b0765ba2f9b_e501d012a0f7404dfbcba16fdc419e41",
+      "question_type": "clozeassociation",
+      "dt_score_updated": "2022-10-27T05:00:48Z",
+      "automarkable": true,
+      "attempted": true,
+      "score": 5,
+      "max_score": 5,
+      "question_reference": "4a0ad945-a0c1-4d99-91ce-4c376f063aea",
+      "item_reference": "c638ae0c-6fec-4128-b23c-6e07afbe574d",
+      "response": {
+        "value": [
+          "<span style=\"font-size:11.0pt\"><span style=\"line-height:107%\"><span style=\"font-family:&quot;Calibri&quot;,sans-serif\">explain</span></span></span>",
+          "<span style=\"font-size:11.0pt\"><span style=\"line-height:107%\"><span style=\"font-family:&quot;Calibri&quot;,sans-serif\">emphasise</span></span></span>",
+          "<span style=\"font-size:11.0pt\"><span style=\"line-height:107%\"><span style=\"font-family:&quot;Calibri&quot;,sans-serif\">demonstrate</span></span></span>",
+          "<span style=\"font-size:11.0pt\"><span style=\"line-height:107%\"><span style=\"font-family:&quot;Calibri&quot;,sans-serif\">mention</span></span></span>",
+          "<span style=\"font-size:11.0pt\"><span style=\"line-height:107%\"><span style=\"font-family:&quot;Calibri&quot;,sans-serif\">question</span></span></span>"
+        ],
+        "type": "array",
+        "apiVersion": "v2.168.23",
+        "revision": 1,
+        "feedbackAttemptsCount": 3
+      },
+      "questionInfo": {
+        "type": "clozeassociation",
+        "widget_type": "response",
+        "reference": "4a0ad945-a0c1-4d99-91ce-4c376f063aea",
+        "data": {
+          "possible_responses": [
+            "<span style=\"font-size:11.0pt\"><span style=\"line-height:107%\"><span style=\"font-family:&quot;Calibri&quot;,sans-serif\">explain</span></span></span>",
+            "<span style=\"font-size:11.0pt\"><span style=\"line-height:107%\"><span style=\"font-family:&quot;Calibri&quot;,sans-serif\">emphasise</span></span></span>",
+            "<span style=\"font-size:11.0pt\"><span style=\"line-height:107%\"><span style=\"font-family:&quot;Calibri&quot;,sans-serif\">demonstrate</span></span></span>",
+            "<span style=\"font-size:11.0pt\"><span style=\"line-height:107%\"><span style=\"font-family:&quot;Calibri&quot;,sans-serif\">mention</span></span></span>",
+            "<span style=\"font-size:11.0pt\"><span style=\"line-height:107%\"><span style=\"font-family:&quot;Calibri&quot;,sans-serif\">question</span></span></span>"
+          ],
+          "response_container": {
+            "pointer": "left"
+          },
+          "template": "<ul>\n\t<li style=\"margin-bottom: 11px;\"><strong><span style=\"font-size:1.3em;\"><span style=\"line-height:107%\"><span style=\"font-family:Calibri,sans-serif\">To <span style=\"color:#008080;\">give reasons</span> for a view</span></span></span><span style=\"font-size:1.3em;\"><span style=\"line-height:107%\"><span style=\"font-family:Calibri,sans-serif\">:</span></span></span><span style=\"font-size:1.3em;\"><span style=\"line-height:107%\"><span style=\"font-family:Calibri,sans-serif\">&nbsp;</span></span></span></strong>{{response}}<strong><span style=\"font-size:1.3em;\"><span style=\"line-height:107%\"><span style=\"font-family:Calibri,sans-serif\"></span></span></span></strong></li>\n\t<li style=\"margin-bottom: 11px;\"><strong><span style=\"font-size:1.3em;\"><span style=\"line-height:107%\"><span style=\"font-family:Calibri,sans-serif\">To<span style=\"color:#008080;\"> give particular importance</span> to something</span></span></span><span style=\"font-size:1.3em;\"><span style=\"line-height:107%\"><span style=\"font-family:Calibri,sans-serif\">:</span></span></span><span style=\"font-size:1.3em;\"><span style=\"line-height:107%\"><span style=\"font-family:Calibri,sans-serif\">&nbsp;</span></span></span></strong>{{response}}<strong><span style=\"font-size:1.3em;\"><span style=\"line-height:107%\"><span style=\"font-family:Calibri,sans-serif\"></span></span></span></strong></li>\n\t<li style=\"margin-bottom: 11px;\"><strong><span style=\"font-size:1.3em;\"><span style=\"line-height:107%\"><span style=\"font-family:Calibri,sans-serif\">To <span style=\"color:#008080;\">show </span>something</span></span></span><span style=\"font-size:1.3em;\"><span style=\"line-height:107%\"><span style=\"font-family:Calibri,sans-serif\">:</span></span></span><span style=\"font-size:1.3em;\"><span style=\"line-height:107%\"><span style=\"font-family:Calibri,sans-serif\">&nbsp;</span></span></span></strong>{{response}}<strong><span style=\"font-size:1.3em;\"><span style=\"line-height:107%\"><span style=\"font-family:Calibri,sans-serif\"></span></span></span></strong></li>\n\t<li style=\"margin-bottom: 11px;\"><strong><span style=\"font-size:1.3em;\"><span style=\"line-height:107%\"><span style=\"font-family:Calibri,sans-serif\">To refer&nbsp;to something <span style=\"color:#008080;\">briefly</span></span></span></span><span style=\"font-size:1.3em;\"><span style=\"line-height:107%\"><span style=\"font-family:Calibri,sans-serif\">:</span></span></span><span style=\"font-size:1.3em;\"><span style=\"line-height:107%\"><span style=\"font-family:Calibri,sans-serif\"><span style=\"color:#008080;\">&nbsp;</span></span></span></span></strong>{{response}}<strong><span style=\"font-size:1.3em;\"><span style=\"line-height:107%\"><span style=\"font-family:Calibri,sans-serif\"><span style=\"color:#008080;\"></span></span></span></span></strong></li>\n\t<li style=\"margin-bottom: 11px;\"><strong><span style=\"font-size:1.3em;\"><span style=\"line-height:107%\"><span style=\"font-family:Calibri,sans-serif\">To suggest&nbsp;something is <span style=\"color:#008080;\">inaccurate</span></span></span></span><span style=\"font-size:1.3em;\"><span style=\"line-height:107%\"><span style=\"font-family:Calibri,sans-serif\">:</span></span></span><span style=\"font-size:1.3em;\"><span style=\"line-height:107%\"><span style=\"font-family:Calibri,sans-serif\"><span style=\"color:#008080;\">&nbsp;</span></span></span></span></strong>{{response}}<strong><span style=\"font-size:1.3em;\"><span style=\"line-height:107%\"><span style=\"font-family:Calibri,sans-serif\"><span style=\"color:#008080;\"></span></span></span></span></strong></li>\n</ul>\n",
+          "type": "clozeassociation",
+          "case_sensitive": true,
+          "validation": {
+            "scoring_type": "partialMatchV2",
+            "valid_response": {
+              "score": 5,
+              "value": [
+                "<span style=\"font-size:11.0pt\"><span style=\"line-height:107%\"><span style=\"font-family:&quot;Calibri&quot;,sans-serif\">explain</span></span></span>",
+                "<span style=\"font-size:11.0pt\"><span style=\"line-height:107%\"><span style=\"font-family:&quot;Calibri&quot;,sans-serif\">emphasise</span></span></span>",
+                "<span style=\"font-size:11.0pt\"><span style=\"line-height:107%\"><span style=\"font-family:&quot;Calibri&quot;,sans-serif\">demonstrate</span></span></span>",
+                "<span style=\"font-size:11.0pt\"><span style=\"line-height:107%\"><span style=\"font-family:&quot;Calibri&quot;,sans-serif\">mention</span></span></span>",
+                "<span style=\"font-size:11.0pt\"><span style=\"line-height:107%\"><span style=\"font-family:&quot;Calibri&quot;,sans-serif\">question</span></span></span>"
+              ]
+            }
+          },
+          "instant_feedback": true,
+          "shuffle_options": true
+        },
+        "metadata": {
+          "name": "Cloze with drag & drop",
+          "template_reference": "51a8c1e7-f34f-4faf-b211-da458e891fcb"
+        }
+      },
+      "feedbackInfo": [
+        null,
+        null
+      ]
+    },
+    {
+      "response_id": "804f20a2-201b-440c-bf13-2b0765ba2f9b_7cd48ed6d3ec0658812ff1a6cc5b5ec9",
+      "question_type": "clozedropdown",
+      "dt_score_updated": "2022-10-27T05:02:56Z",
+      "automarkable": true,
+      "attempted": true,
+      "score": 5,
+      "max_score": 5,
+      "question_reference": "23a8bf4e-0026-4c85-b7df-705034aa9cb4",
+      "item_reference": "147839cc-def4-42f3-9f87-43dcf70c3ab2",
+      "response": {
+        "value": [
+          "How you feel",
+          "Why",
+          "How",
+          "What",
+          "supports"
+        ],
+        "type": "array",
+        "apiVersion": "v2.168.23",
+        "revision": 3,
+        "feedbackAttemptsCount": 2
+      },
+      "questionInfo": {
+        "type": "clozedropdown",
+        "widget_type": "response",
+        "reference": "23a8bf4e-0026-4c85-b7df-705034aa9cb4",
+        "data": {
+          "possible_responses": [
+            [
+              "How you feel",
+              "Why",
+              "How",
+              "What",
+              "supports"
+            ],
+            [
+              "How you feel",
+              "Why",
+              "How",
+              "What",
+              "supports"
+            ],
+            [
+              "How you feel",
+              "Why",
+              "How",
+              "What",
+              "supports"
+            ],
+            [
+              "How you feel",
+              "Why",
+              "How",
+              "What",
+              "supports"
+            ],
+            [
+              "How you feel",
+              "Why",
+              "How",
+              "What",
+              "supports"
+            ]
+          ],
+          "response_container": {
+            "pointer": "left"
+          },
+          "stimulus": "<h2><span style=\"color:#008080;\"><b>EVALUATION&nbsp;</b></span></h2>\n\n<p><img height=\"159\" src=\"https://assets.learnosity.com/organisations/755/7badb5c5-7f5f-4d12-8c3e-b96c89777130.jpg\" width=\"399\"></p>\n\n<h4><b>Evaluation is when you&nbsp;<u><span style=\"color:#008080;\">explain</span></u>&nbsp;the significance of evidence.&nbsp;</b></h4>\n\n<h4><b>This may seem clear to you, but you need to make sure it is clear to the reader!</b></h4>\n\n<p>&nbsp;</p>\n\n<h4><strong><span style=\"color:#008080;\">► </span>Make sure to explain...</strong></h4>\n",
+          "template": "<ul id=\"yui_3_17_2_1_1634556236009_150\">\n\t<li id=\"yui_3_17_2_1_1634556236009_154\"><span style=\"font-size:1em;\">{{response}}</span>&nbsp;<span style=\"font-size:1.3em;\">about the evidence (do you agree/disagree?).</span></li>\n\t<li>{{response}}&nbsp;<span style=\"font-size:1.3em;\">you think the&nbsp;evidence&nbsp;is significant.</span></li>\n\t<li id=\"yui_3_17_2_1_1634556236009_156\">{{response}}&nbsp;<span style=\"font-size:1.3em;\">one piece of evidence is similar to or different from another.</span></li>\n\t<li><span style=\"font-size:1.3em;\"></span><span style=\"font-size:1em;\">{{response}}</span><span style=\"font-size:1.3em;\">&nbsp;the evidence shows.</span></li>\n\t<li><span style=\"font-size:1.3em;\">How&nbsp;the evidence </span><span style=\"font-size:1em;\">{{response}}</span><span style=\"font-size:1.3em;\">&nbsp;your argument.</span></li>\n</ul>\n",
+          "type": "clozedropdown",
+          "case_sensitive": true,
+          "validation": {
+            "scoring_type": "partialMatchV2",
+            "valid_response": {
+              "score": 5,
+              "value": [
+                "How you feel",
+                "Why",
+                "How",
+                "What",
+                "supports"
+              ]
+            }
+          },
+          "instant_feedback": true,
+          "shuffle_options": true
+        },
+        "metadata": {
+          "name": "Cloze with drop down",
+          "template_reference": "2fbba51b-e35e-441f-83c7-2662e2e81fa6"
+        }
+      },
+      "feedbackInfo": [
+        null,
+        null
+      ]
+    },
+    {
+      "response_id": "804f20a2-201b-440c-bf13-2b0765ba2f9b_6463373ce884a158e2804e786f9578c9",
+      "question_type": "association",
+      "dt_score_updated": "2022-10-27T05:02:56Z",
+      "automarkable": false,
+      "attempted": true,
+      "score": null,
+      "max_score": null,
+      "question_reference": "fa12ec64-d3e4-479b-9c05-5bcf2250440f",
+      "item_reference": "147839cc-def4-42f3-9f87-43dcf70c3ab2",
+      "response": {
+        "value": [
+          "<strong>This </strong>demonstrates that the suggested measure can be implemented successfully.",
+          "<strong>These&nbsp;</strong><b><strong>results</strong>&nbsp;</b>seem to confirm the theory that customers connect higher prices with higher quality.",
+          "<strong>These&nbsp;figures</strong><b>&nbsp;</b>suggest that the marketing campaign has been reasonably successful.",
+          "<strong>&nbsp;Based on this&nbsp;evidence,</strong> it can be assumed that sales will continue to rise."
+        ],
+        "type": "array",
+        "updatedFormat": true,
+        "apiVersion": "v2.168.23",
+        "revision": 2
+      },
+      "questionInfo": {
+        "type": "association",
+        "widget_type": "response",
+        "reference": "fa12ec64-d3e4-479b-9c05-5bcf2250440f",
+        "data": {
+          "possible_responses": [
+            "<strong>These&nbsp;figures</strong><b>&nbsp;</b>suggest that the marketing campaign has been reasonably successful.",
+            "<strong>&nbsp;Based on this&nbsp;evidence,</strong> it can be assumed that sales will continue to rise.",
+            "<strong>This </strong>demonstrates that the suggested measure can be implemented successfully.",
+            "<strong>These&nbsp;</strong><b><strong>results</strong>&nbsp;</b>seem to confirm the theory that customers connect higher prices with higher quality."
+          ],
+          "stimulus": "<h2 id=\"yui_3_17_2_1_1634556236009_162\"><b id=\"yui_3_17_2_1_1634556236009_161\">Evaluation sentences usually come <u><span style=\"color:#008080;\">after</span></u>&nbsp;your evidence.</b></h2>\n\n<h4><img height=\"149\" src=\"https://assets.learnosity.com/organisations/755/a75af95c-d285-4cf4-b257-0e98b9a3854a.jpg\" width=\"150\"></h4>\n\n<h2><strong>Consider the sentences below.&nbsp;The first sentence <u><span style=\"color:#008080;\">presents</span></u> the evidence.</strong></h2>\n\n<h4><strong><span style=\"color:#008080;\">► </span>Choose the best <u><span style=\"color:#008080;\">evaluative sentence</span></u> to follow.</strong></h4>\n",
+          "stimulus_list": [
+            "Data from 2019 showed sales rose by 9% in the previous year (Statista, 2019).",
+            "Samsung (2020) reported preorders for the new model exceeded those for all earlier versions.&nbsp;",
+            "Several industry competitors have introduced in-store recycling in the last five years, without significant set-up issues (Jones &amp; Wardle, 2019).",
+            "78% of those interviewed in Jones's study, chose the premium brand because the assumed it would be more reliable.&nbsp;"
+          ],
+          "type": "association",
+          "validation": {
+            "scoring_type": "partialMatchV2",
+            "valid_response": {
+              "score": 4,
+              "value": [
+                null,
+                null,
+                null,
+                null
+              ]
+            }
+          },
+          "instant_feedback": true,
+          "shuffle_options": true
+        },
+        "metadata": {
+          "name": "Match list",
+          "template_reference": "1fa22aac-1f88-47f7-941b-3c77759549e6"
+        }
+      },
+      "feedbackInfo": [
+        null,
+        null
+      ]
+    },
+    {
+      "response_id": "804f20a2-201b-440c-bf13-2b0765ba2f9b_0496ee96625312961bdb446eb116a791",
+      "question_type": "association",
+      "dt_score_updated": "2022-10-27T05:03:25Z",
+      "automarkable": true,
+      "attempted": true,
+      "score": 4,
+      "max_score": 4,
+      "question_reference": "7b6da879-833f-4998-836f-49884c936859",
+      "item_reference": "147839cc-def4-42f3-9f87-43dcf70c3ab2",
+      "response": {
+        "value": [
+          "It can be inferred from <strong>this result </strong>that convenience is more important to consumers than cost.",
+          "According to <strong>this&nbsp;</strong><b>theory</b>, gender equality probably cannot be achieved in the workplace in the near future.",
+          "<strong>These&nbsp;</strong><b>responses&nbsp;</b>appear to indicate low levels of public confidence in the government scheme.",
+          "However, <strong>this&nbsp;</strong><b><strong>claim</strong>&nbsp;</b>has been disputed by other experts in the field, who point to the dangers of focusing on such short-term gains."
+        ],
+        "type": "array",
+        "updatedFormat": true,
+        "apiVersion": "v2.168.23",
+        "revision": 2,
+        "feedbackAttemptsCount": 1
+      },
+      "questionInfo": {
+        "type": "association",
+        "widget_type": "response",
+        "reference": "7b6da879-833f-4998-836f-49884c936859",
+        "data": {
+          "possible_responses": [
+            "It can be inferred from <strong>this result </strong>that convenience is more important to consumers than cost.",
+            "According to <strong>this&nbsp;</strong><b>theory</b>, gender equality probably cannot be achieved in the workplace in the near future.",
+            "<strong>These&nbsp;</strong><b>responses&nbsp;</b>appear to indicate low levels of public confidence in the government scheme.",
+            "However, <strong>this&nbsp;</strong><b><strong>claim</strong>&nbsp;</b>has been disputed by other experts in the field, who point to the dangers of focusing on such short-term gains."
+          ],
+          "stimulus_list": [
+            "The vast majority of respondents (88%) replied that next-day delivery was the most important feature of the service.",
+            "Fairchild (2016) argued that social change would always slow down in the face of economic recession.",
+            "In the latest survey (Gallup, 2020), 70% of the respondents said they would not download the app unless it was compulsory.",
+            "Hardy (2017) argues that it is worth pursuing this aggressive sales tactic, as the profits made will outweigh losses."
+          ],
+          "type": "association",
+          "validation": {
+            "scoring_type": "partialMatchV2",
+            "valid_response": {
+              "score": 4,
+              "value": [
+                "It can be inferred from <strong>this result </strong>that convenience is more important to consumers than cost.",
+                "According to <strong>this&nbsp;</strong><b>theory</b>, gender equality probably cannot be achieved in the workplace in the near future.",
+                "<strong>These&nbsp;</strong><b>responses&nbsp;</b>appear to indicate low levels of public confidence in the government scheme.",
+                "However, <strong>this&nbsp;</strong><b><strong>claim</strong>&nbsp;</b>has been disputed by other experts in the field, who point to the dangers of focusing on such short-term gains."
+              ]
+            }
+          },
+          "instant_feedback": true,
+          "shuffle_options": true
+        },
+        "metadata": {
+          "name": "Match list",
+          "template_reference": "1fa22aac-1f88-47f7-941b-3c77759549e6"
+        }
+      },
+      "feedbackInfo": [
+        null,
+        null
+      ]
+    },
+    {
+      "response_id": "804f20a2-201b-440c-bf13-2b0765ba2f9b_d212bcf328d0cd8033923f2495358939",
+      "question_type": "association",
+      "dt_score_updated": "2022-10-27T05:03:38Z",
+      "automarkable": true,
+      "attempted": true,
+      "score": 4,
+      "max_score": 4,
+      "question_reference": "284afc4b-ca61-4274-8531-6fd8c461f537",
+      "item_reference": "147839cc-def4-42f3-9f87-43dcf70c3ab2",
+      "response": {
+        "value": [
+          "However,&nbsp;<b>this claim</b><b>&nbsp;</b>does not consider her own admission that companies and politicians misinform the public about the scale of the problem.",
+          "<strong>This </strong>suggests that although all stakeholders should be encouraged to reduce their impact, business should be the primary focus of CO2 reduction policy.&nbsp;",
+          "<b id=\"yui_3_17_2_1_1634558329096_113\">These figures</b>&nbsp;demonstrate the importance of maintaining a public transport network.",
+          "<b>This decline</b>&nbsp;could be due to increased political instability in the country."
+        ],
+        "type": "array",
+        "updatedFormat": true,
+        "apiVersion": "v2.168.23",
+        "revision": 1,
+        "feedbackAttemptsCount": 2
+      },
+      "questionInfo": {
+        "type": "association",
+        "widget_type": "response",
+        "reference": "284afc4b-ca61-4274-8531-6fd8c461f537",
+        "data": {
+          "possible_responses": [
+            "However,&nbsp;<b>this claim</b><b>&nbsp;</b>does not consider her own admission that companies and politicians misinform the public about the scale of the problem.",
+            "<strong>This </strong>suggests that although all stakeholders should be encouraged to reduce their impact, business should be the primary focus of CO2 reduction policy.&nbsp;",
+            "<b id=\"yui_3_17_2_1_1634558329096_113\">These figures</b>&nbsp;demonstrate the importance of maintaining a public transport network.",
+            "<b>This decline</b>&nbsp;could be due to increased political instability in the country."
+          ],
+          "stimulus_list": [
+            "Nuccitelli (2018)&nbsp;argues&nbsp;that individuals should take partial responsibility for the lack of climate change action, as they do not use their voting power to demand better policies.&nbsp;",
+            "Hyman (2020) points out that companies produce more than double the CO2 admissions of individuals.",
+            "Government data (Department for Transport, 2020) show that 19% of the UK public do not have access to a car or van.&nbsp;",
+            "Arkwright (2016) observed that the number of visitors had fallen substantially in recent years."
+          ],
+          "type": "association",
+          "validation": {
+            "scoring_type": "partialMatchV2",
+            "valid_response": {
+              "score": 4,
+              "value": [
+                "However,&nbsp;<b>this claim</b><b>&nbsp;</b>does not consider her own admission that companies and politicians misinform the public about the scale of the problem.",
+                "<strong>This </strong>suggests that although all stakeholders should be encouraged to reduce their impact, business should be the primary focus of CO2 reduction policy.&nbsp;",
+                "<b id=\"yui_3_17_2_1_1634558329096_113\">These figures</b>&nbsp;demonstrate the importance of maintaining a public transport network.",
+                "<b>This decline</b>&nbsp;could be due to increased political instability in the country."
+              ]
+            }
+          },
+          "instant_feedback": true,
+          "shuffle_options": true
+        },
+        "metadata": {
+          "name": "Match list",
+          "template_reference": "1fa22aac-1f88-47f7-941b-3c77759549e6"
+        }
+      },
+      "feedbackInfo": [
+        null,
+        null
+      ]
+    },
+    {
+      "response_id": "804f20a2-201b-440c-bf13-2b0765ba2f9b_4583ad321fe8090e78d295eed7a27390",
+      "question_type": "mcq",
+      "dt_score_updated": "2022-10-27T05:04:22Z",
+      "automarkable": true,
+      "attempted": true,
+      "score": 1,
+      "max_score": 1,
+      "question_reference": "85356238-8871-44a8-95ff-600a74648937",
+      "item_reference": "0166cb97-7a33-4ac1-9607-22b9a5bbd537",
+      "response": {
+        "value": [
+          "0"
+        ],
+        "type": "array",
+        "apiVersion": "v2.168.23",
+        "revision": 1,
+        "feedbackAttemptsCount": 1
+      },
+      "questionInfo": {
+        "type": "mcq",
+        "widget_type": "response",
+        "reference": "85356238-8871-44a8-95ff-600a74648937",
+        "data": {
+          "options": [
+            {
+              "label": "<span style=\"font-size:1.1em;\">However / on the other hand / although</span>",
+              "value": "0"
+            },
+            {
+              "label": "<span style=\"font-size:1.1em;\">Moreover / furthermore / in addition</span>",
+              "value": "1"
+            },
+            {
+              "label": "<span style=\"font-size:1.1em;\">Therefore / as a result / thus / consequently</span>",
+              "value": "2"
+            }
+          ],
+          "stimulus": "<h2><span style=\"color:#0000ff;\"><b>Linking Words</b></span></h2>\n\n<h4><img height=\"207\" src=\"https://assets.learnosity.com/organisations/755/4aa14e6f-7326-474f-9cc9-8360c79ece0f.png\" width=\"300\"></h4>\n\n<h4><span style=\"color:#0000ff;\"></span><b>Using&nbsp;linking words is a useful way to <span style=\"color:#0000ff;\">introduce your commen</span><span style=\"color:#0000ff;\">ts</span> on evidence.&nbsp;</b></h4>\n\n<p>&nbsp;</p>\n\n<p>&nbsp;</p>\n\n<h4><span style=\"color:#0000ff;\"><strong>► </strong></span><b>Choose the best linking word&nbsp;for each situation&nbsp;below:</b></h4>\n\n<p>&nbsp;</p>\n\n<div class=\"lrn-well\"><span style=\"font-size:1.3em;\"><strong>You want to make a</strong><b><strong>&nbsp;</strong><span style=\"color:#0000ff;\"><u>contrasting poin</u></span></b><span style=\"color:#0000ff;\"><b id=\"yui_3_17_2_1_1634562376069_162\"><u id=\"yui_3_17_2_1_1634562376069_160\">t or add an opposing view</u></b></span><b><span style=\"color:#0000ff;\">.</span> You should&nbsp;use...</b></span></div>\n",
+          "type": "mcq",
+          "ui_style": {
+            "choice_label": "upper-alpha",
+            "type": "block"
+          },
+          "validation": {
+            "scoring_type": "exactMatch",
+            "valid_response": {
+              "score": 1,
+              "value": [
+                "0"
+              ]
+            }
+          },
+          "instant_feedback": true,
+          "shuffle_options": true
+        },
+        "metadata": {
+          "name": "Multiple choice – block layout",
+          "template_reference": "33d53a22-1a59-4a03-9671-7f5104edd62e"
+        }
+      },
+      "feedbackInfo": [
+        null,
+        null
+      ]
+    },
+    {
+      "response_id": "804f20a2-201b-440c-bf13-2b0765ba2f9b_886b5ea035379969cee848508091a19b",
+      "question_type": "mcq",
+      "dt_score_updated": "2022-10-27T05:04:22Z",
+      "automarkable": true,
+      "attempted": true,
+      "score": 1,
+      "max_score": 1,
+      "question_reference": "020f0b67-8b82-4f7f-8505-a93d65ae8196",
+      "item_reference": "0166cb97-7a33-4ac1-9607-22b9a5bbd537",
+      "response": {
+        "value": [
+          "1"
+        ],
+        "type": "array",
+        "apiVersion": "v2.168.23",
+        "revision": 1,
+        "feedbackAttemptsCount": 1
+      },
+      "questionInfo": {
+        "type": "mcq",
+        "widget_type": "response",
+        "reference": "020f0b67-8b82-4f7f-8505-a93d65ae8196",
+        "data": {
+          "options": [
+            {
+              "label": "<span style=\"font-size:1.1em;\">However / on the other hand / although</span>",
+              "value": "0"
+            },
+            {
+              "label": "<span style=\"font-size:1.1em;\">Moreover / furthermore / in addition</span>",
+              "value": "1"
+            },
+            {
+              "label": "<span style=\"font-size:1.1em;\">Therefore / as a result / thus / consequently</span>",
+              "value": "2"
+            }
+          ],
+          "stimulus": "<div class=\"lrn-well\"><span style=\"font-size:1.3em;\"><strong>You want to <u><span style=\"color:#0000ff;\">add a point or more evidence to support the same idea</span></u>.</strong><b>&nbsp;You should&nbsp;use...</b></span></div>\n",
+          "type": "mcq",
+          "ui_style": {
+            "choice_label": "upper-alpha",
+            "type": "block"
+          },
+          "validation": {
+            "scoring_type": "exactMatch",
+            "valid_response": {
+              "score": 1,
+              "value": [
+                "1"
+              ]
+            }
+          },
+          "instant_feedback": true,
+          "shuffle_options": true
+        },
+        "metadata": {
+          "name": "Multiple choice – block layout",
+          "template_reference": "33d53a22-1a59-4a03-9671-7f5104edd62e"
+        }
+      },
+      "feedbackInfo": [
+        null,
+        null
+      ]
+    },
+    {
+      "response_id": "804f20a2-201b-440c-bf13-2b0765ba2f9b_f5335568af39ff623c1e43c3699af3a0",
+      "question_type": "mcq",
+      "dt_score_updated": "2022-10-27T05:04:36Z",
+      "automarkable": true,
+      "attempted": true,
+      "score": 1,
+      "max_score": 1,
+      "question_reference": "efda7f2c-fdcd-4c4e-9dd9-36203b2d9f51",
+      "item_reference": "0166cb97-7a33-4ac1-9607-22b9a5bbd537",
+      "response": {
+        "value": [
+          "2"
+        ],
+        "type": "array",
+        "apiVersion": "v2.168.23",
+        "revision": 1,
+        "feedbackAttemptsCount": 2
+      },
+      "questionInfo": {
+        "type": "mcq",
+        "widget_type": "response",
+        "reference": "efda7f2c-fdcd-4c4e-9dd9-36203b2d9f51",
+        "data": {
+          "options": [
+            {
+              "label": "<span style=\"font-size:1.1em;\">However / on the other hand / although</span>",
+              "value": "0"
+            },
+            {
+              "label": "<span style=\"font-size:1.1em;\">Moreover / furthermore / in addition</span>",
+              "value": "1"
+            },
+            {
+              "label": "<span style=\"font-size:1.1em;\">Therefore / as a result / thus / consequently</span>",
+              "value": "2"
+            }
+          ],
+          "stimulus": "<div class=\"lrn-well\"><strong style=\"font-size: 1.3em;\">You want to show&nbsp;</strong><span style=\"font-size: 1.3em;\"><strong>the</strong> </span><u><span style=\"color:#0000ff;\"><b style=\"font-size: 1.3em;\">logical consequence</b></span></u><b style=\"font-size: 1.3em;\">&nbsp;of the information you presented. You should&nbsp;use...</b></div>\n",
+          "type": "mcq",
+          "ui_style": {
+            "choice_label": "upper-alpha",
+            "type": "block"
+          },
+          "validation": {
+            "scoring_type": "exactMatch",
+            "valid_response": {
+              "score": 1,
+              "value": [
+                "2"
+              ]
+            }
+          },
+          "instant_feedback": true,
+          "shuffle_options": true
+        },
+        "metadata": {
+          "name": "Multiple choice – block layout",
+          "template_reference": "33d53a22-1a59-4a03-9671-7f5104edd62e"
+        }
+      },
+      "feedbackInfo": [
+        null,
+        null
+      ]
+    },
+    {
+      "response_id": "804f20a2-201b-440c-bf13-2b0765ba2f9b_d3d03bf2af78a9a71688b93268087386",
+      "question_type": "clozeassociation",
+      "dt_score_updated": "2022-10-27T05:04:50Z",
+      "automarkable": true,
+      "attempted": true,
+      "score": 3,
+      "max_score": 3,
+      "question_reference": "ea1fb20d-8a35-41ba-afaf-843f086dad47",
+      "item_reference": "0166cb97-7a33-4ac1-9607-22b9a5bbd537",
+      "response": {
+        "value": [
+          "However",
+          "Therefore",
+          "Moreover"
+        ],
+        "type": "array",
+        "apiVersion": "v2.168.23",
+        "revision": 2,
+        "feedbackAttemptsCount": 1
+      },
+      "questionInfo": {
+        "type": "clozeassociation",
+        "widget_type": "response",
+        "reference": "ea1fb20d-8a35-41ba-afaf-843f086dad47",
+        "data": {
+          "possible_responses": [
+            "However",
+            "Therefore",
+            "Moreover"
+          ],
+          "response_container": {
+            "pointer": "left"
+          },
+          "stimulus": "<h2><strong>Next, let's look at&nbsp;<span style=\"color:#8b4513;\">linking words&nbsp;</span>in context...</strong></h2>\n\n<p><img height=\"100\" src=\"https://assets.learnosity.com/organisations/755/c50c9b3e-4e47-4fcc-97df-5ae6c2a49de7.jpg\" width=\"178\" /></p>\n\n<h4><span style=\"color:#8b4513;\"><span style=\"font-weight: bold;\">►</span></span><b>&nbsp;Read the&nbsp;sentences carefully. Choose the best linking word for each one.</b></h4>\n\n<p>&nbsp;</p>\n",
+          "template": "<p style=\"margin-left: 40px;\"><span style=\"font-size:1.1em;\"><strong>1.</strong><em> Experts agree that organic cotton is the most sustainable form of cotton (Textile Exchange, 2019). </em></span><span style=\"font-size:1em;\"><em>{{response}}</em></span><span style=\"font-size:1.1em;\"><em>, it is important to consider practical aspects, such as cost and sourcing.</em><br>\n<strong>2.</strong><em> Experts agree that organic cotton is the most sustainable form of cotton (Textile Exchange, 2019). </em></span><span style=\"font-size:1em;\"><em>{{response}}</em></span><span style=\"font-size:1.1em;\"><em>, it should be used more if the company wishes to improve its green credentials.</em><br>\n<strong>3. </strong><em>Experts agree that organic cotton is the most sustainable form of cotton (Textile Exchange, 2019). </em></span><span style=\"font-size:1em;\"><em>{{response}}</em></span><span style=\"font-size:1.1em;\"><em>, the lack of chemicals makes it suitable for sensitive skin.</em></span></p>\n",
+          "type": "clozeassociation",
+          "case_sensitive": true,
+          "validation": {
+            "scoring_type": "partialMatchV2",
+            "valid_response": {
+              "score": 3,
+              "value": [
+                "However",
+                "Therefore",
+                "Moreover"
+              ]
+            }
+          },
+          "instant_feedback": true,
+          "shuffle_options": true
+        },
+        "metadata": {
+          "name": "Cloze with drag & drop",
+          "template_reference": "51a8c1e7-f34f-4faf-b211-da458e891fcb"
+        }
+      },
+      "feedbackInfo": [
+        null,
+        null
+      ]
+    },
+    {
+      "response_id": "804f20a2-201b-440c-bf13-2b0765ba2f9b_d2908eee8a18884e59628398d4fd7ee7",
+      "question_type": "clozeassociation",
+      "dt_score_updated": "2022-10-27T05:05:04Z",
+      "automarkable": true,
+      "attempted": true,
+      "score": 1,
+      "max_score": 1,
+      "question_reference": "d0ca6a2a-bb7d-48d5-98ba-1849d2fa3a5c",
+      "item_reference": "0166cb97-7a33-4ac1-9607-22b9a5bbd537",
+      "response": {
+        "value": [
+          "<span style=\"font-size:1.1em;\">Although</span>",
+          "<span style=\"font-size:1.1em;\">As a result</span>",
+          "<span style=\"font-size:1.1em;\">Furthermore</span>"
+        ],
+        "type": "array",
+        "apiVersion": "v2.168.23",
+        "revision": 1,
+        "feedbackAttemptsCount": 1
+      },
+      "questionInfo": {
+        "type": "clozeassociation",
+        "widget_type": "response",
+        "reference": "d0ca6a2a-bb7d-48d5-98ba-1849d2fa3a5c",
+        "data": {
+          "possible_responses": [
+            "<span style=\"font-size:1.1em;\">Although</span>",
+            "<span style=\"font-size:1.1em;\">As a result</span>",
+            "<span style=\"font-size:1.1em;\">Furthermore</span>"
+          ],
+          "response_container": {
+            "pointer": "left"
+          },
+          "template": "<p style=\"margin-left: 40px;\"><strong><span style=\"font-size:1.1em;\">4. </span></strong><span style=\"font-size:1em;\">{{response}}</span><em><span style=\"font-size:1.1em;\">, 55% of customers express a preference for face-to-face customer service (Personnel, 2019), this could be due to unsatisfactory experiences with online services in the past.</span></em></p>\n\n<p style=\"margin-left: 40px;\"><strong><span style=\"font-size:1.1em;\">5.</span></strong><em><span style=\"font-size:1.1em;\"> 55% of customers express a preference for face-to-face customer service (Personnel, 2019). &nbsp;</span></em><span style=\"font-size:1em;\">{{response}}</span><em><span style=\"font-size:1.1em;\">, it is recommended that stores continue to provide helpdesks in store.</span></em></p>\n\n<p style=\"margin-left: 40px;\"><strong><span style=\"font-size:1.1em;\">6.</span></strong><em><span style=\"font-size:1.1em;\"> 55% of customers express a preference for face-to-face customer service (Personnel, 2019). &nbsp;</span></em><span style=\"font-size:1em;\">{{response}}</span><em><span style=\"font-size:1.1em;\">, half of these said it was the most important factor.</span></em><br>\n&nbsp;</p>\n",
+          "type": "clozeassociation",
+          "case_sensitive": true,
+          "validation": {
+            "scoring_type": "partialMatchV2",
+            "valid_response": {
+              "score": 1,
+              "value": [
+                "<span style=\"font-size:1.1em;\">Although</span>",
+                "<span style=\"font-size:1.1em;\">As a result</span>",
+                "<span style=\"font-size:1.1em;\">Furthermore</span>"
+              ]
+            }
+          },
+          "instant_feedback": true,
+          "shuffle_options": true
+        },
+        "metadata": {
+          "name": "Cloze with drag & drop",
+          "template_reference": "51a8c1e7-f34f-4faf-b211-da458e891fcb"
+        }
+      },
+      "feedbackInfo": [
+        null,
+        null
+      ]
+    },
+    {
+      "response_id": "804f20a2-201b-440c-bf13-2b0765ba2f9b_e90c3e55c25322706c599bafd965e25e",
+      "question_type": "clozeassociation",
+      "dt_score_updated": "2022-10-27T05:05:33Z",
+      "automarkable": true,
+      "attempted": true,
+      "score": 3,
+      "max_score": 3,
+      "question_reference": "817a5204-9338-46f8-8e8b-bd7d4bb76bd6",
+      "item_reference": "0166cb97-7a33-4ac1-9607-22b9a5bbd537",
+      "response": {
+        "value": [
+          "On the other hand",
+          "Additionally",
+          "Consequently&nbsp;"
+        ],
+        "type": "array",
+        "apiVersion": "v2.168.23",
+        "revision": 1,
+        "feedbackAttemptsCount": 2
+      },
+      "questionInfo": {
+        "type": "clozeassociation",
+        "widget_type": "response",
+        "reference": "817a5204-9338-46f8-8e8b-bd7d4bb76bd6",
+        "data": {
+          "possible_responses": [
+            "On the other hand",
+            "Additionally",
+            "Consequently&nbsp;"
+          ],
+          "response_container": {
+            "pointer": "left"
+          },
+          "template": "<p style=\"margin-left: 40px;\"><strong><span style=\"font-size:1.1em;\">7. </span></strong><em><span style=\"font-size:1.1em;\">Smithson (2015) claims the key to reducing waste is to produce more durable garments. {{response}}, Timpson (2017) argues that durability is not an issue, if the discarded garments are easily recyclable.</span></em></p>\n\n<p style=\"margin-left: 40px;\"><em><span style=\"font-size:1.1em;\"></span></em><span style=\"font-size:1.1em;\"><strong>8.</strong></span><em><span style=\"font-size:1.1em;\"> Smithson (2015) claims that the key to reducing waste is to produce more durable garments. {{response}}, Marky (2017) suggests in-store repair services will increase longevity of clothing.</span></em></p>\n\n<p style=\"margin-left: 40px;\"><em><span style=\"font-size:1.1em;\"></span></em><span style=\"font-size:1.1em;\"><strong>9.</strong></span><em><span style=\"font-size:1.1em;\"> Smithson (2015) claims the key to reducing waste is to produce more durable garments. {{response}}, as Duran (2014) argues, the logical next step is to research more durable materials.</span></em></p>\n",
+          "type": "clozeassociation",
+          "case_sensitive": true,
+          "validation": {
+            "scoring_type": "partialMatchV2",
+            "valid_response": {
+              "score": 3,
+              "value": [
+                "On the other hand",
+                "Additionally",
+                "Consequently&nbsp;"
+              ]
+            }
+          },
+          "instant_feedback": true,
+          "shuffle_options": true
+        },
+        "metadata": {
+          "name": "Cloze with drag & drop",
+          "template_reference": "51a8c1e7-f34f-4faf-b211-da458e891fcb"
+        }
+      },
+      "feedbackInfo": [
+        null,
+        null
+      ]
+    },
+    {
+      "response_id": "804f20a2-201b-440c-bf13-2b0765ba2f9b_061df7c1c5065d195592e4e5f690b863",
+      "question_type": "clozedropdown",
+      "dt_score_updated": "2022-10-27T05:07:13Z",
+      "automarkable": true,
+      "attempted": true,
+      "score": 6,
+      "max_score": 6,
+      "question_reference": "7e07bf3f-ec4e-40d8-928c-d0ae80ab3168",
+      "item_reference": "6ffcec56-f8e4-4a39-9d8f-47bd46297fa2",
+      "response": {
+        "value": [
+          "coming to the end",
+          "the paragraph topic",
+          "the key idea",
+          "new information",
+          "own viewpoint",
+          "overall aims"
+        ],
+        "type": "array",
+        "apiVersion": "v2.168.23",
+        "revision": 4,
+        "feedbackAttemptsCount": 3
+      },
+      "questionInfo": {
+        "type": "clozedropdown",
+        "widget_type": "response",
+        "reference": "7e07bf3f-ec4e-40d8-928c-d0ae80ab3168",
+        "data": {
+          "possible_responses": [
+            [
+              "coming to the end",
+              "the paragraph topic",
+              "the key idea",
+              "new information",
+              "own viewpoint",
+              "overall aims"
+            ],
+            [
+              "coming to the end",
+              "the paragraph topic",
+              "the key idea",
+              "new information",
+              "own viewpoint",
+              "overall aims"
+            ],
+            [
+              "coming to the end",
+              "the paragraph topic",
+              "the key idea",
+              "new information",
+              "own viewpoint",
+              "overall aims"
+            ],
+            [
+              "coming to the end",
+              "the paragraph topic",
+              "the key idea",
+              "new information",
+              "own viewpoint",
+              "overall aims"
+            ],
+            [
+              "coming to the end",
+              "the paragraph topic",
+              "the key idea",
+              "new information",
+              "own viewpoint",
+              "overall aims"
+            ],
+            [
+              "coming to the end",
+              "the paragraph topic",
+              "the key idea",
+              "new information",
+              "own viewpoint",
+              "overall aims"
+            ]
+          ],
+          "response_container": {
+            "pointer": "left"
+          },
+          "stimulus": "<h2><span style=\"color:#008000;\"><strong>Closing Sentences</strong></span></h2>\n\n<p><img height=\"250\" src=\"https://assets.learnosity.com/organisations/755/f7af3863-c949-4bda-9c10-f47e1a47563e.jpg\" width=\"246\" /></p>\n\n<h4><strong>It is important to include a <u><span style=\"color:#008000;\">closing&nbsp;sentence</span></u> in paragraphs where you discuss sources. </strong></h4>\n\n<h4><strong>This allows you to <u><span style=\"color:#008000;\">evaluate the evidence</span></u> and <u><span style=\"color:#008000;\">move your argument forward</span></u>.</strong></h4>\n\n<p>&nbsp;</p>\n\n<h3><strong><span style=\"color:#008000;\">► </span>It is an essential feature of Critical Writing!</strong></h3>\n\n<p>&nbsp;</p>\n\n<h4><strong>Read the notes below carefully and choose the best word to complete each one.</strong></h4>\n\n<p>&nbsp;</p>\n",
+          "template": "<h4><span style=\"color:#008000;\"><strong>What is a Closing&nbsp;Sentence?</strong></span></h4>\n\n<ul>\n\t<li>\n\t<p><span style=\"font-size:1.1em;\">A closing sentence sentence shows you are </span><span style=\"font-size:1em;\">{{response}}</span><span style=\"font-size:1.1em;\"> &nbsp;of the paragraph.</span></p>\n\t</li>\n\t<li style=\"margin-bottom: 11px;\">\n\t<p><span style=\"font-size:1.1em;\"><span style=\"line-height:107%\"><span style=\"font-family:Calibri,sans-serif\"></span></span></span><span style=\"font-size:1.1em;\">This is where you evaluate everything you have written about</span><span style=\"font-size:1.1em;\"><span style=\"line-height:107%\"><span style=\"font-family:Calibri,sans-serif\"> </span></span></span><span style=\"font-size:1em;\"><span style=\"line-height:107%\"><span style=\"font-family:Calibri,sans-serif\">{{response}}</span></span></span><span style=\"font-size:1.1em;\"><span style=\"line-height:107%\"><span style=\"font-family:Calibri,sans-serif\">.</span></span></span></p>\n\t</li>\n\t<li>\n\t<p><span style=\"font-size:1.1em;\">You need to show the reader&nbsp;</span><span style=\"font-size:1em;\">{{response}}</span><span style=\"font-size:1.1em;\"> of the paragraph (what the evidence teaches us) and why it is important.</span></p>\n\t</li>\n\t<li>\n\t<p><span style=\"font-size:1.1em;\">It does not include any </span>{{response}}<span style=\"font-size:1.1em;\">.</span></p>\n\t</li>\n\t<li>\n\t<p><span style=\"font-size:1.1em;\">It is important to write effective closing sentences, to give your </span><span style=\"font-size:1em;\">{{response}}</span><span style=\"font-size:1.1em;\"> on the evidence you have discussed in each paragraph and to show that the </span><span style=\"font-size:1em;\">{{response}}</span><span style=\"font-size:1.1em;\">&nbsp;of the report are being met.</span></p>\n\t</li>\n</ul>\n",
+          "type": "clozedropdown",
+          "case_sensitive": true,
+          "validation": {
+            "scoring_type": "partialMatchV2",
+            "valid_response": {
+              "score": 6,
+              "value": [
+                "coming to the end",
+                "the paragraph topic",
+                "the key idea",
+                "new information",
+                "own viewpoint",
+                "overall aims"
+              ]
+            }
+          },
+          "instant_feedback": true,
+          "shuffle_options": true
+        },
+        "metadata": {
+          "name": "Cloze with drop down",
+          "template_reference": "2fbba51b-e35e-441f-83c7-2662e2e81fa6"
+        }
+      },
+      "feedbackInfo": [
+        null,
+        null
+      ]
+    },
+    {
+      "response_id": "804f20a2-201b-440c-bf13-2b0765ba2f9b_6a9a7ac70d63b90f58da1026ed98ba20",
+      "question_type": "orderlist",
+      "dt_score_updated": "2022-10-27T05:08:39Z",
+      "automarkable": true,
+      "attempted": true,
+      "score": 5,
+      "max_score": 5,
+      "question_reference": "7988e069-8ac0-4f58-aea3-a39a1619b923",
+      "item_reference": "6ffcec56-f8e4-4a39-9d8f-47bd46297fa2",
+      "response": {
+        "value": [
+          0,
+          1,
+          2,
+          3,
+          4
+        ],
+        "type": "array",
+        "apiVersion": "v2.168.23",
+        "revision": 3,
+        "feedbackAttemptsCount": 6
+      },
+      "questionInfo": {
+        "type": "orderlist",
+        "widget_type": "response",
+        "reference": "7988e069-8ac0-4f58-aea3-a39a1619b923",
+        "data": {
+          "list": [
+            "<span style=\"font-size:1.3em;\">Restate <strong>the topic of the paragraph</strong>.</span>",
+            "<span style=\"font-size:1.3em;\">Summarise <strong>the key ideas in the paragraph</strong>.</span>",
+            "<span style=\"font-size:1.3em;\"><strong>Draw a conclusion</strong> based on the key ideas in the paragraph.</span>",
+            "<span style=\"font-size:1.3em;\">Make a link to the <strong>next paragraph</strong>.</span>",
+            "<span style=\"font-size:1.3em;\">Show how this paragraph connects to your <strong>overall aim</strong>.</span>"
+          ],
+          "stimulus": "<table class=\"table table-condensed lrn_width_auto table-no-border\">\n\t<tbody>\n\t\t<tr>\n\t\t\t<td><img height=\"113\" src=\"https://assets.learnosity.com/organisations/755/a956ecb5-b5d4-4adb-8d04-3eb280f2e2fb.jpg\" width=\"151\"></td>\n\t\t\t<td>\n\t\t\t<h2><strong>So, what does a strong closing sentence include?</strong></h2>\n\n\t\t\t<h4><strong>Put the functions below in a <u><span style=\"color:#ff8c00;\">logical order</span></u>.</strong></h4>\n\t\t\t</td>\n\t\t</tr>\n\t</tbody>\n</table>\n\n<h2>&nbsp;</h2>\n\n<h4><strong><span style=\"color:#ff8c00;\">►</span> <span style=\"color:#000000;\">Note</span>: A closing sentence may not include all of these functions,&nbsp;<u><span style=\"color:#ff8c00;\">only ONE is mandatory</span></u>!</strong></h4>\n\n<p>&nbsp;</p>\n",
+          "type": "orderlist",
+          "validation": {
+            "scoring_type": "exactMatch",
+            "valid_response": {
+              "score": 5,
+              "value": [
+                0,
+                1,
+                2,
+                3,
+                4
+              ]
+            }
+          },
+          "instant_feedback": true,
+          "shuffle_options": true
+        },
+        "metadata": {
+          "name": "Order list",
+          "template_reference": "0c7f68f7-2be6-4ae0-8492-0ab78c8d0010"
+        }
+      },
+      "feedbackInfo": [
+        null,
+        null
+      ]
+    },
+    {
+      "response_id": "804f20a2-201b-440c-bf13-2b0765ba2f9b_30b84436f1521dde0653c417ec18f8e2",
+      "question_type": "choicematrix",
+      "dt_score_updated": "2022-10-27T05:08:53Z",
+      "automarkable": true,
+      "attempted": true,
+      "score": 5,
+      "max_score": 5,
+      "question_reference": "31f77c34-968c-427c-94ef-cb585c7211b2",
+      "item_reference": "6ffcec56-f8e4-4a39-9d8f-47bd46297fa2",
+      "response": {
+        "value": [
+          [
+            0
+          ],
+          [
+            0
+          ],
+          [
+            1
+          ],
+          [
+            0
+          ],
+          [
+            0
+          ]
+        ],
+        "type": "array",
+        "apiVersion": "v2.168.23",
+        "revision": 2,
+        "feedbackAttemptsCount": 2
+      },
+      "questionInfo": {
+        "type": "choicematrix",
+        "widget_type": "response",
+        "reference": "31f77c34-968c-427c-94ef-cb585c7211b2",
+        "data": {
+          "options": [
+            "<span style=\"color:#008000;\"><strong>ESSENTIAL (must include)</strong></span>",
+            "<strong><span style=\"color:#ff8c00;\">OPTIONAL (may or may not include)</span></strong>"
+          ],
+          "stems": [
+            "Restate &nbsp;the topic of the paragraph.",
+            "Summarise the key ideas in the paragraph.",
+            "Draw a conclusion based on the key ideas in the paragraph.",
+            "Make a link &nbsp;to the next paragraph.",
+            "Show how this paragraph connects to your overall aim."
+          ],
+          "stimulus": "<h2>&nbsp;</h2>\n\n<h2><strong>Only ONE of these functions is <font color=\"#008000\">essential</font>, the others are <span style=\"color:#ff8c00;\">optional</span>.</strong></h2>\n\n<p>&nbsp;</p>\n\n<h4><strong><span style=\"color:#008000;\">► </span>Which function of the closing sentence is <u><span style=\"color:#008000;\">ESSENTIAL</span></u>?</strong></h4>\n\n<p>&nbsp;</p>\n",
+          "type": "choicematrix",
+          "ui_style": {
+            "type": "inline",
+            "horizontal_lines": false
+          },
+          "validation": {
+            "scoring_type": "partialMatchV2",
+            "valid_response": {
+              "score": 5,
+              "value": [
+                [
+                  0
+                ],
+                [
+                  0
+                ],
+                [
+                  1
+                ],
+                [
+                  0
+                ],
+                [
+                  0
+                ]
+              ]
+            }
+          },
+          "instant_feedback": true
+        },
+        "metadata": {
+          "name": "Choice matrix – inline",
+          "template_reference": "f109c77c-390e-4595-93b8-2dbd547251b6"
+        }
+      },
+      "feedbackInfo": [
+        null,
+        null
+      ]
+    },
+    {
+      "response_id": "804f20a2-201b-440c-bf13-2b0765ba2f9b_06d2dba371be34b5e3f958aadb93bdf9",
+      "question_type": "clozeassociation",
+      "dt_score_updated": "2022-10-27T05:10:03Z",
+      "automarkable": true,
+      "attempted": true,
+      "score": 1,
+      "max_score": 1,
+      "question_reference": "30ccab2f-17ed-42ce-972b-a8ccadcb95fb",
+      "item_reference": "5fc1b4de-59d6-4ed1-a993-5a2c0fe93c35",
+      "response": {
+        "value": [
+          "<span style=\"font-size:1.3em;\">key </span>",
+          "<span style=\"font-size:1.3em;\">problem </span>",
+          "<span style=\"font-size:1.3em;\">with this</span>",
+          "<span style=\"font-size:1.3em;\">explanation </span>"
+        ],
+        "type": "array",
+        "apiVersion": "v2.168.23",
+        "revision": 1,
+        "feedbackAttemptsCount": 2
+      },
+      "questionInfo": {
+        "type": "clozeassociation",
+        "widget_type": "response",
+        "reference": "30ccab2f-17ed-42ce-972b-a8ccadcb95fb",
+        "data": {
+          "possible_responses": [
+            "<span style=\"font-size:1.3em;\">key </span>",
+            "<span style=\"font-size:1.3em;\">problem </span>",
+            "<span style=\"font-size:1.3em;\">with this</span>",
+            "<span style=\"font-size:1.3em;\">explanation </span>"
+          ],
+          "response_container": {
+            "pointer": "left"
+          },
+          "stimulus": "<table class=\"table table-condensed lrn_width_auto table-no-border\">\n\t<tbody>\n\t\t<tr>\n\t\t\t<td><img class=\"lrn-image-non-responsive\" height=\"150\" src=\"https://assets.learnosity.com/organisations/755/71a10fda-7203-4fc8-845c-02e7b9e4cadc.jpg\" width=\"225\"></td>\n\t\t\t<td>\n\t\t\t<p><span style=\"font-size:2em;\"><strong>Although <span style=\"color:#0000cd;\">pointing out problems</span> in the research is <span style=\"color:#b22222;\"><u>NOT</u> </span><span style=\"color:#b22222;\">the main aim of critical writing</span>, this may be necessary.</strong></span></p>\n\t\t\t</td>\n\t\t</tr>\n\t</tbody>\n</table>\n\n<h4><b>It’s useful to have a <span style=\"color:#0000ff;\">bank of phrases</span> to introduce criticisms you may find in the research&nbsp;you read.</b></h4>\n\n<h4><b><span style=\"color:#b22222;\">►</span> Here are some&nbsp;useful phrases&nbsp;- organise&nbsp;the words into complete sentences.</b></h4>\n\n<p>&nbsp;</p>\n",
+          "template": "<p style=\"margin-left: 40px;\"><span style=\"font-size:1.3em;\">1. The </span><span style=\"font-size:1em;\">{{response}}</span><span style=\"font-size:1.3em;\">&nbsp;</span><span style=\"font-size:1em;\">{{response}}</span><span style=\"font-size:1.3em;\">&nbsp;</span><span style=\"font-size:1em;\">{{response}}</span><span style=\"font-size:1.3em;\">&nbsp;</span><span style=\"font-size:1em;\">{{response}}</span><span style=\"font-size:1.3em;\">&nbsp;is that...</span></p>\n",
+          "type": "clozeassociation",
+          "case_sensitive": true,
+          "validation": {
+            "scoring_type": "exactMatch",
+            "valid_response": {
+              "score": 1,
+              "value": [
+                "<span style=\"font-size:1.3em;\">key </span>",
+                "<span style=\"font-size:1.3em;\">problem </span>",
+                "<span style=\"font-size:1.3em;\">with this</span>",
+                "<span style=\"font-size:1.3em;\">explanation </span>"
+              ]
+            }
+          },
+          "instant_feedback": true,
+          "shuffle_options": true
+        },
+        "metadata": {
+          "name": "Cloze with drag & drop",
+          "template_reference": "51a8c1e7-f34f-4faf-b211-da458e891fcb"
+        }
+      },
+      "feedbackInfo": [
+        null,
+        null
+      ]
+    },
+    {
+      "response_id": "804f20a2-201b-440c-bf13-2b0765ba2f9b_e874d5e02be496d89c3b582d236e83dd",
+      "question_type": "clozeassociation",
+      "dt_score_updated": "2022-10-27T05:10:17Z",
+      "automarkable": true,
+      "attempted": true,
+      "score": 1,
+      "max_score": 1,
+      "question_reference": "fe9e4e8e-4554-46a9-b7db-d45d0df60ac2",
+      "item_reference": "5fc1b4de-59d6-4ed1-a993-5a2c0fe93c35",
+      "response": {
+        "value": [
+          "<span style=\"font-size:1.3em;\">major </span>",
+          "<span style=\"font-size:1.3em;\">drawback&nbsp;</span>",
+          "<span style=\"font-size:1.3em;\">of this</span>",
+          "<span style=\"font-size:1.3em;\">approach </span>"
+        ],
+        "type": "array",
+        "apiVersion": "v2.168.23",
+        "revision": 1,
+        "feedbackAttemptsCount": 2
+      },
+      "questionInfo": {
+        "type": "clozeassociation",
+        "widget_type": "response",
+        "reference": "fe9e4e8e-4554-46a9-b7db-d45d0df60ac2",
+        "data": {
+          "possible_responses": [
+            "<span style=\"font-size:1.3em;\">major </span>",
+            "<span style=\"font-size:1.3em;\">drawback&nbsp;</span>",
+            "<span style=\"font-size:1.3em;\">of this</span>",
+            "<span style=\"font-size:1.3em;\">approach </span>"
+          ],
+          "response_container": {
+            "pointer": "left"
+          },
+          "template": "<p style=\"margin-left: 40px;\"><span style=\"font-size:1.3em;\">2. One </span><span style=\"font-size:1em;\">{{response}}</span><span style=\"font-size:1.3em;\">&nbsp;</span><span style=\"font-size:1em;\">{{response}}</span><span style=\"font-size:1.3em;\">&nbsp;</span><span style=\"font-size:1em;\">{{response}}</span><span style=\"font-size:1.3em;\">&nbsp; </span><span style=\"font-size:1em;\">{{response}}</span><span style=\"font-size:1.3em;\">&nbsp;is that...&nbsp;</span></p>\n",
+          "type": "clozeassociation",
+          "case_sensitive": true,
+          "validation": {
+            "scoring_type": "exactMatch",
+            "valid_response": {
+              "score": 1,
+              "value": [
+                "<span style=\"font-size:1.3em;\">major </span>",
+                "<span style=\"font-size:1.3em;\">drawback&nbsp;</span>",
+                "<span style=\"font-size:1.3em;\">of this</span>",
+                "<span style=\"font-size:1.3em;\">approach </span>"
+              ]
+            }
+          },
+          "instant_feedback": true,
+          "shuffle_options": true
+        },
+        "metadata": {
+          "name": "Cloze with drag & drop",
+          "template_reference": "51a8c1e7-f34f-4faf-b211-da458e891fcb"
+        }
+      },
+      "feedbackInfo": [
+        null,
+        null
+      ]
+    },
+    {
+      "response_id": "804f20a2-201b-440c-bf13-2b0765ba2f9b_1863479c72e09fd593ca7264fe4503dc",
+      "question_type": "clozeassociation",
+      "dt_score_updated": "2022-10-27T05:10:45Z",
+      "automarkable": true,
+      "attempted": true,
+      "score": 1,
+      "max_score": 1,
+      "question_reference": "f66083cc-fa81-480c-82fe-d753dbfbfdbe",
+      "item_reference": "5fc1b4de-59d6-4ed1-a993-5a2c0fe93c35",
+      "response": {
+        "value": [
+          "<span style=\"font-size:1.3em;\">questionnaire </span>",
+          "<span style=\"font-size:1.3em;\">would </span>",
+          "<span style=\"font-size:1.3em;\">have been</span>",
+          "<span style=\"font-size:1.3em;\">more effective </span>",
+          "<span style=\"font-size:1.3em;\">asked </span>",
+          "<span style=\"font-size:1.3em;\">participants </span>"
+        ],
+        "type": "array",
+        "apiVersion": "v2.168.23",
+        "revision": 1,
+        "feedbackAttemptsCount": 1
+      },
+      "questionInfo": {
+        "type": "clozeassociation",
+        "widget_type": "response",
+        "reference": "f66083cc-fa81-480c-82fe-d753dbfbfdbe",
+        "data": {
+          "possible_responses": [
+            "<span style=\"font-size:1.3em;\">questionnaire </span>",
+            "<span style=\"font-size:1.3em;\">would </span>",
+            "<span style=\"font-size:1.3em;\">have been</span>",
+            "<span style=\"font-size:1.3em;\">more effective </span>",
+            "<span style=\"font-size:1.3em;\">asked </span>",
+            "<span style=\"font-size:1.3em;\">participants </span>"
+          ],
+          "response_container": {
+            "pointer": "left"
+          },
+          "template": "<p style=\"margin-left: 40px;\"><span style=\"font-size:1.3em;\">3. The </span><span style=\"font-size:1em;\">{{response}}</span><span style=\"font-size:1.3em;\">&nbsp;</span><span style=\"font-size:1em;\">{{response}}</span><span style=\"font-size:1.3em;\">&nbsp;</span><span style=\"font-size:1em;\">{{response}}</span><span style=\"font-size:1.3em;\">&nbsp; </span><span style=\"font-size:1em;\">{{response}}</span><span style=\"font-size:1.3em;\">&nbsp;if it had </span><span style=\"font-size:1em;\">{{response}}</span><span style=\"font-size:1.3em;\">&nbsp;</span><span style=\"font-size:1em;\">{{response}}</span><span style=\"font-size:1.3em;\">&nbsp;about …</span></p>\n",
+          "type": "clozeassociation",
+          "case_sensitive": true,
+          "validation": {
+            "scoring_type": "exactMatch",
+            "valid_response": {
+              "score": 1,
+              "value": [
+                "<span style=\"font-size:1.3em;\">questionnaire </span>",
+                "<span style=\"font-size:1.3em;\">would </span>",
+                "<span style=\"font-size:1.3em;\">have been</span>",
+                "<span style=\"font-size:1.3em;\">more effective </span>",
+                "<span style=\"font-size:1.3em;\">asked </span>",
+                "<span style=\"font-size:1.3em;\">participants </span>"
+              ]
+            }
+          },
+          "instant_feedback": true,
+          "shuffle_options": true
+        },
+        "metadata": {
+          "name": "Cloze with drag & drop",
+          "template_reference": "51a8c1e7-f34f-4faf-b211-da458e891fcb"
+        }
+      },
+      "feedbackInfo": [
+        null,
+        null
+      ]
+    },
+    {
+      "response_id": "804f20a2-201b-440c-bf13-2b0765ba2f9b_82e20e588d548cccc42c2d8c3da7c73d",
+      "question_type": "clozeassociation",
+      "dt_score_updated": "2022-10-27T05:11:13Z",
+      "automarkable": true,
+      "attempted": true,
+      "score": 1,
+      "max_score": 1,
+      "question_reference": "fcbf1947-f22f-44e8-90a8-d0269b32516a",
+      "item_reference": "5fc1b4de-59d6-4ed1-a993-5a2c0fe93c35",
+      "response": {
+        "value": [
+          "<span style=\"font-size:1.3em;\">the most</span>",
+          "<span style=\"font-size:1.3em;\">serious </span>",
+          "<span style=\"font-size:1.3em;\">disadvantage </span>",
+          "<span style=\"font-size:1.3em;\">of this</span>",
+          "<span style=\"font-size:1.3em;\">method </span>"
+        ],
+        "type": "array",
+        "apiVersion": "v2.168.23",
+        "revision": 2,
+        "feedbackAttemptsCount": 3
+      },
+      "questionInfo": {
+        "type": "clozeassociation",
+        "widget_type": "response",
+        "reference": "fcbf1947-f22f-44e8-90a8-d0269b32516a",
+        "data": {
+          "possible_responses": [
+            "<span style=\"font-size:1.3em;\">the most</span>",
+            "<span style=\"font-size:1.3em;\">serious </span>",
+            "<span style=\"font-size:1.3em;\">disadvantage </span>",
+            "<span style=\"font-size:1.3em;\">of this</span>",
+            "<span style=\"font-size:1.3em;\">method </span>"
+          ],
+          "response_container": {
+            "pointer": "left"
+          },
+          "template": "<p style=\"margin-left: 40px;\"><span style=\"font-size:1.3em;\">4. Perhaps </span><span style=\"font-size:1em;\">{{response}}</span><span style=\"font-size:1.3em;\">&nbsp; </span><span style=\"font-size:1em;\">{{response}}</span><span style=\"font-size:1.3em;\">&nbsp;</span><span style=\"font-size:1em;\">{{response}}</span><span style=\"font-size:1.3em;\">&nbsp;</span><span style=\"font-size:1em;\">{{response}}</span><span style=\"font-size:1.3em;\"> </span><span style=\"font-size:1em;\">{{response}}</span><span style=\"font-size:1.3em;\">&nbsp;is that...</span></p>\n",
+          "type": "clozeassociation",
+          "case_sensitive": true,
+          "validation": {
+            "scoring_type": "exactMatch",
+            "valid_response": {
+              "score": 1,
+              "value": [
+                "<span style=\"font-size:1.3em;\">the most</span>",
+                "<span style=\"font-size:1.3em;\">serious </span>",
+                "<span style=\"font-size:1.3em;\">disadvantage </span>",
+                "<span style=\"font-size:1.3em;\">of this</span>",
+                "<span style=\"font-size:1.3em;\">method </span>"
+              ]
+            }
+          },
+          "instant_feedback": true,
+          "shuffle_options": true
+        },
+        "metadata": {
+          "name": "Cloze with drag & drop",
+          "template_reference": "51a8c1e7-f34f-4faf-b211-da458e891fcb"
+        }
+      },
+      "feedbackInfo": [
+        null,
+        null
+      ]
+    },
+    {
+      "response_id": "804f20a2-201b-440c-bf13-2b0765ba2f9b_050789258bb3cdcdc928ae26ee071501",
+      "question_type": "clozeassociation",
+      "dt_score_updated": "2022-10-27T05:11:42Z",
+      "automarkable": true,
+      "attempted": true,
+      "score": 1,
+      "max_score": 1,
+      "question_reference": "3eb89465-0052-4203-a394-549576125fc0",
+      "item_reference": "5fc1b4de-59d6-4ed1-a993-5a2c0fe93c35",
+      "response": {
+        "value": [
+          "<span style=\"font-size:1.3em;\">However</span>",
+          "<span style=\"font-size:1.3em;\">this theory </span>",
+          "<span style=\"font-size:1.3em;\">does</span>",
+          "<span style=\"font-size:1.3em;\">not</span>",
+          "<span style=\"font-size:1.3em;\">fully explain</span>"
+        ],
+        "type": "array",
+        "apiVersion": "v2.168.23",
+        "revision": 1,
+        "feedbackAttemptsCount": 1
+      },
+      "questionInfo": {
+        "type": "clozeassociation",
+        "widget_type": "response",
+        "reference": "3eb89465-0052-4203-a394-549576125fc0",
+        "data": {
+          "possible_responses": [
+            "<span style=\"font-size:1.3em;\">However</span>",
+            "<span style=\"font-size:1.3em;\">this theory </span>",
+            "<span style=\"font-size:1.3em;\">does</span>",
+            "<span style=\"font-size:1.3em;\">not</span>",
+            "<span style=\"font-size:1.3em;\">fully explain</span>"
+          ],
+          "response_container": {
+            "pointer": "left"
+          },
+          "template": "<p style=\"margin-left: 40px;\"><span style=\"font-size:1.3em;\">5. </span><span style=\"font-size:1em;\">{{response}}</span><span style=\"font-size:1.3em;\">, </span><span style=\"font-size:1em;\">{{response}}</span><span style=\"font-size:1.3em;\">&nbsp;</span><span style=\"font-size:1em;\">{{response}}</span><span style=\"font-size:1.3em;\"> </span><span style=\"font-size:1em;\">{{response}}</span><span style=\"font-size:1.3em;\"> </span><span style=\"font-size:1em;\">{{response}}</span><span style=\"font-size:1.3em;\">&nbsp;why...</span></p>\n",
+          "type": "clozeassociation",
+          "case_sensitive": true,
+          "validation": {
+            "scoring_type": "exactMatch",
+            "valid_response": {
+              "score": 1,
+              "value": [
+                "<span style=\"font-size:1.3em;\">However</span>",
+                "<span style=\"font-size:1.3em;\">this theory </span>",
+                "<span style=\"font-size:1.3em;\">does</span>",
+                "<span style=\"font-size:1.3em;\">not</span>",
+                "<span style=\"font-size:1.3em;\">fully explain</span>"
+              ]
+            }
+          },
+          "instant_feedback": true,
+          "shuffle_options": true
+        },
+        "metadata": {
+          "name": "Cloze with drag & drop",
+          "template_reference": "51a8c1e7-f34f-4faf-b211-da458e891fcb"
+        }
+      },
+      "feedbackInfo": [
+        null,
+        null
+      ]
+    },
+    {
+      "response_id": "804f20a2-201b-440c-bf13-2b0765ba2f9b_05e77fe0d0297011a77d67c4bda4b42b",
+      "question_type": "clozeassociation",
+      "dt_score_updated": "2022-10-27T05:12:10Z",
+      "automarkable": true,
+      "attempted": true,
+      "score": 1,
+      "max_score": 1,
+      "question_reference": "f907dc01-e2e5-4711-83f7-3bb695d54977",
+      "item_reference": "5fc1b4de-59d6-4ed1-a993-5a2c0fe93c35",
+      "response": {
+        "value": [
+          "<span style=\"font-size:1.3em;\">study </span>",
+          "<span style=\"font-size:1.3em;\">would </span>",
+          "<span style=\"font-size:1.3em;\">have </span>",
+          "<span style=\"font-size:1.3em;\">been </span>",
+          "<span style=\"font-size:1.3em;\">more </span>",
+          "<span style=\"font-size:1.3em;\">relevant </span>"
+        ],
+        "type": "array",
+        "apiVersion": "v2.168.23",
+        "revision": 1,
+        "feedbackAttemptsCount": 2
+      },
+      "questionInfo": {
+        "type": "clozeassociation",
+        "widget_type": "response",
+        "reference": "f907dc01-e2e5-4711-83f7-3bb695d54977",
+        "data": {
+          "possible_responses": [
+            "<span style=\"font-size:1.3em;\">study </span>",
+            "<span style=\"font-size:1.3em;\">would </span>",
+            "<span style=\"font-size:1.3em;\">have </span>",
+            "<span style=\"font-size:1.3em;\">been </span>",
+            "<span style=\"font-size:1.3em;\">more </span>",
+            "<span style=\"font-size:1.3em;\">relevant </span>"
+          ],
+          "response_container": {
+            "pointer": "left"
+          },
+          "template": "<p style=\"margin-left: 40px;\"><span style=\"font-size:1.3em;\">6. The </span><span style=\"font-size:1em;\">{{response}}</span><span style=\"font-size:1.3em;\">&nbsp;</span><span style=\"font-size:1em;\">{{response}}</span><span style=\"font-size:1.3em;\">&nbsp;</span><span style=\"font-size:1em;\">{{response}}</span><span style=\"font-size:1.3em;\">&nbsp;</span><span style=\"font-size:1em;\">{{response}}</span><span style=\"font-size:1.3em;\">&nbsp;</span><span style=\"font-size:1em;\">{{response}}</span><span style=\"font-size:1.3em;\">&nbsp;</span><span style=\"font-size:1em;\">{{response}}</span><span style=\"font-size:1.3em;\">&nbsp;if the researchers had &nbsp;…</span></p>\n",
+          "type": "clozeassociation",
+          "case_sensitive": true,
+          "validation": {
+            "scoring_type": "exactMatch",
+            "valid_response": {
+              "score": 1,
+              "value": [
+                "<span style=\"font-size:1.3em;\">study </span>",
+                "<span style=\"font-size:1.3em;\">would </span>",
+                "<span style=\"font-size:1.3em;\">have </span>",
+                "<span style=\"font-size:1.3em;\">been </span>",
+                "<span style=\"font-size:1.3em;\">more </span>",
+                "<span style=\"font-size:1.3em;\">relevant </span>"
+              ]
+            }
+          },
+          "instant_feedback": true,
+          "shuffle_options": true
+        },
+        "metadata": {
+          "name": "Cloze with drag & drop",
+          "template_reference": "51a8c1e7-f34f-4faf-b211-da458e891fcb"
+        }
+      },
+      "feedbackInfo": [
+        null,
+        null
+      ]
+    }
+  ]
+}

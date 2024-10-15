@@ -1,0 +1,2791 @@
+{
+  "userId": "1d586b71-f9f5-4f37-8884-30fd1ebc39e0",
+  "firstName": "Peeraya",
+  "lastName": "Tachabavornkul",
+  "assigmentId": "543b5acd-926c-4b0c-89d7-cb84b5de1497",
+  "assigmentName": "Reading: Sustainable Fashion 1",
+  "sessionId": "e7c0cc24-a3b9-46b9-8fec-489f6bb2df98",
+  "email": "tachabavop@coventry.ac.uk",
+  "spaceId": "eccb3434-e130-4250-b8cd-8ba714fcec86",
+  "spaceName": "(Community) Presessional English (PSE London)",
+  "score": 14,
+  "max_score": 40,
+  "questions": [
+    {
+      "response_id": "e7c0cc24-a3b9-46b9-8fec-489f6bb2df98_6ddd459fa7d98ce12f15b693361c6735",
+      "question_type": "association",
+      "dt_score_updated": "2023-06-05T16:44:57Z",
+      "automarkable": true,
+      "attempted": true,
+      "score": 1,
+      "max_score": 1,
+      "question_reference": "59adbe00-cf30-436a-9636-9b45d5cc6b76",
+      "item_reference": "84380709-99f5-4b15-8fbd-c5936c039221",
+      "response": {
+        "value": [
+          "Is a perfect example",
+          "Very poor",
+          "Hunters who kill animals illegally",
+          "Very beautiful",
+          "Unfashionable",
+          "Follows good moral standards"
+        ],
+        "type": "array",
+        "updatedFormat": true,
+        "apiVersion": "v2.177.27",
+        "revision": 5,
+        "feedbackAttemptsCount": 2
+      },
+      "questionInfo": {
+        "type": "association",
+        "widget_type": "response",
+        "reference": "59adbe00-cf30-436a-9636-9b45d5cc6b76",
+        "data": {
+          "possible_responses": [
+            "Very beautiful",
+            "Unfashionable",
+            "Very poor",
+            "Hunters who kill animals illegally",
+            "Is a perfect example",
+            "Follows good moral standards"
+          ],
+          "stimulus": "<h2 id=\"yui_3_17_2_1_1630937335513_8453\"><span style=\"color:#008080;\"><b id=\"yui_3_17_2_1_1630937335513_8454\">Let's start with some&nbsp;VOCABULARY&nbsp;.</b></span></h2>\n\n<h4 id=\"yui_3_17_2_1_1630937335513_8457\"><b><span style=\"color:#008080;\">►</span> Consider the words below.&nbsp;</b><b id=\"yui_3_17_2_1_1630937335513_8460\">They are key words from the text.</b></h4>\n\n<p id=\"yui_3_17_2_1_1630937335513_8461\"><img height=\"113\" src=\"https://assets.learnosity.com/organisations/755/344bdcd5-684e-4d70-835d-83fbf0a91616.jpg\" width=\"398\"></p>\n\n<h4>&nbsp;</h4>\n\n<h4 id=\"yui_3_17_2_1_1630937335513_8424\"><b><span style=\"color:#008080;\">►</span> Match each word with its meaning.</b></h4>\n\n<p>&nbsp;</p>\n",
+          "stimulus_list": [
+            "Epitomises &nbsp;",
+            "Impoverished",
+            "Poachers",
+            "Exquisite",
+            "‘Old hat’",
+            "Ethical &nbsp;"
+          ],
+          "type": "association",
+          "validation": {
+            "scoring_type": "exactMatch",
+            "valid_response": {
+              "score": 1,
+              "value": [
+                "Is a perfect example",
+                "Very poor",
+                "Hunters who kill animals illegally",
+                "Very beautiful",
+                "Unfashionable",
+                "Follows good moral standards"
+              ]
+            }
+          },
+          "instant_feedback": true
+        },
+        "metadata": {
+          "name": "Match list",
+          "template_reference": "1fa22aac-1f88-47f7-941b-3c77759549e6"
+        }
+      },
+      "feedbackInfo": [
+        {
+          "id": "0707_1d586b71-f9f5-4f37-8884-30fd1ebc39e0_e7c0cc24-a3b9-46b9-8fec-489f6bb2df98_8b79e223504bc4a0ddf282d4e1be8d88",
+          "user_id": "1d586b71-f9f5-4f37-8884-30fd1ebc39e0",
+          "response_id": "e7c0cc24-a3b9-46b9-8fec-489f6bb2df98_8b79e223504bc4a0ddf282d4e1be8d88",
+          "type": "longtextV2",
+          "question": {
+            "type": "longtextV2",
+            "metadata": {
+              "source": {
+                "organisation_id": 755
+              },
+              "sheet_reference": "default_feedback",
+              "widget_reference": "de082b5f-742a-4ecf-82ca-4dc86e218fec",
+              "valid_response_count": 0
+            },
+            "stimulus": "Written feedback:",
+            "response_id": "e7c0cc24-a3b9-46b9-8fec-489f6bb2df98_8b79e223504bc4a0ddf282d4e1be8d88",
+            "show_word_count": false,
+            "show_word_limit": "off"
+          },
+          "response": null,
+          "creation_date": "2023-06-06 08:28:51",
+          "mod_date": "2023-06-06 08:32:42",
+          "persist_until": "2026-06-05 08:28:51",
+          "saved": true
+        },
+        {
+          "id": "0707_1d586b71-f9f5-4f37-8884-30fd1ebc39e0_e7c0cc24-a3b9-46b9-8fec-489f6bb2df98_597c16a3552f1c40d7f9a8286d215dcf",
+          "user_id": "1d586b71-f9f5-4f37-8884-30fd1ebc39e0",
+          "response_id": "e7c0cc24-a3b9-46b9-8fec-489f6bb2df98_597c16a3552f1c40d7f9a8286d215dcf",
+          "type": "audio",
+          "question": {
+            "type": "audio",
+            "metadata": {
+              "source": {
+                "organisation_id": 755
+              },
+              "sheet_reference": "default_feedback",
+              "widget_reference": "b2f049b4-bb33-4542-993d-0645ffedda1a",
+              "valid_response_count": 0
+            },
+            "stimulus": "Audio feedback:",
+            "ui_style": {
+              "type": "button"
+            },
+            "max_length": 600,
+            "response_id": "e7c0cc24-a3b9-46b9-8fec-489f6bb2df98_597c16a3552f1c40d7f9a8286d215dcf"
+          },
+          "response": null,
+          "creation_date": "2023-06-06 08:28:51",
+          "mod_date": "2023-06-06 08:32:42",
+          "persist_until": "2026-06-05 08:28:51",
+          "saved": true
+        }
+      ]
+    },
+    {
+      "response_id": "e7c0cc24-a3b9-46b9-8fec-489f6bb2df98_2818a5a4c369b3a2822c6fe2fc1e5bd3",
+      "question_type": "association",
+      "dt_score_updated": "2023-06-05T16:46:51Z",
+      "automarkable": true,
+      "attempted": true,
+      "score": 1,
+      "max_score": 1,
+      "question_reference": "f89891a5-6f03-4263-91b5-2a05e465cb32",
+      "item_reference": "84380709-99f5-4b15-8fbd-c5936c039221",
+      "response": {
+        "value": [
+          "Unpredictable / can change suddenly",
+          "To help a person relax",
+          "Changing the colour of materials like fabric",
+          "Throw away",
+          "A large amount of",
+          "Difficult to understand"
+        ],
+        "type": "array",
+        "updatedFormat": true,
+        "apiVersion": "v2.177.27",
+        "revision": 4,
+        "feedbackAttemptsCount": 1
+      },
+      "questionInfo": {
+        "type": "association",
+        "widget_type": "response",
+        "reference": "f89891a5-6f03-4263-91b5-2a05e465cb32",
+        "data": {
+          "possible_responses": [
+            "Unpredictable / can change suddenly",
+            "A large amount of",
+            "To help a person relax",
+            "Changing the colour of materials like fabric",
+            "Throw away",
+            "Difficult to understand"
+          ],
+          "stimulus_list": [
+            "Capricious",
+            "Reassure",
+            "Dyeing &nbsp;",
+            "Discard &nbsp;",
+            "Abundant &nbsp;",
+            "Confusing &nbsp;"
+          ],
+          "type": "association",
+          "validation": {
+            "scoring_type": "exactMatch",
+            "valid_response": {
+              "score": 1,
+              "value": [
+                "Unpredictable / can change suddenly",
+                "To help a person relax",
+                "Changing the colour of materials like fabric",
+                "Throw away",
+                "A large amount of",
+                "Difficult to understand"
+              ]
+            }
+          },
+          "instant_feedback": true
+        },
+        "metadata": {
+          "name": "Match list",
+          "template_reference": "1fa22aac-1f88-47f7-941b-3c77759549e6"
+        }
+      },
+      "feedbackInfo": [
+        {
+          "id": "0707_1d586b71-f9f5-4f37-8884-30fd1ebc39e0_e7c0cc24-a3b9-46b9-8fec-489f6bb2df98_b7422bda6967a4ad6cc4c15e9ec98bd8",
+          "user_id": "1d586b71-f9f5-4f37-8884-30fd1ebc39e0",
+          "response_id": "e7c0cc24-a3b9-46b9-8fec-489f6bb2df98_b7422bda6967a4ad6cc4c15e9ec98bd8",
+          "type": "longtextV2",
+          "question": {
+            "type": "longtextV2",
+            "metadata": {
+              "source": {
+                "organisation_id": 755
+              },
+              "sheet_reference": "default_feedback",
+              "widget_reference": "de082b5f-742a-4ecf-82ca-4dc86e218fec",
+              "valid_response_count": 0
+            },
+            "stimulus": "Written feedback:",
+            "response_id": "e7c0cc24-a3b9-46b9-8fec-489f6bb2df98_b7422bda6967a4ad6cc4c15e9ec98bd8",
+            "show_word_count": false,
+            "show_word_limit": "off"
+          },
+          "response": null,
+          "creation_date": "2023-06-06 08:28:51",
+          "mod_date": "2023-06-06 08:32:43",
+          "persist_until": "2026-06-05 08:28:51",
+          "saved": true
+        },
+        {
+          "id": "0707_1d586b71-f9f5-4f37-8884-30fd1ebc39e0_e7c0cc24-a3b9-46b9-8fec-489f6bb2df98_42d9f51f545c9b64da0c897696e5e1e7",
+          "user_id": "1d586b71-f9f5-4f37-8884-30fd1ebc39e0",
+          "response_id": "e7c0cc24-a3b9-46b9-8fec-489f6bb2df98_42d9f51f545c9b64da0c897696e5e1e7",
+          "type": "audio",
+          "question": {
+            "type": "audio",
+            "metadata": {
+              "source": {
+                "organisation_id": 755
+              },
+              "sheet_reference": "default_feedback",
+              "widget_reference": "b2f049b4-bb33-4542-993d-0645ffedda1a",
+              "valid_response_count": 0
+            },
+            "stimulus": "Audio feedback:",
+            "ui_style": {
+              "type": "button"
+            },
+            "max_length": 600,
+            "response_id": "e7c0cc24-a3b9-46b9-8fec-489f6bb2df98_42d9f51f545c9b64da0c897696e5e1e7"
+          },
+          "response": null,
+          "creation_date": "2023-06-06 08:28:51",
+          "mod_date": "2023-06-06 08:32:43",
+          "persist_until": "2026-06-05 08:28:51",
+          "saved": true
+        }
+      ]
+    },
+    {
+      "response_id": "e7c0cc24-a3b9-46b9-8fec-489f6bb2df98_6a14faf9ec84682a188ffd4fff8f4f6f",
+      "question_type": "clozeassociation",
+      "dt_score_updated": "2023-06-05T16:50:09Z",
+      "automarkable": true,
+      "attempted": true,
+      "score": 1,
+      "max_score": 1,
+      "question_reference": "ea174a1e-f22c-4cd4-a219-89f056bd0ba1",
+      "item_reference": "84380709-99f5-4b15-8fbd-c5936c039221",
+      "response": {
+        "value": [
+          "reassured&nbsp;",
+          "abundant",
+          "exquisite",
+          "‘old hat’",
+          "capricious",
+          "confusing&nbsp;"
+        ],
+        "type": "array",
+        "apiVersion": "v2.177.27",
+        "revision": 6,
+        "feedbackAttemptsCount": 2
+      },
+      "questionInfo": {
+        "type": "clozeassociation",
+        "widget_type": "response",
+        "reference": "ea174a1e-f22c-4cd4-a219-89f056bd0ba1",
+        "data": {
+          "possible_responses": [
+            "reassured&nbsp;",
+            "abundant",
+            "exquisite",
+            "‘old hat’",
+            "capricious",
+            "confusing&nbsp;"
+          ],
+          "response_container": {
+            "pointer": "left"
+          },
+          "stimulus": "<p><img class=\"lrn-image-left\" height=\"79\" src=\"https://assets.learnosity.com/organisations/755/ed6ea15d-3d4a-4a87-9b77-34229dbf6808.png\" width=\"80\"></p>\n\n<h2><strong>Now, let's look at these words<span style=\"color:#a52a2a;\"> </span><span style=\"color:#008000;\">in context</span><span style=\"color:#a52a2a;\"></span>.&nbsp;&nbsp;</strong></h2>\n\n<h4><strong><span style=\"color:#008000;\">►</span> Complete each sentence&nbsp;with the missing word&nbsp;(drag and drop).</strong></h4>\n\n<p>&nbsp;</p>\n",
+          "template": "<ol>\n\t<li><span style=\"font-size:1.1em;\">The boss&nbsp;{{response}}&nbsp;the employees who were worried about losing their jobs.</span></li>\n\t<li><span style=\"font-size:1.1em;\">There are&nbsp;{{response}}<b>&nbsp;</b>natural resources for the fashion industry to use for their products.</span></li>\n\t<li><span style=\"font-size:1.1em;\">Some people think alligator skin trousers are&nbsp;{{response}}.</span></li>\n\t<li><span style=\"font-size:1.1em;\">Upcycled clothes are not necessarily&nbsp;{{response}}.</span></li>\n\t<li><span style=\"font-size:1.1em;\">The financial market has always been extremely&nbsp;{{response}}<b>.</b></span></li>\n\t<li><span style=\"font-size:1.1em;\">Cities can be very&nbsp;{{response}}<b id=\"yui_3_17_2_1_1630939090132_3439\">&nbsp;</b>places. London is no exception.</span></li>\n</ol>\n\n<p>&nbsp;</p>\n",
+          "type": "clozeassociation",
+          "case_sensitive": true,
+          "validation": {
+            "scoring_type": "exactMatch",
+            "valid_response": {
+              "score": 1,
+              "value": [
+                "reassured&nbsp;",
+                "abundant",
+                "exquisite",
+                "‘old hat’",
+                "capricious",
+                "confusing&nbsp;"
+              ]
+            }
+          },
+          "instant_feedback": true,
+          "shuffle_options": true
+        },
+        "metadata": {
+          "name": "Cloze with drag & drop",
+          "template_reference": "51a8c1e7-f34f-4faf-b211-da458e891fcb"
+        }
+      },
+      "feedbackInfo": [
+        {
+          "id": "0707_1d586b71-f9f5-4f37-8884-30fd1ebc39e0_e7c0cc24-a3b9-46b9-8fec-489f6bb2df98_f356a00ad0867c7de1713e2ef0a349e7",
+          "user_id": "1d586b71-f9f5-4f37-8884-30fd1ebc39e0",
+          "response_id": "e7c0cc24-a3b9-46b9-8fec-489f6bb2df98_f356a00ad0867c7de1713e2ef0a349e7",
+          "type": "longtextV2",
+          "question": {
+            "type": "longtextV2",
+            "metadata": {
+              "source": {
+                "organisation_id": 755
+              },
+              "sheet_reference": "default_feedback",
+              "widget_reference": "de082b5f-742a-4ecf-82ca-4dc86e218fec",
+              "valid_response_count": 0
+            },
+            "stimulus": "Written feedback:",
+            "response_id": "e7c0cc24-a3b9-46b9-8fec-489f6bb2df98_f356a00ad0867c7de1713e2ef0a349e7",
+            "show_word_count": false,
+            "show_word_limit": "off"
+          },
+          "response": null,
+          "creation_date": "2023-06-06 08:28:51",
+          "mod_date": "2023-06-06 08:32:43",
+          "persist_until": "2026-06-05 08:28:51",
+          "saved": true
+        },
+        {
+          "id": "0707_1d586b71-f9f5-4f37-8884-30fd1ebc39e0_e7c0cc24-a3b9-46b9-8fec-489f6bb2df98_caf39aac9a422de5156c94b59f14e079",
+          "user_id": "1d586b71-f9f5-4f37-8884-30fd1ebc39e0",
+          "response_id": "e7c0cc24-a3b9-46b9-8fec-489f6bb2df98_caf39aac9a422de5156c94b59f14e079",
+          "type": "audio",
+          "question": {
+            "type": "audio",
+            "metadata": {
+              "source": {
+                "organisation_id": 755
+              },
+              "sheet_reference": "default_feedback",
+              "widget_reference": "b2f049b4-bb33-4542-993d-0645ffedda1a",
+              "valid_response_count": 0
+            },
+            "stimulus": "Audio feedback:",
+            "ui_style": {
+              "type": "button"
+            },
+            "max_length": 600,
+            "response_id": "e7c0cc24-a3b9-46b9-8fec-489f6bb2df98_caf39aac9a422de5156c94b59f14e079"
+          },
+          "response": null,
+          "creation_date": "2023-06-06 08:28:52",
+          "mod_date": "2023-06-06 08:32:43",
+          "persist_until": "2026-06-05 08:28:52",
+          "saved": true
+        }
+      ]
+    },
+    {
+      "response_id": "e7c0cc24-a3b9-46b9-8fec-489f6bb2df98_d8d1d1103f46ec7970078faf2dbe2848",
+      "question_type": "clozeassociation",
+      "dt_score_updated": "2023-06-05T16:52:31Z",
+      "automarkable": true,
+      "attempted": true,
+      "score": 1,
+      "max_score": 1,
+      "question_reference": "1825d034-7dc9-4448-8031-2a344eb57770",
+      "item_reference": "84380709-99f5-4b15-8fbd-c5936c039221",
+      "response": {
+        "value": [
+          "Impoverished",
+          "poachers",
+          "epitomises&nbsp;",
+          "discard",
+          "ethical",
+          "dyeing&nbsp;"
+        ],
+        "type": "array",
+        "apiVersion": "v2.177.27",
+        "revision": 5,
+        "feedbackAttemptsCount": 3
+      },
+      "questionInfo": {
+        "type": "clozeassociation",
+        "widget_type": "response",
+        "reference": "1825d034-7dc9-4448-8031-2a344eb57770",
+        "data": {
+          "possible_responses": [
+            "Impoverished",
+            "poachers",
+            "epitomises&nbsp;",
+            "discard",
+            "ethical",
+            "dyeing&nbsp;"
+          ],
+          "response_container": {
+            "pointer": "left"
+          },
+          "template": "<p style=\"margin-left: 40px;\">7.&nbsp;<span style=\"font-size:1.1em;\"><span id=\"cke_bm_34629S\" style=\"display: none;\">&nbsp;</span>{{response}}<b>&nbsp;</b>people living in rainforests can sometimes become<b id=\"yui_3_17_2_1_1630939090132_3442\">&nbsp;</b>{{response}}<b>.</b></span></p>\n\n<p style=\"margin-left: 40px;\"><span style=\"font-size:1.1em;\">8. Richard Branson&nbsp;{{response}}<b>&nbsp;</b>successful entrepreneurship.</span></p>\n\n<p style=\"margin-left: 40px;\"><span style=\"font-size:1.1em;\">9. Don’t just&nbsp;{{response}}<b>&nbsp;</b>paper and glass, recycle it!</span></p>\n\n<p style=\"margin-left: 40px;\"><span style=\"font-size:1.1em;\">10. Is it&nbsp;{{response}}<b>&nbsp;</b>to kill animals for their fur?</span></p>\n\n<p style=\"margin-left: 40px;\"><span style=\"font-size:1.1em;\">11.&nbsp;The&nbsp;{{response}}<b id=\"yui_3_17_2_1_1630939090132_3450\">&nbsp;</b>process is not good for</span></p>\n",
+          "type": "clozeassociation",
+          "case_sensitive": true,
+          "validation": {
+            "scoring_type": "exactMatch",
+            "valid_response": {
+              "score": 1,
+              "value": [
+                "Impoverished",
+                "poachers",
+                "epitomises&nbsp;",
+                "discard",
+                "ethical",
+                "dyeing&nbsp;"
+              ]
+            }
+          },
+          "instant_feedback": true,
+          "shuffle_options": true
+        },
+        "metadata": {
+          "name": "Cloze with drag & drop",
+          "template_reference": "51a8c1e7-f34f-4faf-b211-da458e891fcb"
+        }
+      },
+      "feedbackInfo": [
+        {
+          "id": "0707_1d586b71-f9f5-4f37-8884-30fd1ebc39e0_e7c0cc24-a3b9-46b9-8fec-489f6bb2df98_399ed418c8a45045018d20b1ec04c5c4",
+          "user_id": "1d586b71-f9f5-4f37-8884-30fd1ebc39e0",
+          "response_id": "e7c0cc24-a3b9-46b9-8fec-489f6bb2df98_399ed418c8a45045018d20b1ec04c5c4",
+          "type": "longtextV2",
+          "question": {
+            "type": "longtextV2",
+            "metadata": {
+              "source": {
+                "organisation_id": 755
+              },
+              "sheet_reference": "default_feedback",
+              "widget_reference": "de082b5f-742a-4ecf-82ca-4dc86e218fec",
+              "valid_response_count": 0
+            },
+            "stimulus": "Written feedback:",
+            "response_id": "e7c0cc24-a3b9-46b9-8fec-489f6bb2df98_399ed418c8a45045018d20b1ec04c5c4",
+            "show_word_count": false,
+            "show_word_limit": "off"
+          },
+          "response": null,
+          "creation_date": "2023-06-06 08:28:52",
+          "mod_date": "2023-06-06 08:32:43",
+          "persist_until": "2026-06-05 08:28:52",
+          "saved": true
+        },
+        {
+          "id": "0707_1d586b71-f9f5-4f37-8884-30fd1ebc39e0_e7c0cc24-a3b9-46b9-8fec-489f6bb2df98_590d5c1688f62708a481afda8006165a",
+          "user_id": "1d586b71-f9f5-4f37-8884-30fd1ebc39e0",
+          "response_id": "e7c0cc24-a3b9-46b9-8fec-489f6bb2df98_590d5c1688f62708a481afda8006165a",
+          "type": "audio",
+          "question": {
+            "type": "audio",
+            "metadata": {
+              "source": {
+                "organisation_id": 755
+              },
+              "sheet_reference": "default_feedback",
+              "widget_reference": "b2f049b4-bb33-4542-993d-0645ffedda1a",
+              "valid_response_count": 0
+            },
+            "stimulus": "Audio feedback:",
+            "ui_style": {
+              "type": "button"
+            },
+            "max_length": 600,
+            "response_id": "e7c0cc24-a3b9-46b9-8fec-489f6bb2df98_590d5c1688f62708a481afda8006165a"
+          },
+          "response": null,
+          "creation_date": "2023-06-06 08:28:52",
+          "mod_date": "2023-06-06 08:32:43",
+          "persist_until": "2026-06-05 08:28:52",
+          "saved": true
+        }
+      ]
+    },
+    {
+      "response_id": "e7c0cc24-a3b9-46b9-8fec-489f6bb2df98_f8b7c259c385e401a476e24c535dcdf2",
+      "question_type": "association",
+      "dt_score_updated": "2023-06-05T16:59:57Z",
+      "automarkable": true,
+      "attempted": true,
+      "score": 0,
+      "max_score": 1,
+      "question_reference": "a0c2a98f-ff07-494a-b8a4-53b66db8b1e1",
+      "item_reference": "e5109436-7292-4282-9222-206aa124e6c4",
+      "response": {
+        "value": [
+          "Dilemmas facing customers&nbsp;",
+          "The search for sustainable alternatives&nbsp;",
+          "The most sustainable leather sources&nbsp;",
+          "Decline in North American wildlife&nbsp;",
+          "A more sustainable fur&nbsp;",
+          "Popular now but not in future?&nbsp;"
+        ],
+        "type": "array",
+        "updatedFormat": true,
+        "apiVersion": "v2.177.27",
+        "revision": 10,
+        "feedbackAttemptsCount": 9
+      },
+      "questionInfo": {
+        "type": "association",
+        "widget_type": "response",
+        "reference": "a0c2a98f-ff07-494a-b8a4-53b66db8b1e1",
+        "data": {
+          "possible_responses": [
+            "Dilemmas facing customers&nbsp;",
+            "The search for sustainable alternatives&nbsp;",
+            "The most sustainable leather sources&nbsp;",
+            "Unsustainable natural fur?&nbsp;",
+            "A more sustainable fur&nbsp;",
+            "Popular now but not in future?&nbsp;",
+            "Decline in North American wildlife&nbsp;"
+          ],
+          "stimulus": "<table class=\"table table-no-border lrn_width_auto\">\n\t<tbody>\n\t\t<tr>\n\t\t\t<td><img height=\"135\" src=\"https://assets.learnosity.com/organisations/755/26c516e0-5405-452b-880d-55287c382cda.jpg\" width=\"200\"></td>\n\t\t\t<td>\n\t\t\t<p><span style=\"color:#0000ff;\"><span style=\"font-size:2em;\"><b><b>Quick Reading</b></b></span></span></p>\n\n\t\t\t<h4><b><span style=\"color:#0000ff;\">► </span>Read the text&nbsp;<span style=\"color:#0000ff;\">quickly</span>.&nbsp;</b></h4>\n\n\t\t\t<h4><b><span style=\"color:#0000ff;\">► </span>You should spend about&nbsp;<span style=\"color:#0000ff;\"><u>10 minutes</u></span>&nbsp;reading the text and answering the questions.</b></h4>\n\n\t\t\t<h2>&nbsp;</h2>\n\t\t\t</td>\n\t\t</tr>\n\t</tbody>\n</table>\n\n<h4><b><b>Choose the best <span style=\"color:#0000ff;\">HEADING&nbsp;</span>to summarise each section from the options below (drag and drop).</b></b></h4>\n\n<p><span style=\"color:#ff0000;\"><span style=\"font-size:1em;\"><strong>►&nbsp;</strong><u><strong>NOTE: There is one extra heading that you don't need.</strong></u></span></span></p>\n\n<p>&nbsp;</p>\n",
+          "stimulus_list": [
+            "<strong>Section 1</strong>",
+            "<strong>Section 2</strong>",
+            "<strong>Section 3</strong>",
+            "<strong>Section 4</strong>",
+            "<strong>Section 5</strong>",
+            "<strong>Section 6</strong>"
+          ],
+          "type": "association",
+          "validation": {
+            "scoring_type": "exactMatch",
+            "valid_response": {
+              "score": 1,
+              "value": [
+                "Dilemmas facing customers&nbsp;",
+                "The search for sustainable alternatives&nbsp;",
+                "The most sustainable leather sources&nbsp;",
+                "Unsustainable natural fur?&nbsp;",
+                "A more sustainable fur&nbsp;",
+                "Popular now but not in future?&nbsp;"
+              ]
+            }
+          },
+          "instant_feedback": true
+        },
+        "metadata": {
+          "name": "Match list",
+          "template_reference": "1fa22aac-1f88-47f7-941b-3c77759549e6"
+        }
+      },
+      "feedbackInfo": [
+        {
+          "id": "0707_1d586b71-f9f5-4f37-8884-30fd1ebc39e0_e7c0cc24-a3b9-46b9-8fec-489f6bb2df98_5eb00f08de54861197347dcaae24f3cc",
+          "user_id": "1d586b71-f9f5-4f37-8884-30fd1ebc39e0",
+          "response_id": "e7c0cc24-a3b9-46b9-8fec-489f6bb2df98_5eb00f08de54861197347dcaae24f3cc",
+          "type": "longtextV2",
+          "question": {
+            "type": "longtextV2",
+            "metadata": {
+              "source": {
+                "organisation_id": 755
+              },
+              "sheet_reference": "default_feedback",
+              "widget_reference": "de082b5f-742a-4ecf-82ca-4dc86e218fec",
+              "valid_response_count": 0
+            },
+            "stimulus": "Written feedback:",
+            "response_id": "e7c0cc24-a3b9-46b9-8fec-489f6bb2df98_5eb00f08de54861197347dcaae24f3cc",
+            "show_word_count": false,
+            "show_word_limit": "off"
+          },
+          "response": null,
+          "creation_date": "2023-06-06 08:28:52",
+          "mod_date": "2023-06-06 08:32:44",
+          "persist_until": "2026-06-05 08:28:52",
+          "saved": true
+        },
+        {
+          "id": "0707_1d586b71-f9f5-4f37-8884-30fd1ebc39e0_e7c0cc24-a3b9-46b9-8fec-489f6bb2df98_b425596b051214d7a7f5d70f3e4d47af",
+          "user_id": "1d586b71-f9f5-4f37-8884-30fd1ebc39e0",
+          "response_id": "e7c0cc24-a3b9-46b9-8fec-489f6bb2df98_b425596b051214d7a7f5d70f3e4d47af",
+          "type": "audio",
+          "question": {
+            "type": "audio",
+            "metadata": {
+              "source": {
+                "organisation_id": 755
+              },
+              "sheet_reference": "default_feedback",
+              "widget_reference": "b2f049b4-bb33-4542-993d-0645ffedda1a",
+              "valid_response_count": 0
+            },
+            "stimulus": "Audio feedback:",
+            "ui_style": {
+              "type": "button"
+            },
+            "max_length": 600,
+            "response_id": "e7c0cc24-a3b9-46b9-8fec-489f6bb2df98_b425596b051214d7a7f5d70f3e4d47af"
+          },
+          "response": null,
+          "creation_date": "2023-06-06 08:28:52",
+          "mod_date": "2023-06-06 08:32:44",
+          "persist_until": "2026-06-05 08:28:52",
+          "saved": true
+        }
+      ]
+    },
+    {
+      "response_id": "e7c0cc24-a3b9-46b9-8fec-489f6bb2df98_69958bc025a4a9d0888aae4078d0df7e",
+      "question_type": "mcq",
+      "dt_score_updated": "2023-06-05T17:14:45Z",
+      "automarkable": true,
+      "attempted": true,
+      "score": 1,
+      "max_score": 1,
+      "question_reference": "bf921699-e663-4904-8955-be9bd6f8d357",
+      "item_reference": "e5109436-7292-4282-9222-206aa124e6c4",
+      "response": {
+        "value": [
+          "0"
+        ],
+        "type": "array",
+        "apiVersion": "v2.177.27",
+        "revision": 2
+      },
+      "questionInfo": {
+        "type": "mcq",
+        "widget_type": "response",
+        "reference": "bf921699-e663-4904-8955-be9bd6f8d357",
+        "data": {
+          "options": [
+            {
+              "label": "Because fashion is associated with novelty and consumption.&nbsp;",
+              "value": "0"
+            },
+            {
+              "label": "Because fashion is associated with habits and style.&nbsp;",
+              "value": "1"
+            },
+            {
+              "label": "Because fashion is associated with luxury and extravagance.&nbsp;",
+              "value": "2"
+            }
+          ],
+          "stimulus": "<table class=\"table table-condensed table-no-border lrn_width_auto\">\n\t<tbody>\n\t\t<tr>\n\t\t\t<td><img height=\"135\" src=\"https://assets.learnosity.com/organisations/755/af878604-d20b-4c7a-bba1-6ce2a835dbc6.jpg\" width=\"199\" /></td>\n\t\t\t<td>\n\t\t\t<h2><span style=\"color:#008080;\"></span><span style=\"color:#000080;\"><b>Detailed&nbsp;Reading</b></span><span style=\"color:#008080;\"><b>&nbsp;</b></span></h2>\n\n\t\t\t<h4><b><span style=\"color:#000080;\">►</span> Follow the steps below:&nbsp;</b></h4>\n\t\t\t</td>\n\t\t</tr>\n\t</tbody>\n</table>\n\n<p id=\"yui_3_17_2_1_1630939835136_2208\">&nbsp;</p>\n\n<ul>\n\t<li><span style=\"color:#000080;\"><span style=\"font-size:1.3em;\"><strong>STEP 1:&nbsp;&nbsp;Read the questions below&nbsp;<u>before</u>&nbsp;you read the text.&nbsp;</strong></span></span></li>\n</ul>\n\n<p style=\"margin-left: 80px;\"><span style=\"font-size:1.1em;\"><em>► This will help you <u>focus</u> on the information you are looking for.</em></span></p>\n\n<ul>\n\t<li><span style=\"color:#000080;\"><span style=\"font-size:1.3em;\"><strong>STEP 2:&nbsp;&nbsp;&nbsp;Read the text&nbsp;quickly. Spend about 5 minutes reading.&nbsp;</strong></span></span></li>\n</ul>\n\n<p style=\"margin-left: 80px;\"><span style=\"font-size:1.1em;\"><em>► Don't stop for vocabulary (you can <u>do this&nbsp;in the next step</u>).</em></span></p>\n\n<ul>\n\t<li><span style=\"color:#000080;\"><span style=\"font-size:1.3em;\"><strong>STEP 3:&nbsp;&nbsp;&nbsp;Look at the questions&nbsp;again one by one - <u>find the part in the text</u> where you think the answers are.</strong></span></span></li>\n</ul>\n\n<p style=\"margin-left: 80px;\"><span style=\"font-size:1.1em;\"><em>► Read this part carefully.&nbsp;<u>Check vocabulary</u>&nbsp;&nbsp;if necessary.</em></span></p>\n\n<ul>\n\t<li><span style=\"color:#000080;\"><span style=\"font-size:1.3em;\"><strong>STEP 4:&nbsp;&nbsp;&nbsp;Answer the question and&nbsp;move on&nbsp;to the next one.</strong></span></span></li>\n</ul>\n\n<p style=\"margin-left: 80px;\"><span style=\"font-size:1.1em;\"><em>► </em><i id=\"yui_3_17_2_1_1631619400711_2284\">Don't forget to ch</i><i id=\"yui_3_17_2_1_1631619400711_2287\">eck your answers - you have ONE attempt to check.</i></span></p>\n\n<p>&nbsp;</p>\n\n<p>&nbsp;</p>\n\n<p><span style=\"font-size:1.3em;\"><span style=\"color:#b22222;\"></span></span></p>\n\n<p><img class=\"lrn-image-left\" height=\"114\" src=\"https://assets.learnosity.com/organisations/755/16a1bc75-c672-4a7b-8fe6-884bf6c78876.jpg\" width=\"100\" /><br />\n<span style=\"font-size:1.3em;\"><span style=\"color:#ff0000;\"><u><strong>Remember: the order of the questions follows the order of the text.</strong></u></span></span></p>\n\n<p><em>This means that the answer to question 1 should be in the beginning of the text, the answer to question 2 should be after that, and so on....<span style=\"font-size:1.1em;\"></span></em></p>\n\n<p>&nbsp;</p>\n\n<p>&nbsp;</p>\n\n<p>&nbsp;</p>\n\n<div class=\"lrn-well\"><span style=\"font-size:1.3em;\"><strong>1.&nbsp;<b id=\"yui_3_17_2_1_1630939835136_2683\">Why is it difficult for fashion to be sustainable?</b></strong></span></div>\n\n<p><font color=\"#ff0000\"><b>► </b></font><b>Read the text carefully!&nbsp;</b><span style=\"font-weight:bold\"><span style=\"color:#ff0000\"><u>You have only ONE 'check answer' attempt</u>!</span></span>&nbsp;</p>\n",
+          "type": "mcq",
+          "validation": {
+            "scoring_type": "exactMatch",
+            "valid_response": {
+              "score": 1,
+              "value": [
+                "0"
+              ]
+            }
+          },
+          "ui_style": {
+            "type": "horizontal"
+          },
+          "instant_feedback": true,
+          "shuffle_options": true,
+          "feedback_attempts": 1
+        },
+        "metadata": {
+          "name": "Multiple choice – standard",
+          "template_reference": "9e8149bd-e4d8-4dd6-a751-1a113a4b9163"
+        }
+      },
+      "feedbackInfo": [
+        {
+          "id": "0707_1d586b71-f9f5-4f37-8884-30fd1ebc39e0_e7c0cc24-a3b9-46b9-8fec-489f6bb2df98_60e89ed17080b489d69ca22339587f0e",
+          "user_id": "1d586b71-f9f5-4f37-8884-30fd1ebc39e0",
+          "response_id": "e7c0cc24-a3b9-46b9-8fec-489f6bb2df98_60e89ed17080b489d69ca22339587f0e",
+          "type": "longtextV2",
+          "question": {
+            "type": "longtextV2",
+            "metadata": {
+              "source": {
+                "organisation_id": 755
+              },
+              "sheet_reference": "default_feedback",
+              "widget_reference": "de082b5f-742a-4ecf-82ca-4dc86e218fec",
+              "valid_response_count": 0
+            },
+            "stimulus": "Written feedback:",
+            "response_id": "e7c0cc24-a3b9-46b9-8fec-489f6bb2df98_60e89ed17080b489d69ca22339587f0e",
+            "show_word_count": false,
+            "show_word_limit": "off"
+          },
+          "response": null,
+          "creation_date": "2023-06-06 08:28:52",
+          "mod_date": "2023-06-06 08:32:44",
+          "persist_until": "2026-06-05 08:28:52",
+          "saved": true
+        },
+        {
+          "id": "0707_1d586b71-f9f5-4f37-8884-30fd1ebc39e0_e7c0cc24-a3b9-46b9-8fec-489f6bb2df98_ca3e203599ec6aa70536c2102f6cc765",
+          "user_id": "1d586b71-f9f5-4f37-8884-30fd1ebc39e0",
+          "response_id": "e7c0cc24-a3b9-46b9-8fec-489f6bb2df98_ca3e203599ec6aa70536c2102f6cc765",
+          "type": "audio",
+          "question": {
+            "type": "audio",
+            "metadata": {
+              "source": {
+                "organisation_id": 755
+              },
+              "sheet_reference": "default_feedback",
+              "widget_reference": "b2f049b4-bb33-4542-993d-0645ffedda1a",
+              "valid_response_count": 0
+            },
+            "stimulus": "Audio feedback:",
+            "ui_style": {
+              "type": "button"
+            },
+            "max_length": 600,
+            "response_id": "e7c0cc24-a3b9-46b9-8fec-489f6bb2df98_ca3e203599ec6aa70536c2102f6cc765"
+          },
+          "response": null,
+          "creation_date": "2023-06-06 08:28:53",
+          "mod_date": "2023-06-06 08:32:44",
+          "persist_until": "2026-06-05 08:28:53",
+          "saved": true
+        }
+      ]
+    },
+    {
+      "response_id": "e7c0cc24-a3b9-46b9-8fec-489f6bb2df98_5f3692f4ce65021135fbfb7dde8b93a8",
+      "question_type": "mcq",
+      "dt_score_updated": "2023-06-05T17:18:12Z",
+      "automarkable": true,
+      "attempted": true,
+      "score": 1,
+      "max_score": 1,
+      "question_reference": "969658c4-37f4-45f4-8223-9c37959ac07c",
+      "item_reference": "e5109436-7292-4282-9222-206aa124e6c4",
+      "response": {
+        "value": [
+          "0"
+        ],
+        "type": "array",
+        "apiVersion": "v2.177.27",
+        "revision": 4,
+        "feedbackAttemptsCount": 1
+      },
+      "questionInfo": {
+        "type": "mcq",
+        "widget_type": "response",
+        "reference": "969658c4-37f4-45f4-8223-9c37959ac07c",
+        "data": {
+          "options": [
+            {
+              "label": "Clothes were very dull-looking and unattractive&nbsp;",
+              "value": "0"
+            },
+            {
+              "label": "Clothes were very expensive and there wasn't a lot of choice",
+              "value": "1"
+            },
+            {
+              "label": "Clothes were very boring and costly",
+              "value": "2"
+            }
+          ],
+          "stimulus": "<div class=\"lrn-well\"><span style=\"font-size:1.3em;\"><b id=\"yui_3_17_2_1_1630939835136_5088\">2.&nbsp;What was apparently wrong with the sustainable-fashion style of the 1990s?</b></span></div>\n\n<p><font color=\"#ff0000\"><b>► </b></font><b>Read the text carefully!&nbsp;</b><span style=\"font-weight:bold\"><span style=\"color:#ff0000\"><u>You have only ONE 'check answer' attempt</u>!</span></span>&nbsp;</p>\n",
+          "type": "mcq",
+          "validation": {
+            "scoring_type": "exactMatch",
+            "valid_response": {
+              "score": 1,
+              "value": [
+                "0"
+              ]
+            }
+          },
+          "ui_style": {
+            "type": "horizontal"
+          },
+          "instant_feedback": true,
+          "shuffle_options": true,
+          "feedback_attempts": 1
+        },
+        "metadata": {
+          "name": "Multiple choice – standard",
+          "template_reference": "9e8149bd-e4d8-4dd6-a751-1a113a4b9163"
+        }
+      },
+      "feedbackInfo": [
+        {
+          "id": "0707_1d586b71-f9f5-4f37-8884-30fd1ebc39e0_e7c0cc24-a3b9-46b9-8fec-489f6bb2df98_431eef32aec26f1d4f3b8e051ea1566b",
+          "user_id": "1d586b71-f9f5-4f37-8884-30fd1ebc39e0",
+          "response_id": "e7c0cc24-a3b9-46b9-8fec-489f6bb2df98_431eef32aec26f1d4f3b8e051ea1566b",
+          "type": "longtextV2",
+          "question": {
+            "type": "longtextV2",
+            "metadata": {
+              "source": {
+                "organisation_id": 755
+              },
+              "sheet_reference": "default_feedback",
+              "widget_reference": "de082b5f-742a-4ecf-82ca-4dc86e218fec",
+              "valid_response_count": 0
+            },
+            "stimulus": "Written feedback:",
+            "response_id": "e7c0cc24-a3b9-46b9-8fec-489f6bb2df98_431eef32aec26f1d4f3b8e051ea1566b",
+            "show_word_count": false,
+            "show_word_limit": "off"
+          },
+          "response": null,
+          "creation_date": "2023-06-06 08:28:53",
+          "mod_date": "2023-06-06 08:32:44",
+          "persist_until": "2026-06-05 08:28:53",
+          "saved": true
+        },
+        {
+          "id": "0707_1d586b71-f9f5-4f37-8884-30fd1ebc39e0_e7c0cc24-a3b9-46b9-8fec-489f6bb2df98_922234fdb18c50b751c4ed914c627d9c",
+          "user_id": "1d586b71-f9f5-4f37-8884-30fd1ebc39e0",
+          "response_id": "e7c0cc24-a3b9-46b9-8fec-489f6bb2df98_922234fdb18c50b751c4ed914c627d9c",
+          "type": "audio",
+          "question": {
+            "type": "audio",
+            "metadata": {
+              "source": {
+                "organisation_id": 755
+              },
+              "sheet_reference": "default_feedback",
+              "widget_reference": "b2f049b4-bb33-4542-993d-0645ffedda1a",
+              "valid_response_count": 0
+            },
+            "stimulus": "Audio feedback:",
+            "ui_style": {
+              "type": "button"
+            },
+            "max_length": 600,
+            "response_id": "e7c0cc24-a3b9-46b9-8fec-489f6bb2df98_922234fdb18c50b751c4ed914c627d9c"
+          },
+          "response": null,
+          "creation_date": "2023-06-06 08:28:53",
+          "mod_date": "2023-06-06 08:32:45",
+          "persist_until": "2026-06-05 08:28:53",
+          "saved": true
+        }
+      ]
+    },
+    {
+      "response_id": "e7c0cc24-a3b9-46b9-8fec-489f6bb2df98_9fb7fdedc78870ff28373459591ca65a",
+      "question_type": "mcq",
+      "dt_score_updated": "2023-06-05T17:19:54Z",
+      "automarkable": true,
+      "attempted": true,
+      "score": 1,
+      "max_score": 1,
+      "question_reference": "6e4925db-5021-4580-b4c3-2c6ec544bd78",
+      "item_reference": "e5109436-7292-4282-9222-206aa124e6c4",
+      "response": {
+        "value": [
+          "0"
+        ],
+        "type": "array",
+        "apiVersion": "v2.177.27",
+        "revision": 1,
+        "feedbackAttemptsCount": 1
+      },
+      "questionInfo": {
+        "type": "mcq",
+        "widget_type": "response",
+        "reference": "6e4925db-5021-4580-b4c3-2c6ec544bd78",
+        "data": {
+          "options": [
+            {
+              "label": "Planting and growing",
+              "value": "1"
+            },
+            {
+              "label": "Harvesting and storing",
+              "value": "2"
+            },
+            {
+              "label": "Dyeing and finishing&nbsp;",
+              "value": "0"
+            },
+            {
+              "label": "All of the above",
+              "value": "3"
+            }
+          ],
+          "stimulus": "<div class=\"lrn-well\"><span style=\"font-size:1.3em;\"><b id=\"yui_3_17_2_1_1630939835136_5264\">3. According to the text, which part of processing cotton causes the greatest pollution?</b></span></div>\n\n<p><font color=\"#ff0000\"><b>► </b></font><b>Read the text carefully!&nbsp;</b><span style=\"font-weight:bold\"><span style=\"color:#ff0000\"><u>You have only ONE 'check answer' attempt</u>!</span></span>&nbsp;</p>\n",
+          "type": "mcq",
+          "validation": {
+            "scoring_type": "exactMatch",
+            "valid_response": {
+              "score": 1,
+              "value": [
+                "0"
+              ]
+            }
+          },
+          "ui_style": {
+            "type": "horizontal"
+          },
+          "instant_feedback": true,
+          "feedback_attempts": 1
+        },
+        "metadata": {
+          "name": "Multiple choice – standard",
+          "template_reference": "9e8149bd-e4d8-4dd6-a751-1a113a4b9163"
+        }
+      },
+      "feedbackInfo": [
+        {
+          "id": "0707_1d586b71-f9f5-4f37-8884-30fd1ebc39e0_e7c0cc24-a3b9-46b9-8fec-489f6bb2df98_6de663b6c209cdf0b73fb0724368d5ee",
+          "user_id": "1d586b71-f9f5-4f37-8884-30fd1ebc39e0",
+          "response_id": "e7c0cc24-a3b9-46b9-8fec-489f6bb2df98_6de663b6c209cdf0b73fb0724368d5ee",
+          "type": "longtextV2",
+          "question": {
+            "type": "longtextV2",
+            "metadata": {
+              "source": {
+                "organisation_id": 755
+              },
+              "sheet_reference": "default_feedback",
+              "widget_reference": "de082b5f-742a-4ecf-82ca-4dc86e218fec",
+              "valid_response_count": 0
+            },
+            "stimulus": "Written feedback:",
+            "response_id": "e7c0cc24-a3b9-46b9-8fec-489f6bb2df98_6de663b6c209cdf0b73fb0724368d5ee",
+            "show_word_count": false,
+            "show_word_limit": "off"
+          },
+          "response": null,
+          "creation_date": "2023-06-06 08:28:53",
+          "mod_date": "2023-06-06 08:32:45",
+          "persist_until": "2026-06-05 08:28:53",
+          "saved": true
+        },
+        {
+          "id": "0707_1d586b71-f9f5-4f37-8884-30fd1ebc39e0_e7c0cc24-a3b9-46b9-8fec-489f6bb2df98_dda65fc0427110ccf6434bf437fb77fc",
+          "user_id": "1d586b71-f9f5-4f37-8884-30fd1ebc39e0",
+          "response_id": "e7c0cc24-a3b9-46b9-8fec-489f6bb2df98_dda65fc0427110ccf6434bf437fb77fc",
+          "type": "audio",
+          "question": {
+            "type": "audio",
+            "metadata": {
+              "source": {
+                "organisation_id": 755
+              },
+              "sheet_reference": "default_feedback",
+              "widget_reference": "b2f049b4-bb33-4542-993d-0645ffedda1a",
+              "valid_response_count": 0
+            },
+            "stimulus": "Audio feedback:",
+            "ui_style": {
+              "type": "button"
+            },
+            "max_length": 600,
+            "response_id": "e7c0cc24-a3b9-46b9-8fec-489f6bb2df98_dda65fc0427110ccf6434bf437fb77fc"
+          },
+          "response": null,
+          "creation_date": "2023-06-06 08:28:53",
+          "mod_date": "2023-06-06 08:32:45",
+          "persist_until": "2026-06-05 08:28:53",
+          "saved": true
+        }
+      ]
+    },
+    {
+      "response_id": "e7c0cc24-a3b9-46b9-8fec-489f6bb2df98_6c52772d79a16a3b51b1f4144230ac61",
+      "question_type": "mcq",
+      "dt_score_updated": "2023-06-05T17:24:50Z",
+      "automarkable": true,
+      "attempted": true,
+      "score": 1,
+      "max_score": 1,
+      "question_reference": "b56cf57c-6fab-4790-8f36-a9590cf26117",
+      "item_reference": "e5109436-7292-4282-9222-206aa124e6c4",
+      "response": {
+        "value": [
+          "3"
+        ],
+        "type": "array",
+        "apiVersion": "v2.177.27",
+        "revision": 1,
+        "feedbackAttemptsCount": 1
+      },
+      "questionInfo": {
+        "type": "mcq",
+        "widget_type": "response",
+        "reference": "b56cf57c-6fab-4790-8f36-a9590cf26117",
+        "data": {
+          "options": [
+            {
+              "label": "They don't use water resources sustainably.",
+              "value": "1"
+            },
+            {
+              "label": "They don't manage their supply chain properly.",
+              "value": "2"
+            },
+            {
+              "label": "They destroy forest land for cotton growing.&nbsp;",
+              "value": "3"
+            },
+            {
+              "label": "The cotton growing business causes a lot of waste.",
+              "value": "4"
+            }
+          ],
+          "stimulus": "<div class=\"lrn-well\"><span style=\"font-size:1.3em;\"><b id=\"yui_3_17_2_1_1630939835136_5399\">4. Why are organic cotton farmers criticized in this text?</b></span></div>\n\n<p><font color=\"#ff0000\"><b>► </b></font><b>Read the text carefully!&nbsp;</b><span style=\"font-weight:bold\"><span style=\"color:#ff0000\"><u>You have only ONE 'check answer' attempt</u>!</span></span>&nbsp;</p>\n",
+          "type": "mcq",
+          "validation": {
+            "scoring_type": "exactMatch",
+            "valid_response": {
+              "score": 1,
+              "value": [
+                "3"
+              ]
+            }
+          },
+          "ui_style": {
+            "type": "horizontal"
+          },
+          "instant_feedback": true,
+          "shuffle_options": true,
+          "feedback_attempts": 1
+        },
+        "metadata": {
+          "name": "Multiple choice – standard",
+          "template_reference": "9e8149bd-e4d8-4dd6-a751-1a113a4b9163"
+        }
+      },
+      "feedbackInfo": [
+        {
+          "id": "0707_1d586b71-f9f5-4f37-8884-30fd1ebc39e0_e7c0cc24-a3b9-46b9-8fec-489f6bb2df98_ed6383f1ac2829b160f6543e24f08d54",
+          "user_id": "1d586b71-f9f5-4f37-8884-30fd1ebc39e0",
+          "response_id": "e7c0cc24-a3b9-46b9-8fec-489f6bb2df98_ed6383f1ac2829b160f6543e24f08d54",
+          "type": "longtextV2",
+          "question": {
+            "type": "longtextV2",
+            "metadata": {
+              "source": {
+                "organisation_id": 755
+              },
+              "sheet_reference": "default_feedback",
+              "widget_reference": "de082b5f-742a-4ecf-82ca-4dc86e218fec",
+              "valid_response_count": 0
+            },
+            "stimulus": "Written feedback:",
+            "response_id": "e7c0cc24-a3b9-46b9-8fec-489f6bb2df98_ed6383f1ac2829b160f6543e24f08d54",
+            "show_word_count": false,
+            "show_word_limit": "off"
+          },
+          "response": null,
+          "creation_date": "2023-06-06 08:28:54",
+          "mod_date": "2023-06-06 08:32:45",
+          "persist_until": "2026-06-05 08:28:54",
+          "saved": true
+        },
+        {
+          "id": "0707_1d586b71-f9f5-4f37-8884-30fd1ebc39e0_e7c0cc24-a3b9-46b9-8fec-489f6bb2df98_70337d5e3672de6e6e9786d5501f11fc",
+          "user_id": "1d586b71-f9f5-4f37-8884-30fd1ebc39e0",
+          "response_id": "e7c0cc24-a3b9-46b9-8fec-489f6bb2df98_70337d5e3672de6e6e9786d5501f11fc",
+          "type": "audio",
+          "question": {
+            "type": "audio",
+            "metadata": {
+              "source": {
+                "organisation_id": 755
+              },
+              "sheet_reference": "default_feedback",
+              "widget_reference": "b2f049b4-bb33-4542-993d-0645ffedda1a",
+              "valid_response_count": 0
+            },
+            "stimulus": "Audio feedback:",
+            "ui_style": {
+              "type": "button"
+            },
+            "max_length": 600,
+            "response_id": "e7c0cc24-a3b9-46b9-8fec-489f6bb2df98_70337d5e3672de6e6e9786d5501f11fc"
+          },
+          "response": null,
+          "creation_date": "2023-06-06 08:28:54",
+          "mod_date": "2023-06-06 08:32:45",
+          "persist_until": "2026-06-05 08:28:54",
+          "saved": true
+        }
+      ]
+    },
+    {
+      "response_id": "e7c0cc24-a3b9-46b9-8fec-489f6bb2df98_a3cfb1c1d1caf8fee6180b064cbe08ee",
+      "question_type": "mcq",
+      "dt_score_updated": "2023-06-05T17:26:01Z",
+      "automarkable": true,
+      "attempted": true,
+      "score": 1,
+      "max_score": 1,
+      "question_reference": "6c39e22c-d2f4-491a-9359-251fc5f9fdcc",
+      "item_reference": "e5109436-7292-4282-9222-206aa124e6c4",
+      "response": {
+        "value": [
+          "0"
+        ],
+        "type": "array",
+        "apiVersion": "v2.177.27",
+        "revision": 1,
+        "feedbackAttemptsCount": 1
+      },
+      "questionInfo": {
+        "type": "mcq",
+        "widget_type": "response",
+        "reference": "6c39e22c-d2f4-491a-9359-251fc5f9fdcc",
+        "data": {
+          "options": [
+            {
+              "label": "They need more ironing than synthetic fabrics and they are less&nbsp;easily recycled.",
+              "value": "0"
+            },
+            {
+              "label": "They need more water for growing.",
+              "value": "1"
+            },
+            {
+              "label": "They only grown on certain kinds of forest land.",
+              "value": "2"
+            }
+          ],
+          "stimulus": "<div class=\"lrn-well\"><span style=\"font-size:1.3em;\"><b id=\"yui_3_17_2_1_1630939835136_5606\">5. What ecological disadvantages do bamboo and linen have as materials?</b></span></div>\n\n<p><font color=\"#ff0000\"><b>► </b></font><b>Read the text carefully!&nbsp;</b><span style=\"font-weight:bold\"><span style=\"color:#ff0000\"><u>You have only ONE 'check answer' attempt</u>!</span></span>&nbsp;</p>\n",
+          "type": "mcq",
+          "validation": {
+            "scoring_type": "exactMatch",
+            "valid_response": {
+              "score": 1,
+              "value": [
+                "0"
+              ]
+            }
+          },
+          "ui_style": {
+            "type": "horizontal"
+          },
+          "instant_feedback": true,
+          "shuffle_options": true,
+          "feedback_attempts": 1
+        },
+        "metadata": {
+          "name": "Multiple choice – standard",
+          "template_reference": "9e8149bd-e4d8-4dd6-a751-1a113a4b9163"
+        }
+      },
+      "feedbackInfo": [
+        {
+          "id": "0707_1d586b71-f9f5-4f37-8884-30fd1ebc39e0_e7c0cc24-a3b9-46b9-8fec-489f6bb2df98_ca95f082e17eaf036bca193938a9c23e",
+          "user_id": "1d586b71-f9f5-4f37-8884-30fd1ebc39e0",
+          "response_id": "e7c0cc24-a3b9-46b9-8fec-489f6bb2df98_ca95f082e17eaf036bca193938a9c23e",
+          "type": "longtextV2",
+          "question": {
+            "type": "longtextV2",
+            "metadata": {
+              "source": {
+                "organisation_id": 755
+              },
+              "sheet_reference": "default_feedback",
+              "widget_reference": "de082b5f-742a-4ecf-82ca-4dc86e218fec",
+              "valid_response_count": 0
+            },
+            "stimulus": "Written feedback:",
+            "response_id": "e7c0cc24-a3b9-46b9-8fec-489f6bb2df98_ca95f082e17eaf036bca193938a9c23e",
+            "show_word_count": false,
+            "show_word_limit": "off"
+          },
+          "response": null,
+          "creation_date": "2023-06-06 08:28:54",
+          "mod_date": "2023-06-06 08:32:46",
+          "persist_until": "2026-06-05 08:28:54",
+          "saved": true
+        },
+        {
+          "id": "0707_1d586b71-f9f5-4f37-8884-30fd1ebc39e0_e7c0cc24-a3b9-46b9-8fec-489f6bb2df98_eb2d74518ecb526751dec38f62f41b7e",
+          "user_id": "1d586b71-f9f5-4f37-8884-30fd1ebc39e0",
+          "response_id": "e7c0cc24-a3b9-46b9-8fec-489f6bb2df98_eb2d74518ecb526751dec38f62f41b7e",
+          "type": "audio",
+          "question": {
+            "type": "audio",
+            "metadata": {
+              "source": {
+                "organisation_id": 755
+              },
+              "sheet_reference": "default_feedback",
+              "widget_reference": "b2f049b4-bb33-4542-993d-0645ffedda1a",
+              "valid_response_count": 0
+            },
+            "stimulus": "Audio feedback:",
+            "ui_style": {
+              "type": "button"
+            },
+            "max_length": 600,
+            "response_id": "e7c0cc24-a3b9-46b9-8fec-489f6bb2df98_eb2d74518ecb526751dec38f62f41b7e"
+          },
+          "response": null,
+          "creation_date": "2023-06-06 08:28:54",
+          "mod_date": "2023-06-06 08:32:46",
+          "persist_until": "2026-06-05 08:28:54",
+          "saved": true
+        }
+      ]
+    },
+    {
+      "response_id": "e7c0cc24-a3b9-46b9-8fec-489f6bb2df98_33498449a64bd3920e74dd721de35acc",
+      "question_type": "clozetext",
+      "dt_score_updated": "2023-06-05T17:54:48Z",
+      "automarkable": true,
+      "attempted": true,
+      "score": 0,
+      "max_score": 1,
+      "question_reference": "f12ae9d1-c34f-4187-b5dd-543a45bcaa5d",
+      "item_reference": "e5109436-7292-4282-9222-206aa124e6c4",
+      "response": {
+        "value": [
+          "fur"
+        ],
+        "type": "array",
+        "apiVersion": "v2.177.27",
+        "revision": 1
+      },
+      "questionInfo": {
+        "type": "clozetext",
+        "widget_type": "response",
+        "reference": "f12ae9d1-c34f-4187-b5dd-543a45bcaa5d",
+        "data": {
+          "stimulus": "<div class=\"lrn-well\"><span style=\"font-size:1.3em;\"><b id=\"yui_3_17_2_1_1630939835136_5850\">6. Identify a garment produced from recycled materials by Patagonia.</b></span></div>\n\n<p><font color=\"#ff0000\"><b>► </b></font><b>Check your spelling!&nbsp;</b><span style=\"font-weight:bold\"><span style=\"color:#ff0000\"><u>You have only ONE 'check answer' attempt</u>!</span></span></p>\n",
+          "template": "<p style=\"margin-left: 40px;\"><span style=\"background-color: rgb(255, 255, 255);\"><b>Write</b></span><b>&nbsp;your answer&nbsp;in the box </b><strong>one word).</strong></p>\n\n<p style=\"margin-left: 40px;\">{{response}}</p>\n",
+          "type": "clozetext",
+          "validation": {
+            "scoring_type": "exactMatch",
+            "valid_response": {
+              "score": 1,
+              "value": [
+                "Fleeces"
+              ]
+            }
+          },
+          "instant_feedback": true,
+          "feedback_attempts": 1
+        },
+        "metadata": {
+          "name": "Cloze with text",
+          "template_reference": "457fe101-0667-4a35-b193-b849653acb52"
+        }
+      },
+      "feedbackInfo": [
+        {
+          "id": "0707_1d586b71-f9f5-4f37-8884-30fd1ebc39e0_e7c0cc24-a3b9-46b9-8fec-489f6bb2df98_90a4f56180825826181c47bfd6f85166",
+          "user_id": "1d586b71-f9f5-4f37-8884-30fd1ebc39e0",
+          "response_id": "e7c0cc24-a3b9-46b9-8fec-489f6bb2df98_90a4f56180825826181c47bfd6f85166",
+          "type": "longtextV2",
+          "question": {
+            "type": "longtextV2",
+            "metadata": {
+              "source": {
+                "organisation_id": 755
+              },
+              "sheet_reference": "default_feedback",
+              "widget_reference": "de082b5f-742a-4ecf-82ca-4dc86e218fec",
+              "valid_response_count": 0
+            },
+            "stimulus": "Written feedback:",
+            "response_id": "e7c0cc24-a3b9-46b9-8fec-489f6bb2df98_90a4f56180825826181c47bfd6f85166",
+            "show_word_count": false,
+            "show_word_limit": "off"
+          },
+          "response": null,
+          "creation_date": "2023-06-06 08:28:54",
+          "mod_date": "2023-06-06 08:32:46",
+          "persist_until": "2026-06-05 08:28:54",
+          "saved": true
+        },
+        {
+          "id": "0707_1d586b71-f9f5-4f37-8884-30fd1ebc39e0_e7c0cc24-a3b9-46b9-8fec-489f6bb2df98_252adcfcf7c4da043003bd45f4a9bf79",
+          "user_id": "1d586b71-f9f5-4f37-8884-30fd1ebc39e0",
+          "response_id": "e7c0cc24-a3b9-46b9-8fec-489f6bb2df98_252adcfcf7c4da043003bd45f4a9bf79",
+          "type": "audio",
+          "question": {
+            "type": "audio",
+            "metadata": {
+              "source": {
+                "organisation_id": 755
+              },
+              "sheet_reference": "default_feedback",
+              "widget_reference": "b2f049b4-bb33-4542-993d-0645ffedda1a",
+              "valid_response_count": 0
+            },
+            "stimulus": "Audio feedback:",
+            "ui_style": {
+              "type": "button"
+            },
+            "max_length": 600,
+            "response_id": "e7c0cc24-a3b9-46b9-8fec-489f6bb2df98_252adcfcf7c4da043003bd45f4a9bf79"
+          },
+          "response": null,
+          "creation_date": "2023-06-06 08:28:54",
+          "mod_date": "2023-06-06 08:32:46",
+          "persist_until": "2026-06-05 08:28:54",
+          "saved": true
+        }
+      ]
+    },
+    {
+      "response_id": "e7c0cc24-a3b9-46b9-8fec-489f6bb2df98_d3d59b86ee759d500b509916e311af74",
+      "question_type": "mcq",
+      "dt_score_updated": "2023-06-05T17:32:51Z",
+      "automarkable": true,
+      "attempted": true,
+      "score": 1,
+      "max_score": 1,
+      "question_reference": "31435998-a54c-4e63-9cf7-2f2da1cac7cb",
+      "item_reference": "e5109436-7292-4282-9222-206aa124e6c4",
+      "response": {
+        "value": [
+          "0"
+        ],
+        "type": "array",
+        "apiVersion": "v2.177.27",
+        "revision": 1,
+        "feedbackAttemptsCount": 1
+      },
+      "questionInfo": {
+        "type": "mcq",
+        "widget_type": "response",
+        "reference": "31435998-a54c-4e63-9cf7-2f2da1cac7cb",
+        "data": {
+          "options": [
+            {
+              "label": "True",
+              "value": "0"
+            },
+            {
+              "label": "False",
+              "value": "1"
+            }
+          ],
+          "stimulus": "<div class=\"lrn-well\"><span style=\"font-size:1.3em;\"><b id=\"yui_3_17_2_1_1630939835136_5970\">7. Thanks to modern advances, polyester now be transformed into&nbsp;</b><strong>fine fabrics, such as chiffon.</strong></span></div>\n\n<p><font color=\"#ff0000\"><b>► </b></font><b>Read the text carefully!&nbsp;</b><span style=\"font-weight:bold\"><span style=\"color:#ff0000\"><u>You have only ONE 'check answer' attempt</u>!</span></span>&nbsp;</p>\n",
+          "type": "mcq",
+          "ui_style": {
+            "type": "horizontal"
+          },
+          "validation": {
+            "scoring_type": "exactMatch",
+            "valid_response": {
+              "score": 1,
+              "value": [
+                "0"
+              ]
+            }
+          },
+          "instant_feedback": true,
+          "feedback_attempts": 1
+        },
+        "metadata": {
+          "name": "True or false",
+          "template_reference": "3egs0b24-5gs8-49fc-fds9-4a450sdg31ca"
+        }
+      },
+      "feedbackInfo": [
+        {
+          "id": "0707_1d586b71-f9f5-4f37-8884-30fd1ebc39e0_e7c0cc24-a3b9-46b9-8fec-489f6bb2df98_013947ec76a79af808f94712571f2230",
+          "user_id": "1d586b71-f9f5-4f37-8884-30fd1ebc39e0",
+          "response_id": "e7c0cc24-a3b9-46b9-8fec-489f6bb2df98_013947ec76a79af808f94712571f2230",
+          "type": "longtextV2",
+          "question": {
+            "type": "longtextV2",
+            "metadata": {
+              "source": {
+                "organisation_id": 755
+              },
+              "sheet_reference": "default_feedback",
+              "widget_reference": "de082b5f-742a-4ecf-82ca-4dc86e218fec",
+              "valid_response_count": 0
+            },
+            "stimulus": "Written feedback:",
+            "response_id": "e7c0cc24-a3b9-46b9-8fec-489f6bb2df98_013947ec76a79af808f94712571f2230",
+            "show_word_count": false,
+            "show_word_limit": "off"
+          },
+          "response": null,
+          "creation_date": "2023-06-06 08:28:55",
+          "mod_date": "2023-06-06 08:32:46",
+          "persist_until": "2026-06-05 08:28:55",
+          "saved": true
+        },
+        {
+          "id": "0707_1d586b71-f9f5-4f37-8884-30fd1ebc39e0_e7c0cc24-a3b9-46b9-8fec-489f6bb2df98_69b9c333d275105792ea3c591cc29421",
+          "user_id": "1d586b71-f9f5-4f37-8884-30fd1ebc39e0",
+          "response_id": "e7c0cc24-a3b9-46b9-8fec-489f6bb2df98_69b9c333d275105792ea3c591cc29421",
+          "type": "audio",
+          "question": {
+            "type": "audio",
+            "metadata": {
+              "source": {
+                "organisation_id": 755
+              },
+              "sheet_reference": "default_feedback",
+              "widget_reference": "b2f049b4-bb33-4542-993d-0645ffedda1a",
+              "valid_response_count": 0
+            },
+            "stimulus": "Audio feedback:",
+            "ui_style": {
+              "type": "button"
+            },
+            "max_length": 600,
+            "response_id": "e7c0cc24-a3b9-46b9-8fec-489f6bb2df98_69b9c333d275105792ea3c591cc29421"
+          },
+          "response": null,
+          "creation_date": "2023-06-06 08:28:55",
+          "mod_date": "2023-06-06 08:32:46",
+          "persist_until": "2026-06-05 08:28:55",
+          "saved": true
+        }
+      ]
+    },
+    {
+      "response_id": "e7c0cc24-a3b9-46b9-8fec-489f6bb2df98_17a312bb828be2a58a90b876be67f49e",
+      "question_type": "mcq",
+      "dt_score_updated": "2023-06-05T17:36:11Z",
+      "automarkable": true,
+      "attempted": true,
+      "score": 1,
+      "max_score": 1,
+      "question_reference": "7029145d-34f4-4c6c-9df9-77b8baf70801",
+      "item_reference": "e5109436-7292-4282-9222-206aa124e6c4",
+      "response": {
+        "value": [
+          "0"
+        ],
+        "type": "array",
+        "apiVersion": "v2.177.27",
+        "revision": 1
+      },
+      "questionInfo": {
+        "type": "mcq",
+        "widget_type": "response",
+        "reference": "7029145d-34f4-4c6c-9df9-77b8baf70801",
+        "data": {
+          "options": [
+            {
+              "label": "They started ‘upcycling’, i.e., using waste material for fashion clothes.&nbsp;",
+              "value": "0"
+            },
+            {
+              "label": "They offer cheap eco-friendly clothes.",
+              "value": "1"
+            },
+            {
+              "label": "They are committed to sustainable farming.",
+              "value": "2"
+            }
+          ],
+          "stimulus": "<div class=\"lrn-well\"><span style=\"font-size:1.3em;\"><b id=\"yui_3_17_2_1_1630939835136_6444\">8. Why have companies such as Tesco gained a good reputation with environmentalists?</b></span></div>\n\n<p><font color=\"#ff0000\"><b>► </b></font><b>Read the text carefully!&nbsp;</b><span style=\"font-weight:bold\"><span style=\"color:#ff0000\"><u>You have only ONE 'check answer' attempt</u>!</span></span>&nbsp;</p>\n",
+          "type": "mcq",
+          "validation": {
+            "scoring_type": "exactMatch",
+            "valid_response": {
+              "score": 1,
+              "value": [
+                "0"
+              ]
+            }
+          },
+          "ui_style": {
+            "type": "horizontal"
+          },
+          "instant_feedback": true,
+          "shuffle_options": true,
+          "feedback_attempts": 1
+        },
+        "metadata": {
+          "name": "Multiple choice – standard",
+          "template_reference": "9e8149bd-e4d8-4dd6-a751-1a113a4b9163"
+        }
+      },
+      "feedbackInfo": [
+        {
+          "id": "0707_1d586b71-f9f5-4f37-8884-30fd1ebc39e0_e7c0cc24-a3b9-46b9-8fec-489f6bb2df98_c22c90e6d0a80ba9cc279cdbee014766",
+          "user_id": "1d586b71-f9f5-4f37-8884-30fd1ebc39e0",
+          "response_id": "e7c0cc24-a3b9-46b9-8fec-489f6bb2df98_c22c90e6d0a80ba9cc279cdbee014766",
+          "type": "longtextV2",
+          "question": {
+            "type": "longtextV2",
+            "metadata": {
+              "source": {
+                "organisation_id": 755
+              },
+              "sheet_reference": "default_feedback",
+              "widget_reference": "de082b5f-742a-4ecf-82ca-4dc86e218fec",
+              "valid_response_count": 0
+            },
+            "stimulus": "Written feedback:",
+            "response_id": "e7c0cc24-a3b9-46b9-8fec-489f6bb2df98_c22c90e6d0a80ba9cc279cdbee014766",
+            "show_word_count": false,
+            "show_word_limit": "off"
+          },
+          "response": null,
+          "creation_date": "2023-06-06 08:28:55",
+          "mod_date": "2023-06-06 08:32:47",
+          "persist_until": "2026-06-05 08:28:55",
+          "saved": true
+        },
+        {
+          "id": "0707_1d586b71-f9f5-4f37-8884-30fd1ebc39e0_e7c0cc24-a3b9-46b9-8fec-489f6bb2df98_bdd14315198f963fc75fe6ea08be90ab",
+          "user_id": "1d586b71-f9f5-4f37-8884-30fd1ebc39e0",
+          "response_id": "e7c0cc24-a3b9-46b9-8fec-489f6bb2df98_bdd14315198f963fc75fe6ea08be90ab",
+          "type": "audio",
+          "question": {
+            "type": "audio",
+            "metadata": {
+              "source": {
+                "organisation_id": 755
+              },
+              "sheet_reference": "default_feedback",
+              "widget_reference": "b2f049b4-bb33-4542-993d-0645ffedda1a",
+              "valid_response_count": 0
+            },
+            "stimulus": "Audio feedback:",
+            "ui_style": {
+              "type": "button"
+            },
+            "max_length": 600,
+            "response_id": "e7c0cc24-a3b9-46b9-8fec-489f6bb2df98_bdd14315198f963fc75fe6ea08be90ab"
+          },
+          "response": null,
+          "creation_date": "2023-06-06 08:28:55",
+          "mod_date": "2023-06-06 08:32:47",
+          "persist_until": "2026-06-05 08:28:55",
+          "saved": true
+        }
+      ]
+    },
+    {
+      "response_id": "e7c0cc24-a3b9-46b9-8fec-489f6bb2df98_29fdf3b748cf4cf971d9842543cece06",
+      "question_type": "clozetext",
+      "dt_score_updated": "2023-06-05T17:29:17Z",
+      "automarkable": true,
+      "attempted": true,
+      "score": 0,
+      "max_score": 1,
+      "question_reference": "da044eef-6d9f-4ca4-92bc-8891b2a91bd1",
+      "item_reference": "e5109436-7292-4282-9222-206aa124e6c4",
+      "response": {
+        "value": [
+          "Andes"
+        ],
+        "type": "array",
+        "apiVersion": "v2.177.27",
+        "revision": 1
+      },
+      "questionInfo": {
+        "type": "clozetext",
+        "widget_type": "response",
+        "reference": "da044eef-6d9f-4ca4-92bc-8891b2a91bd1",
+        "data": {
+          "stimulus": "<div class=\"lrn-well\" id=\"yui_3_17_2_1_1630939835136_7426\"><span style=\"font-size:1.3em;\"><b id=\"yui_3_17_2_1_1630939835136_7425\">9.&nbsp;Where in the USA has an important renewable leather industry developed?</b></span></div>\n\n<p><font color=\"#ff0000\"><b>► </b></font><b>Check your spelling carefully!&nbsp;</b><span style=\"font-weight:bold\"><span style=\"color:#ff0000\"><u>You have only ONE 'check answer' attempt</u>!</span></span></p>\n",
+          "template": "<p style=\"margin-left: 40px;\"><span style=\"background-color: rgb(255, 255, 255);\"><b>Write</b></span><b>&nbsp;your answer&nbsp;in the box (one word)</b></p>\n\n<p style=\"margin-left: 40px;\">{{response}}</p>\n",
+          "type": "clozetext",
+          "validation": {
+            "scoring_type": "partialMatchV2",
+            "valid_response": {
+              "score": 1,
+              "value": [
+                "Louisiana"
+              ]
+            }
+          },
+          "instant_feedback": true,
+          "feedback_attempts": 1
+        },
+        "metadata": {
+          "name": "Cloze with text",
+          "template_reference": "457fe101-0667-4a35-b193-b849653acb52"
+        }
+      },
+      "feedbackInfo": [
+        {
+          "id": "0707_1d586b71-f9f5-4f37-8884-30fd1ebc39e0_e7c0cc24-a3b9-46b9-8fec-489f6bb2df98_44f923a6bfe481a7756a4aa7c5144eb0",
+          "user_id": "1d586b71-f9f5-4f37-8884-30fd1ebc39e0",
+          "response_id": "e7c0cc24-a3b9-46b9-8fec-489f6bb2df98_44f923a6bfe481a7756a4aa7c5144eb0",
+          "type": "longtextV2",
+          "question": {
+            "type": "longtextV2",
+            "metadata": {
+              "source": {
+                "organisation_id": 755
+              },
+              "sheet_reference": "default_feedback",
+              "widget_reference": "de082b5f-742a-4ecf-82ca-4dc86e218fec",
+              "valid_response_count": 0
+            },
+            "stimulus": "Written feedback:",
+            "response_id": "e7c0cc24-a3b9-46b9-8fec-489f6bb2df98_44f923a6bfe481a7756a4aa7c5144eb0",
+            "show_word_count": false,
+            "show_word_limit": "off"
+          },
+          "response": null,
+          "creation_date": "2023-06-06 08:28:55",
+          "mod_date": "2023-06-06 08:32:47",
+          "persist_until": "2026-06-05 08:28:55",
+          "saved": true
+        },
+        {
+          "id": "0707_1d586b71-f9f5-4f37-8884-30fd1ebc39e0_e7c0cc24-a3b9-46b9-8fec-489f6bb2df98_1b926c83b8e2ed52e00c903409a47b4f",
+          "user_id": "1d586b71-f9f5-4f37-8884-30fd1ebc39e0",
+          "response_id": "e7c0cc24-a3b9-46b9-8fec-489f6bb2df98_1b926c83b8e2ed52e00c903409a47b4f",
+          "type": "audio",
+          "question": {
+            "type": "audio",
+            "metadata": {
+              "source": {
+                "organisation_id": 755
+              },
+              "sheet_reference": "default_feedback",
+              "widget_reference": "b2f049b4-bb33-4542-993d-0645ffedda1a",
+              "valid_response_count": 0
+            },
+            "stimulus": "Audio feedback:",
+            "ui_style": {
+              "type": "button"
+            },
+            "max_length": 600,
+            "response_id": "e7c0cc24-a3b9-46b9-8fec-489f6bb2df98_1b926c83b8e2ed52e00c903409a47b4f"
+          },
+          "response": null,
+          "creation_date": "2023-06-06 08:28:56",
+          "mod_date": "2023-06-06 08:32:47",
+          "persist_until": "2026-06-05 08:28:56",
+          "saved": true
+        }
+      ]
+    },
+    {
+      "response_id": "e7c0cc24-a3b9-46b9-8fec-489f6bb2df98_86daef5e7b48fa1d07102add15d3ed08",
+      "question_type": "mcq",
+      "dt_score_updated": "2023-06-05T17:34:04Z",
+      "automarkable": true,
+      "attempted": true,
+      "score": 1,
+      "max_score": 1,
+      "question_reference": "c4cb31df-4e1f-4484-8717-83131e680ca5",
+      "item_reference": "e5109436-7292-4282-9222-206aa124e6c4",
+      "response": {
+        "value": [
+          "0"
+        ],
+        "type": "array",
+        "apiVersion": "v2.177.27",
+        "revision": 1,
+        "feedbackAttemptsCount": 1
+      },
+      "questionInfo": {
+        "type": "mcq",
+        "widget_type": "response",
+        "reference": "c4cb31df-4e1f-4484-8717-83131e680ca5",
+        "data": {
+          "options": [
+            {
+              "label": "Convention on International Trade in Endangered Species",
+              "value": "0"
+            },
+            {
+              "label": "Convention on International Trade in Ecological Sustainability&nbsp;",
+              "value": "1"
+            },
+            {
+              "label": "Convention of International Transaction of Endangered Species",
+              "value": "2"
+            },
+            {
+              "label": "Convention on International Trust in Ecological Sustainability&nbsp;",
+              "value": "3"
+            }
+          ],
+          "stimulus": "<div class=\"lrn-well\"><span style=\"font-size:1.3em;\"><b id=\"yui_3_17_2_1_1630939835136_7664\">10. According to the text, consumers&nbsp;who buy these good are issued a CITES certificate. What does CITES stand for?</b></span></div>\n\n<p><font color=\"#ff0000\"><b>► </b></font><b>Read the text carefully!&nbsp;</b><span style=\"font-weight:bold\"><span style=\"color:#ff0000\"><u>You have only ONE 'check answer' attempt</u>!</span></span>&nbsp;</p>\n",
+          "type": "mcq",
+          "validation": {
+            "scoring_type": "exactMatch",
+            "valid_response": {
+              "score": 1,
+              "value": [
+                "0"
+              ]
+            }
+          },
+          "ui_style": {
+            "type": "horizontal"
+          },
+          "instant_feedback": true,
+          "multiple_responses": true,
+          "feedback_attempts": 1
+        },
+        "metadata": {
+          "name": "Multiple choice – standard",
+          "template_reference": "9e8149bd-e4d8-4dd6-a751-1a113a4b9163"
+        }
+      },
+      "feedbackInfo": [
+        {
+          "id": "0707_1d586b71-f9f5-4f37-8884-30fd1ebc39e0_e7c0cc24-a3b9-46b9-8fec-489f6bb2df98_2ffcc68059f52d451c94368db786dffd",
+          "user_id": "1d586b71-f9f5-4f37-8884-30fd1ebc39e0",
+          "response_id": "e7c0cc24-a3b9-46b9-8fec-489f6bb2df98_2ffcc68059f52d451c94368db786dffd",
+          "type": "longtextV2",
+          "question": {
+            "type": "longtextV2",
+            "metadata": {
+              "source": {
+                "organisation_id": 755
+              },
+              "sheet_reference": "default_feedback",
+              "widget_reference": "de082b5f-742a-4ecf-82ca-4dc86e218fec",
+              "valid_response_count": 0
+            },
+            "stimulus": "Written feedback:",
+            "response_id": "e7c0cc24-a3b9-46b9-8fec-489f6bb2df98_2ffcc68059f52d451c94368db786dffd",
+            "show_word_count": false,
+            "show_word_limit": "off"
+          },
+          "response": null,
+          "creation_date": "2023-06-06 08:28:56",
+          "mod_date": "2023-06-06 08:32:47",
+          "persist_until": "2026-06-05 08:28:56",
+          "saved": true
+        },
+        {
+          "id": "0707_1d586b71-f9f5-4f37-8884-30fd1ebc39e0_e7c0cc24-a3b9-46b9-8fec-489f6bb2df98_a121ea3febfe1c936cf466a6cfe00e68",
+          "user_id": "1d586b71-f9f5-4f37-8884-30fd1ebc39e0",
+          "response_id": "e7c0cc24-a3b9-46b9-8fec-489f6bb2df98_a121ea3febfe1c936cf466a6cfe00e68",
+          "type": "audio",
+          "question": {
+            "type": "audio",
+            "metadata": {
+              "source": {
+                "organisation_id": 755
+              },
+              "sheet_reference": "default_feedback",
+              "widget_reference": "b2f049b4-bb33-4542-993d-0645ffedda1a",
+              "valid_response_count": 0
+            },
+            "stimulus": "Audio feedback:",
+            "ui_style": {
+              "type": "button"
+            },
+            "max_length": 600,
+            "response_id": "e7c0cc24-a3b9-46b9-8fec-489f6bb2df98_a121ea3febfe1c936cf466a6cfe00e68"
+          },
+          "response": null,
+          "creation_date": "2023-06-06 08:28:56",
+          "mod_date": "2023-06-06 08:32:48",
+          "persist_until": "2026-06-05 08:28:56",
+          "saved": true
+        }
+      ]
+    },
+    {
+      "response_id": "e7c0cc24-a3b9-46b9-8fec-489f6bb2df98_c491298b1edd5a3cfe3b460f2bc02576",
+      "question_type": "clozetext",
+      "dt_score_updated": "2023-06-05T17:42:22Z",
+      "automarkable": true,
+      "attempted": true,
+      "score": 0,
+      "max_score": 1,
+      "question_reference": "fb20f2c1-dd50-474a-be42-dc7440656b6b",
+      "item_reference": "e5109436-7292-4282-9222-206aa124e6c4",
+      "response": {
+        "value": [
+          "animal products"
+        ],
+        "type": "array",
+        "apiVersion": "v2.177.27",
+        "revision": 5,
+        "feedbackAttemptsCount": 1
+      },
+      "questionInfo": {
+        "type": "clozetext",
+        "widget_type": "response",
+        "reference": "fb20f2c1-dd50-474a-be42-dc7440656b6b",
+        "data": {
+          "stimulus": "<div class=\"lrn-well\"><span style=\"font-size:1.3em;\"><b id=\"yui_3_17_2_1_1630939835136_8214\">11. Which term in the text refers to fashion items which can be repaired?</b></span></div>\n\n<p><font color=\"#ff0000\"><b>► </b></font><b>Check your spelling carefully!&nbsp;</b><span style=\"font-weight:bold\"><span style=\"color:#ff0000\"><u>You have only ONE 'check answer' attempt</u>!</span></span></p>\n",
+          "template": "<p style=\"margin-left: 40px;\"><span style=\"background-color: rgb(255, 255, 255);\"><b>Write</b></span><b>&nbsp;your answer&nbsp;in the box (two&nbsp;words)</b></p>\n\n<p style=\"margin-left: 40px;\">{{response}}</p>\n",
+          "type": "clozetext",
+          "validation": {
+            "scoring_type": "partialMatch",
+            "valid_response": {
+              "score": 1,
+              "value": [
+                "slow fashio"
+              ]
+            }
+          },
+          "instant_feedback": true,
+          "feedback_attempts": 1
+        },
+        "metadata": {
+          "name": "Cloze with text",
+          "template_reference": "457fe101-0667-4a35-b193-b849653acb52"
+        }
+      },
+      "feedbackInfo": [
+        {
+          "id": "0707_1d586b71-f9f5-4f37-8884-30fd1ebc39e0_e7c0cc24-a3b9-46b9-8fec-489f6bb2df98_1090608ef02b5b18aee1f2a1cbdcb92a",
+          "user_id": "1d586b71-f9f5-4f37-8884-30fd1ebc39e0",
+          "response_id": "e7c0cc24-a3b9-46b9-8fec-489f6bb2df98_1090608ef02b5b18aee1f2a1cbdcb92a",
+          "type": "longtextV2",
+          "question": {
+            "type": "longtextV2",
+            "metadata": {
+              "source": {
+                "organisation_id": 755
+              },
+              "sheet_reference": "default_feedback",
+              "widget_reference": "de082b5f-742a-4ecf-82ca-4dc86e218fec",
+              "valid_response_count": 0
+            },
+            "stimulus": "Written feedback:",
+            "response_id": "e7c0cc24-a3b9-46b9-8fec-489f6bb2df98_1090608ef02b5b18aee1f2a1cbdcb92a",
+            "show_word_count": false,
+            "show_word_limit": "off"
+          },
+          "response": null,
+          "creation_date": "2023-06-06 08:28:56",
+          "mod_date": "2023-06-06 08:32:48",
+          "persist_until": "2026-06-05 08:28:56",
+          "saved": true
+        },
+        {
+          "id": "0707_1d586b71-f9f5-4f37-8884-30fd1ebc39e0_e7c0cc24-a3b9-46b9-8fec-489f6bb2df98_5a5f993c188d587dec8e657ea8d6524f",
+          "user_id": "1d586b71-f9f5-4f37-8884-30fd1ebc39e0",
+          "response_id": "e7c0cc24-a3b9-46b9-8fec-489f6bb2df98_5a5f993c188d587dec8e657ea8d6524f",
+          "type": "audio",
+          "question": {
+            "type": "audio",
+            "metadata": {
+              "source": {
+                "organisation_id": 755
+              },
+              "sheet_reference": "default_feedback",
+              "widget_reference": "b2f049b4-bb33-4542-993d-0645ffedda1a",
+              "valid_response_count": 0
+            },
+            "stimulus": "Audio feedback:",
+            "ui_style": {
+              "type": "button"
+            },
+            "max_length": 600,
+            "response_id": "e7c0cc24-a3b9-46b9-8fec-489f6bb2df98_5a5f993c188d587dec8e657ea8d6524f"
+          },
+          "response": null,
+          "creation_date": "2023-06-06 08:28:56",
+          "mod_date": "2023-06-06 08:32:48",
+          "persist_until": "2026-06-05 08:28:56",
+          "saved": true
+        }
+      ]
+    },
+    {
+      "response_id": "e7c0cc24-a3b9-46b9-8fec-489f6bb2df98_bbb73872c7b07f1c44abeb09003d4bda",
+      "question_type": "mcq",
+      "dt_score_updated": "2023-06-05T17:45:26Z",
+      "automarkable": true,
+      "attempted": true,
+      "score": 1,
+      "max_score": 1,
+      "question_reference": "93d52da1-9bcc-4172-83b5-b44a24093ec0",
+      "item_reference": "e5109436-7292-4282-9222-206aa124e6c4",
+      "response": {
+        "value": [
+          "0"
+        ],
+        "type": "array",
+        "apiVersion": "v2.177.27",
+        "revision": 1
+      },
+      "questionInfo": {
+        "type": "mcq",
+        "widget_type": "response",
+        "reference": "93d52da1-9bcc-4172-83b5-b44a24093ec0",
+        "data": {
+          "options": [
+            {
+              "label": "Central America (but habitat is now Andes mountains in South America)",
+              "value": "0"
+            },
+            {
+              "label": "Central America (but habitat is now Appalachia&nbsp;in the Eastern United States)&nbsp;",
+              "value": "1"
+            },
+            {
+              "label": "Central America (but habitat is now the Mountain ranges of Costa Rica‎)",
+              "value": "2"
+            },
+            {
+              "label": "Central America (but habitat is now Sierra Nevada mountains in South America)",
+              "value": "3"
+            }
+          ],
+          "stimulus": "<div class=\"lrn-well\"><span style=\"font-size:1.3em;\"><b id=\"yui_3_17_2_1_1630939835136_8440\">12. Where does the vicuña originate from?</b></span></div>\n\n<p><font color=\"#ff0000\"><b>► </b></font><b>Read the text carefully!&nbsp;</b><span style=\"font-weight:bold\"><span style=\"color:#ff0000\"><u>You have only ONE 'check answer' attempt</u>!</span></span>&nbsp;</p>\n",
+          "type": "mcq",
+          "validation": {
+            "scoring_type": "exactMatch",
+            "valid_response": {
+              "score": 1,
+              "value": [
+                "0"
+              ]
+            }
+          },
+          "ui_style": {
+            "type": "horizontal"
+          },
+          "shuffle_options": true,
+          "instant_feedback": true,
+          "feedback_attempts": 1
+        },
+        "metadata": {
+          "name": "Multiple choice – standard",
+          "template_reference": "9e8149bd-e4d8-4dd6-a751-1a113a4b9163"
+        }
+      },
+      "feedbackInfo": [
+        {
+          "id": "0707_1d586b71-f9f5-4f37-8884-30fd1ebc39e0_e7c0cc24-a3b9-46b9-8fec-489f6bb2df98_bbe68ab8a9ef6df0d9bcde117aa5f841",
+          "user_id": "1d586b71-f9f5-4f37-8884-30fd1ebc39e0",
+          "response_id": "e7c0cc24-a3b9-46b9-8fec-489f6bb2df98_bbe68ab8a9ef6df0d9bcde117aa5f841",
+          "type": "longtextV2",
+          "question": {
+            "type": "longtextV2",
+            "metadata": {
+              "source": {
+                "organisation_id": 755
+              },
+              "sheet_reference": "default_feedback",
+              "widget_reference": "de082b5f-742a-4ecf-82ca-4dc86e218fec",
+              "valid_response_count": 0
+            },
+            "stimulus": "Written feedback:",
+            "response_id": "e7c0cc24-a3b9-46b9-8fec-489f6bb2df98_bbe68ab8a9ef6df0d9bcde117aa5f841",
+            "show_word_count": false,
+            "show_word_limit": "off"
+          },
+          "response": null,
+          "creation_date": "2023-06-06 08:28:57",
+          "mod_date": "2023-06-06 08:32:48",
+          "persist_until": "2026-06-05 08:28:57",
+          "saved": true
+        },
+        {
+          "id": "0707_1d586b71-f9f5-4f37-8884-30fd1ebc39e0_e7c0cc24-a3b9-46b9-8fec-489f6bb2df98_aa6e9d1f502fbe1beb194a759db2eba4",
+          "user_id": "1d586b71-f9f5-4f37-8884-30fd1ebc39e0",
+          "response_id": "e7c0cc24-a3b9-46b9-8fec-489f6bb2df98_aa6e9d1f502fbe1beb194a759db2eba4",
+          "type": "audio",
+          "question": {
+            "type": "audio",
+            "metadata": {
+              "source": {
+                "organisation_id": 755
+              },
+              "sheet_reference": "default_feedback",
+              "widget_reference": "b2f049b4-bb33-4542-993d-0645ffedda1a",
+              "valid_response_count": 0
+            },
+            "stimulus": "Audio feedback:",
+            "ui_style": {
+              "type": "button"
+            },
+            "max_length": 600,
+            "response_id": "e7c0cc24-a3b9-46b9-8fec-489f6bb2df98_aa6e9d1f502fbe1beb194a759db2eba4"
+          },
+          "response": null,
+          "creation_date": "2023-06-06 08:28:57",
+          "mod_date": "2023-06-06 08:32:48",
+          "persist_until": "2026-06-05 08:28:57",
+          "saved": true
+        }
+      ]
+    },
+    {
+      "response_id": "e7c0cc24-a3b9-46b9-8fec-489f6bb2df98_e8834d5fca8a61a00c706d044991cbdd",
+      "question_type": "mcq",
+      "dt_score_updated": "2023-06-05T17:37:08Z",
+      "automarkable": true,
+      "attempted": true,
+      "score": 0,
+      "max_score": 1,
+      "question_reference": "717640ae-0a1c-4662-9598-3a49fa339079",
+      "item_reference": "e5109436-7292-4282-9222-206aa124e6c4",
+      "response": {
+        "value": [
+          "3"
+        ],
+        "type": "array",
+        "apiVersion": "v2.177.27",
+        "revision": 2,
+        "feedbackAttemptsCount": 1
+      },
+      "questionInfo": {
+        "type": "mcq",
+        "widget_type": "response",
+        "reference": "717640ae-0a1c-4662-9598-3a49fa339079",
+        "data": {
+          "options": [
+            {
+              "label": "Fox and rabbit furs&nbsp;",
+              "value": "0"
+            },
+            {
+              "label": "Nutria",
+              "value": "1"
+            },
+            {
+              "label": "Vicuña&nbsp;",
+              "value": "2"
+            },
+            {
+              "label": "All of the above",
+              "value": "3"
+            }
+          ],
+          "stimulus": "<div class=\"lrn-well\"><span style=\"font-size:1.3em;\"><b id=\"yui_3_17_2_1_1630939835136_8999\">13. What do some clothing shops sell rather than muskrat or beaver furs?</b></span></div>\n\n<p><font color=\"#ff0000\"><b>► </b></font><b>Read the text carefully!&nbsp;</b><span style=\"font-weight:bold\"><span style=\"color:#ff0000\"><u>You have only ONE 'check answer' attempt</u>!</span></span>&nbsp;</p>\n",
+          "type": "mcq",
+          "validation": {
+            "scoring_type": "exactMatch",
+            "valid_response": {
+              "score": 1,
+              "value": [
+                "0"
+              ]
+            }
+          },
+          "ui_style": {
+            "type": "horizontal"
+          },
+          "instant_feedback": true,
+          "feedback_attempts": 1
+        },
+        "metadata": {
+          "name": "Multiple choice – standard",
+          "template_reference": "9e8149bd-e4d8-4dd6-a751-1a113a4b9163"
+        }
+      },
+      "feedbackInfo": [
+        {
+          "id": "0707_1d586b71-f9f5-4f37-8884-30fd1ebc39e0_e7c0cc24-a3b9-46b9-8fec-489f6bb2df98_7ad5fa4e06d7979c63c8afa7ee1d37d6",
+          "user_id": "1d586b71-f9f5-4f37-8884-30fd1ebc39e0",
+          "response_id": "e7c0cc24-a3b9-46b9-8fec-489f6bb2df98_7ad5fa4e06d7979c63c8afa7ee1d37d6",
+          "type": "longtextV2",
+          "question": {
+            "type": "longtextV2",
+            "metadata": {
+              "source": {
+                "organisation_id": 755
+              },
+              "sheet_reference": "default_feedback",
+              "widget_reference": "de082b5f-742a-4ecf-82ca-4dc86e218fec",
+              "valid_response_count": 0
+            },
+            "stimulus": "Written feedback:",
+            "response_id": "e7c0cc24-a3b9-46b9-8fec-489f6bb2df98_7ad5fa4e06d7979c63c8afa7ee1d37d6",
+            "show_word_count": false,
+            "show_word_limit": "off"
+          },
+          "response": null,
+          "creation_date": "2023-06-06 08:28:57",
+          "mod_date": "2023-06-06 08:32:48",
+          "persist_until": "2026-06-05 08:28:57",
+          "saved": true
+        },
+        {
+          "id": "0707_1d586b71-f9f5-4f37-8884-30fd1ebc39e0_e7c0cc24-a3b9-46b9-8fec-489f6bb2df98_0bbc65b041b2d2ad6c4135f8f3cd57b3",
+          "user_id": "1d586b71-f9f5-4f37-8884-30fd1ebc39e0",
+          "response_id": "e7c0cc24-a3b9-46b9-8fec-489f6bb2df98_0bbc65b041b2d2ad6c4135f8f3cd57b3",
+          "type": "audio",
+          "question": {
+            "type": "audio",
+            "metadata": {
+              "source": {
+                "organisation_id": 755
+              },
+              "sheet_reference": "default_feedback",
+              "widget_reference": "b2f049b4-bb33-4542-993d-0645ffedda1a",
+              "valid_response_count": 0
+            },
+            "stimulus": "Audio feedback:",
+            "ui_style": {
+              "type": "button"
+            },
+            "max_length": 600,
+            "response_id": "e7c0cc24-a3b9-46b9-8fec-489f6bb2df98_0bbc65b041b2d2ad6c4135f8f3cd57b3"
+          },
+          "response": null,
+          "creation_date": "2023-06-06 08:28:57",
+          "mod_date": "2023-06-06 08:32:49",
+          "persist_until": "2026-06-05 08:28:57",
+          "saved": true
+        }
+      ]
+    },
+    {
+      "response_id": "e7c0cc24-a3b9-46b9-8fec-489f6bb2df98_0c214406d0b94c97a91a5ce96bda35ff",
+      "question_type": "mcq",
+      "dt_score_updated": "2023-06-05T17:46:52Z",
+      "automarkable": true,
+      "attempted": true,
+      "score": 1,
+      "max_score": 1,
+      "question_reference": "0464da1b-6175-4c6a-94eb-b1a718b7dd5f",
+      "item_reference": "e5109436-7292-4282-9222-206aa124e6c4",
+      "response": {
+        "value": [
+          "0"
+        ],
+        "type": "array",
+        "apiVersion": "v2.177.27",
+        "revision": 1,
+        "feedbackAttemptsCount": 1
+      },
+      "questionInfo": {
+        "type": "mcq",
+        "widget_type": "response",
+        "reference": "0464da1b-6175-4c6a-94eb-b1a718b7dd5f",
+        "data": {
+          "options": [
+            {
+              "label": "They are not aware of these issues.",
+              "value": "2"
+            },
+            {
+              "label": "They are aware of the issue but they are not worried about it.",
+              "value": "3"
+            },
+            {
+              "label": "They are aware of the issue and they consider it to some degree.",
+              "value": "0"
+            },
+            {
+              "label": "They are very committed to sustainability.",
+              "value": "1"
+            }
+          ],
+          "stimulus": "<div class=\"lrn-well\"><span style=\"font-size:1.3em;\"><strong>14. According to the text,&nbsp;<b id=\"yui_3_17_2_1_1630939835136_9754\">are fashion designers and retailers taking note of sustainability issues?</b></strong></span></div>\n\n<p><font color=\"#ff0000\"><b>► </b></font><b>Read the text carefully!&nbsp;</b><span style=\"font-weight:bold\"><span style=\"color:#ff0000\"><u>You have only ONE 'check answer' attempt</u>!</span></span>&nbsp;</p>\n",
+          "type": "mcq",
+          "validation": {
+            "scoring_type": "exactMatch",
+            "valid_response": {
+              "score": 1,
+              "value": [
+                "0"
+              ]
+            }
+          },
+          "ui_style": {
+            "type": "horizontal"
+          },
+          "instant_feedback": true,
+          "feedback_attempts": 1
+        },
+        "metadata": {
+          "name": "Multiple choice – standard",
+          "template_reference": "9e8149bd-e4d8-4dd6-a751-1a113a4b9163"
+        }
+      },
+      "feedbackInfo": [
+        {
+          "id": "0707_1d586b71-f9f5-4f37-8884-30fd1ebc39e0_e7c0cc24-a3b9-46b9-8fec-489f6bb2df98_ae88fd0a7f9d1655621285c01eb641a7",
+          "user_id": "1d586b71-f9f5-4f37-8884-30fd1ebc39e0",
+          "response_id": "e7c0cc24-a3b9-46b9-8fec-489f6bb2df98_ae88fd0a7f9d1655621285c01eb641a7",
+          "type": "longtextV2",
+          "question": {
+            "type": "longtextV2",
+            "metadata": {
+              "source": {
+                "organisation_id": 755
+              },
+              "sheet_reference": "default_feedback",
+              "widget_reference": "de082b5f-742a-4ecf-82ca-4dc86e218fec",
+              "valid_response_count": 0
+            },
+            "stimulus": "Written feedback:",
+            "response_id": "e7c0cc24-a3b9-46b9-8fec-489f6bb2df98_ae88fd0a7f9d1655621285c01eb641a7",
+            "show_word_count": false,
+            "show_word_limit": "off"
+          },
+          "response": null,
+          "creation_date": "2023-06-06 08:28:57",
+          "mod_date": "2023-06-06 08:32:49",
+          "persist_until": "2026-06-05 08:28:57",
+          "saved": true
+        },
+        {
+          "id": "0707_1d586b71-f9f5-4f37-8884-30fd1ebc39e0_e7c0cc24-a3b9-46b9-8fec-489f6bb2df98_8f92f6d3576aa00b6d5709a1cf7a36c2",
+          "user_id": "1d586b71-f9f5-4f37-8884-30fd1ebc39e0",
+          "response_id": "e7c0cc24-a3b9-46b9-8fec-489f6bb2df98_8f92f6d3576aa00b6d5709a1cf7a36c2",
+          "type": "audio",
+          "question": {
+            "type": "audio",
+            "metadata": {
+              "source": {
+                "organisation_id": 755
+              },
+              "sheet_reference": "default_feedback",
+              "widget_reference": "b2f049b4-bb33-4542-993d-0645ffedda1a",
+              "valid_response_count": 0
+            },
+            "stimulus": "Audio feedback:",
+            "ui_style": {
+              "type": "button"
+            },
+            "max_length": 600,
+            "response_id": "e7c0cc24-a3b9-46b9-8fec-489f6bb2df98_8f92f6d3576aa00b6d5709a1cf7a36c2"
+          },
+          "response": null,
+          "creation_date": "2023-06-06 08:28:57",
+          "mod_date": "2023-06-06 08:32:49",
+          "persist_until": "2026-06-05 08:28:57",
+          "saved": true
+        }
+      ]
+    },
+    {
+      "response_id": "e7c0cc24-a3b9-46b9-8fec-489f6bb2df98_78492fa7c8e7521ef8986be6333a264f",
+      "question_type": "clozedropdown",
+      "dt_score_updated": "2023-06-05T17:54:43Z",
+      "automarkable": true,
+      "attempted": true,
+      "score": 0,
+      "max_score": 8,
+      "question_reference": "7a39c5e7-cb30-4a21-bab3-ec92a6cd0e15",
+      "item_reference": "1e39f31d-c275-4039-bbf8-f1cd89ab3195",
+      "response": {
+        "value": [
+          "Yes",
+          "Yes",
+          "Yes",
+          "Yes",
+          "Yes",
+          "Yes",
+          "Yes",
+          "Yes"
+        ],
+        "type": "array",
+        "apiVersion": "v2.177.27",
+        "revision": 4,
+        "feedbackAttemptsCount": 2
+      },
+      "questionInfo": {
+        "type": "clozedropdown",
+        "widget_type": "response",
+        "reference": "7a39c5e7-cb30-4a21-bab3-ec92a6cd0e15",
+        "data": {
+          "possible_responses": [
+            [
+              "Yes",
+              "No"
+            ],
+            [
+              "Yes",
+              "No"
+            ],
+            [
+              "Yes",
+              "No"
+            ],
+            [
+              "Yes",
+              "No"
+            ],
+            [
+              "Yes",
+              "No"
+            ],
+            [
+              "Yes",
+              "No"
+            ],
+            [
+              "Yes",
+              "No"
+            ],
+            [
+              "Yes",
+              "No"
+            ]
+          ],
+          "response_container": {
+            "pointer": "left"
+          },
+          "stimulus": "<h2><span style=\"color:#800080;\"><strong>In this part of the lesson, we will focus on Critical Reading.</strong></span></h2>\n\n<p><img height=\"178\" src=\"https://assets.learnosity.com/organisations/755/090aef87-eccd-4dcb-9ade-d488842b9df8.png\" width=\"399\"></p>\n\n<h4><strong><span style=\"color:#800080;\">► </span>What is Critical Reading?</strong></h4>\n\n<div class=\"lrn-well\" style=\"margin-left: 40px;\"><span style=\"font-size:1.3em;\">Critical Reading means <u><span style=\"color:#800080;\"><strong>examining&nbsp;the text</strong></span></u>&nbsp;and actively <u><span style=\"color:#800080;\"><strong>asking questions</strong></span></u> of the source, in order to <span style=\"color:#800080;\"><u><strong>understand its relevance</strong></u></span> and <span style=\"color:#800080;\"><u><strong>reliability</strong></u></span> for your own research topic (University of Leeds 2021).</span></div>\n\n<p>&nbsp;</p>\n\n<p>&nbsp;</p>\n\n<h4><strong><span style=\"color:#800080;\">►&nbsp;</span>Look at the <span style=\"color:#800080;\">SKILLS </span>and <span style=\"color:#800080;\">STRATEGIES </span>below. Are they important for Critical Reading?</strong></h4>\n",
+          "template": "<ul style=\"margin-left: 40px;\">\n\t<li><span style=\"font-size:1.3em;\"></span><span style=\"font-size:1.1em;\">Consider what <strong>kind of text</strong> it is (is it a book, an academic journal, a magazine, ... ?)&nbsp;{{response}}</span></li>\n\t<li><span style=\"font-size:1.1em;\"><span id=\"cke_bm_15044S\" style=\"display: none;\">&nbsp;</span>Consider the text <strong>purpose </strong>(why did the author write it?)&nbsp;{{response}}</span></li>\n\t<li><span style=\"font-size:1.1em;\">Consider the <strong>audience </strong>(is it for professionals, students, general public, ... ?)&nbsp;{{response}}</span></li>\n\t<li><span style=\"font-size:1.1em;\"><strong>Translate </strong>the text to your own language.<span style=\"font-family: &quot;Helvetica Neue&quot;, Helvetica, Arial, sans-serif;\">&nbsp;{{response}}</span></span></li>\n\t<li><span style=\"font-size:1.1em;\">Did the writer use <strong>evidence</strong>? Does the text have a <strong>reference list</strong>?<span style=\"font-family: &quot;Helvetica Neue&quot;, Helvetica, Arial, sans-serif;\">&nbsp;</span>{{response}}</span></li>\n\t<li><span style=\"font-size:1.1em;\"><strong>Compare </strong>the information in the text with other information you already know.<span style=\"font-family: &quot;Helvetica Neue&quot;, Helvetica, Arial, sans-serif;\">&nbsp;</span>{{response}}</span></li>\n\t<li><span style=\"font-size:1.1em;\"><strong>Memorise </strong>the key points.&nbsp;{{response}}</span></li>\n\t<li>\n\t<p><span style=\"font-size:1.1em;\">Consider how the text is <strong>useful </strong>for your assignment.&nbsp;</span>{{response}}</p>\n\t</li>\n</ul>\n",
+          "type": "clozedropdown",
+          "case_sensitive": true,
+          "validation": {
+            "scoring_type": "exactMatch",
+            "valid_response": {
+              "score": 8,
+              "value": [
+                "Yes",
+                "Yes",
+                "Yes",
+                "No",
+                "Yes",
+                "Yes",
+                "No",
+                "Yes"
+              ]
+            }
+          },
+          "instant_feedback": true
+        },
+        "metadata": {
+          "name": "Cloze with drop down",
+          "template_reference": "2fbba51b-e35e-441f-83c7-2662e2e81fa6"
+        }
+      },
+      "feedbackInfo": [
+        {
+          "id": "0707_1d586b71-f9f5-4f37-8884-30fd1ebc39e0_e7c0cc24-a3b9-46b9-8fec-489f6bb2df98_34cb2cf80bc24a21d34275f191f3e5a5",
+          "user_id": "1d586b71-f9f5-4f37-8884-30fd1ebc39e0",
+          "response_id": "e7c0cc24-a3b9-46b9-8fec-489f6bb2df98_34cb2cf80bc24a21d34275f191f3e5a5",
+          "type": "longtextV2",
+          "question": {
+            "type": "longtextV2",
+            "metadata": {
+              "source": {
+                "organisation_id": 755
+              },
+              "sheet_reference": "default_feedback",
+              "widget_reference": "de082b5f-742a-4ecf-82ca-4dc86e218fec",
+              "valid_response_count": 0
+            },
+            "stimulus": "Written feedback:",
+            "response_id": "e7c0cc24-a3b9-46b9-8fec-489f6bb2df98_34cb2cf80bc24a21d34275f191f3e5a5",
+            "show_word_count": false,
+            "show_word_limit": "off"
+          },
+          "response": null,
+          "creation_date": "2023-06-06 08:28:58",
+          "mod_date": "2023-06-06 08:32:49",
+          "persist_until": "2026-06-05 08:28:58",
+          "saved": true
+        },
+        {
+          "id": "0707_1d586b71-f9f5-4f37-8884-30fd1ebc39e0_e7c0cc24-a3b9-46b9-8fec-489f6bb2df98_48f0c43d48cda5f95523ad6e71ce596e",
+          "user_id": "1d586b71-f9f5-4f37-8884-30fd1ebc39e0",
+          "response_id": "e7c0cc24-a3b9-46b9-8fec-489f6bb2df98_48f0c43d48cda5f95523ad6e71ce596e",
+          "type": "audio",
+          "question": {
+            "type": "audio",
+            "metadata": {
+              "source": {
+                "organisation_id": 755
+              },
+              "sheet_reference": "default_feedback",
+              "widget_reference": "b2f049b4-bb33-4542-993d-0645ffedda1a",
+              "valid_response_count": 0
+            },
+            "stimulus": "Audio feedback:",
+            "ui_style": {
+              "type": "button"
+            },
+            "max_length": 600,
+            "response_id": "e7c0cc24-a3b9-46b9-8fec-489f6bb2df98_48f0c43d48cda5f95523ad6e71ce596e"
+          },
+          "response": null,
+          "creation_date": "2023-06-06 08:28:58",
+          "mod_date": "2023-06-06 08:32:49",
+          "persist_until": "2026-06-05 08:28:58",
+          "saved": true
+        }
+      ]
+    },
+    {
+      "response_id": "e7c0cc24-a3b9-46b9-8fec-489f6bb2df98_98f4b38e02e221ce1ea84401eaca75df",
+      "question_type": "clozedropdown",
+      "dt_score_updated": "2023-06-05T17:56:11Z",
+      "automarkable": true,
+      "attempted": true,
+      "score": 0,
+      "max_score": 3,
+      "question_reference": "dceecb7b-b719-46db-a0a7-4cea43a528bb",
+      "item_reference": "1e39f31d-c275-4039-bbf8-f1cd89ab3195",
+      "response": {
+        "value": [
+          "learn something and to write an assignment.",
+          "once",
+          "extract more details/ideas"
+        ],
+        "type": "array",
+        "apiVersion": "v2.177.27",
+        "revision": 4,
+        "feedbackAttemptsCount": 1
+      },
+      "questionInfo": {
+        "type": "clozedropdown",
+        "widget_type": "response",
+        "reference": "dceecb7b-b719-46db-a0a7-4cea43a528bb",
+        "data": {
+          "possible_responses": [
+            [
+              "learn something and to write an assignment.",
+              "have a good time."
+            ],
+            [
+              "once",
+              "several times"
+            ],
+            [
+              "extract more details/ideas",
+              "remember the story"
+            ]
+          ],
+          "response_container": {
+            "pointer": "left"
+          },
+          "stimulus": "<h2>&nbsp;</h2>\n\n<h2><span style=\"color:#800080;\"><strong>How to Read&nbsp;Critically</strong></span></h2>\n\n<h4><strong><span style=\"color:#800080;\">►&nbsp;</span>What do you think is the <span style=\"color:#800080;\">difference </span>between <span style=\"color:#800080;\"><u>reading critically</u></span> and <span style=\"color:#800080;\"><u>reading for pleasure</u></span> (for example, reading a fiction book or a short story)?</strong></h4>\n",
+          "template": "<ul style=\"margin-left: 40px;\">\n\t<li><span style=\"font-size:1.3em;\">The purpose for reading critically, is usually to&nbsp;{{response}}.</span></li>\n\t<li><span style=\"font-size:1.3em;\">Critical reading will usually require you to read the same text {{response}}.</span></li>\n\t<li><span style=\"font-size:1.3em;\">Critical reading&nbsp;involves coming back to it a number of times to {{response}}.</span></li>\n</ul>\n",
+          "type": "clozedropdown",
+          "case_sensitive": true,
+          "validation": {
+            "scoring_type": "exactMatch",
+            "valid_response": {
+              "score": 3,
+              "value": [
+                "learn something and to write an assignment.",
+                "several times",
+                "extract more details/ideas"
+              ]
+            }
+          },
+          "instant_feedback": true,
+          "shuffle_options": true
+        },
+        "metadata": {
+          "name": "Cloze with drop down",
+          "template_reference": "2fbba51b-e35e-441f-83c7-2662e2e81fa6"
+        }
+      },
+      "feedbackInfo": [
+        {
+          "id": "0707_1d586b71-f9f5-4f37-8884-30fd1ebc39e0_e7c0cc24-a3b9-46b9-8fec-489f6bb2df98_cc005a16b12b5445d2c1e6ecd7d4a728",
+          "user_id": "1d586b71-f9f5-4f37-8884-30fd1ebc39e0",
+          "response_id": "e7c0cc24-a3b9-46b9-8fec-489f6bb2df98_cc005a16b12b5445d2c1e6ecd7d4a728",
+          "type": "longtextV2",
+          "question": {
+            "type": "longtextV2",
+            "metadata": {
+              "source": {
+                "organisation_id": 755
+              },
+              "sheet_reference": "default_feedback",
+              "widget_reference": "de082b5f-742a-4ecf-82ca-4dc86e218fec",
+              "valid_response_count": 0
+            },
+            "stimulus": "Written feedback:",
+            "response_id": "e7c0cc24-a3b9-46b9-8fec-489f6bb2df98_cc005a16b12b5445d2c1e6ecd7d4a728",
+            "show_word_count": false,
+            "show_word_limit": "off"
+          },
+          "response": null,
+          "creation_date": "2023-06-06 08:28:58",
+          "mod_date": "2023-06-06 08:32:50",
+          "persist_until": "2026-06-05 08:28:58",
+          "saved": true
+        },
+        {
+          "id": "0707_1d586b71-f9f5-4f37-8884-30fd1ebc39e0_e7c0cc24-a3b9-46b9-8fec-489f6bb2df98_83e9b8d02cf1f637e2a8b30bd7ec2779",
+          "user_id": "1d586b71-f9f5-4f37-8884-30fd1ebc39e0",
+          "response_id": "e7c0cc24-a3b9-46b9-8fec-489f6bb2df98_83e9b8d02cf1f637e2a8b30bd7ec2779",
+          "type": "audio",
+          "question": {
+            "type": "audio",
+            "metadata": {
+              "source": {
+                "organisation_id": 755
+              },
+              "sheet_reference": "default_feedback",
+              "widget_reference": "b2f049b4-bb33-4542-993d-0645ffedda1a",
+              "valid_response_count": 0
+            },
+            "stimulus": "Audio feedback:",
+            "ui_style": {
+              "type": "button"
+            },
+            "max_length": 600,
+            "response_id": "e7c0cc24-a3b9-46b9-8fec-489f6bb2df98_83e9b8d02cf1f637e2a8b30bd7ec2779"
+          },
+          "response": null,
+          "creation_date": "2023-06-06 08:28:58",
+          "mod_date": "2023-06-06 08:32:50",
+          "persist_until": "2026-06-05 08:28:58",
+          "saved": true
+        }
+      ]
+    },
+    {
+      "response_id": "e7c0cc24-a3b9-46b9-8fec-489f6bb2df98_fa3df4e163c241767773e4c542682e98",
+      "question_type": "imageclozeassociationV2",
+      "dt_score_updated": "2023-06-05T18:01:51Z",
+      "automarkable": true,
+      "attempted": true,
+      "score": 0,
+      "max_score": 10,
+      "question_reference": "6382cf90-46da-474a-807a-1791ea755ecb",
+      "item_reference": "1e39f31d-c275-4039-bbf8-f1cd89ab3195",
+      "response": {
+        "value": [
+          [
+            "<span style=\"font-size:1.1em;\">GIST READING</span>"
+          ],
+          [
+            "<span style=\"font-size:1.1em;\">DETAILED READING</span>"
+          ],
+          [
+            "<span style=\"font-size:1.1em;\">NOTE-TAKING</span>"
+          ],
+          [
+            "<span style=\"font-size:1.1em;\">WRITING</span>"
+          ],
+          [
+            "<span style=\"font-size:1.1em;\">ANYTHING ELSE?</span>"
+          ],
+          [
+            "<span style=\"font-size:1.1em;\">What kind of text is this? Who is the audience? Is this text useful for my assignment?</span>"
+          ],
+          [
+            "<span style=\"font-size:1.1em;\">What is MY argument? How can I use this text to support it? Paraphrasing: how can I say the same thing in different words?</span>"
+          ],
+          [
+            "<span style=\"font-size:1.1em;\">What’s the main idea?&nbsp;What are the supporting points?&nbsp;Are there examples or evidence? Prepare the reference list entry&nbsp;and in-text citation.</span>"
+          ],
+          [
+            "<span style=\"font-size:1.1em;\">What is the argument in the text? What is the writer's viewpoint? How / Where does it fit in my assignment? Do I agree with the points made?</span>"
+          ],
+          [
+            "<span style=\"font-size:1.1em;\">Are there any more ideas I want to use?</span>"
+          ]
+        ],
+        "type": "array",
+        "apiVersion": "v2.177.27",
+        "revision": 11,
+        "feedbackAttemptsCount": 11
+      },
+      "questionInfo": {
+        "type": "imageclozeassociationV2",
+        "widget_type": "response",
+        "reference": "6382cf90-46da-474a-807a-1791ea755ecb",
+        "data": {
+          "image": {
+            "src": "https://assets.learnosity.com/organisations/755/80c3b298-b338-47bb-84e9-1359e5e5d3e7.png",
+            "width": 1136,
+            "height": 575
+          },
+          "possible_responses": [
+            "<span style=\"font-size:1.1em;\">WRITING</span>",
+            "<span style=\"font-size:1.1em;\">NOTE-TAKING</span>",
+            "<span style=\"font-size:1.1em;\">DETAILED READING</span>",
+            "<span style=\"font-size:1.1em;\">GIST READING</span>",
+            "<span style=\"font-size:1.1em;\">ANYTHING ELSE?</span>",
+            "<span style=\"font-size:1.1em;\">What is the argument in the text? What is the writer's viewpoint? How / Where does it fit in my assignment? Do I agree with the points made?</span>",
+            "<span style=\"font-size:1.1em;\">What is MY argument? How can I use this text to support it? Paraphrasing: how can I say the same thing in different words?</span>",
+            "<span style=\"font-size:1.1em;\">What kind of text is this? Who is the audience? Is this text useful for my assignment?</span>",
+            "<span style=\"font-size:1.1em;\">What’s the main idea?&nbsp;What are the supporting points?&nbsp;Are there examples or evidence? Prepare the reference list entry&nbsp;and in-text citation.</span>",
+            "<span style=\"font-size:1.1em;\">Are there any more ideas I want to use?</span>"
+          ],
+          "response_containers": [
+            {
+              "x": 38,
+              "y": 18,
+              "width": "14.21%",
+              "height": "11.93%",
+              "aria_label": "",
+              "pointer": "undefined"
+            },
+            {
+              "x": 52,
+              "y": 38,
+              "width": "13.90%",
+              "height": "12.02%",
+              "aria_label": "",
+              "pointer": "undefined"
+            },
+            {
+              "x": 47.1,
+              "y": 71.65,
+              "width": "13.72%",
+              "height": "11.32%",
+              "aria_label": "",
+              "pointer": "undefined"
+            },
+            {
+              "x": 29,
+              "y": 71,
+              "aria_label": "",
+              "width": "13.47%",
+              "height": "11.77%",
+              "pointer": "none"
+            },
+            {
+              "x": 24,
+              "y": 38,
+              "aria_label": "",
+              "width": "13.64%",
+              "height": "11.49%",
+              "pointer": "none"
+            },
+            {
+              "x": 57.66,
+              "y": 5.91,
+              "aria_label": "",
+              "width": "35.44%",
+              "height": "14.75%",
+              "pointer": "none"
+            },
+            {
+              "x": 71.3,
+              "y": 31.48,
+              "aria_label": "",
+              "width": "27.26%",
+              "height": "22.23%",
+              "pointer": "none"
+            },
+            {
+              "x": 66.29,
+              "y": 67.3,
+              "aria_label": "",
+              "width": "32.80%",
+              "height": "23.98%",
+              "pointer": "none"
+            },
+            {
+              "x": 1.58,
+              "y": 66.96,
+              "aria_label": "",
+              "width": "22.69%",
+              "height": "28.33%",
+              "pointer": "none"
+            },
+            {
+              "x": 1.67,
+              "y": 23.13,
+              "aria_label": "",
+              "width": "18.46%",
+              "height": "9.71%",
+              "pointer": "none"
+            }
+          ],
+          "stimulus": "<h4>&nbsp;</h4>\n\n<h4><strong>So, in order to <u>use the text in your assignment</u> you should&nbsp;be able to <span style=\"color:#800080;\">READ CRITICALLY</span>.</strong></h4>\n\n<p>&nbsp;</p>\n\n<h4><strong><span style=\"color:#800080;\">► </span>But w<span style=\"color:#800080;\"></span>hat are the <span style=\"color:#800080;\">STAGES </span>of Critical&nbsp;Reading? And do we do in each stage?</strong></h4>\n\n<h4>&nbsp;</h4>\n\n<h4><em>Drag and drop&nbsp;into the correct areas of the diagram.&nbsp;</em></h4>\n",
+          "type": "imageclozeassociationV2",
+          "case_sensitive": true,
+          "validation": {
+            "scoring_type": "exactMatch",
+            "valid_response": {
+              "score": 10,
+              "value": [
+                [
+                  "<span style=\"font-size:1.1em;\">GIST READING</span>"
+                ],
+                [
+                  "<span style=\"font-size:1.1em;\">DETAILED READING</span>"
+                ],
+                [
+                  "<span style=\"font-size:1.1em;\">NOTE-TAKING</span>"
+                ],
+                [
+                  "<span style=\"font-size:1.1em;\">WRITING</span>"
+                ],
+                [
+                  "<span style=\"font-size:1.1em;\">ANYTHING ELSE?</span>"
+                ],
+                [
+                  "<span style=\"font-size:1.1em;\">What kind of text is this? Who is the audience? Is this text useful for my assignment?</span>"
+                ],
+                [
+                  "<span style=\"font-size:1.1em;\">What is the argument in the text? What is the writer's viewpoint? How / Where does it fit in my assignment? Do I agree with the points made?</span>"
+                ],
+                [
+                  "<span style=\"font-size:1.1em;\">What’s the main idea?&nbsp;What are the supporting points?&nbsp;Are there examples or evidence? Prepare the reference list entry&nbsp;and in-text citation.</span>"
+                ],
+                [
+                  "<span style=\"font-size:1.1em;\">What is MY argument? How can I use this text to support it? Paraphrasing: how can I say the same thing in different words?</span>"
+                ],
+                [
+                  "<span style=\"font-size:1.1em;\">Are there any more ideas I want to use?</span>"
+                ]
+              ]
+            }
+          },
+          "response_container": {
+            "background_color": "rgba(255, 255, 255, 0)"
+          },
+          "instant_feedback": true
+        },
+        "metadata": {
+          "name": "Label image with drag & drop",
+          "template_reference": "6e77b403-8f0c-43af-b464-9450e1ac70dc"
+        }
+      },
+      "feedbackInfo": [
+        {
+          "id": "0707_1d586b71-f9f5-4f37-8884-30fd1ebc39e0_e7c0cc24-a3b9-46b9-8fec-489f6bb2df98_7c85310412a8f056d64f3f3478cc3344",
+          "user_id": "1d586b71-f9f5-4f37-8884-30fd1ebc39e0",
+          "response_id": "e7c0cc24-a3b9-46b9-8fec-489f6bb2df98_7c85310412a8f056d64f3f3478cc3344",
+          "type": "longtextV2",
+          "question": {
+            "type": "longtextV2",
+            "metadata": {
+              "source": {
+                "organisation_id": 755
+              },
+              "sheet_reference": "default_feedback",
+              "widget_reference": "de082b5f-742a-4ecf-82ca-4dc86e218fec",
+              "valid_response_count": 0
+            },
+            "stimulus": "Written feedback:",
+            "response_id": "e7c0cc24-a3b9-46b9-8fec-489f6bb2df98_7c85310412a8f056d64f3f3478cc3344",
+            "show_word_count": false,
+            "show_word_limit": "off"
+          },
+          "response": {
+            "value": "<p>Hi Jeep, I can see that you completed your lesson, however a few of your answers were incorrect. Please make sure you use the CHECK ANSWER button. Remember: the online lessons are not tests, they are learning activities so you should ensure you take the time to work out the correct answers for every question. We expect students to achieve 100% or very close every time! If you have any questions or if you want to discuss this feedback, please contact me :) </p><p>Cris<!--EndFragment--></p>",
+            "wordCount": 83,
+            "type": "string",
+            "apiVersion": "v2.197.0",
+            "revision": 1
+          },
+          "creation_date": "2023-06-06 08:28:58",
+          "mod_date": "2023-06-06 08:32:50",
+          "persist_until": "2026-06-05 08:28:58",
+          "saved": true
+        },
+        {
+          "id": "0707_1d586b71-f9f5-4f37-8884-30fd1ebc39e0_e7c0cc24-a3b9-46b9-8fec-489f6bb2df98_e638d537633e2bd0de5a529cf622936b",
+          "user_id": "1d586b71-f9f5-4f37-8884-30fd1ebc39e0",
+          "response_id": "e7c0cc24-a3b9-46b9-8fec-489f6bb2df98_e638d537633e2bd0de5a529cf622936b",
+          "type": "audio",
+          "question": {
+            "type": "audio",
+            "metadata": {
+              "source": {
+                "organisation_id": 755
+              },
+              "sheet_reference": "default_feedback",
+              "widget_reference": "b2f049b4-bb33-4542-993d-0645ffedda1a",
+              "valid_response_count": 0
+            },
+            "stimulus": "Audio feedback:",
+            "ui_style": {
+              "type": "button"
+            },
+            "max_length": 600,
+            "response_id": "e7c0cc24-a3b9-46b9-8fec-489f6bb2df98_e638d537633e2bd0de5a529cf622936b"
+          },
+          "response": null,
+          "creation_date": "2023-06-06 08:28:59",
+          "mod_date": "2023-06-06 08:32:50",
+          "persist_until": "2026-06-05 08:28:59",
+          "saved": true
+        }
+      ]
+    }
+  ]
+}

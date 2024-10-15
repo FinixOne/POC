@@ -1,0 +1,621 @@
+{
+  "userId": "fc6a50df-9db9-4d91-b472-8624b4f82423",
+  "firstName": "Sidra Abdullah Hasan",
+  "lastName": "Al-Ali",
+  "assigmentId": "2ac8f613-34bb-4c69-be88-00168cc378eb",
+  "assigmentName": "Clarity in Presentations",
+  "sessionId": "f49b2f4e-074e-4cc7-99c3-141e00e27e41",
+  "email": "alis214@coventry.ac.uk",
+  "spaceId": "5fe1bafe-2b28-4ea7-aac5-d82115d4cf7f",
+  "spaceName": "4004MHR - AEB for BA Global Business Management 1 - 2122JANAPR",
+  "score": 5,
+  "max_score": 8,
+  "questions": [
+    {
+      "response_id": "f49b2f4e-074e-4cc7-99c3-141e00e27e41_0399ef2046eb346f92c49fc9aa1aa4b0",
+      "question_type": "clozeassociation",
+      "dt_score_updated": "2022-03-01T12:33:32Z",
+      "automarkable": true,
+      "attempted": true,
+      "score": 1,
+      "max_score": 1,
+      "question_reference": "9772568d-67fd-40a8-9d14-dea38e63c6cb",
+      "item_reference": "45cef40f-f61f-4552-b408-a74235697be4",
+      "response": {
+        "value": [
+          "<span style=\"font-size:1.3em;\">General introduction</span>",
+          "<span style=\"font-size:1.3em;\">Overview of the Presentation</span>",
+          "<span style=\"font-size:1.3em;\">Questions and answers</span>"
+        ],
+        "type": "array",
+        "apiVersion": "v2.168.17",
+        "revision": 3
+      },
+      "questionInfo": {
+        "type": "clozeassociation",
+        "widget_type": "response",
+        "reference": "9772568d-67fd-40a8-9d14-dea38e63c6cb",
+        "data": {
+          "response_container": {
+            "pointer": "left"
+          },
+          "stimulus": "<p><span style=\"color:#2f4f4f;\"><span style=\"font-size:1.5em;\"><img height=\"117\" src=\"https://assets.learnosity.com/organisations/755/784e0e84-42de-4f64-baf0-4fedc256d188.png\" style=\"width: 88px; height: 117px;\" width=\"88\"><strong>&nbsp; &nbsp; &nbsp; </strong></span></span></p>\n\n<p><span style=\"color:#800080;\"><span style=\"font-size:1.5em;\"><strong>TASK 1. How much do you know about Academic Presentations?&nbsp;</strong></span></span></p>\n\n<p><span style=\"color:#800080;\"><span style=\"font-size:1.5em;\"></span><strong><span style=\"font-size:1.5em;\">In this task we will look at key information about structuring and preparing a good academic presentation. Complete the description by dragging the answers below into the correct spaces. For each section, there is one extra answer that you do not need to use.</span></strong></span></p>\n\n<p>&nbsp;</p>\n\n<p>&nbsp;</p>\n",
+          "template": "<p><strong><span style=\"font-size:1.3em;\">THE STRUCTURE OF PRESENTATION</span></strong></p>\n\n<p><span style=\"font-size:1.3em;\">A typical academic presentation consists of five parts. The first part is the &nbsp;{{response}}&nbsp;where you greet the audience and introduce yourself. Next comes the&nbsp;&nbsp;{{response}} followed by the Main Body, Conclusion and &nbsp;{{response}} sections.</span></p>\n",
+          "type": "clozeassociation",
+          "case_sensitive": true,
+          "validation": {
+            "scoring_type": "partialMatchV2",
+            "valid_response": {
+              "score": 1,
+              "value": [
+                "<span style=\"font-size:1.3em;\">General introduction</span>",
+                "<span style=\"font-size:1.3em;\">Overview of the Presentation</span>",
+                "<span style=\"font-size:1.3em;\">Questions and answers</span>"
+              ]
+            }
+          },
+          "group_possible_responses": true,
+          "possible_response_groups": [
+            {
+              "responses": [
+                "<span style=\"font-size:1.3em;\">General introduction</span>",
+                "<span style=\"font-size:1.3em;\">Overview of the Presentation</span>",
+                "<span style=\"font-size:1.3em;\">References</span>",
+                "<span style=\"font-size:1.3em;\">Questions and answers</span>"
+              ]
+            }
+          ],
+          "possible_responses": [],
+          "shuffle_options": true,
+          "instant_feedback": true
+        },
+        "metadata": {
+          "name": "Cloze with drag & drop",
+          "template_reference": "51a8c1e7-f34f-4faf-b211-da458e891fcb"
+        }
+      },
+      "feedbackInfo": [
+        null,
+        null
+      ]
+    },
+    {
+      "response_id": "f49b2f4e-074e-4cc7-99c3-141e00e27e41_a61684a1eaa6cee92d17f60244146dd9",
+      "question_type": "clozeassociation",
+      "dt_score_updated": "2022-03-01T12:34:02Z",
+      "automarkable": true,
+      "attempted": true,
+      "score": 1,
+      "max_score": 1,
+      "question_reference": "344064fc-dc2c-4968-9764-ccc395ac61b1",
+      "item_reference": "45cef40f-f61f-4552-b408-a74235697be4",
+      "response": {
+        "value": [
+          "<span style=\"font-size:1.3em;\">what the main topic is</span>",
+          "<span style=\"font-size:1.3em;\">subtopics there are</span>",
+          "<span style=\"font-size:1.3em;\">subtopics</span>"
+        ],
+        "type": "array",
+        "apiVersion": "v2.168.17",
+        "revision": 3
+      },
+      "questionInfo": {
+        "type": "clozeassociation",
+        "widget_type": "response",
+        "reference": "344064fc-dc2c-4968-9764-ccc395ac61b1",
+        "data": {
+          "possible_responses": [
+            "<span style=\"font-size:1.3em;\">what the main topic is</span>",
+            "<span style=\"font-size:1.3em;\">subtopics there are</span>",
+            "<span style=\"font-size:1.3em;\">where you got your material from</span>",
+            "<span style=\"font-size:1.3em;\">subtopics</span>"
+          ],
+          "response_container": {
+            "pointer": "left"
+          },
+          "template": "<p><strong><span style=\"font-size:1.3em;\">THE OVERVIEW</span></strong></p>\n\n<p><span style=\"font-size:1.3em;\">In the overview section of the presentation, you should include &nbsp;{{response}}&nbsp;and how many&nbsp;{{response}}&nbsp;. You should make sure you mention what these&nbsp;{{response}} are going to be about in order to prepare your audience.</span></p>\n",
+          "type": "clozeassociation",
+          "case_sensitive": true,
+          "validation": {
+            "scoring_type": "partialMatchV2",
+            "valid_response": {
+              "score": 1,
+              "value": [
+                "<span style=\"font-size:1.3em;\">what the main topic is</span>",
+                "<span style=\"font-size:1.3em;\">subtopics there are</span>",
+                "<span style=\"font-size:1.3em;\">subtopics</span>"
+              ]
+            }
+          },
+          "shuffle_options": true,
+          "instant_feedback": true
+        },
+        "metadata": {
+          "name": "Cloze with drag & drop",
+          "template_reference": "51a8c1e7-f34f-4faf-b211-da458e891fcb"
+        }
+      },
+      "feedbackInfo": [
+        null,
+        null
+      ]
+    },
+    {
+      "response_id": "f49b2f4e-074e-4cc7-99c3-141e00e27e41_f51541509684c2f6cdc61fe7a79ba110",
+      "question_type": "clozeassociation",
+      "dt_score_updated": "2022-03-01T12:34:48Z",
+      "automarkable": true,
+      "attempted": true,
+      "score": 1,
+      "max_score": 1,
+      "question_reference": "59ab6a3c-d668-49d7-b7d7-45af25bafbf7",
+      "item_reference": "45cef40f-f61f-4552-b408-a74235697be4",
+      "response": {
+        "value": [
+          "<span style=\"font-size:1.3em;\">research</span>",
+          "<span style=\"font-size:1.3em;\">cite</span>",
+          "<span style=\"font-size:1.3em;\">reference list</span>",
+          "<span style=\"font-size:1.3em;\">APA</span>"
+        ],
+        "type": "array",
+        "apiVersion": "v2.168.17",
+        "revision": 3
+      },
+      "questionInfo": {
+        "type": "clozeassociation",
+        "widget_type": "response",
+        "reference": "59ab6a3c-d668-49d7-b7d7-45af25bafbf7",
+        "data": {
+          "possible_responses": [
+            "<span style=\"font-size:1.3em;\">cite</span>",
+            "<span style=\"font-size:1.3em;\">citations</span>",
+            "<span style=\"font-size:1.3em;\">reference list</span>",
+            "<span style=\"font-size:1.3em;\">APA</span>",
+            "<span style=\"font-size:1.3em;\">research</span>"
+          ],
+          "response_container": {
+            "pointer": "left"
+          },
+          "template": "<p><strong><span style=\"font-size:1.3em;\">THE MAIN BODY</span></strong></p>\n\n<p><span style=\"font-size:1.3em;\">The main body is the longest part of the presentation, and is divided into sections. In each section you develop a different sub-topic and present your supporting <span style=\"font-size:1.3em;\">{{response}}</span>.&nbsp; Make sure you &nbsp;{{response}}&nbsp;your sources when you are presenting. Using language such as 'according to...' will give you the opportunity to show your tutor that you have done your research.&nbsp;Do not forget that your final slide should be a&nbsp;&nbsp;{{response}}&nbsp;. This should be organised in alphabetical order and follow the&nbsp;&nbsp;{{response}}&nbsp;style.</span></p>\n",
+          "type": "clozeassociation",
+          "case_sensitive": true,
+          "validation": {
+            "scoring_type": "exactMatch",
+            "valid_response": {
+              "score": 1,
+              "value": [
+                "<span style=\"font-size:1.3em;\">research</span>",
+                "<span style=\"font-size:1.3em;\">cite</span>",
+                "<span style=\"font-size:1.3em;\">reference list</span>",
+                "<span style=\"font-size:1.3em;\">APA</span>"
+              ]
+            }
+          },
+          "shuffle_options": true,
+          "instant_feedback": true
+        },
+        "metadata": {
+          "name": "Cloze with drag & drop",
+          "template_reference": "51a8c1e7-f34f-4faf-b211-da458e891fcb"
+        }
+      },
+      "feedbackInfo": [
+        null,
+        null
+      ]
+    },
+    {
+      "response_id": "f49b2f4e-074e-4cc7-99c3-141e00e27e41_a14f202563e4cada4048aa5d41aadc7f",
+      "question_type": "clozeassociation",
+      "dt_score_updated": "2022-03-01T12:35:33Z",
+      "automarkable": true,
+      "attempted": true,
+      "score": 1,
+      "max_score": 1,
+      "question_reference": "e7026cb2-37a5-48ba-9e3e-50da7b4abd2b",
+      "item_reference": "45cef40f-f61f-4552-b408-a74235697be4",
+      "response": {
+        "value": [
+          "<span style=\"font-size:1.3em;\">summarise</span>",
+          "<span style=\"font-size:1.3em;\">introduce</span>",
+          "<span style=\"font-size:1.3em;\">impression</span>",
+          "<span style=\"font-size:1.3em;\">time</span>"
+        ],
+        "type": "array",
+        "apiVersion": "v2.168.17",
+        "revision": 4,
+        "feedbackAttemptsCount": 1
+      },
+      "questionInfo": {
+        "type": "clozeassociation",
+        "widget_type": "response",
+        "reference": "e7026cb2-37a5-48ba-9e3e-50da7b4abd2b",
+        "data": {
+          "possible_responses": [
+            "<span style=\"font-size:1.3em;\">summarise</span>",
+            "<span style=\"font-size:1.3em;\">introduce</span>",
+            "<span style=\"font-size:1.3em;\">impression</span>",
+            "<span style=\"font-size:1.3em;\">time</span>",
+            "<span style=\"font-size:1.3em;\">outline</span>"
+          ],
+          "response_container": {
+            "pointer": "left"
+          },
+          "template": "<p><strong><span style=\"font-size:1.3em;\">CONCLUSION</span></strong></p>\n\n<p><span style=\"font-size:1.3em;\">It is important to finish with a strong conclusion. This should {{response}}&nbsp;what the audience has learnt from the presentation, and show the audience that you have fulfilled the presentation brief. You should not {{response}}&nbsp;any new information. Remember, the conclusion is an important part of the presentation and a strong conclusion will leave a good {{response}}&nbsp;on the audience. Make sure it is clear and well-structured, and make sure you give yourself enough {{response}}to do it well.</span></p>\n",
+          "type": "clozeassociation",
+          "case_sensitive": true,
+          "validation": {
+            "scoring_type": "partialMatchV2",
+            "valid_response": {
+              "score": 1,
+              "value": [
+                "<span style=\"font-size:1.3em;\">summarise</span>",
+                "<span style=\"font-size:1.3em;\">introduce</span>",
+                "<span style=\"font-size:1.3em;\">impression</span>",
+                "<span style=\"font-size:1.3em;\">time</span>"
+              ]
+            }
+          },
+          "instant_feedback": true,
+          "shuffle_options": true
+        },
+        "metadata": {
+          "name": "Cloze with drag & drop",
+          "template_reference": "51a8c1e7-f34f-4faf-b211-da458e891fcb"
+        }
+      },
+      "feedbackInfo": [
+        null,
+        null
+      ]
+    },
+    {
+      "response_id": "f49b2f4e-074e-4cc7-99c3-141e00e27e41_a39929a7274544fe20e843ab07242781",
+      "question_type": "clozeassociation",
+      "dt_score_updated": "2022-03-01T12:36:03Z",
+      "automarkable": true,
+      "attempted": true,
+      "score": 1,
+      "max_score": 1,
+      "question_reference": "46c0cb16-6047-49c2-9ff1-cb0cd4d6a56a",
+      "item_reference": "45cef40f-f61f-4552-b408-a74235697be4",
+      "response": {
+        "value": [
+          "<span style=\"font-size:1.3em;\">signposting language</span>",
+          "<span style=\"font-size:1.3em;\">pause</span>",
+          "<span style=\"font-size:1.3em;\">word stress</span>"
+        ],
+        "type": "array",
+        "apiVersion": "v2.168.17",
+        "revision": 2
+      },
+      "questionInfo": {
+        "type": "clozeassociation",
+        "widget_type": "response",
+        "reference": "46c0cb16-6047-49c2-9ff1-cb0cd4d6a56a",
+        "data": {
+          "possible_responses": [
+            "<span style=\"font-size:1.3em;\">signposting language</span>",
+            "<span style=\"font-size:1.3em;\">word stress</span>",
+            "<span style=\"font-size:1.3em;\">lots of jokes</span>",
+            "<span style=\"font-size:1.3em;\">pause</span>"
+          ],
+          "response_container": {
+            "pointer": "left"
+          },
+          "template": "<p><strong><span style=\"font-size:1.3em;\">SIGNPOSTING LANGUAGE</span></strong></p>\n\n<p><span style=\"font-size:1.3em;\">In order for the audience to be able to follow your presentation, it is crucial to use&nbsp;{{response}}&nbsp; such as 'I'm going to talk about X first, then I'll&nbsp;be moving onto Y. This makes it easier for the listeners to follow. You must also remember to &nbsp;{{response}}&nbsp;from time to time and also use&nbsp;&nbsp;{{response}}&nbsp;These will all help the audience to engage with your presentation!</span></p>\n",
+          "type": "clozeassociation",
+          "case_sensitive": true,
+          "validation": {
+            "scoring_type": "partialMatchV2",
+            "valid_response": {
+              "score": 1,
+              "value": [
+                "<span style=\"font-size:1.3em;\">signposting language</span>",
+                "<span style=\"font-size:1.3em;\">pause</span>",
+                "<span style=\"font-size:1.3em;\">word stress</span>"
+              ]
+            }
+          },
+          "shuffle_options": true,
+          "instant_feedback": true
+        },
+        "metadata": {
+          "name": "Cloze with drag & drop",
+          "template_reference": "51a8c1e7-f34f-4faf-b211-da458e891fcb"
+        }
+      },
+      "feedbackInfo": [
+        null,
+        null
+      ]
+    },
+    {
+      "response_id": "f49b2f4e-074e-4cc7-99c3-141e00e27e41_6f4cb9430433ee59cb023d389181821a",
+      "question_type": "clozeassociation",
+      "dt_score_updated": "2022-03-01T12:36:08Z",
+      "automarkable": true,
+      "attempted": true,
+      "score": 0,
+      "max_score": 1,
+      "question_reference": "0ce5b0d9-a332-45a1-b1d1-1e780234f6eb",
+      "item_reference": "45cef40f-f61f-4552-b408-a74235697be4",
+      "response": {
+        "value": [
+          "<span style=\"font-size:1.3em;\">practise</span>",
+          "<span style=\"font-size:1.3em;\">pronounce</span>",
+          "<span style=\"font-size:1.3em;\">answers</span>",
+          "<span style=\"font-size:1.3em;\">questions</span>"
+        ],
+        "type": "array",
+        "apiVersion": "v2.168.17",
+        "revision": 5
+      },
+      "questionInfo": {
+        "type": "clozeassociation",
+        "widget_type": "response",
+        "reference": "0ce5b0d9-a332-45a1-b1d1-1e780234f6eb",
+        "data": {
+          "possible_responses": [
+            "<span style=\"font-size:1.3em;\">practise</span>",
+            "<span style=\"font-size:1.3em;\">pronounce</span>",
+            "<span style=\"font-size:1.3em;\">discussion</span>",
+            "<span style=\"font-size:1.3em;\">questions</span>",
+            "<span style=\"font-size:1.3em;\">answers</span>"
+          ],
+          "response_container": {
+            "pointer": "left"
+          },
+          "template": "<p><strong><span style=\"font-size:1.3em;\">PREPARATION</span></strong></p>\n\n<p><span style=\"font-size:1.3em;\">Finally, make sure that you&nbsp;{{response}}&nbsp;as much as you can. It is important&nbsp;to&nbsp;&nbsp;{{response}}&nbsp;key words correctly and, by recording yourself on your phone or laptop, you can see what you look and sound like.&nbsp;<span id=\"cke_bm_75815S\" style=\"display: none;\">&nbsp;</span>&nbsp;Do not forget to prepare for&nbsp;the&nbsp;{{response}}<span id=\"cke_bm_75815S\" style=\"display: none;\">&nbsp;</span>&nbsp;session at the end of your presentation. You can do this by taking time to consider what&nbsp; {{response}}&nbsp;you might be asked. Good luck!!!!&nbsp;</span></p>\n",
+          "type": "clozeassociation",
+          "case_sensitive": true,
+          "validation": {
+            "scoring_type": "partialMatchV2",
+            "valid_response": {
+              "score": 1,
+              "value": [
+                "<span style=\"font-size:1.3em;\">practise</span>",
+                "<span style=\"font-size:1.3em;\">pronounce</span>",
+                "<span style=\"font-size:1.3em;\">discussion</span>",
+                "<span style=\"font-size:1.3em;\">questions</span>"
+              ]
+            }
+          },
+          "shuffle_options": true,
+          "instant_feedback": true
+        },
+        "metadata": {
+          "name": "Cloze with drag & drop",
+          "template_reference": "51a8c1e7-f34f-4faf-b211-da458e891fcb"
+        }
+      },
+      "feedbackInfo": [
+        null,
+        null
+      ]
+    },
+    {
+      "response_id": "f49b2f4e-074e-4cc7-99c3-141e00e27e41_943fb77e692766f04e3dfdd46a17eb48",
+      "question_type": "classification",
+      "dt_score_updated": "2022-03-01T12:36:48Z",
+      "automarkable": true,
+      "attempted": true,
+      "score": 0,
+      "max_score": 1,
+      "question_reference": "ba061a43-7706-4fbf-b164-369cca83c282",
+      "item_reference": "45cef40f-f61f-4552-b408-a74235697be4",
+      "response": {
+        "value": [
+          [
+            2,
+            4,
+            5,
+            13,
+            17
+          ],
+          [
+            11,
+            19,
+            6,
+            1
+          ],
+          [
+            16,
+            3,
+            0,
+            15,
+            12,
+            10
+          ],
+          [
+            18,
+            14,
+            7,
+            8,
+            9
+          ]
+        ],
+        "type": "array",
+        "apiVersion": "v2.168.17",
+        "revision": 4
+      },
+      "questionInfo": {
+        "type": "classification",
+        "widget_type": "response",
+        "reference": "ba061a43-7706-4fbf-b164-369cca83c282",
+        "data": {
+          "possible_responses": [
+            "Here are the main points I've covered today",
+            "Moving onto to my next point",
+            "My presentation is going to be divided into 3 sections",
+            "To sum up my main points",
+            "Now let's take a look at",
+            "Hello and welcome to this analysis of the pros and cons of online learning",
+            "That brings me to my next point",
+            "If you have any questions, I'd be happy to answer them",
+            "That's an interesting question",
+            "I'm glad you asked me that",
+            "Let's take a look back at what we've talked about today",
+            "The next issue we are going to look at is what can be done to ensure more recycling is done in the workplace",
+            "So, if you take one thing from this presentation today, think about what you, as an individual, can do to reduce your use of packaging",
+            "What I hope you'll get from today's session is a clearer idea of how to succeed in the world of business",
+            "Thank you for your question",
+            "Thank you for coming to this short talk in which I hope to show you how to live cheaply as a student in the UK",
+            "That brings me to the end of my analysis",
+            "By the end of today's talk, you'll understand the benefits of studying online",
+            "I'll find out. Can I get back to you on that?",
+            "Let's start by looking at the most popular options"
+          ],
+          "stimulus": "<p><strong><span style=\"color:#000080;\"><span style=\"font-size:1.5em;\">&nbsp;</span></span><span style=\"color:#000080;\"><span style=\"font-size:1.5em;\"></span></span></strong><img height=\"129\" src=\"https://assets.learnosity.com/organisations/755/85a8adeb-0dd1-4187-9b71-59d70cbde7a2.png\" width=\"80\">&nbsp; &nbsp; &nbsp;</p>\n\n<p><span style=\"color:#008080;\"><strong><span style=\"font-size:1.5em;\">TASK 2. To help the audience follow our presentations, and to draw their attention to key information, it is important to use signposting phrases. These phrases tell the audience that you are moving to a new section, or that you are about to say something important.&nbsp;</span></strong></span></p>\n\n<p><span style=\"color:#008080;\"><strong><span style=\"font-size:1.5em;\">Below are some phrases we use at different stages of our presentations. Put these signposting phrases into the stage of the presentation where you think they would be used.</span></strong></span></p>\n",
+          "type": "classification",
+          "ui_style": {
+            "column_count": 4,
+            "column_titles": [
+              "Introduction",
+              "Main body",
+              "Conclusion",
+              "Questions and Answers"
+            ]
+          },
+          "validation": {
+            "scoring_type": "partialMatchElementV2",
+            "valid_response": {
+              "score": 1,
+              "value": [
+                [
+                  2,
+                  5,
+                  13,
+                  17
+                ],
+                [
+                  1,
+                  4,
+                  6,
+                  11,
+                  15,
+                  16,
+                  19
+                ],
+                [
+                  0,
+                  3,
+                  10,
+                  12
+                ],
+                [
+                  7,
+                  9,
+                  14,
+                  18,
+                  8
+                ]
+              ]
+            },
+            "alt_responses": [
+              {
+                "score": 1,
+                "value": [
+                  [],
+                  [],
+                  [],
+                  []
+                ]
+              },
+              {
+                "score": 1,
+                "value": [
+                  [],
+                  [],
+                  [],
+                  []
+                ]
+              }
+            ]
+          },
+          "shuffle_options": true,
+          "instant_feedback": true
+        },
+        "metadata": {
+          "name": "Classification",
+          "template_reference": "ef2648de-f826-4674-b17d-71e71889d8e6"
+        }
+      },
+      "feedbackInfo": [
+        null,
+        null
+      ]
+    },
+    {
+      "response_id": "f49b2f4e-074e-4cc7-99c3-141e00e27e41_2387f650a054b689040be4cab11b04cc",
+      "question_type": "orderlist",
+      "dt_score_updated": "2022-03-01T12:38:38Z",
+      "automarkable": true,
+      "attempted": true,
+      "score": 0,
+      "max_score": 1,
+      "question_reference": "19cc2dd5-ef3e-4433-8e29-4f4699f92e9a",
+      "item_reference": "45cef40f-f61f-4552-b408-a74235697be4",
+      "response": {
+        "value": [
+          0,
+          1,
+          3,
+          7,
+          5,
+          4,
+          2,
+          6
+        ],
+        "type": "array",
+        "apiVersion": "v2.168.17",
+        "revision": 8
+      },
+      "questionInfo": {
+        "type": "orderlist",
+        "widget_type": "response",
+        "reference": "19cc2dd5-ef3e-4433-8e29-4f4699f92e9a",
+        "data": {
+          "list": [
+            "<span style=\"font-size:1.3em;\">Hello everyone! My name is...</span>",
+            "<span style=\"font-size:1.3em;\">Today I will talk to you about...</span>",
+            "<span style=\"font-size:1.3em;\">Before we go there, what we really need to understand is...</span>",
+            "<span style=\"font-size:1.3em;\">In today's presentation, we are going to look at three key parts</span>",
+            "<span style=\"font-size:1.3em;\">The first thing we are going to look at is...</span>",
+            "<span style=\"font-size:1.3em;\">Then we are going to move on to...</span>",
+            "<span style=\"font-size:1.3em;\">And finally, we are going to look at...</span>",
+            "<span style=\"font-size:1.3em;\">So... let's move on to the first part</span>"
+          ],
+          "stimulus": "<p><span style=\"font-size:1.5em;\"><span style=\"color:#8b4513;\"><strong>TASK 3. Watch Omar's presentation introduction and put the signposting phrases below into the correct order</strong></span></span></p>\n\n<p>&nbsp;</p>\n<iframe allow=\"autoplay; fullscreen\" allowfullscreen=\"\" frameborder=\"0\" height=\"270\" src=\"https://media.coventry.ac.uk/Embed.aspx?id=30753&amp;code=cU~6oOIioxFWq6rgqFqMlWteukdIxfj&amp;hm=1\" width=\"500\"></iframe>\n\n<p>&nbsp;</p>\n\n<p>&nbsp;</p>\n",
+          "type": "orderlist",
+          "validation": {
+            "scoring_type": "partialMatchPairwise",
+            "valid_response": {
+              "score": 1,
+              "value": [
+                0,
+                1,
+                2,
+                3,
+                4,
+                5,
+                6,
+                7
+              ]
+            }
+          },
+          "shuffle_options": true,
+          "instant_feedback": true
+        },
+        "metadata": {
+          "name": "Order list",
+          "template_reference": "0c7f68f7-2be6-4ae0-8492-0ab78c8d0010"
+        }
+      },
+      "feedbackInfo": [
+        null,
+        null
+      ]
+    }
+  ]
+}

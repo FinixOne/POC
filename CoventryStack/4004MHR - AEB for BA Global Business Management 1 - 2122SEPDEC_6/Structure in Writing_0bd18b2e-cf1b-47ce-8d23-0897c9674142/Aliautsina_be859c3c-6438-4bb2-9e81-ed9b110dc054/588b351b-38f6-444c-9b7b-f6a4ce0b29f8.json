@@ -1,0 +1,239 @@
+{
+  "userId": "be859c3c-6438-4bb2-9e81-ed9b110dc054",
+  "firstName": "Aliautsina",
+  "lastName": "Zhylinskaya",
+  "assigmentId": "0bd18b2e-cf1b-47ce-8d23-0897c9674142",
+  "assigmentName": "Structure in Writing",
+  "sessionId": "588b351b-38f6-444c-9b7b-f6a4ce0b29f8",
+  "email": "zhylinskaa@coventry.ac.uk",
+  "spaceId": "6696ac8d-7f15-4f8b-92c2-76ec41fea413",
+  "spaceName": "4004MHR - AEB for BA Global Business Management 1 - 2122SEPDEC",
+  "score": 112,
+  "max_score": 144,
+  "questions": [
+    {
+      "response_id": "588b351b-38f6-444c-9b7b-f6a4ce0b29f8_835b24475430837d9cb883b5ae0d766c",
+      "question_type": "association",
+      "dt_score_updated": "2021-11-17T10:42:35Z",
+      "automarkable": true,
+      "attempted": true,
+      "score": 32,
+      "max_score": 64,
+      "question_reference": "cf8096f4-58d2-4c04-8a0b-2d4ff1dcdeb1",
+      "item_reference": "e6aefa10-edef-465c-b077-acb9ff45d111",
+      "response": {
+        "value": [
+          "This where you discuss your process and gathering of data. Usually it includes the method you used to find the information needed. Then you describe what was done with the data found.",
+          "This is where you put any raw (unprocessed) data, &nbsp;survey results, extra graphs, maps, diagrams etc. that are either too large, or not important enough to include in your main discussion.",
+          "This is a summary of the report as a whole. It also often provides implications for the future or some suggestions based on the findings.",
+          "This section talks about the wider context of the report. It provides the background information and outlines the report's structure.",
+          "This is a full list of all the books, websites, journals etc that you have referred to in your report.&nbsp; These resources are the places where you found evidence for your ideas and arguments.",
+          "This is a list of all parts of the report, organised by headings and page numbers. &nbsp;It helps the reader quickly see what is included in the report and how to find it.",
+          "This part includes the basic information about the report such as the title and the author.",
+          "This is a short summary of the full report &nbsp;designed to give busy 'executives' a quick overview of the key points. It is similar to an abstract, which is found in general academic papers."
+        ],
+        "type": "array",
+        "updatedFormat": true,
+        "apiVersion": "v2.168.13",
+        "revision": 11
+      },
+      "questionInfo": {
+        "type": "association",
+        "widget_type": "response",
+        "reference": "cf8096f4-58d2-4c04-8a0b-2d4ff1dcdeb1",
+        "data": {
+          "possible_responses": [
+            "This is a short summary of the full report &nbsp;designed to give busy 'executives' a quick overview of the key points. It is similar to an abstract, which is found in general academic papers.",
+            "This is where you put any raw (unprocessed) data, &nbsp;survey results, extra graphs, maps, diagrams etc. that are either too large, or not important enough to include in your main discussion.",
+            "This where you discuss your process and gathering of data. Usually it includes the method you used to find the information needed. Then you describe what was done with the data found.",
+            "This is a summary of the report as a whole. It also often provides implications for the future or some suggestions based on the findings.",
+            "This is a full list of all the books, websites, journals etc that you have referred to in your report.&nbsp; These resources are the places where you found evidence for your ideas and arguments.",
+            "This is a list of all parts of the report, organised by headings and page numbers. &nbsp;It helps the reader quickly see what is included in the report and how to find it.",
+            "This part includes the basic information about the report such as the title and the author.",
+            "This section talks about the wider context of the report. It provides the background information and outlines the report's structure."
+          ],
+          "stimulus": "<p><span style=\"color:#0000ff;\"><span style=\"font-size:1.3em;\"><strong>Task 1: Although the exact structure of your report may vary&nbsp;according to your brief,&nbsp;reports will usually contain all or most of the elements below.</strong></span></span></p>\n\n<p><span style=\"color:#0000ff;\"><span style=\"font-size:1.3em;\"><strong>Match each part of the report with its appropriate description.</strong></span></span></p>\n",
+          "stimulus_list": [
+            "Appendix",
+            "Conclusion",
+            "Executive Summary",
+            "Introduction",
+            "Reference List",
+            "Research and Analysis",
+            "Table of Contents",
+            "Title Page"
+          ],
+          "type": "association",
+          "validation": {
+            "scoring_type": "partialMatch",
+            "valid_response": {
+              "score": 8,
+              "value": [
+                "This is where you put any raw (unprocessed) data, &nbsp;survey results, extra graphs, maps, diagrams etc. that are either too large, or not important enough to include in your main discussion.",
+                "This is a summary of the report as a whole. It also often provides implications for the future or some suggestions based on the findings.",
+                "This is a short summary of the full report &nbsp;designed to give busy 'executives' a quick overview of the key points. It is similar to an abstract, which is found in general academic papers.",
+                "This section talks about the wider context of the report. It provides the background information and outlines the report's structure.",
+                "This is a full list of all the books, websites, journals etc that you have referred to in your report.&nbsp; These resources are the places where you found evidence for your ideas and arguments.",
+                "This where you discuss your process and gathering of data. Usually it includes the method you used to find the information needed. Then you describe what was done with the data found.",
+                "This is a list of all parts of the report, organised by headings and page numbers. &nbsp;It helps the reader quickly see what is included in the report and how to find it.",
+                "This part includes the basic information about the report such as the title and the author."
+              ]
+            }
+          },
+          "shuffle_options": true
+        },
+        "metadata": {
+          "name": "Match list",
+          "template_reference": "1fa22aac-1f88-47f7-941b-3c77759549e6"
+        }
+      },
+      "feedbackInfo": [
+        null,
+        null
+      ]
+    },
+    {
+      "response_id": "588b351b-38f6-444c-9b7b-f6a4ce0b29f8_b917d15c473767bf4f52310674b779f4",
+      "question_type": "sortlist",
+      "dt_score_updated": "2021-11-17T10:46:31Z",
+      "automarkable": true,
+      "attempted": true,
+      "score": 64,
+      "max_score": 64,
+      "question_reference": "4adb8c75-275f-41a9-8e1b-2b7e328c849f",
+      "item_reference": "e6aefa10-edef-465c-b077-acb9ff45d111",
+      "response": {
+        "value": [
+          6,
+          5,
+          0,
+          7,
+          2,
+          3,
+          4,
+          1
+        ],
+        "source": [
+          null,
+          null,
+          null,
+          null,
+          null,
+          null,
+          null,
+          null
+        ],
+        "type": "array",
+        "apiVersion": "v2.168.13",
+        "revision": 9
+      },
+      "questionInfo": {
+        "type": "sortlist",
+        "widget_type": "response",
+        "reference": "4adb8c75-275f-41a9-8e1b-2b7e328c849f",
+        "data": {
+          "list": [
+            "Executive Summary",
+            "Appendix",
+            "Research and Analysis",
+            "Conclusion",
+            "Reference List",
+            "Table of Contents",
+            "Title Page",
+            "Introduction"
+          ],
+          "stimulus": "<p><span style=\"color:#008000;\"><span style=\"font-size:1.3em;\"><strong>Task 2: The different elements of a report usually appear in the same order. </strong></span></span></p>\n\n<p><span style=\"color:#008000;\"><span style=\"font-size:1.3em;\"><strong>Can you order the different parts below in the order you think they should appear?</strong></span></span></p>\n",
+          "type": "sortlist",
+          "validation": {
+            "scoring_type": "partialMatch",
+            "valid_response": {
+              "score": 8,
+              "value": [
+                6,
+                5,
+                0,
+                7,
+                2,
+                3,
+                4,
+                1
+              ]
+            }
+          },
+          "shuffle_options": true
+        },
+        "metadata": {
+          "name": "Sort list",
+          "template_reference": "63891006-450a-4ffe-9876-74d62efa0152"
+        }
+      },
+      "feedbackInfo": [
+        null,
+        null
+      ]
+    },
+    {
+      "response_id": "588b351b-38f6-444c-9b7b-f6a4ce0b29f8_015fb264e3b4971772625e5009b04271",
+      "question_type": "clozeassociation",
+      "dt_score_updated": "2021-11-17T10:45:46Z",
+      "automarkable": true,
+      "attempted": true,
+      "score": 16,
+      "max_score": 16,
+      "question_reference": "8ccc666e-06a8-42ed-98f4-d3f0fa3793df",
+      "item_reference": "e6aefa10-edef-465c-b077-acb9ff45d111",
+      "response": {
+        "value": [
+          "<span style=\"color:#ff0000;\">TOPIC SENTENCE</span>",
+          "<span style=\"color:#ff0000;\">SUPPORTING SENTENCE</span>",
+          "<span style=\"color:#ff0000;\">EVIDENCE &amp; ANALYSIS</span>",
+          "<span style=\"color:#ff0000;\">CONCLUDING SENTENCE &amp; LINK TO NEXT PARAGRAPH</span>"
+        ],
+        "type": "array",
+        "apiVersion": "v2.168.13",
+        "revision": 3
+      },
+      "questionInfo": {
+        "type": "clozeassociation",
+        "widget_type": "response",
+        "reference": "8ccc666e-06a8-42ed-98f4-d3f0fa3793df",
+        "data": {
+          "possible_responses": [
+            "<span style=\"color:#ff0000;\">TOPIC SENTENCE</span>",
+            "<span style=\"color:#ff0000;\">SUPPORTING SENTENCE</span>",
+            "<span style=\"color:#ff0000;\">EVIDENCE &amp; ANALYSIS</span>",
+            "<span style=\"color:#ff0000;\">CONCLUDING SENTENCE &amp; LINK TO NEXT PARAGRAPH</span>"
+          ],
+          "response_container": {
+            "pointer": "left"
+          },
+          "stimulus": "<span style=\"color:#a52a2a;\"><span style=\"font-size:1.3em;\"><strong>Exercise 3. After each sentence decide what part of the paragraph it is.</strong></span></span>",
+          "template": "In recent years many students have ventured outside their comfort zone and decided to study abroad and use the opportunities it offers.&nbsp;{{response}} The ease of travel and globalization have been making education abroad more and more accessible and largely thanks to these in the years 2016-2017 there were 450,660 international students studying part-time and full-time in the UK (UK Council for International Student Affairs 2018).&nbsp;{{response}} This large number is often seen as an indication that those young people might be attracted by the advantages studying in the UK offers, such as, experiencing a different educational system, improving their English and expanding their cultural horizons. However, a survey by Peters &amp; Jones (2020), showed that a belief in improved job prospects may be becoming a primary motivation.{{response}}&nbsp;Thus, although the UK remains a popular destination, student expectations are changing, and universities need to adapt to meet these expectations.&nbsp;{{response}}",
+          "type": "clozeassociation",
+          "case_sensitive": true,
+          "validation": {
+            "scoring_type": "partialMatch",
+            "valid_response": {
+              "score": 4,
+              "value": [
+                "<span style=\"color:#ff0000;\">TOPIC SENTENCE</span>",
+                "<span style=\"color:#ff0000;\">SUPPORTING SENTENCE</span>",
+                "<span style=\"color:#ff0000;\">EVIDENCE &amp; ANALYSIS</span>",
+                "<span style=\"color:#ff0000;\">CONCLUDING SENTENCE &amp; LINK TO NEXT PARAGRAPH</span>"
+              ]
+            }
+          },
+          "shuffle_options": true
+        },
+        "metadata": {
+          "name": "Cloze with drag & drop",
+          "template_reference": "51a8c1e7-f34f-4faf-b211-da458e891fcb"
+        }
+      },
+      "feedbackInfo": [
+        null,
+        null
+      ]
+    }
+  ]
+}

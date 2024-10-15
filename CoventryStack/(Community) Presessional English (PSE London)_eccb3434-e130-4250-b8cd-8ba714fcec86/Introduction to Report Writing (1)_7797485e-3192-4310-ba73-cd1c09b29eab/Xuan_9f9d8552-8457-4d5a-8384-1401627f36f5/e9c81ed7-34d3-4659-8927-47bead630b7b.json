@@ -1,0 +1,1095 @@
+{
+  "userId": "9f9d8552-8457-4d5a-8384-1401627f36f5",
+  "firstName": "Xuan",
+  "lastName": "Liu",
+  "assigmentId": "7797485e-3192-4310-ba73-cd1c09b29eab",
+  "assigmentName": "Introduction to Report Writing (1)",
+  "sessionId": "e9c81ed7-34d3-4659-8927-47bead630b7b",
+  "email": "liux144@coventry.ac.uk",
+  "spaceId": "eccb3434-e130-4250-b8cd-8ba714fcec86",
+  "spaceName": "(Community) Presessional English (PSE London)",
+  "score": 38,
+  "max_score": 41,
+  "questions": [
+    {
+      "response_id": "e9c81ed7-34d3-4659-8927-47bead630b7b_2fd5c1dff6ce426f2868347193804705",
+      "question_type": "mcq",
+      "dt_score_updated": "2022-09-07T12:02:50Z",
+      "automarkable": true,
+      "attempted": true,
+      "score": 1,
+      "max_score": 1,
+      "question_reference": "81144140-7d10-44de-ac39-7125cb705929",
+      "item_reference": "fbe07e39-198a-4749-8cb4-26b8e22d861b",
+      "response": {
+        "value": [
+          "1"
+        ],
+        "type": "array",
+        "apiVersion": "v2.168.23",
+        "revision": 1,
+        "feedbackAttemptsCount": 1
+      },
+      "questionInfo": {
+        "type": "mcq",
+        "widget_type": "response",
+        "reference": "81144140-7d10-44de-ac39-7125cb705929",
+        "data": {
+          "options": [
+            {
+              "label": "<span style=\"font-size:1.3em;\">is the Report</span>",
+              "value": "0"
+            },
+            {
+              "label": "<span style=\"font-size:1.3em;\">is the Report</span>",
+              "value": "1"
+            }
+          ],
+          "stimulus": "<h2 id=\"yui_3_17_2_1_1634890580082_133\"><strong>One of the characteristics of the report is its&nbsp;<span style=\"color:#0000ff;\">LAYOUT</span>.</strong></h2>\n\n<p><img height=\"64\" src=\"https://assets.learnosity.com/organisations/755/5624fedc-9e7c-4ec6-959c-a30fb54bb509.jpg\" width=\"400\" /></p>\n\n<h4>&nbsp;</h4>\n\n<h4><b><span style=\"color:#0000ff;\">►</span>&nbsp;Look at the texts below:&nbsp;</b><strong>o</strong><b>ne of them is a&nbsp;<span style=\"color:#0000ff;\"><u>report</u>&nbsp;</span>and the other is an&nbsp;<span style=\"color:#0000ff;\"><u>essay</u></span>.</b></h4>\n&nbsp;\n\n<div class=\"lrn-well\"><span style=\"font-size:1.3em;\"><b>Which one is the report?&nbsp;</b></span></div>\n\n<p><img height=\"421\" src=\"https://assets.learnosity.com/organisations/755/ef28d7ac-ee92-444e-9908-2bfbe037956b.jpg\" width=\"600\" /></p>\n",
+          "type": "mcq",
+          "ui_style": {
+            "choice_label": "upper-alpha",
+            "type": "block"
+          },
+          "validation": {
+            "scoring_type": "exactMatch",
+            "valid_response": {
+              "score": 1,
+              "value": [
+                "1"
+              ]
+            }
+          },
+          "instant_feedback": true
+        },
+        "metadata": {
+          "name": "Multiple choice – block layout",
+          "template_reference": "33d53a22-1a59-4a03-9671-7f5104edd62e"
+        }
+      },
+      "feedbackInfo": [
+        null,
+        null
+      ]
+    },
+    {
+      "response_id": "e9c81ed7-34d3-4659-8927-47bead630b7b_3a873dbfafcf5efd6c6074ca46632d30",
+      "question_type": "imageclozeassociationV2",
+      "dt_score_updated": "2022-09-07T12:06:52Z",
+      "automarkable": true,
+      "attempted": true,
+      "score": 6,
+      "max_score": 6,
+      "question_reference": "d7eb3989-98be-44ed-a396-3e18b7aa8077",
+      "item_reference": "1a9cfd53-4ac0-480f-927a-e20891455fae",
+      "response": {
+        "value": [
+          [
+            "<strong>&nbsp;Report title&nbsp;</strong>"
+          ],
+          [
+            "<strong>&nbsp;Headings &nbsp;</strong>"
+          ],
+          [
+            "<strong>&nbsp;Graph (e.g. pie chart)</strong>"
+          ],
+          [
+            "<strong>A section</strong>"
+          ],
+          [
+            "<strong>Bullet points</strong>"
+          ],
+          [
+            "<strong>Reference list</strong>"
+          ]
+        ],
+        "type": "array",
+        "apiVersion": "v2.168.23",
+        "revision": 5,
+        "feedbackAttemptsCount": 1
+      },
+      "questionInfo": {
+        "type": "imageclozeassociationV2",
+        "widget_type": "response",
+        "reference": "d7eb3989-98be-44ed-a396-3e18b7aa8077",
+        "data": {
+          "image": {
+            "src": "https://assets.learnosity.com/organisations/755/3c55b3b7-6313-4148-baf9-4a436f03bd46.jpg",
+            "width": 800,
+            "height": 618
+          },
+          "possible_responses": [
+            "<strong>&nbsp;Report title&nbsp;</strong>",
+            "<strong>&nbsp;Headings &nbsp;</strong>",
+            "<strong>&nbsp;Graph (e.g. pie chart)</strong>",
+            "<strong>A section</strong>",
+            "<strong>Bullet points</strong>",
+            "<strong>Reference list</strong>"
+          ],
+          "response_containers": [
+            {
+              "x": 59,
+              "y": 5.34,
+              "width": "20.39%",
+              "height": "5.13%",
+              "aria_label": "",
+              "pointer": "undefined"
+            },
+            {
+              "x": 2.75,
+              "y": 20.71,
+              "width": "17.14%",
+              "height": "5.29%",
+              "aria_label": "",
+              "pointer": "undefined"
+            },
+            {
+              "x": 69,
+              "y": 42,
+              "width": "19.27%",
+              "height": "7.23%",
+              "aria_label": "",
+              "pointer": "undefined"
+            },
+            {
+              "x": 83.25,
+              "y": 58.74,
+              "aria_label": "",
+              "width": "13.50%",
+              "height": "5.34%",
+              "pointer": "none"
+            },
+            {
+              "x": 59.5,
+              "y": 69.9,
+              "aria_label": "",
+              "width": "16.50%",
+              "height": "4.85%",
+              "pointer": "none"
+            },
+            {
+              "x": 63.38,
+              "y": 88.35,
+              "aria_label": "",
+              "width": "16.75%",
+              "height": "4.53%",
+              "pointer": "none"
+            },
+            {
+              "x": 41,
+              "y": 47,
+              "aria_label": "",
+              "width": "18.80%",
+              "height": "7.13%",
+              "pointer": "none"
+            }
+          ],
+          "stimulus": "<h2><b>Label the&nbsp;<u><span style=\"color:#0000ff;\">report features</span></u>&nbsp;in the picture below (drag and drop).</b></h2>\n\n<p>&nbsp;</p>\n",
+          "type": "imageclozeassociationV2",
+          "case_sensitive": true,
+          "validation": {
+            "scoring_type": "partialMatchV2",
+            "valid_response": {
+              "score": 6,
+              "value": [
+                [
+                  "<strong>&nbsp;Report title&nbsp;</strong>"
+                ],
+                [
+                  "<strong>&nbsp;Headings &nbsp;</strong>"
+                ],
+                [
+                  "<strong>&nbsp;Graph (e.g. pie chart)</strong>"
+                ],
+                [
+                  "<strong>A section</strong>"
+                ],
+                [
+                  "<strong>Bullet points</strong>"
+                ],
+                [
+                  "<strong>Reference list</strong>"
+                ],
+                []
+              ]
+            }
+          },
+          "instant_feedback": true,
+          "shuffle_options": true
+        },
+        "metadata": {
+          "name": "Label image with drag & drop",
+          "template_reference": "6e77b403-8f0c-43af-b464-9450e1ac70dc"
+        }
+      },
+      "feedbackInfo": [
+        null,
+        null
+      ]
+    },
+    {
+      "response_id": "e9c81ed7-34d3-4659-8927-47bead630b7b_0f2d5e2a0bd5c96f407a14578e22c60d",
+      "question_type": "clozeassociation",
+      "dt_score_updated": "2022-09-07T12:09:14Z",
+      "automarkable": true,
+      "attempted": true,
+      "score": 5,
+      "max_score": 5,
+      "question_reference": "1ef22eb1-63d4-4afc-a05c-542ea2a62b0b",
+      "item_reference": "1a9cfd53-4ac0-480f-927a-e20891455fae",
+      "response": {
+        "value": [
+          "your&nbsp;report&nbsp;is&nbsp;not&nbsp;an&nbsp;essay&nbsp;or&nbsp;review",
+          "according&nbsp;to&nbsp;the&nbsp;brief",
+          "This&nbsp;will&nbsp;help&nbsp;you&nbsp;organise&nbsp;your&nbsp;ideas",
+          "understand&nbsp;the&nbsp;information&nbsp;quickly",
+          "an&nbsp;impersonal,&nbsp;formal"
+        ],
+        "type": "array",
+        "apiVersion": "v2.168.23",
+        "revision": 5,
+        "feedbackAttemptsCount": 2
+      },
+      "questionInfo": {
+        "type": "clozeassociation",
+        "widget_type": "response",
+        "reference": "1ef22eb1-63d4-4afc-a05c-542ea2a62b0b",
+        "data": {
+          "possible_responses": [
+            "your&nbsp;report&nbsp;is&nbsp;not&nbsp;an&nbsp;essay&nbsp;or&nbsp;review",
+            "according&nbsp;to&nbsp;the&nbsp;brief",
+            "This&nbsp;will&nbsp;help&nbsp;you&nbsp;organise&nbsp;your&nbsp;ideas",
+            "understand&nbsp;the&nbsp;information&nbsp;quickly",
+            "an&nbsp;impersonal,&nbsp;formal"
+          ],
+          "response_container": {
+            "pointer": "left"
+          },
+          "stimulus": "<table class=\"table table-condensed table-no-border lrn_width_auto\">\n\t<tbody>\n\t\t<tr>\n\t\t\t<td>\n\t\t\t\n\t\t\t<img class=\"lrn-image-non-responsive\" height=\"137\" src=\"https://assets.learnosity.com/organisations/755/4eb97d7c-1362-41bd-b325-4d8bef64ca94.png\" width=\"100\"></td>\n\t\t\t<td>\n\t\t\t<h2><b>Let's outline some of the&nbsp;<span style=\"color:#b22222;\">characteristics of reports</span>.</b></h2>\n\n\t\t\t<h4><span style=\"color:#000000;\"><b>Match the&nbsp;</b></span><u><span style=\"color:#b22222;\"><b>beginnings</b></span></u><span style=\"color:#000000;\"><b>&nbsp;with the&nbsp;</b></span><u><span style=\"color:#b22222;\"><b>ends</b></span></u><span style=\"color:#000000;\"><b>&nbsp;of the sentences (drag and drop).</b></span></h4>\n\t\t\t</td>\n\t\t</tr>\n\t</tbody>\n</table>\n\n<p>&nbsp;</p>",
+          "template": "<ol id=\"yui_3_17_2_1_1634892106046_104\">\n\t<li><em><span style=\"font-size:1.3em;\">Using the&nbsp;<u>correct layout</u>&nbsp;will</span><span style=\"font-size:1.3em;\">&nbsp;make&nbsp;it&nbsp;clear&nbsp;that&nbsp;</span><span style=\"font-size:1em;\">{{response}}</span><span style=\"font-size:1.3em;\">.</span></em></li>\n\t<li><em><span style=\"font-size:1.3em;\">Divide your report into&nbsp;<u>sections&nbsp;</u>&nbsp;</span><span style=\"font-size:1em;\">{{response}}</span><span style=\"font-size:1.3em;\">.</span></em></li>\n\t<li><em><span style=\"font-size:1.3em;\">Use&nbsp;<u>headings</u>&nbsp;in every section.&nbsp;</span><span style=\"font-size:1em;\">{{response}}</span><span style=\"font-size:1.3em;\">.</span></em></li>\n\t<li><em><span style=\"font-size:1.3em;\">Use&nbsp;<u>bullet points</u>&nbsp;in the&nbsp;<u>recommendations</u>&nbsp;section. This will help your reader&nbsp;</span><span style=\"font-size:1em;\">{{response}}</span><span style=\"font-size:1.3em;\">.&nbsp;&nbsp;</span></em></li>\n\t<li><em><span style=\"font-size:1.3em;\">&nbsp;Use </span><span style=\"font-size:1em;\">{{response}}</span><span style=\"font-size:1.3em;\">&nbsp;<u>style</u>.</span></em></li>\n</ol>\n",
+          "type": "clozeassociation",
+          "case_sensitive": true,
+          "validation": {
+            "scoring_type": "partialMatchV2",
+            "valid_response": {
+              "score": 5,
+              "value": [
+                "your&nbsp;report&nbsp;is&nbsp;not&nbsp;an&nbsp;essay&nbsp;or&nbsp;review",
+                "according&nbsp;to&nbsp;the&nbsp;brief",
+                "This&nbsp;will&nbsp;help&nbsp;you&nbsp;organise&nbsp;your&nbsp;ideas",
+                "understand&nbsp;the&nbsp;information&nbsp;quickly",
+                "an&nbsp;impersonal,&nbsp;formal"
+              ]
+            }
+          },
+          "instant_feedback": true,
+          "shuffle_options": true
+        },
+        "metadata": {
+          "name": "Cloze with drag & drop",
+          "template_reference": "51a8c1e7-f34f-4faf-b211-da458e891fcb"
+        }
+      },
+      "feedbackInfo": [
+        null,
+        null
+      ]
+    },
+    {
+      "response_id": "e9c81ed7-34d3-4659-8927-47bead630b7b_4a3fec461fd6b78a06afb357c8f1a755",
+      "question_type": "choicematrix",
+      "dt_score_updated": "2022-09-07T12:10:40Z",
+      "automarkable": true,
+      "attempted": true,
+      "score": 5,
+      "max_score": 5,
+      "question_reference": "dfc395d5-3bd4-4c7b-9e7f-4fe5e1ffb68e",
+      "item_reference": "1a9cfd53-4ac0-480f-927a-e20891455fae",
+      "response": {
+        "value": [
+          [
+            1
+          ],
+          [
+            1
+          ],
+          [
+            0
+          ],
+          [
+            0
+          ],
+          [
+            1
+          ]
+        ],
+        "type": "array",
+        "apiVersion": "v2.168.23",
+        "revision": 2
+      },
+      "questionInfo": {
+        "type": "choicematrix",
+        "widget_type": "response",
+        "reference": "dfc395d5-3bd4-4c7b-9e7f-4fe5e1ffb68e",
+        "data": {
+          "options": [
+            "<span style=\"color:#008000;\"><strong>True</strong></span>",
+            "<span style=\"color:#ff0000;\"><strong>False</strong></span>"
+          ],
+          "stems": [
+            "<h5 id=\"yui_3_17_2_1_1634892634068_140\"><b id=\"yui_3_17_2_1_1634892634068_139\">a)&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Reports don't need an introduction</b></h5>\n",
+            "<h5 id=\"yui_3_17_2_1_1634892634068_143\"><b id=\"yui_3_17_2_1_1634892634068_142\"><b id=\"yui_3_17_2_1_1634892634068_141\">b)&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Reports normally use personal language (I, we, …)</b></b></h5>\n",
+            "<h5><b><b>c)&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Reports normally include recommendations.</b></b></h5>\n",
+            "<h5><b><b>d)&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Reports need to include factual information.</b></b></h5>\n",
+            "<h5><b><b>e)&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;You should not use headings.</b></b></h5>\n"
+          ],
+          "stimulus": "<h2>&nbsp;</h2>\n\n<h2><b>Are following statements&nbsp;<span style=\"color:#008000;\">TRUE&nbsp;</span>or&nbsp;<span style=\"color:#ff0000;\">FALSE&nbsp;</span>about academic reports?</b></h2>\n\n<p><img height=\"89\" src=\"https://assets.learnosity.com/organisations/755/11806de8-1102-4025-9438-12affe461896.jpg\" width=\"301\"></p>\n",
+          "type": "choicematrix",
+          "validation": {
+            "scoring_type": "partialMatchV2",
+            "valid_response": {
+              "score": 5,
+              "value": [
+                [
+                  1
+                ],
+                [
+                  1
+                ],
+                [
+                  0
+                ],
+                [
+                  0
+                ],
+                [
+                  1
+                ]
+              ]
+            }
+          },
+          "ui_style": {
+            "type": "table",
+            "horizontal_lines": false
+          },
+          "instant_feedback": true,
+          "shuffle_options": true
+        },
+        "metadata": {
+          "name": "Choice matrix – standard",
+          "template_reference": "14b7af71-e146-4747-aae5-ca71618a5038"
+        }
+      },
+      "feedbackInfo": [
+        null,
+        null
+      ]
+    },
+    {
+      "response_id": "e9c81ed7-34d3-4659-8927-47bead630b7b_dafbdb1dbac1cbf73fab43dacaf4cb2d",
+      "question_type": "clozeassociation",
+      "dt_score_updated": "2022-09-07T12:15:23Z",
+      "automarkable": true,
+      "attempted": true,
+      "score": 4,
+      "max_score": 4,
+      "question_reference": "d28716fb-563b-4b9b-a418-d6a181e4d08e",
+      "item_reference": "bdb0524e-de48-469b-ae9a-f7143ae97d71",
+      "response": {
+        "value": [
+          "use resources more carefully&nbsp;",
+          "reduce waste",
+          "outlining the current situation&nbsp;",
+          "suggesting ways in which it could be improved"
+        ],
+        "type": "array",
+        "apiVersion": "v2.168.23",
+        "revision": 3,
+        "feedbackAttemptsCount": 1
+      },
+      "questionInfo": {
+        "type": "clozeassociation",
+        "widget_type": "response",
+        "reference": "d28716fb-563b-4b9b-a418-d6a181e4d08e",
+        "data": {
+          "possible_responses": [
+            "You are running a campaign&nbsp;",
+            "persuade Coventry University London",
+            "use resources more carefully&nbsp;",
+            "reduce waste",
+            "Write a 250-word report&nbsp;",
+            "outlining the current situation&nbsp;",
+            "suggesting ways in which it could be improved"
+          ],
+          "response_container": {
+            "pointer": "left"
+          },
+          "stimulus": "<table class=\"table table-condensed table-no-border lrn_width_auto\">\n\t<tbody>\n\t\t<tr>\n\t\t\t<td><img class=\"lrn-image-non-responsive\" height=\"114\" src=\"https://assets.learnosity.com/organisations/755/c91480e6-1d5a-452f-a65c-9a6e65fd790f.jpg\" width=\"120\"></td>\n\t\t\t<td>\n\t\t\t<p><span style=\"color:#008000;\"><span style=\"font-size:2em;\"><b>Let's have a look at an example.&nbsp;</b></span></span></p>\n\n\t\t\t<h4><b><span style=\"color:#008000;\">► </span>Read the report brief below.</b></h4>\n\t\t\t</td>\n\t\t</tr>\n\t</tbody>\n</table>\n\n<h3>&nbsp;</h3>\n\n\n<img height=\"170\" src=\"https://assets.learnosity.com/organisations/755/7d5c3ebc-40c5-4571-98ad-d61c2bc03648.jpg\" width=\"700\">\n<table class=\"table table-condensed table-no-border lrn_width_auto\">\n\t<tbody>\n\t\t<tr>\n\t\t\t<td><img class=\"lrn-image-non-responsive\" height=\"103\" src=\"https://assets.learnosity.com/organisations/755/d8ab5e92-531d-4a34-8945-fbcacf7cc671.jpg\" width=\"100\"></td>\n\t\t\t<td>\n\t\t\t<h3><b>What are the&nbsp;<span style=\"color:#ff8c00;\">key words</span>&nbsp;in each sentence?&nbsp;</b></h3>\n\n\t\t\t<h4><b><span style=\"color:#ff8c00;\">► </span>Drag and drop from the options below.</b></h4>\n\t\t\t</td>\n\t\t</tr>\n\t</tbody>\n</table>",
+          "template": "<h4><span style=\"color:#ff8c00;\">►&nbsp;</span><strong>Key words in the <u><span style=\"color:#ff8c00;\">first</span></u> sentence:</strong></h4>\n\n<ul>\n\t<li><span style=\"font-size:0.9em;\">{{response}}</span></li>\n\t<li><span style=\"font-size:0.9em;\">{{response}}</span></li>\n</ul>\n\n<h4><span style=\"color:#ff8c00;\">►&nbsp;</span><strong>Key words in the <u><span style=\"color:#ff8c00;\">second</span></u> sentence:</strong></h4>\n\n<ul>\n\t<li><span style=\"font-size:0.9em;\">{{response}}</span></li>\n\t<li><span style=\"font-size:0.9em;\">{{response}}</span></li>\n</ul>\n",
+          "type": "clozeassociation",
+          "case_sensitive": true,
+          "validation": {
+            "scoring_type": "partialMatchV2",
+            "valid_response": {
+              "score": 4,
+              "value": [
+                "use resources more carefully&nbsp;",
+                "reduce waste",
+                "outlining the current situation&nbsp;",
+                "suggesting ways in which it could be improved"
+              ]
+            }
+          },
+          "instant_feedback": true,
+          "shuffle_options": true,
+          "ui_style": {
+            "possibility_list_position": "top"
+          }
+        },
+        "metadata": {
+          "name": "Cloze with drag & drop",
+          "template_reference": "51a8c1e7-f34f-4faf-b211-da458e891fcb"
+        }
+      },
+      "feedbackInfo": [
+        null,
+        null
+      ]
+    },
+    {
+      "response_id": "e9c81ed7-34d3-4659-8927-47bead630b7b_98715282071e5e2a7e196998acf32a02",
+      "question_type": "clozedropdown",
+      "dt_score_updated": "2022-09-07T12:33:10Z",
+      "automarkable": true,
+      "attempted": true,
+      "score": 5,
+      "max_score": 5,
+      "question_reference": "0f0b43b0-a196-477c-9667-5fc9af2a2ce6",
+      "item_reference": "17e19390-9354-48b5-bc17-61fb8932e7ee",
+      "response": {
+        "value": [
+          "INTRODUCTION",
+          "PAPER",
+          "ELECTRICITY",
+          "TRAVEL",
+          "CONCLUSION"
+        ],
+        "type": "array",
+        "apiVersion": "v2.168.23",
+        "revision": 6,
+        "feedbackAttemptsCount": 1
+      },
+      "questionInfo": {
+        "type": "clozedropdown",
+        "widget_type": "response",
+        "reference": "0f0b43b0-a196-477c-9667-5fc9af2a2ce6",
+        "data": {
+          "possible_responses": [
+            [
+              "INTRODUCTION",
+              "BEGINNING",
+              "THE FIRST TOPIC"
+            ],
+            [
+              "PAPER",
+              "WASTE REMOVAL",
+              "DOCUMENTS"
+            ],
+            [
+              "ELECTRICITY",
+              "TELEVISIONS",
+              "LIGHTS AND EQUIPMENT"
+            ],
+            [
+              "TRAVEL",
+              "PARKING PROBLEMS",
+              "ENERGY CONSUMPTION"
+            ],
+            [
+              "CONCLUSION",
+              "THE LAST TOPIC",
+              "TO SUM UP"
+            ]
+          ],
+          "response_container": {
+            "pointer": "left"
+          },
+          "stimulus": "<table class=\"table table-condensed table-no-border lrn_width_auto\">\n\t<tbody>\n\t\t<tr>\n\t\t\t<td><img class=\"lrn-image-non-responsive\" height=\"101\" src=\"https://assets.learnosity.com/organisations/755/ddf17f1c-521d-4e08-b378-b4941017305e.jpg\" width=\"100\"></td>\n\t\t\t<td>\n\t\t\t<h2><b>You are going to read an <span style=\"color:#0000ff;\">example report</span>.</b></h2>\n\n\t\t\t<h4><b>In this report, the&nbsp;<u><span style=\"color:#0000ff;\">section headings</span></u>&nbsp;are missing.&nbsp;</b></h4>\n\n\t\t\t<h4><b><span style=\"color:#0000ff;\">► </span>Choose the correct headings from the drop down.</b></h4>\n\t\t\t</td>\n\t\t</tr>\n\t</tbody>\n</table>\n\n<p>&nbsp;</p>\n\n<table class=\"table table-condensed table-no-border lrn_width_auto\">\n\t<tbody>\n\t\t<tr>\n\t\t\t<td><img class=\"lrn-image-non-responsive lrn-image-left\" height=\"57\" src=\"https://assets.learnosity.com/organisations/755/cf5d667f-a71b-43a8-8481-2d56714069b9.jpg\" width=\"60\"></td>\n\t\t\t<td>\n\t\t\t<h2><span style=\"color:#008000;\"><b>Waste&nbsp;Reduction at Coventry University London&nbsp;&nbsp;</b></span></h2>\n\t\t\t</td>\n\t\t</tr>\n\t</tbody>\n</table>\n",
+          "template": "<p><span style=\"font-size:1em;\"><strong>{{response}}</strong></span></p>\n\n<p style=\"margin-left: 40px;\"><span style=\"font-size:1.1em;\">The purpose of this report is to suggest ways in which Coventry University London can use resources more carefully and reduce wastage. I will suggest a range of measures to achieve this.</span></p>\n\n<p>{{response}}</p>\n\n<p id=\"yui_3_17_2_1_1634894326445_200\" style=\"margin-left: 40px;\"><span style=\"font-size:1.1em;\">The University currently uses twice as much printing paper as it did two years ago. This is despite the fact that information is stored on computers. Any unnecessary use of paper affects the environment in two ways: firstly, by using valuable resources and secondly by posing a waste removal problem. I would suggest that in future no documents should be printed unless there is a good reason for doing so and students should be required to submit assignments electronically.</span></p>\n\n<p>{{response}}</p>\n\n<p style=\"margin-left: 40px;\"><span style=\"font-size:1.1em;\">Currently, many lights, heaters and computers are not turned off when no one is in the building. Televisions and other electronic equipment are left on stand-by overnight, adding to the University electricity consumption. Students and staff should be reminded to turn off the lights and equipment when they are not in use.</span></p>\n\n<p>{{response}}</p>\n\n<p style=\"margin-left: 40px;\"><span style=\"font-size:1.1em;\">A significant number of students and staff come to University by car or motorbike. This adds to our energy consumption. I recommend that the University stops offering free parking on site and encourages students and staff to use public transport or other environmentally friendly forms of transportation such as bikes, if possible. In addition to this, staff might consider working from home at least two days per week.</span></p>\n\n<p>{{response}}</p>\n\n<p style=\"margin-left: 40px;\"><span style=\"font-size:1.1em;\">Research suggests that if we implement all the suggested measures, the university would be able to reduce wastage by 20% every year.</span></p>\n",
+          "type": "clozedropdown",
+          "case_sensitive": true,
+          "validation": {
+            "scoring_type": "partialMatchV2",
+            "valid_response": {
+              "score": 5,
+              "value": [
+                "INTRODUCTION",
+                "PAPER",
+                "ELECTRICITY",
+                "TRAVEL",
+                "CONCLUSION"
+              ]
+            }
+          },
+          "shuffle_options": true,
+          "instant_feedback": true
+        },
+        "metadata": {
+          "name": "Cloze with drop down",
+          "template_reference": "2fbba51b-e35e-441f-83c7-2662e2e81fa6"
+        }
+      },
+      "feedbackInfo": [
+        null,
+        null
+      ]
+    },
+    {
+      "response_id": "e9c81ed7-34d3-4659-8927-47bead630b7b_de2488fa6f34991d81a371db662da1c9",
+      "question_type": "mcq",
+      "dt_score_updated": "2022-09-07T12:33:54Z",
+      "automarkable": true,
+      "attempted": true,
+      "score": 1,
+      "max_score": 2,
+      "question_reference": "452734eb-7af5-406e-aebb-cec6f4c3072b",
+      "item_reference": "17e19390-9354-48b5-bc17-61fb8932e7ee",
+      "response": {
+        "value": [
+          "0",
+          "1"
+        ],
+        "type": "array",
+        "apiVersion": "v2.168.23",
+        "revision": 2,
+        "feedbackAttemptsCount": 1
+      },
+      "questionInfo": {
+        "type": "mcq",
+        "widget_type": "response",
+        "reference": "452734eb-7af5-406e-aebb-cec6f4c3072b",
+        "data": {
+          "options": [
+            {
+              "label": "It uses important resources.",
+              "value": "0"
+            },
+            {
+              "label": "It's a valuable resource.",
+              "value": "1"
+            },
+            {
+              "label": "It's a security risk.",
+              "value": "2"
+            },
+            {
+              "label": "It needs to be removed.",
+              "value": "3"
+            }
+          ],
+          "stimulus": "<h2>&nbsp;</h2>\n\n<h2><b><span style=\"color:#0000ff;\">► </span>Answer the questions below&nbsp;about the example report.</b></h2>\n\n<h2>&nbsp;</h2>\n\n<div class=\"lrn-well\"><strong><span style=\"font-size:1.3em;\">1. According to the writer, which problems does unnecessary use of paper cause? (choose TWO)</span></strong></div>\n\n<p><span style=\"color:#ff0000;\"><strong>► </strong></span><span style=\"color:#000000;\"><strong>Read the report carefully: </strong></span><span style=\"color:#ff0000;\"><strong>You only have ONE check answer attempt!&nbsp;</strong></span></p>\n",
+          "type": "mcq",
+          "validation": {
+            "scoring_type": "partialMatchV2",
+            "valid_response": {
+              "score": 2,
+              "value": [
+                "3",
+                "0"
+              ]
+            }
+          },
+          "ui_style": {
+            "type": "horizontal"
+          },
+          "instant_feedback": true,
+          "multiple_responses": true,
+          "shuffle_options": true,
+          "feedback_attempts": 1
+        },
+        "metadata": {
+          "name": "Multiple choice – standard",
+          "template_reference": "9e8149bd-e4d8-4dd6-a751-1a113a4b9163"
+        }
+      },
+      "feedbackInfo": [
+        null,
+        null
+      ]
+    },
+    {
+      "response_id": "e9c81ed7-34d3-4659-8927-47bead630b7b_2da74ab5b5c69793f9743935b77e53dd",
+      "question_type": "mcq",
+      "dt_score_updated": "2022-09-07T12:36:45Z",
+      "automarkable": true,
+      "attempted": true,
+      "score": 0,
+      "max_score": 1,
+      "question_reference": "f1178bb5-392f-4be2-a081-2f6b176d11ed",
+      "item_reference": "17e19390-9354-48b5-bc17-61fb8932e7ee",
+      "response": {
+        "value": [
+          "0"
+        ],
+        "type": "array",
+        "apiVersion": "v2.168.23",
+        "revision": 2,
+        "feedbackAttemptsCount": 1
+      },
+      "questionInfo": {
+        "type": "mcq",
+        "widget_type": "response",
+        "reference": "f1178bb5-392f-4be2-a081-2f6b176d11ed",
+        "data": {
+          "options": [
+            {
+              "label": "Change electricity provider.",
+              "value": "0"
+            },
+            {
+              "label": "Purchase more modern equipment.",
+              "value": "1"
+            },
+            {
+              "label": "Switch off all equipment.&nbsp;",
+              "value": "2"
+            },
+            {
+              "label": "Leave equipment&nbsp;on stand-by overnight.",
+              "value": "3"
+            }
+          ],
+          "stimulus": "<div class=\"lrn-well\"><strong><span style=\"font-size:1.3em;\">2. According to the writer, how can the university save electricity?</span></strong></div>\n\n<p><span style=\"color:#ff0000;\"><strong>► </strong></span><span style=\"color:#000000;\"><strong>Read the report carefully: </strong></span><span style=\"color:#ff0000;\"><strong>You only have ONE check answer attempt!&nbsp;</strong></span>&nbsp;</p>\n",
+          "type": "mcq",
+          "validation": {
+            "scoring_type": "exactMatch",
+            "valid_response": {
+              "score": 1,
+              "value": [
+                "2"
+              ]
+            }
+          },
+          "ui_style": {
+            "type": "horizontal"
+          },
+          "instant_feedback": true,
+          "feedback_attempts": 1
+        },
+        "metadata": {
+          "name": "Multiple choice – standard",
+          "template_reference": "9e8149bd-e4d8-4dd6-a751-1a113a4b9163"
+        }
+      },
+      "feedbackInfo": [
+        null,
+        null
+      ]
+    },
+    {
+      "response_id": "e9c81ed7-34d3-4659-8927-47bead630b7b_7204868124f8ff4e7b0ff1ca3722496f",
+      "question_type": "mcq",
+      "dt_score_updated": "2022-09-07T12:37:44Z",
+      "automarkable": true,
+      "attempted": true,
+      "score": 3,
+      "max_score": 4,
+      "question_reference": "461f5623-5149-4512-96c8-1eac782a4455",
+      "item_reference": "17e19390-9354-48b5-bc17-61fb8932e7ee",
+      "response": {
+        "value": [
+          "6",
+          "4",
+          "1",
+          "3"
+        ],
+        "type": "array",
+        "apiVersion": "v2.168.23",
+        "revision": 4,
+        "feedbackAttemptsCount": 1
+      },
+      "questionInfo": {
+        "type": "mcq",
+        "widget_type": "response",
+        "reference": "461f5623-5149-4512-96c8-1eac782a4455",
+        "data": {
+          "options": [
+            {
+              "label": "Make the car park free.",
+              "value": "0"
+            },
+            {
+              "label": "Work from home at least twice a week.",
+              "value": "1"
+            },
+            {
+              "label": "Offer discounts for public transport.",
+              "value": "2"
+            },
+            {
+              "label": "Offer free parking for bikes.",
+              "value": "3"
+            },
+            {
+              "label": "Encourage staff to use bikes.",
+              "value": "4"
+            },
+            {
+              "label": "Charge to use the car park.",
+              "value": "5"
+            },
+            {
+              "label": "Encourage staff to use public transport.",
+              "value": "6"
+            }
+          ],
+          "stimulus": "<div class=\"lrn-well\"><strong><span style=\"font-size:1.3em;\">3. What does the writer suggest to reduce travel-related energy waste?</span><span style=\"font-size:1.3em;\">&nbsp;(choose FOUR)</span></strong><strong><span style=\"font-size:1.3em;\"></span></strong></div>\n\n<p><span style=\"color:#ff0000;\"><strong>► </strong></span><span style=\"color:#000000;\"><strong>Read the report carefully: </strong></span><span style=\"color:#ff0000;\"><strong>You only have ONE check answer attempt!&nbsp;</strong></span>&nbsp;</p>\n",
+          "type": "mcq",
+          "validation": {
+            "scoring_type": "partialMatchV2",
+            "valid_response": {
+              "score": 4,
+              "value": [
+                "4",
+                "1",
+                "6",
+                "2"
+              ]
+            }
+          },
+          "ui_style": {
+            "type": "horizontal"
+          },
+          "instant_feedback": true,
+          "multiple_responses": true,
+          "shuffle_options": true,
+          "feedback_attempts": 1
+        },
+        "metadata": {
+          "name": "Multiple choice – standard",
+          "template_reference": "9e8149bd-e4d8-4dd6-a751-1a113a4b9163"
+        }
+      },
+      "feedbackInfo": [
+        null,
+        null
+      ]
+    },
+    {
+      "response_id": "e9c81ed7-34d3-4659-8927-47bead630b7b_72320d97979e5de2bc5d9d47de70f223",
+      "question_type": "clozedropdown",
+      "dt_score_updated": "2022-09-07T12:41:02Z",
+      "automarkable": true,
+      "attempted": true,
+      "score": 1,
+      "max_score": 1,
+      "question_reference": "a315ce4a-2533-48d6-92a9-ebf8f656670b",
+      "item_reference": "17e19390-9354-48b5-bc17-61fb8932e7ee",
+      "response": {
+        "value": [
+          "Yes",
+          "The writer followed most of the guidelines.",
+          "Avoid personal language (I, we)"
+        ],
+        "type": "array",
+        "apiVersion": "v2.168.23",
+        "revision": 2,
+        "feedbackAttemptsCount": 2
+      },
+      "questionInfo": {
+        "type": "clozedropdown",
+        "widget_type": "response",
+        "reference": "a315ce4a-2533-48d6-92a9-ebf8f656670b",
+        "data": {
+          "possible_responses": [
+            [
+              "Yes",
+              "No"
+            ],
+            [
+              "The writer followed all the guidelines.",
+              "The writer didn't follow the guidelines.",
+              "The writer followed most of the guidelines."
+            ],
+            [
+              "The report should have a title",
+              "The sections are not clear",
+              "Avoid personal language (I, we)"
+            ]
+          ],
+          "response_container": {
+            "pointer": "left"
+          },
+          "stimulus": "<table class=\"table table-condensed table-no-border lrn_width_auto\">\n\t<tbody>\n\t\t<tr>\n\t\t\t<td><img height=\"120\" src=\"https://assets.learnosity.com/organisations/755/da5b9dc3-d704-41f1-8905-9762b07680e0.jpg\" width=\"74\"></td>\n\t\t\t<td>\n\t\t\t<h2><span style=\"color:#b22222;\"><b>Critical Thinking&nbsp;</b></span></h2>\n\n\t\t\t<h4><b><span style=\"color:#b22222;\">► </span>Look at the example report again and consider what you learned in this lesson so far.</b></h4>\n\n\t\t\t<p>&nbsp;</p>\n\t\t\t</td>\n\t\t</tr>\n\t</tbody>\n</table>\n",
+          "template": "<ol>\n\t<li><em><span style=\"font-size:1.3em;\"></span><span style=\"font-size:1.3em;\">Is the report clearly organised?</span><span style=\"font-size:1.3em;\"><b> </b></span><span style=\"font-size:1em;\">{{response}}</span><span style=\"font-size:1.3em;\"></span></em></li>\n\t<li><em><span style=\"font-size:1.3em;\"></span><span style=\"font-size:1.3em;\">Did the writer follow the guidelines on page 3 (item 3)&nbsp;of this lesson?</span><span style=\"font-size:1.3em;\"><b> </b></span><span style=\"font-size:1em;\">{{response}}</span><span style=\"font-size:1.3em;\"></span></em></li>\n\t<li><em><span style=\"font-size:1.3em;\"></span><span style=\"font-size:1.3em;\">How can the report be improved?</span><span style=\"font-size:1.3em;\"><b> </b></span><span style=\"font-size:1em;\">{{response}}</span><span style=\"font-size:1.3em;\"></span></em></li>\n</ol>\n",
+          "type": "clozedropdown",
+          "case_sensitive": true,
+          "validation": {
+            "scoring_type": "partialMatchV2",
+            "valid_response": {
+              "score": 1,
+              "value": [
+                "Yes",
+                "The writer followed all the guidelines.",
+                "Avoid personal language (I, we)"
+              ]
+            }
+          },
+          "instant_feedback": true
+        },
+        "metadata": {
+          "name": "Cloze with drop down",
+          "template_reference": "2fbba51b-e35e-441f-83c7-2662e2e81fa6"
+        }
+      },
+      "feedbackInfo": [
+        null,
+        null
+      ]
+    },
+    {
+      "response_id": "e9c81ed7-34d3-4659-8927-47bead630b7b_599e4480fe2606fab9c01da19ee81272",
+      "question_type": "tokenhighlight",
+      "dt_score_updated": "2022-09-07T12:47:39Z",
+      "automarkable": true,
+      "attempted": true,
+      "score": 2,
+      "max_score": 2,
+      "question_reference": "5b1b565d-29d3-42f2-905d-f93a1431fd40",
+      "item_reference": "87aee3bb-2f5a-4421-bb0e-af01f0c3cb1c",
+      "response": {
+        "value": [
+          1,
+          3
+        ],
+        "type": "array",
+        "apiVersion": "v2.168.23",
+        "revision": 2,
+        "feedbackAttemptsCount": 1
+      },
+      "questionInfo": {
+        "type": "tokenhighlight",
+        "widget_type": "response",
+        "reference": "5b1b565d-29d3-42f2-905d-f93a1431fd40",
+        "data": {
+          "stimulus": "<p>&nbsp;</p>\n\n<h2><b>Read the <span style=\"color:#008000;\">second and third section</span> of the report again.</b></h2>\n\n<h4><span style=\"font-weight: bold; color: rgb(0, 128, 0);\">► </span><b>Highlight the sentences which&nbsp;use the&nbsp;</b><u style=\"font-weight: bold;\"><span style=\"color:#008000;\">passive</span></u><b>.</b></h4>\n\n<p>&nbsp;</p>\n\n<h4><span style=\"color:#008000;\"><b>Section Two - Paper</b></span></h4>\n",
+          "template": "<p style=\"margin-left: 40px;\"><span class=\"lrn_token\"><span style=\"font-size:1.3em;\"><em>The University currently uses twice as much printing paper as it did two years ago.</em></span></span> <span class=\"lrn_token\"><span style=\"font-size:1.3em;\"></span><span style=\"font-size:1.3em;\"><em>This</em></span> <span style=\"font-size:1.3em;\"></span><span style=\"font-size:1.3em;\"><em>is</em></span> <span style=\"font-size:1.3em;\"></span><span style=\"font-size:1.3em;\"><em>despite</em></span> <span style=\"font-size:1.3em;\"></span><span style=\"font-size:1.3em;\"><em>the</em></span> <span style=\"font-size:1.3em;\"></span><span style=\"font-size:1.3em;\"><em>fact</em></span> <span style=\"font-size:1.3em;\"></span><span style=\"font-size:1.3em;\"><em>that</em></span> <span style=\"font-size:1.3em;\"></span><span style=\"font-size:1.3em;\"><em>information</em></span> <span style=\"font-size:1.3em;\"></span><span style=\"font-size:1.3em;\"><em>is</em></span> <span style=\"font-size:1.3em;\"></span><span style=\"font-size:1.3em;\"><em>stored</em></span> <span style=\"font-size:1.3em;\"></span><span style=\"font-size:1.3em;\"><em>on</em></span> <span style=\"font-size:1.3em;\"></span><span style=\"font-size:1.3em;\"><em>computers.</em></span></span> <span class=\"lrn_token\"><span style=\"font-size:1.3em;\"></span><span style=\"font-size:1.3em;\"><em>Any</em></span> <span style=\"font-size:1.3em;\"></span><span style=\"font-size:1.3em;\"><em>unnecessary</em></span> <span style=\"font-size:1.3em;\"></span><span style=\"font-size:1.3em;\"><em>use</em></span> <span style=\"font-size:1.3em;\"></span><span style=\"font-size:1.3em;\"><em>of</em></span> <span style=\"font-size:1.3em;\"></span><span style=\"font-size:1.3em;\"><em>paper</em></span> <span style=\"font-size:1.3em;\"></span><span style=\"font-size:1.3em;\"><em>affects</em></span> <span style=\"font-size:1.3em;\"></span><span style=\"font-size:1.3em;\"><em>the</em></span> <span style=\"font-size:1.3em;\"></span><span style=\"font-size:1.3em;\"><em>environment</em></span> <span style=\"font-size:1.3em;\"></span><span style=\"font-size:1.3em;\"><em>in</em></span> <span style=\"font-size:1.3em;\"></span><span style=\"font-size:1.3em;\"><em>two</em></span> <span style=\"font-size:1.3em;\"></span><span style=\"font-size:1.3em;\"><em>ways</em></span><span style=\"font-size:1.3em;\"><em>:</em></span> <span style=\"font-size:1.3em;\"></span><span style=\"font-size:1.3em;\"><em>firstly</em></span><span style=\"font-size:1.3em;\"><em>,</em></span> <span style=\"font-size:1.3em;\"></span><span style=\"font-size:1.3em;\"><em>by</em></span> <span style=\"font-size:1.3em;\"></span><span style=\"font-size:1.3em;\"><em>using</em></span> <span style=\"font-size:1.3em;\"></span><span style=\"font-size:1.3em;\"><em>valuable</em></span> <span style=\"font-size:1.3em;\"></span><span style=\"font-size:1.3em;\"><em>resources</em></span> <span style=\"font-size:1.3em;\"></span><span style=\"font-size:1.3em;\"><em>and</em></span> <span style=\"font-size:1.3em;\"></span><span style=\"font-size:1.3em;\"><em>secondly</em></span> <span style=\"font-size:1.3em;\"></span><span style=\"font-size:1.3em;\"><em>by</em></span> <span style=\"font-size:1.3em;\"></span><span style=\"font-size:1.3em;\"><em>posing</em></span> <span style=\"font-size:1.3em;\"></span><span style=\"font-size:1.3em;\"><em>a</em></span> <span style=\"font-size:1.3em;\"></span><span style=\"font-size:1.3em;\"><em>waste</em></span> <span style=\"font-size:1.3em;\"></span><span style=\"font-size:1.3em;\"><em>removal</em></span> <span style=\"font-size:1.3em;\"></span><span style=\"font-size:1.3em;\"><em>problem.</em></span></span> <span class=\"lrn_token\"><span style=\"font-size:1.3em;\"></span><span style=\"font-size:1.3em;\"><em>I</em></span> <span style=\"font-size:1.3em;\"></span><span style=\"font-size:1.3em;\"><em>would</em></span> <span style=\"font-size:1.3em;\"></span><span style=\"font-size:1.3em;\"><em>suggest</em></span> <span style=\"font-size:1.3em;\"></span><span style=\"font-size:1.3em;\"><em>that</em></span> <span style=\"font-size:1.3em;\"></span><span style=\"font-size:1.3em;\"><em>in</em></span> <span style=\"font-size:1.3em;\"></span><span style=\"font-size:1.3em;\"><em>future</em></span> <span style=\"font-size:1.3em;\"></span><span style=\"font-size:1.3em;\"><em>no</em></span> <span style=\"font-size:1.3em;\"></span><span style=\"font-size:1.3em;\"><em>documents</em></span> <span style=\"font-size:1.3em;\"></span><span style=\"font-size:1.3em;\"><em>should</em></span> <span style=\"font-size:1.3em;\"></span><span style=\"font-size:1.3em;\"><em>be</em></span> <span style=\"font-size:1.3em;\"></span><span style=\"font-size:1.3em;\"><em>printed</em></span> <span style=\"font-size:1.3em;\"></span><span style=\"font-size:1.3em;\"><em>unless</em></span> <span style=\"font-size:1.3em;\"></span><span style=\"font-size:1.3em;\"><em>there</em></span> <span style=\"font-size:1.3em;\"></span><span style=\"font-size:1.3em;\"><em>is</em></span> <span style=\"font-size:1.3em;\"></span><span style=\"font-size:1.3em;\"><em>a</em></span> <span style=\"font-size:1.3em;\"></span><span style=\"font-size:1.3em;\"><em>good</em></span> <span style=\"font-size:1.3em;\"></span><span style=\"font-size:1.3em;\"><em>reason</em></span> <span style=\"font-size:1.3em;\"></span><span style=\"font-size:1.3em;\"><em>for</em></span> <span style=\"font-size:1.3em;\"></span><span style=\"font-size:1.3em;\"><em>doing</em></span> <span style=\"font-size:1.3em;\"></span><span style=\"font-size:1.3em;\"><em>so</em></span> <span style=\"font-size:1.3em;\"></span><span style=\"font-size:1.3em;\"><em>and</em></span> <span style=\"font-size:1.3em;\"></span><span style=\"font-size:1.3em;\"><em>students</em></span> <span style=\"font-size:1.3em;\"></span><span style=\"font-size:1.3em;\"><em>should</em></span> <span style=\"font-size:1.3em;\"></span><span style=\"font-size:1.3em;\"><em>be</em></span> <span style=\"font-size:1.3em;\"></span><span style=\"font-size:1.3em;\"><em>required</em></span> <span style=\"font-size:1.3em;\"></span><span style=\"font-size:1.3em;\"><em>to</em></span> <span style=\"font-size:1.3em;\"></span><span style=\"font-size:1.3em;\"><em>submit</em></span> <span style=\"font-size:1.3em;\"></span><span style=\"font-size:1.3em;\"><em>assignments</em></span> <span style=\"font-size:1.3em;\"></span><span style=\"font-size:1.3em;\"><em>electronically.</em></span></span></p>\n",
+          "tokenization": "custom",
+          "type": "tokenhighlight",
+          "validation": {
+            "scoring_type": "partialMatchV2",
+            "valid_response": {
+              "score": 2,
+              "value": [
+                1,
+                3
+              ]
+            }
+          },
+          "instant_feedback": true
+        },
+        "metadata": {
+          "name": "Token highlight",
+          "template_reference": "47f0db98-79e8-4273-946f-90faf4a2ae49"
+        }
+      },
+      "feedbackInfo": [
+        null,
+        null
+      ]
+    },
+    {
+      "response_id": "e9c81ed7-34d3-4659-8927-47bead630b7b_f3e5d9b83e3c21badbfb17bf126cb4c6",
+      "question_type": "tokenhighlight",
+      "dt_score_updated": "2022-09-07T12:48:52Z",
+      "automarkable": true,
+      "attempted": true,
+      "score": 3,
+      "max_score": 3,
+      "question_reference": "0a5142cf-b3f9-432e-b805-3814f478d075",
+      "item_reference": "87aee3bb-2f5a-4421-bb0e-af01f0c3cb1c",
+      "response": {
+        "value": [
+          0,
+          1,
+          3
+        ],
+        "type": "array",
+        "apiVersion": "v2.168.23",
+        "revision": 2,
+        "feedbackAttemptsCount": 2
+      },
+      "questionInfo": {
+        "type": "tokenhighlight",
+        "widget_type": "response",
+        "reference": "0a5142cf-b3f9-432e-b805-3814f478d075",
+        "data": {
+          "stimulus": "<h4><strong><span style=\"color:#008000;\">Section Three - Electricity</span></strong></h4>\n",
+          "template": "<p style=\"margin-left: 40px;\"><span class=\"lrn_token\"><span style=\"font-size:1.3em;\"><em>Currently, many lights, heaters and computers are not turned off when no one is in the building.</em></span></span> <span class=\"lrn_token\"><span style=\"font-size:1.3em;\"></span><span style=\"font-size:1.3em;\"><em>Televisions</em></span> <span style=\"font-size:1.3em;\"></span><span style=\"font-size:1.3em;\"><em>and</em></span> <span style=\"font-size:1.3em;\"></span><span style=\"font-size:1.3em;\"><em>other</em></span> <span style=\"font-size:1.3em;\"></span><span style=\"font-size:1.3em;\"><em>electronic</em></span> <span style=\"font-size:1.3em;\"></span><span style=\"font-size:1.3em;\"><em>equipment</em></span> <span style=\"font-size:1.3em;\"></span><span style=\"font-size:1.3em;\"><em>are</em></span> <span style=\"font-size:1.3em;\"></span><span style=\"font-size:1.3em;\"><em>left</em></span> <span style=\"font-size:1.3em;\"></span><span style=\"font-size:1.3em;\"><em>on</em></span> <span style=\"font-size:1.3em;\"></span><span style=\"font-size:1.3em;\"><em>stand-by</em></span> <span style=\"font-size:1.3em;\"></span><span style=\"font-size:1.3em;\"><em>overnight .</em></span></span> <span class=\"lrn_token\"><span style=\"font-size:1.3em;\"><em></em></span><span style=\"font-size:1.3em;\"><em>This</em></span> <span style=\"font-size:1.3em;\"><em></em></span><span style=\"font-size:1.3em;\"><em>adds</em></span>&nbsp;<span style=\"font-size:1.3em;\"></span><span style=\"font-size:1.3em;\"><em>to</em></span> <span style=\"font-size:1.3em;\"></span><span style=\"font-size:1.3em;\"><em>the</em></span> <span style=\"font-size:1.3em;\"></span><span style=\"font-size:1.3em;\"><em>University</em></span> <span style=\"font-size:1.3em;\"></span><span style=\"font-size:1.3em;\"><em>electricity</em></span> <span style=\"font-size:1.3em;\"></span><span style=\"font-size:1.3em;\"><em>consumption.</em></span></span> <span class=\"lrn_token\"><span style=\"font-size:1.3em;\"></span><span style=\"font-size:1.3em;\"><em>Students</em></span> <span style=\"font-size:1.3em;\"></span><span style=\"font-size:1.3em;\"><em>and</em></span> <span style=\"font-size:1.3em;\"></span><span style=\"font-size:1.3em;\"><em>staff</em></span> <span style=\"font-size:1.3em;\"></span><span style=\"font-size:1.3em;\"><em>should</em></span> <span style=\"font-size:1.3em;\"></span><span style=\"font-size:1.3em;\"><em>be</em></span> <span style=\"font-size:1.3em;\"></span><span style=\"font-size:1.3em;\"><em>reminded</em></span> <span style=\"font-size:1.3em;\"></span><span style=\"font-size:1.3em;\"><em>to</em></span> <span style=\"font-size:1.3em;\"></span><span style=\"font-size:1.3em;\"><em>turn</em></span> <span style=\"font-size:1.3em;\"></span><span style=\"font-size:1.3em;\"><em>off</em></span> <span style=\"font-size:1.3em;\"></span><span style=\"font-size:1.3em;\"><em>the</em></span> <span style=\"font-size:1.3em;\"></span><span style=\"font-size:1.3em;\"><em>lights</em></span> <span style=\"font-size:1.3em;\"></span><span style=\"font-size:1.3em;\"><em>and</em></span> <span style=\"font-size:1.3em;\"></span><span style=\"font-size:1.3em;\"><em>equipment</em></span> <span style=\"font-size:1.3em;\"></span><span style=\"font-size:1.3em;\"><em>when</em></span> <span style=\"font-size:1.3em;\"></span><span style=\"font-size:1.3em;\"><em>they</em></span> <span style=\"font-size:1.3em;\"></span><span style=\"font-size:1.3em;\"><em>are</em></span> <span style=\"font-size:1.3em;\"></span><span style=\"font-size:1.3em;\"><em>not</em></span> <span style=\"font-size:1.3em;\"></span><span style=\"font-size:1.3em;\"><em>in</em></span> <span style=\"font-size:1.3em;\"></span><span style=\"font-size:1.3em;\"><em>use.</em></span></span></p>\n",
+          "tokenization": "custom",
+          "type": "tokenhighlight",
+          "validation": {
+            "scoring_type": "partialMatchV2",
+            "valid_response": {
+              "score": 3,
+              "value": [
+                0,
+                1,
+                3
+              ]
+            }
+          },
+          "instant_feedback": true
+        },
+        "metadata": {
+          "name": "Token highlight",
+          "template_reference": "47f0db98-79e8-4273-946f-90faf4a2ae49"
+        }
+      },
+      "feedbackInfo": [
+        null,
+        null
+      ]
+    },
+    {
+      "response_id": "e9c81ed7-34d3-4659-8927-47bead630b7b_3cc9ee7a95d5d431bc0e93d0d119b7ae",
+      "question_type": "mcq",
+      "dt_score_updated": "2022-09-07T12:49:21Z",
+      "automarkable": true,
+      "attempted": true,
+      "score": 1,
+      "max_score": 1,
+      "question_reference": "90e72dee-3d62-4e02-92d6-c4bc8591b57e",
+      "item_reference": "87aee3bb-2f5a-4421-bb0e-af01f0c3cb1c",
+      "response": {
+        "value": [
+          "0"
+        ],
+        "type": "array",
+        "apiVersion": "v2.168.23",
+        "revision": 1,
+        "feedbackAttemptsCount": 1
+      },
+      "questionInfo": {
+        "type": "mcq",
+        "widget_type": "response",
+        "reference": "90e72dee-3d62-4e02-92d6-c4bc8591b57e",
+        "data": {
+          "options": [
+            {
+              "label": "<span style=\"font-size:1.3em;\">A range of measures will be suggested to achieve this</span>",
+              "value": "0"
+            },
+            {
+              "label": "<span style=\"font-size:1.3em;\">A range of measures I will suggest to achieve this</span>",
+              "value": "1"
+            },
+            {
+              "label": "<span style=\"font-size:1.3em;\">A range of measures will be suggesting to achieve this</span>",
+              "value": "2"
+            },
+            {
+              "label": "<span style=\"font-size:1.3em;\">A range of measures were suggesting to achieve this</span>",
+              "value": "3"
+            }
+          ],
+          "stimulus": "<p>&nbsp;</p>\n\n<table class=\"table table-condensed table-no-border lrn_width_auto\">\n\t<tbody>\n\t\t<tr>\n\t\t\t<td>\n\t\t\t<table class=\"table table-condensed table-no-border lrn_width_auto\">\n\t\t\t\t<tbody>\n\t\t\t\t\t<tr>\n\t\t\t\t\t\t<td><span style=\"font-size:1.6em;\"><img class=\"lrn-image-non-responsive\" height=\"44\" src=\"https://assets.learnosity.com/organisations/755/8247f194-669d-411a-8f6a-7556f5b27f3b.jpg\" width=\"40\"></span></td>\n\t\t\t\t\t</tr>\n\t\t\t\t</tbody>\n\t\t\t</table>\n\t\t\t</td>\n\t\t\t<td>\n\t\t\t<p id=\"yui_3_17_2_1_1634907335097_165\"><span style=\"font-size:1.6em;\"><b id=\"yui_3_17_2_1_1634907335097_164\">There are two sentences in the report which use&nbsp;<span style=\"color:#ff0000;\">personal&nbsp;language</span>.</b></span></p>\n\t\t\t</td>\n\t\t</tr>\n\t\t<tr>\n\t\t\t<td><span style=\"font-size:1.6em;\"></span>\n\t\t\t\n\t\t\t<span style=\"font-size:1.6em;\"><img class=\"lrn-image-non-responsive\" height=\"36\" src=\"https://assets.learnosity.com/organisations/755/bdfa9f13-9125-4cf7-9fe2-30f11ae250ae.jpg\" width=\"40\"></span></td>\n\t\t\t<td>\n\t\t\t<p><span style=\"font-size:1.6em;\"><b>The writer should have used the passive to make the report&nbsp;<span style=\"color:#008000;\">more formal</span>.</b></span></p>\n\t\t\t</td>\n\t\t</tr>\n\t</tbody>\n</table>\n\n<p>&nbsp;</p>\n\n<p>&nbsp;</p>\n\n<h3 id=\"yui_3_17_2_1_1634907335097_175\"><b><span style=\"color:#008000;\">&nbsp;► </span>Let's change these sentences into the passive:&nbsp;</b></h3>\n\n<p>&nbsp;</p>\n\n<div class=\"lrn-well\"><span style=\"font-size:1.3em;\"><strong>1. I will suggest a range of measures to achieve this.</strong></span></div>",
+          "type": "mcq",
+          "ui_style": {
+            "choice_label": "upper-alpha",
+            "type": "block"
+          },
+          "validation": {
+            "scoring_type": "exactMatch",
+            "valid_response": {
+              "score": 1,
+              "value": [
+                "0"
+              ]
+            }
+          },
+          "instant_feedback": true,
+          "shuffle_options": true
+        },
+        "metadata": {
+          "name": "Multiple choice – block layout",
+          "template_reference": "33d53a22-1a59-4a03-9671-7f5104edd62e"
+        }
+      },
+      "feedbackInfo": [
+        null,
+        null
+      ]
+    },
+    {
+      "response_id": "e9c81ed7-34d3-4659-8927-47bead630b7b_e1669d8051c893080816529a4e1af879",
+      "question_type": "mcq",
+      "dt_score_updated": "2022-09-07T12:49:47Z",
+      "automarkable": true,
+      "attempted": true,
+      "score": 1,
+      "max_score": 1,
+      "question_reference": "c1c27e59-c464-4dc5-a6a2-89328acf41c3",
+      "item_reference": "87aee3bb-2f5a-4421-bb0e-af01f0c3cb1c",
+      "response": {
+        "value": [
+          "0"
+        ],
+        "type": "array",
+        "apiVersion": "v2.168.23",
+        "revision": 1,
+        "feedbackAttemptsCount": 1
+      },
+      "questionInfo": {
+        "type": "mcq",
+        "widget_type": "response",
+        "reference": "c1c27e59-c464-4dc5-a6a2-89328acf41c3",
+        "data": {
+          "options": [
+            {
+              "label": "<span style=\"font-size:1.3em;\">If all the suggested measures are implemented, ...</span>",
+              "value": "0"
+            },
+            {
+              "label": "<span style=\"font-size:1.3em;\">If all the suggested measures we implement, ...</span>",
+              "value": "1"
+            },
+            {
+              "label": "<span style=\"font-size:1.3em;\">If all the suggested measures is implemented, ...</span>",
+              "value": "2"
+            },
+            {
+              "label": "<span style=\"font-size:1.3em;\">If all the suggested measures are implementing, ...</span>",
+              "value": "3"
+            }
+          ],
+          "stimulus": "<div class=\"lrn-well\"><span style=\"font-size:1.3em;\"><strong>2. If we implement all the suggested measures, ...</strong></span></div>\n",
+          "type": "mcq",
+          "ui_style": {
+            "choice_label": "upper-alpha",
+            "type": "block"
+          },
+          "validation": {
+            "scoring_type": "exactMatch",
+            "valid_response": {
+              "score": 1,
+              "value": [
+                "0"
+              ]
+            }
+          },
+          "instant_feedback": true,
+          "shuffle_options": true
+        },
+        "metadata": {
+          "name": "Multiple choice – block layout",
+          "template_reference": "33d53a22-1a59-4a03-9671-7f5104edd62e"
+        }
+      },
+      "feedbackInfo": [
+        null,
+        null
+      ]
+    }
+  ]
+}

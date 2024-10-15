@@ -1,0 +1,283 @@
+{
+  "userId": "d4e114a0-15c9-47f9-a238-8687a642432b",
+  "firstName": "Ivanna",
+  "lastName": "Kozlovska",
+  "assigmentId": "7b590e39-b867-436b-a147-679744755bd0",
+  "assigmentName": "Common Errors in Student Writing",
+  "sessionId": "a763dce9-304e-44cb-9572-78eab4e66f47",
+  "email": "kozlovskai@coventry.ac.uk",
+  "spaceId": "668c4019-277b-4640-92c9-ecf302e5ae0e",
+  "spaceName": "4013AFE - AEB for BSc Financial Economics and Banking 1 - 2122SEPDEC",
+  "score": 26,
+  "max_score": 26,
+  "questions": [
+    {
+      "response_id": "a763dce9-304e-44cb-9572-78eab4e66f47_6e2afe2a37ee287cd11c19b6e0c8adba",
+      "question_type": "choicematrix",
+      "dt_score_updated": "2021-11-02T11:08:12Z",
+      "automarkable": true,
+      "attempted": true,
+      "score": 26,
+      "max_score": 26,
+      "question_reference": "bf54f7a2-8480-4e10-b8df-07eb3a010e67",
+      "item_reference": "7c287edd-b0f0-4275-907e-6b9c40ac4aa0",
+      "response": {
+        "value": [
+          [
+            1
+          ],
+          [
+            0
+          ],
+          [
+            0
+          ],
+          [
+            1
+          ],
+          [
+            1
+          ],
+          [
+            0
+          ],
+          [
+            1
+          ],
+          [
+            0
+          ],
+          [
+            1
+          ],
+          [
+            0
+          ],
+          [
+            0
+          ],
+          [
+            1
+          ],
+          [
+            1
+          ],
+          [
+            0
+          ],
+          [
+            1
+          ],
+          [
+            0
+          ],
+          [
+            0
+          ],
+          [
+            1
+          ],
+          [
+            0
+          ],
+          [
+            1
+          ],
+          [
+            0
+          ],
+          [
+            1
+          ],
+          [
+            0
+          ],
+          [
+            1
+          ],
+          [
+            1
+          ],
+          [
+            0
+          ]
+        ],
+        "type": "array",
+        "apiVersion": "v2.168.12",
+        "revision": 22,
+        "feedbackAttemptsCount": 3
+      },
+      "questionInfo": {
+        "type": "choicematrix",
+        "widget_type": "response",
+        "reference": "bf54f7a2-8480-4e10-b8df-07eb3a010e67",
+        "data": {
+          "options": [
+            "Correct",
+            "Incorrect"
+          ],
+          "stems": [
+            "<span style=\"font-size:1.1em;\"><strong>1a)</strong> Poor paraphrasing can have a negative affect on your grades.</span>",
+            "<span style=\"font-size:1.1em;\"><strong>1b)</strong> Poor paraphrasing can have a negative effect on your grades.</span>",
+            "<span style=\"font-size:1.1em;\"><strong>2a) </strong>After writing the first draft of your report, it is important to review and improve it.</span>",
+            "<span style=\"font-size:1.1em;\"><strong>2b)</strong> After writing the first draft of your report it is important to review and improve it.</span>",
+            "<span style=\"font-size:1.1em;\"><strong>3a)</strong> Purdon (2021) emphasises the importance of accurate citation as a means of \"leaving an information trail\", which the reader can follow.</span>",
+            "<span style=\"font-size:1.1em;\"><strong>3b)</strong> Purdon (2021, p.21) emphasises the importance of accurate citation as a means of \"leaving an information trail\", which the reader can follow.</span>",
+            "<span style=\"font-size:1.1em;\"><strong>4a)</strong> Formal vocabulary is an important feature of academic writing, which causes problems for many students.</span>",
+            "<span style=\"font-size:1.1em;\"><strong>4b)</strong> Formal vocabulary is an important feature of academic writing, and causes problems for many students.</span>",
+            "<span style=\"font-size:1.1em;\"><strong>5a) </strong>A paragraph is difficult to read if it's structure is unclear.</span>",
+            "<span style=\"font-size:1.1em;\"><strong>5b)</strong> A paragraph is difficult to read if its structure is unclear,</span>",
+            "<span style=\"font-size:1.1em;\"><strong>6a)</strong> Businesses often fail because they fail to identify new trends early enough (Bobbin, 2018).</span>",
+            "<span style=\"font-size:1.1em;\"><strong>6b)</strong> Businesses often fail because they fail to identify new trends early enough. (Bobbin, 2018)</span>",
+            "<span style=\"font-size:1.1em;\"><strong>7a)</strong> The purpose of a report must be clear to the reader, it should therefore be made clear in the introduction.</span>",
+            "<span style=\"font-size:1.1em;\"><strong>7b)</strong> The purpose of a report must be clear to the reader. It should therefore be made clear in the introduction.</span>",
+            "<span style=\"font-size:1.1em;\"><strong>8a)</strong> A strong conclusion. This is important as it will focus the audience on your key message.</span>",
+            "<span style=\"font-size:1.1em;\"><strong>8b) </strong>A strong conclusion is important as it will focus the audience on your key message.</span>",
+            "<span style=\"font-size:1.1em;\"><strong>9a)</strong> Presentation slides, which should be used to help the audience, can often distract them from the speaker</span>",
+            "<span style=\"font-size:1.1em;\"><strong>9b)</strong> Presentation slides which should be used to help the audience, can often distract them from the speaker</span>",
+            "<span style=\"font-size:1.1em;\"><strong>10a)</strong> Sentences which include informal language are not acceptable in academic writing</span>",
+            "<span style=\"font-size:1.1em;\"><strong>10b)</strong> Sentences, which include informal language, are not acceptable in academic writing</span>",
+            "<span style=\"font-size:1.1em;\"><strong>11a)</strong> The lectures are extremely useful, but not necessary.</span>",
+            "<span style=\"font-size:1.1em;\"><strong>11b)</strong> The lectures are extremely useful. But not necessary.</span>",
+            "<span style=\"font-size:1.1em;\"><strong>12a)</strong> Parker &amp; Bowles (2018) suggest that emotional appeals are more effective than rational ones.</span>",
+            "<span style=\"font-size:1.1em;\"><strong>12b)</strong> Parker &amp; Bowles (2018) suggests that emotional appeals are more effective than rational ones.</span>",
+            "<span style=\"font-size:1.1em;\"><strong>13a) </strong>Recent studies have shown that customer loyalty has improved where businesses have remained in touch during the pandemic and providing updates (Giles &amp; Mortimer, 2020).</span>",
+            "<span style=\"font-size:1.1em;\"><strong>13b)</strong> Recent studies have shown that customer loyalty has improved where businesses have remained in touch during the pandemic and provided updates (Giles &amp; Mortimer, 2020).</span>"
+          ],
+          "stimulus": "<strong><span style=\"font-size:1.3em;\">Look at the sentence pairs below and decide which one is CORRECT and which is INCORRECT.</span></strong>",
+          "type": "choicematrix",
+          "validation": {
+            "scoring_type": "partialMatchV2",
+            "valid_response": {
+              "score": 26,
+              "value": [
+                [
+                  1
+                ],
+                [
+                  0
+                ],
+                [
+                  0
+                ],
+                [
+                  1
+                ],
+                [
+                  1
+                ],
+                [
+                  0
+                ],
+                [
+                  1
+                ],
+                [
+                  0
+                ],
+                [
+                  1
+                ],
+                [
+                  0
+                ],
+                [
+                  0
+                ],
+                [
+                  1
+                ],
+                [
+                  1
+                ],
+                [
+                  0
+                ],
+                [
+                  1
+                ],
+                [
+                  0
+                ],
+                [
+                  0
+                ],
+                [
+                  1
+                ],
+                [
+                  0
+                ],
+                [
+                  1
+                ],
+                [
+                  0
+                ],
+                [
+                  1
+                ],
+                [
+                  0
+                ],
+                [
+                  1
+                ],
+                [
+                  1
+                ],
+                [
+                  0
+                ]
+              ]
+            }
+          },
+          "ui_style": {
+            "type": "table",
+            "horizontal_lines": false
+          },
+          "instant_feedback": true
+        },
+        "metadata": {
+          "name": "Choice matrix – standard",
+          "template_reference": "14b7af71-e146-4747-aae5-ca71618a5038"
+        }
+      },
+      "feedbackInfo": [
+        {
+          "id": "0707_d4e114a0-15c9-47f9-a238-8687a642432b_a763dce9-304e-44cb-9572-78eab4e66f47_579debbec659dce17748fdd7f34048d0",
+          "user_id": "d4e114a0-15c9-47f9-a238-8687a642432b",
+          "response_id": "a763dce9-304e-44cb-9572-78eab4e66f47_579debbec659dce17748fdd7f34048d0",
+          "type": "longtextV2",
+          "question": {
+            "type": "longtextV2",
+            "metadata": {
+              "source": {
+                "organisation_id": 755
+              },
+              "sheet_reference": "default_feedback",
+              "widget_reference": "de082b5f-742a-4ecf-82ca-4dc86e218fec",
+              "valid_response_count": 0
+            },
+            "stimulus": "Written feedback:",
+            "response_id": "a763dce9-304e-44cb-9572-78eab4e66f47_579debbec659dce17748fdd7f34048d0",
+            "show_word_count": false,
+            "show_word_limit": "off"
+          },
+          "response": {
+            "value": "<p>Superb!</p><p><br></p>",
+            "wordCount": 1,
+            "type": "string",
+            "apiVersion": "v2.178.0",
+            "revision": 1
+          },
+          "creation_date": "2021-11-02 11:29:42",
+          "mod_date": "2021-11-02 11:30:03",
+          "persist_until": "2024-11-01 11:29:42",
+          "saved": true
+        },
+        null
+      ]
+    }
+  ]
+}

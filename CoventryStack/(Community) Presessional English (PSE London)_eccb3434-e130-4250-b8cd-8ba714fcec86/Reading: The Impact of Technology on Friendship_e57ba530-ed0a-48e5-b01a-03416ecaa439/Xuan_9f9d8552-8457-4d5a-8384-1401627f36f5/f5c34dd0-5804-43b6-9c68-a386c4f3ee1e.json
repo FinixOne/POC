@@ -1,0 +1,747 @@
+{
+  "userId": "9f9d8552-8457-4d5a-8384-1401627f36f5",
+  "firstName": "Xuan",
+  "lastName": "Liu",
+  "assigmentId": "e57ba530-ed0a-48e5-b01a-03416ecaa439",
+  "assigmentName": "Reading: The Impact of Technology on Friendship",
+  "sessionId": "f5c34dd0-5804-43b6-9c68-a386c4f3ee1e",
+  "email": "liux144@coventry.ac.uk",
+  "spaceId": "eccb3434-e130-4250-b8cd-8ba714fcec86",
+  "spaceName": "(Community) Presessional English (PSE London)",
+  "score": 35,
+  "max_score": 35,
+  "questions": [
+    {
+      "response_id": "f5c34dd0-5804-43b6-9c68-a386c4f3ee1e_0777b030c59a9d71cc77b3c36880e42e",
+      "question_type": "association",
+      "dt_score_updated": "2022-09-27T05:09:40Z",
+      "automarkable": true,
+      "attempted": true,
+      "score": 8,
+      "max_score": 8,
+      "question_reference": "67862034-4325-49a4-8b5d-77276665b3e8",
+      "item_reference": "305079a4-8c6d-482d-9c2e-c6731f9b75af",
+      "response": {
+        "value": [
+          "Someone you know but who isn’t a close friend",
+          "The ability to understand or imagine how someone feels",
+          "To help someone or something to develop",
+          "Always linked to people via technology",
+          "Lack of care for others or society in general",
+          "Relationships or connections with a person or place",
+          "People who admire themselves too much",
+          "Formal word for teenagers"
+        ],
+        "type": "array",
+        "updatedFormat": true,
+        "apiVersion": "v2.168.23",
+        "revision": 8,
+        "feedbackAttemptsCount": 1
+      },
+      "questionInfo": {
+        "type": "association",
+        "widget_type": "response",
+        "reference": "67862034-4325-49a4-8b5d-77276665b3e8",
+        "data": {
+          "possible_responses": [
+            "Someone you know but who isn’t a close friend",
+            "Lack of care for others or society in general",
+            "People who admire themselves too much",
+            "Relationships or connections with a person or place",
+            "Formal word for teenagers",
+            "To help someone or something to develop",
+            "Always linked to people via technology",
+            "The ability to understand or imagine how someone feels"
+          ],
+          "stimulus": "<h2 id=\"yui_3_17_2_1_1631544353185_8278\"><strong>Let's start with&nbsp;<span style=\"color:#008080;\">VOCABULARY</span></strong></h2>\n\n<h4 id=\"yui_3_17_2_1_1631544353185_8282\"><strong>Consider the words below.&nbsp;They are key words from the text.</strong></h4>\n\n<p><img class=\"lrn-image-left\" height=\"150\" src=\"https://assets.learnosity.com/organisations/755/fac61e13-1f14-43bb-b7bb-93088f3e9fb6.jpg\" width=\"529\" /></p>\n\n<p>&nbsp;</p>\n\n<p>&nbsp;</p>\n\n<p>&nbsp;</p>\n\n<p>&nbsp;</p>\n\n<p>&nbsp;</p>\n\n<p>&nbsp;</p>\n\n<p><strong><span style=\"font-size:1.3em;\"></span><span style=\"color:#008080;\"><span style=\"font-size:1.3em;\">►&nbsp;</span></span><span style=\"font-size:1.3em;\">Match each word with its meaning.</span></strong></p>\n",
+          "stimulus_list": [
+            "<strong><span style=\"font-size:1.3em;\">Empathy</span></strong>",
+            "<strong><span style=\"font-size:1.3em;\">Acquaintance</span></strong>",
+            "<strong><span style=\"font-size:1.3em;\">Nurture (v)</span></strong>",
+            "<strong><span style=\"font-size:1.3em;\">Hyper-connected</span></strong>",
+            "<strong><span style=\"font-size:1.3em;\">Anti-social&nbsp;</span></strong>",
+            "<strong><span style=\"font-size:1.3em;\">Ties</span></strong>",
+            "<strong><span style=\"font-size:1.3em;\">Narcissists</span></strong>",
+            "<strong><span style=\"font-size:1.3em;\">Adolescents</span></strong>"
+          ],
+          "type": "association",
+          "validation": {
+            "scoring_type": "partialMatchV2",
+            "valid_response": {
+              "score": 8,
+              "value": [
+                "Someone you know but who isn’t a close friend",
+                "The ability to understand or imagine how someone feels",
+                "To help someone or something to develop",
+                "Always linked to people via technology",
+                "Lack of care for others or society in general",
+                "Relationships or connections with a person or place",
+                "People who admire themselves too much",
+                "Formal word for teenagers"
+              ]
+            }
+          },
+          "ui_style": {
+            "show_drag_handle": false
+          },
+          "instant_feedback": true,
+          "shuffle_options": true
+        },
+        "metadata": {
+          "name": "Match list",
+          "template_reference": "1fa22aac-1f88-47f7-941b-3c77759549e6"
+        }
+      },
+      "feedbackInfo": [
+        null,
+        null
+      ]
+    },
+    {
+      "response_id": "f5c34dd0-5804-43b6-9c68-a386c4f3ee1e_5106047f99759c12bbf9d62ed45708ef",
+      "question_type": "clozeassociation",
+      "dt_score_updated": "2022-09-27T05:15:06Z",
+      "automarkable": true,
+      "attempted": true,
+      "score": 8,
+      "max_score": 8,
+      "question_reference": "ff813fa7-c8e2-4b12-a908-8449d2375179",
+      "item_reference": "305079a4-8c6d-482d-9c2e-c6731f9b75af",
+      "response": {
+        "value": [
+          "acquaintance&nbsp;",
+          "anti-social&nbsp;",
+          "narcissists",
+          "Ties&nbsp;",
+          "Adolescents&nbsp;",
+          "nurture&nbsp;",
+          "hyper-connected&nbsp;",
+          "empathy"
+        ],
+        "type": "array",
+        "apiVersion": "v2.168.23",
+        "revision": 8,
+        "feedbackAttemptsCount": 6
+      },
+      "questionInfo": {
+        "type": "clozeassociation",
+        "widget_type": "response",
+        "reference": "ff813fa7-c8e2-4b12-a908-8449d2375179",
+        "data": {
+          "possible_responses": [
+            "acquaintance&nbsp;",
+            "anti-social&nbsp;",
+            "narcissists",
+            "Ties&nbsp;",
+            "Adolescents&nbsp;",
+            "nurture&nbsp;",
+            "hyper-connected&nbsp;",
+            "empathy"
+          ],
+          "response_container": {
+            "pointer": "left"
+          },
+          "stimulus": "<h2><img class=\"lrn-image-left\" height=\"100\" src=\"https://assets.learnosity.com/organisations/755/f08abcbe-b4ed-4fa0-8e4c-149604f8b03f.png\" width=\"100\" /><br />\n<b>Now, let's look at these words in context.&nbsp;</b><b id=\"yui_3_17_2_1_1631546738393_3363\">Complete each sentence&nbsp;</b><b id=\"yui_3_17_2_1_1631546738393_3364\">with the missing word&nbsp;</b><b id=\"yui_3_17_2_1_1631546738393_3365\">(drag and drop).</b></h2>\n",
+          "template": "<ol>\n\t<li><span style=\"font-size:1.3em;\">I don’t know her very well, so she is more of an </span><span style=\"font-size:1em;\">{{response}}</span><span style=\"font-size:1.3em;\">&nbsp;than a friend.</span></li>\n\t<li><span style=\"font-size:1.3em;\">Research links smartphone addiction to </span><span style=\"font-size:1em;\">{{response}}</span><span style=\"font-size:1.3em;\">&nbsp;behaviour in young people.</span></li>\n\t<li><span style=\"font-size:1.3em;\">Critics are concerned that social media is turning us into &nbsp;</span><span style=\"font-size:1em;\">{{response}}</span><span style=\"font-size:1.3em;\">.</span></li>\n\t<li><span style=\"font-size:1.3em;\"></span><span style=\"font-size:1em;\">{{response}}</span><span style=\"font-size:1.3em;\">&nbsp;between families have strengthened in the social media age.</span></li>\n\t<li><span style=\"font-size:1.3em;\"></span><span style=\"font-size:1em;\">{{response}}</span><span style=\"font-size:1.3em;\">&nbsp;are more negatively influenced by their online peers than adults.</span></li>\n\t<li><span style=\"font-size:1.3em;\">It’s important to </span><span style=\"font-size:1em;\">{{response}}</span><span style=\"font-size:1.3em;\">&nbsp;both our online and offline relationships.</span></li>\n\t<li><span style=\"font-size:1.3em;\">Despite living in a </span><span style=\"font-size:1em;\">{{response}}</span><span style=\"font-size:1.3em;\">&nbsp;society, we are more alone than ever.</span></li>\n\t<li><span style=\"font-size:1.3em;\">I’d argue that social media actually promotes &nbsp;</span><span style=\"font-size:1em;\">{{response}}</span><span style=\"font-size:1.3em;\">.</span></li>\n</ol>\n",
+          "type": "clozeassociation",
+          "case_sensitive": true,
+          "validation": {
+            "scoring_type": "partialMatchV2",
+            "valid_response": {
+              "score": 8,
+              "value": [
+                "acquaintance&nbsp;",
+                "anti-social&nbsp;",
+                "narcissists",
+                "Ties&nbsp;",
+                "Adolescents&nbsp;",
+                "nurture&nbsp;",
+                "hyper-connected&nbsp;",
+                "empathy"
+              ]
+            }
+          },
+          "ui_style": {
+            "show_drag_handle": false
+          },
+          "instant_feedback": true,
+          "shuffle_options": true
+        },
+        "metadata": {
+          "name": "Cloze with drag & drop",
+          "template_reference": "51a8c1e7-f34f-4faf-b211-da458e891fcb"
+        }
+      },
+      "feedbackInfo": [
+        null,
+        null
+      ]
+    },
+    {
+      "response_id": "f5c34dd0-5804-43b6-9c68-a386c4f3ee1e_d7942a7c58b4ef5f7cbf4cbef1a8153d",
+      "question_type": "mcq",
+      "dt_score_updated": "2022-09-27T05:38:17Z",
+      "automarkable": true,
+      "attempted": true,
+      "score": 2,
+      "max_score": 2,
+      "question_reference": "0e3ed144-f6eb-49c2-9492-80bf77b50ac6",
+      "item_reference": "8ca15478-95bd-4288-a2b8-ea4fe9c8e148",
+      "response": {
+        "value": [
+          "3",
+          "0",
+          "2",
+          "1"
+        ],
+        "type": "array",
+        "apiVersion": "v2.168.23",
+        "revision": 3
+      },
+      "questionInfo": {
+        "type": "mcq",
+        "widget_type": "response",
+        "reference": "0e3ed144-f6eb-49c2-9492-80bf77b50ac6",
+        "data": {
+          "options": [
+            {
+              "label": "<span style=\"font-size:1.3em;\">There are advantages to having online friends.</span>",
+              "value": "0"
+            },
+            {
+              "label": "<span style=\"font-size:1.3em;\">Young people are losing their face-to-face friends.</span>",
+              "value": "1"
+            },
+            {
+              "label": "<span style=\"font-size:1.3em;\">People reveal too much information online.</span>",
+              "value": "2"
+            },
+            {
+              "label": "<span style=\"font-size:1.3em;\">Social networking is changing young people’s personalities.</span>",
+              "value": "3"
+            }
+          ],
+          "stimulus": "<table>\n\t<tbody>\n\t\t<tr>\n\t\t\t<td><img class=\"lrn-image-left\" height=\"135\" src=\"https://assets.learnosity.com/organisations/755/1acf70ce-d78c-4582-9ccc-833710d0ae9a.jpg\" width=\"200\" /></td>\n\t\t\t<td>\n\t\t\t<p><span style=\"color:#0000ff;\"><span style=\"font-size:2em;\"><b><b>Let's start with a QUICK reading task:</b></b></span></span></p>\n\n\t\t\t<p><span style=\"font-size:1.5em;\"><b><span style=\"color:#0000ff;\">►</span> Read the text&nbsp;quickly.&nbsp;You should spend about&nbsp;<u>10 minutes</u>&nbsp;reading the text and answering the questions.</b></span></p>\n\t\t\t</td>\n\t\t</tr>\n\t</tbody>\n</table>\n\n<p>&nbsp;</p>\n\n<p><span style=\"font-size:1.6em;\"><b>Focus on the&nbsp;<u><span style=\"color:#0000ff;\">topic sentence</span></u>&nbsp;of each paragraph and read the rest quickly.&nbsp;</b></span></p>\n\n<p><span style=\"font-size:1.6em;\"><b><span style=\"color:#0000ff;\">►</span> Don't stop to check vocabulary -- you can do this in the next activity).</b></span></p>\n\n<p>&nbsp;</p>\n\n<p><span style=\"font-size:1.3em;\"><span style=\"color:#ff0000;\"><b>NB: you only have ONE check answer attempt!</b></span></span></p>\n",
+          "type": "mcq",
+          "validation": {
+            "scoring_type": "partialMatchV2",
+            "valid_response": {
+              "score": 2,
+              "value": [
+                "0",
+                "3"
+              ]
+            }
+          },
+          "ui_style": {
+            "type": "horizontal"
+          },
+          "feedback_attempts": 1,
+          "multiple_responses": true,
+          "shuffle_options": true
+        },
+        "metadata": {
+          "name": "Multiple choice – standard",
+          "template_reference": "9e8149bd-e4d8-4dd6-a751-1a113a4b9163"
+        }
+      },
+      "feedbackInfo": [
+        null,
+        null
+      ]
+    },
+    {
+      "response_id": "f5c34dd0-5804-43b6-9c68-a386c4f3ee1e_7faff678e475bea9dfa432841213a76f",
+      "question_type": "mcq",
+      "dt_score_updated": "2022-09-27T05:43:40Z",
+      "automarkable": true,
+      "attempted": true,
+      "score": 1,
+      "max_score": 1,
+      "question_reference": "89b956e0-b7f4-4917-bbc9-6b624f7b2bea",
+      "item_reference": "b83f8850-567e-4ac9-a2ad-d6d3c8df24c8",
+      "response": {
+        "value": [
+          "4"
+        ],
+        "type": "array",
+        "apiVersion": "v2.168.23",
+        "revision": 1,
+        "feedbackAttemptsCount": 1
+      },
+      "questionInfo": {
+        "type": "mcq",
+        "widget_type": "response",
+        "reference": "89b956e0-b7f4-4917-bbc9-6b624f7b2bea",
+        "data": {
+          "options": [
+            {
+              "label": "<span style=\"font-size:1.1em;\">start arguments with them.</span>",
+              "value": "3"
+            },
+            {
+              "label": "<span style=\"font-size:1.1em;\">provide comments on their actions.</span>",
+              "value": "4"
+            },
+            {
+              "label": "<span style=\"font-size:1.1em;\">demonstrate confidence in them.</span>",
+              "value": "5"
+            },
+            {
+              "label": "<span style=\"font-size:1.1em;\">force them to give up things they want.</span>",
+              "value": "6"
+            }
+          ],
+          "stimulus": "<div class=\"lrn-well\"><span style=\"font-size:1.3em;\"><b>1.&nbsp;According to the author, children modify their conduct when friends...</b></span></div>\n\n<p><span style=\"font-weight: bold; color: rgb(255, 0, 0);\"></span><font color=\"#ff0000\"><b>► </b></font><b>Read the text carefully!&nbsp;</b><span style=\"font-weight:bold\"><span style=\"color:#ff0000\"><u>You have only ONE 'check answer' attempt</u>!</span></span><span style=\"font-weight: bold; color: rgb(255, 0, 0);\"></span></p>\n",
+          "type": "mcq",
+          "ui_style": {
+            "choice_label": "upper-alpha",
+            "type": "block"
+          },
+          "validation": {
+            "scoring_type": "exactMatch",
+            "valid_response": {
+              "score": 1,
+              "value": [
+                "4"
+              ]
+            }
+          },
+          "feedback_attempts": 1,
+          "instant_feedback": true,
+          "shuffle_options": true
+        },
+        "metadata": {
+          "name": "Multiple choice – block layout",
+          "template_reference": "33d53a22-1a59-4a03-9671-7f5104edd62e"
+        }
+      },
+      "feedbackInfo": [
+        null,
+        null
+      ]
+    },
+    {
+      "response_id": "f5c34dd0-5804-43b6-9c68-a386c4f3ee1e_fd4ed5d37e241cdfec883cfabee708d8",
+      "question_type": "mcq",
+      "dt_score_updated": "2022-09-27T05:42:42Z",
+      "automarkable": true,
+      "attempted": true,
+      "score": 1,
+      "max_score": 1,
+      "question_reference": "50c6d3c4-4564-4e00-a7e2-e867064fea05",
+      "item_reference": "b83f8850-567e-4ac9-a2ad-d6d3c8df24c8",
+      "response": {
+        "value": [
+          "5"
+        ],
+        "type": "array",
+        "apiVersion": "v2.168.23",
+        "revision": 1,
+        "feedbackAttemptsCount": 1
+      },
+      "questionInfo": {
+        "type": "mcq",
+        "widget_type": "response",
+        "reference": "50c6d3c4-4564-4e00-a7e2-e867064fea05",
+        "data": {
+          "options": [
+            {
+              "label": "<span style=\"font-size:1.1em;\">Over a third</span>",
+              "value": "3"
+            },
+            {
+              "label": "<span style=\"font-size:1.1em;\">Over a quarter</span>",
+              "value": "4"
+            },
+            {
+              "label": "<span style=\"font-size:1.1em;\">Over a fifth</span>",
+              "value": "5"
+            },
+            {
+              "label": "<span style=\"font-size:1.1em;\">Almost half</span>",
+              "value": "6"
+            }
+          ],
+          "stimulus": "<div class=\"lrn-well\"><span style=\"font-size:1.3em;\"><b>3. According to the text, how much of our overall online media time is spent on social media?</b></span></div>\n\n<p><span style=\"font-weight: bold; color: rgb(255, 0, 0);\"></span><font color=\"#ff0000\"><b>► </b></font><b>Read the text carefully!&nbsp;</b><span style=\"font-weight:bold\"><span style=\"color:#ff0000\"><u>You have only ONE 'check answer' attempt</u>!</span></span><span style=\"font-weight: bold; color: rgb(255, 0, 0);\"></span></p>\n",
+          "type": "mcq",
+          "ui_style": {
+            "choice_label": "upper-alpha",
+            "type": "block"
+          },
+          "validation": {
+            "scoring_type": "exactMatch",
+            "valid_response": {
+              "score": 1,
+              "value": [
+                "5"
+              ]
+            }
+          },
+          "feedback_attempts": 1,
+          "instant_feedback": true,
+          "shuffle_options": true
+        },
+        "metadata": {
+          "name": "Multiple choice – block layout",
+          "template_reference": "33d53a22-1a59-4a03-9671-7f5104edd62e"
+        }
+      },
+      "feedbackInfo": [
+        null,
+        null
+      ]
+    },
+    {
+      "response_id": "f5c34dd0-5804-43b6-9c68-a386c4f3ee1e_2599c1534b5ecd3a3eb8a5c176917f2f",
+      "question_type": "mcq",
+      "dt_score_updated": "2022-09-27T05:44:23Z",
+      "automarkable": true,
+      "attempted": true,
+      "score": 1,
+      "max_score": 1,
+      "question_reference": "40c16638-bb84-4ac7-87d6-6b1beda18f20",
+      "item_reference": "b83f8850-567e-4ac9-a2ad-d6d3c8df24c8",
+      "response": {
+        "value": [
+          "3"
+        ],
+        "type": "array",
+        "apiVersion": "v2.168.23",
+        "revision": 1
+      },
+      "questionInfo": {
+        "type": "mcq",
+        "widget_type": "response",
+        "reference": "40c16638-bb84-4ac7-87d6-6b1beda18f20",
+        "data": {
+          "options": [
+            {
+              "label": "<span style=\"font-size:1.1em;\">learn from a wide range of other users.</span>",
+              "value": "3"
+            },
+            {
+              "label": "<span style=\"font-size:1.1em;\">replace offline friends with online acquaintances.</span>",
+              "value": "4"
+            },
+            {
+              "label": "<span style=\"font-size:1.1em;\">expand their offline friendship network.</span>",
+              "value": "5"
+            },
+            {
+              "label": "<span style=\"font-size:1.1em;\">become better able to manage friendships.</span>",
+              "value": "6"
+            }
+          ],
+          "stimulus": "<div class=\"lrn-well\"><span style=\"font-size:1.3em;\"><b id=\"yui_3_17_2_1_1648209677170_190\">3. According to 2009 research, one effect of social networking is that people...</b></span></div>\n\n<p><span style=\"font-weight: bold; color: rgb(255, 0, 0);\"></span><font color=\"#ff0000\"><b>► </b></font><b>Read the text carefully!&nbsp;</b><span style=\"font-weight:bold\"><span style=\"color:#ff0000\"><u>You have only ONE 'check answer' attempt</u>!</span></span><span style=\"font-weight: bold; color: rgb(255, 0, 0);\"></span></p>\n",
+          "type": "mcq",
+          "ui_style": {
+            "choice_label": "upper-alpha",
+            "type": "block"
+          },
+          "validation": {
+            "scoring_type": "exactMatch",
+            "valid_response": {
+              "score": 1,
+              "value": [
+                "3"
+              ]
+            }
+          },
+          "feedback_attempts": 1,
+          "instant_feedback": true,
+          "shuffle_options": true
+        },
+        "metadata": {
+          "name": "Multiple choice – block layout",
+          "template_reference": "33d53a22-1a59-4a03-9671-7f5104edd62e"
+        }
+      },
+      "feedbackInfo": [
+        null,
+        null
+      ]
+    },
+    {
+      "response_id": "f5c34dd0-5804-43b6-9c68-a386c4f3ee1e_92dad9f9dc1ed7a51be1b10a2ef91c9e",
+      "question_type": "mcq",
+      "dt_score_updated": "2022-09-27T05:46:59Z",
+      "automarkable": true,
+      "attempted": true,
+      "score": 1,
+      "max_score": 1,
+      "question_reference": "f24e6091-c448-4b98-ab2d-9cc17ca3b463",
+      "item_reference": "b83f8850-567e-4ac9-a2ad-d6d3c8df24c8",
+      "response": {
+        "value": [
+          "6"
+        ],
+        "type": "array",
+        "apiVersion": "v2.168.23",
+        "revision": 1,
+        "feedbackAttemptsCount": 1
+      },
+      "questionInfo": {
+        "type": "mcq",
+        "widget_type": "response",
+        "reference": "f24e6091-c448-4b98-ab2d-9cc17ca3b463",
+        "data": {
+          "options": [
+            {
+              "label": "<span style=\"font-size:1.1em;\">improved our emotional bonds.</span>",
+              "value": "3"
+            },
+            {
+              "label": "<span style=\"font-size:1.1em;\">given us a better understanding of others.</span>",
+              "value": "4"
+            },
+            {
+              "label": "<span style=\"font-size:1.1em;\">given away too much of our privacy.</span>",
+              "value": "5"
+            },
+            {
+              "label": "<span style=\"font-size:1.1em;\">a negative impact on our offline behaviour.</span>",
+              "value": "6"
+            }
+          ],
+          "stimulus": "<div class=\"lrn-well\"><span style=\"font-size:1.3em;\"><b>4. Larry D. Rosen believes that social networking has...</b></span></div>\n\n<p><span style=\"font-weight: bold; color: rgb(255, 0, 0);\"></span><font color=\"#ff0000\"><b>► </b></font><b>Read the text carefully!&nbsp;</b><span style=\"font-weight:bold\"><span style=\"color:#ff0000\"><u>You have only ONE 'check answer' attempt</u>!</span></span><span style=\"font-weight: bold; color: rgb(255, 0, 0);\"></span></p>\n",
+          "type": "mcq",
+          "ui_style": {
+            "choice_label": "upper-alpha",
+            "type": "block"
+          },
+          "validation": {
+            "scoring_type": "exactMatch",
+            "valid_response": {
+              "score": 1,
+              "value": [
+                "6"
+              ]
+            }
+          },
+          "feedback_attempts": 1,
+          "instant_feedback": true,
+          "shuffle_options": true
+        },
+        "metadata": {
+          "name": "Multiple choice – block layout",
+          "template_reference": "33d53a22-1a59-4a03-9671-7f5104edd62e"
+        }
+      },
+      "feedbackInfo": [
+        null,
+        null
+      ]
+    },
+    {
+      "response_id": "f5c34dd0-5804-43b6-9c68-a386c4f3ee1e_91b51585b696426c5849875c97a7d1e1",
+      "question_type": "mcq",
+      "dt_score_updated": "2022-09-27T05:51:28Z",
+      "automarkable": true,
+      "attempted": true,
+      "score": 1,
+      "max_score": 1,
+      "question_reference": "aebc3263-a594-4b9f-abc2-ec6e7b244155",
+      "item_reference": "b83f8850-567e-4ac9-a2ad-d6d3c8df24c8",
+      "response": {
+        "value": [
+          "3"
+        ],
+        "type": "array",
+        "apiVersion": "v2.168.23",
+        "revision": 1,
+        "feedbackAttemptsCount": 1
+      },
+      "questionInfo": {
+        "type": "mcq",
+        "widget_type": "response",
+        "reference": "aebc3263-a594-4b9f-abc2-ec6e7b244155",
+        "data": {
+          "options": [
+            {
+              "label": "<span style=\"font-size:1.1em;\">interacting with friends in a less emotional manner.</span>",
+              "value": "3"
+            },
+            {
+              "label": "<span style=\"font-size:1.1em;\">going online to solve relationship issues.</span>",
+              "value": "4"
+            },
+            {
+              "label": "<span style=\"font-size:1.1em;\">thinking more carefully about their lives.</span>",
+              "value": "5"
+            },
+            {
+              "label": "<span style=\"font-size:1.1em;\">building more challenging friendships.</span>",
+              "value": "6"
+            }
+          ],
+          "stimulus": "<div class=\"lrn-well\"><span style=\"font-size:1.3em;\"><b>5. Sherry Turkle believes that technology has resulted in people...</b></span></div>\n\n<p><span style=\"font-weight: bold; color: rgb(255, 0, 0);\"></span><font color=\"#ff0000\"><b>► </b></font><b>Read the text carefully!&nbsp;</b><span style=\"font-weight:bold\"><span style=\"color:#ff0000\"><u>You have only ONE 'check answer' attempt</u>!</span></span><span style=\"font-weight: bold; color: rgb(255, 0, 0);\"></span></p>\n",
+          "type": "mcq",
+          "ui_style": {
+            "choice_label": "upper-alpha",
+            "type": "block"
+          },
+          "validation": {
+            "scoring_type": "exactMatch",
+            "valid_response": {
+              "score": 1,
+              "value": [
+                "3"
+              ]
+            }
+          },
+          "feedback_attempts": 1,
+          "instant_feedback": true,
+          "shuffle_options": true
+        },
+        "metadata": {
+          "name": "Multiple choice – block layout",
+          "template_reference": "33d53a22-1a59-4a03-9671-7f5104edd62e"
+        }
+      },
+      "feedbackInfo": [
+        null,
+        null
+      ]
+    },
+    {
+      "response_id": "f5c34dd0-5804-43b6-9c68-a386c4f3ee1e_9cdb1c6ef6990e67373b236e8534e56a",
+      "question_type": "mcq",
+      "dt_score_updated": "2022-09-27T05:53:50Z",
+      "automarkable": true,
+      "attempted": true,
+      "score": 1,
+      "max_score": 1,
+      "question_reference": "af92ebae-eca4-4676-bf2d-da0fcb53e1c1",
+      "item_reference": "b83f8850-567e-4ac9-a2ad-d6d3c8df24c8",
+      "response": {
+        "value": [
+          "6"
+        ],
+        "type": "array",
+        "apiVersion": "v2.168.23",
+        "revision": 1
+      },
+      "questionInfo": {
+        "type": "mcq",
+        "widget_type": "response",
+        "reference": "af92ebae-eca4-4676-bf2d-da0fcb53e1c1",
+        "data": {
+          "options": [
+            {
+              "label": "<span style=\"font-size:1.1em;\">consequences of increase social media exposure.</span>",
+              "value": "3"
+            },
+            {
+              "label": "<span style=\"font-size:1.1em;\">factors that cause young people to become addicted t social media</span>",
+              "value": "4"
+            },
+            {
+              "label": "<span style=\"font-size:1.1em;\">ways teachers and parents can help young people expand their offline social life.</span>",
+              "value": "5"
+            },
+            {
+              "label": "<span style=\"font-size:1.1em;\">suggestions for ways to encourage young people to modify their online behaviour.</span>",
+              "value": "6"
+            }
+          ],
+          "stimulus": "<div class=\"lrn-well\"><span style=\"font-size:1.3em;\"><b>6. &nbsp;The next part of this text will be about…</b></span></div>\n\n<p><span style=\"font-weight: bold; color: rgb(255, 0, 0);\"></span><font color=\"#ff0000\"><b>► </b></font><b>Read the text carefully!&nbsp;</b><span style=\"font-weight:bold\"><span style=\"color:#ff0000\"><u>You have only ONE 'check answer' attempt</u>!</span></span><span style=\"font-weight: bold; color: rgb(255, 0, 0);\"></span></p>\n",
+          "type": "mcq",
+          "ui_style": {
+            "choice_label": "upper-alpha",
+            "type": "block"
+          },
+          "validation": {
+            "scoring_type": "exactMatch",
+            "valid_response": {
+              "score": 1,
+              "value": [
+                "6"
+              ]
+            }
+          },
+          "feedback_attempts": 1,
+          "instant_feedback": true,
+          "shuffle_options": true
+        },
+        "metadata": {
+          "name": "Multiple choice – block layout",
+          "template_reference": "33d53a22-1a59-4a03-9671-7f5104edd62e"
+        }
+      },
+      "feedbackInfo": [
+        null,
+        null
+      ]
+    },
+    {
+      "response_id": "f5c34dd0-5804-43b6-9c68-a386c4f3ee1e_89aa86365517b882405786e546f3931b",
+      "question_type": "clozetext",
+      "dt_score_updated": "2022-09-27T06:21:10Z",
+      "automarkable": true,
+      "attempted": true,
+      "score": 11,
+      "max_score": 11,
+      "question_reference": "452860a9-4483-4da7-ae55-28e275c6ef15",
+      "item_reference": "82165788-a033-43f0-8dee-2951bfb48775",
+      "response": {
+        "value": [
+          "advancements",
+          "seek",
+          "proven",
+          "element",
+          "repercussion",
+          "occurring",
+          "permit",
+          "determine",
+          "eradicate",
+          "asserts",
+          "disconcerting"
+        ],
+        "type": "array",
+        "apiVersion": "v2.168.23",
+        "revision": 23,
+        "feedbackAttemptsCount": 26
+      },
+      "questionInfo": {
+        "type": "clozetext",
+        "widget_type": "response",
+        "reference": "452860a9-4483-4da7-ae55-28e275c6ef15",
+        "data": {
+          "stimulus": "<p><span style=\"font-size:2em;\"><strong>In the next exercise, you are going to <u><span style=\"color:#4b0082;\">find words in the text</span></u> that are&nbsp;<span style=\"color:#000080;\">SYNONYMS&nbsp;</span>of the words or phrases below.</strong></span></p>\n\n<p><img height=\"181\" src=\"https://assets.learnosity.com/organisations/755/d9655ec9-3881-472d-b4e0-6b975307c0c2.jpg\" width=\"800\"></p>\n\n<ol>\n\t<li><span style=\"font-size:1.3em;\"><strong>Start by&nbsp;</strong></span><font color=\"#0000ff\" style=\"font-size: 1.3em;\"><b>going to the text and&nbsp;reading the </b></font><font color=\"#0000ff\"><span style=\"font-size: 18.2px;\"><b>paragraph</b></span></font><font color=\"#0000ff\" style=\"font-size: 1.3em;\"><b>&nbsp;where the word is</b></font><b style=\"font-size: 1.3em;\">&nbsp;-- it's indicated in the second column.</b></li>\n\t<li><span style=\"font-size:1.3em;\"><strong>When you&nbsp;find the word in the text,&nbsp;<span style=\"color:#008000;\">write it&nbsp;in the third column</span>.</strong></span></li>\n\t<li><span style=\"font-size:1.3em;\"><strong>There is an example on the first line.</strong></span></li>\n</ol>\n\n<p>&nbsp;</p>\n\n<p><span style=\"color:#ff0000;\"><span style=\"font-size:1.1em;\"><b>► Always check your spelling carefully!</b></span></span></p>\n",
+          "template": "<table class=\"table table-condensed table-striped lrn_width_auto table-bordered\">\n\t<thead>\n\t\t<tr>\n\t\t\t<th scope=\"col\"><span style=\"color:#4b0082;\"><span style=\"font-size:1.5em;\">&nbsp; &nbsp;Definition&nbsp; &nbsp;</span></span></th>\n\t\t\t<th scope=\"col\"><font color=\"#0000ff\"><span style=\"font-size: 21px;\">Paragraph</span></font></th>\n\t\t\t<th scope=\"col\"><span style=\"color:#008000;\"><span style=\"font-size:1.5em;\">Word from the text</span></span></th>\n\t\t</tr>\n\t</thead>\n\t<tbody>\n\t\t<tr>\n\t\t\t<td><span style=\"font-size:1.3em;\">&nbsp; Included</span></td>\n\t\t\t<td class=\"text-center\"><span style=\"font-size:1.3em;\">1</span></td>\n\t\t\t<td><span style=\"font-size:1.3em;\"><em>Comprised </em></span>(one word)</td>\n\t\t</tr>\n\t\t<tr>\n\t\t\t<td><span style=\"font-size:1.3em;\">&nbsp; Developments&nbsp; &nbsp;</span></td>\n\t\t\t<td class=\"text-center\"><span style=\"font-size:1.3em;\">2</span></td>\n\t\t\t<td><span style=\"font-size:0.9em;\">{{response}}</span><span style=\"font-size:1.3em;\"><em> </em></span>(one word)</td>\n\t\t</tr>\n\t\t<tr>\n\t\t\t<td><span style=\"font-size:1.3em;\">&nbsp; ask for</span></td>\n\t\t\t<td class=\"text-center\"><span style=\"font-size:1.3em;\">3</span></td>\n\t\t\t<td><span style=\"font-size:0.9em;\">{{response}}</span><span style=\"font-size:1.3em;\"><em> </em></span>(one word)</td>\n\t\t</tr>\n\t\t<tr>\n\t\t\t<td><span style=\"font-size:1.3em;\">&nbsp; shown</span></td>\n\t\t\t<td class=\"text-center\"><span style=\"font-size:1.3em;\">4</span></td>\n\t\t\t<td><span style=\"font-size:0.9em;\">{{response}}</span><span style=\"font-size:1.3em;\"><em> </em></span>(one word)</td>\n\t\t</tr>\n\t\t<tr>\n\t\t\t<td><span style=\"font-size:1.3em;\">&nbsp; part</span></td>\n\t\t\t<td class=\"text-center\"><span style=\"font-size:1.3em;\">5</span></td>\n\t\t\t<td><span style=\"font-size:0.9em;\">{{response}}</span><span style=\"font-size:1.3em;\"><em> </em></span>(one word)</td>\n\t\t</tr>\n\t\t<tr>\n\t\t\t<td><span style=\"font-size:1.3em;\">&nbsp; effect</span></td>\n\t\t\t<td class=\"text-center\"><span style=\"font-size:1.3em;\">5</span></td>\n\t\t\t<td><span style=\"font-size:0.9em;\">{{response}}</span><span style=\"font-size:1.3em;\"><em> </em></span>(one word)</td>\n\t\t</tr>\n\t\t<tr>\n\t\t\t<td><span style=\"font-size:1.3em;\">&nbsp; happening&nbsp;</span></td>\n\t\t\t<td class=\"text-center\"><span style=\"font-size:1.3em;\">5</span></td>\n\t\t\t<td><span style=\"font-size:0.9em;\">{{response}}</span><span style=\"font-size:1.3em;\"><em> </em></span>(one word)</td>\n\t\t</tr>\n\t\t<tr>\n\t\t\t<td><span style=\"font-size:1.3em;\">&nbsp; let</span></td>\n\t\t\t<td class=\"text-center\"><span style=\"font-size:1.3em;\">6</span></td>\n\t\t\t<td><span style=\"font-size:0.9em;\">{{response}}</span><span style=\"font-size:1.3em;\"><em> </em></span>(one word)</td>\n\t\t</tr>\n\t\t<tr>\n\t\t\t<td><span style=\"font-size:1.3em;\">&nbsp; decide</span></td>\n\t\t\t<td class=\"text-center\"><span style=\"font-size:1.3em;\">6</span></td>\n\t\t\t<td><span style=\"font-size:0.9em;\">{{response}}</span><span style=\"font-size:1.3em;\"><em> </em></span>(one word)</td>\n\t\t</tr>\n\t\t<tr>\n\t\t\t<td><span style=\"font-size:1.3em;\">&nbsp; remove</span></td>\n\t\t\t<td class=\"text-center\"><span style=\"font-size:1.3em;\">6</span></td>\n\t\t\t<td><span style=\"font-size:0.9em;\">{{response}}</span><span style=\"font-size:1.3em;\"><em> </em></span>(one word)</td>\n\t\t</tr>\n\t\t<tr>\n\t\t\t<td><span style=\"font-size:1.3em;\">&nbsp; states firmly</span></td>\n\t\t\t<td class=\"text-center\"><span style=\"font-size:1.3em;\">7</span></td>\n\t\t\t<td><span style=\"font-size:0.9em;\">{{response}}</span><span style=\"font-size:1.3em;\"><em> </em></span>(one word)</td>\n\t\t</tr>\n\t\t<tr>\n\t\t\t<td><span style=\"font-size:1.3em;\">&nbsp; worrying</span></td>\n\t\t\t<td class=\"text-center\"><span style=\"font-size:1.3em;\">8</span></td>\n\t\t\t<td><span style=\"font-size:0.9em;\">{{response}}</span><span style=\"font-size:1.3em;\"><em> </em></span>(one word)</td>\n\t\t</tr>\n\t</tbody>\n</table>\n\n<p>&nbsp;</p>\n",
+          "type": "clozetext",
+          "validation": {
+            "scoring_type": "partialMatchV2",
+            "valid_response": {
+              "score": 11,
+              "value": [
+                "advancements",
+                "seek",
+                "proven",
+                "element",
+                "repercussion",
+                "occurring",
+                "permit",
+                "determine",
+                "eradicate",
+                "asserts",
+                "disconcerting"
+              ]
+            }
+          },
+          "instant_feedback": true,
+          "spellcheck": true
+        },
+        "metadata": {
+          "name": "Cloze with text",
+          "template_reference": "457fe101-0667-4a35-b193-b849653acb52"
+        }
+      },
+      "feedbackInfo": [
+        null,
+        null
+      ]
+    }
+  ]
+}

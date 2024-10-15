@@ -1,0 +1,1292 @@
+{
+  "userId": "c3d99091-f07f-4651-9ad9-4f0709f5ff44",
+  "firstName": "Yuman",
+  "lastName": "Zhang",
+  "assigmentId": "8a936caa-906a-4025-b68f-77844a4c7699",
+  "assigmentName": "Timed Reading 1",
+  "sessionId": "a9899b6a-8f68-4b8c-9033-2f985ad09251",
+  "email": "zhangy173@coventry.ac.uk",
+  "spaceId": "eccb3434-e130-4250-b8cd-8ba714fcec86",
+  "spaceName": "(Community) Presessional English (PSE London)",
+  "score": 5,
+  "max_score": 14,
+  "questions": [
+    {
+      "response_id": "a9899b6a-8f68-4b8c-9033-2f985ad09251_4a4074c17ceac41a08302b7bd81bdb05",
+      "question_type": "mcq",
+      "dt_score_updated": "2021-11-03T09:24:56Z",
+      "automarkable": true,
+      "attempted": true,
+      "score": 0,
+      "max_score": 2,
+      "question_reference": "a32809ef-3c1f-4c0c-a730-530de6c00717",
+      "item_reference": "a84adb30-6f75-42d5-889a-b4bc80aebd2d",
+      "response": {
+        "value": [
+          "0"
+        ],
+        "type": "array",
+        "apiVersion": "v2.168.12",
+        "revision": 1
+      },
+      "questionInfo": {
+        "type": "mcq",
+        "widget_type": "response",
+        "reference": "a32809ef-3c1f-4c0c-a730-530de6c00717",
+        "data": {
+          "options": [
+            {
+              "label": "<span style=\"font-size:1.3em;\">Economic factors have a significant effect on how much clothing is thrown away and need to be considered.</span>",
+              "value": "0"
+            },
+            {
+              "label": "<span style=\"font-size:1.3em;\">The most serious negative effect of the fashion industry on the environment is water pollution.</span>",
+              "value": "1"
+            },
+            {
+              "label": "<span style=\"font-size:1.3em;\">There is increasing evidence that fast fashion has a range of serious negative effects on the environment.</span>",
+              "value": "2"
+            }
+          ],
+          "stimulus": "<h2>&nbsp;</h2>\n\n<h2><span style=\"color:#0000ff;\"><b>Task 1 - Section Summaries</b></span></h2>\n\n<h3>&nbsp;</h3>\n\n<h3><b>1.1. Read Section 1 again and choose the best summary: a, b or c.</b></h3>\n\n<p><img height=\"251\" src=\"https://assets.learnosity.com/organisations/755/4a904f1d-28d4-40fe-bd4b-deb1b844458f.png\" width=\"850\"></p>\n",
+          "type": "mcq",
+          "validation": {
+            "scoring_type": "exactMatch",
+            "valid_response": {
+              "score": 2,
+              "value": [
+                "2"
+              ]
+            }
+          },
+          "ui_style": {
+            "type": "horizontal"
+          }
+        },
+        "metadata": {
+          "name": "Multiple choice – standard",
+          "template_reference": "9e8149bd-e4d8-4dd6-a751-1a113a4b9163"
+        }
+      },
+      "feedbackInfo": [
+        {
+          "id": "0707_c3d99091-f07f-4651-9ad9-4f0709f5ff44_a9899b6a-8f68-4b8c-9033-2f985ad09251_95255e8f149a31bcd34469beae589033",
+          "user_id": "c3d99091-f07f-4651-9ad9-4f0709f5ff44",
+          "response_id": "a9899b6a-8f68-4b8c-9033-2f985ad09251_95255e8f149a31bcd34469beae589033",
+          "type": "longtextV2",
+          "question": {
+            "type": "longtextV2",
+            "metadata": {
+              "source": {
+                "organisation_id": 755
+              },
+              "sheet_reference": "default_feedback",
+              "widget_reference": "de082b5f-742a-4ecf-82ca-4dc86e218fec",
+              "valid_response_count": 0
+            },
+            "stimulus": "Written feedback:",
+            "response_id": "a9899b6a-8f68-4b8c-9033-2f985ad09251_95255e8f149a31bcd34469beae589033",
+            "show_word_count": false,
+            "show_word_limit": "off"
+          },
+          "response": null,
+          "creation_date": "2021-11-03 09:56:10",
+          "mod_date": "2021-11-03 09:56:10",
+          "persist_until": "2021-11-04 09:56:10",
+          "saved": false
+        },
+        null
+      ]
+    },
+    {
+      "response_id": "a9899b6a-8f68-4b8c-9033-2f985ad09251_7ece039c6054d56492850c02cf9f49ef",
+      "question_type": "mcq",
+      "dt_score_updated": "2021-11-03T09:29:58Z",
+      "automarkable": true,
+      "attempted": true,
+      "score": 2,
+      "max_score": 2,
+      "question_reference": "773f92b3-df72-4dbb-a435-6c8a745ae5e9",
+      "item_reference": "a84adb30-6f75-42d5-889a-b4bc80aebd2d",
+      "response": {
+        "value": [
+          "1"
+        ],
+        "type": "array",
+        "apiVersion": "v2.168.12",
+        "revision": 1
+      },
+      "questionInfo": {
+        "type": "mcq",
+        "widget_type": "response",
+        "reference": "773f92b3-df72-4dbb-a435-6c8a745ae5e9",
+        "data": {
+          "options": [
+            {
+              "label": "<span style=\"font-size:1.3em;\">The fashion industry can help the poor by designing more practical hard-wearing clothing.</span>",
+              "value": "0"
+            },
+            {
+              "label": "<span style=\"font-size:1.3em;\">Good design can reduce consumption as has been shown by a successful charitable collaboration.</span>",
+              "value": "1"
+            },
+            {
+              "label": "<span style=\"font-size:1.3em;\">Fashion designers can teach the public how to adapt their clothing for year-round use.</span>",
+              "value": "2"
+            }
+          ],
+          "stimulus": "<p>&nbsp;</p>\n\n<p>&nbsp;</p>\n\n<h3><b>1.2. Read <u>Section 4</u> again and choose the best summary: a, b or c.</b></h3>\n\n<p><img height=\"452\" src=\"https://assets.learnosity.com/organisations/755/2d07be6f-6f13-423b-9fc8-16cb6169f1f8.png\" width=\"1001\" /></p>\n",
+          "type": "mcq",
+          "validation": {
+            "scoring_type": "exactMatch",
+            "valid_response": {
+              "score": 2,
+              "value": [
+                "1"
+              ]
+            }
+          },
+          "ui_style": {
+            "type": "horizontal"
+          }
+        },
+        "metadata": {
+          "name": "Multiple choice – standard",
+          "template_reference": "9e8149bd-e4d8-4dd6-a751-1a113a4b9163"
+        }
+      },
+      "feedbackInfo": [
+        {
+          "id": "0707_c3d99091-f07f-4651-9ad9-4f0709f5ff44_a9899b6a-8f68-4b8c-9033-2f985ad09251_6d779eedc7796680cf8441a99013875d",
+          "user_id": "c3d99091-f07f-4651-9ad9-4f0709f5ff44",
+          "response_id": "a9899b6a-8f68-4b8c-9033-2f985ad09251_6d779eedc7796680cf8441a99013875d",
+          "type": "longtextV2",
+          "question": {
+            "type": "longtextV2",
+            "metadata": {
+              "source": {
+                "organisation_id": 755
+              },
+              "sheet_reference": "default_feedback",
+              "widget_reference": "de082b5f-742a-4ecf-82ca-4dc86e218fec",
+              "valid_response_count": 0
+            },
+            "stimulus": "Written feedback:",
+            "response_id": "a9899b6a-8f68-4b8c-9033-2f985ad09251_6d779eedc7796680cf8441a99013875d",
+            "show_word_count": false,
+            "show_word_limit": "off"
+          },
+          "response": null,
+          "creation_date": "2021-11-03 09:56:10",
+          "mod_date": "2021-11-03 09:56:10",
+          "persist_until": "2021-11-04 09:56:10",
+          "saved": false
+        },
+        null
+      ]
+    },
+    {
+      "response_id": "a9899b6a-8f68-4b8c-9033-2f985ad09251_fc597d746843be5e34f1eb4dc7d66a4d",
+      "question_type": "mcq",
+      "dt_score_updated": "2021-11-03T09:33:34Z",
+      "automarkable": true,
+      "attempted": true,
+      "score": 0,
+      "max_score": 2,
+      "question_reference": "44f39719-5eb3-443d-80c2-be06bba70e83",
+      "item_reference": "a84adb30-6f75-42d5-889a-b4bc80aebd2d",
+      "response": {
+        "value": [
+          "2"
+        ],
+        "type": "array",
+        "apiVersion": "v2.168.12",
+        "revision": 1
+      },
+      "questionInfo": {
+        "type": "mcq",
+        "widget_type": "response",
+        "reference": "44f39719-5eb3-443d-80c2-be06bba70e83",
+        "data": {
+          "options": [
+            {
+              "label": "<span style=\"font-size:1.3em;\">Offering the fashion industry financial rewards.</span>",
+              "value": "0"
+            },
+            {
+              "label": "<span style=\"font-size:1.3em;\">Providing better conditions for workers.</span>",
+              "value": "1"
+            },
+            {
+              "label": "<span style=\"font-size:1.3em;\">Subsidising eco-friendly farming.</span>",
+              "value": "2"
+            },
+            {
+              "label": "<span style=\"font-size:1.3em;\">Encouraging consumers to shop more responsibly.</span>",
+              "value": "3"
+            }
+          ],
+          "stimulus": "<h1>&nbsp;</h1>\n\n<h2><span style=\"color:#0000ff;\"><b>Task 2 - Main ideas and supporting points</b></span></h2>\n\n<p>&nbsp;</p>\n\n<p><img height=\"59\" src=\"https://assets.learnosity.com/organisations/755/5d368dc9-a156-4efe-a5c7-ed191659919c.png\" width=\"853\"></p>\n",
+          "type": "mcq",
+          "validation": {
+            "scoring_type": "exactMatch",
+            "valid_response": {
+              "score": 2,
+              "value": [
+                "0"
+              ]
+            }
+          },
+          "ui_style": {
+            "type": "horizontal"
+          }
+        },
+        "metadata": {
+          "name": "Multiple choice – standard",
+          "template_reference": "9e8149bd-e4d8-4dd6-a751-1a113a4b9163"
+        }
+      },
+      "feedbackInfo": [
+        {
+          "id": "0707_c3d99091-f07f-4651-9ad9-4f0709f5ff44_a9899b6a-8f68-4b8c-9033-2f985ad09251_f0b444441543f82cb4a876a28480b086",
+          "user_id": "c3d99091-f07f-4651-9ad9-4f0709f5ff44",
+          "response_id": "a9899b6a-8f68-4b8c-9033-2f985ad09251_f0b444441543f82cb4a876a28480b086",
+          "type": "longtextV2",
+          "question": {
+            "type": "longtextV2",
+            "metadata": {
+              "source": {
+                "organisation_id": 755
+              },
+              "sheet_reference": "default_feedback",
+              "widget_reference": "de082b5f-742a-4ecf-82ca-4dc86e218fec",
+              "valid_response_count": 0
+            },
+            "stimulus": "Written feedback:",
+            "response_id": "a9899b6a-8f68-4b8c-9033-2f985ad09251_f0b444441543f82cb4a876a28480b086",
+            "show_word_count": false,
+            "show_word_limit": "off"
+          },
+          "response": null,
+          "creation_date": "2021-11-03 09:56:11",
+          "mod_date": "2021-11-03 09:56:11",
+          "persist_until": "2021-11-04 09:56:11",
+          "saved": false
+        },
+        null
+      ]
+    },
+    {
+      "response_id": "a9899b6a-8f68-4b8c-9033-2f985ad09251_4f358f79b195ce4a6225cd1e7ce4400f",
+      "question_type": "mcq",
+      "dt_score_updated": "2021-11-03T09:34:20Z",
+      "automarkable": true,
+      "attempted": true,
+      "score": 0,
+      "max_score": 2,
+      "question_reference": "c78001ab-9751-4be8-bf53-4db666dcc0cd",
+      "item_reference": "a84adb30-6f75-42d5-889a-b4bc80aebd2d",
+      "response": {
+        "value": [
+          "0"
+        ],
+        "type": "array",
+        "apiVersion": "v2.168.12",
+        "revision": 1
+      },
+      "questionInfo": {
+        "type": "mcq",
+        "widget_type": "response",
+        "reference": "c78001ab-9751-4be8-bf53-4db666dcc0cd",
+        "data": {
+          "options": [
+            {
+              "label": "<span style=\"font-size:1.3em;\">Make their clothes last longer.</span>",
+              "value": "0"
+            },
+            {
+              "label": "<span style=\"font-size:1.3em;\">Spend less money on clothes.</span>",
+              "value": "1"
+            },
+            {
+              "label": "<span style=\"font-size:1.3em;\">Be more aware of how they consume.</span>",
+              "value": "2"
+            },
+            {
+              "label": "<span style=\"font-size:1.3em;\">Buy sustainable clothing.</span>",
+              "value": "3"
+            }
+          ],
+          "stimulus": "<p>&nbsp;</p>\n\n<p><img height=\"45\" src=\"https://assets.learnosity.com/organisations/755/cd0bfb8b-350a-4dc0-8f98-34408af1dcd1.png\" width=\"848\"></p>\n",
+          "type": "mcq",
+          "validation": {
+            "scoring_type": "exactMatch",
+            "valid_response": {
+              "score": 2,
+              "value": [
+                "2"
+              ]
+            }
+          },
+          "ui_style": {
+            "type": "horizontal"
+          }
+        },
+        "metadata": {
+          "name": "Multiple choice – standard",
+          "template_reference": "9e8149bd-e4d8-4dd6-a751-1a113a4b9163"
+        }
+      },
+      "feedbackInfo": [
+        {
+          "id": "0707_c3d99091-f07f-4651-9ad9-4f0709f5ff44_a9899b6a-8f68-4b8c-9033-2f985ad09251_d77ddbac9aa1c427a8cac203f0a09dc2",
+          "user_id": "c3d99091-f07f-4651-9ad9-4f0709f5ff44",
+          "response_id": "a9899b6a-8f68-4b8c-9033-2f985ad09251_d77ddbac9aa1c427a8cac203f0a09dc2",
+          "type": "longtextV2",
+          "question": {
+            "type": "longtextV2",
+            "metadata": {
+              "source": {
+                "organisation_id": 755
+              },
+              "sheet_reference": "default_feedback",
+              "widget_reference": "de082b5f-742a-4ecf-82ca-4dc86e218fec",
+              "valid_response_count": 0
+            },
+            "stimulus": "Written feedback:",
+            "response_id": "a9899b6a-8f68-4b8c-9033-2f985ad09251_d77ddbac9aa1c427a8cac203f0a09dc2",
+            "show_word_count": false,
+            "show_word_limit": "off"
+          },
+          "response": null,
+          "creation_date": "2021-11-03 09:56:11",
+          "mod_date": "2021-11-03 09:56:11",
+          "persist_until": "2021-11-04 09:56:11",
+          "saved": false
+        },
+        null
+      ]
+    },
+    {
+      "response_id": "a9899b6a-8f68-4b8c-9033-2f985ad09251_11a6899b404ab0e65ca9d5ae2e9d5a58",
+      "question_type": "mcq",
+      "dt_score_updated": "2021-11-03T09:40:11Z",
+      "automarkable": true,
+      "attempted": true,
+      "score": 1,
+      "max_score": 1,
+      "question_reference": "2de37990-0958-4c6b-acb1-3c669ab2d717",
+      "item_reference": "a84adb30-6f75-42d5-889a-b4bc80aebd2d",
+      "response": {
+        "value": [
+          "1"
+        ],
+        "type": "array",
+        "apiVersion": "v2.168.12",
+        "revision": 1
+      },
+      "questionInfo": {
+        "type": "mcq",
+        "widget_type": "response",
+        "reference": "2de37990-0958-4c6b-acb1-3c669ab2d717",
+        "data": {
+          "options": [
+            {
+              "label": "<span style=\"font-size:1.3em;\">True</span>",
+              "value": "0"
+            },
+            {
+              "label": "<span style=\"font-size:1.3em;\">False</span>",
+              "value": "1"
+            }
+          ],
+          "stimulus": "<h1>&nbsp;</h1>\n\n<h2><br>\n<span style=\"color:#0000ff;\"><strong>Task 3 - True / False and Justify</strong></span></h2>\n\n<h3><b>Use the information in the text&nbsp;to decide if the sentences are TRUE or FALSE.&nbsp;<br>\nJustify your answer with a sentence from text B.</b></h3>\n\n<p>&nbsp;</p>\n\n<p><img height=\"60\" src=\"https://assets.learnosity.com/organisations/755/ddaf6736-3a5c-45f4-b583-7e7e2964dff0.png\" width=\"845\"></p>\n",
+          "type": "mcq",
+          "ui_style": {
+            "type": "horizontal"
+          },
+          "validation": {
+            "scoring_type": "exactMatch",
+            "valid_response": {
+              "score": 1,
+              "value": [
+                "1"
+              ]
+            }
+          }
+        },
+        "metadata": {
+          "name": "True or false",
+          "template_reference": "3egs0b24-5gs8-49fc-fds9-4a450sdg31ca"
+        }
+      },
+      "feedbackInfo": [
+        {
+          "id": "0707_c3d99091-f07f-4651-9ad9-4f0709f5ff44_a9899b6a-8f68-4b8c-9033-2f985ad09251_d363547c7bccd786d2373bc5fad21891",
+          "user_id": "c3d99091-f07f-4651-9ad9-4f0709f5ff44",
+          "response_id": "a9899b6a-8f68-4b8c-9033-2f985ad09251_d363547c7bccd786d2373bc5fad21891",
+          "type": "longtextV2",
+          "question": {
+            "type": "longtextV2",
+            "metadata": {
+              "source": {
+                "organisation_id": 755
+              },
+              "sheet_reference": "default_feedback",
+              "widget_reference": "de082b5f-742a-4ecf-82ca-4dc86e218fec",
+              "valid_response_count": 0
+            },
+            "stimulus": "Written feedback:",
+            "response_id": "a9899b6a-8f68-4b8c-9033-2f985ad09251_d363547c7bccd786d2373bc5fad21891",
+            "show_word_count": false,
+            "show_word_limit": "off"
+          },
+          "response": null,
+          "creation_date": "2021-11-03 09:56:11",
+          "mod_date": "2021-11-03 09:56:11",
+          "persist_until": "2021-11-04 09:56:11",
+          "saved": false
+        },
+        null
+      ]
+    },
+    {
+      "response_id": "a9899b6a-8f68-4b8c-9033-2f985ad09251_602bbbd4f4679744f3ed481510b4454a",
+      "question_type": "plaintext",
+      "dt_score_updated": "2021-11-03T09:40:46Z",
+      "automarkable": false,
+      "attempted": true,
+      "score": null,
+      "max_score": null,
+      "question_reference": "2ecfeb1a-9800-4779-afec-477c138a85bf",
+      "item_reference": "a84adb30-6f75-42d5-889a-b4bc80aebd2d",
+      "response": {
+        "value": "There is some interesting data which supports the need to reduce the amount of clothing sustainability in fashion does not necessarily only relate to using sustainable raw materials in the production of clothing and footwear.",
+        "wordCount": 35,
+        "type": "string",
+        "apiVersion": "v2.168.12",
+        "revision": 7
+      },
+      "questionInfo": {
+        "type": "plaintext",
+        "widget_type": "response",
+        "reference": "2ecfeb1a-9800-4779-afec-477c138a85bf",
+        "data": {
+          "stimulus": "<span style=\"font-size:1.5em;\">Justify your answer with a sentence from the text.</span>",
+          "spellcheck": true,
+          "type": "plaintext",
+          "metadata": {
+            "sample_answer": "<h5>Sustainability in fashion does not necessarily only relate to using sustainable raw materials in the production of clothing and footwear – over-consumption driven by a highly competitive fashion industry is just as much of an issue.</h5>\n"
+          },
+          "max_length": 200,
+          "show_word_limit": "on-limit",
+          "validation": {
+            "max_score": 1
+          }
+        },
+        "metadata": {
+          "name": "Essay with plain text",
+          "template_reference": "0f559437-5072-475e-830d-1fa9d2f6bb0d"
+        }
+      },
+      "feedbackInfo": [
+        {
+          "id": "0707_c3d99091-f07f-4651-9ad9-4f0709f5ff44_a9899b6a-8f68-4b8c-9033-2f985ad09251_6d4c8c5ccb3e6276331f6054886bb6e7",
+          "user_id": "c3d99091-f07f-4651-9ad9-4f0709f5ff44",
+          "response_id": "a9899b6a-8f68-4b8c-9033-2f985ad09251_6d4c8c5ccb3e6276331f6054886bb6e7",
+          "type": "longtextV2",
+          "question": {
+            "type": "longtextV2",
+            "metadata": {
+              "source": {
+                "organisation_id": 755
+              },
+              "sheet_reference": "default_feedback",
+              "widget_reference": "de082b5f-742a-4ecf-82ca-4dc86e218fec",
+              "valid_response_count": 0
+            },
+            "stimulus": "Written feedback:",
+            "response_id": "a9899b6a-8f68-4b8c-9033-2f985ad09251_6d4c8c5ccb3e6276331f6054886bb6e7",
+            "show_word_count": false,
+            "show_word_limit": "off"
+          },
+          "response": null,
+          "creation_date": "2021-11-03 09:56:12",
+          "mod_date": "2021-11-03 09:56:12",
+          "persist_until": "2021-11-04 09:56:12",
+          "saved": false
+        },
+        null
+      ]
+    },
+    {
+      "response_id": "a9899b6a-8f68-4b8c-9033-2f985ad09251_cd2305e93a43448c0b72eda5318426c7",
+      "question_type": "mcq",
+      "dt_score_updated": "2021-11-03T09:43:38Z",
+      "automarkable": true,
+      "attempted": true,
+      "score": 0,
+      "max_score": 1,
+      "question_reference": "f43a2e0d-87e0-4d9f-93b8-bb1bfb8ec6c5",
+      "item_reference": "a84adb30-6f75-42d5-889a-b4bc80aebd2d",
+      "response": {
+        "value": [
+          "1"
+        ],
+        "type": "array",
+        "apiVersion": "v2.168.12",
+        "revision": 1
+      },
+      "questionInfo": {
+        "type": "mcq",
+        "widget_type": "response",
+        "reference": "f43a2e0d-87e0-4d9f-93b8-bb1bfb8ec6c5",
+        "data": {
+          "options": [
+            {
+              "label": "<span style=\"font-size:1.3em;\">True</span>",
+              "value": "0"
+            },
+            {
+              "label": "<span style=\"font-size:1.3em;\">False</span>",
+              "value": "1"
+            }
+          ],
+          "stimulus": "<p>&nbsp;</p>\n\n<p>&nbsp;</p>\n\n<p><img height=\"42\" src=\"https://assets.learnosity.com/organisations/755/8af244b2-4947-42a3-a62d-e77785deed22.png\" width=\"846\"></p>\n",
+          "type": "mcq",
+          "ui_style": {
+            "type": "horizontal"
+          },
+          "validation": {
+            "scoring_type": "exactMatch",
+            "valid_response": {
+              "score": 1,
+              "value": [
+                "0"
+              ]
+            }
+          }
+        },
+        "metadata": {
+          "name": "True or false",
+          "template_reference": "3egs0b24-5gs8-49fc-fds9-4a450sdg31ca"
+        }
+      },
+      "feedbackInfo": [
+        {
+          "id": "0707_c3d99091-f07f-4651-9ad9-4f0709f5ff44_a9899b6a-8f68-4b8c-9033-2f985ad09251_25384cb354e870462ebc923c28f3b6d9",
+          "user_id": "c3d99091-f07f-4651-9ad9-4f0709f5ff44",
+          "response_id": "a9899b6a-8f68-4b8c-9033-2f985ad09251_25384cb354e870462ebc923c28f3b6d9",
+          "type": "longtextV2",
+          "question": {
+            "type": "longtextV2",
+            "metadata": {
+              "source": {
+                "organisation_id": 755
+              },
+              "sheet_reference": "default_feedback",
+              "widget_reference": "de082b5f-742a-4ecf-82ca-4dc86e218fec",
+              "valid_response_count": 0
+            },
+            "stimulus": "Written feedback:",
+            "response_id": "a9899b6a-8f68-4b8c-9033-2f985ad09251_25384cb354e870462ebc923c28f3b6d9",
+            "show_word_count": false,
+            "show_word_limit": "off"
+          },
+          "response": null,
+          "creation_date": "2021-11-03 09:56:12",
+          "mod_date": "2021-11-03 09:56:12",
+          "persist_until": "2021-11-04 09:56:12",
+          "saved": false
+        },
+        null
+      ]
+    },
+    {
+      "response_id": "a9899b6a-8f68-4b8c-9033-2f985ad09251_d0cff73bd10aadb7ea47a729606f0e61",
+      "question_type": "plaintext",
+      "dt_score_updated": "2021-11-03T09:08:53Z",
+      "automarkable": false,
+      "attempted": false,
+      "score": null,
+      "max_score": null,
+      "question_reference": "90caafcc-2c18-4fa6-8345-91785e22de3a",
+      "item_reference": "a84adb30-6f75-42d5-889a-b4bc80aebd2d",
+      "response": null,
+      "questionInfo": {
+        "type": "plaintext",
+        "widget_type": "response",
+        "reference": "90caafcc-2c18-4fa6-8345-91785e22de3a",
+        "data": {
+          "stimulus": "<span style=\"font-size:1.5em;\">Justify your answer with a sentence from the text.</span>",
+          "spellcheck": true,
+          "type": "plaintext",
+          "metadata": {
+            "sample_answer": "<h5>There are a considerable number of such places, even in the generally more prosperous south of the UK, where&nbsp;unemployment is significantly higher than elsewhere and where garments, no matter what their quality or cost, are less likely to be disposed of.</h5>\n"
+          },
+          "max_length": 200,
+          "show_word_limit": "on-limit",
+          "validation": {
+            "max_score": 1
+          }
+        },
+        "metadata": {
+          "name": "Essay with plain text",
+          "template_reference": "0f559437-5072-475e-830d-1fa9d2f6bb0d"
+        }
+      },
+      "feedbackInfo": [
+        {
+          "id": "0707_c3d99091-f07f-4651-9ad9-4f0709f5ff44_a9899b6a-8f68-4b8c-9033-2f985ad09251_eaab11c3b3da02afcd008116c186f439",
+          "user_id": "c3d99091-f07f-4651-9ad9-4f0709f5ff44",
+          "response_id": "a9899b6a-8f68-4b8c-9033-2f985ad09251_eaab11c3b3da02afcd008116c186f439",
+          "type": "longtextV2",
+          "question": {
+            "type": "longtextV2",
+            "metadata": {
+              "source": {
+                "organisation_id": 755
+              },
+              "sheet_reference": "default_feedback",
+              "widget_reference": "de082b5f-742a-4ecf-82ca-4dc86e218fec",
+              "valid_response_count": 0
+            },
+            "stimulus": "Written feedback:",
+            "response_id": "a9899b6a-8f68-4b8c-9033-2f985ad09251_eaab11c3b3da02afcd008116c186f439",
+            "show_word_count": false,
+            "show_word_limit": "off"
+          },
+          "response": null,
+          "creation_date": "2021-11-03 09:56:13",
+          "mod_date": "2021-11-03 09:56:13",
+          "persist_until": "2021-11-04 09:56:13",
+          "saved": false
+        },
+        null
+      ]
+    },
+    {
+      "response_id": "a9899b6a-8f68-4b8c-9033-2f985ad09251_b3c387e2ef7725a8599f85c4372e003f",
+      "question_type": "mcq",
+      "dt_score_updated": "2021-11-03T09:43:52Z",
+      "automarkable": true,
+      "attempted": true,
+      "score": 1,
+      "max_score": 1,
+      "question_reference": "b9e5f0ef-8aab-4ea9-8981-7da5019d5c0f",
+      "item_reference": "a84adb30-6f75-42d5-889a-b4bc80aebd2d",
+      "response": {
+        "value": [
+          "1"
+        ],
+        "type": "array",
+        "apiVersion": "v2.168.12",
+        "revision": 1
+      },
+      "questionInfo": {
+        "type": "mcq",
+        "widget_type": "response",
+        "reference": "b9e5f0ef-8aab-4ea9-8981-7da5019d5c0f",
+        "data": {
+          "options": [
+            {
+              "label": "<span style=\"font-size:1.3em;\">True</span>",
+              "value": "0"
+            },
+            {
+              "label": "<span style=\"font-size:1.3em;\">False</span>",
+              "value": "1"
+            }
+          ],
+          "stimulus": "<p>&nbsp;</p>\n\n<p>&nbsp;</p>\n\n<p><img height=\"61\" src=\"https://assets.learnosity.com/organisations/755/bfc8029c-3916-4811-9166-f93f415a7819.png\" width=\"855\"></p>\n",
+          "type": "mcq",
+          "ui_style": {
+            "type": "horizontal"
+          },
+          "validation": {
+            "scoring_type": "exactMatch",
+            "valid_response": {
+              "score": 1,
+              "value": [
+                "1"
+              ]
+            }
+          }
+        },
+        "metadata": {
+          "name": "True or false",
+          "template_reference": "3egs0b24-5gs8-49fc-fds9-4a450sdg31ca"
+        }
+      },
+      "feedbackInfo": [
+        {
+          "id": "0707_c3d99091-f07f-4651-9ad9-4f0709f5ff44_a9899b6a-8f68-4b8c-9033-2f985ad09251_60d9b80fe50a6d8f15cad205758c9f4c",
+          "user_id": "c3d99091-f07f-4651-9ad9-4f0709f5ff44",
+          "response_id": "a9899b6a-8f68-4b8c-9033-2f985ad09251_60d9b80fe50a6d8f15cad205758c9f4c",
+          "type": "longtextV2",
+          "question": {
+            "type": "longtextV2",
+            "metadata": {
+              "source": {
+                "organisation_id": 755
+              },
+              "sheet_reference": "default_feedback",
+              "widget_reference": "de082b5f-742a-4ecf-82ca-4dc86e218fec",
+              "valid_response_count": 0
+            },
+            "stimulus": "Written feedback:",
+            "response_id": "a9899b6a-8f68-4b8c-9033-2f985ad09251_60d9b80fe50a6d8f15cad205758c9f4c",
+            "show_word_count": false,
+            "show_word_limit": "off"
+          },
+          "response": null,
+          "creation_date": "2021-11-03 09:56:13",
+          "mod_date": "2021-11-03 09:56:13",
+          "persist_until": "2021-11-04 09:56:13",
+          "saved": false
+        },
+        null
+      ]
+    },
+    {
+      "response_id": "a9899b6a-8f68-4b8c-9033-2f985ad09251_2c687e5be556e6fff5fd45c3777e4abd",
+      "question_type": "plaintext",
+      "dt_score_updated": "2021-11-03T09:08:53Z",
+      "automarkable": false,
+      "attempted": false,
+      "score": null,
+      "max_score": null,
+      "question_reference": "8819a2f2-8e39-4e74-a591-0a0fb69360a4",
+      "item_reference": "a84adb30-6f75-42d5-889a-b4bc80aebd2d",
+      "response": null,
+      "questionInfo": {
+        "type": "plaintext",
+        "widget_type": "response",
+        "reference": "8819a2f2-8e39-4e74-a591-0a0fb69360a4",
+        "data": {
+          "stimulus": "<span style=\"font-size:1.5em;\">Justify your answer with a sentence from the text.</span>",
+          "spellcheck": true,
+          "type": "plaintext",
+          "metadata": {
+            "sample_answer": "<h5>Students suffering with increased tuition fees at UK universities will certainly appreciate this approach to acquiring designer-label clothes at considerably reduced cost</h5>\n"
+          },
+          "max_length": 200,
+          "show_word_limit": "on-limit",
+          "validation": {
+            "max_score": 1
+          }
+        },
+        "metadata": {
+          "name": "Essay with plain text",
+          "template_reference": "0f559437-5072-475e-830d-1fa9d2f6bb0d"
+        }
+      },
+      "feedbackInfo": [
+        {
+          "id": "0707_c3d99091-f07f-4651-9ad9-4f0709f5ff44_a9899b6a-8f68-4b8c-9033-2f985ad09251_f9783f9deb36eb375c80d8bb0b7109e9",
+          "user_id": "c3d99091-f07f-4651-9ad9-4f0709f5ff44",
+          "response_id": "a9899b6a-8f68-4b8c-9033-2f985ad09251_f9783f9deb36eb375c80d8bb0b7109e9",
+          "type": "longtextV2",
+          "question": {
+            "type": "longtextV2",
+            "metadata": {
+              "source": {
+                "organisation_id": 755
+              },
+              "sheet_reference": "default_feedback",
+              "widget_reference": "de082b5f-742a-4ecf-82ca-4dc86e218fec",
+              "valid_response_count": 0
+            },
+            "stimulus": "Written feedback:",
+            "response_id": "a9899b6a-8f68-4b8c-9033-2f985ad09251_f9783f9deb36eb375c80d8bb0b7109e9",
+            "show_word_count": false,
+            "show_word_limit": "off"
+          },
+          "response": null,
+          "creation_date": "2021-11-03 09:56:13",
+          "mod_date": "2021-11-03 09:56:13",
+          "persist_until": "2021-11-04 09:56:13",
+          "saved": false
+        },
+        null
+      ]
+    },
+    {
+      "response_id": "a9899b6a-8f68-4b8c-9033-2f985ad09251_c145ef0e912361a63f1fe4df2dbedd53",
+      "question_type": "mcq",
+      "dt_score_updated": "2021-11-03T09:44:08Z",
+      "automarkable": true,
+      "attempted": true,
+      "score": 0,
+      "max_score": 1,
+      "question_reference": "c36f34e5-486e-4484-908c-806c88f80b98",
+      "item_reference": "a84adb30-6f75-42d5-889a-b4bc80aebd2d",
+      "response": {
+        "value": [
+          "3"
+        ],
+        "type": "array",
+        "apiVersion": "v2.168.12",
+        "revision": 1
+      },
+      "questionInfo": {
+        "type": "mcq",
+        "widget_type": "response",
+        "reference": "c36f34e5-486e-4484-908c-806c88f80b98",
+        "data": {
+          "options": [
+            {
+              "label": "<span style=\"font-size:1.3em;\">beneficial</span>",
+              "value": "0"
+            },
+            {
+              "label": "<span style=\"font-size:1.3em;\">sustainable</span>",
+              "value": "1"
+            },
+            {
+              "label": "<span style=\"font-size:1.3em;\">growing</span>",
+              "value": "2"
+            },
+            {
+              "label": "<span style=\"font-size:1.3em;\">decreasing</span>",
+              "value": "3"
+            }
+          ],
+          "stimulus": "<h1>&nbsp;</h1>\n\n<h2><span style=\"color:#0000ff;\"><strong>Task 4 -&nbsp;<b id=\"yui_3_17_2_1_1626859631912_270\">Vocabulary.</b></strong></span></h2>\n\n<h3><b id=\"yui_3_17_2_1_1626859631912_270\">Choose the best synonym for&nbsp;the&nbsp;<u>underlined</u>&nbsp;word.</b></h3>\n\n<p>&nbsp;</p>\n\n<p><img height=\"62\" src=\"https://assets.learnosity.com/organisations/755/6e1e4c91-1c53-4ae8-bd3d-00388888953c.png\" width=\"846\" /></p>\n",
+          "type": "mcq",
+          "validation": {
+            "scoring_type": "exactMatch",
+            "valid_response": {
+              "score": 1,
+              "value": [
+                "2"
+              ]
+            }
+          },
+          "ui_style": {
+            "type": "horizontal"
+          }
+        },
+        "metadata": {
+          "name": "Multiple choice – standard",
+          "template_reference": "9e8149bd-e4d8-4dd6-a751-1a113a4b9163"
+        }
+      },
+      "feedbackInfo": [
+        {
+          "id": "0707_c3d99091-f07f-4651-9ad9-4f0709f5ff44_a9899b6a-8f68-4b8c-9033-2f985ad09251_c19ca41b9661b119b1e0c0b881f59ccc",
+          "user_id": "c3d99091-f07f-4651-9ad9-4f0709f5ff44",
+          "response_id": "a9899b6a-8f68-4b8c-9033-2f985ad09251_c19ca41b9661b119b1e0c0b881f59ccc",
+          "type": "longtextV2",
+          "question": {
+            "type": "longtextV2",
+            "metadata": {
+              "source": {
+                "organisation_id": 755
+              },
+              "sheet_reference": "default_feedback",
+              "widget_reference": "de082b5f-742a-4ecf-82ca-4dc86e218fec",
+              "valid_response_count": 0
+            },
+            "stimulus": "Written feedback:",
+            "response_id": "a9899b6a-8f68-4b8c-9033-2f985ad09251_c19ca41b9661b119b1e0c0b881f59ccc",
+            "show_word_count": false,
+            "show_word_limit": "off"
+          },
+          "response": null,
+          "creation_date": "2021-11-03 09:56:14",
+          "mod_date": "2021-11-03 09:56:14",
+          "persist_until": "2021-11-04 09:56:14",
+          "saved": false
+        },
+        null
+      ]
+    },
+    {
+      "response_id": "a9899b6a-8f68-4b8c-9033-2f985ad09251_c4aaf4385c020798ecec714f7821938e",
+      "question_type": "mcq",
+      "dt_score_updated": "2021-11-03T09:44:23Z",
+      "automarkable": true,
+      "attempted": true,
+      "score": 1,
+      "max_score": 1,
+      "question_reference": "5a13ac5f-197c-414e-a9a1-5cec8beabd27",
+      "item_reference": "a84adb30-6f75-42d5-889a-b4bc80aebd2d",
+      "response": {
+        "value": [
+          "3"
+        ],
+        "type": "array",
+        "apiVersion": "v2.168.12",
+        "revision": 1
+      },
+      "questionInfo": {
+        "type": "mcq",
+        "widget_type": "response",
+        "reference": "5a13ac5f-197c-414e-a9a1-5cec8beabd27",
+        "data": {
+          "options": [
+            {
+              "label": "<span style=\"font-size:1.3em;\">business</span>",
+              "value": "0"
+            },
+            {
+              "label": "<span style=\"font-size:1.3em;\">problem</span>",
+              "value": "1"
+            },
+            {
+              "label": "<span style=\"font-size:1.3em;\">product</span>",
+              "value": "2"
+            },
+            {
+              "label": "<span style=\"font-size:1.3em;\">idea</span>",
+              "value": "3"
+            }
+          ],
+          "stimulus": "<p>&nbsp;</p>\n\n<p><img height=\"62\" src=\"https://assets.learnosity.com/organisations/755/22a99a8a-e8ad-426b-b082-31ee7d45f867.png\" width=\"855\"></p>\n",
+          "type": "mcq",
+          "validation": {
+            "scoring_type": "exactMatch",
+            "valid_response": {
+              "score": 1,
+              "value": [
+                "3"
+              ]
+            }
+          },
+          "ui_style": {
+            "type": "horizontal"
+          }
+        },
+        "metadata": {
+          "name": "Multiple choice – standard",
+          "template_reference": "9e8149bd-e4d8-4dd6-a751-1a113a4b9163"
+        }
+      },
+      "feedbackInfo": [
+        {
+          "id": "0707_c3d99091-f07f-4651-9ad9-4f0709f5ff44_a9899b6a-8f68-4b8c-9033-2f985ad09251_b42f86e4a0730f85539aa4555196fa55",
+          "user_id": "c3d99091-f07f-4651-9ad9-4f0709f5ff44",
+          "response_id": "a9899b6a-8f68-4b8c-9033-2f985ad09251_b42f86e4a0730f85539aa4555196fa55",
+          "type": "longtextV2",
+          "question": {
+            "type": "longtextV2",
+            "metadata": {
+              "source": {
+                "organisation_id": 755
+              },
+              "sheet_reference": "default_feedback",
+              "widget_reference": "de082b5f-742a-4ecf-82ca-4dc86e218fec",
+              "valid_response_count": 0
+            },
+            "stimulus": "Written feedback:",
+            "response_id": "a9899b6a-8f68-4b8c-9033-2f985ad09251_b42f86e4a0730f85539aa4555196fa55",
+            "show_word_count": false,
+            "show_word_limit": "off"
+          },
+          "response": null,
+          "creation_date": "2021-11-03 09:56:14",
+          "mod_date": "2021-11-03 09:56:14",
+          "persist_until": "2021-11-04 09:56:14",
+          "saved": false
+        },
+        null
+      ]
+    },
+    {
+      "response_id": "a9899b6a-8f68-4b8c-9033-2f985ad09251_8c5c84275dae4d342cb270c4c4129a05",
+      "question_type": "mcq",
+      "dt_score_updated": "2021-11-03T09:44:43Z",
+      "automarkable": true,
+      "attempted": true,
+      "score": 0,
+      "max_score": 1,
+      "question_reference": "36e32063-c8e7-4529-a685-40b33d9506e8",
+      "item_reference": "a84adb30-6f75-42d5-889a-b4bc80aebd2d",
+      "response": {
+        "value": [
+          "3"
+        ],
+        "type": "array",
+        "apiVersion": "v2.168.12",
+        "revision": 1
+      },
+      "questionInfo": {
+        "type": "mcq",
+        "widget_type": "response",
+        "reference": "36e32063-c8e7-4529-a685-40b33d9506e8",
+        "data": {
+          "options": [
+            {
+              "label": "<span style=\"font-size:1.3em;\">industrial</span>",
+              "value": "0"
+            },
+            {
+              "label": "<span style=\"font-size:1.3em;\">attractive</span>",
+              "value": "1"
+            },
+            {
+              "label": "<span style=\"font-size:1.3em;\">dirty</span>",
+              "value": "2"
+            },
+            {
+              "label": "<span style=\"font-size:1.3em;\">poor</span>",
+              "value": "3"
+            }
+          ],
+          "stimulus": "<p>&nbsp;</p>\n\n<p><img height=\"57\" src=\"https://assets.learnosity.com/organisations/755/f395741b-6a4e-468e-ad13-aa65ac9daa08.png\" width=\"845\"></p>\n",
+          "type": "mcq",
+          "validation": {
+            "scoring_type": "exactMatch",
+            "valid_response": {
+              "score": 1,
+              "value": [
+                "1"
+              ]
+            }
+          },
+          "ui_style": {
+            "type": "horizontal"
+          }
+        },
+        "metadata": {
+          "name": "Multiple choice – standard",
+          "template_reference": "9e8149bd-e4d8-4dd6-a751-1a113a4b9163"
+        }
+      },
+      "feedbackInfo": [
+        {
+          "id": "0707_c3d99091-f07f-4651-9ad9-4f0709f5ff44_a9899b6a-8f68-4b8c-9033-2f985ad09251_abbb96844b6ccc6e8711b89a534fe6a3",
+          "user_id": "c3d99091-f07f-4651-9ad9-4f0709f5ff44",
+          "response_id": "a9899b6a-8f68-4b8c-9033-2f985ad09251_abbb96844b6ccc6e8711b89a534fe6a3",
+          "type": "longtextV2",
+          "question": {
+            "type": "longtextV2",
+            "metadata": {
+              "source": {
+                "organisation_id": 755
+              },
+              "sheet_reference": "default_feedback",
+              "widget_reference": "de082b5f-742a-4ecf-82ca-4dc86e218fec",
+              "valid_response_count": 0
+            },
+            "stimulus": "Written feedback:",
+            "response_id": "a9899b6a-8f68-4b8c-9033-2f985ad09251_abbb96844b6ccc6e8711b89a534fe6a3",
+            "show_word_count": false,
+            "show_word_limit": "off"
+          },
+          "response": null,
+          "creation_date": "2021-11-03 09:56:15",
+          "mod_date": "2021-11-03 09:56:15",
+          "persist_until": "2021-11-04 09:56:15",
+          "saved": false
+        },
+        null
+      ]
+    },
+    {
+      "response_id": "a9899b6a-8f68-4b8c-9033-2f985ad09251_57f4893b1dd868983cb200c14673c5fb",
+      "question_type": "plaintext",
+      "dt_score_updated": "2021-11-03T09:46:28Z",
+      "automarkable": false,
+      "attempted": true,
+      "score": null,
+      "max_score": null,
+      "question_reference": "f6cc5341-ce9d-4713-b2f6-99006629021e",
+      "item_reference": "a84adb30-6f75-42d5-889a-b4bc80aebd2d",
+      "response": {
+        "value": "3.1 million tonnes of CO2 and 70 million tonnes of waste water per annum",
+        "wordCount": 14,
+        "type": "string",
+        "apiVersion": "v2.168.12",
+        "revision": 5
+      },
+      "questionInfo": {
+        "type": "plaintext",
+        "widget_type": "response",
+        "reference": "f6cc5341-ce9d-4713-b2f6-99006629021e",
+        "data": {
+          "stimulus": "<h2>&nbsp;</h2>\n\n<h2><span style=\"color:#0000ff;\"><b>Task 5 - Referring Words</b></span></h2>\n\n<h3><b id=\"yui_3_17_2_1_1626859802798_315\">Read the sentence below and check the paragraph in the text carefully. </b></h3>\n\n<h3><b>What do the&nbsp;highlighted&nbsp;words refer to?</b></h3>\n\n<p>&nbsp;</p>\n\n<p><img height=\"79\" src=\"https://assets.learnosity.com/organisations/755/4cc5ae13-c2e7-40de-acd5-2ef294edbd78.png\" width=\"852\"></p>\n\n<p><span style=\"font-size:1.5em;\">Write your answer below:</span></p>\n",
+          "spellcheck": true,
+          "type": "plaintext",
+          "metadata": {
+            "sample_answer": "<p style=\"margin-bottom:11px\"><span style=\"font-size:11pt\"><span style=\"line-height:107%\"><span style=\"font-family:Calibri,sans-serif\">3.1 million tonnes of CO2 and 70 million tonnes of waste water per annum are produced by the clothing industry</span></span></span></p>\n"
+          },
+          "max_length": 100,
+          "show_word_limit": "on-limit",
+          "validation": {
+            "max_score": 1
+          }
+        },
+        "metadata": {
+          "name": "Essay with plain text",
+          "template_reference": "0f559437-5072-475e-830d-1fa9d2f6bb0d"
+        }
+      },
+      "feedbackInfo": [
+        {
+          "id": "0707_c3d99091-f07f-4651-9ad9-4f0709f5ff44_a9899b6a-8f68-4b8c-9033-2f985ad09251_b9ed136f9f1232ee317770e77ae9f261",
+          "user_id": "c3d99091-f07f-4651-9ad9-4f0709f5ff44",
+          "response_id": "a9899b6a-8f68-4b8c-9033-2f985ad09251_b9ed136f9f1232ee317770e77ae9f261",
+          "type": "longtextV2",
+          "question": {
+            "type": "longtextV2",
+            "metadata": {
+              "source": {
+                "organisation_id": 755
+              },
+              "sheet_reference": "default_feedback",
+              "widget_reference": "de082b5f-742a-4ecf-82ca-4dc86e218fec",
+              "valid_response_count": 0
+            },
+            "stimulus": "Written feedback:",
+            "response_id": "a9899b6a-8f68-4b8c-9033-2f985ad09251_b9ed136f9f1232ee317770e77ae9f261",
+            "show_word_count": false,
+            "show_word_limit": "off"
+          },
+          "response": null,
+          "creation_date": "2021-11-03 09:56:15",
+          "mod_date": "2021-11-03 09:56:15",
+          "persist_until": "2021-11-04 09:56:15",
+          "saved": false
+        },
+        null
+      ]
+    },
+    {
+      "response_id": "a9899b6a-8f68-4b8c-9033-2f985ad09251_994036042bf53cde1102de2b27e24043",
+      "question_type": "plaintext",
+      "dt_score_updated": "2021-11-03T09:48:34Z",
+      "automarkable": false,
+      "attempted": true,
+      "score": null,
+      "max_score": null,
+      "question_reference": "5aa086da-d661-4cb7-86aa-d81afb0c99f3",
+      "item_reference": "a84adb30-6f75-42d5-889a-b4bc80aebd2d",
+      "response": {
+        "value": "an interesting range of initiatives",
+        "wordCount": 5,
+        "type": "string",
+        "apiVersion": "v2.168.12",
+        "revision": 2
+      },
+      "questionInfo": {
+        "type": "plaintext",
+        "widget_type": "response",
+        "reference": "5aa086da-d661-4cb7-86aa-d81afb0c99f3",
+        "data": {
+          "show_copy": true,
+          "stimulus": "<p>&nbsp;</p>\n\n<p>&nbsp;</p>\n\n<p><span style=\"font-size:1.5em;\"><img height=\"60\" src=\"https://assets.learnosity.com/organisations/755/ff0e352c-a05f-4ddc-99b4-1c67d7ee5cd0.png\" width=\"856\"></span></p>\n\n<p><span style=\"font-size:1.5em;\">Write your answer below:</span></p>\n",
+          "spellcheck": true,
+          "type": "plaintext",
+          "metadata": {
+            "sample_answer": "<b id=\"yui_3_17_2_1_1626863390671_3238\">an interesting range of initiatives tried out to make the clothing industry more eco-friendly and show greater concern for the environment</b>."
+          },
+          "validation": {
+            "max_score": 1
+          }
+        },
+        "metadata": {
+          "name": "Essay with plain text",
+          "template_reference": "0f559437-5072-475e-830d-1fa9d2f6bb0d"
+        }
+      },
+      "feedbackInfo": [
+        {
+          "id": "0707_c3d99091-f07f-4651-9ad9-4f0709f5ff44_a9899b6a-8f68-4b8c-9033-2f985ad09251_c174b411fa8312fe195828edaa0f9f03",
+          "user_id": "c3d99091-f07f-4651-9ad9-4f0709f5ff44",
+          "response_id": "a9899b6a-8f68-4b8c-9033-2f985ad09251_c174b411fa8312fe195828edaa0f9f03",
+          "type": "longtextV2",
+          "question": {
+            "type": "longtextV2",
+            "metadata": {
+              "source": {
+                "organisation_id": 755
+              },
+              "sheet_reference": "default_feedback",
+              "widget_reference": "de082b5f-742a-4ecf-82ca-4dc86e218fec",
+              "valid_response_count": 0
+            },
+            "stimulus": "Written feedback:",
+            "response_id": "a9899b6a-8f68-4b8c-9033-2f985ad09251_c174b411fa8312fe195828edaa0f9f03",
+            "show_word_count": false,
+            "show_word_limit": "off"
+          },
+          "response": null,
+          "creation_date": "2021-11-03 09:56:15",
+          "mod_date": "2021-11-03 09:56:15",
+          "persist_until": "2021-11-04 09:56:15",
+          "saved": false
+        },
+        null
+      ]
+    },
+    {
+      "response_id": "a9899b6a-8f68-4b8c-9033-2f985ad09251_b6dc1f5598d657c1c52cec28908534d5",
+      "question_type": "plaintext",
+      "dt_score_updated": "2021-11-03T09:49:45Z",
+      "automarkable": false,
+      "attempted": true,
+      "score": null,
+      "max_score": null,
+      "question_reference": "b3940f80-f84a-43b4-857b-aa0bb41d2013",
+      "item_reference": "a84adb30-6f75-42d5-889a-b4bc80aebd2d",
+      "response": {
+        "value": "the dress",
+        "wordCount": 2,
+        "type": "string",
+        "apiVersion": "v2.168.12",
+        "revision": 2
+      },
+      "questionInfo": {
+        "type": "plaintext",
+        "widget_type": "response",
+        "reference": "b3940f80-f84a-43b4-857b-aa0bb41d2013",
+        "data": {
+          "stimulus": "<p>&nbsp;</p>\n\n<p><img height=\"54\" src=\"https://assets.learnosity.com/organisations/755/2691e8a0-80ea-427c-a602-3a92d7179e10.png\" width=\"852\"></p>\n",
+          "spellcheck": true,
+          "type": "plaintext",
+          "metadata": {
+            "sample_answer": "<b id=\"yui_3_17_2_1_1626863442728_2815\">The dress</b>&nbsp;was made from durable, breathable cotton and it was modified so that it could be layered during the cold of winter but not in the heat of summer."
+          },
+          "validation": {
+            "max_score": 1
+          }
+        },
+        "metadata": {
+          "name": "Essay with plain text",
+          "template_reference": "0f559437-5072-475e-830d-1fa9d2f6bb0d"
+        }
+      },
+      "feedbackInfo": [
+        {
+          "id": "0707_c3d99091-f07f-4651-9ad9-4f0709f5ff44_a9899b6a-8f68-4b8c-9033-2f985ad09251_f4f670788b335e924cc0115c474a0a92",
+          "user_id": "c3d99091-f07f-4651-9ad9-4f0709f5ff44",
+          "response_id": "a9899b6a-8f68-4b8c-9033-2f985ad09251_f4f670788b335e924cc0115c474a0a92",
+          "type": "longtextV2",
+          "question": {
+            "type": "longtextV2",
+            "metadata": {
+              "source": {
+                "organisation_id": 755
+              },
+              "sheet_reference": "default_feedback",
+              "widget_reference": "de082b5f-742a-4ecf-82ca-4dc86e218fec",
+              "valid_response_count": 0
+            },
+            "stimulus": "Written feedback:",
+            "response_id": "a9899b6a-8f68-4b8c-9033-2f985ad09251_f4f670788b335e924cc0115c474a0a92",
+            "show_word_count": false,
+            "show_word_limit": "off"
+          },
+          "response": null,
+          "creation_date": "2021-11-03 09:56:16",
+          "mod_date": "2021-11-03 09:56:16",
+          "persist_until": "2021-11-04 09:56:16",
+          "saved": false
+        },
+        null
+      ]
+    }
+  ]
+}

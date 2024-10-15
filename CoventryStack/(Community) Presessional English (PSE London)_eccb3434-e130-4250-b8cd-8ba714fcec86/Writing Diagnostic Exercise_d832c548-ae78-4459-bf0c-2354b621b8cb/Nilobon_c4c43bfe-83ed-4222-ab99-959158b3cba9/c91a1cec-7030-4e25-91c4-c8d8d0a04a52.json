@@ -1,0 +1,87 @@
+{
+  "userId": "c4c43bfe-83ed-4222-ab99-959158b3cba9",
+  "firstName": "Nilobon",
+  "lastName": "Chuaysaeng",
+  "assigmentId": "d832c548-ae78-4459-bf0c-2354b621b8cb",
+  "assigmentName": "Writing Diagnostic Exercise",
+  "sessionId": "c91a1cec-7030-4e25-91c4-c8d8d0a04a52",
+  "email": "chuaysaenn@coventry.ac.uk",
+  "spaceId": "eccb3434-e130-4250-b8cd-8ba714fcec86",
+  "spaceName": "(Community) Presessional English (PSE London)",
+  "score": 0,
+  "max_score": 40,
+  "questions": [
+    {
+      "response_id": "c91a1cec-7030-4e25-91c4-c8d8d0a04a52_29a59873d64e3761ccb0d29ecca16973",
+      "question_type": "longtextV2",
+      "dt_score_updated": "2022-09-27T19:42:10Z",
+      "automarkable": false,
+      "attempted": true,
+      "score": null,
+      "max_score": 40,
+      "question_reference": "8ce3bee1-48e8-4baa-b2e3-5bf8083389e0",
+      "item_reference": "570ff370-fde4-49bc-959d-b91c3099b1d6",
+      "response": {
+        "value": "<p>The aim of this report is to discuss the advantages and disadvantages about two most popular means of transportation used by students.</p><p>Most popular transportation is bike. Many students should the bike to go to university because of healthy. Moreover, the bike is cheap, and it is good for environment. On the other hand, they are many reasons that some students do not ride the cycle. For example, there are no safe place for bikes, and it slow more than another transportation. Finally, they do not need to change clothes after ride the bike.</p><p>Second most popular transportation is train. There are many advantages to go to university by train. For instance, they are good for environment, quick, and the stations are near the university. However, there are some disadvantages for should train such as expensive tickets, some time it maybe late or cancelled, and very crowed in rush hour.</p><p>Recommendations about two most popular transportation have various recommendations. The university just have the safe place for bike, and they need to make bike lane or wilder road for safe people who ride the cycle. Moreover, the university should change room for student or start lessons later to avoid rush hour.      <br></p><p>   </p>",
+        "wordCount": 201,
+        "type": "string",
+        "apiVersion": "v2.168.23",
+        "revision": 67
+      },
+      "questionInfo": {
+        "type": "longtextV2",
+        "widget_type": "response",
+        "reference": "8ce3bee1-48e8-4baa-b2e3-5bf8083389e0",
+        "data": {
+          "stimulus": "<h2 id=\"yui_3_17_2_1_1628703407776_1784\"><span style=\"color:#0000ff;\"><b id=\"yui_3_17_2_1_1628703407776_2039\">You are going to write a report for your University. </b></span></h2>\n\n<h4><b>You should…</b></h4>\n\n<ul id=\"yui_3_17_2_1_1628703407776_2050\">\n\t<li><span style=\"font-size:1.3em;\">Write about the&nbsp;TWO&nbsp;most popular means of transportation used by students</span></li>\n\t<li><span style=\"font-size:1.3em;\">Discuss the advantages&nbsp;AND&nbsp;disadvantages</span></li>\n\t<li><span style=\"font-size:1.3em;\">Make some recommendations to the university</span></li>\n</ul>\n\n<h5 id=\"yui_3_17_2_1_1628703407776_2051\">&nbsp;</h5>\n\n<h4 id=\"yui_3_17_2_1_1628703407776_2055\"><b id=\"yui_3_17_2_1_1628703407776_2057\">Analyse the information in the table below:</b></h4>\n\n<p><img height=\"285\" src=\"https://assets.learnosity.com/organisations/755/501dfa12-1cf8-4ced-a6ab-aa6ba44e3379.JPG\" width=\"701\" /></p>\n\n<p><img height=\"259\" src=\"https://assets.learnosity.com/organisations/755/2bc31a90-4e37-4aed-8f9c-b1924cc4ec71.JPG\" width=\"699\" /></p>\n\n<h4>&nbsp;</h4>\n\n<h4><span style=\"color:#0000ff;\"><b>Write your report using&nbsp; ALL&nbsp;the information in the table.</b></span></h4>\n\n<h4><span style=\"color:#ff0000;\"><b><u>Write COMPLETE sentences.&nbsp;Do NOT use bullet points.</u></b></span></h4>\n\n<h4><b style=\"\">Use at least&nbsp;ONE&nbsp;of <u>your own ideas</u>&nbsp;</b><b style=\"\">in the recommendations section.</b></h4>\n\n<h4>&nbsp;</h4>\n\n<h4><b>Follow the&nbsp;report structure&nbsp;you can see below:</b></h4>\n\n<p>&nbsp;</p>\n\n<p><img height=\"523\" src=\"https://assets.learnosity.com/organisations/755/2694fd52-288e-4118-90cd-de27f223d78a.JPG\" width=\"400\" /></p>\n\n<h4>&nbsp;</h4>\n\n<h4><b>Write your report in the box below.&nbsp;Start with:&nbsp;</b></h4>\n\n<p><span style=\"font-size:1.3em;\"><i>The aim of this report is to ...</i></span></p>\n",
+          "type": "longtextV2",
+          "formatting_options": [
+            "bold",
+            "italic",
+            "underline",
+            "|",
+            "unorderedList",
+            "orderedList",
+            "redo"
+          ],
+          "validation": {
+            "max_score": 40
+          }
+        },
+        "metadata": {
+          "name": "Essay with rich text",
+          "template_reference": "1e6039f8-0676-495d-aca9-108710a51ce5"
+        }
+      },
+      "feedbackInfo": [
+        {
+          "id": "0707_c4c43bfe-83ed-4222-ab99-959158b3cba9_c91a1cec-7030-4e25-91c4-c8d8d0a04a52_ba015fe325e436765a8049280ac4451b",
+          "user_id": "c4c43bfe-83ed-4222-ab99-959158b3cba9",
+          "response_id": "c91a1cec-7030-4e25-91c4-c8d8d0a04a52_ba015fe325e436765a8049280ac4451b",
+          "type": "longtextV2",
+          "question": {
+            "type": "longtextV2",
+            "metadata": {
+              "source": {
+                "organisation_id": 755
+              },
+              "sheet_reference": "default_feedback",
+              "widget_reference": "de082b5f-742a-4ecf-82ca-4dc86e218fec",
+              "valid_response_count": 0
+            },
+            "stimulus": "Written feedback:",
+            "response_id": "c91a1cec-7030-4e25-91c4-c8d8d0a04a52_ba015fe325e436765a8049280ac4451b",
+            "show_word_count": false,
+            "show_word_limit": "off"
+          },
+          "response": null,
+          "creation_date": "2022-09-29 14:49:05",
+          "mod_date": "2022-09-29 14:49:05",
+          "persist_until": "2022-09-30 14:49:05",
+          "saved": false
+        },
+        null
+      ]
+    }
+  ]
+}

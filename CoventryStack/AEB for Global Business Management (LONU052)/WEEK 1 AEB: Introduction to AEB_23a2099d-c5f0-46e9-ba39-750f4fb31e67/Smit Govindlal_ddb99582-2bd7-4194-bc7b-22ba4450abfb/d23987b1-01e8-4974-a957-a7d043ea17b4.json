@@ -1,0 +1,250 @@
+{
+  "userId": "ddb99582-2bd7-4194-bc7b-22ba4450abfb",
+  "firstName": "Smit Govindlal",
+  "lastName": "Patel",
+  "assigmentId": "23a2099d-c5f0-46e9-ba39-750f4fb31e67",
+  "assigmentName": "WEEK 1 AEB: Introduction to AEB",
+  "sessionId": "d23987b1-01e8-4974-a957-a7d043ea17b4",
+  "email": "patels122@coventry.ac.uk",
+  "spaceId": "9e570e54-f3ba-41f0-b0dd-65fb63887cf3",
+  "spaceName": "AEB for Global Business Management (LONU052)",
+  "score": 6,
+  "max_score": 6,
+  "questions": [
+    {
+      "response_id": "d23987b1-01e8-4974-a957-a7d043ea17b4_cf77554c66e048af4c07663a13152e23",
+      "question_type": "clozedropdown",
+      "dt_score_updated": "2023-02-16T23:25:42Z",
+      "automarkable": true,
+      "attempted": true,
+      "score": 5,
+      "max_score": 5,
+      "question_reference": "ec77a517-2f24-4346-a9b4-224534817d70",
+      "item_reference": "88af556a-fe20-41a8-954e-9d033daa40f6",
+      "response": {
+        "value": [
+          "course",
+          "modules",
+          "synchronous",
+          "asynchronous",
+          "timetable",
+          "Aula"
+        ],
+        "type": "array",
+        "apiVersion": "v2.168.23",
+        "revision": 3,
+        "feedbackAttemptsCount": 1
+      },
+      "questionInfo": {
+        "type": "clozedropdown",
+        "widget_type": "response",
+        "reference": "ec77a517-2f24-4346-a9b4-224534817d70",
+        "data": {
+          "possible_responses": [
+            [
+              "course",
+              "modules",
+              "synchronous",
+              "asynchronous",
+              "timetable",
+              "Aula"
+            ],
+            [
+              "course",
+              "modules",
+              "synchronous",
+              "asynchronous",
+              "timetable",
+              "Aula"
+            ],
+            [
+              "course",
+              "modules",
+              "synchronous",
+              "asynchronous",
+              "timetable",
+              "Aula"
+            ],
+            [
+              "course",
+              "modules",
+              "synchronous",
+              "asynchronous",
+              "timetable",
+              "Aula"
+            ],
+            [
+              "modules",
+              "synchronous",
+              "asynchronous",
+              "timetable",
+              "Aula",
+              "course"
+            ],
+            [
+              "course",
+              "modules",
+              "synchronous",
+              "asynchronous",
+              "timetable",
+              "Aula"
+            ]
+          ],
+          "response_container": {
+            "pointer": "left"
+          },
+          "stimulus": "<p><span style=\"color:#8b4513;\"><strong><span style=\"font-size:1.5em;\"></span></strong></span></p>\n\n\n<span style=\"color:#8b4513;\"><img alt=\"Select - Free computer icons\" class=\"lrn-image-left\" src=\"https://cdn-icons-png.flaticon.com/512/2879/2879307.png\" width=\"70\" height=\"70\"><strong><span style=\"font-size:1.5em;\">TASK 1:&nbsp;</span></strong></span><span style=\"color:#8b4513;\"><strong><span style=\"font-size:1.5em;\">BASIC VOCABULARY FOR UNIVERSITY LIFE</span></strong></span>\n\n<p><span style=\"font-size:1.3em;\"><strong>Complete the sentences below by selecting the correct words.</strong></span></p>",
+          "template": "<p><span style=\"font-size:1.1em;\">1. An undergraduate&nbsp;{{response}}&nbsp;in the UK usually takes 3 years to complete.&nbsp;</span></p>\n\n<p><span style=\"font-size:1.1em;\">2. To earn your degree, you will need to study and pass 3 different &nbsp;&nbsp;{{response}}&nbsp;every term.</span></p>\n\n<p><span style=\"font-size:1.1em;\">3.&nbsp;A &nbsp;&nbsp;{{response}}&nbsp;&nbsp;lesson is when you, your classmates and your teacher are learning together at the same time. This could be in the classroom or online.</span></p>\n\n<p><span style=\"font-size:1.1em;\">4.&nbsp;An&nbsp;&nbsp;&nbsp;{{response}}&nbsp; lesson is when students work independently using recorded lessons.</span></p>\n\n<p><span style=\"font-size:1.1em;\">5.&nbsp;You will need to check your &nbsp;&nbsp;{{response}}&nbsp;&nbsp;every day to see what time your classes are and where they are taking place.</span></p>\n\n<p><span style=\"font-size:1.1em;\">6. &nbsp; &nbsp;&nbsp;{{response}}&nbsp;&nbsp;is the name of the platform which you will be using to access your course, communicate with your teachers and classmates, and submit your coursework.</span></p>\n",
+          "type": "clozedropdown",
+          "case_sensitive": true,
+          "validation": {
+            "scoring_type": "exactMatch",
+            "valid_response": {
+              "score": 5,
+              "value": [
+                "course",
+                "modules",
+                "synchronous",
+                "asynchronous",
+                "timetable",
+                "Aula"
+              ]
+            }
+          },
+          "shuffle_options": true,
+          "feedback_attempts": 3,
+          "instant_feedback": true
+        },
+        "metadata": {
+          "name": "Cloze with drop down",
+          "template_reference": "2fbba51b-e35e-441f-83c7-2662e2e81fa6"
+        }
+      },
+      "feedbackInfo": [
+        null,
+        null
+      ]
+    },
+    {
+      "response_id": "d23987b1-01e8-4974-a957-a7d043ea17b4_f5d4762d4ef8504c6eebd3fb1a06ac0f",
+      "question_type": "clozeassociation",
+      "dt_score_updated": "2023-02-16T23:26:53Z",
+      "automarkable": true,
+      "attempted": true,
+      "score": 1,
+      "max_score": 1,
+      "question_reference": "5b55066a-d502-4c65-941e-cf7879e15448",
+      "item_reference": "88af556a-fe20-41a8-954e-9d033daa40f6",
+      "response": {
+        "value": [
+          "coursework",
+          "feedback",
+          "assessments",
+          "brief",
+          "marking rubric"
+        ],
+        "type": "array",
+        "apiVersion": "v2.168.23",
+        "revision": 3,
+        "feedbackAttemptsCount": 2
+      },
+      "questionInfo": {
+        "type": "clozeassociation",
+        "widget_type": "response",
+        "reference": "5b55066a-d502-4c65-941e-cf7879e15448",
+        "data": {
+          "possible_responses": [
+            "coursework",
+            "feedback",
+            "assessments",
+            "brief",
+            "marking rubric"
+          ],
+          "response_container": {
+            "pointer": "left"
+          },
+          "stimulus": "<p><span style=\"color:#40e0d0;\"><strong><span style=\"font-size:1.5em;\">T</span></strong><img alt=\"Drag And Drop Icon #292776 - Free Icons Library\" class=\"lrn-image-left\" height=\"62\" src=\"https://icon-library.com/images/drag-and-drop-icon/drag-and-drop-icon-3.jpg\" width=\"100\"><strong><span style=\"font-size:1.5em;\">ASK 2: TERMS USED TO DESCRIBE COURSEWORK &amp; ASSESSMENT</span></strong></span></p>\n\n<p><strong><span style=\"font-size:1.3em;\"></span><span style=\"font-size:1.3em;\"></span></strong><strong><span style=\"font-size:1.3em;\">Dra</span></strong><span style=\"color:#40e0d0;\"></span><strong><span style=\"font-size:1.3em;\">g and drop the correct words to fill the gaps in the text</span></strong><span style=\"color:#40e0d0;\"></span><strong><span style=\"font-size:1.3em;\"></span></strong><strong><span style=\"font-size:1.3em;\"></span></strong></p>\n",
+          "template": "<ol>\n\t<li>\n\t<p><span style=\"font-size:1.1em;\">You will have to do&nbsp;<span style=\"font-size:1.1em;\">{{response}}</span> regularly which will help your lecturers see your progress and check your learning.&nbsp;This is not always part of your formal assessment, but should always be used as a learning opportunity.</span></p>\n\t</li>\n\t<li>\n\t<p><span style=\"font-size:1.1em;\">Your lecturers will correct your coursework and discuss with you what you did well and what needs to be improved. This is called&nbsp;<span style=\"font-size:1.1em;\">{{response}}</span>.&nbsp;</span></p>\n\t</li>\n\t<li>\n\t<p><span style=\"font-size:1.1em;\">&nbsp;<span style=\"font-size:1.1em;\">{{response}}</span>&nbsp;&nbsp;are pieces of work that your teachers use to evaluate your learning and decide if you have learned enough to pass your module. The marks you get for these will count towards your overall grade for the module.</span></p>\n\t</li>\n\t<li>\n\t<p><span style=\"font-size:1.1em;\">When you do a piece of written coursework, it is important that you read your teacher's instructions, or the&nbsp;<span style=\"font-size:1.1em;\">{{response}}</span>&nbsp;, carefully and make sure you understand it.</span></p>\n\t</li>\n\t<li>\n\t<p><span style=\"font-size:1.1em;\">Reading the <span style=\"font-size:1.1em;\">{{response}}</span>&nbsp;&nbsp;will help you understand how your teacher marks your work.</span></p>\n\t</li>\n</ol>\n",
+          "type": "clozeassociation",
+          "case_sensitive": true,
+          "validation": {
+            "scoring_type": "partialMatchV2",
+            "valid_response": {
+              "score": 1,
+              "value": [
+                "coursework",
+                "feedback",
+                "assessments",
+                "brief",
+                "marking rubric"
+              ]
+            }
+          },
+          "instant_feedback": true,
+          "shuffle_options": true
+        },
+        "metadata": {
+          "name": "Cloze with drag & drop",
+          "template_reference": "51a8c1e7-f34f-4faf-b211-da458e891fcb"
+        }
+      },
+      "feedbackInfo": [
+        null,
+        null
+      ]
+    },
+    {
+      "response_id": "d23987b1-01e8-4974-a957-a7d043ea17b4_7a316aa2f192203ff4727aa67b30d860",
+      "question_type": "rating",
+      "dt_score_updated": "2023-02-16T23:26:53Z",
+      "automarkable": false,
+      "attempted": true,
+      "score": null,
+      "max_score": null,
+      "question_reference": "eb42e78b-f18d-42ce-82a6-69f75cf2ea10",
+      "item_reference": "c7e1708b-ff87-49e7-af58-1754acc9c3aa",
+      "response": {
+        "value": "",
+        "type": "numeric",
+        "apiVersion": "v2.168.23",
+        "revision": 1
+      },
+      "questionInfo": {
+        "type": "rating",
+        "widget_type": "response",
+        "reference": "eb42e78b-f18d-42ce-82a6-69f75cf2ea10",
+        "data": {
+          "options": [
+            {
+              "value": "",
+              "label": "😀",
+              "tint": "#B85830"
+            },
+            {
+              "value": "",
+              "label": "😐",
+              "tint": "#2979AF"
+            },
+            {
+              "value": "",
+              "label": "🙁"
+            }
+          ],
+          "type": "rating",
+          "stimulus": "<p class=\"text-center\">Do you feel comfortable using the language covered in this exercise?</p>\n",
+          "ui_style": {
+            "fontsize": "xxlarge"
+          }
+        },
+        "metadata": {
+          "name": "Rating",
+          "template_reference": "8e99fa69-b829-4a7d-ae2a-eb935fe3a2c6"
+        }
+      },
+      "feedbackInfo": [
+        null,
+        null
+      ]
+    }
+  ]
+}

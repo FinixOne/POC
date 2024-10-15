@@ -1,0 +1,50 @@
+{
+  "userId": "047a6753-0883-436c-9c78-51c45e9e6018",
+  "firstName": "Akhila",
+  "lastName": "Sudeendra Kumar",
+  "assigmentId": "dd19a3f1-e72e-41d7-ba57-d9464f33ff49",
+  "assigmentName": "Final Quiz",
+  "sessionId": "b2787be5-9f6e-4375-b19e-fcb78bdbe048",
+  "email": "sudeendraa@coventry.ac.uk",
+  "spaceId": "4fb344e0-2505-4dbc-9179-c896b74e9fe2",
+  "spaceName": "7000MHR - Leadership in Project Management - 2223JANAPR",
+  "score": 0,
+  "max_score": 0,
+  "questions": [
+    {
+      "response_id": "b2787be5-9f6e-4375-b19e-fcb78bdbe048_d74b3a6030c83fcf5ee153076270cc28",
+      "question_type": "longtextV2",
+      "dt_score_updated": "2023-03-27T09:21:00Z",
+      "automarkable": false,
+      "attempted": true,
+      "score": null,
+      "max_score": null,
+      "question_reference": "19cfb112-ed0c-48f3-9354-ee3d148b109b",
+      "item_reference": "48b87caa-f852-4992-b089-cc00d5b5a683",
+      "response": {
+        "value": "<p>Lewin's change management model</p><p>The stages are:</p><ul><li>Unfreeze : This state is a mindset, a mental and physical capacity that can be almost absolutely reached, but it is initially situated so that the mind can evolve without actually attaining that capacity. \n\n</li><li>Change : </li><li>Refreeze</li></ul>",
+        "wordCount": 42,
+        "type": "string",
+        "apiVersion": "v2.168.23",
+        "revision": 6
+      },
+      "questionInfo": {
+        "type": "longtextV2",
+        "widget_type": "response",
+        "reference": "19cfb112-ed0c-48f3-9354-ee3d148b109b",
+        "data": {
+          "stimulus": "Can you reflect on any change management model",
+          "type": "longtextV2"
+        },
+        "metadata": {
+          "name": "Essay with rich text",
+          "template_reference": "1e6039f8-0676-495d-aca9-108710a51ce5"
+        }
+      },
+      "feedbackInfo": [
+        null,
+        null
+      ]
+    }
+  ]
+}

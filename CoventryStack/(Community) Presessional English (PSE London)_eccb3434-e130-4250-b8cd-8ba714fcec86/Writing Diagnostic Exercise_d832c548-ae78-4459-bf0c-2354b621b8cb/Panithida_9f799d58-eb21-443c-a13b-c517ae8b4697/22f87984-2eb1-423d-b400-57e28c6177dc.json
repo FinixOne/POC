@@ -1,0 +1,87 @@
+{
+  "userId": "9f799d58-eb21-443c-a13b-c517ae8b4697",
+  "firstName": "Panithida",
+  "lastName": "Janthem",
+  "assigmentId": "d832c548-ae78-4459-bf0c-2354b621b8cb",
+  "assigmentName": "Writing Diagnostic Exercise",
+  "sessionId": "22f87984-2eb1-423d-b400-57e28c6177dc",
+  "email": "janthemp@coventry.ac.uk",
+  "spaceId": "eccb3434-e130-4250-b8cd-8ba714fcec86",
+  "spaceName": "(Community) Presessional English (PSE London)",
+  "score": 0,
+  "max_score": 40,
+  "questions": [
+    {
+      "response_id": "22f87984-2eb1-423d-b400-57e28c6177dc_29a59873d64e3761ccb0d29ecca16973",
+      "question_type": "longtextV2",
+      "dt_score_updated": "2022-09-27T22:17:06Z",
+      "automarkable": false,
+      "attempted": true,
+      "score": null,
+      "max_score": 40,
+      "question_reference": "8ce3bee1-48e8-4baa-b2e3-5bf8083389e0",
+      "item_reference": "570ff370-fde4-49bc-959d-b91c3099b1d6",
+      "response": {
+        "value": "<p>The aims of this report is to describe between advantages and disadvantages of two types of transportation that most popular using by students. Moreover, this report is also recommended some suggestions to the university.</p><p>Nowadays, most students are more care about eco-friendly environment so there is an increase in using bike. There are many advantages about it. Firstly, it is nice for environment because it reduces carbon dioxide. Secondly, it can help you to be healthier that means you can exercise when you cycling. Thirdly, bike is not expensive. However, it also has some advantages. For example, some places are no places for bike therefore it has risks and bike is slower than other transportation so if you are in rush, it is not suit you. The last one is needing to change clothes after cycling.</p><p>Another popular transportation for students is trains. First advantage about trains is same as bike which is good for environment. Second, you do not have to rush because it is very fast. Third, there are lots of train stations around the city so all students can access it easily. However, there are also have disadvantages, for example, train tickets is not cheap so some students maybe cannot use it and sometimes it can have unexpected situation like being late or being cancel and it is too crowded in rush hour.</p><p>Nevertheless, there are some recommendations for bikes such as having safe area for bikes, changing cloth rooms for students, and creating shortcuts of bikes lane. In addition, there are some recommendations for trains, for example, university should start lessons after rush hour to help students and another suggestion is government should reduce the price for students to make all of them access it. <br></p>",
+        "wordCount": 289,
+        "type": "string",
+        "apiVersion": "v2.168.23",
+        "revision": 88
+      },
+      "questionInfo": {
+        "type": "longtextV2",
+        "widget_type": "response",
+        "reference": "8ce3bee1-48e8-4baa-b2e3-5bf8083389e0",
+        "data": {
+          "stimulus": "<h2 id=\"yui_3_17_2_1_1628703407776_1784\"><span style=\"color:#0000ff;\"><b id=\"yui_3_17_2_1_1628703407776_2039\">You are going to write a report for your University. </b></span></h2>\n\n<h4><b>You should…</b></h4>\n\n<ul id=\"yui_3_17_2_1_1628703407776_2050\">\n\t<li><span style=\"font-size:1.3em;\">Write about the&nbsp;TWO&nbsp;most popular means of transportation used by students</span></li>\n\t<li><span style=\"font-size:1.3em;\">Discuss the advantages&nbsp;AND&nbsp;disadvantages</span></li>\n\t<li><span style=\"font-size:1.3em;\">Make some recommendations to the university</span></li>\n</ul>\n\n<h5 id=\"yui_3_17_2_1_1628703407776_2051\">&nbsp;</h5>\n\n<h4 id=\"yui_3_17_2_1_1628703407776_2055\"><b id=\"yui_3_17_2_1_1628703407776_2057\">Analyse the information in the table below:</b></h4>\n\n<p><img height=\"285\" src=\"https://assets.learnosity.com/organisations/755/501dfa12-1cf8-4ced-a6ab-aa6ba44e3379.JPG\" width=\"701\" /></p>\n\n<p><img height=\"259\" src=\"https://assets.learnosity.com/organisations/755/2bc31a90-4e37-4aed-8f9c-b1924cc4ec71.JPG\" width=\"699\" /></p>\n\n<h4>&nbsp;</h4>\n\n<h4><span style=\"color:#0000ff;\"><b>Write your report using&nbsp; ALL&nbsp;the information in the table.</b></span></h4>\n\n<h4><span style=\"color:#ff0000;\"><b><u>Write COMPLETE sentences.&nbsp;Do NOT use bullet points.</u></b></span></h4>\n\n<h4><b style=\"\">Use at least&nbsp;ONE&nbsp;of <u>your own ideas</u>&nbsp;</b><b style=\"\">in the recommendations section.</b></h4>\n\n<h4>&nbsp;</h4>\n\n<h4><b>Follow the&nbsp;report structure&nbsp;you can see below:</b></h4>\n\n<p>&nbsp;</p>\n\n<p><img height=\"523\" src=\"https://assets.learnosity.com/organisations/755/2694fd52-288e-4118-90cd-de27f223d78a.JPG\" width=\"400\" /></p>\n\n<h4>&nbsp;</h4>\n\n<h4><b>Write your report in the box below.&nbsp;Start with:&nbsp;</b></h4>\n\n<p><span style=\"font-size:1.3em;\"><i>The aim of this report is to ...</i></span></p>\n",
+          "type": "longtextV2",
+          "formatting_options": [
+            "bold",
+            "italic",
+            "underline",
+            "|",
+            "unorderedList",
+            "orderedList",
+            "redo"
+          ],
+          "validation": {
+            "max_score": 40
+          }
+        },
+        "metadata": {
+          "name": "Essay with rich text",
+          "template_reference": "1e6039f8-0676-495d-aca9-108710a51ce5"
+        }
+      },
+      "feedbackInfo": [
+        {
+          "id": "0707_9f799d58-eb21-443c-a13b-c517ae8b4697_22f87984-2eb1-423d-b400-57e28c6177dc_1a5f6263ec21a1a1001a18a6095ebc4f",
+          "user_id": "9f799d58-eb21-443c-a13b-c517ae8b4697",
+          "response_id": "22f87984-2eb1-423d-b400-57e28c6177dc_1a5f6263ec21a1a1001a18a6095ebc4f",
+          "type": "longtextV2",
+          "question": {
+            "type": "longtextV2",
+            "metadata": {
+              "source": {
+                "organisation_id": 755
+              },
+              "sheet_reference": "default_feedback",
+              "widget_reference": "de082b5f-742a-4ecf-82ca-4dc86e218fec",
+              "valid_response_count": 0
+            },
+            "stimulus": "Written feedback:",
+            "response_id": "22f87984-2eb1-423d-b400-57e28c6177dc_1a5f6263ec21a1a1001a18a6095ebc4f",
+            "show_word_count": false,
+            "show_word_limit": "off"
+          },
+          "response": null,
+          "creation_date": "2022-09-29 14:48:07",
+          "mod_date": "2022-09-29 14:48:07",
+          "persist_until": "2022-09-30 14:48:07",
+          "saved": false
+        },
+        null
+      ]
+    }
+  ]
+}

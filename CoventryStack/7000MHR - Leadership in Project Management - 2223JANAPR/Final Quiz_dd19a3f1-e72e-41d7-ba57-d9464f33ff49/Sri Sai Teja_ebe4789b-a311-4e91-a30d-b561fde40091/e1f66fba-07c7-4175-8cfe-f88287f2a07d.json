@@ -1,0 +1,50 @@
+{
+  "userId": "ebe4789b-a311-4e91-a30d-b561fde40091",
+  "firstName": "Sri Sai Teja",
+  "lastName": "Ineni",
+  "assigmentId": "dd19a3f1-e72e-41d7-ba57-d9464f33ff49",
+  "assigmentName": "Final Quiz",
+  "sessionId": "e1f66fba-07c7-4175-8cfe-f88287f2a07d",
+  "email": "inenis@coventry.ac.uk",
+  "spaceId": "4fb344e0-2505-4dbc-9179-c896b74e9fe2",
+  "spaceName": "7000MHR - Leadership in Project Management - 2223JANAPR",
+  "score": 0,
+  "max_score": 0,
+  "questions": [
+    {
+      "response_id": "e1f66fba-07c7-4175-8cfe-f88287f2a07d_d74b3a6030c83fcf5ee153076270cc28",
+      "question_type": "longtextV2",
+      "dt_score_updated": "2023-03-27T11:10:07Z",
+      "automarkable": false,
+      "attempted": true,
+      "score": null,
+      "max_score": null,
+      "question_reference": "19cfb112-ed0c-48f3-9354-ee3d148b109b",
+      "item_reference": "48b87caa-f852-4992-b089-cc00d5b5a683",
+      "response": {
+        "value": "<p>Lewin's change management model describes that in order to have a change in an organization, we need to have a better communication with the employees and the leader should be good at sharing his vision and ideas with the employees and he should be god at sharing knowledge with the employees and once it is clear with everyone it is taken to the initiation.</p>",
+        "wordCount": 64,
+        "type": "string",
+        "apiVersion": "v2.168.23",
+        "revision": 7
+      },
+      "questionInfo": {
+        "type": "longtextV2",
+        "widget_type": "response",
+        "reference": "19cfb112-ed0c-48f3-9354-ee3d148b109b",
+        "data": {
+          "stimulus": "Can you reflect on any change management model",
+          "type": "longtextV2"
+        },
+        "metadata": {
+          "name": "Essay with rich text",
+          "template_reference": "1e6039f8-0676-495d-aca9-108710a51ce5"
+        }
+      },
+      "feedbackInfo": [
+        null,
+        null
+      ]
+    }
+  ]
+}

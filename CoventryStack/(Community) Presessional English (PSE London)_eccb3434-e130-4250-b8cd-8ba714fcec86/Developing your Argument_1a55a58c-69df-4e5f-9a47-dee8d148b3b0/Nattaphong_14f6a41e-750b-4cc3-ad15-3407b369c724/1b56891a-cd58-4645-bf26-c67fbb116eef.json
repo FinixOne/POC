@@ -1,0 +1,810 @@
+{
+  "userId": "14f6a41e-750b-4cc3-ad15-3407b369c724",
+  "firstName": "Nattaphong",
+  "lastName": "Phiphatanaphong",
+  "assigmentId": "1a55a58c-69df-4e5f-9a47-dee8d148b3b0",
+  "assigmentName": "Developing your Argument",
+  "sessionId": "1b56891a-cd58-4645-bf26-c67fbb116eef",
+  "email": "phiphatann@coventry.ac.uk",
+  "spaceId": "eccb3434-e130-4250-b8cd-8ba714fcec86",
+  "spaceName": "(Community) Presessional English (PSE London)",
+  "score": 31,
+  "max_score": 35,
+  "questions": [
+    {
+      "response_id": "1b56891a-cd58-4645-bf26-c67fbb116eef_fd024d0ea76876872d5ce7b9ed885bbb",
+      "question_type": "mcq",
+      "dt_score_updated": "2023-10-16T09:11:17Z",
+      "automarkable": true,
+      "attempted": true,
+      "score": 1,
+      "max_score": 1,
+      "question_reference": "a745e598-9f4e-4a38-b220-de23b367de1e",
+      "item_reference": "1f53405d-0c44-4c53-94f6-43eca907c33d",
+      "response": {
+        "value": [
+          "0"
+        ],
+        "type": "array",
+        "apiVersion": "v2.177.31",
+        "revision": 1
+      },
+      "questionInfo": {
+        "type": "mcq",
+        "widget_type": "response",
+        "reference": "a745e598-9f4e-4a38-b220-de23b367de1e",
+        "data": {
+          "options": [
+            {
+              "label": "<strong>Cohesive</strong>: a situation that is clearly seen or understood",
+              "value": "1"
+            },
+            {
+              "label": "<strong>Cohesive</strong>:&nbsp;a situation that is long lasting or intended to last or remain unchanged indefinitely",
+              "value": "2"
+            },
+            {
+              "label": "<strong>Cohesive</strong>: a situation when all the parts are united, support each other&nbsp;and work well together.",
+              "value": "0"
+            }
+          ],
+          "stimulus": "<h2><span style=\"color:#000080;\"><strong>Cohesive Arguments</strong></span></h2>\n\n<h4><strong>In the main body of the assignment you should&nbsp;describe, outline, explain, analyse or debate&nbsp;your arguments (your ideas, main points or opinions). </strong></h4>\n\n<h4><strong>Your tutors will expect your arguments to be&nbsp;<u><span style=\"color:#0000cd;\">cohesive</span></u>.</strong></h4>\n\n<h2><img class=\"lrn-image-left\" height=\"98\" src=\"https://assets.learnosity.com/organisations/755/e60054aa-232b-49e0-a11e-b2580a268cb6.jpg\" width=\"100\">&nbsp;</h2>\n\n<h2><span style=\"color:#000080;\"><strong>What does cohesive mean?</strong></span></h2>\n",
+          "type": "mcq",
+          "ui_style": {
+            "choice_label": "upper-alpha",
+            "type": "block"
+          },
+          "validation": {
+            "scoring_type": "exactMatch",
+            "valid_response": {
+              "score": 1,
+              "value": [
+                "0"
+              ]
+            }
+          }
+        },
+        "metadata": {
+          "name": "Multiple choice – block layout",
+          "template_reference": "33d53a22-1a59-4a03-9671-7f5104edd62e"
+        }
+      },
+      "feedbackInfo": [
+        null,
+        null
+      ]
+    },
+    {
+      "response_id": "1b56891a-cd58-4645-bf26-c67fbb116eef_17b5c94e23fbe3709a77c2cab842d040",
+      "question_type": "association",
+      "dt_score_updated": "2023-10-16T09:11:47Z",
+      "automarkable": true,
+      "attempted": true,
+      "score": 1,
+      "max_score": 1,
+      "question_reference": "63cf9357-5375-42e4-8fbf-cb0e3a15e4f6",
+      "item_reference": "1f53405d-0c44-4c53-94f6-43eca907c33d",
+      "response": {
+        "value": [
+          "Your main point / idea / opinion",
+          "Why you believe your claim is true",
+          "The research that proves your claim is true"
+        ],
+        "type": "array",
+        "updatedFormat": true,
+        "apiVersion": "v2.177.31",
+        "revision": 2,
+        "feedbackAttemptsCount": 1
+      },
+      "questionInfo": {
+        "type": "association",
+        "widget_type": "response",
+        "reference": "63cf9357-5375-42e4-8fbf-cb0e3a15e4f6",
+        "data": {
+          "possible_responses": [
+            "Why you believe your claim is true",
+            "The research that proves your claim is true",
+            "Your main point / idea / opinion"
+          ],
+          "stimulus": "<h2>&nbsp;</h2>\n\n<h2><span style=\"color:#0000cd;\"><b>To build a&nbsp;cohesive&nbsp;argument, you need&nbsp;<u>THREE elements</u>...</b></span></h2>\n\n<p><img height=\"230\" src=\"https://assets.learnosity.com/organisations/755/0c6ece4a-a78e-4d35-9db5-9f89b2583349.jpg\" width=\"249\"></p>\n\n<p>&nbsp;</p>\n",
+          "stimulus_list": [
+            "<h4><span style=\"color:#0000cd;\"></span><strong>The </strong><span style=\"color:#0000cd;\"><strong>CLAIM</strong></span></h4>\n",
+            "<h4><span style=\"color:#0000cd;\"></span><strong>The <span style=\"color:#b22222;\">REASONS</span></strong></h4>\n",
+            "<h4><strong>The <span style=\"color:#008000;\">EVIDENCE</span></strong></h4>\n"
+          ],
+          "type": "association",
+          "validation": {
+            "scoring_type": "partialMatchV2",
+            "valid_response": {
+              "score": 1,
+              "value": [
+                "Your main point / idea / opinion",
+                "Why you believe your claim is true",
+                "The research that proves your claim is true"
+              ]
+            }
+          },
+          "instant_feedback": true
+        },
+        "metadata": {
+          "name": "Match list",
+          "template_reference": "1fa22aac-1f88-47f7-941b-3c77759549e6"
+        }
+      },
+      "feedbackInfo": [
+        null,
+        null
+      ]
+    },
+    {
+      "response_id": "1b56891a-cd58-4645-bf26-c67fbb116eef_4d86e9f6b5490d3d857424706de6d36f",
+      "question_type": "clozedropdown",
+      "dt_score_updated": "2023-10-16T09:14:50Z",
+      "automarkable": true,
+      "attempted": true,
+      "score": 2,
+      "max_score": 2,
+      "question_reference": "dc3b836e-1118-473d-8d2f-abda088f4270",
+      "item_reference": "dd917f01-4e5e-42fe-9800-0641611e0008",
+      "response": {
+        "value": [
+          "A unit of money that is used by more than one country",
+          "Financial trading involving high risk, in expectation of significant returns"
+        ],
+        "type": "array",
+        "apiVersion": "v2.177.31",
+        "revision": 2,
+        "feedbackAttemptsCount": 1
+      },
+      "questionInfo": {
+        "type": "clozedropdown",
+        "widget_type": "response",
+        "reference": "dc3b836e-1118-473d-8d2f-abda088f4270",
+        "data": {
+          "possible_responses": [
+            [
+              "A unit of money that is used by more than one country",
+              "Financial trading involving high risk, in expectation of significant returns",
+              "The amount you are charged for borrowing money"
+            ],
+            [
+              "A unit of money that is used by more than one country",
+              "Financial trading involving high risk, in expectation of significant returns",
+              "The amount you are charged for borrowing money"
+            ]
+          ],
+          "response_container": {
+            "pointer": "left"
+          },
+          "stimulus": "<h2><span style=\"color:#000080;\"><img class=\"lrn-image-left\" height=\"163\" src=\"https://assets.learnosity.com/organisations/755/8dfd9ecf-ff64-4c69-a9c7-b1da12fb626a.jpg\" width=\"200\"><b>Over the next exercises, you are going to examine how cohesive the following arguments are.</b></span></h2>\n\n<h5 id=\"yui_3_17_2_1_1633340242347_172\">&nbsp;</h5>\n\n<h4><span style=\"color:#000000;\"></span><span style=\"color:#000080;\"><b>► </b></span><span style=\"color:#000000;\"><b>Remember:&nbsp;<u>a cohesive argument means that all elements are united, support each other&nbsp;and work well together</u>.</b></span></h4>\n\n<p><span style=\"color:#000000;\"></span></p>\n\n<h5 id=\"yui_3_17_2_1_1633340242347_172\"><span style=\"color:#000000;\"></span></h5>\n\n<p id=\"yui_3_17_2_1_1633340242347_171\">&nbsp;</p>\n\n<p>&nbsp;</p>\n\n<p><span style=\"color:#000000;\"><span style=\"font-size:1.3em;\"><b>Before you start, let's focus on two key words and concepts.</b></span></span></p>\n\n<p id=\"yui_3_17_2_1_1633340242347_181\"><span style=\"color:#000000;\"><span style=\"font-size:1.3em;\"><b id=\"yui_3_17_2_1_1633340242347_180\">Match the words with the definitions.</b></span></span></p>\n",
+          "template": "<ul>\n\t<li><strong><span style=\"font-size:1.3em;\">Single currency:</span></strong>&nbsp;{{response}}</li>\n\t<li><strong><span style=\"font-size:1.3em;\">Speculation:</span></strong>&nbsp;{{response}}</li>\n</ul>\n",
+          "type": "clozedropdown",
+          "case_sensitive": true,
+          "validation": {
+            "scoring_type": "partialMatchV2",
+            "valid_response": {
+              "score": 2,
+              "value": [
+                "A unit of money that is used by more than one country",
+                "Financial trading involving high risk, in expectation of significant returns"
+              ]
+            }
+          },
+          "instant_feedback": true,
+          "shuffle_options": true
+        },
+        "metadata": {
+          "name": "Cloze with drop down",
+          "template_reference": "2fbba51b-e35e-441f-83c7-2662e2e81fa6"
+        }
+      },
+      "feedbackInfo": [
+        null,
+        null
+      ]
+    },
+    {
+      "response_id": "1b56891a-cd58-4645-bf26-c67fbb116eef_f54c4f3aa173cb9c0cb019f180373766",
+      "question_type": "clozeassociation",
+      "dt_score_updated": "2023-10-16T09:49:18Z",
+      "automarkable": true,
+      "attempted": true,
+      "score": 3,
+      "max_score": 3,
+      "question_reference": "456c8e20-b292-43f2-83e7-3ac621df194c",
+      "item_reference": "dd917f01-4e5e-42fe-9800-0641611e0008",
+      "response": {
+        "value": [
+          "Claim",
+          "Reason",
+          "Evidence"
+        ],
+        "type": "array",
+        "apiVersion": "v2.177.31",
+        "revision": 2
+      },
+      "questionInfo": {
+        "type": "clozeassociation",
+        "widget_type": "response",
+        "reference": "456c8e20-b292-43f2-83e7-3ac621df194c",
+        "data": {
+          "possible_responses": [
+            "Claim",
+            "Reason",
+            "Evidence"
+          ],
+          "response_container": {
+            "pointer": "left"
+          },
+          "stimulus": "<h2>&nbsp;</h2>\n\n<h2 id=\"yui_3_17_2_1_1633340561568_170\"><span style=\"color:#000080;\"><b>Read Argument 1 below.</b></span></h2>\n\n<h4><b><span style=\"color:#000080;\">►</span> Identify the claim, the reason and the evidence.</b></h4>\n",
+          "template": "<p style=\"margin-left: 40px;\"><span style=\"font-size:1.3em;\"><b><span style=\"color:#0000cd;\">From a business point of view, having a single currency can make a country less vulnerable to speculation</span>&nbsp;</b></span><span style=\"font-size:1em;\">(</span><span style=\"font-size:1.3em;\"></span><span style=\"font-size:1em;\">{{response}})</span><span style=\"font-size:1.3em;\">&nbsp;because&nbsp;<span style=\"color:#a52a2a;\"><b>financial transactions are more transparent</b></span>&nbsp;(</span><span style=\"font-size:1em;\">{{response}}</span><span style=\"font-size:1.3em;\"></span><span style=\"font-size:1em;\">)</span><span style=\"font-size:1.3em;\"><b>.&nbsp;</b>Mason (2018) argues that&nbsp;<b><span style=\"color:#006400;\">“a reduction of external currency instability enables traders to invest with greater certainty”</span>&nbsp;</b></span><span style=\"font-size:1em;\">({{response}})</span><span style=\"font-size:1.3em;\"><b>.</b></span></p>\n",
+          "type": "clozeassociation",
+          "case_sensitive": true,
+          "validation": {
+            "scoring_type": "partialMatchV2",
+            "valid_response": {
+              "score": 3,
+              "value": [
+                "Claim",
+                "Reason",
+                "Evidence"
+              ]
+            }
+          },
+          "instant_feedback": true,
+          "shuffle_options": true
+        },
+        "metadata": {
+          "name": "Cloze with drag & drop",
+          "template_reference": "51a8c1e7-f34f-4faf-b211-da458e891fcb"
+        }
+      },
+      "feedbackInfo": [
+        null,
+        null
+      ]
+    },
+    {
+      "response_id": "1b56891a-cd58-4645-bf26-c67fbb116eef_66e0e7bfaa18fb78256aee92363f34a7",
+      "question_type": "mcq",
+      "dt_score_updated": "2023-10-16T09:52:52Z",
+      "automarkable": true,
+      "attempted": true,
+      "score": 1,
+      "max_score": 1,
+      "question_reference": "8a06ff3f-93bf-4c1e-8ef2-9f08214b617a",
+      "item_reference": "dd917f01-4e5e-42fe-9800-0641611e0008",
+      "response": {
+        "value": [
+          "2"
+        ],
+        "type": "array",
+        "apiVersion": "v2.177.31",
+        "revision": 1,
+        "feedbackAttemptsCount": 1
+      },
+      "questionInfo": {
+        "type": "mcq",
+        "widget_type": "response",
+        "reference": "8a06ff3f-93bf-4c1e-8ef2-9f08214b617a",
+        "data": {
+          "options": [
+            {
+              "label": "The claim is not related to the reason",
+              "value": "0"
+            },
+            {
+              "label": "The reason doesn’t provide support or explanation",
+              "value": "1"
+            },
+            {
+              "label": "There is no evidence",
+              "value": "2"
+            }
+          ],
+          "stimulus": "<h2><span style=\"color:#000080;\"><b>Read Argument 2 below.</b></span></h2>\n\n<div class=\"lrn-well\"><span style=\"font-size:1.3em;\">In my opinion, there are many political difficulties in implementing a currency union. In such a union, not every member is as strong economically as the others and they may be forced to accept interventions from other governments.</span></div>\n\n<p><span style=\"font-size:1.3em;\"><span style=\"color:#b22222;\"><b>This argument is not cohesive.</b></span></span></p>\n\n<p><strong><span style=\"font-size:1.3em;\"><span style=\"color:#b22222;\">►</span> What is the problem?</span></strong></p>\n\n<p>&nbsp;</p>\n",
+          "type": "mcq",
+          "validation": {
+            "scoring_type": "exactMatch",
+            "valid_response": {
+              "score": 1,
+              "value": [
+                "2"
+              ]
+            }
+          },
+          "ui_style": {
+            "type": "horizontal"
+          },
+          "instant_feedback": true
+        },
+        "metadata": {
+          "name": "Multiple choice – standard",
+          "template_reference": "9e8149bd-e4d8-4dd6-a751-1a113a4b9163"
+        }
+      },
+      "feedbackInfo": [
+        null,
+        null
+      ]
+    },
+    {
+      "response_id": "1b56891a-cd58-4645-bf26-c67fbb116eef_e3bb0e198c8f2dee22b8fb5c2a6b2e84",
+      "question_type": "mcq",
+      "dt_score_updated": "2023-10-16T09:54:04Z",
+      "automarkable": true,
+      "attempted": true,
+      "score": 2,
+      "max_score": 2,
+      "question_reference": "4516e960-1d9b-4af2-ac58-8fdf4009bf4c",
+      "item_reference": "dd917f01-4e5e-42fe-9800-0641611e0008",
+      "response": {
+        "value": [
+          "1",
+          "2"
+        ],
+        "type": "array",
+        "apiVersion": "v2.177.31",
+        "revision": 2,
+        "feedbackAttemptsCount": 1
+      },
+      "questionInfo": {
+        "type": "mcq",
+        "widget_type": "response",
+        "reference": "4516e960-1d9b-4af2-ac58-8fdf4009bf4c",
+        "data": {
+          "options": [
+            {
+              "label": "There is no evidence",
+              "value": "0"
+            },
+            {
+              "label": "The reason doesn’t provide support or explanation",
+              "value": "1"
+            },
+            {
+              "label": "The evidence just repeats the reason",
+              "value": "2"
+            },
+            {
+              "label": "The claim is not related to the reason",
+              "value": "3"
+            }
+          ],
+          "stimulus": "<h2><span style=\"color:#000080;\"><b>Read Argument 3 below.</b></span></h2>\n\n<div class=\"lrn-well\"><span style=\"font-size:1.3em;\">Some companies are trying to pressure the government to adopt the single currency because it’s an advantage. According to Smith (2015) there are many benefits in being part of the single currency area.</span></div>\n\n<p><span style=\"font-size:1.3em;\"><span style=\"color:#b22222;\"><b>This argument is not cohesive.</b></span></span></p>\n\n<p><strong><span style=\"font-size:1.3em;\"><span style=\"color:#b22222;\">►</span> What is the problem? (Choose TWO)</span></strong></p>\n",
+          "type": "mcq",
+          "validation": {
+            "scoring_type": "partialMatchV2",
+            "valid_response": {
+              "score": 2,
+              "value": [
+                "1",
+                "2"
+              ]
+            }
+          },
+          "ui_style": {
+            "type": "horizontal"
+          },
+          "instant_feedback": true,
+          "multiple_responses": true
+        },
+        "metadata": {
+          "name": "Multiple choice – standard",
+          "template_reference": "9e8149bd-e4d8-4dd6-a751-1a113a4b9163"
+        }
+      },
+      "feedbackInfo": [
+        null,
+        null
+      ]
+    },
+    {
+      "response_id": "1b56891a-cd58-4645-bf26-c67fbb116eef_9793ec2c2932e46d5e492f3b9cc77d30",
+      "question_type": "mcq",
+      "dt_score_updated": "2023-10-16T09:55:03Z",
+      "automarkable": true,
+      "attempted": true,
+      "score": 1,
+      "max_score": 1,
+      "question_reference": "226ca399-9104-4fbe-b51a-dc39732498da",
+      "item_reference": "dd917f01-4e5e-42fe-9800-0641611e0008",
+      "response": {
+        "value": [
+          "2"
+        ],
+        "type": "array",
+        "apiVersion": "v2.177.31",
+        "revision": 2,
+        "feedbackAttemptsCount": 3
+      },
+      "questionInfo": {
+        "type": "mcq",
+        "widget_type": "response",
+        "reference": "226ca399-9104-4fbe-b51a-dc39732498da",
+        "data": {
+          "options": [
+            {
+              "label": "The reason doesn’t provide support or explanation",
+              "value": "0"
+            },
+            {
+              "label": "The reason doesn’t provide support or explanation",
+              "value": "1"
+            },
+            {
+              "label": "The evidence is not related to the reason",
+              "value": "2"
+            }
+          ],
+          "stimulus": "<h2><span style=\"color:#000080;\"><b>Read Argument 4 below.</b></span></h2>\n\n<div class=\"lrn-well\"><span style=\"font-size:1.3em;\">I’m convinced that the general public benefits from having a single currency. The reason for that because personal financial transactions are much simpler. In his article, Murthy (2017) notes that the Central Bank keeps the interest rates and inflation low, which leads to more investment.</span></div>\n\n<p><span style=\"font-size:1.3em;\"><span style=\"color:#b22222;\"><b>This argument is not cohesive.</b></span></span></p>\n\n<p><strong><span style=\"font-size:1.3em;\"><span style=\"color:#b22222;\">►</span> What is the problem? (Choose TWO)</span></strong></p>\n",
+          "type": "mcq",
+          "validation": {
+            "scoring_type": "exactMatch",
+            "valid_response": {
+              "score": 1,
+              "value": [
+                "2"
+              ]
+            }
+          },
+          "ui_style": {
+            "type": "horizontal"
+          },
+          "instant_feedback": true,
+          "shuffle_options": true
+        },
+        "metadata": {
+          "name": "Multiple choice – standard",
+          "template_reference": "9e8149bd-e4d8-4dd6-a751-1a113a4b9163"
+        }
+      },
+      "feedbackInfo": [
+        null,
+        null
+      ]
+    },
+    {
+      "response_id": "1b56891a-cd58-4645-bf26-c67fbb116eef_4a6874d3509e74c845870f55c10e9406",
+      "question_type": "association",
+      "dt_score_updated": "2023-10-16T10:01:47Z",
+      "automarkable": true,
+      "attempted": true,
+      "score": 0,
+      "max_score": 3,
+      "question_reference": "d5bffd83-1cf7-4846-acc7-455b0d2a6cc9",
+      "item_reference": "b27629d1-33e5-467b-a8b0-d7c2d08837c4",
+      "response": {
+        "value": [
+          "I believe that having a single currency is positive",
+          "because it leads to price transparency.",
+          "For example in the Eurozone it’s easy to compare the prices houses or vehicles because they have the same currency."
+        ],
+        "type": "array",
+        "updatedFormat": true,
+        "apiVersion": "v2.177.31",
+        "revision": 10,
+        "feedbackAttemptsCount": 5
+      },
+      "questionInfo": {
+        "type": "association",
+        "widget_type": "response",
+        "reference": "d5bffd83-1cf7-4846-acc7-455b0d2a6cc9",
+        "data": {
+          "possible_responses": [
+            "because it leads to price transparency.",
+            "For example in the Eurozone it’s easy to compare the prices houses or vehicles because they have the same currency.",
+            "as just adhering to this system has significant costs.",
+            "I believe that having a single currency is positive",
+            "The BBC (2018) published a report that states that a traveller visiting the member states could lose up to 40% of the value of their money in transaction charges."
+          ],
+          "stimulus": "<h2><strong>The next activities focus on <span style=\"color:#800080;\">argument structure</span>.</strong></h2>\n\n<p>&nbsp;</p>\n\n<h4><strong>Read the options below carefully.&nbsp;Select a <span style=\"color:#0000cd;\">CLAIM</span>, a <span style=\"color:#b22222;\">REASON </span>and <span style=\"color:#008000;\">EVIDENCE</span>.</strong></h4>\n\n<p>&nbsp;</p>\n\n<p><img height=\"149\" src=\"https://assets.learnosity.com/organisations/755/9ffbe585-c684-408d-b6f5-d9af1ef4c7be.jpg\" width=\"150\" /></p>\n\n<h4><strong><span style=\"color:#0000ff;\"></span><span style=\"color:#0000cd;\">►</span><span style=\"color:#0000ff;\"> </span>Remember: all&nbsp; elements must <u>support each other</u> and work well together.</strong></h4>\n\n<p>&nbsp;</p>\n\n<h5><span style=\"color:#ff0000;\"><u><strong>There are TWO extra options that you don't need</strong></u></span></h5>\n",
+          "stimulus_list": [
+            "<span style=\"font-size:1.3em;\"><span style=\"color:#0000cd;\"><strong>CLAIM</strong></span></span>",
+            "<span style=\"font-size:1.3em;\"><span style=\"color:#b22222;\"><strong>REASON</strong></span></span>",
+            "<span style=\"font-size:1.3em;\"><span style=\"color:#008000;\"><strong>EVIDENCE</strong></span></span>"
+          ],
+          "type": "association",
+          "validation": {
+            "scoring_type": "exactMatch",
+            "valid_response": {
+              "score": 3,
+              "value": [
+                "I believe that having a single currency is positive",
+                null,
+                null
+              ]
+            }
+          },
+          "instant_feedback": true
+        },
+        "metadata": {
+          "name": "Match list",
+          "template_reference": "1fa22aac-1f88-47f7-941b-3c77759549e6"
+        }
+      },
+      "feedbackInfo": [
+        null,
+        null
+      ]
+    },
+    {
+      "response_id": "1b56891a-cd58-4645-bf26-c67fbb116eef_a6101ba10a7f5d9404c1baac5cda977a",
+      "question_type": "association",
+      "dt_score_updated": "2023-10-16T10:05:44Z",
+      "automarkable": true,
+      "attempted": true,
+      "score": 13,
+      "max_score": 13,
+      "question_reference": "40900647-80ea-4992-bd5c-8cc0a1e8d95c",
+      "item_reference": "b27629d1-33e5-467b-a8b0-d7c2d08837c4",
+      "response": {
+        "value": [
+          "In my opinion, a single currency can be a disadvantage",
+          "because countries lose autonomy over their economic policy.",
+          "According to Murthy (2017), “the member countries lose the ability to devaluate currency to boost exports”"
+        ],
+        "type": "array",
+        "updatedFormat": true,
+        "apiVersion": "v2.177.31",
+        "revision": 2,
+        "feedbackAttemptsCount": 2
+      },
+      "questionInfo": {
+        "type": "association",
+        "widget_type": "response",
+        "reference": "40900647-80ea-4992-bd5c-8cc0a1e8d95c",
+        "data": {
+          "possible_responses": [
+            "because countries lose autonomy over their economic policy.",
+            "The BBC (2018) published a report that states that a traveller visiting the member states could lose up to 40% of the value of their money in transaction charges.",
+            "In my opinion, a single currency can be a disadvantage",
+            "<span style=\"font-size:12.0pt\"><span style=\"line-height:115%\"><span style=\"font-family:&quot;Calibri&quot;,sans-serif\">by keeping interest rates and inflation low.</span></span></span>",
+            "According to Murthy (2017), “the member countries lose the ability to devaluate currency to boost exports”"
+          ],
+          "stimulus_list": [
+            "<span style=\"color:#0000cd;\"><span style=\"font-size:1.3em;\"><strong>CLAIM&nbsp;</strong></span></span>",
+            "<span style=\"color:#b22222;\"><span style=\"font-size:1.3em;\"><strong>REASON</strong></span></span>",
+            "<span style=\"color:#008000;\"><span style=\"font-size:1.3em;\"><strong>EVIDENCE</strong></span></span>"
+          ],
+          "type": "association",
+          "validation": {
+            "scoring_type": "exactMatch",
+            "valid_response": {
+              "score": 13,
+              "value": [
+                "In my opinion, a single currency can be a disadvantage",
+                "because countries lose autonomy over their economic policy.",
+                "According to Murthy (2017), “the member countries lose the ability to devaluate currency to boost exports”"
+              ]
+            }
+          },
+          "instant_feedback": true
+        },
+        "metadata": {
+          "name": "Match list",
+          "template_reference": "1fa22aac-1f88-47f7-941b-3c77759549e6"
+        }
+      },
+      "feedbackInfo": [
+        null,
+        null
+      ]
+    },
+    {
+      "response_id": "1b56891a-cd58-4645-bf26-c67fbb116eef_33169f50fda82f1facbcc3dcfc0a18a9",
+      "question_type": "association",
+      "dt_score_updated": "2023-10-16T11:08:53Z",
+      "automarkable": true,
+      "attempted": true,
+      "score": 1,
+      "max_score": 1,
+      "question_reference": "edf89a94-265c-409b-b845-e9478af0354a",
+      "item_reference": "b27629d1-33e5-467b-a8b0-d7c2d08837c4",
+      "response": {
+        "value": [
+          "I’m convinced that the general public benefits from having a single currency.",
+          "The reason for this is that personal financial transactions are much simpler.",
+          "The BBC (2018) published a report that states that a traveller could lose up to 40% of the value of their money in transaction charges. With single currency, we can avoid that."
+        ],
+        "type": "array",
+        "updatedFormat": true,
+        "apiVersion": "v2.177.31",
+        "revision": 5,
+        "feedbackAttemptsCount": 2
+      },
+      "questionInfo": {
+        "type": "association",
+        "widget_type": "response",
+        "reference": "edf89a94-265c-409b-b845-e9478af0354a",
+        "data": {
+          "possible_responses": [
+            "The reason for this is that personal financial transactions are much simpler.",
+            "I’m convinced that the general public benefits from having a single currency.",
+            "According to Lowe (2016), retailers for example would have to spend between £1.7 and £3.5 billion just to educate customers, train staff, buy computer software and adjust invoices.",
+            "The BBC (2018) published a report that states that a traveller could lose up to 40% of the value of their money in transaction charges. With single currency, we can avoid that.",
+            "as just adhering to this system has significant costs."
+          ],
+          "stimulus_list": [
+            "<span style=\"color:#0000cd;\"><span style=\"font-size:1.3em;\"><strong>CLAIM</strong></span></span>",
+            "<span style=\"font-size:1.3em;\"><span style=\"color:#b22222;\"><strong>REASON</strong></span></span>",
+            "<span style=\"color:#008000;\"><span style=\"font-size:1.3em;\"><strong>EVIDENCE</strong></span></span>"
+          ],
+          "type": "association",
+          "validation": {
+            "scoring_type": "exactMatch",
+            "valid_response": {
+              "score": 1,
+              "value": [
+                "I’m convinced that the general public benefits from having a single currency.",
+                "The reason for this is that personal financial transactions are much simpler.",
+                "The BBC (2018) published a report that states that a traveller could lose up to 40% of the value of their money in transaction charges. With single currency, we can avoid that."
+              ]
+            }
+          },
+          "instant_feedback": true
+        },
+        "metadata": {
+          "name": "Match list",
+          "template_reference": "1fa22aac-1f88-47f7-941b-3c77759549e6"
+        }
+      },
+      "feedbackInfo": [
+        null,
+        null
+      ]
+    },
+    {
+      "response_id": "1b56891a-cd58-4645-bf26-c67fbb116eef_3ab4a6d5c3144b74e80b9f25958a2501",
+      "question_type": "association",
+      "dt_score_updated": "2023-10-16T10:01:03Z",
+      "automarkable": true,
+      "attempted": true,
+      "score": 0,
+      "max_score": 1,
+      "question_reference": "16ebe99e-a010-43b8-940b-bd5f7c0cb9ed",
+      "item_reference": "b27629d1-33e5-467b-a8b0-d7c2d08837c4",
+      "response": {
+        "value": [
+          "I don’t think a country’s economy benefits from currency union",
+          "as just adhering to this system has significant costs.",
+          "In his article, Murthy (2017) notes that the Central Bank keeps the interest rates and inflation low, which leads to more investment."
+        ],
+        "type": "array",
+        "updatedFormat": true,
+        "apiVersion": "v2.177.31",
+        "revision": 3,
+        "feedbackAttemptsCount": 1
+      },
+      "questionInfo": {
+        "type": "association",
+        "widget_type": "response",
+        "reference": "16ebe99e-a010-43b8-940b-bd5f7c0cb9ed",
+        "data": {
+          "possible_responses": [
+            "as just adhering to this system has significant costs.",
+            "In his article, Murthy (2017) notes that the Central Bank keeps the interest rates and inflation low, which leads to more investment.",
+            "According to Lowe (2016), retailers for example would have to spend between £1.7 and £3.5 billion just to educate customers, train staff, buy computer software and adjust invoices.",
+            "I don’t think a country’s economy benefits from currency union",
+            "by keeping interest rates and inflation low."
+          ],
+          "stimulus_list": [
+            "<span style=\"font-size:1.3em;\"><strong><span style=\"color:#0000cd;\">CLAIM</span></strong></span>",
+            "<span style=\"font-size:1.3em;\"><span style=\"color:#b22222;\"><strong>REASON</strong></span></span>",
+            "<span style=\"color:#008000;\"><strong><span style=\"font-size:1.3em;\">EVIDENCE</span></strong></span>"
+          ],
+          "type": "association",
+          "validation": {
+            "scoring_type": "exactMatch",
+            "valid_response": {
+              "score": 1,
+              "value": [
+                "I don’t think a country’s economy benefits from currency union",
+                "as just adhering to this system has significant costs.",
+                "According to Lowe (2016), retailers for example would have to spend between £1.7 and £3.5 billion just to educate customers, train staff, buy computer software and adjust invoices."
+              ]
+            }
+          },
+          "instant_feedback": true
+        },
+        "metadata": {
+          "name": "Match list",
+          "template_reference": "1fa22aac-1f88-47f7-941b-3c77759549e6"
+        }
+      },
+      "feedbackInfo": [
+        null,
+        null
+      ]
+    },
+    {
+      "response_id": "1b56891a-cd58-4645-bf26-c67fbb116eef_7489838531f2f80f874077c6795dec26",
+      "question_type": "clozedropdown",
+      "dt_score_updated": "2023-10-16T11:08:25Z",
+      "automarkable": true,
+      "attempted": true,
+      "score": 6,
+      "max_score": 6,
+      "question_reference": "db0612de-422e-445b-9d9a-08407750c9e3",
+      "item_reference": "561b6cd8-ee95-41c8-8fa9-8ae8278fd089",
+      "response": {
+        "value": [
+          "may benefit",
+          "It's not likely",
+          "appears to have",
+          "many possible",
+          "can be",
+          "may be"
+        ],
+        "type": "array",
+        "apiVersion": "v2.177.31",
+        "revision": 4,
+        "feedbackAttemptsCount": 1
+      },
+      "questionInfo": {
+        "type": "clozedropdown",
+        "widget_type": "response",
+        "reference": "db0612de-422e-445b-9d9a-08407750c9e3",
+        "data": {
+          "possible_responses": [
+            [
+              "will benefit",
+              "may benefit"
+            ],
+            [
+              "It's not likely",
+              "It's not possible"
+            ],
+            [
+              "clearly has",
+              "appears to have"
+            ],
+            [
+              "many",
+              "many possible"
+            ],
+            [
+              "can be",
+              "is"
+            ],
+            [
+              "may be",
+              "are"
+            ]
+          ],
+          "response_container": {
+            "pointer": "left"
+          },
+          "stimulus": "<h2><b>Consider the sentences below from the previous exercise.</b></h2>\n\n<p><img height=\"183\" src=\"https://assets.learnosity.com/organisations/755/59baf31d-5e3c-4d22-b73e-7b65184328db.jpg\" width=\"350\"></p>\n\n<h4><b><span style=\"color:#b22222;\">► </span>Choose the option from the drop down that uses&nbsp;<span style=\"color:#b22222;\">cautious language</span></b></h4>\n",
+          "template": "<ol>\n\t<li><span style=\"font-size:1.3em;\">The general public&nbsp;</span><span style=\"font-size:1em;\">{{response}}</span><span style=\"font-size:1.3em;\">&nbsp;from having a single currency.&nbsp;</span></li>\n\t<li><span style=\"font-size:1.3em;\"></span><span style=\"font-size:1em;\">{{response}}</span><span style=\"font-size:1.3em;\">&nbsp;that a country’s will economy to benefit from a currency union.</span></li>\n\t<li><span style=\"font-size:1.3em;\">The single currency&nbsp;</span><span style=\"font-size:1em;\">{{response}}</span><span style=\"font-size:1.3em;\">&nbsp;a positive effect on the economy.</span></li>\n\t<li><span style=\"font-size:1.3em;\">There are&nbsp;</span><span style=\"font-size:1em;\">{{response}}</span><span style=\"font-size:1.3em;\">&nbsp;political difficulties in implementing a currency union.</span></li>\n\t<li><span style=\"font-size:1.3em;\">In my opinion, a single currency&nbsp;</span><span style=\"font-size:1em;\">{{response}}</span><span style=\"font-size:1.3em;\">&nbsp;a disadvantage</span></li>\n\t<li><span style=\"font-size:1.3em;\">There&nbsp;</span><span style=\"font-size:1em;\">{{response}}</span><span style=\"font-size:1.3em;\">&nbsp;many political difficulties in implementing a currency union.</span></li>\n</ol>\n",
+          "type": "clozedropdown",
+          "case_sensitive": true,
+          "validation": {
+            "scoring_type": "partialMatchV2",
+            "valid_response": {
+              "score": 6,
+              "value": [
+                "may benefit",
+                "It's not likely",
+                "appears to have",
+                "many possible",
+                "can be",
+                "may be"
+              ]
+            }
+          },
+          "instant_feedback": true,
+          "shuffle_options": true
+        },
+        "metadata": {
+          "name": "Cloze with drop down",
+          "template_reference": "2fbba51b-e35e-441f-83c7-2662e2e81fa6"
+        }
+      },
+      "feedbackInfo": [
+        null,
+        null
+      ]
+    }
+  ]
+}

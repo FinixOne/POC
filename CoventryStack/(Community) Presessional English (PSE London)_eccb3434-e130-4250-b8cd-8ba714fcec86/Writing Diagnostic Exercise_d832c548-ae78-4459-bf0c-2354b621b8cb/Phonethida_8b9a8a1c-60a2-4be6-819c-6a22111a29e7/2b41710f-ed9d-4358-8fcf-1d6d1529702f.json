@@ -1,0 +1,114 @@
+{
+  "userId": "8b9a8a1c-60a2-4be6-819c-6a22111a29e7",
+  "firstName": "Phonethida",
+  "lastName": "Souksavath",
+  "assigmentId": "d832c548-ae78-4459-bf0c-2354b621b8cb",
+  "assigmentName": "Writing Diagnostic Exercise",
+  "sessionId": "2b41710f-ed9d-4358-8fcf-1d6d1529702f",
+  "email": "souksavatp@coventry.ac.uk",
+  "spaceId": "eccb3434-e130-4250-b8cd-8ba714fcec86",
+  "spaceName": "(Community) Presessional English (PSE London)",
+  "score": 0,
+  "max_score": 40,
+  "questions": [
+    {
+      "response_id": "2b41710f-ed9d-4358-8fcf-1d6d1529702f_29a59873d64e3761ccb0d29ecca16973",
+      "question_type": "longtextV2",
+      "dt_score_updated": "2023-11-06T11:39:13Z",
+      "automarkable": false,
+      "attempted": true,
+      "score": null,
+      "max_score": 40,
+      "question_reference": "8ce3bee1-48e8-4baa-b2e3-5bf8083389e0",
+      "item_reference": "570ff370-fde4-49bc-959d-b91c3099b1d6",
+      "response": {
+        "value": "<p>The aim of this report is to analyse the transportation that student mostly use to travel to study. Therefore, the university located in the middle of the city, so student need to spend time to arriving the destination. To explain that, student mostly travel either by bike or train which are the most convenience transportation to be used. </p><p><br></p><p>Most of the students tent to travel by bike due to many reasons. Firstly, student can produce zero waste of pollution which are good for the environment. Secondly, they could do a multi-task; they could exercise along with traveling at the same time which is good for their health as well. Lastly, traveling by bike is the cheapest way for them to travel. They could invest buying a bicycle which are long term use transportation. However travel by bicycle can be a waste of time. For example during rush hour, student can stuck in the traffic jam, also in crowded area they need to ride slowly to prevent accidents. Another example, travel by bike in summer which the weather is in high temperatures. Student can being sweat before arriving, sometime they need short time spending on changing clothes and also spending more clothes per day. Last example which is very important to the university, there are no bike parking space which student feel unsafe for their bike to be parked around the area.</p><p><br></p><p>Another popular transportation will be by train. As the university located near train station, students are comfortable to travel by train because it quicker, save time to spend on other activities and cause less pollution because many people can travel at the same time. Even though travel by train likely to be the best way to travel, it can also cause problem. Travel by train tent to be more expensive, even having student price seems to not be worth it for some particular group of students. Travel by train are extremely crowded during rush hours along with arriving at the station late from schedules and cancelled for holidays or maintenances, that are the main reasons that students can be late for classes. </p><p><br></p><p>For the recommendations, university needs to provide safe area for bike parking space which could be nearby area along with providing rooms for student changing clothes before and after classes. University also need to launch classes which could avoid rush hours when student are on their way to join classes. To expand that, during rush hour could be class time so student can arrive before rush hours and go back home after rush hours as well. The university need to provide more information and other transportation which student could use which spending less time than bike and also cheaper than travel by train such as bus or scooter.</p>",
+        "wordCount": 461,
+        "type": "string",
+        "apiVersion": "v2.192.17",
+        "revision": 99
+      },
+      "questionInfo": {
+        "type": "longtextV2",
+        "widget_type": "response",
+        "reference": "8ce3bee1-48e8-4baa-b2e3-5bf8083389e0",
+        "data": {
+          "stimulus": "<h2 id=\"yui_3_17_2_1_1628703407776_1784\"><span style=\"color:#0000ff;\"><b id=\"yui_3_17_2_1_1628703407776_2039\">You are going to write a report for your University. </b></span></h2>\n\n<h4><b>You should…</b></h4>\n\n<ul id=\"yui_3_17_2_1_1628703407776_2050\">\n\t<li><span style=\"font-size:1.3em;\">Write about the&nbsp;TWO&nbsp;most popular means of transportation used by students</span></li>\n\t<li><span style=\"font-size:1.3em;\">Discuss the advantages&nbsp;AND&nbsp;disadvantages</span></li>\n\t<li><span style=\"font-size:1.3em;\">Make some recommendations to the university</span></li>\n</ul>\n\n<h5 id=\"yui_3_17_2_1_1628703407776_2051\">&nbsp;</h5>\n\n<h4 id=\"yui_3_17_2_1_1628703407776_2055\"><b id=\"yui_3_17_2_1_1628703407776_2057\">Analyse the information in the table below:</b></h4>\n\n<p><img height=\"285\" src=\"https://assets.learnosity.com/organisations/755/501dfa12-1cf8-4ced-a6ab-aa6ba44e3379.JPG\" width=\"701\" /></p>\n\n<p><img height=\"259\" src=\"https://assets.learnosity.com/organisations/755/2bc31a90-4e37-4aed-8f9c-b1924cc4ec71.JPG\" width=\"699\" /></p>\n\n<h4>&nbsp;</h4>\n\n<h4><span style=\"color:#0000ff;\"><b>Write your report using&nbsp; ALL&nbsp;the information in the table.</b></span></h4>\n\n<h4><span style=\"color:#ff0000;\"><b><u>Write COMPLETE sentences.&nbsp;Do NOT use bullet points.</u></b></span></h4>\n\n<h4><b style=\"\">Use at least&nbsp;ONE&nbsp;of <u>your own ideas</u>&nbsp;</b><b style=\"\">in the recommendations section.</b></h4>\n\n<h4>&nbsp;</h4>\n\n<h4><b>Follow the&nbsp;report structure&nbsp;you can see below:</b></h4>\n\n<p>&nbsp;</p>\n\n<p><img height=\"523\" src=\"https://assets.learnosity.com/organisations/755/2694fd52-288e-4118-90cd-de27f223d78a.JPG\" width=\"400\" /></p>\n\n<h4>&nbsp;</h4>\n\n<h4><b>Write your report in the box below.&nbsp;Start with:&nbsp;</b></h4>\n\n<p><span style=\"font-size:1.3em;\"><i>The aim of this report is to ...</i></span></p>\n",
+          "type": "longtextV2",
+          "formatting_options": [
+            "bold",
+            "italic",
+            "underline",
+            "|",
+            "unorderedList",
+            "orderedList",
+            "redo"
+          ],
+          "validation": {
+            "max_score": 40
+          }
+        },
+        "metadata": {
+          "name": "Essay with rich text",
+          "template_reference": "1e6039f8-0676-495d-aca9-108710a51ce5"
+        }
+      },
+      "feedbackInfo": [
+        {
+          "id": "0707_8b9a8a1c-60a2-4be6-819c-6a22111a29e7_2b41710f-ed9d-4358-8fcf-1d6d1529702f_8896c8023122f5ddb921ab2fb2fd5500",
+          "user_id": "8b9a8a1c-60a2-4be6-819c-6a22111a29e7",
+          "response_id": "2b41710f-ed9d-4358-8fcf-1d6d1529702f_8896c8023122f5ddb921ab2fb2fd5500",
+          "type": "longtextV2",
+          "question": {
+            "type": "longtextV2",
+            "metadata": {
+              "source": {
+                "organisation_id": 755
+              },
+              "sheet_reference": "default_feedback",
+              "widget_reference": "de082b5f-742a-4ecf-82ca-4dc86e218fec",
+              "valid_response_count": 0
+            },
+            "stimulus": "Written feedback:",
+            "response_id": "2b41710f-ed9d-4358-8fcf-1d6d1529702f_8896c8023122f5ddb921ab2fb2fd5500",
+            "show_word_count": false,
+            "show_word_limit": "off"
+          },
+          "response": null,
+          "creation_date": "2023-11-06 14:37:17",
+          "mod_date": "2023-11-06 14:37:17",
+          "persist_until": "2023-11-07 14:37:17",
+          "saved": false
+        },
+        {
+          "id": "0707_8b9a8a1c-60a2-4be6-819c-6a22111a29e7_2b41710f-ed9d-4358-8fcf-1d6d1529702f_c47aacf91ee9b03e279332e2ec3647d4",
+          "user_id": "8b9a8a1c-60a2-4be6-819c-6a22111a29e7",
+          "response_id": "2b41710f-ed9d-4358-8fcf-1d6d1529702f_c47aacf91ee9b03e279332e2ec3647d4",
+          "type": "audio",
+          "question": {
+            "type": "audio",
+            "metadata": {
+              "source": {
+                "organisation_id": 755
+              },
+              "sheet_reference": "default_feedback",
+              "widget_reference": "b2f049b4-bb33-4542-993d-0645ffedda1a",
+              "valid_response_count": 0
+            },
+            "stimulus": "Audio feedback:",
+            "ui_style": {
+              "type": "button"
+            },
+            "max_length": 600,
+            "response_id": "2b41710f-ed9d-4358-8fcf-1d6d1529702f_c47aacf91ee9b03e279332e2ec3647d4"
+          },
+          "response": null,
+          "creation_date": "2023-11-06 14:37:17",
+          "mod_date": "2023-11-06 14:37:17",
+          "persist_until": "2023-11-07 14:37:17",
+          "saved": false
+        }
+      ]
+    }
+  ]
+}

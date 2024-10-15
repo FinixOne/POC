@@ -1,0 +1,1812 @@
+{
+  "userId": "9f9d8552-8457-4d5a-8384-1401627f36f5",
+  "firstName": "Xuan",
+  "lastName": "Liu",
+  "assigmentId": "b3afbfd3-96c6-4457-bfe5-4890fbb0477c",
+  "assigmentName": "Reading: Sustainable Energy (1)",
+  "sessionId": "2b860a66-a054-4af5-84f8-4e29539743ca",
+  "email": "liux144@coventry.ac.uk",
+  "spaceId": "eccb3434-e130-4250-b8cd-8ba714fcec86",
+  "spaceName": "(Community) Presessional English (PSE London)",
+  "score": 36,
+  "max_score": 39,
+  "questions": [
+    {
+      "response_id": "2b860a66-a054-4af5-84f8-4e29539743ca_019cedc2c436b502f8e3d4c47b56a2f3",
+      "question_type": "clozeassociation",
+      "dt_score_updated": "2022-09-12T12:22:05Z",
+      "automarkable": true,
+      "attempted": true,
+      "score": 8,
+      "max_score": 8,
+      "question_reference": "f7b16c9d-c500-401f-9674-526fe41368fc",
+      "item_reference": "72b2c27f-2282-44ea-946c-77e25cd47cd0",
+      "response": {
+        "value": [
+          "Emission",
+          "Landfill",
+          "Hydro power",
+          "To harness",
+          "Wind turbine",
+          "Renewable energy",
+          "Biomass",
+          "Fossil fuel"
+        ],
+        "type": "array",
+        "apiVersion": "v2.168.23",
+        "revision": 10,
+        "feedbackAttemptsCount": 1
+      },
+      "questionInfo": {
+        "type": "clozeassociation",
+        "widget_type": "response",
+        "reference": "f7b16c9d-c500-401f-9674-526fe41368fc",
+        "data": {
+          "possible_responses": [
+            "Biomass",
+            "Emission",
+            "Hydro power",
+            "Wind turbine",
+            "To harness",
+            "Renewable energy",
+            "Landfill",
+            "Fossil fuel"
+          ],
+          "response_container": {
+            "pointer": "left"
+          },
+          "stimulus": "<h2 id=\"yui_3_17_2_1_1630937335513_8453\"><b id=\"yui_3_17_2_1_1630937335513_8454\">Let's start with some&nbsp;<span style=\"color:#008080;\">VOCABULARY</span>.</b></h2>\n\n<h4 id=\"yui_3_17_2_1_1630937335513_8457\"><b><span style=\"color:#008080;\">►</span> Consider the words below.&nbsp;</b><b id=\"yui_3_17_2_1_1630937335513_8460\">They are key words from the text.</b></h4>\n\n<p id=\"yui_3_17_2_1_1630937335513_8461\"><img class=\"lrn-image-non-responsive\" height=\"271\" src=\"https://assets.learnosity.com/organisations/755/6b94dd8f-8d50-4f3d-95af-0ef491928d3b.jpg\" width=\"300\"></p>\n\n<h4><b><span style=\"color:#008080;\">► </span>Match each word with its meaning.</b></h4>\n",
+          "template": "<ol>\n\t<li><span style=\"font-size:1.1em;\">A substance that goes into the air.&nbsp;{{response}}</span></li>\n\t<li><span style=\"font-size:1.1em;\">A site where waste from people’s homes, or waste from industry, is buried.&nbsp;{{response}}</span></li>\n\t<li><span style=\"font-size:1.1em;\">Energy that comes from water.&nbsp;{{response}}</span></li>\n\t<li><span style=\"font-size:1.1em;\">To control or make use of resources to make energy.&nbsp;{{response}}</span></li>\n\t<li><span style=\"font-size:1.1em;\">An engine or machine that uses pressure from the wind to make power.&nbsp;{{response}}</span></li>\n\t<li><span style=\"font-size:1.1em;\">A type of power that can replace itself through natural processes.&nbsp;{{response}}</span></li>\n\t<li><span style=\"font-size:1.1em;\">Plant and animal substances used for fuel.&nbsp;{{response}}</span></li>\n\t<li><span style=\"font-size:1.1em;\">Energy that comes from very old, decayed material. Coal, oil or gas are examples of this type of energy.&nbsp;{{response}}</span></li>\n</ol>\n",
+          "type": "clozeassociation",
+          "case_sensitive": true,
+          "validation": {
+            "scoring_type": "partialMatchV2",
+            "valid_response": {
+              "score": 8,
+              "value": [
+                "Emission",
+                "Landfill",
+                "Hydro power",
+                "To harness",
+                "Wind turbine",
+                "Renewable energy",
+                "Biomass",
+                "Fossil fuel"
+              ]
+            }
+          },
+          "instant_feedback": true,
+          "shuffle_options": true
+        },
+        "metadata": {
+          "name": "Cloze with drag & drop",
+          "template_reference": "51a8c1e7-f34f-4faf-b211-da458e891fcb"
+        }
+      },
+      "feedbackInfo": [
+        null,
+        null
+      ]
+    },
+    {
+      "response_id": "2b860a66-a054-4af5-84f8-4e29539743ca_7db695cb6f933ce2c09edf2f9b8dcbee",
+      "question_type": "mcq",
+      "dt_score_updated": "2022-09-12T12:31:39Z",
+      "automarkable": true,
+      "attempted": true,
+      "score": 1,
+      "max_score": 1,
+      "question_reference": "2a3869b7-21a5-4fa3-a71e-d59d26723800",
+      "item_reference": "3d1021ac-8c8b-4c66-92a2-1c2fae9ff382",
+      "response": {
+        "value": [
+          "4"
+        ],
+        "type": "array",
+        "apiVersion": "v2.168.23",
+        "revision": 1,
+        "feedbackAttemptsCount": 1
+      },
+      "questionInfo": {
+        "type": "mcq",
+        "widget_type": "response",
+        "reference": "2a3869b7-21a5-4fa3-a71e-d59d26723800",
+        "data": {
+          "options": [
+            {
+              "label": "<span style=\"font-size:1.1em;\">solar panels</span>",
+              "value": "3"
+            },
+            {
+              "label": "<span style=\"font-size:1.1em;\">fossil fuels</span>",
+              "value": "4"
+            },
+            {
+              "label": "<span style=\"font-size:1.1em;\">biomass</span>",
+              "value": "5"
+            },
+            {
+              "label": "<span style=\"font-size:1.1em;\">wind turbines</span>",
+              "value": "6"
+            }
+          ],
+          "stimulus": "<div class=\"lrn-well\"><strong><span style=\"font-size:1.3em;\">1.&nbsp;Twenty years ago, Kristianstad got its heating from...</span></strong></div>\n\n<p><span style=\"font-weight: bold; color: rgb(255, 0, 0);\"></span><font color=\"#ff0000\"><b>► </b></font><b>Read the text carefully!&nbsp;</b><span style=\"font-weight:bold\"><span style=\"color:#ff0000\"><u>You have only ONE 'check answer' attempt</u>!</span></span><span style=\"font-weight: bold; color: rgb(255, 0, 0);\"></span></p>\n",
+          "type": "mcq",
+          "ui_style": {
+            "choice_label": "upper-alpha",
+            "type": "block"
+          },
+          "validation": {
+            "scoring_type": "exactMatch",
+            "valid_response": {
+              "score": 1,
+              "value": [
+                "4"
+              ]
+            }
+          },
+          "feedback_attempts": 1,
+          "instant_feedback": true,
+          "shuffle_options": true
+        },
+        "metadata": {
+          "name": "Multiple choice – block layout",
+          "template_reference": "33d53a22-1a59-4a03-9671-7f5104edd62e"
+        }
+      },
+      "feedbackInfo": [
+        null,
+        null
+      ]
+    },
+    {
+      "response_id": "2b860a66-a054-4af5-84f8-4e29539743ca_126c6cc346f3e0ae6815cefefb4d2908",
+      "question_type": "mcq",
+      "dt_score_updated": "2022-09-12T12:38:20Z",
+      "automarkable": true,
+      "attempted": true,
+      "score": 0,
+      "max_score": 1,
+      "question_reference": "36a8d43b-e28e-44ee-8bc0-cdd20d827b19",
+      "item_reference": "3d1021ac-8c8b-4c66-92a2-1c2fae9ff382",
+      "response": {
+        "value": [
+          "3"
+        ],
+        "type": "array",
+        "apiVersion": "v2.168.23",
+        "revision": 1,
+        "feedbackAttemptsCount": 1
+      },
+      "questionInfo": {
+        "type": "mcq",
+        "widget_type": "response",
+        "reference": "36a8d43b-e28e-44ee-8bc0-cdd20d827b19",
+        "data": {
+          "options": [
+            {
+              "label": "<span style=\"font-size:1.1em;\">waste processing</span>",
+              "value": "3"
+            },
+            {
+              "label": "<span style=\"font-size:1.1em;\">food production</span>",
+              "value": "4"
+            },
+            {
+              "label": "<span style=\"font-size:1.1em;\">alternative energy production</span>",
+              "value": "5"
+            },
+            {
+              "label": "<span style=\"font-size:1.1em;\">alcohol production</span>",
+              "value": "6"
+            }
+          ],
+          "stimulus": "<div class=\"lrn-well\"><strong><span style=\"font-size:1.3em;\">2.&nbsp;What is Kristianstad’s main industry?&nbsp;</span></strong></div>\n\n<p><span style=\"font-weight: bold; color: rgb(255, 0, 0);\"></span><font color=\"#ff0000\"><b>► </b></font><b>Read the text carefully!&nbsp;</b><span style=\"font-weight:bold\"><span style=\"color:#ff0000\"><u>You have only ONE 'check answer' attempt</u>!</span></span><span style=\"font-weight: bold; color: rgb(255, 0, 0);\"></span></p>\n",
+          "type": "mcq",
+          "ui_style": {
+            "choice_label": "upper-alpha",
+            "type": "block"
+          },
+          "validation": {
+            "scoring_type": "exactMatch",
+            "valid_response": {
+              "score": 1,
+              "value": [
+                "4"
+              ]
+            }
+          },
+          "feedback_attempts": 1,
+          "instant_feedback": true,
+          "shuffle_options": true
+        },
+        "metadata": {
+          "name": "Multiple choice – block layout",
+          "template_reference": "33d53a22-1a59-4a03-9671-7f5104edd62e"
+        }
+      },
+      "feedbackInfo": [
+        null,
+        null
+      ]
+    },
+    {
+      "response_id": "2b860a66-a054-4af5-84f8-4e29539743ca_05d473948e30b7281144710466e86062",
+      "question_type": "mcq",
+      "dt_score_updated": "2022-09-12T12:40:10Z",
+      "automarkable": true,
+      "attempted": true,
+      "score": 2,
+      "max_score": 2,
+      "question_reference": "95a97a87-8b0e-44b1-879c-f91836ceedba",
+      "item_reference": "3d1021ac-8c8b-4c66-92a2-1c2fae9ff382",
+      "response": {
+        "value": [
+          "4",
+          "3"
+        ],
+        "type": "array",
+        "apiVersion": "v2.168.23",
+        "revision": 1
+      },
+      "questionInfo": {
+        "type": "mcq",
+        "widget_type": "response",
+        "reference": "95a97a87-8b0e-44b1-879c-f91836ceedba",
+        "data": {
+          "options": [
+            {
+              "label": "<span style=\"font-size:1.1em;\">stale bread</span>",
+              "value": "3"
+            },
+            {
+              "label": "<span style=\"font-size:1.1em;\">rotting fruit</span>",
+              "value": "4"
+            },
+            {
+              "label": "<span style=\"font-size:1.1em;\">used cooking oil</span>",
+              "value": "5"
+            },
+            {
+              "label": "<span style=\"font-size:1.1em;\">manure</span>",
+              "value": "6"
+            },
+            {
+              "label": "<span style=\"font-size:1.1em;\">potato peels</span>",
+              "value": "7"
+            }
+          ],
+          "stimulus": "<div class=\"lrn-well\"><strong><span style=\"font-size:1.3em;\">3.&nbsp;</span><span style=\"font-size:1.3em;\"><span style=\"color: inherit; font-family: &quot;Helvetica Neue&quot;, Helvetica, Arial, sans-serif;\">Which of the following are NOT mentioned as ingredients for generating energy?&nbsp;</span></span></strong><span style=\"font-size:1.3em;\">(choose TWO)</span><strong><span style=\"font-size:1.3em;\"><span style=\"color: inherit; font-family: &quot;Helvetica Neue&quot;, Helvetica, Arial, sans-serif;\"></span></span><span style=\"font-size:1.3em;\"></span></strong></div>\n\n<p>&nbsp;</p>\n\n<p><span style=\"font-weight: bold; color: rgb(255, 0, 0);\"></span><font color=\"#ff0000\"><b>► </b></font><b>Read the text carefully!&nbsp;</b><span style=\"font-weight:bold\"><span style=\"color:#ff0000\"><u>You have only ONE 'check answer' attempt</u>!</span></span><span style=\"font-weight: bold; color: rgb(255, 0, 0);\"></span></p>\n",
+          "type": "mcq",
+          "ui_style": {
+            "choice_label": "upper-alpha",
+            "type": "block"
+          },
+          "validation": {
+            "scoring_type": "exactMatch",
+            "valid_response": {
+              "score": 2,
+              "value": [
+                "3",
+                "4"
+              ]
+            }
+          },
+          "feedback_attempts": 1,
+          "instant_feedback": true,
+          "shuffle_options": true,
+          "multiple_responses": true
+        },
+        "metadata": {
+          "name": "Multiple choice – block layout",
+          "template_reference": "33d53a22-1a59-4a03-9671-7f5104edd62e"
+        }
+      },
+      "feedbackInfo": [
+        null,
+        null
+      ]
+    },
+    {
+      "response_id": "2b860a66-a054-4af5-84f8-4e29539743ca_73d8959f26766c2cfd79371e50e43805",
+      "question_type": "shorttext",
+      "dt_score_updated": "2022-09-12T12:52:06Z",
+      "automarkable": true,
+      "attempted": true,
+      "score": 0,
+      "max_score": 1,
+      "question_reference": "2d276b74-aa1c-4af2-8e02-a4729224743c",
+      "item_reference": "3d1021ac-8c8b-4c66-92a2-1c2fae9ff382",
+      "response": {
+        "value": "southern Swedish",
+        "characterCount": 16,
+        "type": "string",
+        "apiVersion": "v2.168.23",
+        "revision": 6,
+        "feedbackAttemptsCount": 8
+      },
+      "questionInfo": {
+        "type": "shorttext",
+        "widget_type": "response",
+        "reference": "2d276b74-aa1c-4af2-8e02-a4729224743c",
+        "data": {
+          "stimulus": "<div class=\"lrn-well\"><strong><span style=\"font-size:1.3em;\">4.&nbsp;In which area of Kristianstad is the energy-generating plant situated?</span></strong></div>\n\n<p><span style=\"font-size:1.1em;\">Write your answer below:&nbsp;</span></p>\n",
+          "type": "shorttext",
+          "validation": {
+            "scoring_type": "exactMatch",
+            "valid_response": {
+              "score": 1,
+              "matching_rule": "contains",
+              "value": "outskirts"
+            }
+          },
+          "instant_feedback": true,
+          "character_map": true
+        },
+        "metadata": {
+          "name": "Short text",
+          "template_reference": "4fe6c726-419c-4aff-b189-4a9756a0ffda"
+        }
+      },
+      "feedbackInfo": [
+        null,
+        null
+      ]
+    },
+    {
+      "response_id": "2b860a66-a054-4af5-84f8-4e29539743ca_6c1ee5fe709a7009cc1575a603e8d9e0",
+      "question_type": "mcq",
+      "dt_score_updated": "2022-09-12T13:06:49Z",
+      "automarkable": true,
+      "attempted": true,
+      "score": 1,
+      "max_score": 1,
+      "question_reference": "7ce96a54-2f3c-4919-8c04-b01c5ed07bf1",
+      "item_reference": "3d1021ac-8c8b-4c66-92a2-1c2fae9ff382",
+      "response": {
+        "value": [
+          "6"
+        ],
+        "type": "array",
+        "apiVersion": "v2.168.23",
+        "revision": 1,
+        "feedbackAttemptsCount": 1
+      },
+      "questionInfo": {
+        "type": "mcq",
+        "widget_type": "response",
+        "reference": "7ce96a54-2f3c-4919-8c04-b01c5ed07bf1",
+        "data": {
+          "options": [
+            {
+              "label": "<span style=\"font-size:1.1em;\">lakes</span>",
+              "value": "3"
+            },
+            {
+              "label": "<span style=\"font-size:1.1em;\">alcohol</span>",
+              "value": "4"
+            },
+            {
+              "label": "<span style=\"font-size:1.1em;\">rivers</span>",
+              "value": "5"
+            },
+            {
+              "label": "<span style=\"font-size:1.1em;\">landfill</span>",
+              "value": "6"
+            }
+          ],
+          "stimulus": "<div class=\"lrn-well\"><strong><span style=\"font-size:1.3em;\">5.&nbsp;</span><span style=\"font-size:1.3em;\">Which one of the following is used as a local source of power in Kristianstad?&nbsp;</span></strong></div>\n\n<p><span style=\"font-weight: bold; color: rgb(255, 0, 0);\"></span><font color=\"#ff0000\"><b>► </b></font><b>Read the text carefully!&nbsp;</b><span style=\"font-weight:bold\"><span style=\"color:#ff0000\"><u>You have only ONE 'check answer' attempt</u>!</span></span><span style=\"font-weight: bold; color: rgb(255, 0, 0);\"></span></p>\n",
+          "type": "mcq",
+          "ui_style": {
+            "choice_label": "upper-alpha",
+            "type": "block"
+          },
+          "validation": {
+            "scoring_type": "exactMatch",
+            "valid_response": {
+              "score": 1,
+              "value": [
+                "6"
+              ]
+            }
+          },
+          "feedback_attempts": 1,
+          "instant_feedback": true,
+          "shuffle_options": true
+        },
+        "metadata": {
+          "name": "Multiple choice – block layout",
+          "template_reference": "33d53a22-1a59-4a03-9671-7f5104edd62e"
+        }
+      },
+      "feedbackInfo": [
+        null,
+        null
+      ]
+    },
+    {
+      "response_id": "2b860a66-a054-4af5-84f8-4e29539743ca_50f258704296faa1598a3d92e1d05b1b",
+      "question_type": "shorttext",
+      "dt_score_updated": "2022-09-12T13:58:59Z",
+      "automarkable": true,
+      "attempted": true,
+      "score": 1,
+      "max_score": 1,
+      "question_reference": "05164201-ae38-4c6b-a2f5-2cef3945445c",
+      "item_reference": "3d1021ac-8c8b-4c66-92a2-1c2fae9ff382",
+      "response": {
+        "value": "reliance and renewable",
+        "characterCount": 22,
+        "type": "string",
+        "apiVersion": "v2.168.23",
+        "revision": 17,
+        "feedbackAttemptsCount": 17
+      },
+      "questionInfo": {
+        "type": "shorttext",
+        "widget_type": "response",
+        "reference": "05164201-ae38-4c6b-a2f5-2cef3945445c",
+        "data": {
+          "stimulus": "<div class=\"lrn-well\"><strong><span style=\"font-size:1.3em;\">6.&nbsp;What energy source are most European countries investing in?&nbsp;</span></strong></div>\n\n<p><span style=\"font-size:1.1em;\">Write your answer below:&nbsp;</span></p>\n",
+          "type": "shorttext",
+          "validation": {
+            "scoring_type": "exactMatch",
+            "valid_response": {
+              "score": 1,
+              "matching_rule": "contains",
+              "value": "renewable"
+            }
+          },
+          "instant_feedback": true,
+          "spellcheck": true
+        },
+        "metadata": {
+          "name": "Short text",
+          "template_reference": "4fe6c726-419c-4aff-b189-4a9756a0ffda"
+        }
+      },
+      "feedbackInfo": [
+        null,
+        null
+      ]
+    },
+    {
+      "response_id": "2b860a66-a054-4af5-84f8-4e29539743ca_fd1f5a20afec8875e862b590da57a9a1",
+      "question_type": "mcq",
+      "dt_score_updated": "2022-09-12T13:23:38Z",
+      "automarkable": true,
+      "attempted": true,
+      "score": 1,
+      "max_score": 1,
+      "question_reference": "9960cd81-6785-421f-bfc8-041895b00353",
+      "item_reference": "3d1021ac-8c8b-4c66-92a2-1c2fae9ff382",
+      "response": {
+        "value": [
+          "3"
+        ],
+        "type": "array",
+        "apiVersion": "v2.168.23",
+        "revision": 2,
+        "feedbackAttemptsCount": 1
+      },
+      "questionInfo": {
+        "type": "mcq",
+        "widget_type": "response",
+        "reference": "9960cd81-6785-421f-bfc8-041895b00353",
+        "data": {
+          "options": [
+            {
+              "label": "<span style=\"font-size:1.1em;\">a quarter</span>",
+              "value": "4"
+            },
+            {
+              "label": "<span style=\"font-size:1.1em;\">one-third</span>",
+              "value": "5"
+            },
+            {
+              "label": "<span style=\"font-size:1.1em;\">a half</span>",
+              "value": "3"
+            },
+            {
+              "label": "<span style=\"font-size:1.1em;\">three-quarters</span>",
+              "value": "6"
+            }
+          ],
+          "stimulus": "<div class=\"lrn-well\"><strong><span style=\"font-size:1.3em;\">7.&nbsp;</span><span style=\"font-size:1.3em;\">By what amount has Kristianstad reduced its fossil fuel use?</span></strong></div>\n\n<p><span style=\"font-weight: bold; color: rgb(255, 0, 0);\"></span><font color=\"#ff0000\"><b>► </b></font><b>Read the text carefully!&nbsp;</b><span style=\"font-weight:bold\"><span style=\"color:#ff0000\"><u>You have only ONE 'check answer' attempt</u>!</span></span><span style=\"font-weight: bold; color: rgb(255, 0, 0);\"></span></p>\n",
+          "type": "mcq",
+          "ui_style": {
+            "choice_label": "upper-alpha",
+            "type": "block"
+          },
+          "validation": {
+            "scoring_type": "exactMatch",
+            "valid_response": {
+              "score": 1,
+              "value": [
+                "3"
+              ]
+            }
+          },
+          "feedback_attempts": 1,
+          "instant_feedback": true,
+          "shuffle_options": true
+        },
+        "metadata": {
+          "name": "Multiple choice – block layout",
+          "template_reference": "33d53a22-1a59-4a03-9671-7f5104edd62e"
+        }
+      },
+      "feedbackInfo": [
+        null,
+        null
+      ]
+    },
+    {
+      "response_id": "2b860a66-a054-4af5-84f8-4e29539743ca_de168b043628ccee9fac0f3fe14d3452",
+      "question_type": "mcq",
+      "dt_score_updated": "2022-09-12T13:55:56Z",
+      "automarkable": true,
+      "attempted": true,
+      "score": 1,
+      "max_score": 1,
+      "question_reference": "7539c985-8c35-44a3-8a2d-b78fb941de48",
+      "item_reference": "3d1021ac-8c8b-4c66-92a2-1c2fae9ff382",
+      "response": {
+        "value": [
+          "4"
+        ],
+        "type": "array",
+        "apiVersion": "v2.168.23",
+        "revision": 3,
+        "feedbackAttemptsCount": 1
+      },
+      "questionInfo": {
+        "type": "mcq",
+        "widget_type": "response",
+        "reference": "7539c985-8c35-44a3-8a2d-b78fb941de48",
+        "data": {
+          "options": [
+            {
+              "label": "<span style=\"font-size:1.1em;\">151</span>",
+              "value": "4"
+            },
+            {
+              "label": "<span style=\"font-size:1.1em;\">1550</span>",
+              "value": "5"
+            },
+            {
+              "label": "<span style=\"font-size:1.1em;\">1800</span>",
+              "value": "3"
+            },
+            {
+              "label": "<span style=\"font-size:1.1em;\">8000</span>",
+              "value": "6"
+            }
+          ],
+          "stimulus": "<div class=\"lrn-well\"><strong><span style=\"font-size:1.3em;\">8.&nbsp;</span><span style=\"font-size:1.3em;\"></span><span style=\"font-size:1.3em;\">How many biomass digesters exist in the United States?</span></strong><strong><span style=\"font-size:1.3em;\"></span></strong></div>\n\n<p><span style=\"font-weight: bold; color: rgb(255, 0, 0);\"></span><font color=\"#ff0000\"><b>► </b></font><b>Read the text carefully!&nbsp;</b><span style=\"font-weight:bold\"><span style=\"color:#ff0000\"><u>You have only ONE 'check answer' attempt</u>!</span></span><span style=\"font-weight: bold; color: rgb(255, 0, 0);\"></span></p>\n",
+          "type": "mcq",
+          "ui_style": {
+            "choice_label": "upper-alpha",
+            "type": "block"
+          },
+          "validation": {
+            "scoring_type": "exactMatch",
+            "valid_response": {
+              "score": 1,
+              "value": [
+                "4"
+              ]
+            }
+          },
+          "feedback_attempts": 1,
+          "instant_feedback": true
+        },
+        "metadata": {
+          "name": "Multiple choice – block layout",
+          "template_reference": "33d53a22-1a59-4a03-9671-7f5104edd62e"
+        }
+      },
+      "feedbackInfo": [
+        null,
+        null
+      ]
+    },
+    {
+      "response_id": "2b860a66-a054-4af5-84f8-4e29539743ca_c366db8b6b79d0414cbbb2d5261b5329",
+      "question_type": "mcq",
+      "dt_score_updated": "2022-09-12T13:44:16Z",
+      "automarkable": true,
+      "attempted": true,
+      "score": 1,
+      "max_score": 1,
+      "question_reference": "cc0b9857-31ea-4c88-8c2f-7c61d71119fa",
+      "item_reference": "3d1021ac-8c8b-4c66-92a2-1c2fae9ff382",
+      "response": {
+        "value": [
+          "5"
+        ],
+        "type": "array",
+        "apiVersion": "v2.168.23",
+        "revision": 1,
+        "feedbackAttemptsCount": 1
+      },
+      "questionInfo": {
+        "type": "mcq",
+        "widget_type": "response",
+        "reference": "cc0b9857-31ea-4c88-8c2f-7c61d71119fa",
+        "data": {
+          "options": [
+            {
+              "label": "<span style=\"font-size:1.1em;\">buy up farmland</span>",
+              "value": "4"
+            },
+            {
+              "label": "<span style=\"font-size:1.1em;\">build biogas plants</span>",
+              "value": "5"
+            },
+            {
+              "label": "<span style=\"font-size:1.1em;\">take over another utility company</span>",
+              "value": "3"
+            },
+            {
+              "label": "<span style=\"font-size:1.1em;\">open water treatment plants</span>",
+              "value": "6"
+            }
+          ],
+          "stimulus": "<div class=\"lrn-well\"><strong><span style=\"font-size:1.3em;\">9.&nbsp;</span><span style=\"font-size:1.3em;\"></span><span style=\"font-size:1.3em;\"></span><span style=\"font-size:1.3em;\">What are the two Southern California utility companies planning to do?</span></strong><strong><span style=\"font-size:1.3em;\"></span><span style=\"font-size:1.3em;\"></span></strong></div>\n\n<p><span style=\"font-weight: bold; color: rgb(255, 0, 0);\"></span><font color=\"#ff0000\"><b>► </b></font><b>Read the text carefully!&nbsp;</b><span style=\"font-weight:bold\"><span style=\"color:#ff0000\"><u>You have only ONE 'check answer' attempt</u>!</span></span><span style=\"font-weight: bold; color: rgb(255, 0, 0);\"></span></p>\n",
+          "type": "mcq",
+          "ui_style": {
+            "choice_label": "upper-alpha",
+            "type": "block"
+          },
+          "validation": {
+            "scoring_type": "exactMatch",
+            "valid_response": {
+              "score": 1,
+              "value": [
+                "5"
+              ]
+            }
+          },
+          "feedback_attempts": 1,
+          "instant_feedback": true,
+          "shuffle_options": true
+        },
+        "metadata": {
+          "name": "Multiple choice – block layout",
+          "template_reference": "33d53a22-1a59-4a03-9671-7f5104edd62e"
+        }
+      },
+      "feedbackInfo": [
+        null,
+        null
+      ]
+    },
+    {
+      "response_id": "2b860a66-a054-4af5-84f8-4e29539743ca_86c626472162237ded516ca2d466b00f",
+      "question_type": "clozedropdown",
+      "dt_score_updated": "2022-09-12T13:49:33Z",
+      "automarkable": true,
+      "attempted": true,
+      "score": 1,
+      "max_score": 1,
+      "question_reference": "65bdaf66-acb1-4f78-8c9e-a7e5222517af",
+      "item_reference": "6ff21bc7-6b90-40a7-8902-5fa44736f828",
+      "response": {
+        "value": [
+          "a word that means the same or almost the same as another word"
+        ],
+        "type": "array",
+        "apiVersion": "v2.168.23",
+        "revision": 1
+      },
+      "questionInfo": {
+        "type": "clozedropdown",
+        "widget_type": "response",
+        "reference": "65bdaf66-acb1-4f78-8c9e-a7e5222517af",
+        "data": {
+          "possible_responses": [
+            [
+              "a word that means the same or almost the same as another word",
+              "a word that indicates contrast or difference"
+            ]
+          ],
+          "response_container": {
+            "pointer": "left"
+          },
+          "stimulus": "<table class=\"table table-condensed table-no-border lrn_width_auto\">\n\t<tbody>\n\t\t<tr>\n\t\t\t<td><img class=\"lrn-image-non-responsive\" height=\"167\" src=\"https://assets.learnosity.com/organisations/755/f1ac5e4e-33cf-45f3-8658-b3d3cd1d192d.jpg\" width=\"800\"></td>\n\t\t</tr>\n\t</tbody>\n</table>\n\n<p><strong><span style=\"font-size:2em;\">In last week's lesson, Rob shared some tips for <u><span style=\"color:#800080;\">vocabulary</span></u>.</span></strong></p>\n\n<p><strong><span style=\"font-size:1.5em;\"><span style=\"color:#800080;\"></span></span><span style=\"color:#800080;\"><span style=\"font-size:1.5em;\">►&nbsp;</span></span><span style=\"font-size:1.5em;\">He talked about&nbsp;<span style=\"color:#800080;\">synonyms</span>. Can you remember what a synonym is?&nbsp;</span></strong></p>\n\n<p>&nbsp;</p>\n",
+          "template": "<p style=\"margin-left: 40px;\"><span style=\"font-size:1.1em;\"><b>A synonym is&nbsp;</b></span><span style=\"font-size:1em;\">{{response}}.</span><span style=\"font-size:1.1em;\"></span></p>\n\n<p style=\"margin-left: 40px;\">(<u>if you can't remember, you can watch the video again</u>&nbsp;- click&nbsp;<a href=\"https://livecoventryac-my.sharepoint.com/:v:/g/personal/ac9547_coventry_ac_uk/EUy0oX8Qaa9EngLOzPZ5l2YBuUNVMawNQHOEi-2RIbXb7A?e=4Ir5sj\" id=\"yui_3_17_2_1_1645462575355_240\" target=\"_blank\"><u>here</u></a>)</p>\n",
+          "type": "clozedropdown",
+          "case_sensitive": true,
+          "validation": {
+            "scoring_type": "exactMatch",
+            "valid_response": {
+              "score": 1,
+              "value": [
+                "a word that means the same or almost the same as another word"
+              ]
+            }
+          },
+          "instant_feedback": true,
+          "shuffle_options": true
+        },
+        "metadata": {
+          "name": "Cloze with drop down",
+          "template_reference": "2fbba51b-e35e-441f-83c7-2662e2e81fa6"
+        }
+      },
+      "feedbackInfo": [
+        null,
+        null
+      ]
+    },
+    {
+      "response_id": "2b860a66-a054-4af5-84f8-4e29539743ca_8ec35a5ae4adf5b8628785ebe88ab109",
+      "question_type": "clozedropdown",
+      "dt_score_updated": "2022-09-12T13:51:12Z",
+      "automarkable": true,
+      "attempted": true,
+      "score": 1,
+      "max_score": 1,
+      "question_reference": "40a53d53-1c3f-464a-ba31-43eedee47b11",
+      "item_reference": "6ff21bc7-6b90-40a7-8902-5fa44736f828",
+      "response": {
+        "value": [
+          "noun"
+        ],
+        "type": "array",
+        "apiVersion": "v2.168.23",
+        "revision": 1,
+        "feedbackAttemptsCount": 1
+      },
+      "questionInfo": {
+        "type": "clozedropdown",
+        "widget_type": "response",
+        "reference": "40a53d53-1c3f-464a-ba31-43eedee47b11",
+        "data": {
+          "possible_responses": [
+            [
+              "verb",
+              "noun",
+              "adjective"
+            ]
+          ],
+          "response_container": {
+            "pointer": "left"
+          },
+          "stimulus": "<p>&nbsp;</p>\n\n<p><strong><span style=\"font-size:2em;\">In the next exercise, you are going to find words <u>in the text</u> that are&nbsp;<span style=\"color:#800080;\">SYNONYMS</span>&nbsp;of the words or phrases below.</span></strong></p>\n\n<p><img class=\"lrn-image-non-responsive\" height=\"181\" src=\"https://assets.learnosity.com/organisations/755/d9655ec9-3881-472d-b4e0-6b975307c0c2.jpg\" width=\"800\"><strong><span style=\"font-size:1.3em;\"></span></strong></p>\n\n<ol>\n\t<li><strong><span style=\"font-size:1.3em;\">Start by&nbsp;<u><span style=\"color:#800080;\">deciding what word class you should look for</span></u>&nbsp;-- choose from the drop down.</span></strong></li>\n\t<li><strong><span style=\"font-size:1.3em;\">Then, <u><span style=\"color:#ff8c00;\">go to the text and&nbsp;read the line where the word is</span></u>&nbsp;&nbsp;-- it's indicated below.</span></strong></li>\n\t<li><strong><span style=\"font-size:1.3em;\">When you&nbsp;find the word in the text,&nbsp;<u><span style=\"color:#0000ff;\">write it&nbsp;in the box below</span></u>.</span></strong></li>\n</ol>\n\n<p>&nbsp;</p>\n\n<p style=\"margin-left: 40px;\"><span style=\"color:#ff0000;\"><b>► Always check your spelling carefully!</b></span></p>\n",
+          "template": "<p>&nbsp;</p>\n\n<p><u><strong>1. Find a synonym in the text for...</strong></u></p>\n\n<p style=\"margin-left: 40px;\"><em><span style=\"font-size:1.3em;\"><b>ambition&nbsp;</b></span></em></p>\n\n<ul>\n\t<li><span style=\"color:#800080;\"><strong>Word Class</strong></span>: you should look for a&nbsp;<span style=\"font-size:1em;\">{{response}}.&nbsp;</span></li>\n\t<li><span style=\"font-size:1em;\"></span>You can fin this word in <span style=\"color:#ff8c00;\"><strong>LINE 3.</strong></span></li>\n</ul>\n",
+          "type": "clozedropdown",
+          "case_sensitive": true,
+          "validation": {
+            "scoring_type": "exactMatch",
+            "valid_response": {
+              "score": 1,
+              "value": [
+                "noun"
+              ]
+            }
+          },
+          "instant_feedback": true
+        },
+        "metadata": {
+          "name": "Cloze with drop down",
+          "template_reference": "2fbba51b-e35e-441f-83c7-2662e2e81fa6"
+        }
+      },
+      "feedbackInfo": [
+        null,
+        null
+      ]
+    },
+    {
+      "response_id": "2b860a66-a054-4af5-84f8-4e29539743ca_7871bdb68260efaf256d8063f9d0947b",
+      "question_type": "clozetext",
+      "dt_score_updated": "2022-09-12T13:51:27Z",
+      "automarkable": true,
+      "attempted": true,
+      "score": 1,
+      "max_score": 1,
+      "question_reference": "53da441f-bac9-41bf-bd32-fc936df1a4c1",
+      "item_reference": "6ff21bc7-6b90-40a7-8902-5fa44736f828",
+      "response": {
+        "value": [
+          "aspiration"
+        ],
+        "type": "array",
+        "apiVersion": "v2.168.23",
+        "revision": 1
+      },
+      "questionInfo": {
+        "type": "clozetext",
+        "widget_type": "response",
+        "reference": "53da441f-bac9-41bf-bd32-fc936df1a4c1",
+        "data": {
+          "template": "<p style=\"margin-left: 40px;\"><strong>ambition =</strong>&nbsp;{{response}}</p>\n",
+          "type": "clozetext",
+          "validation": {
+            "scoring_type": "exactMatch",
+            "valid_response": {
+              "score": 1,
+              "value": [
+                "aspiration"
+              ]
+            }
+          },
+          "instant_feedback": true,
+          "stimulus": "Write the word<strong> <span style=\"color:#0000ff;\">in the box below</span>:</strong>"
+        },
+        "metadata": {
+          "name": "Cloze with text",
+          "template_reference": "457fe101-0667-4a35-b193-b849653acb52"
+        }
+      },
+      "feedbackInfo": [
+        null,
+        null
+      ]
+    },
+    {
+      "response_id": "2b860a66-a054-4af5-84f8-4e29539743ca_64c6fd26566ee923c485edf35113063c",
+      "question_type": "clozedropdown",
+      "dt_score_updated": "2022-09-12T13:51:56Z",
+      "automarkable": true,
+      "attempted": true,
+      "score": 1,
+      "max_score": 1,
+      "question_reference": "fb72d10f-e59b-4352-877c-e7f1464364e0",
+      "item_reference": "6ff21bc7-6b90-40a7-8902-5fa44736f828",
+      "response": {
+        "value": [
+          "adjective"
+        ],
+        "type": "array",
+        "apiVersion": "v2.168.23",
+        "revision": 2,
+        "feedbackAttemptsCount": 2
+      },
+      "questionInfo": {
+        "type": "clozedropdown",
+        "widget_type": "response",
+        "reference": "fb72d10f-e59b-4352-877c-e7f1464364e0",
+        "data": {
+          "possible_responses": [
+            [
+              "verb",
+              "noun",
+              "adjective"
+            ]
+          ],
+          "response_container": {
+            "pointer": "left"
+          },
+          "template": "<p><u><strong>2. Find a synonym in the text for...</strong></u></p>\n\n<p style=\"margin-left: 40px;\"><span style=\"font-size: 18.2px;\"><b><i>icy cold</i></b></span></p>\n\n<ul>\n\t<li><span style=\"color:#800080;\"><strong>Word Class</strong></span>: you should look for a&nbsp;<span style=\"font-size:1em;\">{{response}}</span></li>\n\t<li>You can fin this word in <span style=\"color:#ff8c00;\"><strong>LINE 10</strong></span></li>\n</ul>\n",
+          "type": "clozedropdown",
+          "case_sensitive": true,
+          "validation": {
+            "scoring_type": "exactMatch",
+            "valid_response": {
+              "score": 1,
+              "value": [
+                "adjective"
+              ]
+            }
+          },
+          "instant_feedback": true
+        },
+        "metadata": {
+          "name": "Cloze with drop down",
+          "template_reference": "2fbba51b-e35e-441f-83c7-2662e2e81fa6"
+        }
+      },
+      "feedbackInfo": [
+        null,
+        null
+      ]
+    },
+    {
+      "response_id": "2b860a66-a054-4af5-84f8-4e29539743ca_af732c88948431c76a9d8f8639625e3c",
+      "question_type": "clozetext",
+      "dt_score_updated": "2022-09-12T13:52:10Z",
+      "automarkable": true,
+      "attempted": true,
+      "score": 1,
+      "max_score": 1,
+      "question_reference": "0001e44c-74b3-4c18-9aad-36d9ce014b03",
+      "item_reference": "6ff21bc7-6b90-40a7-8902-5fa44736f828",
+      "response": {
+        "value": [
+          "frozen"
+        ],
+        "type": "array",
+        "apiVersion": "v2.168.23",
+        "revision": 1,
+        "feedbackAttemptsCount": 1
+      },
+      "questionInfo": {
+        "type": "clozetext",
+        "widget_type": "response",
+        "reference": "0001e44c-74b3-4c18-9aad-36d9ce014b03",
+        "data": {
+          "template": "<p style=\"margin-left: 40px;\"><strong>icy cold =</strong>&nbsp;{{response}}</p>\n",
+          "type": "clozetext",
+          "validation": {
+            "scoring_type": "exactMatch",
+            "valid_response": {
+              "score": 1,
+              "value": [
+                "frozen"
+              ]
+            }
+          },
+          "instant_feedback": true,
+          "stimulus": "Write the word<strong> <span style=\"color:#0000ff;\">in the box below</span>:</strong>"
+        },
+        "metadata": {
+          "name": "Cloze with text",
+          "template_reference": "457fe101-0667-4a35-b193-b849653acb52"
+        }
+      },
+      "feedbackInfo": [
+        null,
+        null
+      ]
+    },
+    {
+      "response_id": "2b860a66-a054-4af5-84f8-4e29539743ca_8e20d5122607e769136d423871e30935",
+      "question_type": "clozedropdown",
+      "dt_score_updated": "2022-09-12T13:52:24Z",
+      "automarkable": true,
+      "attempted": true,
+      "score": 1,
+      "max_score": 1,
+      "question_reference": "70707e9f-34b1-472c-92d7-3e27cd6fa29e",
+      "item_reference": "6ff21bc7-6b90-40a7-8902-5fa44736f828",
+      "response": {
+        "value": [
+          "noun"
+        ],
+        "type": "array",
+        "apiVersion": "v2.168.23",
+        "revision": 1,
+        "feedbackAttemptsCount": 2
+      },
+      "questionInfo": {
+        "type": "clozedropdown",
+        "widget_type": "response",
+        "reference": "70707e9f-34b1-472c-92d7-3e27cd6fa29e",
+        "data": {
+          "possible_responses": [
+            [
+              "verb",
+              "noun",
+              "adjective"
+            ]
+          ],
+          "response_container": {
+            "pointer": "left"
+          },
+          "template": "<p><u><strong>3.&nbsp;Find a synonym in the text for...</strong></u></p>\n\n<p style=\"margin-left: 40px;\"><span style=\"font-size: 18.2px;\"><b><i>a turnaround / a change</i></b></span></p>\n\n<ul>\n\t<li><span style=\"color:#800080;\"><strong>Word Class</strong></span>: you should look for a&nbsp;<span style=\"font-size:1em;\">{{response}}</span></li>\n\t<li>You can fin this word in <span style=\"color:#ff8c00;\"><strong>LINE 11</strong></span></li>\n</ul>\n",
+          "type": "clozedropdown",
+          "case_sensitive": true,
+          "validation": {
+            "scoring_type": "exactMatch",
+            "valid_response": {
+              "score": 1,
+              "value": [
+                "noun"
+              ]
+            }
+          },
+          "instant_feedback": true
+        },
+        "metadata": {
+          "name": "Cloze with drop down",
+          "template_reference": "2fbba51b-e35e-441f-83c7-2662e2e81fa6"
+        }
+      },
+      "feedbackInfo": [
+        null,
+        null
+      ]
+    },
+    {
+      "response_id": "2b860a66-a054-4af5-84f8-4e29539743ca_1ab0812a73c36d8159434750b44521dd",
+      "question_type": "clozetext",
+      "dt_score_updated": "2022-09-12T13:53:06Z",
+      "automarkable": true,
+      "attempted": true,
+      "score": 1,
+      "max_score": 1,
+      "question_reference": "fe559d0a-5c65-4f8c-b389-766b3f233833",
+      "item_reference": "6ff21bc7-6b90-40a7-8902-5fa44736f828",
+      "response": {
+        "value": [
+          "reversal"
+        ],
+        "type": "array",
+        "apiVersion": "v2.168.23",
+        "revision": 1,
+        "feedbackAttemptsCount": 1
+      },
+      "questionInfo": {
+        "type": "clozetext",
+        "widget_type": "response",
+        "reference": "fe559d0a-5c65-4f8c-b389-766b3f233833",
+        "data": {
+          "template": "<p style=\"margin-left: 40px;\"><strong>a turnaround / a change&nbsp;=</strong>&nbsp;{{response}}</p>\n",
+          "type": "clozetext",
+          "validation": {
+            "scoring_type": "exactMatch",
+            "valid_response": {
+              "score": 1,
+              "value": [
+                "reversal"
+              ]
+            }
+          },
+          "instant_feedback": true,
+          "stimulus": "Write the word<strong> <span style=\"color:#0000ff;\">in the box below</span>:</strong>"
+        },
+        "metadata": {
+          "name": "Cloze with text",
+          "template_reference": "457fe101-0667-4a35-b193-b849653acb52"
+        }
+      },
+      "feedbackInfo": [
+        null,
+        null
+      ]
+    },
+    {
+      "response_id": "2b860a66-a054-4af5-84f8-4e29539743ca_26e3400dedf590c98a020f7d813fc9db",
+      "question_type": "clozedropdown",
+      "dt_score_updated": "2022-09-12T13:53:06Z",
+      "automarkable": true,
+      "attempted": true,
+      "score": 1,
+      "max_score": 1,
+      "question_reference": "3437b626-6e7c-4e68-92ab-13b532417815",
+      "item_reference": "6ff21bc7-6b90-40a7-8902-5fa44736f828",
+      "response": {
+        "value": [
+          "verb"
+        ],
+        "type": "array",
+        "apiVersion": "v2.168.23",
+        "revision": 1,
+        "feedbackAttemptsCount": 1
+      },
+      "questionInfo": {
+        "type": "clozedropdown",
+        "widget_type": "response",
+        "reference": "3437b626-6e7c-4e68-92ab-13b532417815",
+        "data": {
+          "possible_responses": [
+            [
+              "verb",
+              "noun",
+              "adjective"
+            ]
+          ],
+          "response_container": {
+            "pointer": "left"
+          },
+          "template": "<p><u><strong>4.&nbsp;Find a synonym in the text for...</strong></u></p>\n\n<p style=\"margin-left: 40px;\"><span style=\"font-size: 18.2px;\"><b><i>replaced</i></b></span></p>\n\n<ul>\n\t<li><span style=\"color:#800080;\"><strong>Word Class</strong></span>: you should look for a&nbsp;<span style=\"font-size:1em;\">{{response}}</span></li>\n\t<li>You can fin this word in <span style=\"color:#ff8c00;\"><strong>LINE 16</strong></span></li>\n</ul>\n",
+          "type": "clozedropdown",
+          "case_sensitive": true,
+          "validation": {
+            "scoring_type": "exactMatch",
+            "valid_response": {
+              "score": 1,
+              "value": [
+                "verb"
+              ]
+            }
+          },
+          "instant_feedback": true
+        },
+        "metadata": {
+          "name": "Cloze with drop down",
+          "template_reference": "2fbba51b-e35e-441f-83c7-2662e2e81fa6"
+        }
+      },
+      "feedbackInfo": [
+        null,
+        null
+      ]
+    },
+    {
+      "response_id": "2b860a66-a054-4af5-84f8-4e29539743ca_349ca0804a741aea3bc302f163ed5778",
+      "question_type": "clozetext",
+      "dt_score_updated": "2022-09-12T13:53:21Z",
+      "automarkable": true,
+      "attempted": true,
+      "score": 1,
+      "max_score": 1,
+      "question_reference": "bd64bc2b-248f-4dc4-8cf6-de816610b8cb",
+      "item_reference": "6ff21bc7-6b90-40a7-8902-5fa44736f828",
+      "response": {
+        "value": [
+          "substituted"
+        ],
+        "type": "array",
+        "apiVersion": "v2.168.23",
+        "revision": 1,
+        "feedbackAttemptsCount": 1
+      },
+      "questionInfo": {
+        "type": "clozetext",
+        "widget_type": "response",
+        "reference": "bd64bc2b-248f-4dc4-8cf6-de816610b8cb",
+        "data": {
+          "template": "<p style=\"margin-left: 40px;\"><strong>replaced =</strong>&nbsp;{{response}}</p>\n",
+          "type": "clozetext",
+          "validation": {
+            "scoring_type": "exactMatch",
+            "valid_response": {
+              "score": 1,
+              "value": [
+                "substituted"
+              ]
+            }
+          },
+          "instant_feedback": true,
+          "stimulus": "Write the word<strong> <span style=\"color:#0000ff;\">in the box below</span>:</strong>",
+          "spellcheck": true
+        },
+        "metadata": {
+          "name": "Cloze with text",
+          "template_reference": "457fe101-0667-4a35-b193-b849653acb52"
+        }
+      },
+      "feedbackInfo": [
+        null,
+        null
+      ]
+    },
+    {
+      "response_id": "2b860a66-a054-4af5-84f8-4e29539743ca_052eb4492be84aca6618248621c7aebe",
+      "question_type": "clozedropdown",
+      "dt_score_updated": "2022-09-12T13:54:03Z",
+      "automarkable": true,
+      "attempted": true,
+      "score": 1,
+      "max_score": 1,
+      "question_reference": "82293243-faba-469c-ad26-f0b44de7a996",
+      "item_reference": "6ff21bc7-6b90-40a7-8902-5fa44736f828",
+      "response": {
+        "value": [
+          "noun"
+        ],
+        "type": "array",
+        "apiVersion": "v2.168.23",
+        "revision": 1,
+        "feedbackAttemptsCount": 1
+      },
+      "questionInfo": {
+        "type": "clozedropdown",
+        "widget_type": "response",
+        "reference": "82293243-faba-469c-ad26-f0b44de7a996",
+        "data": {
+          "possible_responses": [
+            [
+              "verb",
+              "noun",
+              "adjective"
+            ]
+          ],
+          "response_container": {
+            "pointer": "left"
+          },
+          "template": "<p><u><strong>5.&nbsp;Find a synonym in the text for...</strong></u></p>\n\n<p style=\"margin-left: 40px;\"><span style=\"font-size:1.3em;\"><em><b id=\"yui_3_17_2_1_1645462922156_2385\">rubbish</b></em></span></p>\n\n<ul>\n\t<li><span style=\"color:#800080;\"><strong>Word Class</strong></span>: you should look for a&nbsp;<span style=\"font-size:1em;\">{{response}}</span></li>\n\t<li>You can fin this word in <span style=\"color:#ff8c00;\"><strong>LINE 26</strong></span></li>\n</ul>\n",
+          "type": "clozedropdown",
+          "case_sensitive": true,
+          "validation": {
+            "scoring_type": "exactMatch",
+            "valid_response": {
+              "score": 1,
+              "value": [
+                "noun"
+              ]
+            }
+          },
+          "instant_feedback": true
+        },
+        "metadata": {
+          "name": "Cloze with drop down",
+          "template_reference": "2fbba51b-e35e-441f-83c7-2662e2e81fa6"
+        }
+      },
+      "feedbackInfo": [
+        null,
+        null
+      ]
+    },
+    {
+      "response_id": "2b860a66-a054-4af5-84f8-4e29539743ca_0c0f547e1c5dd35b84549f681dc68cff",
+      "question_type": "clozetext",
+      "dt_score_updated": "2022-09-12T13:54:17Z",
+      "automarkable": true,
+      "attempted": true,
+      "score": 1,
+      "max_score": 1,
+      "question_reference": "f371e54b-9426-4d12-aee9-290c49874261",
+      "item_reference": "6ff21bc7-6b90-40a7-8902-5fa44736f828",
+      "response": {
+        "value": [
+          "detritus"
+        ],
+        "type": "array",
+        "apiVersion": "v2.168.23",
+        "revision": 1,
+        "feedbackAttemptsCount": 1
+      },
+      "questionInfo": {
+        "type": "clozetext",
+        "widget_type": "response",
+        "reference": "f371e54b-9426-4d12-aee9-290c49874261",
+        "data": {
+          "template": "<p style=\"margin-left: 40px;\"><strong>rubbish =</strong>&nbsp;{{response}}</p>\n",
+          "type": "clozetext",
+          "validation": {
+            "scoring_type": "exactMatch",
+            "valid_response": {
+              "score": 1,
+              "value": [
+                "detritus"
+              ]
+            }
+          },
+          "instant_feedback": true,
+          "stimulus": "Write the word<strong> <span style=\"color:#0000ff;\">in the box below</span>:</strong>",
+          "spellcheck": true
+        },
+        "metadata": {
+          "name": "Cloze with text",
+          "template_reference": "457fe101-0667-4a35-b193-b849653acb52"
+        }
+      },
+      "feedbackInfo": [
+        null,
+        null
+      ]
+    },
+    {
+      "response_id": "2b860a66-a054-4af5-84f8-4e29539743ca_c11f293217c6d07a71ede6a64d671d65",
+      "question_type": "clozedropdown",
+      "dt_score_updated": "2022-09-12T13:54:32Z",
+      "automarkable": true,
+      "attempted": true,
+      "score": 1,
+      "max_score": 1,
+      "question_reference": "a3be43cd-fb46-4a50-a95a-f13b5a615ccc",
+      "item_reference": "6ff21bc7-6b90-40a7-8902-5fa44736f828",
+      "response": {
+        "value": [
+          "verb"
+        ],
+        "type": "array",
+        "apiVersion": "v2.168.23",
+        "revision": 1,
+        "feedbackAttemptsCount": 1
+      },
+      "questionInfo": {
+        "type": "clozedropdown",
+        "widget_type": "response",
+        "reference": "a3be43cd-fb46-4a50-a95a-f13b5a615ccc",
+        "data": {
+          "possible_responses": [
+            [
+              "verb",
+              "noun",
+              "adjective"
+            ]
+          ],
+          "response_container": {
+            "pointer": "left"
+          },
+          "template": "<p><u><strong>6.&nbsp;Find a synonym in the text for...</strong></u></p>\n\n<p style=\"margin-left: 40px;\"><em><span style=\"font-size:1.3em;\"><b id=\"yui_3_17_2_1_1645462922156_2385\">exploiting / making use of</b></span></em></p>\n\n<ul>\n\t<li><span style=\"color:#800080;\"><strong>Word Class</strong></span>: you should look for a&nbsp;<span style=\"font-size:1em;\">{{response}}</span></li>\n\t<li>You can fin this word in <span style=\"color:#ff8c00;\"><strong>LINE 30</strong></span></li>\n</ul>\n",
+          "type": "clozedropdown",
+          "case_sensitive": true,
+          "validation": {
+            "scoring_type": "exactMatch",
+            "valid_response": {
+              "score": 1,
+              "value": [
+                "verb"
+              ]
+            }
+          },
+          "instant_feedback": true
+        },
+        "metadata": {
+          "name": "Cloze with drop down",
+          "template_reference": "2fbba51b-e35e-441f-83c7-2662e2e81fa6"
+        }
+      },
+      "feedbackInfo": [
+        null,
+        null
+      ]
+    },
+    {
+      "response_id": "2b860a66-a054-4af5-84f8-4e29539743ca_e412c63818d85e556d7d46af6300b6a4",
+      "question_type": "clozetext",
+      "dt_score_updated": "2022-09-12T13:54:59Z",
+      "automarkable": true,
+      "attempted": true,
+      "score": 1,
+      "max_score": 1,
+      "question_reference": "af9f426a-5fbf-4c3d-9da5-48766298ae00",
+      "item_reference": "6ff21bc7-6b90-40a7-8902-5fa44736f828",
+      "response": {
+        "value": [
+          "harnessing"
+        ],
+        "type": "array",
+        "apiVersion": "v2.168.23",
+        "revision": 1,
+        "feedbackAttemptsCount": 1
+      },
+      "questionInfo": {
+        "type": "clozetext",
+        "widget_type": "response",
+        "reference": "af9f426a-5fbf-4c3d-9da5-48766298ae00",
+        "data": {
+          "template": "<p style=\"margin-left: 40px;\"><b id=\"yui_3_17_2_1_1645462922156_2385\">exploiting / making use of&nbsp;</b><strong>=</strong>&nbsp;{{response}}</p>\n",
+          "type": "clozetext",
+          "validation": {
+            "scoring_type": "exactMatch",
+            "valid_response": {
+              "score": 1,
+              "value": [
+                "harnessing"
+              ]
+            }
+          },
+          "instant_feedback": true,
+          "stimulus": "Write the word<strong> <span style=\"color:#0000ff;\">in the box below</span>:</strong>",
+          "spellcheck": true
+        },
+        "metadata": {
+          "name": "Cloze with text",
+          "template_reference": "457fe101-0667-4a35-b193-b849653acb52"
+        }
+      },
+      "feedbackInfo": [
+        null,
+        null
+      ]
+    },
+    {
+      "response_id": "2b860a66-a054-4af5-84f8-4e29539743ca_f1d19d2249fafdbbeb082080a3de2f2b",
+      "question_type": "clozedropdown",
+      "dt_score_updated": "2022-09-12T13:55:28Z",
+      "automarkable": true,
+      "attempted": true,
+      "score": 1,
+      "max_score": 1,
+      "question_reference": "dd7f0e08-14aa-45db-8b1a-bd9d5dc9aaf8",
+      "item_reference": "6ff21bc7-6b90-40a7-8902-5fa44736f828",
+      "response": {
+        "value": [
+          "adjective"
+        ],
+        "type": "array",
+        "apiVersion": "v2.168.23",
+        "revision": 1,
+        "feedbackAttemptsCount": 1
+      },
+      "questionInfo": {
+        "type": "clozedropdown",
+        "widget_type": "response",
+        "reference": "dd7f0e08-14aa-45db-8b1a-bd9d5dc9aaf8",
+        "data": {
+          "possible_responses": [
+            [
+              "verb",
+              "noun",
+              "adjective"
+            ]
+          ],
+          "response_container": {
+            "pointer": "left"
+          },
+          "template": "<p><u><strong>7.&nbsp;Find a synonym in the text for...</strong></u></p>\n\n<p style=\"margin-left: 40px;\"><em><span style=\"font-size:1.3em;\"><b id=\"yui_3_17_2_1_1645462922156_2385\">extremely important</b></span></em></p>\n\n<ul>\n\t<li><span style=\"color:#800080;\"><strong>Word Class</strong></span>: you should look for a&nbsp;<span style=\"font-size:1em;\">{{response}}</span></li>\n\t<li>You can fin this word in <span style=\"color:#ff8c00;\"><strong>LINE 44</strong></span></li>\n</ul>\n",
+          "type": "clozedropdown",
+          "case_sensitive": true,
+          "validation": {
+            "scoring_type": "exactMatch",
+            "valid_response": {
+              "score": 1,
+              "value": [
+                "adjective"
+              ]
+            }
+          },
+          "instant_feedback": true
+        },
+        "metadata": {
+          "name": "Cloze with drop down",
+          "template_reference": "2fbba51b-e35e-441f-83c7-2662e2e81fa6"
+        }
+      },
+      "feedbackInfo": [
+        null,
+        null
+      ]
+    },
+    {
+      "response_id": "2b860a66-a054-4af5-84f8-4e29539743ca_ad3013a03939f6b251f51533c492d465",
+      "question_type": "clozetext",
+      "dt_score_updated": "2022-09-12T14:01:19Z",
+      "automarkable": true,
+      "attempted": true,
+      "score": 1,
+      "max_score": 1,
+      "question_reference": "165d6517-a367-4a3e-8f15-e5e7fb1942ce",
+      "item_reference": "6ff21bc7-6b90-40a7-8902-5fa44736f828",
+      "response": {
+        "value": [
+          "crucial"
+        ],
+        "type": "array",
+        "apiVersion": "v2.168.23",
+        "revision": 1,
+        "feedbackAttemptsCount": 1
+      },
+      "questionInfo": {
+        "type": "clozetext",
+        "widget_type": "response",
+        "reference": "165d6517-a367-4a3e-8f15-e5e7fb1942ce",
+        "data": {
+          "template": "<p style=\"margin-left: 40px;\"><b id=\"yui_3_17_2_1_1645462922156_2385\">extremely important&nbsp;</b><strong>=</strong>&nbsp;{{response}}</p>\n",
+          "type": "clozetext",
+          "validation": {
+            "scoring_type": "exactMatch",
+            "valid_response": {
+              "score": 1,
+              "value": [
+                "crucial"
+              ]
+            }
+          },
+          "instant_feedback": true,
+          "stimulus": "Write the word<strong> <span style=\"color:#0000ff;\">in the box below</span>:</strong>",
+          "spellcheck": true
+        },
+        "metadata": {
+          "name": "Cloze with text",
+          "template_reference": "457fe101-0667-4a35-b193-b849653acb52"
+        }
+      },
+      "feedbackInfo": [
+        null,
+        null
+      ]
+    },
+    {
+      "response_id": "2b860a66-a054-4af5-84f8-4e29539743ca_8204e897100af8182c05fe76e35d110a",
+      "question_type": "clozedropdown",
+      "dt_score_updated": "2022-09-12T14:01:33Z",
+      "automarkable": true,
+      "attempted": true,
+      "score": 1,
+      "max_score": 1,
+      "question_reference": "befee0bf-a8d3-439b-a52d-3cd29a677358",
+      "item_reference": "6ff21bc7-6b90-40a7-8902-5fa44736f828",
+      "response": {
+        "value": [
+          "verb"
+        ],
+        "type": "array",
+        "apiVersion": "v2.168.23",
+        "revision": 1,
+        "feedbackAttemptsCount": 1
+      },
+      "questionInfo": {
+        "type": "clozedropdown",
+        "widget_type": "response",
+        "reference": "befee0bf-a8d3-439b-a52d-3cd29a677358",
+        "data": {
+          "possible_responses": [
+            [
+              "verb",
+              "noun",
+              "adjective"
+            ]
+          ],
+          "response_container": {
+            "pointer": "left"
+          },
+          "template": "<p><u><strong>8.&nbsp;Find a synonym in the text for...</strong></u></p>\n\n<p style=\"margin-left: 40px;\"><span style=\"font-size:1.3em;\"><em><b id=\"yui_3_17_2_1_1645462922156_2407\">to be in charge of something</b></em></span></p>\n\n<ul>\n\t<li><span style=\"color:#800080;\"><strong>Word Class</strong></span>: you should look for a&nbsp;<span style=\"font-size:1em;\">{{response}}</span></li>\n\t<li>You can fin this word in <span style=\"color:#ff8c00;\"><strong>LINE 55</strong></span></li>\n</ul>\n",
+          "type": "clozedropdown",
+          "case_sensitive": true,
+          "validation": {
+            "scoring_type": "exactMatch",
+            "valid_response": {
+              "score": 1,
+              "value": [
+                "verb"
+              ]
+            }
+          },
+          "instant_feedback": true
+        },
+        "metadata": {
+          "name": "Cloze with drop down",
+          "template_reference": "2fbba51b-e35e-441f-83c7-2662e2e81fa6"
+        }
+      },
+      "feedbackInfo": [
+        null,
+        null
+      ]
+    },
+    {
+      "response_id": "2b860a66-a054-4af5-84f8-4e29539743ca_d82a42cf5b8180de299bd35e0668c634",
+      "question_type": "clozetext",
+      "dt_score_updated": "2022-09-12T14:01:47Z",
+      "automarkable": true,
+      "attempted": true,
+      "score": 1,
+      "max_score": 1,
+      "question_reference": "a4ae7ba5-e1a3-42dd-989a-0317d81edee2",
+      "item_reference": "6ff21bc7-6b90-40a7-8902-5fa44736f828",
+      "response": {
+        "value": [
+          "overseeing"
+        ],
+        "type": "array",
+        "apiVersion": "v2.168.23",
+        "revision": 1,
+        "feedbackAttemptsCount": 1
+      },
+      "questionInfo": {
+        "type": "clozetext",
+        "widget_type": "response",
+        "reference": "a4ae7ba5-e1a3-42dd-989a-0317d81edee2",
+        "data": {
+          "template": "<p style=\"margin-left: 40px;\"><b id=\"yui_3_17_2_1_1645462922156_2407\">to be in charge of something</b><b>&nbsp;</b><strong>=</strong>&nbsp;{{response}}</p>\n",
+          "type": "clozetext",
+          "validation": {
+            "scoring_type": "exactMatch",
+            "valid_response": {
+              "score": 1,
+              "value": [
+                "overseeing"
+              ]
+            }
+          },
+          "instant_feedback": true,
+          "stimulus": "Write the word<strong> <span style=\"color:#0000ff;\">in the box below</span>:</strong>",
+          "spellcheck": true
+        },
+        "metadata": {
+          "name": "Cloze with text",
+          "template_reference": "457fe101-0667-4a35-b193-b849653acb52"
+        }
+      },
+      "feedbackInfo": [
+        null,
+        null
+      ]
+    },
+    {
+      "response_id": "2b860a66-a054-4af5-84f8-4e29539743ca_c2cec84abd9183ef25e4adc9b6539081",
+      "question_type": "clozedropdown",
+      "dt_score_updated": "2022-09-12T14:02:15Z",
+      "automarkable": true,
+      "attempted": true,
+      "score": 1,
+      "max_score": 1,
+      "question_reference": "3dd4fd08-d48a-4e1a-a6de-399a4ed66536",
+      "item_reference": "6ff21bc7-6b90-40a7-8902-5fa44736f828",
+      "response": {
+        "value": [
+          "verb"
+        ],
+        "type": "array",
+        "apiVersion": "v2.168.23",
+        "revision": 1,
+        "feedbackAttemptsCount": 1
+      },
+      "questionInfo": {
+        "type": "clozedropdown",
+        "widget_type": "response",
+        "reference": "3dd4fd08-d48a-4e1a-a6de-399a4ed66536",
+        "data": {
+          "possible_responses": [
+            [
+              "verb",
+              "noun",
+              "adjective"
+            ]
+          ],
+          "response_container": {
+            "pointer": "left"
+          },
+          "template": "<p><u><strong>9.&nbsp;Find a synonym in the text for...</strong></u></p>\n\n<p style=\"margin-left: 40px;\"><em><span style=\"font-size:1.3em;\"><b id=\"yui_3_17_2_1_1645462922156_2418\">creating / setting up</b></span></em></p>\n\n<ul>\n\t<li><span style=\"color:#800080;\"><strong>Word Class</strong></span>: you should look for a&nbsp;<span style=\"font-size:1em;\">{{response}}</span></li>\n\t<li>You can fin this word in <span style=\"color:#ff8c00;\"><strong>LINE 66</strong></span></li>\n</ul>\n",
+          "type": "clozedropdown",
+          "case_sensitive": true,
+          "validation": {
+            "scoring_type": "exactMatch",
+            "valid_response": {
+              "score": 1,
+              "value": [
+                "verb"
+              ]
+            }
+          },
+          "instant_feedback": true
+        },
+        "metadata": {
+          "name": "Cloze with drop down",
+          "template_reference": "2fbba51b-e35e-441f-83c7-2662e2e81fa6"
+        }
+      },
+      "feedbackInfo": [
+        null,
+        null
+      ]
+    },
+    {
+      "response_id": "2b860a66-a054-4af5-84f8-4e29539743ca_fc9a99bcd9fe64f61bd2ca1aa42c9af6",
+      "question_type": "clozetext",
+      "dt_score_updated": "2022-09-12T14:02:57Z",
+      "automarkable": true,
+      "attempted": true,
+      "score": 1,
+      "max_score": 1,
+      "question_reference": "bdfdf727-4c6b-42d2-bc2a-f2ca61864de3",
+      "item_reference": "6ff21bc7-6b90-40a7-8902-5fa44736f828",
+      "response": {
+        "value": [
+          "installing"
+        ],
+        "type": "array",
+        "apiVersion": "v2.168.23",
+        "revision": 1,
+        "feedbackAttemptsCount": 1
+      },
+      "questionInfo": {
+        "type": "clozetext",
+        "widget_type": "response",
+        "reference": "bdfdf727-4c6b-42d2-bc2a-f2ca61864de3",
+        "data": {
+          "template": "<p style=\"margin-left: 40px;\"><b id=\"yui_3_17_2_1_1645462922156_2407\">creating / setting up</b><b>&nbsp;</b><strong>=</strong>&nbsp;{{response}}</p>\n",
+          "type": "clozetext",
+          "validation": {
+            "scoring_type": "exactMatch",
+            "valid_response": {
+              "score": 1,
+              "value": [
+                "installing"
+              ]
+            }
+          },
+          "instant_feedback": true,
+          "stimulus": "Write the word<strong> <span style=\"color:#0000ff;\">in the box below</span>:</strong>",
+          "spellcheck": true
+        },
+        "metadata": {
+          "name": "Cloze with text",
+          "template_reference": "457fe101-0667-4a35-b193-b849653acb52"
+        }
+      },
+      "feedbackInfo": [
+        null,
+        null
+      ]
+    },
+    {
+      "response_id": "2b860a66-a054-4af5-84f8-4e29539743ca_f2c8e7b7d55c135b01dd7fbc1a1f1db9",
+      "question_type": "clozedropdown",
+      "dt_score_updated": "2022-09-12T14:03:11Z",
+      "automarkable": true,
+      "attempted": true,
+      "score": 1,
+      "max_score": 1,
+      "question_reference": "0b8a76d2-d101-4b08-ad37-948ca3bfe76e",
+      "item_reference": "6ff21bc7-6b90-40a7-8902-5fa44736f828",
+      "response": {
+        "value": [
+          "verb"
+        ],
+        "type": "array",
+        "apiVersion": "v2.168.23",
+        "revision": 1,
+        "feedbackAttemptsCount": 1
+      },
+      "questionInfo": {
+        "type": "clozedropdown",
+        "widget_type": "response",
+        "reference": "0b8a76d2-d101-4b08-ad37-948ca3bfe76e",
+        "data": {
+          "possible_responses": [
+            [
+              "verb",
+              "noun",
+              "adjective"
+            ]
+          ],
+          "response_container": {
+            "pointer": "left"
+          },
+          "template": "<p><u><strong>10.&nbsp;Find a synonym in the text for...</strong></u></p>\n\n<p style=\"margin-left: 40px;\"><em><span style=\"font-size:1.3em;\"></span><span style=\"font-size:1.3em;\"><b id=\"yui_3_17_2_1_1645462922156_2429\">achieve what is necessary</b></span><span style=\"font-size:1.3em;\"></span></em></p>\n\n<ul>\n\t<li><span style=\"color:#800080;\"><strong>Word Class</strong></span>: you should look for a&nbsp;<span style=\"font-size:1em;\">{{response}}</span></li>\n\t<li>You can fin this word in <span style=\"color:#ff8c00;\"><strong>LINE 84</strong></span></li>\n</ul>\n",
+          "type": "clozedropdown",
+          "case_sensitive": true,
+          "validation": {
+            "scoring_type": "exactMatch",
+            "valid_response": {
+              "score": 1,
+              "value": [
+                "verb"
+              ]
+            }
+          },
+          "instant_feedback": true
+        },
+        "metadata": {
+          "name": "Cloze with drop down",
+          "template_reference": "2fbba51b-e35e-441f-83c7-2662e2e81fa6"
+        }
+      },
+      "feedbackInfo": [
+        null,
+        null
+      ]
+    },
+    {
+      "response_id": "2b860a66-a054-4af5-84f8-4e29539743ca_415e07d5a19d80e236037f330857adcc",
+      "question_type": "clozetext",
+      "dt_score_updated": "2022-09-12T14:03:26Z",
+      "automarkable": true,
+      "attempted": true,
+      "score": 0,
+      "max_score": 1,
+      "question_reference": "437f5843-f1b8-4ec0-9509-5d5e031f97c4",
+      "item_reference": "6ff21bc7-6b90-40a7-8902-5fa44736f828",
+      "response": {
+        "value": [
+          "utilities meet requirment"
+        ],
+        "type": "array",
+        "apiVersion": "v2.168.23",
+        "revision": 11,
+        "feedbackAttemptsCount": 9
+      },
+      "questionInfo": {
+        "type": "clozetext",
+        "widget_type": "response",
+        "reference": "437f5843-f1b8-4ec0-9509-5d5e031f97c4",
+        "data": {
+          "template": "<p style=\"margin-left: 40px;\"><b id=\"yui_3_17_2_1_1645462922156_2407\">creating / setting up</b><b>&nbsp;</b><strong>=</strong>&nbsp;{{response}}&nbsp;(three words)</p>\n",
+          "type": "clozetext",
+          "validation": {
+            "scoring_type": "exactMatch",
+            "valid_response": {
+              "score": 1,
+              "value": [
+                "meet the requirements"
+              ]
+            }
+          },
+          "instant_feedback": true,
+          "stimulus": "Write the word<strong> <span style=\"color:#0000ff;\">in the box below</span>:</strong>",
+          "spellcheck": true,
+          "max_length": 25
+        },
+        "metadata": {
+          "name": "Cloze with text",
+          "template_reference": "457fe101-0667-4a35-b193-b849653acb52"
+        }
+      },
+      "feedbackInfo": [
+        null,
+        null
+      ]
+    }
+  ]
+}

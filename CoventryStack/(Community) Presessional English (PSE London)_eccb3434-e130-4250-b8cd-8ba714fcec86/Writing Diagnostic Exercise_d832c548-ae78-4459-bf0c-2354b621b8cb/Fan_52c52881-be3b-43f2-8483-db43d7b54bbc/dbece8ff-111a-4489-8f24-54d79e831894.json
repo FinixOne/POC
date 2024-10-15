@@ -1,0 +1,114 @@
+{
+  "userId": "52c52881-be3b-43f2-8483-db43d7b54bbc",
+  "firstName": "Fan",
+  "lastName": "Xu",
+  "assigmentId": "d832c548-ae78-4459-bf0c-2354b621b8cb",
+  "assigmentName": "Writing Diagnostic Exercise",
+  "sessionId": "dbece8ff-111a-4489-8f24-54d79e831894",
+  "email": "xuf9@coventry.ac.uk",
+  "spaceId": "eccb3434-e130-4250-b8cd-8ba714fcec86",
+  "spaceName": "(Community) Presessional English (PSE London)",
+  "score": 0,
+  "max_score": 40,
+  "questions": [
+    {
+      "response_id": "dbece8ff-111a-4489-8f24-54d79e831894_29a59873d64e3761ccb0d29ecca16973",
+      "question_type": "longtextV2",
+      "dt_score_updated": "2022-11-01T08:03:16Z",
+      "automarkable": false,
+      "attempted": true,
+      "score": null,
+      "max_score": 40,
+      "question_reference": "8ce3bee1-48e8-4baa-b2e3-5bf8083389e0",
+      "item_reference": "570ff370-fde4-49bc-959d-b91c3099b1d6",
+      "response": {
+        "value": "<p><trans oldtip=\"The aim of this report is to\" newtip=\"本报告的目的是\">The aim of this report is to discuss the two most popular means of transportation used by students, analyze their advantages and disadvantages and put forward their own suggestions.</trans></p><p><trans oldtip=\"The aim of this report is to\" newtip=\"本报告的目的是\"><b>Most Popular Transport</b></trans></p><p><trans oldtip=\"The aim of this report is to\" newtip=\"本报告的目的是\">The first popular means of transportation was bicycle. It will not pollute the environment, and the process of cycling can also exercise, which is beneficial to health. Bicycles are very cheap. You can always use them once you buy them. However, it also has disadvantages. Driving on the road will often lead to the risk of collision with cars, and the speed is not fast. However, when riding, you will often be covered with dust.<b><br></b></trans></p><p><trans oldtip=\"The aim of this report is to\" newtip=\"本报告的目的是\"><b>Second﻿ Popular Transport</b></trans></p><p><trans oldtip=\"The aim of this report is to\" newtip=\"本报告的目的是\">﻿The second popular means of transportation is the train. It is also good for the environment and will not cause too much pollution. The most important thing is that it is very fast, and the railway station is near the school. But it also has disadvantages. Compared with bicycles, it has expensive ticket prices, and sometimes it is late or even cancelled. In rush hours, there will be a lot of traffic, leading to congestion.<b><br></b></trans></p><p><trans oldtip=\"The aim of this report is to\" newtip=\"本报告的目的是\"><b>Recommendations</b></trans></p><p><trans oldtip=\"The aim of this report is to\" newtip=\"本报告的目的是\">The suggestion for bicycles is to build more bicycle lanes to reduce the danger. Secondly, we should build special student changing rooms. I think we should also strengthen the punishment of cars driving in bicycle lanes in cities.<b><br><br></b>As for trains, many people propose to postpone classes and stagger rush hour travel. I think this is a good way. Secondly, we should use scientific methods to calculate the number of tickets sold to ensure that everyone has enough space.<b><br></b></trans></p><p><br></p>",
+        "wordCount": 265,
+        "type": "string",
+        "apiVersion": "v2.168.23",
+        "revision": 15
+      },
+      "questionInfo": {
+        "type": "longtextV2",
+        "widget_type": "response",
+        "reference": "8ce3bee1-48e8-4baa-b2e3-5bf8083389e0",
+        "data": {
+          "stimulus": "<h2 id=\"yui_3_17_2_1_1628703407776_1784\"><span style=\"color:#0000ff;\"><b id=\"yui_3_17_2_1_1628703407776_2039\">You are going to write a report for your University. </b></span></h2>\n\n<h4><b>You should…</b></h4>\n\n<ul id=\"yui_3_17_2_1_1628703407776_2050\">\n\t<li><span style=\"font-size:1.3em;\">Write about the&nbsp;TWO&nbsp;most popular means of transportation used by students</span></li>\n\t<li><span style=\"font-size:1.3em;\">Discuss the advantages&nbsp;AND&nbsp;disadvantages</span></li>\n\t<li><span style=\"font-size:1.3em;\">Make some recommendations to the university</span></li>\n</ul>\n\n<h5 id=\"yui_3_17_2_1_1628703407776_2051\">&nbsp;</h5>\n\n<h4 id=\"yui_3_17_2_1_1628703407776_2055\"><b id=\"yui_3_17_2_1_1628703407776_2057\">Analyse the information in the table below:</b></h4>\n\n<p><img height=\"285\" src=\"https://assets.learnosity.com/organisations/755/501dfa12-1cf8-4ced-a6ab-aa6ba44e3379.JPG\" width=\"701\" /></p>\n\n<p><img height=\"259\" src=\"https://assets.learnosity.com/organisations/755/2bc31a90-4e37-4aed-8f9c-b1924cc4ec71.JPG\" width=\"699\" /></p>\n\n<h4>&nbsp;</h4>\n\n<h4><span style=\"color:#0000ff;\"><b>Write your report using&nbsp; ALL&nbsp;the information in the table.</b></span></h4>\n\n<h4><span style=\"color:#ff0000;\"><b><u>Write COMPLETE sentences.&nbsp;Do NOT use bullet points.</u></b></span></h4>\n\n<h4><b style=\"\">Use at least&nbsp;ONE&nbsp;of <u>your own ideas</u>&nbsp;</b><b style=\"\">in the recommendations section.</b></h4>\n\n<h4>&nbsp;</h4>\n\n<h4><b>Follow the&nbsp;report structure&nbsp;you can see below:</b></h4>\n\n<p>&nbsp;</p>\n\n<p><img height=\"523\" src=\"https://assets.learnosity.com/organisations/755/2694fd52-288e-4118-90cd-de27f223d78a.JPG\" width=\"400\" /></p>\n\n<h4>&nbsp;</h4>\n\n<h4><b>Write your report in the box below.&nbsp;Start with:&nbsp;</b></h4>\n\n<p><span style=\"font-size:1.3em;\"><i>The aim of this report is to ...</i></span></p>\n",
+          "type": "longtextV2",
+          "formatting_options": [
+            "bold",
+            "italic",
+            "underline",
+            "|",
+            "unorderedList",
+            "orderedList",
+            "redo"
+          ],
+          "validation": {
+            "max_score": 40
+          }
+        },
+        "metadata": {
+          "name": "Essay with rich text",
+          "template_reference": "1e6039f8-0676-495d-aca9-108710a51ce5"
+        }
+      },
+      "feedbackInfo": [
+        {
+          "id": "0707_52c52881-be3b-43f2-8483-db43d7b54bbc_dbece8ff-111a-4489-8f24-54d79e831894_bc4fd172e19562a2bf048dadf15fa408",
+          "user_id": "52c52881-be3b-43f2-8483-db43d7b54bbc",
+          "response_id": "dbece8ff-111a-4489-8f24-54d79e831894_bc4fd172e19562a2bf048dadf15fa408",
+          "type": "longtextV2",
+          "question": {
+            "type": "longtextV2",
+            "metadata": {
+              "source": {
+                "organisation_id": 755
+              },
+              "sheet_reference": "default_feedback",
+              "widget_reference": "de082b5f-742a-4ecf-82ca-4dc86e218fec",
+              "valid_response_count": 0
+            },
+            "stimulus": "Written feedback:",
+            "response_id": "dbece8ff-111a-4489-8f24-54d79e831894_bc4fd172e19562a2bf048dadf15fa408",
+            "show_word_count": false,
+            "show_word_limit": "off"
+          },
+          "response": null,
+          "creation_date": "2022-11-02 10:15:15",
+          "mod_date": "2022-11-02 10:15:15",
+          "persist_until": "2022-11-03 10:15:15",
+          "saved": false
+        },
+        {
+          "id": "0707_52c52881-be3b-43f2-8483-db43d7b54bbc_dbece8ff-111a-4489-8f24-54d79e831894_3a791b0ff666c261792175e22f0bf0a1",
+          "user_id": "52c52881-be3b-43f2-8483-db43d7b54bbc",
+          "response_id": "dbece8ff-111a-4489-8f24-54d79e831894_3a791b0ff666c261792175e22f0bf0a1",
+          "type": "audio",
+          "question": {
+            "type": "audio",
+            "metadata": {
+              "source": {
+                "organisation_id": 755
+              },
+              "sheet_reference": "default_feedback",
+              "widget_reference": "b2f049b4-bb33-4542-993d-0645ffedda1a",
+              "valid_response_count": 0
+            },
+            "stimulus": "Audio feedback:",
+            "ui_style": {
+              "type": "button"
+            },
+            "max_length": 600,
+            "response_id": "dbece8ff-111a-4489-8f24-54d79e831894_3a791b0ff666c261792175e22f0bf0a1"
+          },
+          "response": null,
+          "creation_date": "2022-11-02 10:15:15",
+          "mod_date": "2022-11-02 10:15:15",
+          "persist_until": "2022-11-03 10:15:15",
+          "saved": false
+        }
+      ]
+    }
+  ]
+}

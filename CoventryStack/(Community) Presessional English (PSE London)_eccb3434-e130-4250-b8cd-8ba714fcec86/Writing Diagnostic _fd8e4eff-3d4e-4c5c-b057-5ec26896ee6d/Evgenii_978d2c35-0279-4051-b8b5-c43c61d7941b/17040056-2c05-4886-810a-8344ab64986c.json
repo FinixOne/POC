@@ -1,0 +1,84 @@
+{
+  "userId": "978d2c35-0279-4051-b8b5-c43c61d7941b",
+  "firstName": "Evgenii",
+  "lastName": "Chebakov",
+  "assigmentId": "fd8e4eff-3d4e-4c5c-b057-5ec26896ee6d",
+  "assigmentName": "Writing Diagnostic ",
+  "sessionId": "17040056-2c05-4886-810a-8344ab64986c",
+  "email": "chebakove@coventry.ac.uk",
+  "spaceId": "eccb3434-e130-4250-b8cd-8ba714fcec86",
+  "spaceName": "(Community) Presessional English (PSE London)",
+  "score": 0,
+  "max_score": 0,
+  "questions": [
+    {
+      "response_id": "17040056-2c05-4886-810a-8344ab64986c_3960ce8bd77744307fc18b27d76d6d07",
+      "question_type": "longtextV2",
+      "dt_score_updated": "2021-09-28T19:39:34Z",
+      "automarkable": false,
+      "attempted": true,
+      "score": null,
+      "max_score": null,
+      "question_reference": "24b1d2b5-cdf7-4176-ba7e-23be2cb908ff",
+      "item_reference": "edf392f5-6c77-4644-b270-c7ac129da35d",
+      "response": {
+        "value": "<p>The aim of this report is to research and find the two most popular transports used by students, define the pros and cons for each tipe and give recommendations to the university.<br></p><p>As a result of the research, the most popular transport for students is a bike. Firstly, it is not polluted for environment because no fuel is use. Secondly, it is useful for health. Thirdly, price of a bike is really low, therefore every student can afford to buy this. Also, the service of a bike is chipper than other vehicles. However, there are some disadvantages of using a bike, such as the lack of safe plases for parking, slow speed and nessessity of changing clothes after ridding.</p><p>Second most often used transport is a train that also quite good for environment, nevertheless it is quick and there is the station near the university. The disadvantage of using a train is expensive tickets that students have to buy every day. At the rush hour the trip is not comfortable because it is crowded. As well as, a train can be late or even ba cancelled that cruel for students.</p><p>In conclusion, there are some recommendations for the university that give opportunities for students to get more convinient and on time. Firstly, the university should arrange safe places for bikes near the entrance. Secondly, to design changing rooms in the cases the students ride on the bikes. Thirdly, to change the schedule of lessons for avoiding rush hour. Eventually, to subside train ticket costs helping students to use this transport more often.</p>",
+        "wordCount": 262,
+        "type": "string",
+        "apiVersion": "v2.168.9",
+        "revision": 184
+      },
+      "questionInfo": {
+        "type": "longtextV2",
+        "widget_type": "response",
+        "reference": "24b1d2b5-cdf7-4176-ba7e-23be2cb908ff",
+        "data": {
+          "stimulus": "<h2 id=\"yui_3_17_2_1_1628703407776_1784\"><span style=\"color:#0000ff;\"><b id=\"yui_3_17_2_1_1628703407776_2039\">You are going to write a report for your University. </b></span></h2>\n\n<h4><b>You should…</b></h4>\n\n<ul id=\"yui_3_17_2_1_1628703407776_2050\">\n\t<li><span style=\"font-size:1.3em;\">Write about the&nbsp;TWO&nbsp;most popular means of transportation used by students</span></li>\n\t<li><span style=\"font-size:1.3em;\">Discuss the advantages&nbsp;AND&nbsp;disadvantages</span></li>\n\t<li><span style=\"font-size:1.3em;\">Make some recommendations to the university</span></li>\n</ul>\n\n<h5 id=\"yui_3_17_2_1_1628703407776_2051\">&nbsp;</h5>\n\n<h4 id=\"yui_3_17_2_1_1628703407776_2055\"><b id=\"yui_3_17_2_1_1628703407776_2057\">Analyse the information in the table below:</b></h4>\n\n<p><img height=\"285\" src=\"https://assets.learnosity.com/organisations/755/501dfa12-1cf8-4ced-a6ab-aa6ba44e3379.JPG\" width=\"701\"></p>\n\n<p><img height=\"259\" src=\"https://assets.learnosity.com/organisations/755/2bc31a90-4e37-4aed-8f9c-b1924cc4ec71.JPG\" width=\"699\"></p>\n\n<h4>&nbsp;</h4>\n\n<h4><span style=\"color:#0000ff;\"><b>Write your report using the&nbsp;ALL&nbsp;the information in the table.</b></span></h4>\n\n<h4><span style=\"color:#ff0000;\"><b><u>Write COMPLETE sentences.&nbsp;Do NOT use bullet points.</u></b></span></h4>\n\n<h4><b style=\"\">Use at least&nbsp;ONE&nbsp;of <u>your own ideas</u>&nbsp;</b><b style=\"\">in the recommendations section.</b></h4>\n\n<h4>&nbsp;</h4>\n\n<h4><b>Follow the&nbsp;report structure&nbsp;you can see below:</b></h4>\n\n<p>&nbsp;</p>\n\n<p><img height=\"523\" src=\"https://assets.learnosity.com/organisations/755/2694fd52-288e-4118-90cd-de27f223d78a.JPG\" width=\"400\"></p>\n\n<h4>&nbsp;</h4>\n\n<h4><b>Write your report in the box below.&nbsp;Start with:&nbsp;</b></h4>\n\n<p><span style=\"font-size:1.3em;\"><i>The aim of this report is to ...</i></span></p>\n",
+          "type": "longtextV2",
+          "formatting_options": [
+            "bold",
+            "italic",
+            "underline",
+            "|",
+            "unorderedList",
+            "orderedList",
+            "redo"
+          ]
+        },
+        "metadata": {
+          "name": "Essay with rich text",
+          "template_reference": "1e6039f8-0676-495d-aca9-108710a51ce5"
+        }
+      },
+      "feedbackInfo": [
+        {
+          "id": "0707_978d2c35-0279-4051-b8b5-c43c61d7941b_17040056-2c05-4886-810a-8344ab64986c_c962bcfcc87093e27ec68116c67063e8",
+          "user_id": "978d2c35-0279-4051-b8b5-c43c61d7941b",
+          "response_id": "17040056-2c05-4886-810a-8344ab64986c_c962bcfcc87093e27ec68116c67063e8",
+          "type": "longtextV2",
+          "question": {
+            "type": "longtextV2",
+            "metadata": {
+              "source": {
+                "organisation_id": 755
+              },
+              "sheet_reference": "default_feedback",
+              "widget_reference": "de082b5f-742a-4ecf-82ca-4dc86e218fec",
+              "valid_response_count": 0
+            },
+            "stimulus": "Written feedback:",
+            "response_id": "17040056-2c05-4886-810a-8344ab64986c_c962bcfcc87093e27ec68116c67063e8",
+            "show_word_count": false,
+            "show_word_limit": "off"
+          },
+          "response": null,
+          "creation_date": "2021-09-30 12:29:01",
+          "mod_date": "2021-09-30 12:29:01",
+          "persist_until": "2021-10-01 12:29:01",
+          "saved": false
+        },
+        null
+      ]
+    }
+  ]
+}

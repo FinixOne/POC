@@ -1,0 +1,1282 @@
+{
+  "userId": "21bb08e3-a78a-4b9f-bdff-8e2778ae93bd",
+  "firstName": "Xueqian",
+  "lastName": "Fan",
+  "assigmentId": "08c047d4-eed7-49be-9485-44d0309091e4",
+  "assigmentName": "Reading Diagnostic Exercise",
+  "sessionId": "37389a91-5b7e-4fc5-9ab7-068c8fab3488",
+  "email": "fanx18@coventry.ac.uk",
+  "spaceId": "eccb3434-e130-4250-b8cd-8ba714fcec86",
+  "spaceName": "(Community) Presessional English (PSE London)",
+  "score": 28,
+  "max_score": 54,
+  "questions": [
+    {
+      "response_id": "37389a91-5b7e-4fc5-9ab7-068c8fab3488_9fa68e0096c39ece7fcf415fbe25d202",
+      "question_type": "association",
+      "dt_score_updated": "2022-07-05T02:20:48Z",
+      "automarkable": true,
+      "attempted": true,
+      "score": 4,
+      "max_score": 8,
+      "question_reference": "e8e667fd-6b1b-46ff-9704-fbbc6f9b7be0",
+      "item_reference": "ce7a08c0-9173-4d74-af5e-5f781dfa5a25",
+      "response": {
+        "value": [
+          "<span style=\"font-size:1.1em;\">High-speed rail in Europe</span>",
+          "<span style=\"font-size:1.1em;\">Opposing views on the HS2 project</span>",
+          "<span style=\"font-size:1.1em;\">An alternative rail solution</span>",
+          "<span style=\"font-size:1.1em;\">The cost of living in the capital</span>",
+          "<span style=\"font-size:1.1em;\">The main reasons for funding HSR in Britain</span>",
+          "<span style=\"font-size:1.1em;\">Environmental damage</span>",
+          "<span style=\"font-size:1.1em;\">Negative economic impact of HS2</span>",
+          "<span style=\"font-size:1.1em;\">Cost of running an HSR network</span>"
+        ],
+        "type": "array",
+        "updatedFormat": true,
+        "apiVersion": "v2.168.22",
+        "revision": 8
+      },
+      "questionInfo": {
+        "type": "association",
+        "widget_type": "response",
+        "reference": "e8e667fd-6b1b-46ff-9704-fbbc6f9b7be0",
+        "data": {
+          "possible_responses": [
+            "<span style=\"font-size:1.1em;\">The cost of living in the capital</span>",
+            "<span style=\"font-size:1.1em;\">High-speed rail in Europe</span>",
+            "<span style=\"font-size:1.1em;\">An alternative rail solution</span>",
+            "<span style=\"font-size:1.1em;\">Cost of running an HSR network</span>",
+            "<span style=\"font-size:1.1em;\">Opposing views on the HS2 project</span>",
+            "<span style=\"font-size:1.1em;\">Negative economic impact of HS2</span>",
+            "<span style=\"font-size:1.1em;\">The main reasons for funding HSR in Britain</span>",
+            "<span style=\"font-size:1.1em;\">Environmental damage</span>"
+          ],
+          "stimulus": "<h4>&nbsp;</h4>\n\n<h3><span style=\"color:#0000ff;\"><b>READING SECTION</b></span></h3>\n\n<p>&nbsp;</p>\n\n<h4><span style=\"color:#0000ff;\"></span></h4>\n\n<h4><span style=\"color:#0000ff;\"><b>QUESTION 1 -&nbsp;<b>READING FOR MAIN IDEAS</b></b></span></h4>\n\n<h5><i>Select the best&nbsp;headings (<b>1-8)&nbsp;</b>for each<b>&nbsp;</b>paragraphs (<b>A-H)</b></i></h5>\n",
+          "stimulus_list": [
+            "<strong><span style=\"font-size:1.1em;\">Paragraph A</span></strong>",
+            "<strong><span style=\"font-size:1.1em;\">Paragraph B</span></strong>",
+            "<strong><span style=\"font-size:1.1em;\">Paragraph C</span></strong>",
+            "<strong><span style=\"font-size:1.1em;\">Paragraph D</span></strong>",
+            "<strong><span style=\"font-size:1.1em;\">Paragraph E</span></strong>",
+            "<strong><span style=\"font-size:1.1em;\">Paragraph F</span></strong>",
+            "<strong><span style=\"font-size:1.1em;\">Paragraph G</span></strong>",
+            "<strong><span style=\"font-size:1.1em;\">Paragraph H</span></strong>"
+          ],
+          "type": "association",
+          "validation": {
+            "scoring_type": "partialMatchV2",
+            "valid_response": {
+              "score": 8,
+              "value": [
+                "<span style=\"font-size:1.1em;\">High-speed rail in Europe</span>",
+                "<span style=\"font-size:1.1em;\">Opposing views on the HS2 project</span>",
+                "<span style=\"font-size:1.1em;\">The main reasons for funding HSR in Britain</span>",
+                "<span style=\"font-size:1.1em;\">The cost of living in the capital</span>",
+                "<span style=\"font-size:1.1em;\">Negative economic impact of HS2</span>",
+                "<span style=\"font-size:1.1em;\">Environmental damage</span>",
+                "<span style=\"font-size:1.1em;\">Cost of running an HSR network</span>",
+                "<span style=\"font-size:1.1em;\">An alternative rail solution</span>"
+              ]
+            }
+          }
+        },
+        "metadata": {
+          "name": "Match list",
+          "template_reference": "1fa22aac-1f88-47f7-941b-3c77759549e6"
+        }
+      },
+      "feedbackInfo": [
+        {
+          "id": "0707_21bb08e3-a78a-4b9f-bdff-8e2778ae93bd_37389a91-5b7e-4fc5-9ab7-068c8fab3488_e5512e164433bdc2142ff28785e8b250",
+          "user_id": "21bb08e3-a78a-4b9f-bdff-8e2778ae93bd",
+          "response_id": "37389a91-5b7e-4fc5-9ab7-068c8fab3488_e5512e164433bdc2142ff28785e8b250",
+          "type": "longtextV2",
+          "question": {
+            "type": "longtextV2",
+            "metadata": {
+              "source": {
+                "organisation_id": 755
+              },
+              "sheet_reference": "default_feedback",
+              "widget_reference": "de082b5f-742a-4ecf-82ca-4dc86e218fec",
+              "valid_response_count": 0
+            },
+            "stimulus": "Written feedback:",
+            "response_id": "37389a91-5b7e-4fc5-9ab7-068c8fab3488_e5512e164433bdc2142ff28785e8b250",
+            "show_word_count": false,
+            "show_word_limit": "off"
+          },
+          "response": null,
+          "creation_date": "2022-07-05 13:50:48",
+          "mod_date": "2022-07-05 13:52:33",
+          "persist_until": "2025-07-04 13:50:48",
+          "saved": true
+        },
+        null
+      ]
+    },
+    {
+      "response_id": "37389a91-5b7e-4fc5-9ab7-068c8fab3488_e0899e5691f52fabab389e6e551c698f",
+      "question_type": "clozetext",
+      "dt_score_updated": "2022-07-05T02:17:40Z",
+      "automarkable": true,
+      "attempted": true,
+      "score": 6,
+      "max_score": 8,
+      "question_reference": "00ad4669-1981-4fb6-9fef-55e3022a7601",
+      "item_reference": "ce7a08c0-9173-4d74-af5e-5f781dfa5a25",
+      "response": {
+        "value": [
+          "300",
+          "1981",
+          "3000",
+          "government",
+          "homes",
+          "environment",
+          "economists",
+          "passengers"
+        ],
+        "type": "array",
+        "apiVersion": "v2.168.22",
+        "revision": 8
+      },
+      "questionInfo": {
+        "type": "clozetext",
+        "widget_type": "response",
+        "reference": "00ad4669-1981-4fb6-9fef-55e3022a7601",
+        "data": {
+          "stimulus": "<h4>&nbsp;</h4>\n\n<h4><span style=\"color:#0000ff;\"><b><b>QUESTION 2 -&nbsp;</b>SCANNING TO FIND INFORMATION</b></span></h4>\n\n<h5><i>Answer the questions with ONE WORD or NUMBER from the text.</i></h5>\n\n<p>&nbsp;</p>\n",
+          "template": "<ol>\n\t<li>The normal speed of a modern HSR train is {{response}}&nbsp;kph.</li>\n\t<li>In {{response}}&nbsp;France received its first high-speed trains.</li>\n\t<li>There is more than&nbsp;{{response}} km of high-speed track in Spain.</li>\n\t<li>Many additional {{response}}&nbsp;are expected to come from HS2 in areas where not everyone is in employment.</li>\n\t<li>HS2 will allow London workers the opportunity to afford less expensive&nbsp;{{response}} in the North.</li>\n\t<li>The construction work will have an effect on the {{response}}.</li>\n\t<li>Some {{response}}&nbsp;think the true cost of HS2 will be $50 billion higher than the government’s expected budget.</li>\n\t<li>The&nbsp;{{response}} do not pay enough to cover the cost of running the highspeed trains in France.</li>\n</ol>\n",
+          "type": "clozetext",
+          "validation": {
+            "scoring_type": "partialMatchV2",
+            "valid_response": {
+              "score": 8,
+              "value": [
+                "300",
+                "1984",
+                "3000",
+                "jobs",
+                "homes",
+                "environment",
+                "economists",
+                "passengers"
+              ]
+            }
+          }
+        },
+        "metadata": {
+          "name": "Cloze with text",
+          "template_reference": "457fe101-0667-4a35-b193-b849653acb52"
+        }
+      },
+      "feedbackInfo": [
+        {
+          "id": "0707_21bb08e3-a78a-4b9f-bdff-8e2778ae93bd_37389a91-5b7e-4fc5-9ab7-068c8fab3488_b4edfe389f90ea0e3cd22b5d50928060",
+          "user_id": "21bb08e3-a78a-4b9f-bdff-8e2778ae93bd",
+          "response_id": "37389a91-5b7e-4fc5-9ab7-068c8fab3488_b4edfe389f90ea0e3cd22b5d50928060",
+          "type": "longtextV2",
+          "question": {
+            "type": "longtextV2",
+            "metadata": {
+              "source": {
+                "organisation_id": 755
+              },
+              "sheet_reference": "default_feedback",
+              "widget_reference": "de082b5f-742a-4ecf-82ca-4dc86e218fec",
+              "valid_response_count": 0
+            },
+            "stimulus": "Written feedback:",
+            "response_id": "37389a91-5b7e-4fc5-9ab7-068c8fab3488_b4edfe389f90ea0e3cd22b5d50928060",
+            "show_word_count": false,
+            "show_word_limit": "off"
+          },
+          "response": null,
+          "creation_date": "2022-07-05 13:50:49",
+          "mod_date": "2022-07-05 13:52:34",
+          "persist_until": "2025-07-04 13:50:49",
+          "saved": true
+        },
+        null
+      ]
+    },
+    {
+      "response_id": "37389a91-5b7e-4fc5-9ab7-068c8fab3488_dc45b46c330afedcaec95618274b330e",
+      "question_type": "mcq",
+      "dt_score_updated": "2022-07-05T02:23:41Z",
+      "automarkable": true,
+      "attempted": true,
+      "score": 1,
+      "max_score": 1,
+      "question_reference": "53a330ea-40e7-4113-b168-d11b396318ef",
+      "item_reference": "ce7a08c0-9173-4d74-af5e-5f781dfa5a25",
+      "response": {
+        "value": [
+          "3"
+        ],
+        "type": "array",
+        "apiVersion": "v2.168.22",
+        "revision": 1
+      },
+      "questionInfo": {
+        "type": "mcq",
+        "widget_type": "response",
+        "reference": "53a330ea-40e7-4113-b168-d11b396318ef",
+        "data": {
+          "options": [
+            {
+              "label": "&nbsp;will only benefit the North of England.",
+              "value": "0"
+            },
+            {
+              "label": "&nbsp;will make people unhappy.",
+              "value": "1"
+            },
+            {
+              "label": "will take too long to complete.",
+              "value": "2"
+            },
+            {
+              "label": "is a misuse of public funds.",
+              "value": "3"
+            }
+          ],
+          "stimulus": "<h5>&nbsp;</h5>\n\n<h4><span style=\"color:#0000ff;\"><b>QUESTION 3 - IDENTIFYING ARGUMENT</b></span></h4>\n\n<h5><i>For each question, choose ONE correct answer.</i></h5>\n\n<p>&nbsp;</p>\n\n<p id=\"yui_3_17_2_1_1628699425815_324\"><b>3.1.&nbsp;STOP HS2‘s main concern is that the high-speed rail link…</b></p>\n",
+          "type": "mcq",
+          "validation": {
+            "scoring_type": "exactMatch",
+            "valid_response": {
+              "score": 1,
+              "value": [
+                "3"
+              ]
+            }
+          },
+          "ui_style": {
+            "type": "horizontal"
+          }
+        },
+        "metadata": {
+          "name": "Multiple choice – block layout",
+          "template_reference": "33d53a22-1a59-4a03-9671-7f5104edd62e"
+        }
+      },
+      "feedbackInfo": [
+        {
+          "id": "0707_21bb08e3-a78a-4b9f-bdff-8e2778ae93bd_37389a91-5b7e-4fc5-9ab7-068c8fab3488_3535388ee8867fb08f2dd8cbce4b50b9",
+          "user_id": "21bb08e3-a78a-4b9f-bdff-8e2778ae93bd",
+          "response_id": "37389a91-5b7e-4fc5-9ab7-068c8fab3488_3535388ee8867fb08f2dd8cbce4b50b9",
+          "type": "longtextV2",
+          "question": {
+            "type": "longtextV2",
+            "metadata": {
+              "source": {
+                "organisation_id": 755
+              },
+              "sheet_reference": "default_feedback",
+              "widget_reference": "de082b5f-742a-4ecf-82ca-4dc86e218fec",
+              "valid_response_count": 0
+            },
+            "stimulus": "Written feedback:",
+            "response_id": "37389a91-5b7e-4fc5-9ab7-068c8fab3488_3535388ee8867fb08f2dd8cbce4b50b9",
+            "show_word_count": false,
+            "show_word_limit": "off"
+          },
+          "response": null,
+          "creation_date": "2022-07-05 13:50:49",
+          "mod_date": "2022-07-05 13:52:34",
+          "persist_until": "2025-07-04 13:50:49",
+          "saved": true
+        },
+        null
+      ]
+    },
+    {
+      "response_id": "37389a91-5b7e-4fc5-9ab7-068c8fab3488_790b91f19aaf2ef225c7ef0bfdf8fcbe",
+      "question_type": "mcq",
+      "dt_score_updated": "2022-07-05T02:24:23Z",
+      "automarkable": true,
+      "attempted": true,
+      "score": 1,
+      "max_score": 1,
+      "question_reference": "0e7164ae-0e22-4c56-badd-d93ce02a718b",
+      "item_reference": "ce7a08c0-9173-4d74-af5e-5f781dfa5a25",
+      "response": {
+        "value": [
+          "1"
+        ],
+        "type": "array",
+        "apiVersion": "v2.168.22",
+        "revision": 1
+      },
+      "questionInfo": {
+        "type": "mcq",
+        "widget_type": "response",
+        "reference": "0e7164ae-0e22-4c56-badd-d93ce02a718b",
+        "data": {
+          "options": [
+            {
+              "label": "wants people to build houses in the North of England.",
+              "value": "0"
+            },
+            {
+              "label": "would like to make travel around the UK easier.",
+              "value": "1"
+            },
+            {
+              "label": "wants people to work in London.",
+              "value": "2"
+            },
+            {
+              "label": "would like to build cheap homes in the South.",
+              "value": "3"
+            }
+          ],
+          "stimulus": "<b>3.2. The British government…</b>",
+          "type": "mcq",
+          "validation": {
+            "scoring_type": "exactMatch",
+            "valid_response": {
+              "score": 1,
+              "value": [
+                "1"
+              ]
+            }
+          },
+          "ui_style": {
+            "type": "horizontal"
+          }
+        },
+        "metadata": {
+          "name": "Multiple choice – standard",
+          "template_reference": "9e8149bd-e4d8-4dd6-a751-1a113a4b9163"
+        }
+      },
+      "feedbackInfo": [
+        {
+          "id": "0707_21bb08e3-a78a-4b9f-bdff-8e2778ae93bd_37389a91-5b7e-4fc5-9ab7-068c8fab3488_2718873074b4e02d85b118ceecb64bf2",
+          "user_id": "21bb08e3-a78a-4b9f-bdff-8e2778ae93bd",
+          "response_id": "37389a91-5b7e-4fc5-9ab7-068c8fab3488_2718873074b4e02d85b118ceecb64bf2",
+          "type": "longtextV2",
+          "question": {
+            "type": "longtextV2",
+            "metadata": {
+              "source": {
+                "organisation_id": 755
+              },
+              "sheet_reference": "default_feedback",
+              "widget_reference": "de082b5f-742a-4ecf-82ca-4dc86e218fec",
+              "valid_response_count": 0
+            },
+            "stimulus": "Written feedback:",
+            "response_id": "37389a91-5b7e-4fc5-9ab7-068c8fab3488_2718873074b4e02d85b118ceecb64bf2",
+            "show_word_count": false,
+            "show_word_limit": "off"
+          },
+          "response": null,
+          "creation_date": "2022-07-05 13:50:50",
+          "mod_date": "2022-07-05 13:52:34",
+          "persist_until": "2025-07-04 13:50:50",
+          "saved": true
+        },
+        null
+      ]
+    },
+    {
+      "response_id": "37389a91-5b7e-4fc5-9ab7-068c8fab3488_ea0188be7490fd015bfb5d2411d9742b",
+      "question_type": "mcq",
+      "dt_score_updated": "2022-07-05T02:25:48Z",
+      "automarkable": true,
+      "attempted": true,
+      "score": 1,
+      "max_score": 1,
+      "question_reference": "9296b9ca-b593-48f3-b059-41f3ef6d6933",
+      "item_reference": "ce7a08c0-9173-4d74-af5e-5f781dfa5a25",
+      "response": {
+        "value": [
+          "0"
+        ],
+        "type": "array",
+        "apiVersion": "v2.168.22",
+        "revision": 2
+      },
+      "questionInfo": {
+        "type": "mcq",
+        "widget_type": "response",
+        "reference": "9296b9ca-b593-48f3-b059-41f3ef6d6933",
+        "data": {
+          "options": [
+            {
+              "label": "the effects of the construction&nbsp;on the local people and land.",
+              "value": "0"
+            },
+            {
+              "label": "&nbsp;that costs will be higher than predicted.",
+              "value": "1"
+            },
+            {
+              "label": "the damage to old buildings.",
+              "value": "2"
+            },
+            {
+              "label": "that the cost will be £50 billion.",
+              "value": "3"
+            }
+          ],
+          "stimulus": "<b>3.3.&nbsp;The biggest problem with HS2 is…</b>",
+          "type": "mcq",
+          "validation": {
+            "scoring_type": "exactMatch",
+            "valid_response": {
+              "score": 1,
+              "value": [
+                "0"
+              ]
+            }
+          },
+          "ui_style": {
+            "type": "horizontal"
+          }
+        },
+        "metadata": {
+          "name": "Multiple choice – standard",
+          "template_reference": "9e8149bd-e4d8-4dd6-a751-1a113a4b9163"
+        }
+      },
+      "feedbackInfo": [
+        {
+          "id": "0707_21bb08e3-a78a-4b9f-bdff-8e2778ae93bd_37389a91-5b7e-4fc5-9ab7-068c8fab3488_56a8e52f6eeeb5fed7e38596d8dd775f",
+          "user_id": "21bb08e3-a78a-4b9f-bdff-8e2778ae93bd",
+          "response_id": "37389a91-5b7e-4fc5-9ab7-068c8fab3488_56a8e52f6eeeb5fed7e38596d8dd775f",
+          "type": "longtextV2",
+          "question": {
+            "type": "longtextV2",
+            "metadata": {
+              "source": {
+                "organisation_id": 755
+              },
+              "sheet_reference": "default_feedback",
+              "widget_reference": "de082b5f-742a-4ecf-82ca-4dc86e218fec",
+              "valid_response_count": 0
+            },
+            "stimulus": "Written feedback:",
+            "response_id": "37389a91-5b7e-4fc5-9ab7-068c8fab3488_56a8e52f6eeeb5fed7e38596d8dd775f",
+            "show_word_count": false,
+            "show_word_limit": "off"
+          },
+          "response": null,
+          "creation_date": "2022-07-05 13:50:50",
+          "mod_date": "2022-07-05 13:52:35",
+          "persist_until": "2025-07-04 13:50:50",
+          "saved": true
+        },
+        null
+      ]
+    },
+    {
+      "response_id": "37389a91-5b7e-4fc5-9ab7-068c8fab3488_627ab5377978697b415874c8a94d43c2",
+      "question_type": "mcq",
+      "dt_score_updated": "2022-07-05T02:30:03Z",
+      "automarkable": true,
+      "attempted": true,
+      "score": 1,
+      "max_score": 1,
+      "question_reference": "152c9d81-49d8-41c7-9f05-6df57ccb5493",
+      "item_reference": "ce7a08c0-9173-4d74-af5e-5f781dfa5a25",
+      "response": {
+        "value": [
+          "2"
+        ],
+        "type": "array",
+        "apiVersion": "v2.168.22",
+        "revision": 3
+      },
+      "questionInfo": {
+        "type": "mcq",
+        "widget_type": "response",
+        "reference": "152c9d81-49d8-41c7-9f05-6df57ccb5493",
+        "data": {
+          "options": [
+            {
+              "label": "thinks HS2 is a good idea.",
+              "value": "0"
+            },
+            {
+              "label": "is not in favour of investment in HS2.",
+              "value": "1"
+            },
+            {
+              "label": "is unsure about the HS2 project.",
+              "value": "2"
+            },
+            {
+              "label": "is certain HS2 is a very bad project.",
+              "value": "3"
+            }
+          ],
+          "stimulus": "<b>3.4.&nbsp;The author of the article…</b>",
+          "type": "mcq",
+          "validation": {
+            "scoring_type": "exactMatch",
+            "valid_response": {
+              "score": 1,
+              "value": [
+                "2"
+              ]
+            }
+          },
+          "ui_style": {
+            "type": "horizontal"
+          }
+        },
+        "metadata": {
+          "name": "Multiple choice – standard",
+          "template_reference": "9e8149bd-e4d8-4dd6-a751-1a113a4b9163"
+        }
+      },
+      "feedbackInfo": [
+        {
+          "id": "0707_21bb08e3-a78a-4b9f-bdff-8e2778ae93bd_37389a91-5b7e-4fc5-9ab7-068c8fab3488_819b24fcddd775feac3b07a306c06514",
+          "user_id": "21bb08e3-a78a-4b9f-bdff-8e2778ae93bd",
+          "response_id": "37389a91-5b7e-4fc5-9ab7-068c8fab3488_819b24fcddd775feac3b07a306c06514",
+          "type": "longtextV2",
+          "question": {
+            "type": "longtextV2",
+            "metadata": {
+              "source": {
+                "organisation_id": 755
+              },
+              "sheet_reference": "default_feedback",
+              "widget_reference": "de082b5f-742a-4ecf-82ca-4dc86e218fec",
+              "valid_response_count": 0
+            },
+            "stimulus": "Written feedback:",
+            "response_id": "37389a91-5b7e-4fc5-9ab7-068c8fab3488_819b24fcddd775feac3b07a306c06514",
+            "show_word_count": false,
+            "show_word_limit": "off"
+          },
+          "response": null,
+          "creation_date": "2022-07-05 13:50:50",
+          "mod_date": "2022-07-05 13:52:35",
+          "persist_until": "2025-07-04 13:50:50",
+          "saved": true
+        },
+        null
+      ]
+    },
+    {
+      "response_id": "37389a91-5b7e-4fc5-9ab7-068c8fab3488_19cc4e4f9547518dd7e0ecd618fa4a69",
+      "question_type": "clozedropdown",
+      "dt_score_updated": "2022-07-05T02:34:18Z",
+      "automarkable": true,
+      "attempted": true,
+      "score": 3,
+      "max_score": 7,
+      "question_reference": "cde49052-9ac0-4c14-9b5a-bdab0a553a9b",
+      "item_reference": "ce7a08c0-9173-4d74-af5e-5f781dfa5a25",
+      "response": {
+        "value": [
+          "Not clear because people may have different opinions",
+          "Unnecessary or wrong use",
+          "Don’t have enough money",
+          "Expressed in a different way",
+          "To prove that something is true",
+          "Impossible to accept",
+          "To say that something is true but you cannot prove it"
+        ],
+        "type": "array",
+        "apiVersion": "v2.168.22",
+        "revision": 8
+      },
+      "questionInfo": {
+        "type": "clozedropdown",
+        "widget_type": "response",
+        "reference": "cde49052-9ac0-4c14-9b5a-bdab0a553a9b",
+        "data": {
+          "possible_responses": [
+            [
+              "To say that something is true but you cannot prove it",
+              "Unnecessary or wrong use",
+              "Don’t have enough money",
+              "Expressed in a different way",
+              "Most important",
+              "What people think the value of something is (but are not sure)",
+              "Not clear because people may have different opinions",
+              "A serious discussion of a subject",
+              "Highly respected",
+              "Illegal",
+              "Impossible to accept",
+              "Many different ways",
+              "To prove that something is true"
+            ],
+            [
+              "To say that something is true but you cannot prove it",
+              "Unnecessary or wrong use",
+              "Don’t have enough money",
+              "Expressed in a different way",
+              "Most important",
+              "What people think the value of something is (but are not sure)",
+              "Not clear because people may have different opinions",
+              "A serious discussion of a subject",
+              "Highly respected",
+              "Illegal",
+              "Impossible to accept",
+              "Many different ways",
+              "To prove that something is true"
+            ],
+            [
+              "To say that something is true but you cannot prove it",
+              "Unnecessary or wrong use",
+              "Don’t have enough money",
+              "Expressed in a different way",
+              "Most important",
+              "What people think the value of something is (but are not sure)",
+              "Not clear because people may have different opinions",
+              "A serious discussion of a subject",
+              "Highly respected",
+              "Illegal",
+              "Impossible to accept",
+              "Many different ways",
+              "To prove that something is true"
+            ],
+            [
+              "To say that something is true but you cannot prove it",
+              "Unnecessary or wrong use",
+              "Don’t have enough money",
+              "Expressed in a different way",
+              "Most important",
+              "What people think the value of something is (but are not sure)",
+              "Not clear because people may have different opinions",
+              "A serious discussion of a subject",
+              "Highly respected",
+              "Illegal",
+              "Impossible to accept",
+              "Many different ways",
+              "To prove that something is true"
+            ],
+            [
+              "To say that something is true but you cannot prove it",
+              "Unnecessary or wrong use",
+              "Don’t have enough money",
+              "Expressed in a different way",
+              "Most important",
+              "What people think the value of something is (but are not sure)",
+              "Not clear because people may have different opinions",
+              "A serious discussion of a subject",
+              "Highly respected",
+              "Illegal",
+              "Impossible to accept",
+              "Many different ways",
+              "To prove that something is true"
+            ],
+            [
+              "To say that something is true but you cannot prove it",
+              "Unnecessary or wrong use",
+              "Don’t have enough money",
+              "Expressed in a different way",
+              "Most important",
+              "What people think the value of something is (but are not sure)",
+              "Not clear because people may have different opinions",
+              "A serious discussion of a subject",
+              "Highly respected",
+              "Illegal",
+              "Impossible to accept",
+              "Many different ways",
+              "To prove that something is true"
+            ],
+            [
+              "To say that something is true but you cannot prove it",
+              "Unnecessary or wrong use",
+              "Don’t have enough money",
+              "Expressed in a different way",
+              "Most important",
+              "What people think the value of something is (but are not sure)",
+              "Not clear because people may have different opinions",
+              "A serious discussion of a subject",
+              "Highly respected",
+              "Illegal",
+              "Impossible to accept",
+              "Many different ways",
+              "To prove that something is true"
+            ]
+          ],
+          "response_container": {
+            "pointer": "left"
+          },
+          "stimulus": "<h4>&nbsp;</h4>\n\n<h4>&nbsp;</h4>\n\n<h3><span style=\"color:#0000ff;\"><b>VOCABULARY SECTION</b></span></h3>\n\n<h4><span style=\"color:#0000ff;\"><br>\n<b>QUESTION 1 - VOCABULARY IN CONTEXT</b></span></h4>\n\n<h5><i>Match the words in CAPITALS to their meanings. Select a word from the drop down.&nbsp;</i><i>There are extra meanings you don't need.</i></h5>\n\n<p>&nbsp;</p>\n",
+          "template": "<ol>\n\t<li>The government CLAIMS (line 12)&nbsp;{{response}}</li>\n\t<li>A complete WASTE of money (line 14)&nbsp;{{response}}</li>\n\t<li>Many people CANNOT AFFORD (line 21)&nbsp;{{response}}</li>\n\t<li>IN OTHER WORDS (line 27)&nbsp;{{response}}</li>\n\t<li>The CENTRAL argument (line 30)&nbsp;{{response}}</li>\n\t<li>It is ESTIMATED (line 39)&nbsp;{{response}}</li>\n\t<li>It is DEBATABLE (line 44)&nbsp;{{response}}</li>\n</ol>\n",
+          "type": "clozedropdown",
+          "case_sensitive": true,
+          "validation": {
+            "scoring_type": "partialMatchV2",
+            "valid_response": {
+              "score": 7,
+              "value": [
+                "To say that something is true but you cannot prove it",
+                "Unnecessary or wrong use",
+                "Don’t have enough money",
+                "Expressed in a different way",
+                "Most important",
+                "What people think the value of something is (but are not sure)",
+                "Not clear because people may have different opinions"
+              ]
+            }
+          },
+          "shuffle_options": true
+        },
+        "metadata": {
+          "name": "Cloze with drop down",
+          "template_reference": "2fbba51b-e35e-441f-83c7-2662e2e81fa6"
+        }
+      },
+      "feedbackInfo": [
+        {
+          "id": "0707_21bb08e3-a78a-4b9f-bdff-8e2778ae93bd_37389a91-5b7e-4fc5-9ab7-068c8fab3488_d8398be4cb6e2fd09cadff49aaedcd26",
+          "user_id": "21bb08e3-a78a-4b9f-bdff-8e2778ae93bd",
+          "response_id": "37389a91-5b7e-4fc5-9ab7-068c8fab3488_d8398be4cb6e2fd09cadff49aaedcd26",
+          "type": "longtextV2",
+          "question": {
+            "type": "longtextV2",
+            "metadata": {
+              "source": {
+                "organisation_id": 755
+              },
+              "sheet_reference": "default_feedback",
+              "widget_reference": "de082b5f-742a-4ecf-82ca-4dc86e218fec",
+              "valid_response_count": 0
+            },
+            "stimulus": "Written feedback:",
+            "response_id": "37389a91-5b7e-4fc5-9ab7-068c8fab3488_d8398be4cb6e2fd09cadff49aaedcd26",
+            "show_word_count": false,
+            "show_word_limit": "off"
+          },
+          "response": null,
+          "creation_date": "2022-07-05 13:50:51",
+          "mod_date": "2022-07-05 13:52:36",
+          "persist_until": "2025-07-04 13:50:51",
+          "saved": true
+        },
+        null
+      ]
+    },
+    {
+      "response_id": "37389a91-5b7e-4fc5-9ab7-068c8fab3488_91e2be5745eae06a35fe1925bc291cc2",
+      "question_type": "clozetext",
+      "dt_score_updated": "2022-07-05T02:44:54Z",
+      "automarkable": true,
+      "attempted": true,
+      "score": 6,
+      "max_score": 12,
+      "question_reference": "bef7ded6-7f77-4790-a915-5140166cb216",
+      "item_reference": "ce7a08c0-9173-4d74-af5e-5f781dfa5a25",
+      "response": {
+        "value": [
+          "relaxing",
+          "reliable",
+          "practical",
+          "terrifying",
+          "astonished",
+          "aggressions",
+          "competitive",
+          "children",
+          "patient",
+          "fool",
+          "puzzled",
+          "exhausting"
+        ],
+        "type": "array",
+        "apiVersion": "v2.168.22",
+        "revision": 15
+      },
+      "questionInfo": {
+        "type": "clozetext",
+        "widget_type": "response",
+        "reference": "bef7ded6-7f77-4790-a915-5140166cb216",
+        "data": {
+          "stimulus": "<h4>&nbsp;</h4>\n\n<h4 id=\"yui_3_17_2_1_1628700625616_2069\"><span style=\"color:#0000ff;\"><b>QUESTION 2 - WORD FORMATION</b></span></h4>\n\n<h5 id=\"yui_3_17_2_1_1628700625616_2057\"><i>Read the text below. Use the word in CAPITALS to form a word that fits the gap.&nbsp;</i></h5>\n\n<h5 id=\"yui_3_17_2_1_1628700625616_2037\"><i>There is an <span style=\"color:#0000ff;\"><strong>example</strong></span> at the beginning.</i></h5>\n\n<p>&nbsp;</p>\n",
+          "template": "<p style=\"margin-bottom: 11px; margin-left: 40px;\"><span style=\"font-size:1.3em;\"><span style=\"line-height:107%\"><span style=\"font-family:Calibri,sans-serif\">In the morning I <span style=\"color:#0000ff;\"><strong>usually </strong></span>(USUAL) take the underground. At that time of day it's crowded, you have to stand, and it's certainly not a </span></span></span><span style=\"font-size:1em;\"><span style=\"line-height:107%\"><span style=\"font-family:Calibri,sans-serif\">{{response}}</span></span></span><span style=\"font-size:1.3em;\"><span style=\"line-height:107%\"><span style=\"font-family:Calibri,sans-serif\">&nbsp;(RELAX ) way to travel. But the service is quick, frequent and </span></span></span><span style=\"font-size:1em;\"><span style=\"line-height:107%\"><span style=\"font-family:Calibri,sans-serif\">{{response}}</span></span></span><span style=\"font-size:1.3em;\"><span style=\"line-height:107%\"><span style=\"font-family:Calibri,sans-serif\">&nbsp;(RELY), which makes it by far the most </span></span></span><span style=\"font-size:1em;\"><span style=\"line-height:107%\"><span style=\"font-family:Calibri,sans-serif\">{{response}}</span></span></span><span style=\"font-size:1.3em;\"><span style=\"line-height:107%\"><span style=\"font-family:Calibri,sans-serif\">&nbsp;(PRACTICE) across the city in the rush hour.</span></span></span></p>\n\n<p style=\"margin-bottom: 11px; margin-left: 40px;\"><span style=\"font-size:1.3em;\"><span style=\"line-height:107%\"><span style=\"font-family:Calibri,sans-serif\">Occasionally, though, I travel into town in a friend's car to go shopping and, quite honestly, I often find it an absolutely </span></span></span><span style=\"font-size:1em;\"><span style=\"line-height:107%\"><span style=\"font-family:Calibri,sans-serif\">{{response}}</span></span></span><span style=\"font-size:1.3em;\"><span style=\"line-height:107%\"><span style=\"font-family:Calibri,sans-serif\">&nbsp;(TERRIFY) experience. Every time we get onto the ring road, I'm </span></span></span><span style=\"font-size:1em;\"><span style=\"line-height:107%\"><span style=\"font-family:Calibri,sans-serif\">{{response}}</span></span></span><span style=\"font-size:1.3em;\"><span style=\"line-height:107%\"><span style=\"font-family:Calibri,sans-serif\">&nbsp;(ASTONISH) by the way people behave when they drive a car. Some are extremely </span></span></span><span style=\"font-size:1em;\"><span style=\"line-height:107%\"><span style=\"font-family:Calibri,sans-serif\">{{response}}</span></span></span><span style=\"font-size:1.3em;\"><span style=\"line-height:107%\"><span style=\"font-family:Calibri,sans-serif\">&nbsp;(AGGRESSION), driving straight at you to make you get out of their way, while others are </span></span></span><span style=\"font-size:1em;\"><span style=\"line-height:107%\"><span style=\"font-family:Calibri,sans-serif\">{{response}}</span></span></span><span style=\"font-size:1.3em;\"><span style=\"line-height:107%\"><span style=\"font-family:Calibri,sans-serif\">&nbsp;(COMPETE), trying to have races with other drivers all the time. They just seem </span></span></span><span style=\"font-size:1em;\"><span style=\"line-height:107%\"><span style=\"font-family:Calibri,sans-serif\">{{response}}</span></span></span><span style=\"font-size:1.3em;\"><span style=\"line-height:107%\"><span style=\"font-family:Calibri,sans-serif\">&nbsp;(CHILD) to me. Many of them look really </span></span></span><span style=\"font-size:1em;\"><span style=\"line-height:107%\"><span style=\"font-family:Calibri,sans-serif\">{{response}}</span></span></span><span style=\"font-size:1.3em;\"><span style=\"line-height:107%\"><span style=\"font-family:Calibri,sans-serif\">&nbsp;(PATIENT) and they’re always getting angry with other people, which seems to me a </span></span></span><span style=\"font-size:1em;\"><span style=\"line-height:107%\"><span style=\"font-family:Calibri,sans-serif\">{{response}}</span></span></span><span style=\"font-size:1.3em;\"><span style=\"line-height:107%\"><span style=\"font-family:Calibri,sans-serif\">&nbsp;(FOOL) way to start the day. What I find most </span></span></span><span style=\"font-size:1em;\"><span style=\"line-height:107%\"><span style=\"font-family:Calibri,sans-serif\">{{response}}</span></span></span><span style=\"font-size:1.3em;\"><span style=\"line-height:107%\"><span style=\"font-family:Calibri,sans-serif\">&nbsp;(PUZZLE) about this is the fact that by the time they actually get to their offices, they're probably too </span></span></span><span style=\"font-size:1em;\"><span style=\"line-height:107%\"><span style=\"font-family:Calibri,sans-serif\">{{response}}</span></span></span><span style=\"font-size:1.3em;\"><span style=\"line-height:107%\"><span style=\"font-family:Calibri,sans-serif\"> (EXHAUST) to do a proper day's work.</span></span></span></p>\n",
+          "type": "clozetext",
+          "validation": {
+            "scoring_type": "partialMatchV2",
+            "valid_response": {
+              "score": 12,
+              "value": [
+                "relaxing",
+                "reliable",
+                "practical",
+                "terrifying",
+                "astonished",
+                "aggressive",
+                "competitive",
+                "childish",
+                "impatient",
+                "foolish",
+                "puzzling",
+                "exhausted"
+              ]
+            }
+          }
+        },
+        "metadata": {
+          "name": "Cloze with text",
+          "template_reference": "457fe101-0667-4a35-b193-b849653acb52"
+        }
+      },
+      "feedbackInfo": [
+        {
+          "id": "0707_21bb08e3-a78a-4b9f-bdff-8e2778ae93bd_37389a91-5b7e-4fc5-9ab7-068c8fab3488_3dc456caac79dd35603765cde7d3c772",
+          "user_id": "21bb08e3-a78a-4b9f-bdff-8e2778ae93bd",
+          "response_id": "37389a91-5b7e-4fc5-9ab7-068c8fab3488_3dc456caac79dd35603765cde7d3c772",
+          "type": "longtextV2",
+          "question": {
+            "type": "longtextV2",
+            "metadata": {
+              "source": {
+                "organisation_id": 755
+              },
+              "sheet_reference": "default_feedback",
+              "widget_reference": "de082b5f-742a-4ecf-82ca-4dc86e218fec",
+              "valid_response_count": 0
+            },
+            "stimulus": "Written feedback:",
+            "response_id": "37389a91-5b7e-4fc5-9ab7-068c8fab3488_3dc456caac79dd35603765cde7d3c772",
+            "show_word_count": false,
+            "show_word_limit": "off"
+          },
+          "response": null,
+          "creation_date": "2022-07-05 13:50:51",
+          "mod_date": "2022-07-05 13:52:36",
+          "persist_until": "2025-07-04 13:50:51",
+          "saved": true
+        },
+        null
+      ]
+    },
+    {
+      "response_id": "37389a91-5b7e-4fc5-9ab7-068c8fab3488_182d68faefa7d0f1c1e9519cfe9b7a59",
+      "question_type": "plaintext",
+      "dt_score_updated": "2022-07-05T13:52:46Z",
+      "automarkable": false,
+      "attempted": true,
+      "score": 2,
+      "max_score": 2,
+      "question_reference": "c04c3930-b0d6-4441-83c1-f67ce398ae39",
+      "item_reference": "ce7a08c0-9173-4d74-af5e-5f781dfa5a25",
+      "response": {
+        "value": "Thousands of jobs will be created by HS2.",
+        "wordCount": 8,
+        "type": "string",
+        "apiVersion": "v2.168.22",
+        "revision": 2
+      },
+      "manual_score": null,
+      "max_manual_score": null,
+      "questionInfo": {
+        "type": "plaintext",
+        "widget_type": "response",
+        "reference": "c04c3930-b0d6-4441-83c1-f67ce398ae39",
+        "data": {
+          "stimulus": "<h4>&nbsp;</h4>\n\n<p>&nbsp;</p>\n\n<h2><span style=\"color:#0000ff;\"><b>GRAMMAR SECTION&nbsp;</b></span></h2>\n\n<p>&nbsp;</p>\n\n<h4><span style=\"color:#0000ff;\"></span></h4>\n\n<h4><span style=\"color:#0000ff;\"><b>QUESTION 1 -&nbsp;</b><b>PASSIVES</b></span></h4>\n\n<p><span style=\"font-size:1.3em;\"><i>It is common to use passives in academic writing. Re-write the sentences below in the passive.</i></span></p>\n\n<p>&nbsp;</p>\n\n<p style=\"margin-left: 40px;\"><span style=\"font-size:1.1em;\"><b>EXAMPLE:&nbsp;</b>&nbsp;&nbsp;&nbsp;<u>The government</u>&nbsp;<i>is investing</i><b>&nbsp;£50 billion</b>&nbsp;in HSR.</span></p>\n\n<p style=\"margin-left: 40px;\"><span style=\"font-size:1.1em;\"><b>£50 billion</b>&nbsp;<i>is being invested&nbsp;</i>in HSR&nbsp;(<u>by the government</u>).</span></p>\n\n<p>&nbsp;</p>\n\n<p><span style=\"font-size:1.3em;\"><b>1.1.&nbsp;HS2 will create thousands of jobs.</b></span></p>\n",
+          "spellcheck": true,
+          "type": "plaintext",
+          "metadata": {
+            "sample_answer": "<p>Thousands of jobs will be created (by HS2)</p>\n\n<p>Thousands of jobs will be created by HS2</p>\n"
+          },
+          "validation": {
+            "max_score": 2
+          }
+        },
+        "metadata": {
+          "name": "Essay with plain text",
+          "template_reference": "0f559437-5072-475e-830d-1fa9d2f6bb0d"
+        }
+      },
+      "feedbackInfo": [
+        {
+          "id": "0707_21bb08e3-a78a-4b9f-bdff-8e2778ae93bd_37389a91-5b7e-4fc5-9ab7-068c8fab3488_e784a88126e568ab66276b1a9408fbb6",
+          "user_id": "21bb08e3-a78a-4b9f-bdff-8e2778ae93bd",
+          "response_id": "37389a91-5b7e-4fc5-9ab7-068c8fab3488_e784a88126e568ab66276b1a9408fbb6",
+          "type": "longtextV2",
+          "question": {
+            "type": "longtextV2",
+            "metadata": {
+              "source": {
+                "organisation_id": 755
+              },
+              "sheet_reference": "default_feedback",
+              "widget_reference": "de082b5f-742a-4ecf-82ca-4dc86e218fec",
+              "valid_response_count": 0
+            },
+            "stimulus": "Written feedback:",
+            "response_id": "37389a91-5b7e-4fc5-9ab7-068c8fab3488_e784a88126e568ab66276b1a9408fbb6",
+            "show_word_count": false,
+            "show_word_limit": "off"
+          },
+          "response": null,
+          "creation_date": "2022-07-05 13:50:52",
+          "mod_date": "2022-07-05 13:52:36",
+          "persist_until": "2025-07-04 13:50:52",
+          "saved": true
+        },
+        null
+      ]
+    },
+    {
+      "response_id": "37389a91-5b7e-4fc5-9ab7-068c8fab3488_aa57aa151e0d1c9f83adce84a996c2d7",
+      "question_type": "plaintext",
+      "dt_score_updated": "2022-07-05T13:52:46Z",
+      "automarkable": false,
+      "attempted": true,
+      "score": 0,
+      "max_score": 2,
+      "question_reference": "c7fe4ca3-fd15-41d2-8e61-77e450a8c293",
+      "item_reference": "ce7a08c0-9173-4d74-af5e-5f781dfa5a25",
+      "response": {
+        "value": "historical buildings has caused damaged by HS2.",
+        "wordCount": 7,
+        "type": "string",
+        "apiVersion": "v2.168.22",
+        "revision": 2
+      },
+      "manual_score": null,
+      "max_manual_score": null,
+      "questionInfo": {
+        "type": "plaintext",
+        "widget_type": "response",
+        "reference": "c7fe4ca3-fd15-41d2-8e61-77e450a8c293",
+        "data": {
+          "stimulus": "<span style=\"font-size:1.3em;\"><b>1.2.&nbsp;HS2 has caused damage to historical buildings.</b></span>",
+          "spellcheck": true,
+          "type": "plaintext",
+          "metadata": {
+            "sample_answer": "<p>Damage has been caused to historical buildings (by HS2)</p>\n\n<p>Damage has been caused to historical buildings by HS2</p>\n\n<p>Damage to historical buildings has been caused (by HS2)</p>\n\n<p>Damage to historical buildings has been caused by HS2</p>\n"
+          },
+          "validation": {
+            "max_score": 2
+          }
+        },
+        "metadata": {
+          "name": "Essay with plain text",
+          "template_reference": "0f559437-5072-475e-830d-1fa9d2f6bb0d"
+        }
+      },
+      "feedbackInfo": [
+        {
+          "id": "0707_21bb08e3-a78a-4b9f-bdff-8e2778ae93bd_37389a91-5b7e-4fc5-9ab7-068c8fab3488_45969d4cd058e0d42b9c82531e227130",
+          "user_id": "21bb08e3-a78a-4b9f-bdff-8e2778ae93bd",
+          "response_id": "37389a91-5b7e-4fc5-9ab7-068c8fab3488_45969d4cd058e0d42b9c82531e227130",
+          "type": "longtextV2",
+          "question": {
+            "type": "longtextV2",
+            "metadata": {
+              "source": {
+                "organisation_id": 755
+              },
+              "sheet_reference": "default_feedback",
+              "widget_reference": "de082b5f-742a-4ecf-82ca-4dc86e218fec",
+              "valid_response_count": 0
+            },
+            "stimulus": "Written feedback:",
+            "response_id": "37389a91-5b7e-4fc5-9ab7-068c8fab3488_45969d4cd058e0d42b9c82531e227130",
+            "show_word_count": false,
+            "show_word_limit": "off"
+          },
+          "response": null,
+          "creation_date": "2022-07-05 13:50:52",
+          "mod_date": "2022-07-05 13:52:37",
+          "persist_until": "2025-07-04 13:50:52",
+          "saved": true
+        },
+        null
+      ]
+    },
+    {
+      "response_id": "37389a91-5b7e-4fc5-9ab7-068c8fab3488_54b92b23c3d8e0d8be605aefb73049fa",
+      "question_type": "plaintext",
+      "dt_score_updated": "2022-07-05T13:52:46Z",
+      "automarkable": false,
+      "attempted": true,
+      "score": 0,
+      "max_score": 2,
+      "question_reference": "1c2eba73-1734-4bd5-b353-bcca62c03edf",
+      "item_reference": "ce7a08c0-9173-4d74-af5e-5f781dfa5a25",
+      "response": {
+        "value": "People find that houses are cheaper in the North.",
+        "wordCount": 9,
+        "type": "string",
+        "apiVersion": "v2.168.22",
+        "revision": 2
+      },
+      "manual_score": null,
+      "max_manual_score": null,
+      "questionInfo": {
+        "type": "plaintext",
+        "widget_type": "response",
+        "reference": "1c2eba73-1734-4bd5-b353-bcca62c03edf",
+        "data": {
+          "stimulus": "<span style=\"font-size:1.3em;\"><b>1.3.&nbsp;People find cheaper homes in the North.</b></span>",
+          "spellcheck": true,
+          "type": "plaintext",
+          "metadata": {
+            "sample_answer": "<p>Cheaper homes are found in the North (by people)</p>\n\n<p>Cheaper homes are found in the North by people</p>\n\n<p>Cheaper homes are found in the North</p>\n"
+          },
+          "validation": {
+            "max_score": 2
+          }
+        },
+        "metadata": {
+          "name": "Essay with plain text",
+          "template_reference": "0f559437-5072-475e-830d-1fa9d2f6bb0d"
+        }
+      },
+      "feedbackInfo": [
+        {
+          "id": "0707_21bb08e3-a78a-4b9f-bdff-8e2778ae93bd_37389a91-5b7e-4fc5-9ab7-068c8fab3488_663767fc242c4f1de28825c366100f63",
+          "user_id": "21bb08e3-a78a-4b9f-bdff-8e2778ae93bd",
+          "response_id": "37389a91-5b7e-4fc5-9ab7-068c8fab3488_663767fc242c4f1de28825c366100f63",
+          "type": "longtextV2",
+          "question": {
+            "type": "longtextV2",
+            "metadata": {
+              "source": {
+                "organisation_id": 755
+              },
+              "sheet_reference": "default_feedback",
+              "widget_reference": "de082b5f-742a-4ecf-82ca-4dc86e218fec",
+              "valid_response_count": 0
+            },
+            "stimulus": "Written feedback:",
+            "response_id": "37389a91-5b7e-4fc5-9ab7-068c8fab3488_663767fc242c4f1de28825c366100f63",
+            "show_word_count": false,
+            "show_word_limit": "off"
+          },
+          "response": null,
+          "creation_date": "2022-07-05 13:50:53",
+          "mod_date": "2022-07-05 13:52:37",
+          "persist_until": "2025-07-04 13:50:53",
+          "saved": true
+        },
+        null
+      ]
+    },
+    {
+      "response_id": "37389a91-5b7e-4fc5-9ab7-068c8fab3488_7456920df9da266a32126686b1ec149b",
+      "question_type": "plaintext",
+      "dt_score_updated": "2022-07-05T13:52:46Z",
+      "automarkable": false,
+      "attempted": true,
+      "score": 1,
+      "max_score": 2,
+      "question_reference": "a9c93c0c-d224-4648-a1ec-7d3f439f7fde",
+      "item_reference": "ce7a08c0-9173-4d74-af5e-5f781dfa5a25",
+      "response": {
+        "value": "Negative effects is already being caused by HS2.",
+        "wordCount": 8,
+        "type": "string",
+        "apiVersion": "v2.168.22",
+        "revision": 2
+      },
+      "manual_score": null,
+      "max_manual_score": null,
+      "questionInfo": {
+        "type": "plaintext",
+        "widget_type": "response",
+        "reference": "a9c93c0c-d224-4648-a1ec-7d3f439f7fde",
+        "data": {
+          "stimulus": "<span style=\"font-size:1.3em;\"><b>1.4.&nbsp;HS2 is already causing negative effects.</b></span>",
+          "spellcheck": true,
+          "type": "plaintext",
+          "metadata": {
+            "sample_answer": "<p>Negative effects are already being caused (by HS2)</p>\n\n<p>Negative effects are already being caused by HS2</p>\n\n<p>Negative effects are already being caused</p>\n"
+          },
+          "validation": {
+            "max_score": 2
+          }
+        },
+        "metadata": {
+          "name": "Essay with plain text",
+          "template_reference": "0f559437-5072-475e-830d-1fa9d2f6bb0d"
+        }
+      },
+      "feedbackInfo": [
+        {
+          "id": "0707_21bb08e3-a78a-4b9f-bdff-8e2778ae93bd_37389a91-5b7e-4fc5-9ab7-068c8fab3488_e5c0a2520f562e7d81df6dc5cc25c84b",
+          "user_id": "21bb08e3-a78a-4b9f-bdff-8e2778ae93bd",
+          "response_id": "37389a91-5b7e-4fc5-9ab7-068c8fab3488_e5c0a2520f562e7d81df6dc5cc25c84b",
+          "type": "longtextV2",
+          "question": {
+            "type": "longtextV2",
+            "metadata": {
+              "source": {
+                "organisation_id": 755
+              },
+              "sheet_reference": "default_feedback",
+              "widget_reference": "de082b5f-742a-4ecf-82ca-4dc86e218fec",
+              "valid_response_count": 0
+            },
+            "stimulus": "Written feedback:",
+            "response_id": "37389a91-5b7e-4fc5-9ab7-068c8fab3488_e5c0a2520f562e7d81df6dc5cc25c84b",
+            "show_word_count": false,
+            "show_word_limit": "off"
+          },
+          "response": null,
+          "creation_date": "2022-07-05 13:50:53",
+          "mod_date": "2022-07-05 13:52:38",
+          "persist_until": "2025-07-04 13:50:53",
+          "saved": true
+        },
+        null
+      ]
+    },
+    {
+      "response_id": "37389a91-5b7e-4fc5-9ab7-068c8fab3488_de5034094dceaf945ddddf1eaa9ce97d",
+      "question_type": "plaintext",
+      "dt_score_updated": "2022-07-05T13:52:46Z",
+      "automarkable": false,
+      "attempted": true,
+      "score": 0,
+      "max_score": 2,
+      "question_reference": "baea7ea8-a445-478e-af8f-9ff1ddd84618",
+      "item_reference": "ce7a08c0-9173-4d74-af5e-5f781dfa5a25",
+      "response": {
+        "value": "Investment should be support by the government in rail.",
+        "wordCount": 9,
+        "type": "string",
+        "apiVersion": "v2.168.22",
+        "revision": 3
+      },
+      "manual_score": null,
+      "max_manual_score": null,
+      "questionInfo": {
+        "type": "plaintext",
+        "widget_type": "response",
+        "reference": "baea7ea8-a445-478e-af8f-9ff1ddd84618",
+        "data": {
+          "stimulus": "<span style=\"font-size:1.3em;\"><b>1.5.&nbsp;The government should support investment in rail.</b></span>",
+          "spellcheck": true,
+          "type": "plaintext",
+          "metadata": {
+            "sample_answer": "<p>Investment in rail should be supported (by the government)</p>\n\n<p>Investment in rail should be supported by the government</p>\n\n<p>Investment in rail should be supported</p>\n"
+          },
+          "validation": {
+            "max_score": 2
+          }
+        },
+        "metadata": {
+          "name": "Essay with plain text",
+          "template_reference": "0f559437-5072-475e-830d-1fa9d2f6bb0d"
+        }
+      },
+      "feedbackInfo": [
+        {
+          "id": "0707_21bb08e3-a78a-4b9f-bdff-8e2778ae93bd_37389a91-5b7e-4fc5-9ab7-068c8fab3488_e4f5ec81df427462045671fef7e82ca1",
+          "user_id": "21bb08e3-a78a-4b9f-bdff-8e2778ae93bd",
+          "response_id": "37389a91-5b7e-4fc5-9ab7-068c8fab3488_e4f5ec81df427462045671fef7e82ca1",
+          "type": "longtextV2",
+          "question": {
+            "type": "longtextV2",
+            "metadata": {
+              "source": {
+                "organisation_id": 755
+              },
+              "sheet_reference": "default_feedback",
+              "widget_reference": "de082b5f-742a-4ecf-82ca-4dc86e218fec",
+              "valid_response_count": 0
+            },
+            "stimulus": "Written feedback:",
+            "response_id": "37389a91-5b7e-4fc5-9ab7-068c8fab3488_e4f5ec81df427462045671fef7e82ca1",
+            "show_word_count": false,
+            "show_word_limit": "off"
+          },
+          "response": null,
+          "creation_date": "2022-07-05 13:50:53",
+          "mod_date": "2022-07-05 13:52:38",
+          "persist_until": "2025-07-04 13:50:53",
+          "saved": true
+        },
+        null
+      ]
+    },
+    {
+      "response_id": "37389a91-5b7e-4fc5-9ab7-068c8fab3488_1be68ebd7e606cc37d75e726f176c884",
+      "question_type": "clozetext",
+      "dt_score_updated": "2022-07-05T02:59:44Z",
+      "automarkable": true,
+      "attempted": true,
+      "score": 2,
+      "max_score": 5,
+      "question_reference": "2190f2e3-124d-46d9-9bb3-0b1e2b2550fa",
+      "item_reference": "ce7a08c0-9173-4d74-af5e-5f781dfa5a25",
+      "response": {
+        "value": [
+          "government",
+          "people who live in L",
+          "STOP HS2",
+          "historical buildings",
+          "£80 billion"
+        ],
+        "type": "array",
+        "apiVersion": "v2.168.22",
+        "revision": 8
+      },
+      "questionInfo": {
+        "type": "clozetext",
+        "widget_type": "response",
+        "reference": "2190f2e3-124d-46d9-9bb3-0b1e2b2550fa",
+        "data": {
+          "stimulus": "<h4>&nbsp;</h4>\n\n<h4><span style=\"color:#0000ff;\"><b>QUESTION 2 - REFERENCE WORDS</b></span></h4>\n\n<p><span style=\"font-size:1.3em;\"><i>What do the highlighted words in the text refer to? Write the answer in the gaps below. There is an example.</i></span></p>\n\n<p>&nbsp;</p>\n\n<p style=\"margin-left: 40px;\"><span style=\"font-size:1.1em;\"><b>EXAMPLE:&nbsp;</b>Nowadays however, 300 kph is normal for highspeed&nbsp;trains&nbsp;and&nbsp;<u><b>SOME</b></u>&nbsp;can go even faster.</span></p>\n\n<p style=\"margin-left: 40px;\"><span style=\"font-size:1.1em;\">Some refers to: <em><strong>trains</strong></em></span></p>\n\n<p style=\"margin-left: 40px;\">&nbsp;</p>\n",
+          "template": "<ol id=\"yui_3_17_2_1_1628701334865_1989\">\n\t<li id=\"yui_3_17_2_1_1628701334865_1988\">IT (line 16)&nbsp;{{response}}</li>\n\t<li id=\"yui_3_17_2_1_1628701334865_1991\">THEY (line 22)&nbsp;{{response}}</li>\n\t<li id=\"yui_3_17_2_1_1628701334865_1992\">THEY (line 27)&nbsp;{{response}}</li>\n\t<li id=\"yui_3_17_2_1_1628701334865_1993\">THEM (line 34)&nbsp;{{response}}&nbsp;</li>\n\t<li id=\"yui_3_17_2_1_1628701334865_1994\">THAT (line 38)&nbsp;{{response}}</li>\n</ol>\n",
+          "type": "clozetext",
+          "validation": {
+            "scoring_type": "partialMatchV2",
+            "valid_response": {
+              "score": 5,
+              "value": [
+                "the government",
+                "people",
+                "members of STOP",
+                "historical buildings",
+                "£80 billion"
+              ]
+            }
+          },
+          "max_length": 20
+        },
+        "metadata": {
+          "name": "Cloze with text",
+          "template_reference": "457fe101-0667-4a35-b193-b849653acb52"
+        }
+      },
+      "feedbackInfo": [
+        {
+          "id": "0707_21bb08e3-a78a-4b9f-bdff-8e2778ae93bd_37389a91-5b7e-4fc5-9ab7-068c8fab3488_425a139af88580f7c9dcaf1960366c80",
+          "user_id": "21bb08e3-a78a-4b9f-bdff-8e2778ae93bd",
+          "response_id": "37389a91-5b7e-4fc5-9ab7-068c8fab3488_425a139af88580f7c9dcaf1960366c80",
+          "type": "longtextV2",
+          "question": {
+            "type": "longtextV2",
+            "metadata": {
+              "source": {
+                "organisation_id": 755
+              },
+              "sheet_reference": "default_feedback",
+              "widget_reference": "de082b5f-742a-4ecf-82ca-4dc86e218fec",
+              "valid_response_count": 0
+            },
+            "stimulus": "Written feedback:",
+            "response_id": "37389a91-5b7e-4fc5-9ab7-068c8fab3488_425a139af88580f7c9dcaf1960366c80",
+            "show_word_count": false,
+            "show_word_limit": "off"
+          },
+          "response": null,
+          "creation_date": "2022-07-05 13:50:54",
+          "mod_date": "2022-07-05 13:52:38",
+          "persist_until": "2025-07-04 13:50:54",
+          "saved": true
+        },
+        null
+      ]
+    }
+  ]
+}

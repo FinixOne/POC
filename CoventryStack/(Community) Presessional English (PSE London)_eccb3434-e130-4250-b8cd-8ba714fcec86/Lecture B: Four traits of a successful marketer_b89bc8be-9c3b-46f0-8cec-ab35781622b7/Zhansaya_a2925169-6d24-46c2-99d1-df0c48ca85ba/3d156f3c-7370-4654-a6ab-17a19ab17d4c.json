@@ -1,0 +1,1306 @@
+{
+  "userId": "a2925169-6d24-46c2-99d1-df0c48ca85ba",
+  "firstName": "Zhansaya",
+  "lastName": "Ibrayeva",
+  "assigmentId": "b89bc8be-9c3b-46f0-8cec-ab35781622b7",
+  "assigmentName": "Lecture B: Four traits of a successful marketer",
+  "sessionId": "3d156f3c-7370-4654-a6ab-17a19ab17d4c",
+  "email": "ibrayevaz@coventry.ac.uk",
+  "spaceId": "eccb3434-e130-4250-b8cd-8ba714fcec86",
+  "spaceName": "(Community) Presessional English (PSE London)",
+  "score": 3,
+  "max_score": 25,
+  "questions": [
+    {
+      "response_id": "3d156f3c-7370-4654-a6ab-17a19ab17d4c_ef6f9fef5d4763aa3ddafcc4a1e3f925",
+      "question_type": "mcq",
+      "dt_score_updated": "2021-11-30T09:55:10Z",
+      "automarkable": true,
+      "attempted": true,
+      "score": 1,
+      "max_score": 1,
+      "question_reference": "4172bca5-8569-417c-8626-50a1485f23cd",
+      "item_reference": "ccaad8dd-79aa-4337-9266-0b439ba37ca6",
+      "response": {
+        "value": [
+          "2"
+        ],
+        "type": "array",
+        "apiVersion": "v2.168.13",
+        "revision": 1
+      },
+      "questionInfo": {
+        "type": "mcq",
+        "widget_type": "response",
+        "reference": "4172bca5-8569-417c-8626-50a1485f23cd",
+        "data": {
+          "options": [
+            {
+              "label": "Have a lot of time to affect change",
+              "value": "0"
+            },
+            {
+              "label": "Need a lot of time to affect change",
+              "value": "1"
+            },
+            {
+              "label": "Have a short time to affect change",
+              "value": "2"
+            }
+          ],
+          "stimulus": "<h2><span style=\"color:#006400;\"><b>Question 1: Trait Number 1 – Courageous &nbsp;&nbsp;</b></span></h2>\n\n<h4><b>1.1. According to the lecturer, CMOs…</b></h4>\n",
+          "type": "mcq",
+          "validation": {
+            "scoring_type": "exactMatch",
+            "valid_response": {
+              "score": 1,
+              "value": [
+                "2"
+              ]
+            }
+          },
+          "ui_style": {
+            "type": "horizontal"
+          }
+        },
+        "metadata": {
+          "name": "Multiple choice – standard",
+          "template_reference": "9e8149bd-e4d8-4dd6-a751-1a113a4b9163"
+        }
+      },
+      "feedbackInfo": [
+        {
+          "id": "0707_a2925169-6d24-46c2-99d1-df0c48ca85ba_3d156f3c-7370-4654-a6ab-17a19ab17d4c_96a4d1cdf26aa49ec6ced7b19003fa23",
+          "user_id": "a2925169-6d24-46c2-99d1-df0c48ca85ba",
+          "response_id": "3d156f3c-7370-4654-a6ab-17a19ab17d4c_96a4d1cdf26aa49ec6ced7b19003fa23",
+          "type": "longtextV2",
+          "question": {
+            "type": "longtextV2",
+            "metadata": {
+              "source": {
+                "organisation_id": 755
+              },
+              "sheet_reference": "default_feedback",
+              "widget_reference": "de082b5f-742a-4ecf-82ca-4dc86e218fec",
+              "valid_response_count": 0
+            },
+            "stimulus": "Written feedback:",
+            "response_id": "3d156f3c-7370-4654-a6ab-17a19ab17d4c_96a4d1cdf26aa49ec6ced7b19003fa23",
+            "show_word_count": false,
+            "show_word_limit": "off"
+          },
+          "response": null,
+          "creation_date": "2021-11-30 13:30:22",
+          "mod_date": "2021-11-30 13:30:22",
+          "persist_until": "2021-12-01 13:30:22",
+          "saved": false
+        },
+        null
+      ]
+    },
+    {
+      "response_id": "3d156f3c-7370-4654-a6ab-17a19ab17d4c_be8f1c9e4b1b74a92738d95f5654c430",
+      "question_type": "mcq",
+      "dt_score_updated": "2021-11-30T09:55:40Z",
+      "automarkable": true,
+      "attempted": true,
+      "score": 0,
+      "max_score": 2,
+      "question_reference": "8bd51838-cf8e-464d-950b-60b8e029c280",
+      "item_reference": "ccaad8dd-79aa-4337-9266-0b439ba37ca6",
+      "response": {
+        "value": [
+          "0",
+          "2"
+        ],
+        "type": "array",
+        "apiVersion": "v2.168.13",
+        "revision": 2
+      },
+      "questionInfo": {
+        "type": "mcq",
+        "widget_type": "response",
+        "reference": "8bd51838-cf8e-464d-950b-60b8e029c280",
+        "data": {
+          "multiple_responses": true,
+          "options": [
+            {
+              "label": "Being unique is more important than being better",
+              "value": "0"
+            },
+            {
+              "label": "Being unique makes you the market leader",
+              "value": "1"
+            },
+            {
+              "label": "&nbsp;Claiming leadership is a source of differentiation",
+              "value": "2"
+            },
+            {
+              "label": "Claiming leadership is not a source of differentiation",
+              "value": "3"
+            }
+          ],
+          "stimulus": "<h4><b>1.2. According to the lecturer…</b></h4>\n\n<p id=\"yui_3_17_2_1_1631878999385_258\"><span style=\"font-size:1.3em;\"><b id=\"yui_3_17_2_1_1631878999385_257\"><i id=\"yui_3_17_2_1_1631878999385_256\">Choose TWO</i></b></span></p>\n",
+          "type": "mcq",
+          "validation": {
+            "scoring_type": "partialMatchV2",
+            "valid_response": {
+              "score": 2,
+              "value": [
+                "0",
+                "3"
+              ]
+            }
+          },
+          "ui_style": {
+            "type": "horizontal"
+          },
+          "shuffle_options": true
+        },
+        "metadata": {
+          "name": "Multiple choice – multiple response",
+          "template_reference": "908de244-5c71-4c09-b094-7fb49554f2f9"
+        }
+      },
+      "feedbackInfo": [
+        {
+          "id": "0707_a2925169-6d24-46c2-99d1-df0c48ca85ba_3d156f3c-7370-4654-a6ab-17a19ab17d4c_433a057bfb7bd0919baca391e1472e11",
+          "user_id": "a2925169-6d24-46c2-99d1-df0c48ca85ba",
+          "response_id": "3d156f3c-7370-4654-a6ab-17a19ab17d4c_433a057bfb7bd0919baca391e1472e11",
+          "type": "longtextV2",
+          "question": {
+            "type": "longtextV2",
+            "metadata": {
+              "source": {
+                "organisation_id": 755
+              },
+              "sheet_reference": "default_feedback",
+              "widget_reference": "de082b5f-742a-4ecf-82ca-4dc86e218fec",
+              "valid_response_count": 0
+            },
+            "stimulus": "Written feedback:",
+            "response_id": "3d156f3c-7370-4654-a6ab-17a19ab17d4c_433a057bfb7bd0919baca391e1472e11",
+            "show_word_count": false,
+            "show_word_limit": "off"
+          },
+          "response": null,
+          "creation_date": "2021-11-30 13:30:23",
+          "mod_date": "2021-11-30 13:30:23",
+          "persist_until": "2021-12-01 13:30:23",
+          "saved": false
+        },
+        null
+      ]
+    },
+    {
+      "response_id": "3d156f3c-7370-4654-a6ab-17a19ab17d4c_2f080ba022271dfacc6eb4201af2e2a5",
+      "question_type": "mcq",
+      "dt_score_updated": "2021-11-30T09:56:51Z",
+      "automarkable": true,
+      "attempted": true,
+      "score": 0,
+      "max_score": 2,
+      "question_reference": "1f417b9d-ded2-4581-86c5-74190054c764",
+      "item_reference": "ccaad8dd-79aa-4337-9266-0b439ba37ca6",
+      "response": {
+        "value": [
+          "0",
+          "3"
+        ],
+        "type": "array",
+        "apiVersion": "v2.168.13",
+        "revision": 2
+      },
+      "questionInfo": {
+        "type": "mcq",
+        "widget_type": "response",
+        "reference": "1f417b9d-ded2-4581-86c5-74190054c764",
+        "data": {
+          "multiple_responses": true,
+          "options": [
+            {
+              "label": "Take calculated risks",
+              "value": "0"
+            },
+            {
+              "label": "Focus on one big idea",
+              "value": "1"
+            },
+            {
+              "label": "Follow all possible ideas",
+              "value": "2"
+            },
+            {
+              "label": "Never give up on their ideas",
+              "value": "3"
+            }
+          ],
+          "stimulus": "<h4><b>1.3. According to the lecturer, courage starts with a commitment to…</b></h4>\n\n<p><span style=\"font-size:1.3em;\"><b><i>Choose TWO</i></b></span></p>\n",
+          "type": "mcq",
+          "validation": {
+            "scoring_type": "partialMatchV2",
+            "valid_response": {
+              "score": 2,
+              "value": [
+                "0",
+                "1"
+              ]
+            }
+          },
+          "ui_style": {
+            "type": "horizontal"
+          },
+          "shuffle_options": true
+        },
+        "metadata": {
+          "name": "Multiple choice – multiple response",
+          "template_reference": "908de244-5c71-4c09-b094-7fb49554f2f9"
+        }
+      },
+      "feedbackInfo": [
+        {
+          "id": "0707_a2925169-6d24-46c2-99d1-df0c48ca85ba_3d156f3c-7370-4654-a6ab-17a19ab17d4c_943094dcbf9bd4ada7e8d36d7b61c1d9",
+          "user_id": "a2925169-6d24-46c2-99d1-df0c48ca85ba",
+          "response_id": "3d156f3c-7370-4654-a6ab-17a19ab17d4c_943094dcbf9bd4ada7e8d36d7b61c1d9",
+          "type": "longtextV2",
+          "question": {
+            "type": "longtextV2",
+            "metadata": {
+              "source": {
+                "organisation_id": 755
+              },
+              "sheet_reference": "default_feedback",
+              "widget_reference": "de082b5f-742a-4ecf-82ca-4dc86e218fec",
+              "valid_response_count": 0
+            },
+            "stimulus": "Written feedback:",
+            "response_id": "3d156f3c-7370-4654-a6ab-17a19ab17d4c_943094dcbf9bd4ada7e8d36d7b61c1d9",
+            "show_word_count": false,
+            "show_word_limit": "off"
+          },
+          "response": null,
+          "creation_date": "2021-11-30 13:30:23",
+          "mod_date": "2021-11-30 13:30:23",
+          "persist_until": "2021-12-01 13:30:23",
+          "saved": false
+        },
+        null
+      ]
+    },
+    {
+      "response_id": "3d156f3c-7370-4654-a6ab-17a19ab17d4c_96cd0102f482cf00a737ac3ce0fcbb0d",
+      "question_type": "mcq",
+      "dt_score_updated": "2021-11-30T09:57:46Z",
+      "automarkable": true,
+      "attempted": true,
+      "score": 0,
+      "max_score": 2,
+      "question_reference": "3bd49c6f-73aa-4de6-8b8c-f734fd989e33",
+      "item_reference": "ccaad8dd-79aa-4337-9266-0b439ba37ca6",
+      "response": {
+        "value": [
+          "1"
+        ],
+        "type": "array",
+        "apiVersion": "v2.168.13",
+        "revision": 2
+      },
+      "questionInfo": {
+        "type": "mcq",
+        "widget_type": "response",
+        "reference": "3bd49c6f-73aa-4de6-8b8c-f734fd989e33",
+        "data": {
+          "multiple_responses": true,
+          "options": [
+            {
+              "label": "He analysed his main competitor",
+              "value": "0"
+            },
+            {
+              "label": "&nbsp;He analysed the market conditions",
+              "value": "1"
+            },
+            {
+              "label": "He developed his own style",
+              "value": "2"
+            },
+            {
+              "label": "&nbsp;He tried to do the same as his competitors",
+              "value": "3"
+            }
+          ],
+          "stimulus": "<h2>&nbsp;</h2>\n\n<h2><span style=\"color:#006400;\"><b>Question 2: Sir Terry Leahy (CMO of Tesco)</b></span></h2>\n\n<h4><b>2.1. What did Sir Terry Leahy do early in his career?</b></h4>\n\n<p><span style=\"font-size:1.3em;\"><b><i>Choose TWO</i></b></span></p>\n",
+          "type": "mcq",
+          "validation": {
+            "scoring_type": "partialMatchV2",
+            "valid_response": {
+              "score": 2,
+              "value": [
+                "0",
+                "3"
+              ]
+            }
+          },
+          "ui_style": {
+            "type": "horizontal"
+          },
+          "shuffle_options": true
+        },
+        "metadata": {
+          "name": "Multiple choice – multiple response",
+          "template_reference": "908de244-5c71-4c09-b094-7fb49554f2f9"
+        }
+      },
+      "feedbackInfo": [
+        {
+          "id": "0707_a2925169-6d24-46c2-99d1-df0c48ca85ba_3d156f3c-7370-4654-a6ab-17a19ab17d4c_2385235cec60ff4cf33ccee920232940",
+          "user_id": "a2925169-6d24-46c2-99d1-df0c48ca85ba",
+          "response_id": "3d156f3c-7370-4654-a6ab-17a19ab17d4c_2385235cec60ff4cf33ccee920232940",
+          "type": "longtextV2",
+          "question": {
+            "type": "longtextV2",
+            "metadata": {
+              "source": {
+                "organisation_id": 755
+              },
+              "sheet_reference": "default_feedback",
+              "widget_reference": "de082b5f-742a-4ecf-82ca-4dc86e218fec",
+              "valid_response_count": 0
+            },
+            "stimulus": "Written feedback:",
+            "response_id": "3d156f3c-7370-4654-a6ab-17a19ab17d4c_2385235cec60ff4cf33ccee920232940",
+            "show_word_count": false,
+            "show_word_limit": "off"
+          },
+          "response": null,
+          "creation_date": "2021-11-30 13:30:23",
+          "mod_date": "2021-11-30 13:30:23",
+          "persist_until": "2021-12-01 13:30:23",
+          "saved": false
+        },
+        null
+      ]
+    },
+    {
+      "response_id": "3d156f3c-7370-4654-a6ab-17a19ab17d4c_1b44b5616a440e133e87de361ba4ec45",
+      "question_type": "mcq",
+      "dt_score_updated": "2021-11-30T10:01:11Z",
+      "automarkable": true,
+      "attempted": true,
+      "score": 0,
+      "max_score": 2,
+      "question_reference": "d54c5aa3-5d71-435b-8d9d-65b957b83aa9",
+      "item_reference": "ccaad8dd-79aa-4337-9266-0b439ba37ca6",
+      "response": {
+        "value": [
+          "0",
+          "3"
+        ],
+        "type": "array",
+        "apiVersion": "v2.168.13",
+        "revision": 1
+      },
+      "questionInfo": {
+        "type": "mcq",
+        "widget_type": "response",
+        "reference": "d54c5aa3-5d71-435b-8d9d-65b957b83aa9",
+        "data": {
+          "multiple_responses": true,
+          "options": [
+            {
+              "label": "The programme was risky and failed",
+              "value": "0"
+            },
+            {
+              "label": "Terry Leahy lost his job",
+              "value": "1"
+            },
+            {
+              "label": "The programme was risky but succeeded",
+              "value": "2"
+            },
+            {
+              "label": "Terry Leahy became CEO of Tesco",
+              "value": "3"
+            }
+          ],
+          "stimulus": "<h4><b>2.2. Tesco customer loyalty programme. According to the lecturer …</b></h4>\n\n<p id=\"yui_3_17_2_1_1631879736086_257\"><span style=\"font-size:1.3em;\"><b><i>Choose TWO</i></b></span></p>\n",
+          "type": "mcq",
+          "validation": {
+            "scoring_type": "partialMatchV2",
+            "valid_response": {
+              "score": 2,
+              "value": [
+                "2",
+                "3"
+              ]
+            }
+          },
+          "ui_style": {
+            "type": "horizontal"
+          },
+          "shuffle_options": true
+        },
+        "metadata": {
+          "name": "Multiple choice – multiple response",
+          "template_reference": "908de244-5c71-4c09-b094-7fb49554f2f9"
+        }
+      },
+      "feedbackInfo": [
+        {
+          "id": "0707_a2925169-6d24-46c2-99d1-df0c48ca85ba_3d156f3c-7370-4654-a6ab-17a19ab17d4c_e43a9814f1221736cd6a69c9b5a90413",
+          "user_id": "a2925169-6d24-46c2-99d1-df0c48ca85ba",
+          "response_id": "3d156f3c-7370-4654-a6ab-17a19ab17d4c_e43a9814f1221736cd6a69c9b5a90413",
+          "type": "longtextV2",
+          "question": {
+            "type": "longtextV2",
+            "metadata": {
+              "source": {
+                "organisation_id": 755
+              },
+              "sheet_reference": "default_feedback",
+              "widget_reference": "de082b5f-742a-4ecf-82ca-4dc86e218fec",
+              "valid_response_count": 0
+            },
+            "stimulus": "Written feedback:",
+            "response_id": "3d156f3c-7370-4654-a6ab-17a19ab17d4c_e43a9814f1221736cd6a69c9b5a90413",
+            "show_word_count": false,
+            "show_word_limit": "off"
+          },
+          "response": null,
+          "creation_date": "2021-11-30 13:30:24",
+          "mod_date": "2021-11-30 13:30:24",
+          "persist_until": "2021-12-01 13:30:24",
+          "saved": false
+        },
+        null
+      ]
+    },
+    {
+      "response_id": "3d156f3c-7370-4654-a6ab-17a19ab17d4c_d6730f4b021d8784fe9f63cc3012cfcf",
+      "question_type": "mcq",
+      "dt_score_updated": "2021-11-30T10:02:02Z",
+      "automarkable": true,
+      "attempted": true,
+      "score": 1,
+      "max_score": 1,
+      "question_reference": "e2f262c4-4ab3-46a5-bf40-f3feddf0c710",
+      "item_reference": "ccaad8dd-79aa-4337-9266-0b439ba37ca6",
+      "response": {
+        "value": [
+          "0"
+        ],
+        "type": "array",
+        "apiVersion": "v2.168.13",
+        "revision": 1
+      },
+      "questionInfo": {
+        "type": "mcq",
+        "widget_type": "response",
+        "reference": "e2f262c4-4ab3-46a5-bf40-f3feddf0c710",
+        "data": {
+          "options": [
+            {
+              "label": "He turned a negative characteristic into a positive one",
+              "value": "0"
+            },
+            {
+              "label": "He destroyed laptops on live television",
+              "value": "1"
+            },
+            {
+              "label": "He planned an advertising campaign on social media",
+              "value": "2"
+            }
+          ],
+          "stimulus": "<h2>&nbsp;</h2>\n\n<h2 id=\"yui_3_17_2_1_1631879901677_251\"><span style=\"color:#006400;\"><b>Question 3: The Toughbook</b></span></h2>\n\n<h4><b>How did the lecturer promote “The Toughbook”?</b></h4>\n",
+          "type": "mcq",
+          "validation": {
+            "scoring_type": "exactMatch",
+            "valid_response": {
+              "score": 1,
+              "value": [
+                "0"
+              ]
+            }
+          },
+          "ui_style": {
+            "type": "horizontal"
+          },
+          "shuffle_options": true
+        },
+        "metadata": {
+          "name": "Multiple choice – standard",
+          "template_reference": "9e8149bd-e4d8-4dd6-a751-1a113a4b9163"
+        }
+      },
+      "feedbackInfo": [
+        {
+          "id": "0707_a2925169-6d24-46c2-99d1-df0c48ca85ba_3d156f3c-7370-4654-a6ab-17a19ab17d4c_ace5ec67f24e58bfb437178675fb96c9",
+          "user_id": "a2925169-6d24-46c2-99d1-df0c48ca85ba",
+          "response_id": "3d156f3c-7370-4654-a6ab-17a19ab17d4c_ace5ec67f24e58bfb437178675fb96c9",
+          "type": "longtextV2",
+          "question": {
+            "type": "longtextV2",
+            "metadata": {
+              "source": {
+                "organisation_id": 755
+              },
+              "sheet_reference": "default_feedback",
+              "widget_reference": "de082b5f-742a-4ecf-82ca-4dc86e218fec",
+              "valid_response_count": 0
+            },
+            "stimulus": "Written feedback:",
+            "response_id": "3d156f3c-7370-4654-a6ab-17a19ab17d4c_ace5ec67f24e58bfb437178675fb96c9",
+            "show_word_count": false,
+            "show_word_limit": "off"
+          },
+          "response": null,
+          "creation_date": "2021-11-30 13:30:24",
+          "mod_date": "2021-11-30 13:30:24",
+          "persist_until": "2021-12-01 13:30:24",
+          "saved": false
+        },
+        null
+      ]
+    },
+    {
+      "response_id": "3d156f3c-7370-4654-a6ab-17a19ab17d4c_1a9336a78972c54f0c36b601aab4e855",
+      "question_type": "mcq",
+      "dt_score_updated": "2021-11-30T10:04:07Z",
+      "automarkable": true,
+      "attempted": true,
+      "score": 0,
+      "max_score": 2,
+      "question_reference": "78b26f09-c80c-4749-9e4f-2bca867c5fd4",
+      "item_reference": "ccaad8dd-79aa-4337-9266-0b439ba37ca6",
+      "response": {
+        "value": [
+          "2",
+          "1"
+        ],
+        "type": "array",
+        "apiVersion": "v2.168.13",
+        "revision": 1
+      },
+      "questionInfo": {
+        "type": "mcq",
+        "widget_type": "response",
+        "reference": "78b26f09-c80c-4749-9e4f-2bca867c5fd4",
+        "data": {
+          "multiple_responses": true,
+          "options": [
+            {
+              "label": "Marketers and military generals have a lot in common",
+              "value": "0"
+            },
+            {
+              "label": "Marketers need to find intelligent ways of convincing people",
+              "value": "1"
+            },
+            {
+              "label": "Marketers have a lot of power in organisations",
+              "value": "2"
+            },
+            {
+              "label": "Marketers don’t have be creative and artistic",
+              "value": "3"
+            }
+          ],
+          "stimulus": "<h2>&nbsp;</h2>\n\n<h2><span style=\"color:#006400;\"><b>Question 4: Trait Number 2 – Artful</b></span></h2>\n\n<h4><b>4.1. According to the lecturer…</b></h4>\n\n<p><span style=\"font-size:1.3em;\"><i><b>Choose TWO</b></i></span></p>\n",
+          "type": "mcq",
+          "validation": {
+            "scoring_type": "partialMatchV2",
+            "valid_response": {
+              "score": 2,
+              "value": [
+                "1",
+                "3"
+              ]
+            }
+          },
+          "ui_style": {
+            "type": "horizontal"
+          },
+          "shuffle_options": true
+        },
+        "metadata": {
+          "name": "Multiple choice – multiple response",
+          "template_reference": "908de244-5c71-4c09-b094-7fb49554f2f9"
+        }
+      },
+      "feedbackInfo": [
+        {
+          "id": "0707_a2925169-6d24-46c2-99d1-df0c48ca85ba_3d156f3c-7370-4654-a6ab-17a19ab17d4c_955c9a4b9686562321bac15e13c619c9",
+          "user_id": "a2925169-6d24-46c2-99d1-df0c48ca85ba",
+          "response_id": "3d156f3c-7370-4654-a6ab-17a19ab17d4c_955c9a4b9686562321bac15e13c619c9",
+          "type": "longtextV2",
+          "question": {
+            "type": "longtextV2",
+            "metadata": {
+              "source": {
+                "organisation_id": 755
+              },
+              "sheet_reference": "default_feedback",
+              "widget_reference": "de082b5f-742a-4ecf-82ca-4dc86e218fec",
+              "valid_response_count": 0
+            },
+            "stimulus": "Written feedback:",
+            "response_id": "3d156f3c-7370-4654-a6ab-17a19ab17d4c_955c9a4b9686562321bac15e13c619c9",
+            "show_word_count": false,
+            "show_word_limit": "off"
+          },
+          "response": null,
+          "creation_date": "2021-11-30 13:30:25",
+          "mod_date": "2021-11-30 13:30:25",
+          "persist_until": "2021-12-01 13:30:25",
+          "saved": false
+        },
+        null
+      ]
+    },
+    {
+      "response_id": "3d156f3c-7370-4654-a6ab-17a19ab17d4c_781bf41fec65938e07db7a2410db4b4c",
+      "question_type": "mcq",
+      "dt_score_updated": "2021-11-30T10:03:22Z",
+      "automarkable": true,
+      "attempted": true,
+      "score": 0,
+      "max_score": 2,
+      "question_reference": "2c0193dc-19a5-4cc0-9f96-3cbe5c7b5af6",
+      "item_reference": "ccaad8dd-79aa-4337-9266-0b439ba37ca6",
+      "response": {
+        "value": [
+          "2",
+          "3"
+        ],
+        "type": "array",
+        "apiVersion": "v2.168.13",
+        "revision": 2
+      },
+      "questionInfo": {
+        "type": "mcq",
+        "widget_type": "response",
+        "reference": "2c0193dc-19a5-4cc0-9f96-3cbe5c7b5af6",
+        "data": {
+          "multiple_responses": true,
+          "options": [
+            {
+              "label": "Ask great questions",
+              "value": "0"
+            },
+            {
+              "label": "Have an open mind",
+              "value": "1"
+            },
+            {
+              "label": "Understand the market",
+              "value": "2"
+            },
+            {
+              "label": "Offer premium products",
+              "value": "3"
+            }
+          ],
+          "stimulus": "<h4><b>4.2. According to the lecturer, marketers have to…</b></h4>\n\n<p><span style=\"font-size:1.3em;\"><b><i>Choose TWO</i></b></span></p>\n",
+          "type": "mcq",
+          "validation": {
+            "scoring_type": "partialMatchV2",
+            "valid_response": {
+              "score": 2,
+              "value": [
+                "0",
+                "1"
+              ]
+            }
+          },
+          "ui_style": {
+            "type": "horizontal"
+          },
+          "shuffle_options": true
+        },
+        "metadata": {
+          "name": "Multiple choice – multiple response",
+          "template_reference": "908de244-5c71-4c09-b094-7fb49554f2f9"
+        }
+      },
+      "feedbackInfo": [
+        {
+          "id": "0707_a2925169-6d24-46c2-99d1-df0c48ca85ba_3d156f3c-7370-4654-a6ab-17a19ab17d4c_703ab2679d83d35eab9d1922b19b4a0a",
+          "user_id": "a2925169-6d24-46c2-99d1-df0c48ca85ba",
+          "response_id": "3d156f3c-7370-4654-a6ab-17a19ab17d4c_703ab2679d83d35eab9d1922b19b4a0a",
+          "type": "longtextV2",
+          "question": {
+            "type": "longtextV2",
+            "metadata": {
+              "source": {
+                "organisation_id": 755
+              },
+              "sheet_reference": "default_feedback",
+              "widget_reference": "de082b5f-742a-4ecf-82ca-4dc86e218fec",
+              "valid_response_count": 0
+            },
+            "stimulus": "Written feedback:",
+            "response_id": "3d156f3c-7370-4654-a6ab-17a19ab17d4c_703ab2679d83d35eab9d1922b19b4a0a",
+            "show_word_count": false,
+            "show_word_limit": "off"
+          },
+          "response": null,
+          "creation_date": "2021-11-30 13:30:25",
+          "mod_date": "2021-11-30 13:30:25",
+          "persist_until": "2021-12-01 13:30:25",
+          "saved": false
+        },
+        null
+      ]
+    },
+    {
+      "response_id": "3d156f3c-7370-4654-a6ab-17a19ab17d4c_de6a2a35223a4161202d12d2b59a7d41",
+      "question_type": "mcq",
+      "dt_score_updated": "2021-11-30T10:04:42Z",
+      "automarkable": true,
+      "attempted": true,
+      "score": 0,
+      "max_score": 2,
+      "question_reference": "948ab01b-f937-478c-9415-a979571318c5",
+      "item_reference": "ccaad8dd-79aa-4337-9266-0b439ba37ca6",
+      "response": {
+        "value": [
+          "0",
+          "2"
+        ],
+        "type": "array",
+        "apiVersion": "v2.168.13",
+        "revision": 3
+      },
+      "questionInfo": {
+        "type": "mcq",
+        "widget_type": "response",
+        "reference": "948ab01b-f937-478c-9415-a979571318c5",
+        "data": {
+          "multiple_responses": true,
+          "options": [
+            {
+              "label": "Have the ability to tell stories",
+              "value": "0"
+            },
+            {
+              "label": "Are natural storytellers",
+              "value": "1"
+            },
+            {
+              "label": "Need to improve their personal skills",
+              "value": "2"
+            },
+            {
+              "label": "Build a culture of storytelling",
+              "value": "3"
+            }
+          ],
+          "stimulus": "<h2>&nbsp;</h2>\n\n<h2><span style=\"color:#006400;\"><b>Question 5: Artful = Storytelling</b></span></h2>\n\n<h4><b>According to the lecturer, successful marketers…</b></h4>\n\n<p><span style=\"font-size:1.3em;\"><b><i>Choose TWO</i></b></span></p>\n",
+          "type": "mcq",
+          "validation": {
+            "scoring_type": "partialMatchV2",
+            "valid_response": {
+              "score": 2,
+              "value": [
+                "0",
+                "3"
+              ]
+            }
+          },
+          "ui_style": {
+            "type": "horizontal"
+          }
+        },
+        "metadata": {
+          "name": "Multiple choice – multiple response",
+          "template_reference": "908de244-5c71-4c09-b094-7fb49554f2f9"
+        }
+      },
+      "feedbackInfo": [
+        {
+          "id": "0707_a2925169-6d24-46c2-99d1-df0c48ca85ba_3d156f3c-7370-4654-a6ab-17a19ab17d4c_55d4ac0bd3e80b6f104d9a77dce750be",
+          "user_id": "a2925169-6d24-46c2-99d1-df0c48ca85ba",
+          "response_id": "3d156f3c-7370-4654-a6ab-17a19ab17d4c_55d4ac0bd3e80b6f104d9a77dce750be",
+          "type": "longtextV2",
+          "question": {
+            "type": "longtextV2",
+            "metadata": {
+              "source": {
+                "organisation_id": 755
+              },
+              "sheet_reference": "default_feedback",
+              "widget_reference": "de082b5f-742a-4ecf-82ca-4dc86e218fec",
+              "valid_response_count": 0
+            },
+            "stimulus": "Written feedback:",
+            "response_id": "3d156f3c-7370-4654-a6ab-17a19ab17d4c_55d4ac0bd3e80b6f104d9a77dce750be",
+            "show_word_count": false,
+            "show_word_limit": "off"
+          },
+          "response": null,
+          "creation_date": "2021-11-30 13:30:25",
+          "mod_date": "2021-11-30 13:30:25",
+          "persist_until": "2021-12-01 13:30:25",
+          "saved": false
+        },
+        null
+      ]
+    },
+    {
+      "response_id": "3d156f3c-7370-4654-a6ab-17a19ab17d4c_2bebe82effe88d3c246a783378b3c480",
+      "question_type": "mcq",
+      "dt_score_updated": "2021-11-30T10:05:02Z",
+      "automarkable": true,
+      "attempted": true,
+      "score": 0,
+      "max_score": 1,
+      "question_reference": "02bd3afd-8e28-4d6e-b66c-3d338184c86f",
+      "item_reference": "ccaad8dd-79aa-4337-9266-0b439ba37ca6",
+      "response": {
+        "value": [
+          "1"
+        ],
+        "type": "array",
+        "apiVersion": "v2.168.13",
+        "revision": 1
+      },
+      "questionInfo": {
+        "type": "mcq",
+        "widget_type": "response",
+        "reference": "02bd3afd-8e28-4d6e-b66c-3d338184c86f",
+        "data": {
+          "options": [
+            {
+              "label": "Is not as important as being courageous and artful",
+              "value": "0"
+            },
+            {
+              "label": "&nbsp;Is the most important characteristic of successful marketers",
+              "value": "1"
+            },
+            {
+              "label": "&nbsp;Means doing something for others",
+              "value": "2"
+            }
+          ],
+          "stimulus": "<h2>&nbsp;</h2>\n\n<h2><span style=\"color:#006400;\"><b>Question 6: Trait Number 3 – Thoughtful</b></span></h2>\n\n<h4><b id=\"yui_3_17_2_1_1631880497825_258\">6.1. According to the lecturer, being thoughtful…</b></h4>\n",
+          "type": "mcq",
+          "validation": {
+            "scoring_type": "exactMatch",
+            "valid_response": {
+              "score": 1,
+              "value": [
+                "2"
+              ]
+            }
+          },
+          "ui_style": {
+            "type": "horizontal"
+          }
+        },
+        "metadata": {
+          "name": "Multiple choice – standard",
+          "template_reference": "9e8149bd-e4d8-4dd6-a751-1a113a4b9163"
+        }
+      },
+      "feedbackInfo": [
+        {
+          "id": "0707_a2925169-6d24-46c2-99d1-df0c48ca85ba_3d156f3c-7370-4654-a6ab-17a19ab17d4c_910c5a2cfcd5f363cebde90053aeb77a",
+          "user_id": "a2925169-6d24-46c2-99d1-df0c48ca85ba",
+          "response_id": "3d156f3c-7370-4654-a6ab-17a19ab17d4c_910c5a2cfcd5f363cebde90053aeb77a",
+          "type": "longtextV2",
+          "question": {
+            "type": "longtextV2",
+            "metadata": {
+              "source": {
+                "organisation_id": 755
+              },
+              "sheet_reference": "default_feedback",
+              "widget_reference": "de082b5f-742a-4ecf-82ca-4dc86e218fec",
+              "valid_response_count": 0
+            },
+            "stimulus": "Written feedback:",
+            "response_id": "3d156f3c-7370-4654-a6ab-17a19ab17d4c_910c5a2cfcd5f363cebde90053aeb77a",
+            "show_word_count": false,
+            "show_word_limit": "off"
+          },
+          "response": null,
+          "creation_date": "2021-11-30 13:30:26",
+          "mod_date": "2021-11-30 13:30:26",
+          "persist_until": "2021-12-01 13:30:26",
+          "saved": false
+        },
+        null
+      ]
+    },
+    {
+      "response_id": "3d156f3c-7370-4654-a6ab-17a19ab17d4c_87b2b311cb1d77d9976fb2a1a85a533a",
+      "question_type": "mcq",
+      "dt_score_updated": "2021-11-30T10:06:23Z",
+      "automarkable": true,
+      "attempted": true,
+      "score": 1,
+      "max_score": 1,
+      "question_reference": "af182298-61e1-4b8b-94c7-37efefa71984",
+      "item_reference": "ccaad8dd-79aa-4337-9266-0b439ba37ca6",
+      "response": {
+        "value": [
+          "0"
+        ],
+        "type": "array",
+        "apiVersion": "v2.168.13",
+        "revision": 1
+      },
+      "questionInfo": {
+        "type": "mcq",
+        "widget_type": "response",
+        "reference": "af182298-61e1-4b8b-94c7-37efefa71984",
+        "data": {
+          "options": [
+            {
+              "label": "Was courageous, artful and thoughtful",
+              "value": "0"
+            },
+            {
+              "label": "Preferred words to actions",
+              "value": "1"
+            },
+            {
+              "label": "Was obsessed with words",
+              "value": "2"
+            }
+          ],
+          "stimulus": "<h4 id=\"yui_3_17_2_1_1631880633862_251\"><b>6.2. According to the lecturer, Benjamin Franklin …</b></h4>\n",
+          "type": "mcq",
+          "validation": {
+            "scoring_type": "exactMatch",
+            "valid_response": {
+              "score": 1,
+              "value": [
+                "0"
+              ]
+            }
+          },
+          "ui_style": {
+            "type": "horizontal"
+          },
+          "shuffle_options": true
+        },
+        "metadata": {
+          "name": "Multiple choice – standard",
+          "template_reference": "9e8149bd-e4d8-4dd6-a751-1a113a4b9163"
+        }
+      },
+      "feedbackInfo": [
+        {
+          "id": "0707_a2925169-6d24-46c2-99d1-df0c48ca85ba_3d156f3c-7370-4654-a6ab-17a19ab17d4c_0af8d783befefae368ec730a22e368c6",
+          "user_id": "a2925169-6d24-46c2-99d1-df0c48ca85ba",
+          "response_id": "3d156f3c-7370-4654-a6ab-17a19ab17d4c_0af8d783befefae368ec730a22e368c6",
+          "type": "longtextV2",
+          "question": {
+            "type": "longtextV2",
+            "metadata": {
+              "source": {
+                "organisation_id": 755
+              },
+              "sheet_reference": "default_feedback",
+              "widget_reference": "de082b5f-742a-4ecf-82ca-4dc86e218fec",
+              "valid_response_count": 0
+            },
+            "stimulus": "Written feedback:",
+            "response_id": "3d156f3c-7370-4654-a6ab-17a19ab17d4c_0af8d783befefae368ec730a22e368c6",
+            "show_word_count": false,
+            "show_word_limit": "off"
+          },
+          "response": null,
+          "creation_date": "2021-11-30 13:30:26",
+          "mod_date": "2021-11-30 13:30:26",
+          "persist_until": "2021-12-01 13:30:26",
+          "saved": false
+        },
+        null
+      ]
+    },
+    {
+      "response_id": "3d156f3c-7370-4654-a6ab-17a19ab17d4c_9e6256b803469b529f1b19b73c28729e",
+      "question_type": "mcq",
+      "dt_score_updated": "2021-11-30T10:10:29Z",
+      "automarkable": true,
+      "attempted": true,
+      "score": 0,
+      "max_score": 1,
+      "question_reference": "abef3b6b-8c6b-4f90-9c83-9107e7dbeccf",
+      "item_reference": "ccaad8dd-79aa-4337-9266-0b439ba37ca6",
+      "response": {
+        "value": [
+          "0"
+        ],
+        "type": "array",
+        "apiVersion": "v2.168.13",
+        "revision": 1
+      },
+      "questionInfo": {
+        "type": "mcq",
+        "widget_type": "response",
+        "reference": "abef3b6b-8c6b-4f90-9c83-9107e7dbeccf",
+        "data": {
+          "options": [
+            {
+              "label": "Prefer to consider subjective data",
+              "value": "0"
+            },
+            {
+              "label": "&nbsp;Prefer to consider objective data",
+              "value": "1"
+            },
+            {
+              "label": "Don’t like to spend money on experiments",
+              "value": "2"
+            },
+            {
+              "label": "Are not interested in observations",
+              "value": "3"
+            }
+          ],
+          "stimulus": "<h2>&nbsp;</h2>\n\n<h2><span style=\"color:#006400;\"><b>Question 7: Trait Number 4 – Scientific</b></span></h2>\n\n<h4><b>7.1. According to the lecturer, CEOs and Board of Directors…</b></h4>\n",
+          "type": "mcq",
+          "validation": {
+            "scoring_type": "exactMatch",
+            "valid_response": {
+              "score": 1,
+              "value": [
+                "1"
+              ]
+            }
+          },
+          "ui_style": {
+            "type": "horizontal"
+          },
+          "shuffle_options": true
+        },
+        "metadata": {
+          "name": "Multiple choice – standard",
+          "template_reference": "9e8149bd-e4d8-4dd6-a751-1a113a4b9163"
+        }
+      },
+      "feedbackInfo": [
+        {
+          "id": "0707_a2925169-6d24-46c2-99d1-df0c48ca85ba_3d156f3c-7370-4654-a6ab-17a19ab17d4c_6a81acad9dc0c8d3e45c2dbb87ee8a77",
+          "user_id": "a2925169-6d24-46c2-99d1-df0c48ca85ba",
+          "response_id": "3d156f3c-7370-4654-a6ab-17a19ab17d4c_6a81acad9dc0c8d3e45c2dbb87ee8a77",
+          "type": "longtextV2",
+          "question": {
+            "type": "longtextV2",
+            "metadata": {
+              "source": {
+                "organisation_id": 755
+              },
+              "sheet_reference": "default_feedback",
+              "widget_reference": "de082b5f-742a-4ecf-82ca-4dc86e218fec",
+              "valid_response_count": 0
+            },
+            "stimulus": "Written feedback:",
+            "response_id": "3d156f3c-7370-4654-a6ab-17a19ab17d4c_6a81acad9dc0c8d3e45c2dbb87ee8a77",
+            "show_word_count": false,
+            "show_word_limit": "off"
+          },
+          "response": null,
+          "creation_date": "2021-11-30 13:30:26",
+          "mod_date": "2021-11-30 13:30:26",
+          "persist_until": "2021-12-01 13:30:26",
+          "saved": false
+        },
+        null
+      ]
+    },
+    {
+      "response_id": "3d156f3c-7370-4654-a6ab-17a19ab17d4c_23b01426b7ddd7ab1923b97e2d6bd70a",
+      "question_type": "mcq",
+      "dt_score_updated": "2021-11-30T10:07:33Z",
+      "automarkable": true,
+      "attempted": true,
+      "score": 0,
+      "max_score": 2,
+      "question_reference": "bed806f5-a837-47ab-bd80-e7a3cfb5a3e8",
+      "item_reference": "ccaad8dd-79aa-4337-9266-0b439ba37ca6",
+      "response": {
+        "value": [
+          "3"
+        ],
+        "type": "array",
+        "apiVersion": "v2.168.13",
+        "revision": 2
+      },
+      "questionInfo": {
+        "type": "mcq",
+        "widget_type": "response",
+        "reference": "bed806f5-a837-47ab-bd80-e7a3cfb5a3e8",
+        "data": {
+          "multiple_responses": true,
+          "options": [
+            {
+              "label": "Are used by less than half the marketers",
+              "value": "0"
+            },
+            {
+              "label": "Are used by 60% of the marketers",
+              "value": "1"
+            },
+            {
+              "label": "Are essential for marketing plans",
+              "value": "2"
+            },
+            {
+              "label": "Are only useful for B2B sales",
+              "value": "3"
+            }
+          ],
+          "stimulus": "<h4><b>7.2. According to the lecturer, quantitative measurements…</b></h4>\n\n<h4><b><i>Choose TWO</i></b></h4>\n",
+          "type": "mcq",
+          "validation": {
+            "scoring_type": "partialMatchV2",
+            "valid_response": {
+              "score": 2,
+              "value": [
+                "0",
+                "2"
+              ]
+            }
+          },
+          "ui_style": {
+            "type": "horizontal"
+          },
+          "shuffle_options": true
+        },
+        "metadata": {
+          "name": "Multiple choice – multiple response",
+          "template_reference": "908de244-5c71-4c09-b094-7fb49554f2f9"
+        }
+      },
+      "feedbackInfo": [
+        {
+          "id": "0707_a2925169-6d24-46c2-99d1-df0c48ca85ba_3d156f3c-7370-4654-a6ab-17a19ab17d4c_67d821f0d2136070607ee1f3c4ad4dd6",
+          "user_id": "a2925169-6d24-46c2-99d1-df0c48ca85ba",
+          "response_id": "3d156f3c-7370-4654-a6ab-17a19ab17d4c_67d821f0d2136070607ee1f3c4ad4dd6",
+          "type": "longtextV2",
+          "question": {
+            "type": "longtextV2",
+            "metadata": {
+              "source": {
+                "organisation_id": 755
+              },
+              "sheet_reference": "default_feedback",
+              "widget_reference": "de082b5f-742a-4ecf-82ca-4dc86e218fec",
+              "valid_response_count": 0
+            },
+            "stimulus": "Written feedback:",
+            "response_id": "3d156f3c-7370-4654-a6ab-17a19ab17d4c_67d821f0d2136070607ee1f3c4ad4dd6",
+            "show_word_count": false,
+            "show_word_limit": "off"
+          },
+          "response": null,
+          "creation_date": "2021-11-30 13:30:27",
+          "mod_date": "2021-11-30 13:30:27",
+          "persist_until": "2021-12-01 13:30:27",
+          "saved": false
+        },
+        null
+      ]
+    },
+    {
+      "response_id": "3d156f3c-7370-4654-a6ab-17a19ab17d4c_a771d4f5f7a989f77839c2901f441087",
+      "question_type": "clozeassociation",
+      "dt_score_updated": "2021-11-30T10:07:18Z",
+      "automarkable": true,
+      "attempted": true,
+      "score": 0,
+      "max_score": 4,
+      "question_reference": "412e2d95-5745-4326-a56c-707b6b31be3e",
+      "item_reference": "ccaad8dd-79aa-4337-9266-0b439ba37ca6",
+      "response": {
+        "value": [
+          "Consider your customers and society",
+          "Be persuasive",
+          "Have a clear vision of your achievements",
+          "Use objective data to plan your career"
+        ],
+        "type": "array",
+        "apiVersion": "v2.168.13",
+        "revision": 4
+      },
+      "questionInfo": {
+        "type": "clozeassociation",
+        "widget_type": "response",
+        "reference": "412e2d95-5745-4326-a56c-707b6b31be3e",
+        "data": {
+          "possible_responses": [
+            "Have ambitious objectives",
+            "Use objective data to plan your career",
+            "Aim to generate high profits",
+            "Consider the prospects of the market",
+            "Be persuasive",
+            "Have a clear vision of your achievements",
+            "Have an evidence-based approach",
+            "Consider your customers and society"
+          ],
+          "response_container": {
+            "pointer": "left"
+          },
+          "stimulus": "<h2>&nbsp;</h2>\n\n<h2><span style=\"color:#006400;\"><b>Question 8: CATS – Conclusion</b></span></h2>\n\n<h4><b>Match the traits with the explanations.&nbsp;</b></h4>\n",
+          "template": "<p><img class=\"lrn-image-left\" height=\"200\" src=\"https://assets.learnosity.com/organisations/755/7445f05f-9e52-4336-93df-94267de4e677.png\" width=\"198\"></p>\n\n<p><strong>Courageous</strong>&nbsp;{{response}}</p>\n\n<p><strong>Artful</strong>&nbsp;{{response}}</p>\n\n<p><strong>Thoughtful&nbsp;</strong>{{response}}</p>\n\n<p><strong>Scientific&nbsp;</strong>{{response}}</p>\n",
+          "type": "clozeassociation",
+          "case_sensitive": true,
+          "validation": {
+            "scoring_type": "partialMatchV2",
+            "valid_response": {
+              "score": 4,
+              "value": [
+                "Have ambitious objectives",
+                "Be persuasive",
+                "Consider your customers and society",
+                "Have an evidence-based approach"
+              ]
+            }
+          },
+          "shuffle_options": true
+        },
+        "metadata": {
+          "name": "Cloze with drag & drop",
+          "template_reference": "51a8c1e7-f34f-4faf-b211-da458e891fcb"
+        }
+      },
+      "feedbackInfo": [
+        {
+          "id": "0707_a2925169-6d24-46c2-99d1-df0c48ca85ba_3d156f3c-7370-4654-a6ab-17a19ab17d4c_c6861a05abadd30ba7f66683779d5dae",
+          "user_id": "a2925169-6d24-46c2-99d1-df0c48ca85ba",
+          "response_id": "3d156f3c-7370-4654-a6ab-17a19ab17d4c_c6861a05abadd30ba7f66683779d5dae",
+          "type": "longtextV2",
+          "question": {
+            "type": "longtextV2",
+            "metadata": {
+              "source": {
+                "organisation_id": 755
+              },
+              "sheet_reference": "default_feedback",
+              "widget_reference": "de082b5f-742a-4ecf-82ca-4dc86e218fec",
+              "valid_response_count": 0
+            },
+            "stimulus": "Written feedback:",
+            "response_id": "3d156f3c-7370-4654-a6ab-17a19ab17d4c_c6861a05abadd30ba7f66683779d5dae",
+            "show_word_count": false,
+            "show_word_limit": "off"
+          },
+          "response": null,
+          "creation_date": "2021-11-30 13:30:27",
+          "mod_date": "2021-11-30 13:30:27",
+          "persist_until": "2021-12-01 13:30:27",
+          "saved": false
+        },
+        null
+      ]
+    }
+  ]
+}

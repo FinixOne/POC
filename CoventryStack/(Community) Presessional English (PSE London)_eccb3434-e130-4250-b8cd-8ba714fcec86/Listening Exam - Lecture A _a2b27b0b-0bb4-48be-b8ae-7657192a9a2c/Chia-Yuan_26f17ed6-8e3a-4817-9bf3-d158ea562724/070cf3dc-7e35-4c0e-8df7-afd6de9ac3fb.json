@@ -1,0 +1,1119 @@
+{
+  "userId": "26f17ed6-8e3a-4817-9bf3-d158ea562724",
+  "firstName": "Chia-Yuan",
+  "lastName": "Ho",
+  "assigmentId": "a2b27b0b-0bb4-48be-b8ae-7657192a9a2c",
+  "assigmentName": "Listening Exam - Lecture A ",
+  "sessionId": "070cf3dc-7e35-4c0e-8df7-afd6de9ac3fb",
+  "email": "hoc79@coventry.ac.uk",
+  "spaceId": "eccb3434-e130-4250-b8cd-8ba714fcec86",
+  "spaceName": "(Community) Presessional English (PSE London)",
+  "score": 11,
+  "max_score": 31,
+  "questions": [
+    {
+      "response_id": "070cf3dc-7e35-4c0e-8df7-afd6de9ac3fb_0af9662c74aaed194c9ae74f9084bf01",
+      "question_type": "imageclozeassociationV2",
+      "dt_score_updated": "2021-12-09T09:32:17Z",
+      "automarkable": true,
+      "attempted": true,
+      "score": 4,
+      "max_score": 6,
+      "question_reference": "45dbb6db-8812-4865-b72e-4eb3c35ef762",
+      "item_reference": "646bdf35-823f-48c4-a08c-41492a1e065a",
+      "response": {
+        "value": [
+          [
+            "<span style=\"font-size:1.1em;\">The nature of the opportunity that an entrepreneur is pursuing</span>"
+          ],
+          [
+            "<span style=\"font-size:1.1em;\">Filling a market niche</span>"
+          ],
+          [
+            "<span style=\"font-size:1.1em;\">Forming a market niche</span>"
+          ],
+          [
+            "<span style=\"font-size:1.1em;\">How they analysed their customers</span>"
+          ],
+          [
+            "<span style=\"font-size:1.1em;\">How their customers changed</span>"
+          ],
+          []
+        ],
+        "type": "array",
+        "apiVersion": "v2.168.14",
+        "revision": 10
+      },
+      "questionInfo": {
+        "type": "imageclozeassociationV2",
+        "widget_type": "response",
+        "reference": "45dbb6db-8812-4865-b72e-4eb3c35ef762",
+        "data": {
+          "image": {
+            "src": "https://assets.learnosity.com/organisations/755/5a27531c-0864-4126-a19f-24520052913a.png",
+            "width": 1375,
+            "height": 711
+          },
+          "possible_responses": [
+            "<span style=\"font-size:1.1em;\">Difficulties with prior analysis</span>",
+            "<span style=\"font-size:1.1em;\">External markets</span>",
+            "<span style=\"font-size:1.1em;\">Filling a market niche</span>",
+            "<span style=\"font-size:1.1em;\">Forming a market niche</span>",
+            "<span style=\"font-size:1.1em;\">How they analysed their customers</span>",
+            "<span style=\"font-size:1.1em;\">How they examined their competitors</span>",
+            "<span style=\"font-size:1.1em;\">How their customers changed</span>",
+            "<span style=\"font-size:1.1em;\">Internal markets</span>",
+            "<span style=\"font-size:1.1em;\">Recommendations for the future</span>",
+            "<span style=\"font-size:1.1em;\">Review of the lecture</span>",
+            "<span style=\"font-size:1.1em;\">The nature of the opportunity that an entrepreneur is pursuing</span>",
+            "<span style=\"font-size:1.1em;\">The relationship between opportunities, markets, competitors, and government</span>"
+          ],
+          "response_containers": [
+            {
+              "x": 5,
+              "y": 22,
+              "width": "93.61%",
+              "height": "9.43%",
+              "aria_label": "",
+              "pointer": "undefined"
+            },
+            {
+              "x": 8.8,
+              "y": 41.17,
+              "width": "44.77%",
+              "height": "9.76%",
+              "aria_label": "",
+              "pointer": "undefined"
+            },
+            {
+              "x": 60.88,
+              "y": 41.48,
+              "width": "37.94%",
+              "height": "9.40%",
+              "aria_label": "",
+              "pointer": "undefined"
+            },
+            {
+              "x": 11,
+              "y": 58,
+              "aria_label": "",
+              "width": "38.92%",
+              "height": "10.65%",
+              "pointer": "none"
+            },
+            {
+              "x": 62,
+              "y": 58,
+              "aria_label": "",
+              "width": "36.82%",
+              "height": "10.49%",
+              "pointer": "none"
+            },
+            {
+              "x": 4,
+              "y": 88,
+              "aria_label": "",
+              "width": "93.81%",
+              "height": "9.19%",
+              "pointer": "none"
+            }
+          ],
+          "stimulus": "<p>&nbsp;</p>\n\n<p><span style=\"color:#0000ff;\"><span style=\"font-size:1.6em;\"><strong>Question 1 - Today's Agenda</strong></span></span></p>\n\n<p>&nbsp;</p>\n\n<p><strong><span style=\"font-size:1.3em;\">1.1. Complete the agenda slide with the expressions below.</span></strong></p>\n\n<p>&nbsp;</p>\n\n<p><span style=\"font-size:1em;\"><b><u>NOTE: <span style=\"color:#ff0000;\">There are&nbsp;SIX extra expressions&nbsp;that you don’t need.</span></u></b></span></p>\n",
+          "type": "imageclozeassociationV2",
+          "case_sensitive": true,
+          "validation": {
+            "scoring_type": "partialMatchV2",
+            "valid_response": {
+              "score": 6,
+              "value": [
+                [
+                  "<span style=\"font-size:1.1em;\">The relationship between opportunities, markets, competitors, and government</span>"
+                ],
+                [
+                  "<span style=\"font-size:1.1em;\">Filling a market niche</span>"
+                ],
+                [
+                  "<span style=\"font-size:1.1em;\">Forming a market niche</span>"
+                ],
+                [
+                  "<span style=\"font-size:1.1em;\">How they analysed their customers</span>"
+                ],
+                [
+                  "<span style=\"font-size:1.1em;\">How their customers changed</span>"
+                ],
+                [
+                  "<span style=\"font-size:1.1em;\">Review of the lecture</span>"
+                ]
+              ]
+            }
+          },
+          "ui_style": {
+            "transparent_possible_responses": true,
+            "show_drag_handle": true
+          }
+        },
+        "metadata": {
+          "name": "Label image with drag & drop",
+          "template_reference": "6e77b403-8f0c-43af-b464-9450e1ac70dc"
+        }
+      },
+      "feedbackInfo": [
+        {
+          "id": "0707_26f17ed6-8e3a-4817-9bf3-d158ea562724_070cf3dc-7e35-4c0e-8df7-afd6de9ac3fb_a129662019a738a92b18a632a70b5af1",
+          "user_id": "26f17ed6-8e3a-4817-9bf3-d158ea562724",
+          "response_id": "070cf3dc-7e35-4c0e-8df7-afd6de9ac3fb_a129662019a738a92b18a632a70b5af1",
+          "type": "longtextV2",
+          "question": {
+            "type": "longtextV2",
+            "metadata": {
+              "source": {
+                "organisation_id": 755
+              },
+              "sheet_reference": "default_feedback",
+              "widget_reference": "de082b5f-742a-4ecf-82ca-4dc86e218fec",
+              "valid_response_count": 0
+            },
+            "stimulus": "Written feedback:",
+            "response_id": "070cf3dc-7e35-4c0e-8df7-afd6de9ac3fb_a129662019a738a92b18a632a70b5af1",
+            "show_word_count": false,
+            "show_word_limit": "off"
+          },
+          "response": null,
+          "creation_date": "2021-12-09 12:01:34",
+          "mod_date": "2021-12-09 12:04:09",
+          "persist_until": "2024-12-08 12:01:34",
+          "saved": true
+        },
+        null
+      ]
+    },
+    {
+      "response_id": "070cf3dc-7e35-4c0e-8df7-afd6de9ac3fb_c28c2d1b7931a4f87a8ed912167f40b3",
+      "question_type": "mcq",
+      "dt_score_updated": "2021-12-09T09:20:01Z",
+      "automarkable": true,
+      "attempted": true,
+      "score": 2,
+      "max_score": 2,
+      "question_reference": "37dd244c-25e3-4a57-979f-cbfd50b0a815",
+      "item_reference": "646bdf35-823f-48c4-a08c-41492a1e065a",
+      "response": {
+        "value": [
+          "0",
+          "3"
+        ],
+        "type": "array",
+        "apiVersion": "v2.168.14",
+        "revision": 2
+      },
+      "questionInfo": {
+        "type": "mcq",
+        "widget_type": "response",
+        "reference": "37dd244c-25e3-4a57-979f-cbfd50b0a815",
+        "data": {
+          "multiple_responses": true,
+          "options": [
+            {
+              "label": "Discovery opportunities, where the entrepreneur fills a market void",
+              "value": "0"
+            },
+            {
+              "label": "Discovery opportunities, where the entrepreneur forms a market void",
+              "value": "1"
+            },
+            {
+              "label": "Creation opportunities, where the entrepreneur fills the market void",
+              "value": "2"
+            },
+            {
+              "label": "Creation opportunities, where the entrepreneur forms the market void",
+              "value": "3"
+            }
+          ],
+          "stimulus": "<p>&nbsp;</p>\n\n<p>&nbsp;</p>\n\n<p><span style=\"color:#0000ff;\"><strong><span style=\"font-size:1.6em;\">Question 2 - Opportunity Types</span></strong></span></p>\n\n<p>&nbsp;</p>\n\n<p><strong><span style=\"font-size:1.3em;\">2.1. Which opportunity types does the lecturer talk about?</span></strong></p>\n\n<ul>\n\t<li>\n\t<p><em><span style=\"font-size:1.1em;\">Choose <strong>TWO </strong>correct answers.</span></em></p>\n\t</li>\n</ul>\n",
+          "type": "mcq",
+          "validation": {
+            "scoring_type": "partialMatchV2",
+            "valid_response": {
+              "score": 2,
+              "value": [
+                "0",
+                "3"
+              ]
+            }
+          },
+          "ui_style": {
+            "type": "horizontal"
+          }
+        },
+        "metadata": {
+          "name": "Multiple choice – standard",
+          "template_reference": "9e8149bd-e4d8-4dd6-a751-1a113a4b9163"
+        }
+      },
+      "feedbackInfo": [
+        {
+          "id": "0707_26f17ed6-8e3a-4817-9bf3-d158ea562724_070cf3dc-7e35-4c0e-8df7-afd6de9ac3fb_d4dfb7e854836c40903ae6cf3585fb3b",
+          "user_id": "26f17ed6-8e3a-4817-9bf3-d158ea562724",
+          "response_id": "070cf3dc-7e35-4c0e-8df7-afd6de9ac3fb_d4dfb7e854836c40903ae6cf3585fb3b",
+          "type": "longtextV2",
+          "question": {
+            "type": "longtextV2",
+            "metadata": {
+              "source": {
+                "organisation_id": 755
+              },
+              "sheet_reference": "default_feedback",
+              "widget_reference": "de082b5f-742a-4ecf-82ca-4dc86e218fec",
+              "valid_response_count": 0
+            },
+            "stimulus": "Written feedback:",
+            "response_id": "070cf3dc-7e35-4c0e-8df7-afd6de9ac3fb_d4dfb7e854836c40903ae6cf3585fb3b",
+            "show_word_count": false,
+            "show_word_limit": "off"
+          },
+          "response": null,
+          "creation_date": "2021-12-09 12:01:35",
+          "mod_date": "2021-12-09 12:04:10",
+          "persist_until": "2024-12-08 12:01:35",
+          "saved": true
+        },
+        null
+      ]
+    },
+    {
+      "response_id": "070cf3dc-7e35-4c0e-8df7-afd6de9ac3fb_78aa6a1a747368be3dcd38ea38ecc586",
+      "question_type": "clozetext",
+      "dt_score_updated": "2021-12-09T12:04:22Z",
+      "automarkable": false,
+      "attempted": true,
+      "score": 0,
+      "max_score": 10,
+      "question_reference": "10cfffe9-f4b8-4391-ad0d-3aff09141584",
+      "item_reference": "646bdf35-823f-48c4-a08c-41492a1e065a",
+      "response": {
+        "value": [
+          "gap in the market",
+          "gap in the market",
+          "high profit",
+          "low profit",
+          "gap in the market",
+          "gap in the market",
+          "gap in the market",
+          "gap in the market",
+          "gap in the market",
+          "gap in the market"
+        ],
+        "type": "array",
+        "apiVersion": "v2.168.14",
+        "revision": 9
+      },
+      "manual_score": null,
+      "max_manual_score": null,
+      "questionInfo": {
+        "type": "clozetext",
+        "widget_type": "response",
+        "reference": "10cfffe9-f4b8-4391-ad0d-3aff09141584",
+        "data": {
+          "stimulus": "<p style=\"margin-left: 40px;\">&nbsp;</p>\n\n<p>&nbsp;</p>\n\n<p><span style=\"font-size:1.3em;\"><strong>2.2. Complete the notes with ONE to FOUR words in each space.</strong></span></p>\n",
+          "template": "<table class=\"table table-condensed table-striped table-bordered lrn_width_auto\">\n\t<tbody>\n\t\t<tr>\n\t\t\t<td class=\"text-center\"><span style=\"color:#0000ff;\"><span style=\"font-size:1.1em;\"><strong>Opportunities that FILL the market void</strong></span></span></td>\n\t\t\t<td class=\"text-center\"><span style=\"color:#008000;\"><span style=\"font-size:1.1em;\"><strong>Opportunities that FORM the market void</strong></span></span></td>\n\t\t</tr>\n\t\t<tr>\n\t\t\t<td><span style=\"font-size:1.1em;\">• the market void is&nbsp;</span><span style=\"font-size:1em;\">{{response}}</span><span style=\"font-size:1.1em;\"></span></td>\n\t\t\t<td><span style=\"font-size:1.1em;\"><span style=\"font-size:1.1em;\">• </span>the market&nbsp;</span><span style=\"font-size:1em;\">{{response}}</span><span style=\"font-size:1.1em;\"></span></td>\n\t\t</tr>\n\t\t<tr>\n\t\t\t<td><span style=\"font-size:1.1em;\"><span style=\"font-size:1.1em;\">• </span>the market is&nbsp;</span><span style=\"font-size:1em;\">{{response}}</span><span style=\"font-size:1.1em;\"></span></td>\n\t\t\t<td><span style=\"font-size:1.1em;\"><span style=\"font-size:1.1em;\">• </span>the market is&nbsp;</span><span style=\"font-size:1em;\">{{response}}</span><span style=\"font-size:1.1em;\"></span></td>\n\t\t</tr>\n\t\t<tr>\n\t\t\t<td><span style=\"font-size:1.1em;\"><span style=\"font-size:1.1em;\">• </span>demand can be&nbsp;</span><span style=\"font-size:1em;\">{{response}}</span><span style=\"font-size:1.1em;\"></span></td>\n\t\t\t<td><span style=\"font-size:1.1em;\"><span style=\"font-size:1.1em;\">• </span>demand is&nbsp;</span><span style=\"font-size:1em;\">{{response}}</span><span style=\"font-size:1.1em;\"></span></td>\n\t\t</tr>\n\t\t<tr>\n\t\t\t<td><span style=\"font-size:1.1em;\"><span style=\"font-size:1.1em;\">• </span>competitors&nbsp;</span><span style=\"font-size:1em;\">{{response}}</span><span style=\"font-size:1.1em;\"></span></td>\n\t\t\t<td><span style=\"font-size:1.1em;\"><span style=\"font-size:1.1em;\">• </span>competitors are&nbsp;</span><span style=\"font-size:1em;\">{{response}}</span><span style=\"font-size:1.1em;\"></span></td>\n\t\t</tr>\n\t\t<tr>\n\t\t\t<td><span style=\"font-size:1.1em;\"><span style=\"font-size:1.1em;\">• </span>government regulations are in place and&nbsp;</span><span style=\"font-size:1em;\">{{response}}</span><span style=\"font-size:1.1em;\"></span></td>\n\t\t\t<td><span style=\"font-size:1.1em;\"><span style=\"font-size:1.1em;\">• </span>government regulations have not yet caught up to the&nbsp;</span><span style=\"font-size:1em;\">{{response}}</span></td>\n\t\t</tr>\n\t</tbody>\n</table>\n\n<p><strong>Glossary:</strong><em><strong> </strong></em></p>\n\n<ul>\n\t<li><em><strong>Market void = gap in the market</strong></em></li>\n</ul>\n",
+          "type": "clozetext",
+          "validation": {
+            "scoring_type": "partialMatchV2",
+            "valid_response": {
+              "score": 10,
+              "value": [
+                "known",
+                "does not yet exist",
+                "defined",
+                "emerging",
+                "anticipated",
+                "not yet known",
+                "exist",
+                "emerging",
+                "stable",
+                "emerging market"
+              ]
+            },
+            "automarkable": false,
+            "max_score": 10
+          },
+          "max_length": 25
+        },
+        "metadata": {
+          "name": "Cloze with text",
+          "template_reference": "457fe101-0667-4a35-b193-b849653acb52"
+        }
+      },
+      "feedbackInfo": [
+        {
+          "id": "0707_26f17ed6-8e3a-4817-9bf3-d158ea562724_070cf3dc-7e35-4c0e-8df7-afd6de9ac3fb_abe324a575a43f6af9b871fd911a9f44",
+          "user_id": "26f17ed6-8e3a-4817-9bf3-d158ea562724",
+          "response_id": "070cf3dc-7e35-4c0e-8df7-afd6de9ac3fb_abe324a575a43f6af9b871fd911a9f44",
+          "type": "longtextV2",
+          "question": {
+            "type": "longtextV2",
+            "metadata": {
+              "source": {
+                "organisation_id": 755
+              },
+              "sheet_reference": "default_feedback",
+              "widget_reference": "de082b5f-742a-4ecf-82ca-4dc86e218fec",
+              "valid_response_count": 0
+            },
+            "stimulus": "Written feedback:",
+            "response_id": "070cf3dc-7e35-4c0e-8df7-afd6de9ac3fb_abe324a575a43f6af9b871fd911a9f44",
+            "show_word_count": false,
+            "show_word_limit": "off"
+          },
+          "response": null,
+          "creation_date": "2021-12-09 12:01:35",
+          "mod_date": "2021-12-09 12:04:10",
+          "persist_until": "2024-12-08 12:01:35",
+          "saved": true
+        },
+        null
+      ]
+    },
+    {
+      "response_id": "070cf3dc-7e35-4c0e-8df7-afd6de9ac3fb_d505283b54276ee5bb79cca8cd4a7ecf",
+      "question_type": "mcq",
+      "dt_score_updated": "2021-12-09T09:20:42Z",
+      "automarkable": true,
+      "attempted": true,
+      "score": 0,
+      "max_score": 1,
+      "question_reference": "03fe9277-daab-4ead-b57e-1838d37ae267",
+      "item_reference": "646bdf35-823f-48c4-a08c-41492a1e065a",
+      "response": {
+        "value": [
+          "0"
+        ],
+        "type": "array",
+        "apiVersion": "v2.168.14",
+        "revision": 1
+      },
+      "questionInfo": {
+        "type": "mcq",
+        "widget_type": "response",
+        "reference": "03fe9277-daab-4ead-b57e-1838d37ae267",
+        "data": {
+          "options": [
+            {
+              "label": "The airline industry has high profit margins.",
+              "value": "0"
+            },
+            {
+              "label": "The airline industry has little competition",
+              "value": "1"
+            },
+            {
+              "label": "The airline industry is not good for start-ups.",
+              "value": "2"
+            },
+            {
+              "label": "The airline industry is bad for the environment.",
+              "value": "3"
+            }
+          ],
+          "stimulus": "<p>&nbsp;</p>\n\n<p><strong><span style=\"color:#0000ff;\"><span style=\"font-size:1.6em;\">Question 3 - The Airline Industry</span></span></strong></p>\n\n<p>&nbsp;</p>\n\n<p><strong><span style=\"font-size:1.3em;\">3.1. According to the lecturer...</span></strong></p>\n\n<ul>\n\t<li><em><span style=\"font-size:1.1em;\">Choose <strong>ONE </strong>correct answer.</span></em></li>\n</ul>\n",
+          "type": "mcq",
+          "validation": {
+            "scoring_type": "exactMatch",
+            "valid_response": {
+              "score": 1,
+              "value": [
+                "2"
+              ]
+            }
+          },
+          "ui_style": {
+            "type": "horizontal"
+          }
+        },
+        "metadata": {
+          "name": "Multiple choice – standard",
+          "template_reference": "9e8149bd-e4d8-4dd6-a751-1a113a4b9163"
+        }
+      },
+      "feedbackInfo": [
+        {
+          "id": "0707_26f17ed6-8e3a-4817-9bf3-d158ea562724_070cf3dc-7e35-4c0e-8df7-afd6de9ac3fb_1b8eddce57cbef3fff22454d79e34aa1",
+          "user_id": "26f17ed6-8e3a-4817-9bf3-d158ea562724",
+          "response_id": "070cf3dc-7e35-4c0e-8df7-afd6de9ac3fb_1b8eddce57cbef3fff22454d79e34aa1",
+          "type": "longtextV2",
+          "question": {
+            "type": "longtextV2",
+            "metadata": {
+              "source": {
+                "organisation_id": 755
+              },
+              "sheet_reference": "default_feedback",
+              "widget_reference": "de082b5f-742a-4ecf-82ca-4dc86e218fec",
+              "valid_response_count": 0
+            },
+            "stimulus": "Written feedback:",
+            "response_id": "070cf3dc-7e35-4c0e-8df7-afd6de9ac3fb_1b8eddce57cbef3fff22454d79e34aa1",
+            "show_word_count": false,
+            "show_word_limit": "off"
+          },
+          "response": null,
+          "creation_date": "2021-12-09 12:01:35",
+          "mod_date": "2021-12-09 12:04:11",
+          "persist_until": "2024-12-08 12:01:35",
+          "saved": true
+        },
+        null
+      ]
+    },
+    {
+      "response_id": "070cf3dc-7e35-4c0e-8df7-afd6de9ac3fb_61cee05687732a7704fe446fce07939b",
+      "question_type": "mcq",
+      "dt_score_updated": "2021-12-09T09:36:08Z",
+      "automarkable": true,
+      "attempted": true,
+      "score": 0,
+      "max_score": 1,
+      "question_reference": "d31e2591-ccf9-4ad1-ab33-e1664799a2bd",
+      "item_reference": "646bdf35-823f-48c4-a08c-41492a1e065a",
+      "response": {
+        "value": [
+          "3"
+        ],
+        "type": "array",
+        "apiVersion": "v2.168.14",
+        "revision": 4
+      },
+      "questionInfo": {
+        "type": "mcq",
+        "widget_type": "response",
+        "reference": "d31e2591-ccf9-4ad1-ab33-e1664799a2bd",
+        "data": {
+          "options": [
+            {
+              "label": "Offer products and services above the value customers are paying.",
+              "value": "0"
+            },
+            {
+              "label": "Charge extra for almost everything other than the ticket.",
+              "value": "1"
+            },
+            {
+              "label": "Charge extra for all baggage and extra seating.",
+              "value": "2"
+            },
+            {
+              "label": "Offer free food and drink on the airline itself.",
+              "value": "3"
+            }
+          ],
+          "stimulus": "<p>&nbsp;</p>\n\n<p><span style=\"color:#0000ff;\"><strong><span style=\"font-size:1.6em;\">Question 4 - Skybus' Strategy</span></strong></span></p>\n\n<p>&nbsp;</p>\n\n<p><strong><span style=\"font-size:1.3em;\">4.1. What was Skybus' strategy?</span></strong></p>\n\n<ul>\n\t<li><strong><span style=\"font-size:1.1em;\"></span></strong><em><span style=\"font-size:1.1em;\">Choose <strong>ONE </strong>correct answer.</span></em></li>\n</ul>\n",
+          "type": "mcq",
+          "validation": {
+            "scoring_type": "exactMatch",
+            "valid_response": {
+              "score": 1,
+              "value": [
+                "1"
+              ]
+            }
+          },
+          "ui_style": {
+            "type": "horizontal"
+          }
+        },
+        "metadata": {
+          "name": "Multiple choice – standard",
+          "template_reference": "9e8149bd-e4d8-4dd6-a751-1a113a4b9163"
+        }
+      },
+      "feedbackInfo": [
+        {
+          "id": "0707_26f17ed6-8e3a-4817-9bf3-d158ea562724_070cf3dc-7e35-4c0e-8df7-afd6de9ac3fb_3170ca49e3e58c9555730dd99092494e",
+          "user_id": "26f17ed6-8e3a-4817-9bf3-d158ea562724",
+          "response_id": "070cf3dc-7e35-4c0e-8df7-afd6de9ac3fb_3170ca49e3e58c9555730dd99092494e",
+          "type": "longtextV2",
+          "question": {
+            "type": "longtextV2",
+            "metadata": {
+              "source": {
+                "organisation_id": 755
+              },
+              "sheet_reference": "default_feedback",
+              "widget_reference": "de082b5f-742a-4ecf-82ca-4dc86e218fec",
+              "valid_response_count": 0
+            },
+            "stimulus": "Written feedback:",
+            "response_id": "070cf3dc-7e35-4c0e-8df7-afd6de9ac3fb_3170ca49e3e58c9555730dd99092494e",
+            "show_word_count": false,
+            "show_word_limit": "off"
+          },
+          "response": null,
+          "creation_date": "2021-12-09 12:01:36",
+          "mod_date": "2021-12-09 12:04:11",
+          "persist_until": "2024-12-08 12:01:36",
+          "saved": true
+        },
+        null
+      ]
+    },
+    {
+      "response_id": "070cf3dc-7e35-4c0e-8df7-afd6de9ac3fb_fae0bf39b709c3d4aff81d2793bc29a2",
+      "question_type": "mcq",
+      "dt_score_updated": "2021-12-09T09:22:11Z",
+      "automarkable": true,
+      "attempted": true,
+      "score": 0,
+      "max_score": 1,
+      "question_reference": "08f809fa-763b-4dc2-9275-b3df730b7e70",
+      "item_reference": "646bdf35-823f-48c4-a08c-41492a1e065a",
+      "response": {
+        "value": [
+          "1"
+        ],
+        "type": "array",
+        "apiVersion": "v2.168.14",
+        "revision": 4
+      },
+      "questionInfo": {
+        "type": "mcq",
+        "widget_type": "response",
+        "reference": "08f809fa-763b-4dc2-9275-b3df730b7e70",
+        "data": {
+          "options": [
+            {
+              "label": "They offered free blankets, pillows, meals, peanuts and sodas.",
+              "value": "0"
+            },
+            {
+              "label": "They offered discounts for frequent flyers",
+              "value": "1"
+            },
+            {
+              "label": "They decided to fly to smaller airports.",
+              "value": "2"
+            },
+            {
+              "label": "They reduced waiting times for boarding.",
+              "value": "3"
+            }
+          ],
+          "stimulus": "<p>&nbsp;</p>\n\n<p><span style=\"font-size:1.3em;\"><strong>4.2. How did Skybus&nbsp;obtain competitive advantage?</strong></span></p>\n\n<ul>\n\t<li><em><span style=\"font-size:1.1em;\">Choose <strong>ONE </strong>correct answer.</span></em></li>\n</ul>\n",
+          "type": "mcq",
+          "validation": {
+            "scoring_type": "exactMatch",
+            "valid_response": {
+              "score": 1,
+              "value": [
+                "2"
+              ]
+            }
+          },
+          "ui_style": {
+            "type": "horizontal"
+          }
+        },
+        "metadata": {
+          "name": "Multiple choice – standard",
+          "template_reference": "9e8149bd-e4d8-4dd6-a751-1a113a4b9163"
+        }
+      },
+      "feedbackInfo": [
+        {
+          "id": "0707_26f17ed6-8e3a-4817-9bf3-d158ea562724_070cf3dc-7e35-4c0e-8df7-afd6de9ac3fb_6d6fa6b65599bbd5122b5c2ab43ad554",
+          "user_id": "26f17ed6-8e3a-4817-9bf3-d158ea562724",
+          "response_id": "070cf3dc-7e35-4c0e-8df7-afd6de9ac3fb_6d6fa6b65599bbd5122b5c2ab43ad554",
+          "type": "longtextV2",
+          "question": {
+            "type": "longtextV2",
+            "metadata": {
+              "source": {
+                "organisation_id": 755
+              },
+              "sheet_reference": "default_feedback",
+              "widget_reference": "de082b5f-742a-4ecf-82ca-4dc86e218fec",
+              "valid_response_count": 0
+            },
+            "stimulus": "Written feedback:",
+            "response_id": "070cf3dc-7e35-4c0e-8df7-afd6de9ac3fb_6d6fa6b65599bbd5122b5c2ab43ad554",
+            "show_word_count": false,
+            "show_word_limit": "off"
+          },
+          "response": null,
+          "creation_date": "2021-12-09 12:01:36",
+          "mod_date": "2021-12-09 12:04:11",
+          "persist_until": "2024-12-08 12:01:36",
+          "saved": true
+        },
+        null
+      ]
+    },
+    {
+      "response_id": "070cf3dc-7e35-4c0e-8df7-afd6de9ac3fb_aa245bc84fe0ca83fa7c0279147df7c4",
+      "question_type": "clozedropdown",
+      "dt_score_updated": "2021-12-09T09:39:48Z",
+      "automarkable": true,
+      "attempted": true,
+      "score": 2,
+      "max_score": 4,
+      "question_reference": "f90c70af-3a47-4bf7-b1e9-eba66ee4716e",
+      "item_reference": "646bdf35-823f-48c4-a08c-41492a1e065a",
+      "response": {
+        "value": [
+          "False",
+          "False",
+          "True",
+          "False"
+        ],
+        "type": "array",
+        "apiVersion": "v2.168.14",
+        "revision": 7
+      },
+      "questionInfo": {
+        "type": "clozedropdown",
+        "widget_type": "response",
+        "reference": "f90c70af-3a47-4bf7-b1e9-eba66ee4716e",
+        "data": {
+          "possible_responses": [
+            [
+              "True",
+              "False",
+              "Not Given"
+            ],
+            [
+              "True",
+              "False",
+              "Not Given"
+            ],
+            [
+              "True",
+              "False",
+              "Not Given"
+            ],
+            [
+              "True",
+              "False",
+              "Not Given"
+            ]
+          ],
+          "response_container": {
+            "pointer": "left"
+          },
+          "stimulus": "<p>&nbsp;</p>\n\n<p><span style=\"color:#0000ff;\"><span style=\"font-size:1.6em;\"><strong>Question 5 - Government Implications</strong></span></span></p>\n\n<ul>\n\t<li><em><span style=\"font-size:1.1em;\">For the sentences below, choose </span><strong><span style=\"font-size:1.1em;\">TRUE</span></strong><span style=\"font-size:1.1em;\">, <strong>FALSE </strong>or <strong>NOT GIVEN</strong>.</span></em></li>\n</ul>\n",
+          "template": "<p><span style=\"font-size:1.3em;\"><strong>5.1.</strong> Before 1978, there were not many airline companies in the USA.</span>&nbsp;&nbsp;<span style=\"font-size:1em;\">{{response}}</span></p>\n\n<p><span style=\"font-size:1.3em;\"><strong>5.2.&nbsp;</strong>Skybus didn't understand the airline industry because they were a new company.&nbsp;</span><span style=\"font-size:1em;\">{{response}}</span></p>\n\n<p><span style=\"font-size:1.3em;\"><strong>5.3.</strong> Skybus started selling tickets before they had approval to begin flying.&nbsp;</span><span style=\"font-size:1em;\">{{response}}</span><span style=\"font-size:1.3em;\"></span></p>\n\n<p><span style=\"font-size:1.3em;\"><strong>5.4. </strong>Skybus had limited knowledge of the macro-environment because they were a new company.&nbsp;</span><span style=\"font-size:1em;\">{{response}}</span><span style=\"font-size:1.3em;\"></span></p>\n",
+          "type": "clozedropdown",
+          "case_sensitive": true,
+          "validation": {
+            "scoring_type": "partialMatchV2",
+            "valid_response": {
+              "score": 4,
+              "value": [
+                "Not Given",
+                "False",
+                "True",
+                "Not Given"
+              ]
+            }
+          }
+        },
+        "metadata": {
+          "name": "Cloze with drop down",
+          "template_reference": "2fbba51b-e35e-441f-83c7-2662e2e81fa6"
+        }
+      },
+      "feedbackInfo": [
+        {
+          "id": "0707_26f17ed6-8e3a-4817-9bf3-d158ea562724_070cf3dc-7e35-4c0e-8df7-afd6de9ac3fb_29540d9db0b63cb6d06b8d2bcd5f8477",
+          "user_id": "26f17ed6-8e3a-4817-9bf3-d158ea562724",
+          "response_id": "070cf3dc-7e35-4c0e-8df7-afd6de9ac3fb_29540d9db0b63cb6d06b8d2bcd5f8477",
+          "type": "longtextV2",
+          "question": {
+            "type": "longtextV2",
+            "metadata": {
+              "source": {
+                "organisation_id": 755
+              },
+              "sheet_reference": "default_feedback",
+              "widget_reference": "de082b5f-742a-4ecf-82ca-4dc86e218fec",
+              "valid_response_count": 0
+            },
+            "stimulus": "Written feedback:",
+            "response_id": "070cf3dc-7e35-4c0e-8df7-afd6de9ac3fb_29540d9db0b63cb6d06b8d2bcd5f8477",
+            "show_word_count": false,
+            "show_word_limit": "off"
+          },
+          "response": null,
+          "creation_date": "2021-12-09 12:01:37",
+          "mod_date": "2021-12-09 12:04:12",
+          "persist_until": "2024-12-08 12:01:37",
+          "saved": true
+        },
+        null
+      ]
+    },
+    {
+      "response_id": "070cf3dc-7e35-4c0e-8df7-afd6de9ac3fb_5c908d6dc113fd003b18cb4f9b5386c0",
+      "question_type": "clozedropdown",
+      "dt_score_updated": "2021-12-09T09:40:18Z",
+      "automarkable": true,
+      "attempted": true,
+      "score": 2,
+      "max_score": 3,
+      "question_reference": "0ad23a06-f8f4-4b5f-9cec-a93d25640488",
+      "item_reference": "646bdf35-823f-48c4-a08c-41492a1e065a",
+      "response": {
+        "value": [
+          "a negative impact",
+          "planned for oil price fluctuations",
+          "increased slightly"
+        ],
+        "type": "array",
+        "apiVersion": "v2.168.14",
+        "revision": 4
+      },
+      "questionInfo": {
+        "type": "clozedropdown",
+        "widget_type": "response",
+        "reference": "0ad23a06-f8f4-4b5f-9cec-a93d25640488",
+        "data": {
+          "possible_responses": [
+            [
+              "an unpredictable impact",
+              "a negative impact",
+              "a positive impact",
+              "no impact"
+            ],
+            [
+              "planned for an oil price rise",
+              "planned for an oil price decrease",
+              "planned for oil price fluctuations",
+              "didn't plan for oil price changes"
+            ],
+            [
+              "fluctuated",
+              "remained stable",
+              "increased slightly",
+              "increased consistently"
+            ]
+          ],
+          "response_container": {
+            "pointer": "left"
+          },
+          "stimulus": "<p>&nbsp;</p>\n\n<p><span style=\"color:#0000ff;\"><span style=\"font-size:1.6em;\"><strong>Question 6 - The Price of Oil</strong></span></span></p>\n\n<ul>\n\t<li><em><span style=\"font-size:1.1em;\">Choose <strong>ONE </strong>correct answer to complete the sentences below.</span></em></li>\n</ul>\n",
+          "template": "<p><span style=\"font-size:1.3em;\"><strong>6.1.</strong> According to the International Energy Agency, high oil prices have&nbsp;&nbsp;</span><span style=\"font-size:1em;\">{{response}}</span><span style=\"font-size:1.3em;\">&nbsp;on the global economy.</span></p>\n\n<p><span style=\"font-size:1.3em;\"><strong>6.2. </strong>Skybus&nbsp;</span><span style=\"font-size:1em;\">{{response}}</span><span style=\"font-size:1.3em;\">&nbsp;in their initial business plan.</span></p>\n\n<p><span style=\"font-size:1.3em;\"><strong>6.3.</strong> Oil prices&nbsp;</span><span style=\"font-size:1em;\">{{response}}</span><span style=\"font-size:1.3em;\">&nbsp;between December 2006 and July 2008.</span></p>\n",
+          "type": "clozedropdown",
+          "case_sensitive": true,
+          "validation": {
+            "scoring_type": "partialMatchV2",
+            "valid_response": {
+              "score": 3,
+              "value": [
+                "a negative impact",
+                "planned for oil price fluctuations",
+                "increased consistently"
+              ]
+            }
+          },
+          "shuffle_options": true
+        },
+        "metadata": {
+          "name": "Cloze with drop down",
+          "template_reference": "2fbba51b-e35e-441f-83c7-2662e2e81fa6"
+        }
+      },
+      "feedbackInfo": [
+        {
+          "id": "0707_26f17ed6-8e3a-4817-9bf3-d158ea562724_070cf3dc-7e35-4c0e-8df7-afd6de9ac3fb_f4b0c50fe19d0c0d99850c05a4959238",
+          "user_id": "26f17ed6-8e3a-4817-9bf3-d158ea562724",
+          "response_id": "070cf3dc-7e35-4c0e-8df7-afd6de9ac3fb_f4b0c50fe19d0c0d99850c05a4959238",
+          "type": "longtextV2",
+          "question": {
+            "type": "longtextV2",
+            "metadata": {
+              "source": {
+                "organisation_id": 755
+              },
+              "sheet_reference": "default_feedback",
+              "widget_reference": "de082b5f-742a-4ecf-82ca-4dc86e218fec",
+              "valid_response_count": 0
+            },
+            "stimulus": "Written feedback:",
+            "response_id": "070cf3dc-7e35-4c0e-8df7-afd6de9ac3fb_f4b0c50fe19d0c0d99850c05a4959238",
+            "show_word_count": false,
+            "show_word_limit": "off"
+          },
+          "response": null,
+          "creation_date": "2021-12-09 12:01:37",
+          "mod_date": "2021-12-09 12:04:12",
+          "persist_until": "2024-12-08 12:01:37",
+          "saved": true
+        },
+        null
+      ]
+    },
+    {
+      "response_id": "070cf3dc-7e35-4c0e-8df7-afd6de9ac3fb_decd7bdecf20cdd7d33f35afbf4442b1",
+      "question_type": "mcq",
+      "dt_score_updated": "2021-12-09T09:28:13Z",
+      "automarkable": true,
+      "attempted": true,
+      "score": 1,
+      "max_score": 1,
+      "question_reference": "aa6cd5b4-d942-4ac2-9e2d-7947e48be2df",
+      "item_reference": "646bdf35-823f-48c4-a08c-41492a1e065a",
+      "response": {
+        "value": [
+          "2"
+        ],
+        "type": "array",
+        "apiVersion": "v2.168.14",
+        "revision": 2
+      },
+      "questionInfo": {
+        "type": "mcq",
+        "widget_type": "response",
+        "reference": "aa6cd5b4-d942-4ac2-9e2d-7947e48be2df",
+        "data": {
+          "options": [
+            {
+              "label": "the type of industry",
+              "value": "0"
+            },
+            {
+              "label": "the economic situation",
+              "value": "1"
+            },
+            {
+              "label": "the timing",
+              "value": "2"
+            }
+          ],
+          "stimulus": "<p>&nbsp;</p>\n\n<p><span style=\"color:#0000ff;\"><span style=\"font-size:1.6em;\"><strong>Question 7 - What Entrepreneurs Need to Know</strong></span></span></p>\n\n<ul>\n\t<li><em><span style=\"font-size:1.1em;\">Choose <strong>ONE </strong>correct answer to complete the sentences below.</span></em></li>\n</ul>\n\n<p>&nbsp;</p>\n\n<p><span style=\"font-size:1.3em;\"><strong>7.1.</strong> What entrepreneurs need to know about customers, competitors, market industry and the government policy and regulation depends on...</span></p>\n",
+          "type": "mcq",
+          "validation": {
+            "scoring_type": "exactMatch",
+            "valid_response": {
+              "score": 1,
+              "value": [
+                "2"
+              ]
+            }
+          },
+          "ui_style": {
+            "type": "horizontal"
+          },
+          "shuffle_options": true
+        },
+        "metadata": {
+          "name": "Multiple choice – standard",
+          "template_reference": "9e8149bd-e4d8-4dd6-a751-1a113a4b9163"
+        }
+      },
+      "feedbackInfo": [
+        {
+          "id": "0707_26f17ed6-8e3a-4817-9bf3-d158ea562724_070cf3dc-7e35-4c0e-8df7-afd6de9ac3fb_5469c17b16dfe232c397a86c2b44595e",
+          "user_id": "26f17ed6-8e3a-4817-9bf3-d158ea562724",
+          "response_id": "070cf3dc-7e35-4c0e-8df7-afd6de9ac3fb_5469c17b16dfe232c397a86c2b44595e",
+          "type": "longtextV2",
+          "question": {
+            "type": "longtextV2",
+            "metadata": {
+              "source": {
+                "organisation_id": 755
+              },
+              "sheet_reference": "default_feedback",
+              "widget_reference": "de082b5f-742a-4ecf-82ca-4dc86e218fec",
+              "valid_response_count": 0
+            },
+            "stimulus": "Written feedback:",
+            "response_id": "070cf3dc-7e35-4c0e-8df7-afd6de9ac3fb_5469c17b16dfe232c397a86c2b44595e",
+            "show_word_count": false,
+            "show_word_limit": "off"
+          },
+          "response": null,
+          "creation_date": "2021-12-09 12:01:37",
+          "mod_date": "2021-12-09 12:04:13",
+          "persist_until": "2024-12-08 12:01:37",
+          "saved": true
+        },
+        null
+      ]
+    },
+    {
+      "response_id": "070cf3dc-7e35-4c0e-8df7-afd6de9ac3fb_169dec83022a42340171ba08f342a338",
+      "question_type": "mcq",
+      "dt_score_updated": "2021-12-09T09:28:18Z",
+      "automarkable": true,
+      "attempted": true,
+      "score": 0,
+      "max_score": 1,
+      "question_reference": "f9503078-dbaf-4ec0-88e2-8849964ee3e7",
+      "item_reference": "646bdf35-823f-48c4-a08c-41492a1e065a",
+      "response": {
+        "value": [
+          "2"
+        ],
+        "type": "array",
+        "apiVersion": "v2.168.14",
+        "revision": 1
+      },
+      "questionInfo": {
+        "type": "mcq",
+        "widget_type": "response",
+        "reference": "f9503078-dbaf-4ec0-88e2-8849964ee3e7",
+        "data": {
+          "options": [
+            {
+              "label": "are known",
+              "value": "0"
+            },
+            {
+              "label": "help accomplish goals",
+              "value": "1"
+            },
+            {
+              "label": "can't be analysed",
+              "value": "2"
+            }
+          ],
+          "stimulus": "<span style=\"font-size:1.3em;\"><strong>7.2.</strong> When an entrepreneur explores a market niche that is <u>well-formed</u>, most of these conditions...</span>",
+          "type": "mcq",
+          "validation": {
+            "scoring_type": "exactMatch",
+            "valid_response": {
+              "score": 1,
+              "value": [
+                "0"
+              ]
+            }
+          },
+          "ui_style": {
+            "type": "horizontal"
+          },
+          "shuffle_options": true
+        },
+        "metadata": {
+          "name": "Multiple choice – standard",
+          "template_reference": "9e8149bd-e4d8-4dd6-a751-1a113a4b9163"
+        }
+      },
+      "feedbackInfo": [
+        {
+          "id": "0707_26f17ed6-8e3a-4817-9bf3-d158ea562724_070cf3dc-7e35-4c0e-8df7-afd6de9ac3fb_aaf7c5f9cf5e2c87867f48d750000143",
+          "user_id": "26f17ed6-8e3a-4817-9bf3-d158ea562724",
+          "response_id": "070cf3dc-7e35-4c0e-8df7-afd6de9ac3fb_aaf7c5f9cf5e2c87867f48d750000143",
+          "type": "longtextV2",
+          "question": {
+            "type": "longtextV2",
+            "metadata": {
+              "source": {
+                "organisation_id": 755
+              },
+              "sheet_reference": "default_feedback",
+              "widget_reference": "de082b5f-742a-4ecf-82ca-4dc86e218fec",
+              "valid_response_count": 0
+            },
+            "stimulus": "Written feedback:",
+            "response_id": "070cf3dc-7e35-4c0e-8df7-afd6de9ac3fb_aaf7c5f9cf5e2c87867f48d750000143",
+            "show_word_count": false,
+            "show_word_limit": "off"
+          },
+          "response": null,
+          "creation_date": "2021-12-09 12:01:38",
+          "mod_date": "2021-12-09 12:04:13",
+          "persist_until": "2024-12-08 12:01:38",
+          "saved": true
+        },
+        null
+      ]
+    },
+    {
+      "response_id": "070cf3dc-7e35-4c0e-8df7-afd6de9ac3fb_4831d43c5f84beb259672dbfeacb7c6e",
+      "question_type": "mcq",
+      "dt_score_updated": "2021-12-09T09:28:43Z",
+      "automarkable": true,
+      "attempted": true,
+      "score": 0,
+      "max_score": 1,
+      "question_reference": "d568d2c6-e610-4c3e-8bc6-c30fa3ea75b9",
+      "item_reference": "646bdf35-823f-48c4-a08c-41492a1e065a",
+      "response": {
+        "value": [
+          "1"
+        ],
+        "type": "array",
+        "apiVersion": "v2.168.14",
+        "revision": 1
+      },
+      "questionInfo": {
+        "type": "mcq",
+        "widget_type": "response",
+        "reference": "d568d2c6-e610-4c3e-8bc6-c30fa3ea75b9",
+        "data": {
+          "options": [
+            {
+              "label": "are known",
+              "value": "0"
+            },
+            {
+              "label": "help accomplish goals",
+              "value": "1"
+            },
+            {
+              "label": "can't be analysed",
+              "value": "2"
+            }
+          ],
+          "stimulus": "<span style=\"font-size:1.3em;\"><strong>7.3.</strong></span> <span style=\"font-size:1.3em;\">When an entrepreneur forms a market niche, most of these conditions...</span>",
+          "type": "mcq",
+          "validation": {
+            "scoring_type": "exactMatch",
+            "valid_response": {
+              "score": 1,
+              "value": [
+                "2"
+              ]
+            }
+          },
+          "ui_style": {
+            "type": "horizontal"
+          },
+          "shuffle_options": true
+        },
+        "metadata": {
+          "name": "Multiple choice – standard",
+          "template_reference": "9e8149bd-e4d8-4dd6-a751-1a113a4b9163"
+        }
+      },
+      "feedbackInfo": [
+        {
+          "id": "0707_26f17ed6-8e3a-4817-9bf3-d158ea562724_070cf3dc-7e35-4c0e-8df7-afd6de9ac3fb_2f255f7e1add019a87e36793569025a7",
+          "user_id": "26f17ed6-8e3a-4817-9bf3-d158ea562724",
+          "response_id": "070cf3dc-7e35-4c0e-8df7-afd6de9ac3fb_2f255f7e1add019a87e36793569025a7",
+          "type": "longtextV2",
+          "question": {
+            "type": "longtextV2",
+            "metadata": {
+              "source": {
+                "organisation_id": 755
+              },
+              "sheet_reference": "default_feedback",
+              "widget_reference": "de082b5f-742a-4ecf-82ca-4dc86e218fec",
+              "valid_response_count": 0
+            },
+            "stimulus": "Written feedback:",
+            "response_id": "070cf3dc-7e35-4c0e-8df7-afd6de9ac3fb_2f255f7e1add019a87e36793569025a7",
+            "show_word_count": false,
+            "show_word_limit": "off"
+          },
+          "response": null,
+          "creation_date": "2021-12-09 12:01:38",
+          "mod_date": "2021-12-09 12:04:13",
+          "persist_until": "2024-12-08 12:01:38",
+          "saved": true
+        },
+        null
+      ]
+    }
+  ]
+}

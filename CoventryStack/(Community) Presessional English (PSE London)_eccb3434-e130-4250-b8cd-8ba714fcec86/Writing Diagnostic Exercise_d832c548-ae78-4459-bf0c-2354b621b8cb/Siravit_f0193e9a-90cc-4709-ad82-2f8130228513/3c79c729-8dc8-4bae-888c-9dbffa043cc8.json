@@ -1,0 +1,114 @@
+{
+  "userId": "f0193e9a-90cc-4709-ad82-2f8130228513",
+  "firstName": "Siravit",
+  "lastName": "Prakaiphetkul",
+  "assigmentId": "d832c548-ae78-4459-bf0c-2354b621b8cb",
+  "assigmentName": "Writing Diagnostic Exercise",
+  "sessionId": "3c79c729-8dc8-4bae-888c-9dbffa043cc8",
+  "email": "prakaiphes@coventry.ac.uk",
+  "spaceId": "eccb3434-e130-4250-b8cd-8ba714fcec86",
+  "spaceName": "(Community) Presessional English (PSE London)",
+  "score": 0,
+  "max_score": 40,
+  "questions": [
+    {
+      "response_id": "3c79c729-8dc8-4bae-888c-9dbffa043cc8_29a59873d64e3761ccb0d29ecca16973",
+      "question_type": "longtextV2",
+      "dt_score_updated": "2023-07-10T16:32:58Z",
+      "automarkable": false,
+      "attempted": true,
+      "score": null,
+      "max_score": 40,
+      "question_reference": "8ce3bee1-48e8-4baa-b2e3-5bf8083389e0",
+      "item_reference": "570ff370-fde4-49bc-959d-b91c3099b1d6",
+      "response": {
+        "value": "<p>The aim of this report is to analyzed the top two transportation choices chosen by students. The report includes either advantages and disadvantages side of bicycle and train. Also, the recommendation to improve each module will be shown at the end of this report.</p><p>Nowadays, pollution problem become to be a many areas. The main causes of this issue is pollution released by vehicles. To reduce pollution from transportation, ride a bike become to be one of the best options. Rather than environmental friendly, cycling can also reduce the transportation cost down significantly and also give further health benefit to the rider through cardio exercise. On the other hand, <!--StartFragment-->bicycle can safe the planet, but its cannot save the time for the rider. To be more precise, by comparing all of the transportation, the result come out to be that bicycle is the slowest among all. Also, after reaching the destination, the sweat would be all over the dress. Moreover, safety issues cannot be overlook. Even on the bike lane, there is a car that break the law and drive through the cycling lane. To reduce the risk on the road, police needed to take charge and make sure their will be no car on the bicycle lane. If the riding lane is safe, the cycler can ride with confident and save more time. Also, adding changing room for student will make it more convenient for biker.  </p><p>The second popular choice of transportation chosen by a students is by train. Due to the mass transportation, train become to be one of the best choice with environmental friendly, fast and convenient. However, the ideal transportation comes with higher price to pay. Not only the expensive tickets, travelling by train comes with other risk such as train cancellation and robbery during rush hour. For example, in London train strikes always happen out of nowhere. To solve the rush hour problem, my recommendation is to start the class later to avoid rush hour. Moreover, the university should offer an information on the student ticket to reduce the cost of transportation.</p>",
+        "wordCount": 347,
+        "type": "string",
+        "apiVersion": "v2.177.28",
+        "revision": 111
+      },
+      "questionInfo": {
+        "type": "longtextV2",
+        "widget_type": "response",
+        "reference": "8ce3bee1-48e8-4baa-b2e3-5bf8083389e0",
+        "data": {
+          "stimulus": "<h2 id=\"yui_3_17_2_1_1628703407776_1784\"><span style=\"color:#0000ff;\"><b id=\"yui_3_17_2_1_1628703407776_2039\">You are going to write a report for your University. </b></span></h2>\n\n<h4><b>You should…</b></h4>\n\n<ul id=\"yui_3_17_2_1_1628703407776_2050\">\n\t<li><span style=\"font-size:1.3em;\">Write about the&nbsp;TWO&nbsp;most popular means of transportation used by students</span></li>\n\t<li><span style=\"font-size:1.3em;\">Discuss the advantages&nbsp;AND&nbsp;disadvantages</span></li>\n\t<li><span style=\"font-size:1.3em;\">Make some recommendations to the university</span></li>\n</ul>\n\n<h5 id=\"yui_3_17_2_1_1628703407776_2051\">&nbsp;</h5>\n\n<h4 id=\"yui_3_17_2_1_1628703407776_2055\"><b id=\"yui_3_17_2_1_1628703407776_2057\">Analyse the information in the table below:</b></h4>\n\n<p><img height=\"285\" src=\"https://assets.learnosity.com/organisations/755/501dfa12-1cf8-4ced-a6ab-aa6ba44e3379.JPG\" width=\"701\" /></p>\n\n<p><img height=\"259\" src=\"https://assets.learnosity.com/organisations/755/2bc31a90-4e37-4aed-8f9c-b1924cc4ec71.JPG\" width=\"699\" /></p>\n\n<h4>&nbsp;</h4>\n\n<h4><span style=\"color:#0000ff;\"><b>Write your report using&nbsp; ALL&nbsp;the information in the table.</b></span></h4>\n\n<h4><span style=\"color:#ff0000;\"><b><u>Write COMPLETE sentences.&nbsp;Do NOT use bullet points.</u></b></span></h4>\n\n<h4><b style=\"\">Use at least&nbsp;ONE&nbsp;of <u>your own ideas</u>&nbsp;</b><b style=\"\">in the recommendations section.</b></h4>\n\n<h4>&nbsp;</h4>\n\n<h4><b>Follow the&nbsp;report structure&nbsp;you can see below:</b></h4>\n\n<p>&nbsp;</p>\n\n<p><img height=\"523\" src=\"https://assets.learnosity.com/organisations/755/2694fd52-288e-4118-90cd-de27f223d78a.JPG\" width=\"400\" /></p>\n\n<h4>&nbsp;</h4>\n\n<h4><b>Write your report in the box below.&nbsp;Start with:&nbsp;</b></h4>\n\n<p><span style=\"font-size:1.3em;\"><i>The aim of this report is to ...</i></span></p>\n",
+          "type": "longtextV2",
+          "formatting_options": [
+            "bold",
+            "italic",
+            "underline",
+            "|",
+            "unorderedList",
+            "orderedList",
+            "redo"
+          ],
+          "validation": {
+            "max_score": 40
+          }
+        },
+        "metadata": {
+          "name": "Essay with rich text",
+          "template_reference": "1e6039f8-0676-495d-aca9-108710a51ce5"
+        }
+      },
+      "feedbackInfo": [
+        {
+          "id": "0707_f0193e9a-90cc-4709-ad82-2f8130228513_3c79c729-8dc8-4bae-888c-9dbffa043cc8_ca33b30c6b6e8b5bbffc01a075e9fd3b",
+          "user_id": "f0193e9a-90cc-4709-ad82-2f8130228513",
+          "response_id": "3c79c729-8dc8-4bae-888c-9dbffa043cc8_ca33b30c6b6e8b5bbffc01a075e9fd3b",
+          "type": "longtextV2",
+          "question": {
+            "type": "longtextV2",
+            "metadata": {
+              "source": {
+                "organisation_id": 755
+              },
+              "sheet_reference": "default_feedback",
+              "widget_reference": "de082b5f-742a-4ecf-82ca-4dc86e218fec",
+              "valid_response_count": 0
+            },
+            "stimulus": "Written feedback:",
+            "response_id": "3c79c729-8dc8-4bae-888c-9dbffa043cc8_ca33b30c6b6e8b5bbffc01a075e9fd3b",
+            "show_word_count": false,
+            "show_word_limit": "off"
+          },
+          "response": null,
+          "creation_date": "2023-07-12 13:56:48",
+          "mod_date": "2023-07-12 13:56:48",
+          "persist_until": "2023-07-13 13:56:48",
+          "saved": false
+        },
+        {
+          "id": "0707_f0193e9a-90cc-4709-ad82-2f8130228513_3c79c729-8dc8-4bae-888c-9dbffa043cc8_d826c09f52d781833499b19ccdecff73",
+          "user_id": "f0193e9a-90cc-4709-ad82-2f8130228513",
+          "response_id": "3c79c729-8dc8-4bae-888c-9dbffa043cc8_d826c09f52d781833499b19ccdecff73",
+          "type": "audio",
+          "question": {
+            "type": "audio",
+            "metadata": {
+              "source": {
+                "organisation_id": 755
+              },
+              "sheet_reference": "default_feedback",
+              "widget_reference": "b2f049b4-bb33-4542-993d-0645ffedda1a",
+              "valid_response_count": 0
+            },
+            "stimulus": "Audio feedback:",
+            "ui_style": {
+              "type": "button"
+            },
+            "max_length": 600,
+            "response_id": "3c79c729-8dc8-4bae-888c-9dbffa043cc8_d826c09f52d781833499b19ccdecff73"
+          },
+          "response": null,
+          "creation_date": "2023-07-12 13:56:48",
+          "mod_date": "2023-07-12 13:56:48",
+          "persist_until": "2023-07-13 13:56:48",
+          "saved": false
+        }
+      ]
+    }
+  ]
+}

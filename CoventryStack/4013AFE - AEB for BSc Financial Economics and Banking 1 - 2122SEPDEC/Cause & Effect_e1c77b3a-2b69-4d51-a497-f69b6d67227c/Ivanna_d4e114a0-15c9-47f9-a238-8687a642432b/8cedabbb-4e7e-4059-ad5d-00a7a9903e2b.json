@@ -1,0 +1,503 @@
+{
+  "userId": "d4e114a0-15c9-47f9-a238-8687a642432b",
+  "firstName": "Ivanna",
+  "lastName": "Kozlovska",
+  "assigmentId": "e1c77b3a-2b69-4d51-a497-f69b6d67227c",
+  "assigmentName": "Cause & Effect",
+  "sessionId": "8cedabbb-4e7e-4059-ad5d-00a7a9903e2b",
+  "email": "kozlovskai@coventry.ac.uk",
+  "spaceId": "668c4019-277b-4640-92c9-ecf302e5ae0e",
+  "spaceName": "4013AFE - AEB for BSc Financial Economics and Banking 1 - 2122SEPDEC",
+  "score": 170,
+  "max_score": 191,
+  "questions": [
+    {
+      "response_id": "8cedabbb-4e7e-4059-ad5d-00a7a9903e2b_ae226e0e81120bb32e83e3feaae057c6",
+      "question_type": "association",
+      "dt_score_updated": "2021-11-16T10:47:54Z",
+      "automarkable": true,
+      "attempted": true,
+      "score": 64,
+      "max_score": 64,
+      "question_reference": "ac369f1c-a585-4fc4-850d-08f368fe324a",
+      "item_reference": "2a0a6185-3477-4278-b1ee-a35eb93f4a90",
+      "response": {
+        "value": [
+          "more innovative ways of learning",
+          "his business failed",
+          "low GDP",
+          "impeding disaster for the planet",
+          "greater sales in China",
+          "more protection from the disease",
+          "low turnovers within the tourism industry",
+          "accessible only for wealthy people"
+        ],
+        "type": "array",
+        "updatedFormat": true,
+        "apiVersion": "v2.168.12",
+        "revision": 10
+      },
+      "questionInfo": {
+        "type": "association",
+        "widget_type": "response",
+        "reference": "ac369f1c-a585-4fc4-850d-08f368fe324a",
+        "data": {
+          "possible_responses": [
+            "more innovative ways of learning",
+            "his business failed",
+            "low GDP",
+            "impeding disaster for the planet",
+            "greater sales in China",
+            "more protection from the disease",
+            "low turnovers within the tourism industry",
+            "accessible only for wealthy people"
+          ],
+          "stimulus": "<p><span style=\"font-size:1.3em;\"><strong>Exercise 1. Matching.&nbsp;</strong></span></p>\n\n<p>Match the causes with the results.</p>\n",
+          "stimulus_list": [
+            "technological advancement in education",
+            "he didn’t do market research",
+            "unemployment and high government taxes",
+            "no reaction to the climate change",
+            "advertising on platforms like Weibo or WeChat",
+            "majority of the population vaccinated",
+            "limited travel during the Covid19 pandemic",
+            "haute couture fashion items are very expensive"
+          ],
+          "type": "association",
+          "validation": {
+            "scoring_type": "partialMatch",
+            "valid_response": {
+              "score": 8,
+              "value": [
+                "more innovative ways of learning",
+                "his business failed",
+                "low GDP",
+                "impeding disaster for the planet",
+                "greater sales in China",
+                "more protection from the disease",
+                "low turnovers within the tourism industry",
+                "accessible only for wealthy people"
+              ]
+            }
+          },
+          "shuffle_options": true
+        },
+        "metadata": {
+          "name": "Match list",
+          "template_reference": "1fa22aac-1f88-47f7-941b-3c77759549e6"
+        }
+      },
+      "feedbackInfo": [
+        null,
+        null
+      ]
+    },
+    {
+      "response_id": "8cedabbb-4e7e-4059-ad5d-00a7a9903e2b_3d59424123536d1dd051bf8eda4de909",
+      "question_type": "clozedropdown",
+      "dt_score_updated": "2021-11-16T10:48:24Z",
+      "automarkable": true,
+      "attempted": true,
+      "score": 20,
+      "max_score": 25,
+      "question_reference": "0511c147-ccff-420a-a08d-926897c153d0",
+      "item_reference": "2a0a6185-3477-4278-b1ee-a35eb93f4a90",
+      "response": {
+        "value": [
+          "lead",
+          "As a result",
+          "therefore",
+          "due to",
+          "result in"
+        ],
+        "type": "array",
+        "apiVersion": "v2.168.12",
+        "revision": 5
+      },
+      "questionInfo": {
+        "type": "clozedropdown",
+        "widget_type": "response",
+        "reference": "0511c147-ccff-420a-a08d-926897c153d0",
+        "data": {
+          "possible_responses": [
+            [
+              "lead",
+              "consequently",
+              "resulted"
+            ],
+            [
+              "Produced by",
+              "As a result",
+              "The reason for"
+            ],
+            [
+              "as",
+              "result of",
+              "therefore"
+            ],
+            [
+              "be produced by",
+              "due to",
+              "reason for"
+            ],
+            [
+              "a consequence of",
+              "result in",
+              "source of"
+            ]
+          ],
+          "response_container": {
+            "pointer": "left"
+          },
+          "stimulus": "<p><span style=\"font-size:1.3em;\"><b>Exercise 2. Multiple Choice.</b></span></p>\n\n<p>Choose the best option.</p>\n",
+          "template": "<p>1. Delivery problems&nbsp;{{response}}&nbsp;to the fall of orders in the second quarter.</p>\n\n<p>2.&nbsp;{{response}}&nbsp;of the general strike, the factory management resigned.</p>\n\n<p>3. The shipping costs went up;&nbsp;{{response}}&nbsp;we had to increase the product price.</p>\n\n<p>4. More people started working from home&nbsp;{{response}}&nbsp;the changes brought about by the Covid 19 pandemic.</p>\n\n<p>5. The panic buying of gasoline was&nbsp;{{response}}&nbsp;misleading media coverage.</p>\n",
+          "type": "clozedropdown",
+          "case_sensitive": true,
+          "validation": {
+            "scoring_type": "partialMatch",
+            "valid_response": {
+              "score": 5,
+              "value": [
+                "lead",
+                "As a result",
+                "therefore",
+                "due to",
+                "a consequence of"
+              ]
+            }
+          },
+          "shuffle_options": true
+        },
+        "metadata": {
+          "name": "Cloze with drop down",
+          "template_reference": "2fbba51b-e35e-441f-83c7-2662e2e81fa6"
+        }
+      },
+      "feedbackInfo": [
+        null,
+        null
+      ]
+    },
+    {
+      "response_id": "8cedabbb-4e7e-4059-ad5d-00a7a9903e2b_29f13e61a823b80bc3502d1d9e376dd1",
+      "question_type": "clozeassociation",
+      "dt_score_updated": "2021-11-16T10:48:59Z",
+      "automarkable": true,
+      "attempted": true,
+      "score": 16,
+      "max_score": 16,
+      "question_reference": "9602154b-91b4-453a-b21a-a579288abf38",
+      "item_reference": "2a0a6185-3477-4278-b1ee-a35eb93f4a90",
+      "response": {
+        "value": [
+          "As",
+          "a",
+          "result",
+          "of"
+        ],
+        "type": "array",
+        "apiVersion": "v2.168.12",
+        "revision": 1
+      },
+      "questionInfo": {
+        "type": "clozeassociation",
+        "widget_type": "response",
+        "reference": "9602154b-91b4-453a-b21a-a579288abf38",
+        "data": {
+          "possible_responses": [
+            "As",
+            "a",
+            "result",
+            "of"
+          ],
+          "response_container": {
+            "pointer": "left"
+          },
+          "stimulus": "<p><span style=\"font-size:1.3em;\"><strong>Exercise 3. Word Order.</strong></span></p>\n\n<p>Put the words in the correct order.</p>\n\n<p>1.</p>\n",
+          "template": "&nbsp;{{response}}{{response}}{{response}}{{response}}&nbsp;his actions, the team didn't finish the project on time.",
+          "type": "clozeassociation",
+          "case_sensitive": true,
+          "validation": {
+            "scoring_type": "partialMatch",
+            "valid_response": {
+              "score": 4,
+              "value": [
+                "As",
+                "a",
+                "result",
+                "of"
+              ]
+            }
+          },
+          "shuffle_options": true
+        },
+        "metadata": {
+          "name": "Cloze with drag & drop",
+          "template_reference": "51a8c1e7-f34f-4faf-b211-da458e891fcb"
+        }
+      },
+      "feedbackInfo": [
+        null,
+        null
+      ]
+    },
+    {
+      "response_id": "8cedabbb-4e7e-4059-ad5d-00a7a9903e2b_e6b999f9ba899128eaffb35d1784aeab",
+      "question_type": "clozeassociation",
+      "dt_score_updated": "2021-11-16T10:49:04Z",
+      "automarkable": true,
+      "attempted": true,
+      "score": 0,
+      "max_score": 16,
+      "question_reference": "818468cd-5341-4426-9787-7dc55bd901dc",
+      "item_reference": "2a0a6185-3477-4278-b1ee-a35eb93f4a90",
+      "response": {
+        "value": [
+          "his",
+          "promoted",
+          "because",
+          "of&nbsp;"
+        ],
+        "type": "array",
+        "apiVersion": "v2.168.12",
+        "revision": 1
+      },
+      "questionInfo": {
+        "type": "clozeassociation",
+        "widget_type": "response",
+        "reference": "818468cd-5341-4426-9787-7dc55bd901dc",
+        "data": {
+          "possible_responses": [
+            "promoted",
+            "because",
+            "of&nbsp;",
+            "his"
+          ],
+          "response_container": {
+            "pointer": "left"
+          },
+          "stimulus": "2.",
+          "template": "He got&nbsp;{{response}}{{response}}{{response}}{{response}} hard work.",
+          "type": "clozeassociation",
+          "case_sensitive": true,
+          "validation": {
+            "scoring_type": "partialMatch",
+            "valid_response": {
+              "score": 4,
+              "value": [
+                "promoted",
+                "because",
+                "of&nbsp;",
+                "his"
+              ]
+            }
+          },
+          "shuffle_options": true
+        },
+        "metadata": {
+          "name": "Cloze with drag & drop",
+          "template_reference": "51a8c1e7-f34f-4faf-b211-da458e891fcb"
+        }
+      },
+      "feedbackInfo": [
+        null,
+        null
+      ]
+    },
+    {
+      "response_id": "8cedabbb-4e7e-4059-ad5d-00a7a9903e2b_35db96e5d04628b3b151ca5257f22bb1",
+      "question_type": "clozeassociation",
+      "dt_score_updated": "2021-11-16T10:49:19Z",
+      "automarkable": true,
+      "attempted": true,
+      "score": 9,
+      "max_score": 9,
+      "question_reference": "0a06ad8b-19c7-467a-8d3c-970ba60af918",
+      "item_reference": "2a0a6185-3477-4278-b1ee-a35eb93f4a90",
+      "response": {
+        "value": [
+          "towards",
+          "her",
+          "since"
+        ],
+        "type": "array",
+        "apiVersion": "v2.168.12",
+        "revision": 1
+      },
+      "questionInfo": {
+        "type": "clozeassociation",
+        "widget_type": "response",
+        "reference": "0a06ad8b-19c7-467a-8d3c-970ba60af918",
+        "data": {
+          "possible_responses": [
+            "towards",
+            "her",
+            "since"
+          ],
+          "response_container": {
+            "pointer": "left"
+          },
+          "stimulus": "3.",
+          "template": "Everyone felt sympathetic&nbsp;{{response}}{{response}}{{response}}&nbsp;she lost her job.",
+          "type": "clozeassociation",
+          "case_sensitive": true,
+          "validation": {
+            "scoring_type": "partialMatch",
+            "valid_response": {
+              "score": 3,
+              "value": [
+                "towards",
+                "her",
+                "since"
+              ]
+            }
+          },
+          "shuffle_options": true
+        },
+        "metadata": {
+          "name": "Cloze with drag & drop",
+          "template_reference": "51a8c1e7-f34f-4faf-b211-da458e891fcb"
+        }
+      },
+      "feedbackInfo": [
+        null,
+        null
+      ]
+    },
+    {
+      "response_id": "8cedabbb-4e7e-4059-ad5d-00a7a9903e2b_3d8ac64fe17516068f34a91316c8b3b2",
+      "question_type": "clozeassociation",
+      "dt_score_updated": "2021-11-16T10:49:50Z",
+      "automarkable": true,
+      "attempted": true,
+      "score": 25,
+      "max_score": 25,
+      "question_reference": "f2757fc3-bc8e-478f-8fee-1dba276ead8f",
+      "item_reference": "2a0a6185-3477-4278-b1ee-a35eb93f4a90",
+      "response": {
+        "value": [
+          "campaign",
+          "seems",
+          "to",
+          "have",
+          "resulted"
+        ],
+        "type": "array",
+        "apiVersion": "v2.168.12",
+        "revision": 1
+      },
+      "questionInfo": {
+        "type": "clozeassociation",
+        "widget_type": "response",
+        "reference": "f2757fc3-bc8e-478f-8fee-1dba276ead8f",
+        "data": {
+          "possible_responses": [
+            "campaign",
+            "resulted",
+            "seems",
+            "to",
+            "have"
+          ],
+          "response_container": {
+            "pointer": "left"
+          },
+          "stimulus": "4.",
+          "template": "The advertising&nbsp;{{response}}{{response}}{{response}}{{response}}{{response}}&nbsp;in higher sales.",
+          "type": "clozeassociation",
+          "case_sensitive": true,
+          "validation": {
+            "scoring_type": "partialMatch",
+            "valid_response": {
+              "score": 5,
+              "value": [
+                "campaign",
+                "seems",
+                "to",
+                "have",
+                "resulted"
+              ]
+            }
+          },
+          "shuffle_options": true
+        },
+        "metadata": {
+          "name": "Cloze with drag & drop",
+          "template_reference": "51a8c1e7-f34f-4faf-b211-da458e891fcb"
+        }
+      },
+      "feedbackInfo": [
+        null,
+        null
+      ]
+    },
+    {
+      "response_id": "8cedabbb-4e7e-4059-ad5d-00a7a9903e2b_5b423625d2a7918d760ea50be2af1358",
+      "question_type": "clozeassociation",
+      "dt_score_updated": "2021-11-16T10:49:40Z",
+      "automarkable": true,
+      "attempted": true,
+      "score": 36,
+      "max_score": 36,
+      "question_reference": "883c8b67-12b0-4ac1-94ad-7f6a6dde6f57",
+      "item_reference": "2a0a6185-3477-4278-b1ee-a35eb93f4a90",
+      "response": {
+        "value": [
+          "The",
+          "reason",
+          "for",
+          "the",
+          "delay",
+          "could"
+        ],
+        "type": "array",
+        "apiVersion": "v2.168.12",
+        "revision": 2
+      },
+      "questionInfo": {
+        "type": "clozeassociation",
+        "widget_type": "response",
+        "reference": "883c8b67-12b0-4ac1-94ad-7f6a6dde6f57",
+        "data": {
+          "possible_responses": [
+            "The",
+            "reason",
+            "for",
+            "the",
+            "delay",
+            "could"
+          ],
+          "response_container": {
+            "pointer": "left"
+          },
+          "stimulus": "5.",
+          "template": "{{response}}{{response}}{{response}}{{response}}{{response}}{{response}}&nbsp;be related to the delivery problems.",
+          "type": "clozeassociation",
+          "case_sensitive": true,
+          "validation": {
+            "scoring_type": "partialMatch",
+            "valid_response": {
+              "score": 6,
+              "value": [
+                "The",
+                "reason",
+                "for",
+                "the",
+                "delay",
+                "could"
+              ]
+            }
+          },
+          "shuffle_options": true
+        },
+        "metadata": {
+          "name": "Cloze with drag & drop",
+          "template_reference": "51a8c1e7-f34f-4faf-b211-da458e891fcb"
+        }
+      },
+      "feedbackInfo": [
+        null,
+        null
+      ]
+    }
+  ]
+}

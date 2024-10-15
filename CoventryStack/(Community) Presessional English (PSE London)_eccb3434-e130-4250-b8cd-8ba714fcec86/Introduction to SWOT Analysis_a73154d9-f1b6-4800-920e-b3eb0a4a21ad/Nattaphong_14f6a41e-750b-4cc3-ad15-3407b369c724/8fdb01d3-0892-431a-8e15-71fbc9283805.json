@@ -1,0 +1,618 @@
+{
+  "userId": "14f6a41e-750b-4cc3-ad15-3407b369c724",
+  "firstName": "Nattaphong",
+  "lastName": "Phiphatanaphong",
+  "assigmentId": "a73154d9-f1b6-4800-920e-b3eb0a4a21ad",
+  "assigmentName": "Introduction to SWOT Analysis",
+  "sessionId": "8fdb01d3-0892-431a-8e15-71fbc9283805",
+  "email": "phiphatann@coventry.ac.uk",
+  "spaceId": "eccb3434-e130-4250-b8cd-8ba714fcec86",
+  "spaceName": "(Community) Presessional English (PSE London)",
+  "score": 20,
+  "max_score": 20,
+  "questions": [
+    {
+      "response_id": "8fdb01d3-0892-431a-8e15-71fbc9283805_318b4cf72ed7a48bbd690fb3c932f468",
+      "question_type": "clozedropdown",
+      "dt_score_updated": "2023-11-10T16:09:39Z",
+      "automarkable": false,
+      "attempted": true,
+      "score": null,
+      "max_score": null,
+      "question_reference": "c4b3ec31-c3d0-4b66-882b-346f2c7cee8d",
+      "item_reference": "900acef2-054c-4af0-a405-d1dca928ae04",
+      "response": {
+        "value": [
+          "Strengths, Weakness, Opportunities, Threats"
+        ],
+        "type": "array",
+        "apiVersion": "v2.192.17",
+        "revision": 1
+      },
+      "questionInfo": {
+        "type": "clozedropdown",
+        "widget_type": "response",
+        "reference": "c4b3ec31-c3d0-4b66-882b-346f2c7cee8d",
+        "data": {
+          "possible_responses": [
+            [
+              "Social Ways of Overcoming Tourism",
+              "Sudden Weaknesses, Outstanding Threats",
+              "Staff, Warehouse, Outlet, Traffic",
+              "Strengths, Weakness, Opportunities, Threats"
+            ]
+          ],
+          "response_container": {
+            "pointer": "left"
+          },
+          "stimulus": "<h2><span style=\"color:#b22222;\"><b id=\"yui_3_17_2_1_1634312290110_3289\">Let's start by&nbsp;predicting&nbsp;what the lesson is about...</b></span></h2>\n\n<p><img height=\"154\" src=\"https://assets.learnosity.com/organisations/755/2d4e00cf-a1a1-4f69-af3a-de33aff671c0.jpg\" width=\"180\"></p>\n\n<h4>&nbsp;</h4>\n\n<h4 id=\"yui_3_17_2_1_1634312290110_3315\"><b id=\"yui_3_17_2_1_1634312290110_3313\">1.What do you think SWOT means?</b></h4>\n\n<p><img height=\"120\" src=\"https://assets.learnosity.com/organisations/755/fda115b5-eb4b-4d78-bfeb-43e16d895c27.jpg\" width=\"399\"></p>\n",
+          "template": "<span style=\"font-size:1.3em;\"><span style=\"color:#b22222;\">►&nbsp;</span>{{response}}</span>",
+          "type": "clozedropdown",
+          "case_sensitive": true,
+          "validation": {
+            "scoring_type": "exactMatch",
+            "valid_response": {
+              "score": 1,
+              "value": [
+                null
+              ]
+            }
+          },
+          "instant_feedback": true,
+          "shuffle_options": true
+        },
+        "metadata": {
+          "name": "Cloze with drop down",
+          "template_reference": "2fbba51b-e35e-441f-83c7-2662e2e81fa6"
+        }
+      },
+      "feedbackInfo": [
+        null,
+        null
+      ]
+    },
+    {
+      "response_id": "8fdb01d3-0892-431a-8e15-71fbc9283805_a6ba27d5ae4badf483200603781a596c",
+      "question_type": "mcq",
+      "dt_score_updated": "2023-11-10T16:09:53Z",
+      "automarkable": true,
+      "attempted": true,
+      "score": 1,
+      "max_score": 1,
+      "question_reference": "8d20167e-2680-47a5-a94b-d5a98a1fa484",
+      "item_reference": "900acef2-054c-4af0-a405-d1dca928ae04",
+      "response": {
+        "value": [
+          "0"
+        ],
+        "type": "array",
+        "apiVersion": "v2.192.17",
+        "revision": 1
+      },
+      "questionInfo": {
+        "type": "mcq",
+        "widget_type": "response",
+        "reference": "8d20167e-2680-47a5-a94b-d5a98a1fa484",
+        "data": {
+          "options": [
+            {
+              "label": "<span style=\"font-size:1.1em;\">they are things that the company has some control over and can change</span>",
+              "value": "0"
+            },
+            {
+              "label": "<span style=\"font-size:1.1em;\">they are things that only happen in your country</span>",
+              "value": "1"
+            }
+          ],
+          "stimulus": "<p>&nbsp;</p>\n\n<p>&nbsp;</p>\n\n<div class=\"lrn-well\"><span style=\"font-size:1.3em;\"><b>2. Strengths and Weaknesses are <span style=\"color:#0000cd;\">INTERNAL </span>factors because...</b></span></div>\n",
+          "type": "mcq",
+          "ui_style": {
+            "choice_label": "upper-alpha",
+            "type": "block"
+          },
+          "validation": {
+            "scoring_type": "exactMatch",
+            "valid_response": {
+              "score": 1,
+              "value": [
+                "0"
+              ]
+            }
+          },
+          "instant_feedback": true,
+          "shuffle_options": true
+        },
+        "metadata": {
+          "name": "Multiple choice – block layout",
+          "template_reference": "33d53a22-1a59-4a03-9671-7f5104edd62e"
+        }
+      },
+      "feedbackInfo": [
+        null,
+        null
+      ]
+    },
+    {
+      "response_id": "8fdb01d3-0892-431a-8e15-71fbc9283805_50f27cebb86b4ec5855ef986ccef4f35",
+      "question_type": "mcq",
+      "dt_score_updated": "2023-11-10T16:10:07Z",
+      "automarkable": true,
+      "attempted": true,
+      "score": 1,
+      "max_score": 1,
+      "question_reference": "540a474a-1463-4251-b233-3cd92aa84b6d",
+      "item_reference": "900acef2-054c-4af0-a405-d1dca928ae04",
+      "response": {
+        "value": [
+          "0"
+        ],
+        "type": "array",
+        "apiVersion": "v2.192.17",
+        "revision": 1,
+        "feedbackAttemptsCount": 1
+      },
+      "questionInfo": {
+        "type": "mcq",
+        "widget_type": "response",
+        "reference": "540a474a-1463-4251-b233-3cd92aa84b6d",
+        "data": {
+          "options": [
+            {
+              "label": "<span style=\"font-size:1.1em;\">they are things that are going on outside the company, in the larger market</span>",
+              "value": "0"
+            },
+            {
+              "label": "<span style=\"font-size:1.1em;\">they are things that only happen outside your country</span>",
+              "value": "1"
+            }
+          ],
+          "stimulus": "<div class=\"lrn-well\"><span style=\"font-size:1.3em;\"><b>3. Opportunities and Strengths are&nbsp;<span style=\"color:#0000cd;\">EXTERNAL</span>&nbsp;factors because...</b></span></div>\n",
+          "type": "mcq",
+          "ui_style": {
+            "choice_label": "upper-alpha",
+            "type": "block"
+          },
+          "validation": {
+            "scoring_type": "exactMatch",
+            "valid_response": {
+              "score": 1,
+              "value": [
+                "0"
+              ]
+            }
+          },
+          "instant_feedback": true,
+          "shuffle_options": true
+        },
+        "metadata": {
+          "name": "Multiple choice – block layout",
+          "template_reference": "33d53a22-1a59-4a03-9671-7f5104edd62e"
+        }
+      },
+      "feedbackInfo": [
+        null,
+        null
+      ]
+    },
+    {
+      "response_id": "8fdb01d3-0892-431a-8e15-71fbc9283805_67ec943e62a58e76b81dec5446b59786",
+      "question_type": "association",
+      "dt_score_updated": "2023-11-10T16:10:36Z",
+      "automarkable": true,
+      "attempted": true,
+      "score": 4,
+      "max_score": 4,
+      "question_reference": "eb3e3fcc-78ac-468b-89ba-b65b8700f5e4",
+      "item_reference": "2113b8da-9def-40fb-91e2-d00eb52a555b",
+      "response": {
+        "value": [
+          "things that your company is good at",
+          "things that your company does not do well",
+          "things that are happening in the market that can help your company",
+          "things that are happening in the market that can cause problems for your company"
+        ],
+        "type": "array",
+        "updatedFormat": true,
+        "apiVersion": "v2.192.17",
+        "revision": 2
+      },
+      "questionInfo": {
+        "type": "association",
+        "widget_type": "response",
+        "reference": "eb3e3fcc-78ac-468b-89ba-b65b8700f5e4",
+        "data": {
+          "possible_responses": [
+            "things that are happening in the market that can cause problems for your company",
+            "things that your company is good at",
+            "things that your company does not do well",
+            "things that are happening in the market that can help your company"
+          ],
+          "stimulus": "<h2>&nbsp;</h2>\n\n<h2 id=\"yui_3_17_2_1_1634312591337_167\"><span style=\"color:#0000cd;\"><b id=\"yui_3_17_2_1_1634312591337_166\"><b id=\"yui_3_17_2_1_1634312591337_164\">Match the two parts of the sentences below.</b></b></span></h2>\n\n<p><img height=\"137\" src=\"https://assets.learnosity.com/organisations/755/44145267-ce82-4c00-ac97-bd81c88044d6.jpg\" width=\"201\"></p>\n",
+          "stimulus_list": [
+            "<span style=\"font-size:1.3em;\"><span style=\"color:#008000;\"><strong>STRENGTHS&nbsp;</strong></span>are&nbsp;</span>",
+            "<span style=\"font-size:1.3em;\"><span style=\"color:#ff0000;\"><strong>WEAKNESSES&nbsp;</strong></span>are&nbsp;</span>",
+            "<span style=\"font-size:1.3em;\"><span style=\"color:#008000;\"><strong>OPPORTUNITIES&nbsp;</strong></span>are&nbsp;</span>",
+            "<span style=\"font-size:1.3em;\"><span style=\"color:#ff0000;\"><strong>THREATS&nbsp;</strong></span>are&nbsp;</span>"
+          ],
+          "type": "association",
+          "validation": {
+            "scoring_type": "partialMatchV2",
+            "valid_response": {
+              "score": 4,
+              "value": [
+                "things that your company is good at",
+                "things that your company does not do well",
+                "things that are happening in the market that can help your company",
+                "things that are happening in the market that can cause problems for your company"
+              ]
+            }
+          },
+          "instant_feedback": true
+        },
+        "metadata": {
+          "name": "Match list",
+          "template_reference": "1fa22aac-1f88-47f7-941b-3c77759549e6"
+        }
+      },
+      "feedbackInfo": [
+        null,
+        null
+      ]
+    },
+    {
+      "response_id": "8fdb01d3-0892-431a-8e15-71fbc9283805_fd1bc205a279183324d91f72d257289b",
+      "question_type": "clozedropdown",
+      "dt_score_updated": "2023-11-10T16:17:04Z",
+      "automarkable": true,
+      "attempted": true,
+      "score": 4,
+      "max_score": 4,
+      "question_reference": "dad106bc-41c8-4c59-936f-58429fea0946",
+      "item_reference": "2113b8da-9def-40fb-91e2-d00eb52a555b",
+      "response": {
+        "value": [
+          "Strengths",
+          "Opportunities",
+          "Opportunities",
+          "Strengths"
+        ],
+        "type": "array",
+        "apiVersion": "v2.192.17",
+        "revision": 2,
+        "feedbackAttemptsCount": 1
+      },
+      "questionInfo": {
+        "type": "clozedropdown",
+        "widget_type": "response",
+        "reference": "dad106bc-41c8-4c59-936f-58429fea0946",
+        "data": {
+          "possible_responses": [
+            [
+              "Strengths",
+              "Opportunities"
+            ],
+            [
+              "Strengths",
+              "Opportunities"
+            ],
+            [
+              "Strengths",
+              "Opportunities"
+            ],
+            [
+              "Strengths",
+              "Opportunities"
+            ]
+          ],
+          "response_container": {
+            "pointer": "left"
+          },
+          "stimulus": "<h2><b>The Positive Points:&nbsp;<span style=\"color:#008000;\">Strengths and Opportunities</span>&nbsp;</b></h2>\n\n<p><img height=\"161\" src=\"https://assets.learnosity.com/organisations/755/5c24e302-1ca7-4b7d-9e0a-4f9e0dc5a80a.jpg\" width=\"351\"></p>\n\n<h4><b>Consider the statements below.&nbsp;</b></h4>\n\n<h4><b><span style=\"color:#008000;\">► </span>Are they&nbsp;<span style=\"color:#008000;\">strengths</span>&nbsp;(<u>internal</u> factors) or&nbsp;<span style=\"color:#008000;\">opportunities</span>&nbsp;(<u>external</u> factors)?</b></h4>\n",
+          "template": "<ul id=\"yui_3_17_2_1_1634312951008_3276\">\n\t<li id=\"yui_3_17_2_1_1634312951008_3301\"><strong><span style=\"font-size:1.3em;\">Advantages that your organization has. {{response}}</span></strong></li>\n\t<li id=\"yui_3_17_2_1_1634312951008_3305\"><strong><span style=\"font-size:1.3em;\">Interesting trends that are happening in the market. {{response}}</span></strong></li>\n\t<li id=\"yui_3_17_2_1_1634312951008_3308\"><strong><span style=\"font-size:1.3em;\">Changes in technology that can help your company. {{response}}</span></strong></li>\n\t<li id=\"yui_3_17_2_1_1634312951008_3312\"><span style=\"font-size:1.3em;\"><strong>Things your company does better than anyone else. {{response}}</strong></span></li>\n</ul>\n",
+          "type": "clozedropdown",
+          "case_sensitive": true,
+          "validation": {
+            "scoring_type": "partialMatchV2",
+            "valid_response": {
+              "score": 4,
+              "value": [
+                "Strengths",
+                "Opportunities",
+                "Opportunities",
+                "Strengths"
+              ]
+            }
+          },
+          "instant_feedback": true
+        },
+        "metadata": {
+          "name": "Cloze with drop down",
+          "template_reference": "2fbba51b-e35e-441f-83c7-2662e2e81fa6"
+        }
+      },
+      "feedbackInfo": [
+        null,
+        null
+      ]
+    },
+    {
+      "response_id": "8fdb01d3-0892-431a-8e15-71fbc9283805_449bd08b25167734415c62d2a67ed0f1",
+      "question_type": "clozedropdown",
+      "dt_score_updated": "2023-11-10T16:17:32Z",
+      "automarkable": true,
+      "attempted": true,
+      "score": 1,
+      "max_score": 1,
+      "question_reference": "3f8aa847-8ed2-4a17-ba7b-fb632899e9ee",
+      "item_reference": "2113b8da-9def-40fb-91e2-d00eb52a555b",
+      "response": {
+        "value": [
+          "Threats",
+          "Threats",
+          "Weaknesses",
+          "Weaknesses"
+        ],
+        "type": "array",
+        "apiVersion": "v2.192.17",
+        "revision": 2
+      },
+      "questionInfo": {
+        "type": "clozedropdown",
+        "widget_type": "response",
+        "reference": "3f8aa847-8ed2-4a17-ba7b-fb632899e9ee",
+        "data": {
+          "possible_responses": [
+            [
+              "Weaknesses",
+              "Threats"
+            ],
+            [
+              "Weaknesses",
+              "Threats"
+            ],
+            [
+              "Weaknesses",
+              "Threats"
+            ],
+            [
+              "Weaknesses",
+              "Threats"
+            ]
+          ],
+          "response_container": {
+            "pointer": "left"
+          },
+          "stimulus": "<h2><span style=\"color:#ff0000;\"><b>The Negative Points:&nbsp;Weaknesses and Threats&nbsp;&nbsp;</b></span></h2>\n\n<p><img height=\"167\" src=\"https://assets.learnosity.com/organisations/755/b0df46a8-70a9-46f8-9b8d-3e3574c19668.jpg\" width=\"350\" /></p>\n\n<h4><b>Consider the statements below.&nbsp;</b></h4>\n\n<h4><b><span style=\"color:#ff0000;\">► </span>Are they&nbsp;<span style=\"color:#ff0000;\">weaknesses&nbsp;</span>(<u>internal</u> factors) or&nbsp;<span style=\"color:#ff0000;\">threats&nbsp;</span>(<u>external</u> factors)?</b></h4>\n",
+          "template": "<ul>\n\t<li><span style=\"font-size:1.3em;\"><strong>Changes in regulations that can cause problems to your company.&nbsp;</strong>{{response}}</span></li>\n\t<li><span style=\"font-size:1.3em;\"><strong>What your competitors are doing. </strong>{{response}}</span></li>\n\t<li><span style=\"font-size:1.3em;\"><strong>Things that needs to be changed in your company. </strong>{{response}}</span></li>\n\t<li><span style=\"font-size:1.3em;\"><strong>Parts of your company that need to improve. </strong>{{response}}</span><strong><span style=\"font-size:1.3em;\"></span></strong></li>\n</ul>\n",
+          "type": "clozedropdown",
+          "case_sensitive": true,
+          "validation": {
+            "scoring_type": "partialMatchV2",
+            "valid_response": {
+              "score": 1,
+              "value": [
+                "Threats",
+                "Threats",
+                "Weaknesses",
+                "Weaknesses"
+              ]
+            }
+          },
+          "instant_feedback": true
+        },
+        "metadata": {
+          "name": "Cloze with drop down",
+          "template_reference": "2fbba51b-e35e-441f-83c7-2662e2e81fa6"
+        }
+      },
+      "feedbackInfo": [
+        null,
+        null
+      ]
+    },
+    {
+      "response_id": "8fdb01d3-0892-431a-8e15-71fbc9283805_81c0e1501f451774424dcf0a5b9e78f7",
+      "question_type": "mcq",
+      "dt_score_updated": "2023-11-10T16:17:46Z",
+      "automarkable": true,
+      "attempted": true,
+      "score": 1,
+      "max_score": 1,
+      "question_reference": "e05267ad-c539-4657-82df-8e9176d0ca59",
+      "item_reference": "5f17df18-b04d-4e80-9d0a-45f525c33cc1",
+      "response": {
+        "value": [
+          "2"
+        ],
+        "type": "array",
+        "apiVersion": "v2.192.17",
+        "revision": 1,
+        "feedbackAttemptsCount": 1
+      },
+      "questionInfo": {
+        "type": "mcq",
+        "widget_type": "response",
+        "reference": "e05267ad-c539-4657-82df-8e9176d0ca59",
+        "data": {
+          "options": [
+            {
+              "label": "<span style=\"color:#000000;\"><strong><span style=\"font-size:1.1em;\">Introduction</span></strong></span>",
+              "value": "0"
+            },
+            {
+              "label": "<span style=\"color:#000000;\"><span style=\"font-size:1.1em;\"><strong>Research Methods</strong></span></span>",
+              "value": "1"
+            },
+            {
+              "label": "<span style=\"color:#000000;\"><span style=\"font-size:1.1em;\"><strong>Secondary Research</strong></span></span>",
+              "value": "2"
+            },
+            {
+              "label": "<span style=\"color:#000000;\"><span style=\"font-size:1.1em;\"><strong>Conclusion</strong></span></span>",
+              "value": "3"
+            }
+          ],
+          "stimulus": "<h2><span style=\"color:#000000;\"><strong>Consider what you learned in the lesson \"</strong></span><span style=\"color:#b22222;\"><strong>Planning your Market Report</strong></span><span style=\"color:#000000;\"><strong>\".</strong></span></h2>\n\n<p><span style=\"color:#000000;\"><img height=\"150\" src=\"https://assets.learnosity.com/organisations/755/95f9ef2f-8e89-4464-b030-a445c02c9003.jpg\" width=\"175\" /></span></p>\n\n<div class=\"lrn-well\"><span style=\"font-size:1.5em;\"><span style=\"color:#000000;\"><strong>In which </strong></span><span style=\"color:#b22222;\"><strong>section </strong></span><span style=\"color:#000000;\"><strong>of the report should you write your SWOT analysis?</strong></span></span></div>\n",
+          "type": "mcq",
+          "ui_style": {
+            "choice_label": "upper-alpha",
+            "type": "block"
+          },
+          "validation": {
+            "scoring_type": "exactMatch",
+            "valid_response": {
+              "score": 1,
+              "value": [
+                "2"
+              ]
+            }
+          },
+          "instant_feedback": true
+        },
+        "metadata": {
+          "name": "Multiple choice – block layout",
+          "template_reference": "33d53a22-1a59-4a03-9671-7f5104edd62e"
+        }
+      },
+      "feedbackInfo": [
+        null,
+        null
+      ]
+    },
+    {
+      "response_id": "8fdb01d3-0892-431a-8e15-71fbc9283805_8b410f552387575037b1184f79355ec0",
+      "question_type": "imageclozeassociationV2",
+      "dt_score_updated": "2023-11-10T16:19:26Z",
+      "automarkable": true,
+      "attempted": true,
+      "score": 8,
+      "max_score": 8,
+      "question_reference": "24ddd1ad-5839-487b-b44e-36414dc5c37a",
+      "item_reference": "5f17df18-b04d-4e80-9d0a-45f525c33cc1",
+      "response": {
+        "value": [
+          [
+            "What does the university / your course offer that is better than any other?",
+            "What advantages does the university / your course have?"
+          ],
+          [
+            "Which parts of your course need to be improved?",
+            "What doesn't the university / your course offer?"
+          ],
+          [
+            "What global changes can help the university / your course?",
+            "What interesting trends are you aware of?"
+          ],
+          [
+            "What global changes can cause problems?",
+            "What are our competitors doing?"
+          ]
+        ],
+        "type": "array",
+        "apiVersion": "v2.192.17",
+        "revision": 5,
+        "feedbackAttemptsCount": 1
+      },
+      "questionInfo": {
+        "type": "imageclozeassociationV2",
+        "widget_type": "response",
+        "reference": "24ddd1ad-5839-487b-b44e-36414dc5c37a",
+        "data": {
+          "image": {
+            "src": "https://assets.learnosity.com/organisations/755/fbb6b004-3c49-4c81-a3b5-4e39587a7ed3.jpg",
+            "width": 900,
+            "height": 294
+          },
+          "possible_responses": [
+            "What advantages does the university / your course have?",
+            "What does the university / your course offer that is better than any other?",
+            "What interesting trends are you aware of?",
+            "What global changes can help the university / your course?",
+            "What doesn't the university / your course offer?",
+            "What global changes can cause problems?",
+            "Which parts of your course need to be improved?",
+            "What are our competitors doing?"
+          ],
+          "response_containers": [
+            {
+              "x": 4.33,
+              "y": 11.9,
+              "width": "35.41%",
+              "height": "41.29%",
+              "aria_label": "",
+              "pointer": "undefined"
+            },
+            {
+              "x": 43.89,
+              "y": 11.9,
+              "width": "35.63%",
+              "height": "40.95%",
+              "aria_label": "",
+              "pointer": "undefined"
+            },
+            {
+              "x": 4.22,
+              "y": 60.88,
+              "width": "35.51%",
+              "height": "38.74%",
+              "aria_label": "",
+              "pointer": "undefined"
+            },
+            {
+              "x": 43.67,
+              "y": 61.22,
+              "aria_label": "",
+              "width": "35.99%",
+              "height": "39.08%",
+              "pointer": "none"
+            }
+          ],
+          "stimulus": "<h3>&nbsp;</h3>\n\n<h3><b>The topic of your <span style=\"color:#0000ff;\">Market Report </span>is&nbsp;<span style=\"color:#0000ff;\">Coventry</span><span style=\"color:#0000ff;\"> University London</span> and <span style=\"color:#0000ff;\">your destination course</span>.</b></h3>\n\n<h4><span style=\"color:#0000cd;\">►&nbsp;</span><b id=\"yui_3_17_2_1_1634313248685_126\">Your SWOT analysis should try to answer these questions:</b></h4>\n\n<p>&nbsp;</p>\n",
+          "type": "imageclozeassociationV2",
+          "case_sensitive": true,
+          "validation": {
+            "scoring_type": "partialMatchV2",
+            "valid_response": {
+              "score": 8,
+              "value": [
+                [
+                  "What does the university / your course offer that is better than any other?",
+                  "What advantages does the university / your course have?"
+                ],
+                [
+                  "Which parts of your course need to be improved?",
+                  "What doesn't the university / your course offer?"
+                ],
+                [
+                  "What interesting trends are you aware of?",
+                  "What global changes can help the university / your course?"
+                ],
+                [
+                  "What global changes can cause problems?",
+                  "What are our competitors doing?"
+                ]
+              ]
+            }
+          },
+          "ui_style": {
+            "show_drag_handle": true
+          },
+          "instant_feedback": true,
+          "shuffle_options": true,
+          "max_response_per_zone": 2,
+          "response_container": {
+            "background_color": "rgba(255, 255, 255, 0)"
+          }
+        },
+        "metadata": {
+          "name": "Label image with drag & drop",
+          "template_reference": "6e77b403-8f0c-43af-b464-9450e1ac70dc"
+        }
+      },
+      "feedbackInfo": [
+        null,
+        null
+      ]
+    }
+  ]
+}

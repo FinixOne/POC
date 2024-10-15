@@ -1,0 +1,84 @@
+{
+  "userId": "3e5d2146-9ae1-470f-bc73-c5ab2b020d68",
+  "firstName": "Laman",
+  "lastName": "Isfandiyarli",
+  "assigmentId": "fd8e4eff-3d4e-4c5c-b057-5ec26896ee6d",
+  "assigmentName": "Writing Diagnostic ",
+  "sessionId": "a2bfd390-ba7d-4f3d-bcab-a23c6c012bda",
+  "email": "isfandiyal@coventry.ac.uk",
+  "spaceId": "eccb3434-e130-4250-b8cd-8ba714fcec86",
+  "spaceName": "(Community) Presessional English (PSE London)",
+  "score": 0,
+  "max_score": 0,
+  "questions": [
+    {
+      "response_id": "a2bfd390-ba7d-4f3d-bcab-a23c6c012bda_3960ce8bd77744307fc18b27d76d6d07",
+      "question_type": "longtextV2",
+      "dt_score_updated": "2021-10-01T12:03:54Z",
+      "automarkable": false,
+      "attempted": true,
+      "score": null,
+      "max_score": null,
+      "question_reference": "24b1d2b5-cdf7-4176-ba7e-23be2cb908ff",
+      "item_reference": "edf392f5-6c77-4644-b270-c7ac129da35d",
+      "response": {
+        "value": "<p>Introduction</p><p>The aims of this report is to discuss 2 of the most popular\ntransportation methods used by students. The report will introduce the methods\nof transportations and analyze their advantages and disadvantages. The report\nwill conclude by providing recommendations to the university regarding these\nmethods of transportation.</p><p>Most Popular Transport:</p><p>The most popular transport method used by students is the\nbike. Students prefer this means of transportation for many reasons. Firstly, using\na bike is very cheap, which is necessary for students as they are on limited\nbudgets, especially international students. Therefore, using a bike would save\nstudents a lot of money. Secondly, biking is a form of exercise, and thus using\nthe bike daily to commute to and from the university will help students\nexercises and stay healthy and in shape. Thirdly, bikes do not emit any gases,\nbecause they do not use fuel as a source of energy, and thus using bikes is\ngood for the environment as it does not pollute the environment.</p><p>On the other hand, there are some disadvantages associated\nwith using a bike, firstly it is difficult to find a parking spot for the bike\nand this creates other problems like risking having the bike stolen. In addition,\nwhile using a bike is cheap and environmentally friendly, it is a slow mode of\ntransportation, and not convenient for long distances. Finally, since biking is\na form of exercise, student usually sweat after biking, and therefore they need\nto change their clothes, which could be very inconvenient.</p><p>Second Most Popular Transport:</p><p><br></p><p>The second most popular mode of transportation used by\nstudents is the train. The train offers many advantages to students, firstly it\nis a quick mode of transportation. Trains are very fast and could get students\naround the city in a matter of minutes. In addition, trains are environmentally\nfriendly, as they run on electricity and do not emit any gases like cars of\nbuses. Finally, students find it convenient to use trains because stations are\nlocated near the university, and thus it is easy for students to catch trains.</p><p>One of the main disadvantages of trains is the expensive\ntrain tickets, especially for students as they are on a limited budget as\nmentioned previously. In addition, trains are often late or sometimes even\ncanceled, which could cause problems for students such as being late to\nclass/home or even getting stuck at the university for a period of time if a\ntrain is canceled. Finally, trains are usually very crowded during rush hours,\nwhich makes it uncomfortable mode of transportation for students, as they have\nto get pushed around inside the train.</p><p>&nbsp;</p><p>Recommendations:</p><p>The modes of transportation discussed above both have their advantages\nand disadvantages, however there are some recommendations which could be taken\ninto consideration by the university to improve the efficiency of these\nmethods. Firstly, regarding bikes, it is important to develop safe spots and\nzones for students to park their bikes and not worry about them. In addition,\nit would also be good if the university offers changing rooms for students who\nneed to change upon arrival to university. In addition, since it is the\npreferred and most convenient mode of transportation for students, the\nuniversity could offer to rent bikes to its students on an annual basis, since\nsome cannot afford them. </p><p>Regarding the trains, the university could push the start\ntimes for classes in order to avoid rush hour and thus students would be more\ncomfortable using the trains. Moreover, the university could work on a student\ncard or pass with the local authorities to provide students with discounted\ntickets to use the train.</p><!--EndFragment--><br>",
+        "wordCount": 606,
+        "type": "string",
+        "apiVersion": "v2.168.9",
+        "revision": 2
+      },
+      "questionInfo": {
+        "type": "longtextV2",
+        "widget_type": "response",
+        "reference": "24b1d2b5-cdf7-4176-ba7e-23be2cb908ff",
+        "data": {
+          "stimulus": "<h2 id=\"yui_3_17_2_1_1628703407776_1784\"><span style=\"color:#0000ff;\"><b id=\"yui_3_17_2_1_1628703407776_2039\">You are going to write a report for your University. </b></span></h2>\n\n<h4><b>You should…</b></h4>\n\n<ul id=\"yui_3_17_2_1_1628703407776_2050\">\n\t<li><span style=\"font-size:1.3em;\">Write about the&nbsp;TWO&nbsp;most popular means of transportation used by students</span></li>\n\t<li><span style=\"font-size:1.3em;\">Discuss the advantages&nbsp;AND&nbsp;disadvantages</span></li>\n\t<li><span style=\"font-size:1.3em;\">Make some recommendations to the university</span></li>\n</ul>\n\n<h5 id=\"yui_3_17_2_1_1628703407776_2051\">&nbsp;</h5>\n\n<h4 id=\"yui_3_17_2_1_1628703407776_2055\"><b id=\"yui_3_17_2_1_1628703407776_2057\">Analyse the information in the table below:</b></h4>\n\n<p><img height=\"285\" src=\"https://assets.learnosity.com/organisations/755/501dfa12-1cf8-4ced-a6ab-aa6ba44e3379.JPG\" width=\"701\"></p>\n\n<p><img height=\"259\" src=\"https://assets.learnosity.com/organisations/755/2bc31a90-4e37-4aed-8f9c-b1924cc4ec71.JPG\" width=\"699\"></p>\n\n<h4>&nbsp;</h4>\n\n<h4><span style=\"color:#0000ff;\"><b>Write your report using the&nbsp;ALL&nbsp;the information in the table.</b></span></h4>\n\n<h4><span style=\"color:#ff0000;\"><b><u>Write COMPLETE sentences.&nbsp;Do NOT use bullet points.</u></b></span></h4>\n\n<h4><b style=\"\">Use at least&nbsp;ONE&nbsp;of <u>your own ideas</u>&nbsp;</b><b style=\"\">in the recommendations section.</b></h4>\n\n<h4>&nbsp;</h4>\n\n<h4><b>Follow the&nbsp;report structure&nbsp;you can see below:</b></h4>\n\n<p>&nbsp;</p>\n\n<p><img height=\"523\" src=\"https://assets.learnosity.com/organisations/755/2694fd52-288e-4118-90cd-de27f223d78a.JPG\" width=\"400\"></p>\n\n<h4>&nbsp;</h4>\n\n<h4><b>Write your report in the box below.&nbsp;Start with:&nbsp;</b></h4>\n\n<p><span style=\"font-size:1.3em;\"><i>The aim of this report is to ...</i></span></p>\n",
+          "type": "longtextV2",
+          "formatting_options": [
+            "bold",
+            "italic",
+            "underline",
+            "|",
+            "unorderedList",
+            "orderedList",
+            "redo"
+          ]
+        },
+        "metadata": {
+          "name": "Essay with rich text",
+          "template_reference": "1e6039f8-0676-495d-aca9-108710a51ce5"
+        }
+      },
+      "feedbackInfo": [
+        {
+          "id": "0707_3e5d2146-9ae1-470f-bc73-c5ab2b020d68_a2bfd390-ba7d-4f3d-bcab-a23c6c012bda_4236ab39b96a55585b476ff5c106c0e3",
+          "user_id": "3e5d2146-9ae1-470f-bc73-c5ab2b020d68",
+          "response_id": "a2bfd390-ba7d-4f3d-bcab-a23c6c012bda_4236ab39b96a55585b476ff5c106c0e3",
+          "type": "longtextV2",
+          "question": {
+            "type": "longtextV2",
+            "metadata": {
+              "source": {
+                "organisation_id": 755
+              },
+              "sheet_reference": "default_feedback",
+              "widget_reference": "de082b5f-742a-4ecf-82ca-4dc86e218fec",
+              "valid_response_count": 0
+            },
+            "stimulus": "Written feedback:",
+            "response_id": "a2bfd390-ba7d-4f3d-bcab-a23c6c012bda_4236ab39b96a55585b476ff5c106c0e3",
+            "show_word_count": false,
+            "show_word_limit": "off"
+          },
+          "response": null,
+          "creation_date": "2021-10-04 10:10:53",
+          "mod_date": "2021-10-04 10:10:53",
+          "persist_until": "2021-10-05 10:10:53",
+          "saved": false
+        },
+        null
+      ]
+    }
+  ]
+}

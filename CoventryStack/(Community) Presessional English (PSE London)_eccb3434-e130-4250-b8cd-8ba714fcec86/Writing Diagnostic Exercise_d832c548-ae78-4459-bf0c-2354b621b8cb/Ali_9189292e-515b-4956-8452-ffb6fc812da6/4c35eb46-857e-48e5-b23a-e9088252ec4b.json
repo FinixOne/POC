@@ -1,0 +1,114 @@
+{
+  "userId": "9189292e-515b-4956-8452-ffb6fc812da6",
+  "firstName": "Ali",
+  "lastName": "Olcay",
+  "assigmentId": "d832c548-ae78-4459-bf0c-2354b621b8cb",
+  "assigmentName": "Writing Diagnostic Exercise",
+  "sessionId": "4c35eb46-857e-48e5-b23a-e9088252ec4b",
+  "email": "olcaya@coventry.ac.uk",
+  "spaceId": "eccb3434-e130-4250-b8cd-8ba714fcec86",
+  "spaceName": "(Community) Presessional English (PSE London)",
+  "score": 0,
+  "max_score": 40,
+  "questions": [
+    {
+      "response_id": "4c35eb46-857e-48e5-b23a-e9088252ec4b_29a59873d64e3761ccb0d29ecca16973",
+      "question_type": "longtextV2",
+      "dt_score_updated": "2023-07-13T21:56:51Z",
+      "automarkable": false,
+      "attempted": true,
+      "score": null,
+      "max_score": 40,
+      "question_reference": "8ce3bee1-48e8-4baa-b2e3-5bf8083389e0",
+      "item_reference": "570ff370-fde4-49bc-959d-b91c3099b1d6",
+      "response": {
+        "value": "<p>The aim of this report is to negotiate the upsides and downsides of the two most popular transportation ways and make suggestions about them to the university.</p><p>To start with, bike is the most common way to come to University because people think that the benefits of bike outweigh the negative sides of it. Looking closely to its advantages, there are three main things which are cheapness, healthiness, and harmlessness for the environment. On the other hand, this option has several minus effects. One of them is people can not drive it safely because of the fact that cars and their careless drivers. In addition, bike is slower than other individual vehicles or public transportation so people using it may be late for the reason. Lastly, people using bike need to change their clothes after going somewhere because they always make an effort to go somewhere.</p><p>When it comes to another popular transportation vehicle, train is used a lot to come to the university by both students and teachers. Train has some tramendous positive sides, one of which is nice in terms of the environment. Another crucial advantage of train is the station is so close to University so that people can come in 5 minutes walk. The last advantage is related to its speed. Because there is no traffic on the way of trains, they never need to wait other vehicles, so they reach the next station fast. Conversely, there are three main disadvantages of trains. Firstly, the costs of tickets are noticeably expensive for most people. Also, trains may be late sometimes which might lead to people being late the lectures. Lastly, if people want to come to University by train in rush hour, they can not find a place to sit and it may be so crowded.</p><p><!--StartFragment--></p><p>To solve these troubles related to bikes University should take action. By building safe places for bikes and changing rooms for drivers these problems can be solved directly. Moreover, University may give students some direct routes and guidelines for bikes to provide better and faster transportation.<br></p><p>In order to cope with problems about trains, University might change the starting time of lectures to avoid the people from rush hours. Furthermore, if a student be late to the class for cancellation, University might accept his/her excuse.</p><!--EndFragment--><br><p><br></p><p><br></p>",
+        "wordCount": 385,
+        "type": "string",
+        "apiVersion": "v2.177.28",
+        "revision": 80
+      },
+      "questionInfo": {
+        "type": "longtextV2",
+        "widget_type": "response",
+        "reference": "8ce3bee1-48e8-4baa-b2e3-5bf8083389e0",
+        "data": {
+          "stimulus": "<h2 id=\"yui_3_17_2_1_1628703407776_1784\"><span style=\"color:#0000ff;\"><b id=\"yui_3_17_2_1_1628703407776_2039\">You are going to write a report for your University. </b></span></h2>\n\n<h4><b>You should…</b></h4>\n\n<ul id=\"yui_3_17_2_1_1628703407776_2050\">\n\t<li><span style=\"font-size:1.3em;\">Write about the&nbsp;TWO&nbsp;most popular means of transportation used by students</span></li>\n\t<li><span style=\"font-size:1.3em;\">Discuss the advantages&nbsp;AND&nbsp;disadvantages</span></li>\n\t<li><span style=\"font-size:1.3em;\">Make some recommendations to the university</span></li>\n</ul>\n\n<h5 id=\"yui_3_17_2_1_1628703407776_2051\">&nbsp;</h5>\n\n<h4 id=\"yui_3_17_2_1_1628703407776_2055\"><b id=\"yui_3_17_2_1_1628703407776_2057\">Analyse the information in the table below:</b></h4>\n\n<p><img height=\"285\" src=\"https://assets.learnosity.com/organisations/755/501dfa12-1cf8-4ced-a6ab-aa6ba44e3379.JPG\" width=\"701\" /></p>\n\n<p><img height=\"259\" src=\"https://assets.learnosity.com/organisations/755/2bc31a90-4e37-4aed-8f9c-b1924cc4ec71.JPG\" width=\"699\" /></p>\n\n<h4>&nbsp;</h4>\n\n<h4><span style=\"color:#0000ff;\"><b>Write your report using&nbsp; ALL&nbsp;the information in the table.</b></span></h4>\n\n<h4><span style=\"color:#ff0000;\"><b><u>Write COMPLETE sentences.&nbsp;Do NOT use bullet points.</u></b></span></h4>\n\n<h4><b style=\"\">Use at least&nbsp;ONE&nbsp;of <u>your own ideas</u>&nbsp;</b><b style=\"\">in the recommendations section.</b></h4>\n\n<h4>&nbsp;</h4>\n\n<h4><b>Follow the&nbsp;report structure&nbsp;you can see below:</b></h4>\n\n<p>&nbsp;</p>\n\n<p><img height=\"523\" src=\"https://assets.learnosity.com/organisations/755/2694fd52-288e-4118-90cd-de27f223d78a.JPG\" width=\"400\" /></p>\n\n<h4>&nbsp;</h4>\n\n<h4><b>Write your report in the box below.&nbsp;Start with:&nbsp;</b></h4>\n\n<p><span style=\"font-size:1.3em;\"><i>The aim of this report is to ...</i></span></p>\n",
+          "type": "longtextV2",
+          "formatting_options": [
+            "bold",
+            "italic",
+            "underline",
+            "|",
+            "unorderedList",
+            "orderedList",
+            "redo"
+          ],
+          "validation": {
+            "max_score": 40
+          }
+        },
+        "metadata": {
+          "name": "Essay with rich text",
+          "template_reference": "1e6039f8-0676-495d-aca9-108710a51ce5"
+        }
+      },
+      "feedbackInfo": [
+        {
+          "id": "0707_9189292e-515b-4956-8452-ffb6fc812da6_4c35eb46-857e-48e5-b23a-e9088252ec4b_07e41563cd7cad2cb8613b30131eadb9",
+          "user_id": "9189292e-515b-4956-8452-ffb6fc812da6",
+          "response_id": "4c35eb46-857e-48e5-b23a-e9088252ec4b_07e41563cd7cad2cb8613b30131eadb9",
+          "type": "longtextV2",
+          "question": {
+            "type": "longtextV2",
+            "metadata": {
+              "source": {
+                "organisation_id": 755
+              },
+              "sheet_reference": "default_feedback",
+              "widget_reference": "de082b5f-742a-4ecf-82ca-4dc86e218fec",
+              "valid_response_count": 0
+            },
+            "stimulus": "Written feedback:",
+            "response_id": "4c35eb46-857e-48e5-b23a-e9088252ec4b_07e41563cd7cad2cb8613b30131eadb9",
+            "show_word_count": false,
+            "show_word_limit": "off"
+          },
+          "response": null,
+          "creation_date": "2023-07-14 04:59:18",
+          "mod_date": "2023-07-14 04:59:18",
+          "persist_until": "2023-07-15 04:59:18",
+          "saved": false
+        },
+        {
+          "id": "0707_9189292e-515b-4956-8452-ffb6fc812da6_4c35eb46-857e-48e5-b23a-e9088252ec4b_0bd17e2ebca62b3e7acf858c850fd5c9",
+          "user_id": "9189292e-515b-4956-8452-ffb6fc812da6",
+          "response_id": "4c35eb46-857e-48e5-b23a-e9088252ec4b_0bd17e2ebca62b3e7acf858c850fd5c9",
+          "type": "audio",
+          "question": {
+            "type": "audio",
+            "metadata": {
+              "source": {
+                "organisation_id": 755
+              },
+              "sheet_reference": "default_feedback",
+              "widget_reference": "b2f049b4-bb33-4542-993d-0645ffedda1a",
+              "valid_response_count": 0
+            },
+            "stimulus": "Audio feedback:",
+            "ui_style": {
+              "type": "button"
+            },
+            "max_length": 600,
+            "response_id": "4c35eb46-857e-48e5-b23a-e9088252ec4b_0bd17e2ebca62b3e7acf858c850fd5c9"
+          },
+          "response": null,
+          "creation_date": "2023-07-14 04:59:18",
+          "mod_date": "2023-07-14 04:59:18",
+          "persist_until": "2023-07-15 04:59:18",
+          "saved": false
+        }
+      ]
+    }
+  ]
+}

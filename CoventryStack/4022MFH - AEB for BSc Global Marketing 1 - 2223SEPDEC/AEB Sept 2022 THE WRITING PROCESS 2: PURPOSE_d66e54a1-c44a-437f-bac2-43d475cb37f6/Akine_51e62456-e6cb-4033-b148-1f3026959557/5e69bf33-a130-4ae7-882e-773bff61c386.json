@@ -1,0 +1,581 @@
+{
+  "userId": "51e62456-e6cb-4033-b148-1f3026959557",
+  "firstName": "Akine",
+  "lastName": "Matsumoto",
+  "assigmentId": "d66e54a1-c44a-437f-bac2-43d475cb37f6",
+  "assigmentName": "AEB Sept 2022 THE WRITING PROCESS 2: PURPOSE",
+  "sessionId": "5e69bf33-a130-4ae7-882e-773bff61c386",
+  "email": "matsumotoa@coventry.ac.uk",
+  "spaceId": "085bd94e-283f-4148-8142-827a1e7fe9cc",
+  "spaceName": "4022MFH - AEB for BSc Global Marketing 1 - 2223SEPDEC",
+  "score": 34,
+  "max_score": 34,
+  "questions": [
+    {
+      "response_id": "5e69bf33-a130-4ae7-882e-773bff61c386_f3d5ec64dc7446ff2effdd1ad8614900",
+      "question_type": "clozedropdown",
+      "dt_score_updated": "2022-11-21T04:58:30Z",
+      "automarkable": true,
+      "attempted": true,
+      "score": 8,
+      "max_score": 8,
+      "question_reference": "d0f0e1e9-4fbe-4657-8e60-c2f1a0d63b66",
+      "item_reference": "f06821ab-0595-489e-8a4b-8044fc5534fe",
+      "response": {
+        "value": [
+          "goal",
+          "introduction",
+          "understanding",
+          "gain",
+          "specific & precise",
+          "concise",
+          "clear",
+          "goal-oriented"
+        ],
+        "type": "array",
+        "apiVersion": "v2.168.23",
+        "revision": 6,
+        "feedbackAttemptsCount": 2
+      },
+      "questionInfo": {
+        "type": "clozedropdown",
+        "widget_type": "response",
+        "reference": "d0f0e1e9-4fbe-4657-8e60-c2f1a0d63b66",
+        "data": {
+          "possible_responses": [
+            [
+              "goal",
+              "introduction",
+              "understanding",
+              "gain"
+            ],
+            [
+              "goal",
+              "introduction",
+              "understanding",
+              "gain"
+            ],
+            [
+              "goal",
+              "introduction",
+              "understanding",
+              "gain"
+            ],
+            [
+              "goal",
+              "introduction",
+              "understanding",
+              "gain"
+            ],
+            [
+              "concise",
+              "specific & precise",
+              "clear",
+              "goal-oriented"
+            ],
+            [
+              "concise",
+              "specific & precise",
+              "clear",
+              "goal-oriented"
+            ],
+            [
+              "concise",
+              "specific & precise",
+              "clear",
+              "goal-oriented"
+            ],
+            [
+              "concise",
+              "specific & precise",
+              "clear",
+              "goal-oriented"
+            ]
+          ],
+          "response_container": {
+            "pointer": "left"
+          },
+          "stimulus": "<h5><span style=\"color:#008080;\"><strong>TASK 1:&nbsp;WHAT IS A PURPOSE STATEMENT?</strong></span></h5>\n\n<p><strong>Complete the missing words.</strong></p>\n",
+          "template": "<p><span style=\"font-size:1em;\">A purpose statement is a sentence which summarises the topic and {{response}}&nbsp;of a document. It is typically included in the {{response}}&nbsp;to give the reader an accurate, concrete {{response}}&nbsp;of what the document will cover and what they can {{response}}&nbsp;from reading it. </span></p>\n\n<p><span style=\"font-size:1em;\">To be effective, a statement of purpose should be:</span></p>\n\n<ul>\n\t<li><span style=\"font-size:1em;\">{{response}} - not too general</span></li>\n\t<li><span style=\"font-size:1em;\">{{response}}&nbsp;- one or two sentences</span></li>\n\t<li><span style=\"font-size:1em;\">{{response}}&nbsp;- not vague or confusing</span></li>\n\t<li><span style=\"font-size:1em;\">{{response}} - making desired outcomes clear</span></li>\n</ul>\n\n<p>.</p>\n",
+          "type": "clozedropdown",
+          "case_sensitive": true,
+          "validation": {
+            "scoring_type": "partialMatchV2",
+            "valid_response": {
+              "score": 8,
+              "value": [
+                "goal",
+                "introduction",
+                "understanding",
+                "gain",
+                "specific & precise",
+                "concise",
+                "clear",
+                "goal-oriented"
+              ]
+            },
+            "rounding": "none"
+          },
+          "feedback_attempts": 3,
+          "shuffle_options": true,
+          "instant_feedback": true
+        },
+        "metadata": {
+          "name": "Cloze with drop down",
+          "template_reference": "2fbba51b-e35e-441f-83c7-2662e2e81fa6"
+        }
+      },
+      "feedbackInfo": [
+        null,
+        null
+      ]
+    },
+    {
+      "response_id": "5e69bf33-a130-4ae7-882e-773bff61c386_7d0f219c08b0718f46f4c3c6d8351917",
+      "question_type": "orderlist",
+      "dt_score_updated": "2022-11-21T04:58:45Z",
+      "automarkable": true,
+      "attempted": true,
+      "score": 4,
+      "max_score": 4,
+      "question_reference": "81c458eb-c1ab-4dd5-8a7d-c3832674f813",
+      "item_reference": "f06821ab-0595-489e-8a4b-8044fc5534fe",
+      "response": {
+        "value": [
+          0,
+          1,
+          2,
+          3
+        ],
+        "type": "array",
+        "apiVersion": "v2.168.23",
+        "revision": 1,
+        "feedbackAttemptsCount": 1
+      },
+      "questionInfo": {
+        "type": "orderlist",
+        "widget_type": "response",
+        "reference": "81c458eb-c1ab-4dd5-8a7d-c3832674f813",
+        "data": {
+          "list": [
+            "This",
+            "report",
+            "will",
+            "examine..."
+          ],
+          "type": "orderlist",
+          "validation": {
+            "scoring_type": "partialMatchV2",
+            "valid_response": {
+              "score": 4,
+              "value": [
+                0,
+                1,
+                2,
+                3
+              ]
+            },
+            "rounding": "none"
+          },
+          "ui_style": {
+            "fontsize": "large",
+            "type": "inline",
+            "show_drag_handle": false
+          },
+          "feedback_attempts": 3,
+          "shuffle_options": true,
+          "stimulus": "<h5><span style=\"color:#8b4513;\"><strong>TASK 2: HOW TO START A PURPOSE STATEMENT</strong></span></h5>\n\n<p><strong>Put the words below in the correct order, to form two clear purpose statement sentence starters</strong></p>\n",
+          "instant_feedback": true
+        },
+        "metadata": {
+          "name": "Order list",
+          "template_reference": "0c7f68f7-2be6-4ae0-8492-0ab78c8d0010"
+        }
+      },
+      "feedbackInfo": [
+        null,
+        null
+      ]
+    },
+    {
+      "response_id": "5e69bf33-a130-4ae7-882e-773bff61c386_c1e7aa95d4f0ad4e6688c46b072cb1c2",
+      "question_type": "orderlist",
+      "dt_score_updated": "2022-11-21T04:58:59Z",
+      "automarkable": true,
+      "attempted": true,
+      "score": 5,
+      "max_score": 5,
+      "question_reference": "aec09820-ebc4-4116-8cc2-4bb98b298153",
+      "item_reference": "f06821ab-0595-489e-8a4b-8044fc5534fe",
+      "response": {
+        "value": [
+          0,
+          1,
+          2,
+          3,
+          4,
+          5,
+          6,
+          7
+        ],
+        "type": "array",
+        "apiVersion": "v2.168.23",
+        "revision": 2,
+        "feedbackAttemptsCount": 1
+      },
+      "questionInfo": {
+        "type": "orderlist",
+        "widget_type": "response",
+        "reference": "aec09820-ebc4-4116-8cc2-4bb98b298153",
+        "data": {
+          "list": [
+            "The",
+            "purpose",
+            "of",
+            "this",
+            "report",
+            "is",
+            "to",
+            "analyse..."
+          ],
+          "type": "orderlist",
+          "validation": {
+            "scoring_type": "partialMatchV2",
+            "valid_response": {
+              "score": 5,
+              "value": [
+                0,
+                1,
+                2,
+                3,
+                4,
+                5,
+                6,
+                7
+              ]
+            }
+          },
+          "ui_style": {
+            "fontsize": "large",
+            "type": "inline",
+            "show_drag_handle": false
+          },
+          "feedback_attempts": 3,
+          "shuffle_options": true,
+          "instant_feedback": true
+        },
+        "metadata": {
+          "name": "Order list",
+          "template_reference": "0c7f68f7-2be6-4ae0-8492-0ab78c8d0010"
+        }
+      },
+      "feedbackInfo": [
+        null,
+        null
+      ]
+    },
+    {
+      "response_id": "5e69bf33-a130-4ae7-882e-773bff61c386_609f27729b68fda813547c363a1e9d35",
+      "question_type": "clozeassociation",
+      "dt_score_updated": "2022-11-21T05:00:24Z",
+      "automarkable": true,
+      "attempted": true,
+      "score": 6,
+      "max_score": 6,
+      "question_reference": "955d7a6b-cfa7-4c66-beaf-62a607a6c3ed",
+      "item_reference": "f06821ab-0595-489e-8a4b-8044fc5534fe",
+      "response": {
+        "value": [
+          "compare",
+          "highlight",
+          "analyse",
+          "assess",
+          "investigate",
+          "make recommendations"
+        ],
+        "type": "array",
+        "apiVersion": "v2.168.23",
+        "revision": 5,
+        "feedbackAttemptsCount": 2
+      },
+      "questionInfo": {
+        "type": "clozeassociation",
+        "widget_type": "response",
+        "reference": "955d7a6b-cfa7-4c66-beaf-62a607a6c3ed",
+        "data": {
+          "possible_responses": [
+            "make recommendations",
+            "investigate",
+            "analyse",
+            "assess",
+            "compare",
+            "highlight"
+          ],
+          "response_container": {
+            "pointer": "left"
+          },
+          "stimulus": "<h5><span style=\"color:#ff8c00;\"><strong>TASK 3: ACTION VERBS FOR PURPOSE STATEMENTS</strong></span></h5>\n\n<p><strong>It is important to choose the right action verb for your purpose statement, which accurately describes what your report or essay will do. Read the statements below and choose the most appropriate action verb</strong></p>\n",
+          "template": "<p>1. The purpose of this report is to&nbsp;{{response}}&nbsp;meeting etiquette in the UK and Bangladesh and&nbsp;{{response}}&nbsp;the most important issues to be addressed in&nbsp;management training.</p>\n\n<p>2. This report will {{response}}&nbsp;market conditions for fast-food outlets in central London in order to&nbsp;{{response}}&nbsp;whether there is opportunity for expanding the Nuggetland franchise into this area.</p>\n\n<p>3. This&nbsp;proposal report will&nbsp;{{response}}&nbsp;current recruitment issues in high-street retail in London and, based on these findings,&nbsp;{{response}}&nbsp;for best practice in local employment agencies.</p>\n",
+          "type": "clozeassociation",
+          "case_sensitive": true,
+          "validation": {
+            "scoring_type": "partialMatchV2",
+            "valid_response": {
+              "score": 6,
+              "value": [
+                "compare",
+                "highlight",
+                "analyse",
+                "assess",
+                "investigate",
+                "make recommendations"
+              ]
+            },
+            "rounding": "none"
+          },
+          "feedback_attempts": 3,
+          "shuffle_options": true,
+          "instant_feedback": true
+        },
+        "metadata": {
+          "name": "Cloze with drag & drop",
+          "template_reference": "51a8c1e7-f34f-4faf-b211-da458e891fcb"
+        }
+      },
+      "feedbackInfo": [
+        null,
+        null
+      ]
+    },
+    {
+      "response_id": "5e69bf33-a130-4ae7-882e-773bff61c386_4686bfd808dfd69c20f74b1ede23b6ce",
+      "question_type": "choicematrix",
+      "dt_score_updated": "2022-11-21T05:00:52Z",
+      "automarkable": true,
+      "attempted": true,
+      "score": 6,
+      "max_score": 6,
+      "question_reference": "8c9421a0-e2ce-43ff-ae2f-7d0811004cdb",
+      "item_reference": "f06821ab-0595-489e-8a4b-8044fc5534fe",
+      "response": {
+        "value": [
+          [
+            1
+          ],
+          [
+            1
+          ],
+          [
+            1
+          ],
+          [
+            0
+          ],
+          [
+            0
+          ],
+          [
+            0
+          ]
+        ],
+        "type": "array",
+        "apiVersion": "v2.168.23",
+        "revision": 2,
+        "feedbackAttemptsCount": 1
+      },
+      "questionInfo": {
+        "type": "choicematrix",
+        "widget_type": "response",
+        "reference": "8c9421a0-e2ce-43ff-ae2f-7d0811004cdb",
+        "data": {
+          "options": [
+            "Good Example",
+            "Bad Example"
+          ],
+          "stems": [
+            "The purpose of this paper is to describe the changes that are occurring in corporate America",
+            "The purpose of this report is to discuss corporate social responsibility (CSR).",
+            "This article will cover the different ways a company can become organized.",
+            "This paper will describe four common causes of co-worker conflict in organizations and explain how to use a five-step procedure to constructively manage this conflict.",
+            "This report will explain how supervisors can use four planning strategies to improve employee productivity in the workplace.",
+            "This purpose of this report is to describe the main causes of staff turnover in coffee shops in Seattle since covid-19."
+          ],
+          "stimulus": "<h5><span style=\"color:#008080;\"><strong>TASK 4: WRITING SMART PURPOSE STATEMENTS</strong></span></h5>\n\n<h5><span style=\"color:#008080;\"><strong>Decide which of the example purpose statements below meet the criteria for being suitably specific and precise.</strong></span></h5>\n",
+          "type": "choicematrix",
+          "validation": {
+            "scoring_type": "partialMatchV2",
+            "valid_response": {
+              "score": 6,
+              "value": [
+                [
+                  1
+                ],
+                [
+                  1
+                ],
+                [
+                  1
+                ],
+                [
+                  0
+                ],
+                [
+                  0
+                ],
+                [
+                  0
+                ]
+              ]
+            },
+            "rounding": "none"
+          },
+          "ui_style": {
+            "type": "table",
+            "horizontal_lines": false,
+            "stem_numeration": "upper-alpha"
+          },
+          "feedback_attempts": 3,
+          "shuffle_options": true,
+          "instant_feedback": true
+        },
+        "metadata": {
+          "name": "Choice matrix – standard",
+          "template_reference": "14b7af71-e146-4747-aae5-ca71618a5038"
+        }
+      },
+      "feedbackInfo": [
+        null,
+        null
+      ]
+    },
+    {
+      "response_id": "5e69bf33-a130-4ae7-882e-773bff61c386_692e7713caa768059a5fec1ecccb09f7",
+      "question_type": "association",
+      "dt_score_updated": "2022-11-21T05:01:50Z",
+      "automarkable": true,
+      "attempted": true,
+      "score": 5,
+      "max_score": 5,
+      "question_reference": "7b619af1-6642-4af2-87fd-7af589d27239",
+      "item_reference": "adf3a810-ae0b-42ae-88b5-bfdc1a2cb3a2",
+      "response": {
+        "value": [
+          "TOPIC SENTENCE",
+          "EVIDENCE",
+          "CONCLUDING SENTENCE",
+          "CONCLUSION",
+          "OUTLINE"
+        ],
+        "type": "array",
+        "updatedFormat": true,
+        "apiVersion": "v2.168.23",
+        "revision": 3,
+        "feedbackAttemptsCount": 1
+      },
+      "questionInfo": {
+        "type": "association",
+        "widget_type": "response",
+        "reference": "7b619af1-6642-4af2-87fd-7af589d27239",
+        "data": {
+          "possible_responses": [
+            "TOPIC SENTENCE",
+            "CONCLUSION",
+            "OUTLINE",
+            "CONCLUDING SENTENCE",
+            "EVIDENCE"
+          ],
+          "stimulus": "<h5><span style=\"color:#8b4513;\"><strong>TASK 5: HOW PURPOSE STRUCTURES YOUR ESSAY</strong></span></h5>\n\n<p><strong>If you have a good purpose statement, you can use this to ensure that all of your writing is FOCUSED, PERSUASIVE and RELEVANT. Read the descriptions below and match them to the report/essay feature they describe</strong></p>\n",
+          "stimulus_list": [
+            "This is often the first sentence of a paragraph and it describes the main idea that will be discussed. The main idea described should be relevant to the purpose of the paper.",
+            "This is the research which supports your arguments. You need to choose carefully to make sure that it is connected to your purpose and your argument.",
+            "This is the last sentence of a paragraph, which summarises the key findings from your analysis of the evidence. It should be clear that these findings are connected to your purpose.",
+            "This is the final section of a report or essay, where you restate the purpose and show the reader how your essay has achieved it.",
+            "This is the part of the introduction that comes after your purpose statement, and describes the logical structure of your report, through which your purpose will be achieved."
+          ],
+          "type": "association",
+          "validation": {
+            "scoring_type": "partialMatchV2",
+            "valid_response": {
+              "score": 5,
+              "value": [
+                "TOPIC SENTENCE",
+                "EVIDENCE",
+                "CONCLUDING SENTENCE",
+                "CONCLUSION",
+                "OUTLINE"
+              ]
+            },
+            "rounding": "none"
+          },
+          "ui_style": {
+            "possibility_list_position": "left"
+          },
+          "feedback_attempts": 3,
+          "shuffle_options": true,
+          "instant_feedback": true
+        },
+        "metadata": {
+          "name": "Match list",
+          "template_reference": "1fa22aac-1f88-47f7-941b-3c77759549e6"
+        }
+      },
+      "feedbackInfo": [
+        null,
+        null
+      ]
+    },
+    {
+      "response_id": "5e69bf33-a130-4ae7-882e-773bff61c386_5d49413a04661452270ea6a99625f68c",
+      "question_type": "rating",
+      "dt_score_updated": "2022-11-21T05:02:05Z",
+      "automarkable": false,
+      "attempted": true,
+      "score": null,
+      "max_score": null,
+      "question_reference": "0806f260-f733-4a8d-a8f5-d4d383a6ce28",
+      "item_reference": "b5857a79-525d-4c43-a282-4562140b72ac",
+      "response": {
+        "value": "",
+        "type": "numeric",
+        "apiVersion": "v2.168.23",
+        "revision": 1
+      },
+      "questionInfo": {
+        "type": "rating",
+        "widget_type": "response",
+        "reference": "0806f260-f733-4a8d-a8f5-d4d383a6ce28",
+        "data": {
+          "options": [
+            {
+              "value": "",
+              "label": "😀",
+              "tint": "#B85830"
+            },
+            {
+              "value": "",
+              "label": "😐",
+              "tint": "#2979AF"
+            },
+            {
+              "value": "",
+              "label": "🙁"
+            }
+          ],
+          "type": "rating",
+          "stimulus": "<p class=\"text-center\">Do you feel better prepared to start working on your written assessments?</p>\n",
+          "ui_style": {
+            "fontsize": "xxlarge"
+          }
+        },
+        "metadata": {
+          "name": "Rating",
+          "template_reference": "8e99fa69-b829-4a7d-ae2a-eb935fe3a2c6"
+        }
+      },
+      "feedbackInfo": [
+        null,
+        null
+      ]
+    }
+  ]
+}

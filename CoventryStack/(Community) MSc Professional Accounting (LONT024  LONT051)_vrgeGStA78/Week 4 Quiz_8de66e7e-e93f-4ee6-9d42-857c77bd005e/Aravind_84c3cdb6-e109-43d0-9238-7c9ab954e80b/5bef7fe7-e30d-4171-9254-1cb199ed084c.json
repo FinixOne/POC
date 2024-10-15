@@ -1,0 +1,280 @@
+{
+  "userId": "84c3cdb6-e109-43d0-9238-7c9ab954e80b",
+  "firstName": "Aravind",
+  "lastName": "Kondeti",
+  "assigmentId": "8de66e7e-e93f-4ee6-9d42-857c77bd005e",
+  "assigmentName": "Week 4 Quiz",
+  "sessionId": "5bef7fe7-e30d-4171-9254-1cb199ed084c",
+  "email": "kondetia@coventry.ac.uk",
+  "spaceId": "vrgeGStA78",
+  "spaceName": "(Community) MSc Professional Accounting (LONT024 / LONT051)",
+  "score": 3,
+  "max_score": 4,
+  "questions": [
+    {
+      "response_id": "5bef7fe7-e30d-4171-9254-1cb199ed084c_987162d420877a793212d61d673c8c3b",
+      "question_type": "mcq",
+      "dt_score_updated": "2022-02-24T21:06:23Z",
+      "automarkable": true,
+      "attempted": true,
+      "score": 0,
+      "max_score": 1,
+      "question_reference": "4fe68022-5095-4126-b912-c969c09ae396",
+      "item_reference": "b842ca53-9238-4e9a-82f5-e8fc4c3b3700",
+      "response": {
+        "value": [
+          "2"
+        ],
+        "type": "array",
+        "apiVersion": "v2.168.17",
+        "revision": 1
+      },
+      "questionInfo": {
+        "type": "mcq",
+        "widget_type": "response",
+        "reference": "4fe68022-5095-4126-b912-c969c09ae396",
+        "data": {
+          "options": [
+            {
+              "label": "Module Leader",
+              "value": "0"
+            },
+            {
+              "label": "Lecturer",
+              "value": "1"
+            },
+            {
+              "label": "Course Director",
+              "value": "2"
+            },
+            {
+              "label": "Academic Support Unit",
+              "value": "3"
+            }
+          ],
+          "stimulus": "Academic support can be provided by",
+          "type": "mcq",
+          "ui_style": {
+            "choice_label": "upper-alpha",
+            "type": "block"
+          },
+          "validation": {
+            "scoring_type": "exactMatch",
+            "valid_response": {
+              "score": 1,
+              "value": [
+                "2",
+                "1",
+                "0",
+                "3"
+              ]
+            }
+          },
+          "multiple_responses": true,
+          "shuffle_options": true
+        },
+        "metadata": {
+          "name": "Multiple choice – block layout",
+          "template_reference": "33d53a22-1a59-4a03-9671-7f5104edd62e"
+        }
+      },
+      "feedbackInfo": [
+        null,
+        null
+      ]
+    },
+    {
+      "response_id": "5bef7fe7-e30d-4171-9254-1cb199ed084c_34a3e6a8baf2b2ae68a0b85079b3d8a6",
+      "question_type": "mcq",
+      "dt_score_updated": "2022-02-24T21:06:38Z",
+      "automarkable": true,
+      "attempted": true,
+      "score": 1,
+      "max_score": 1,
+      "question_reference": "1d95a8dd-1dee-498f-80b9-911d021a1658",
+      "item_reference": "b842ca53-9238-4e9a-82f5-e8fc4c3b3700",
+      "response": {
+        "value": [
+          "2"
+        ],
+        "type": "array",
+        "apiVersion": "v2.168.17",
+        "revision": 2
+      },
+      "questionInfo": {
+        "type": "mcq",
+        "widget_type": "response",
+        "reference": "1d95a8dd-1dee-498f-80b9-911d021a1658",
+        "data": {
+          "options": [
+            {
+              "label": "3pm",
+              "value": "0"
+            },
+            {
+              "label": "4pm",
+              "value": "1"
+            },
+            {
+              "label": "5pm",
+              "value": "2"
+            },
+            {
+              "label": "1pm",
+              "value": "3"
+            }
+          ],
+          "stimulus": "What is the UK time for assignment deadline?",
+          "type": "mcq",
+          "validation": {
+            "scoring_type": "exactMatch",
+            "valid_response": {
+              "score": 1,
+              "value": [
+                "2"
+              ]
+            }
+          },
+          "ui_style": {
+            "type": "horizontal"
+          },
+          "shuffle_options": true
+        },
+        "metadata": {
+          "name": "Multiple choice – standard",
+          "template_reference": "9e8149bd-e4d8-4dd6-a751-1a113a4b9163"
+        }
+      },
+      "feedbackInfo": [
+        null,
+        null
+      ]
+    },
+    {
+      "response_id": "5bef7fe7-e30d-4171-9254-1cb199ed084c_23341731c662dc93723336452472726a",
+      "question_type": "mcq",
+      "dt_score_updated": "2022-02-24T21:06:48Z",
+      "automarkable": true,
+      "attempted": true,
+      "score": 1,
+      "max_score": 1,
+      "question_reference": "8f01e3ef-bdde-491a-b8f8-e5ebfe68b36d",
+      "item_reference": "b842ca53-9238-4e9a-82f5-e8fc4c3b3700",
+      "response": {
+        "value": [
+          "0"
+        ],
+        "type": "array",
+        "apiVersion": "v2.168.17",
+        "revision": 2
+      },
+      "questionInfo": {
+        "type": "mcq",
+        "widget_type": "response",
+        "reference": "8f01e3ef-bdde-491a-b8f8-e5ebfe68b36d",
+        "data": {
+          "options": [
+            {
+              "label": "True",
+              "value": "0"
+            },
+            {
+              "label": "False",
+              "value": "1"
+            }
+          ],
+          "stimulus": "All sources used in your assignments must be referenced",
+          "type": "mcq",
+          "ui_style": {
+            "type": "horizontal"
+          },
+          "validation": {
+            "scoring_type": "exactMatch",
+            "valid_response": {
+              "score": 1,
+              "value": [
+                "0"
+              ]
+            }
+          }
+        },
+        "metadata": {
+          "name": "True or false",
+          "template_reference": "3egs0b24-5gs8-49fc-fds9-4a450sdg31ca"
+        }
+      },
+      "feedbackInfo": [
+        null,
+        null
+      ]
+    },
+    {
+      "response_id": "5bef7fe7-e30d-4171-9254-1cb199ed084c_08e0668558771ce501dc45f5d2183621",
+      "question_type": "mcq",
+      "dt_score_updated": "2022-02-24T21:07:18Z",
+      "automarkable": true,
+      "attempted": true,
+      "score": 1,
+      "max_score": 1,
+      "question_reference": "c6230587-0aae-49e7-a895-e8aa5195a966",
+      "item_reference": "b842ca53-9238-4e9a-82f5-e8fc4c3b3700",
+      "response": {
+        "value": [
+          "0"
+        ],
+        "type": "array",
+        "apiVersion": "v2.168.17",
+        "revision": 1
+      },
+      "questionInfo": {
+        "type": "mcq",
+        "widget_type": "response",
+        "reference": "c6230587-0aae-49e7-a895-e8aa5195a966",
+        "data": {
+          "multiple_responses": true,
+          "options": [
+            {
+              "label": "APA referencing",
+              "value": "0"
+            },
+            {
+              "label": "Harvard referencing",
+              "value": "3"
+            },
+            {
+              "label": "MLA referencing",
+              "value": "4"
+            },
+            {
+              "label": "MHRA referencing",
+              "value": "5"
+            }
+          ],
+          "stimulus": "What is the citing and referencing system used by the University?",
+          "type": "mcq",
+          "validation": {
+            "scoring_type": "exactMatch",
+            "valid_response": {
+              "score": 1,
+              "value": [
+                "0"
+              ]
+            }
+          },
+          "ui_style": {
+            "type": "horizontal"
+          },
+          "shuffle_options": true
+        },
+        "metadata": {
+          "name": "Multiple choice – multiple response",
+          "template_reference": "908de244-5c71-4c09-b094-7fb49554f2f9"
+        }
+      },
+      "feedbackInfo": [
+        null,
+        null
+      ]
+    }
+  ]
+}

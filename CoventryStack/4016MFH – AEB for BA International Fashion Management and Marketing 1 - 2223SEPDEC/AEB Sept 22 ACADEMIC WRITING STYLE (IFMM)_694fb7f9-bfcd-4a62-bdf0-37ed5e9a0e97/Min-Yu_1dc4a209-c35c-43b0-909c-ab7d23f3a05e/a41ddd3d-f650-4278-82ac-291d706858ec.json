@@ -1,0 +1,741 @@
+{
+  "userId": "1dc4a209-c35c-43b0-909c-ab7d23f3a05e",
+  "firstName": "Min-Yu",
+  "lastName": "Tsai",
+  "assigmentId": "694fb7f9-bfcd-4a62-bdf0-37ed5e9a0e97",
+  "assigmentName": "AEB Sept 22 ACADEMIC WRITING STYLE (IFMM)",
+  "sessionId": "a41ddd3d-f650-4278-82ac-291d706858ec",
+  "email": "tsaim3@coventry.ac.uk",
+  "spaceId": "7c53a317-aedf-445b-95b0-411f4f7803f3",
+  "spaceName": "4016MFH – AEB for BA International Fashion Management and Marketing 1 - 2223SEPDEC",
+  "score": 129,
+  "max_score": 228,
+  "questions": [
+    {
+      "response_id": "a41ddd3d-f650-4278-82ac-291d706858ec_3f42b599fb705d2bbacf61f3422c5ae9",
+      "question_type": "clozedropdown",
+      "dt_score_updated": "2022-10-26T23:05:22Z",
+      "automarkable": true,
+      "attempted": true,
+      "score": 9,
+      "max_score": 9,
+      "question_reference": "c0699a83-c6c4-4b0f-b6a3-a0c1bbcd01c2",
+      "item_reference": "67b9ba5d-d5f4-40ed-98ab-ec4498d3ba1e",
+      "response": {
+        "value": [
+          "BE CONCISE",
+          "concise",
+          "BE FORMAL",
+          "colloquial",
+          "BE COHERENT",
+          "coherent",
+          "BE OBJECTIVE",
+          "objective",
+          "cautious"
+        ],
+        "type": "array",
+        "apiVersion": "v2.168.23",
+        "revision": 24,
+        "feedbackAttemptsCount": 3
+      },
+      "questionInfo": {
+        "type": "clozedropdown",
+        "widget_type": "response",
+        "reference": "c0699a83-c6c4-4b0f-b6a3-a0c1bbcd01c2",
+        "data": {
+          "possible_responses": [
+            [
+              "BE CONCISE",
+              "BE FORMAL",
+              "BE COHERENT",
+              "BE OBJECTIVE"
+            ],
+            [
+              "concise",
+              "colloquial",
+              "coherent",
+              "objective",
+              "cautious"
+            ],
+            [
+              "BE CONCISE",
+              "BE FORMAL",
+              "BE COHERENT",
+              "BE OBJECTIVE"
+            ],
+            [
+              "concise",
+              "colloquial",
+              "coherent",
+              "objective",
+              "cautious"
+            ],
+            [
+              "BE CONCISE",
+              "BE FORMAL",
+              "BE COHERENT",
+              "BE OBJECTIVE"
+            ],
+            [
+              "colloquial",
+              "coherent",
+              "concise",
+              "objective",
+              "cautious"
+            ],
+            [
+              "BE CONCISE",
+              "BE FORMAL",
+              "BE COHERENT",
+              "BE OBJECTIVE"
+            ],
+            [
+              "concise",
+              "coherent",
+              "colloquial",
+              "objective",
+              "cautious"
+            ],
+            [
+              "concise",
+              "coherent",
+              "colloquial",
+              "objective",
+              "cautious"
+            ]
+          ],
+          "response_container": {
+            "pointer": "left"
+          },
+          "stimulus": "<h4><span style=\"color:#8b4513;\"><strong>Task 1: Academic Style Basics</strong></span></h4>\n\n<p><span style=\"font-size:1.3em;\"><strong>Choose the correct answer to complete the rules for good academic style</strong></span></p>\n",
+          "template": "<p><span style=\"font-size:1.1em;\"><span id=\"cke_bm_3166S\" style=\"display: none;\"><span id=\"cke_bm_7898S\" style=\"display: none;\">&nbsp;</span>&nbsp;</span> <span id=\"cke_bm_3120S\" style=\"display: none;\">&nbsp;</span><strong>{{response}}</strong><span id=\"cke_bm_3166E\" style=\"display: none;\">&nbsp;</span></span></p>\n\n<p><span style=\"font-size:1.1em;\">One of the most important objectives of good academic style&nbsp;to keep your writing clear and <span id=\"cke_bm_3166S\" style=\"display: none;\">&nbsp;</span> <span id=\"cke_bm_3120S\" style=\"display: none;\">&nbsp;</span>{{response}}<span id=\"cke_bm_3166E\" style=\"display: none;\">&nbsp;</span>. This means getting your ideas across in a comprehensible form, without using unnecessary words. You should also avoid using unnecessary information.&nbsp;Good critical writing means knowing what to keep and what to cut out. You have a limited number of words for your assessments - Use them well!</span></p>\n\n<p><span style=\"font-size:1.1em;\"></span></p>\n\n<p><span style=\"font-size:1.1em;\"><span id=\"cke_bm_3166S\" style=\"display: none;\"><span id=\"cke_bm_7898S\" style=\"display: none;\">&nbsp;</span>&nbsp;</span> <span id=\"cke_bm_3120S\" style=\"display: none;\">&nbsp;</span><strong>{{response}}</strong><span id=\"cke_bm_3166E\" style=\"display: none;\">&nbsp;</span></span></p>\n\n<p><span style=\"font-size:1.1em;\">A wide range of vocabulary is important, but you not all words are suitable for academic writing. It is important&nbsp;to avoid informal language, especially <span id=\"cke_bm_3600S\" style=\"display: none;\">&nbsp;</span> <span id=\"cke_bm_3166S\" style=\"display: none;\">&nbsp;</span> <span id=\"cke_bm_3120S\" style=\"display: none;\">&nbsp;</span>{{response}}<span id=\"cke_bm_3166E\" style=\"display: none;\">&nbsp;</span> expressions and slang. Academic writing also requires standard spelling and full forms (e.g \"do not\" should be used in place of \"don't\").</span></p>\n\n<p><span style=\"font-size:1.1em;\"></span></p>\n\n<p><span style=\"font-size:1.1em;\"><span id=\"cke_bm_3166S\" style=\"display: none;\"><span id=\"cke_bm_7898S\" style=\"display: none;\">&nbsp;</span>&nbsp;</span> <span id=\"cke_bm_3120S\" style=\"display: none;\">&nbsp;</span><strong>{{response}}</strong><span id=\"cke_bm_3166E\" style=\"display: none;\">&nbsp;</span></span></p>\n\n<p><span style=\"font-size:1.1em;\">In your writing you need to have a clear argument, which develops logically. To&nbsp;develop a&nbsp;{{response}}&nbsp;argument, where ideas connect and build on each other, structure is important. Focus on how your sentences are arranged in each paragraph, how paragraphs link to each other, and how the different sections of your reports and essays are organised. Does the organisation or your writing help the reader follow your ideas?</span></p>\n\n<p><span style=\"font-size:1.1em;\"></span></p>\n\n<p><span style=\"font-size:1.1em;\"><span id=\"cke_bm_3166S\" style=\"display: none;\"><span id=\"cke_bm_7898S\" style=\"display: none;\">&nbsp;</span>&nbsp;</span> <span id=\"cke_bm_3120S\" style=\"display: none;\">&nbsp;</span><strong>{{response}}</strong><span id=\"cke_bm_3166E\" style=\"display: none;\">&nbsp;</span></span></p>\n\n<p><span style=\"font-size:1.1em;\">Finally, academic writing must be&nbsp;{{response}}&nbsp;and based on evidence. In order for your ideas to be taken seriously, you need to show that they are supported by experts and serious research.&nbsp;However, as different viewpoints exist, it is also important to be <span id=\"cke_bm_9423S\" style=\"display: none;\">&nbsp;</span> <span id=\"cke_bm_3600S\" style=\"display: none;\">&nbsp;</span> <span id=\"cke_bm_3166S\" style=\"display: none;\">&nbsp;</span> <span id=\"cke_bm_3120S\" style=\"display: none;\">&nbsp;</span>{{response}}<span id=\"cke_bm_3166E\" style=\"display: none;\">&nbsp;</span> when presenting ideas.&nbsp;</span></p>\n",
+          "type": "clozedropdown",
+          "case_sensitive": true,
+          "validation": {
+            "scoring_type": "partialMatchV2",
+            "valid_response": {
+              "score": 9,
+              "value": [
+                "BE CONCISE",
+                "concise",
+                "BE FORMAL",
+                "colloquial",
+                "BE COHERENT",
+                "coherent",
+                "BE OBJECTIVE",
+                "objective",
+                "cautious"
+              ]
+            },
+            "rounding": "none"
+          },
+          "instant_feedback": true,
+          "shuffle_options": true,
+          "feedback_attempts": 3
+        },
+        "metadata": {
+          "name": "Cloze with drop down",
+          "template_reference": "2fbba51b-e35e-441f-83c7-2662e2e81fa6"
+        }
+      },
+      "feedbackInfo": [
+        {
+          "id": "0707_1dc4a209-c35c-43b0-909c-ab7d23f3a05e_a41ddd3d-f650-4278-82ac-291d706858ec_5047e59a4eb52499ca638f0501104c13",
+          "user_id": "1dc4a209-c35c-43b0-909c-ab7d23f3a05e",
+          "response_id": "a41ddd3d-f650-4278-82ac-291d706858ec_5047e59a4eb52499ca638f0501104c13",
+          "type": "longtextV2",
+          "question": {
+            "type": "longtextV2",
+            "metadata": {
+              "source": {
+                "organisation_id": 755
+              },
+              "sheet_reference": "default_feedback",
+              "widget_reference": "de082b5f-742a-4ecf-82ca-4dc86e218fec",
+              "valid_response_count": 0
+            },
+            "stimulus": "Written feedback:",
+            "response_id": "a41ddd3d-f650-4278-82ac-291d706858ec_5047e59a4eb52499ca638f0501104c13",
+            "show_word_count": false,
+            "show_word_limit": "off"
+          },
+          "response": null,
+          "creation_date": "2022-10-27 10:50:46",
+          "mod_date": "2022-10-27 10:50:46",
+          "persist_until": "2022-10-28 10:50:46",
+          "saved": false
+        },
+        {
+          "id": "0707_1dc4a209-c35c-43b0-909c-ab7d23f3a05e_a41ddd3d-f650-4278-82ac-291d706858ec_eeda18886c1f18b6ac95c312d5f3bb93",
+          "user_id": "1dc4a209-c35c-43b0-909c-ab7d23f3a05e",
+          "response_id": "a41ddd3d-f650-4278-82ac-291d706858ec_eeda18886c1f18b6ac95c312d5f3bb93",
+          "type": "audio",
+          "question": {
+            "type": "audio",
+            "metadata": {
+              "source": {
+                "organisation_id": 755
+              },
+              "sheet_reference": "default_feedback",
+              "widget_reference": "b2f049b4-bb33-4542-993d-0645ffedda1a",
+              "valid_response_count": 0
+            },
+            "stimulus": "Audio feedback:",
+            "ui_style": {
+              "type": "button"
+            },
+            "max_length": 600,
+            "response_id": "a41ddd3d-f650-4278-82ac-291d706858ec_eeda18886c1f18b6ac95c312d5f3bb93"
+          },
+          "response": null,
+          "creation_date": "2022-10-27 10:50:46",
+          "mod_date": "2022-10-27 10:50:46",
+          "persist_until": "2022-10-28 10:50:46",
+          "saved": false
+        }
+      ]
+    },
+    {
+      "response_id": "a41ddd3d-f650-4278-82ac-291d706858ec_fc630594380755e637a9d0bf765b0985",
+      "question_type": "classification",
+      "dt_score_updated": "2022-10-26T23:23:41Z",
+      "automarkable": true,
+      "attempted": true,
+      "score": 0,
+      "max_score": 75,
+      "question_reference": "12ec00eb-da90-4ad7-ab77-2ddbbf43c745",
+      "item_reference": "67b9ba5d-d5f4-40ed-98ab-ec4498d3ba1e",
+      "response": {
+        "value": [
+          [
+            1,
+            2,
+            9
+          ],
+          [
+            5,
+            14,
+            3,
+            7
+          ],
+          [
+            4,
+            11,
+            0
+          ],
+          [
+            12,
+            6,
+            10
+          ],
+          [
+            8,
+            13
+          ]
+        ],
+        "type": "array",
+        "apiVersion": "v2.168.23",
+        "revision": 31,
+        "feedbackAttemptsCount": 3
+      },
+      "questionInfo": {
+        "type": "classification",
+        "widget_type": "response",
+        "reference": "12ec00eb-da90-4ad7-ab77-2ddbbf43c745",
+        "data": {
+          "possible_responses": [
+            "<span style=\"font-size:1em;\">avoid contracted forms (e.g. use replace <em>don't</em> with <em>do not</em>)</span>",
+            "avoid slang and colloquial language",
+            "avoid abbreviations",
+            "avoid personal language",
+            "avoid generalisations",
+            "avoid emotional language",
+            "use qualifying language when appropriate (e.g. MANY businesses have issues with, NOT business have issues with)",
+            "use&nbsp; accurate language and sentence structure to express your ideas clearly",
+            "use connecting words and phrases to show links between sentences/paragraphs",
+            "avoid exclamation marks !, (parentheses), - hyphens &amp; unnecessary CAPITALISATION",
+            "avoid repetition",
+            "replace wordy phrases (e.g. due to NOT due to the fact that)",
+            "only include what is needed for the task",
+            "use hedging language (e.g. This COULD be due to, It is POSSIBLE/PROBABLE that) if there is any doubt",
+            "base statements on evidence"
+          ],
+          "type": "classification",
+          "ui_style": {
+            "column_count": 5,
+            "column_titles": [
+              "FORMALITY",
+              "OBJECTIVITY",
+              "CAUTION",
+              "CONCISION",
+              "COHERENCE &amp; COHESION"
+            ]
+          },
+          "validation": {
+            "scoring_type": "partialMatchElement",
+            "valid_response": {
+              "score": 15,
+              "value": [
+                [
+                  0,
+                  1,
+                  2,
+                  9
+                ],
+                [
+                  3,
+                  5,
+                  14
+                ],
+                [
+                  4,
+                  6,
+                  13
+                ],
+                [
+                  10,
+                  11,
+                  12
+                ],
+                [
+                  7,
+                  8
+                ]
+              ]
+            }
+          },
+          "instant_feedback": true,
+          "shuffle_options": true,
+          "stimulus": "<p><span style=\"font-size:1.5em;\"><strong><span style=\"color:#008080;\">Task 2:&nbsp;Five criteria of academic writing style</span></strong></span></p>\n\n<p><span style=\"font-size:1.3em;\"><strong>Drag and drop each rule into the appropriate column.</strong></span></p>\n",
+          "feedback_attempts": 3
+        },
+        "metadata": {
+          "name": "Classification",
+          "template_reference": "ef2648de-f826-4674-b17d-71e71889d8e6"
+        }
+      },
+      "feedbackInfo": [
+        {
+          "id": "0707_1dc4a209-c35c-43b0-909c-ab7d23f3a05e_a41ddd3d-f650-4278-82ac-291d706858ec_757d8d41380c60521b3a740be5ab0ce3",
+          "user_id": "1dc4a209-c35c-43b0-909c-ab7d23f3a05e",
+          "response_id": "a41ddd3d-f650-4278-82ac-291d706858ec_757d8d41380c60521b3a740be5ab0ce3",
+          "type": "longtextV2",
+          "question": {
+            "type": "longtextV2",
+            "metadata": {
+              "source": {
+                "organisation_id": 755
+              },
+              "sheet_reference": "default_feedback",
+              "widget_reference": "de082b5f-742a-4ecf-82ca-4dc86e218fec",
+              "valid_response_count": 0
+            },
+            "stimulus": "Written feedback:",
+            "response_id": "a41ddd3d-f650-4278-82ac-291d706858ec_757d8d41380c60521b3a740be5ab0ce3",
+            "show_word_count": false,
+            "show_word_limit": "off"
+          },
+          "response": null,
+          "creation_date": "2022-10-27 10:50:46",
+          "mod_date": "2022-10-27 10:50:46",
+          "persist_until": "2022-10-28 10:50:46",
+          "saved": false
+        },
+        {
+          "id": "0707_1dc4a209-c35c-43b0-909c-ab7d23f3a05e_a41ddd3d-f650-4278-82ac-291d706858ec_6d21f50409d9ef2f5c3e211eba3f297d",
+          "user_id": "1dc4a209-c35c-43b0-909c-ab7d23f3a05e",
+          "response_id": "a41ddd3d-f650-4278-82ac-291d706858ec_6d21f50409d9ef2f5c3e211eba3f297d",
+          "type": "audio",
+          "question": {
+            "type": "audio",
+            "metadata": {
+              "source": {
+                "organisation_id": 755
+              },
+              "sheet_reference": "default_feedback",
+              "widget_reference": "b2f049b4-bb33-4542-993d-0645ffedda1a",
+              "valid_response_count": 0
+            },
+            "stimulus": "Audio feedback:",
+            "ui_style": {
+              "type": "button"
+            },
+            "max_length": 600,
+            "response_id": "a41ddd3d-f650-4278-82ac-291d706858ec_6d21f50409d9ef2f5c3e211eba3f297d"
+          },
+          "response": null,
+          "creation_date": "2022-10-27 10:50:46",
+          "mod_date": "2022-10-27 10:50:46",
+          "persist_until": "2022-10-28 10:50:46",
+          "saved": false
+        }
+      ]
+    },
+    {
+      "response_id": "a41ddd3d-f650-4278-82ac-291d706858ec_a3fc04dc90f4ab981496c63456fdcd33",
+      "question_type": "choicematrix",
+      "dt_score_updated": "2022-10-26T23:25:46Z",
+      "automarkable": true,
+      "attempted": true,
+      "score": 120,
+      "max_score": 144,
+      "question_reference": "adf89f10-accd-4410-b18d-9277709b04a2",
+      "item_reference": "7accfb27-e957-4732-b1f1-be3346e023aa",
+      "response": {
+        "value": [
+          [
+            0
+          ],
+          [
+            1
+          ],
+          [
+            1
+          ],
+          [
+            0
+          ],
+          [
+            1
+          ],
+          [
+            0
+          ],
+          [
+            1
+          ],
+          [
+            0
+          ],
+          [
+            1
+          ],
+          [
+            0
+          ],
+          [
+            1
+          ],
+          [
+            0
+          ]
+        ],
+        "type": "array",
+        "apiVersion": "v2.168.23",
+        "revision": 8
+      },
+      "questionInfo": {
+        "type": "choicematrix",
+        "widget_type": "response",
+        "reference": "adf89f10-accd-4410-b18d-9277709b04a2",
+        "data": {
+          "options": [
+            "Good Academic Style",
+            "Too Informal"
+          ],
+          "stems": [
+            "<span style=\"color:#800000;\">Starbucks is well-known for its commitment to Corporate Social Responsibility (CSR).</span>",
+            "<span style=\"color:#800000;\">Starbucks takes CSR&nbsp;really seriously. It’s famous for&nbsp;it, actually.&nbsp;</span>",
+            "<span style=\"color:#2f4f4f;\">It’s totally committed to being green&nbsp;and making sure everyone’s OK in the local area.</span>",
+            "<span style=\"color:#2f4f4f;\">The company has pledged to protect the environment and support local communities.</span>",
+            "<span style=\"color:#0000cd;\">It says in the report they did last year on global&nbsp;social impact that its already kept a lot of the CSR promises they made when they started, like getting&nbsp;all their coffee from ethical sources and getting lots of farmers all over the world to plant 100 million&nbsp;trees by 2025 (and they even&nbsp;gave&nbsp;them the trees too!).</span>",
+            "<span style=\"color:#0000ff;\">According to their 2021 annual report, they are currently achieving the majority of their core CSR goals, such as ethical sourcing of coffee, and a commitment to supporting their farmers in planting 100 million trees by 2025 (Starbucks, 2021).</span>",
+            "<span style=\"color:#ff0000;\">And they’ve started doing this thing called&nbsp;green building in all their stores AND doing stuff like organising millions of hours community service.&nbsp;They’ve even got this amazing college programme for the people who work for them.&nbsp;</span>",
+            "<span style=\"color:#ff0000;\">In addition, they have introduced 'green building' to their stores, which ensures building design contributes to low environment impact and better employee experience. Employee initiatives also include encouraging company-wide participation in community service and support for college attendance.</span>",
+            "<span style=\"color:#008000;\">Starbucks' example appears to show that an effective CSR policy, not only benefits the larger community, but also enhances company reputation and success.</span>",
+            "<span style=\"color:#008000;\">Obviously, if all&nbsp;companies did this sort of thing, the world would be a far better place, and, in my opinion, it’s clearly&nbsp;not doing Starbucks any harm&nbsp;</span>",
+            "<span style=\"color:#696969;\">- so why don’t a few other companies take a leaf out of their book?</span>",
+            "<span style=\"color:#696969;\">For this reason, it could be worthwhile for other companies to consider adopting similar policies in future.</span>"
+          ],
+          "stimulus": "<h4><span style=\"color:#008000;\"><strong>Task 3: Good &amp; Bad Academic Style</strong></span></h4>\n\n<p><span style=\"font-size: 18.2px;\"><b>Below are sentences from a paragraph on Corporate Social Responsibility. Decide which sentences are examples of good academic style, and which are too informal. Make a note of any issues with the informal versions, to help you with the next exercise.</b></span></p>\n",
+          "type": "choicematrix",
+          "ui_style": {
+            "stem_numeration": "upper-alpha",
+            "type": "table",
+            "horizontal_lines": true
+          },
+          "validation": {
+            "scoring_type": "partialMatch",
+            "valid_response": {
+              "score": 12,
+              "value": [
+                0,
+                1,
+                1,
+                0,
+                1,
+                0,
+                1,
+                0,
+                0,
+                1,
+                1,
+                0
+              ]
+            }
+          },
+          "feedback_attempts": 3
+        },
+        "metadata": {
+          "name": "Choice matrix – labels",
+          "template_reference": "9de82e14-802c-4bea-a635-bf9ad0b622fb"
+        }
+      },
+      "feedbackInfo": [
+        {
+          "id": "0707_1dc4a209-c35c-43b0-909c-ab7d23f3a05e_a41ddd3d-f650-4278-82ac-291d706858ec_cafbf81d1de9705bab24095907e861ea",
+          "user_id": "1dc4a209-c35c-43b0-909c-ab7d23f3a05e",
+          "response_id": "a41ddd3d-f650-4278-82ac-291d706858ec_cafbf81d1de9705bab24095907e861ea",
+          "type": "longtextV2",
+          "question": {
+            "type": "longtextV2",
+            "metadata": {
+              "source": {
+                "organisation_id": 755
+              },
+              "sheet_reference": "default_feedback",
+              "widget_reference": "de082b5f-742a-4ecf-82ca-4dc86e218fec",
+              "valid_response_count": 0
+            },
+            "stimulus": "Written feedback:",
+            "response_id": "a41ddd3d-f650-4278-82ac-291d706858ec_cafbf81d1de9705bab24095907e861ea",
+            "show_word_count": false,
+            "show_word_limit": "off"
+          },
+          "response": null,
+          "creation_date": "2022-10-27 10:50:46",
+          "mod_date": "2022-10-27 10:50:46",
+          "persist_until": "2022-10-28 10:50:46",
+          "saved": false
+        },
+        {
+          "id": "0707_1dc4a209-c35c-43b0-909c-ab7d23f3a05e_a41ddd3d-f650-4278-82ac-291d706858ec_d52bef2c1488e5035c2477612ac69507",
+          "user_id": "1dc4a209-c35c-43b0-909c-ab7d23f3a05e",
+          "response_id": "a41ddd3d-f650-4278-82ac-291d706858ec_d52bef2c1488e5035c2477612ac69507",
+          "type": "audio",
+          "question": {
+            "type": "audio",
+            "metadata": {
+              "source": {
+                "organisation_id": 755
+              },
+              "sheet_reference": "default_feedback",
+              "widget_reference": "b2f049b4-bb33-4542-993d-0645ffedda1a",
+              "valid_response_count": 0
+            },
+            "stimulus": "Audio feedback:",
+            "ui_style": {
+              "type": "button"
+            },
+            "max_length": 600,
+            "response_id": "a41ddd3d-f650-4278-82ac-291d706858ec_d52bef2c1488e5035c2477612ac69507"
+          },
+          "response": null,
+          "creation_date": "2022-10-27 10:50:47",
+          "mod_date": "2022-10-27 10:50:47",
+          "persist_until": "2022-10-28 10:50:47",
+          "saved": false
+        }
+      ]
+    },
+    {
+      "response_id": "a41ddd3d-f650-4278-82ac-291d706858ec_144d4ed0bd6e5d3cd100047962cd9840",
+      "question_type": "plaintext",
+      "dt_score_updated": "2022-10-26T23:30:21Z",
+      "automarkable": false,
+      "attempted": true,
+      "score": null,
+      "max_score": null,
+      "question_reference": "3a263a90-0eac-4501-b501-777ea5d62cfc",
+      "item_reference": "df06f4ee-64ab-4b77-807b-0bb6109f70d7",
+      "response": {
+        "value": "More and more companies are employing people from all over the world nowadays because they really want to get ahead and be the best.  Well, they can pick and choose all the best people. In addition these people know lots of things about the places they want to sell stuff to as well. however that is not all - they have worked out that globally diverse teams, who have got loads of different experience and different ways of looking at things, are really amazing when it comes to sorting out tricky strategy & organisation problems.  Now we face it, if you are a multinational business and you want to get ahead, this has all get help.",
+        "wordCount": 116,
+        "type": "string",
+        "apiVersion": "v2.168.23",
+        "revision": 11
+      },
+      "questionInfo": {
+        "type": "plaintext",
+        "widget_type": "response",
+        "reference": "3a263a90-0eac-4501-b501-777ea5d62cfc",
+        "data": {
+          "show_copy": true,
+          "show_cut": true,
+          "show_paste": true,
+          "stimulus": "<h5><span style=\"color:#006400;\"><strong>TASK 4 Practice Academic Writing Style</strong></span></h5>\n\n<p><strong>Based on what you have looked at in the prep task, rewrite the paragraph below from a student essay, using correct academic style:</strong></p>\n\n<p>More and more companies are employing people from all over the world nowadays because they really want to get ahead and be the best. So how does this work? Well,&nbsp;they can pick and choose all the best people. And these people&nbsp;know lots of things about the places they want to sell stuff to as well. But that's not all -&nbsp;they've worked out that globally diverse teams, who've got&nbsp;loads of different experience and different ways of looking at things,&nbsp;are really amazing when it comes to sorting out tricky strategy &amp; organisation problems.&nbsp;&nbsp;Let's face it, if you're a multinational business and you want to get ahead, this has all gotta help!</p>\n",
+          "spellcheck": true,
+          "type": "plaintext",
+          "validation": {
+            "max_score": 10
+          }
+        },
+        "metadata": {
+          "name": "Essay with plain text",
+          "template_reference": "0f559437-5072-475e-830d-1fa9d2f6bb0d"
+        }
+      },
+      "feedbackInfo": [
+        {
+          "id": "0707_1dc4a209-c35c-43b0-909c-ab7d23f3a05e_a41ddd3d-f650-4278-82ac-291d706858ec_18dc125f1f8364602c5a20ecae3fcc6c",
+          "user_id": "1dc4a209-c35c-43b0-909c-ab7d23f3a05e",
+          "response_id": "a41ddd3d-f650-4278-82ac-291d706858ec_18dc125f1f8364602c5a20ecae3fcc6c",
+          "type": "longtextV2",
+          "question": {
+            "type": "longtextV2",
+            "metadata": {
+              "source": {
+                "organisation_id": 755
+              },
+              "sheet_reference": "default_feedback",
+              "widget_reference": "de082b5f-742a-4ecf-82ca-4dc86e218fec",
+              "valid_response_count": 0
+            },
+            "stimulus": "Written feedback:",
+            "response_id": "a41ddd3d-f650-4278-82ac-291d706858ec_18dc125f1f8364602c5a20ecae3fcc6c",
+            "show_word_count": false,
+            "show_word_limit": "off"
+          },
+          "response": null,
+          "creation_date": "2022-10-27 10:50:47",
+          "mod_date": "2022-10-27 10:50:47",
+          "persist_until": "2022-10-28 10:50:47",
+          "saved": false
+        },
+        {
+          "id": "0707_1dc4a209-c35c-43b0-909c-ab7d23f3a05e_a41ddd3d-f650-4278-82ac-291d706858ec_be6133a38612c3f8c073daa0cf7b0e10",
+          "user_id": "1dc4a209-c35c-43b0-909c-ab7d23f3a05e",
+          "response_id": "a41ddd3d-f650-4278-82ac-291d706858ec_be6133a38612c3f8c073daa0cf7b0e10",
+          "type": "audio",
+          "question": {
+            "type": "audio",
+            "metadata": {
+              "source": {
+                "organisation_id": 755
+              },
+              "sheet_reference": "default_feedback",
+              "widget_reference": "b2f049b4-bb33-4542-993d-0645ffedda1a",
+              "valid_response_count": 0
+            },
+            "stimulus": "Audio feedback:",
+            "ui_style": {
+              "type": "button"
+            },
+            "max_length": 600,
+            "response_id": "a41ddd3d-f650-4278-82ac-291d706858ec_be6133a38612c3f8c073daa0cf7b0e10"
+          },
+          "response": null,
+          "creation_date": "2022-10-27 10:50:47",
+          "mod_date": "2022-10-27 10:50:47",
+          "persist_until": "2022-10-28 10:50:47",
+          "saved": false
+        }
+      ]
+    },
+    {
+      "response_id": "a41ddd3d-f650-4278-82ac-291d706858ec_884363294c095f224a25ae4d70f9a702",
+      "question_type": "rating",
+      "dt_score_updated": "2022-10-26T23:34:08Z",
+      "automarkable": false,
+      "attempted": true,
+      "score": null,
+      "max_score": null,
+      "question_reference": "0721f302-71bc-43b9-852c-2f9595dba941",
+      "item_reference": "8da691da-3d31-44e0-8896-af2babf2e1ed",
+      "response": {
+        "value": "",
+        "type": "numeric",
+        "apiVersion": "v2.168.23",
+        "revision": 1
+      },
+      "questionInfo": {
+        "type": "rating",
+        "widget_type": "response",
+        "reference": "0721f302-71bc-43b9-852c-2f9595dba941",
+        "data": {
+          "options": [
+            {
+              "value": "",
+              "label": "😀",
+              "tint": "#B85830"
+            },
+            {
+              "value": "",
+              "label": "😐",
+              "tint": "#2979AF"
+            },
+            {
+              "value": "",
+              "label": "🙁"
+            }
+          ],
+          "type": "rating",
+          "stimulus": "<p class=\"text-center\">Do you feel comfortable using the language covered in this exercise?</p>\n",
+          "ui_style": {
+            "fontsize": "xxlarge"
+          }
+        },
+        "metadata": {
+          "name": "Rating",
+          "template_reference": "8e99fa69-b829-4a7d-ae2a-eb935fe3a2c6"
+        }
+      },
+      "feedbackInfo": [
+        {
+          "id": "0707_1dc4a209-c35c-43b0-909c-ab7d23f3a05e_a41ddd3d-f650-4278-82ac-291d706858ec_9aea5366d5f96a3e01fef059cdd538e2",
+          "user_id": "1dc4a209-c35c-43b0-909c-ab7d23f3a05e",
+          "response_id": "a41ddd3d-f650-4278-82ac-291d706858ec_9aea5366d5f96a3e01fef059cdd538e2",
+          "type": "longtextV2",
+          "question": {
+            "type": "longtextV2",
+            "metadata": {
+              "source": {
+                "organisation_id": 755
+              },
+              "sheet_reference": "default_feedback",
+              "widget_reference": "de082b5f-742a-4ecf-82ca-4dc86e218fec",
+              "valid_response_count": 0
+            },
+            "stimulus": "Written feedback:",
+            "response_id": "a41ddd3d-f650-4278-82ac-291d706858ec_9aea5366d5f96a3e01fef059cdd538e2",
+            "show_word_count": false,
+            "show_word_limit": "off"
+          },
+          "response": null,
+          "creation_date": "2022-10-27 10:50:47",
+          "mod_date": "2022-10-27 10:50:47",
+          "persist_until": "2022-10-28 10:50:47",
+          "saved": false
+        },
+        {
+          "id": "0707_1dc4a209-c35c-43b0-909c-ab7d23f3a05e_a41ddd3d-f650-4278-82ac-291d706858ec_ed3ba1c5d5d9ad273efe83c64f1c7d2f",
+          "user_id": "1dc4a209-c35c-43b0-909c-ab7d23f3a05e",
+          "response_id": "a41ddd3d-f650-4278-82ac-291d706858ec_ed3ba1c5d5d9ad273efe83c64f1c7d2f",
+          "type": "audio",
+          "question": {
+            "type": "audio",
+            "metadata": {
+              "source": {
+                "organisation_id": 755
+              },
+              "sheet_reference": "default_feedback",
+              "widget_reference": "b2f049b4-bb33-4542-993d-0645ffedda1a",
+              "valid_response_count": 0
+            },
+            "stimulus": "Audio feedback:",
+            "ui_style": {
+              "type": "button"
+            },
+            "max_length": 600,
+            "response_id": "a41ddd3d-f650-4278-82ac-291d706858ec_ed3ba1c5d5d9ad273efe83c64f1c7d2f"
+          },
+          "response": null,
+          "creation_date": "2022-10-27 10:50:47",
+          "mod_date": "2022-10-27 10:50:47",
+          "persist_until": "2022-10-28 10:50:47",
+          "saved": false
+        }
+      ]
+    }
+  ]
+}

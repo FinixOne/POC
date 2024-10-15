@@ -1,0 +1,298 @@
+{
+  "userId": "439e0673-63bc-435d-b114-2b3aa5459919",
+  "firstName": "Abhiram",
+  "lastName": "Kalathil Aji",
+  "assigmentId": "474247fa-ae32-411c-9e74-79281613a9c5",
+  "assigmentName": "Clarity in Writing",
+  "sessionId": "ef5dbbd3-816a-45ca-9626-350f8d4be69e",
+  "email": "kalathilaa@coventry.ac.uk",
+  "spaceId": "b7723c16-8043-49a0-aac5-518dccc0d596",
+  "spaceName": "4018MFH - AEB for BA International Hospitality Tourism Management 1 - 2122JANAPR",
+  "score": 0,
+  "max_score": 27,
+  "questions": [
+    {
+      "response_id": "ef5dbbd3-816a-45ca-9626-350f8d4be69e_808dcac87fe327356b2fc43c26812fd0",
+      "question_type": "clozedropdown",
+      "dt_score_updated": "2022-02-16T09:33:28Z",
+      "automarkable": false,
+      "attempted": false,
+      "score": null,
+      "max_score": null,
+      "question_reference": "66986b56-893d-445c-9dc5-e54773e97c91",
+      "item_reference": "41f50425-5268-4b0a-b0bb-7d79d8007dc8",
+      "response": null,
+      "questionInfo": {
+        "type": "clozedropdown",
+        "widget_type": "response",
+        "reference": "66986b56-893d-445c-9dc5-e54773e97c91",
+        "data": {
+          "possible_responses": [
+            [
+              "COHESIVE",
+              "COHESION",
+              "COHERENT",
+              "COHERENCE"
+            ],
+            [
+              "COHESIVE",
+              "COHESION",
+              "COHERENT",
+              "COHERENCE"
+            ],
+            [
+              "COHESIVE",
+              "COHESION",
+              "COHERENT",
+              "COHERENCE"
+            ],
+            [
+              "COHESIVE",
+              "COHESION",
+              "COHERENT",
+              "COHERENCE"
+            ]
+          ],
+          "response_container": {
+            "pointer": "left"
+          },
+          "stimulus": "<h5><span style=\"color:#8b4513;\"><strong>TASK 1</strong></span></h5>\n\n<h5><span style=\"color:#8b4513;\"><strong>Complete the following definitions by choosing the correct options from the drop-down menu</strong></span></h5>\n",
+          "template": "<p><span style=\"font-size:1.1em;\">{{response}}&nbsp;is a micro&nbsp;skill. In a {{response}}&nbsp;text, the writer uses a range of structures to link words, sentences and ideas together.</span></p>\n\n<p><span style=\"font-size:1.1em;\">{{response}}&nbsp;is a maco skill. If a text is {{response}}, the reader can easily understand it and see the logical development of ideas.</span></p>\n",
+          "type": "clozedropdown",
+          "case_sensitive": true,
+          "validation": {
+            "scoring_type": "partialMatchV2",
+            "valid_response": {
+              "score": 1,
+              "value": [
+                null,
+                null,
+                null,
+                null
+              ]
+            }
+          },
+          "instant_feedback": true,
+          "shuffle_options": true
+        },
+        "metadata": {
+          "name": "Cloze with drop down",
+          "template_reference": "2fbba51b-e35e-441f-83c7-2662e2e81fa6"
+        }
+      },
+      "feedbackInfo": [
+        null,
+        null
+      ]
+    },
+    {
+      "response_id": "ef5dbbd3-816a-45ca-9626-350f8d4be69e_2cac1ce9e2236a84a9d8cee1c735428c",
+      "question_type": "association",
+      "dt_score_updated": "2022-02-16T09:33:28Z",
+      "automarkable": true,
+      "attempted": false,
+      "score": null,
+      "max_score": 1,
+      "question_reference": "466db339-7820-45a3-88be-83d25fcfff9e",
+      "item_reference": "41f50425-5268-4b0a-b0bb-7d79d8007dc8",
+      "response": null,
+      "questionInfo": {
+        "type": "association",
+        "widget_type": "response",
+        "reference": "466db339-7820-45a3-88be-83d25fcfff9e",
+        "data": {
+          "possible_responses": [
+            "<span style=\"font-size:1.5em;\">Ellipsis</span>",
+            "<span style=\"font-size:1.5em;\">Transition Signal</span>",
+            "<span style=\"font-size:1.5em;\">Reference Word</span>",
+            "<span style=\"font-size:1.5em;\">Substitution</span>",
+            "<span style=\"font-size:1.5em;\">Repeated Word/Idea</span>"
+          ],
+          "stimulus": "<h5><span style=\"color:#ff8c00;\"><strong>TASK 2</strong></span></h5>\n\n<h5><span style=\"color:#ff8c00;\"><strong>Look at the cohesive devices in </strong></span><span style=\"color:#ff0000;\"><strong>RED</strong></span><span style=\"color:#ff8c00;\"><strong>, and match these to the correct term</strong></span></h5>\n",
+          "stimulus_list": [
+            "<span style=\"font-size:1.1em;\">Academic writing can be challenging at first. <strong><span style=\"color:#ff0000;\">However</span></strong>, it becomes easier with practice</span>",
+            "<span style=\"font-size:1.1em;\">Although finding time to develop academic writing skills is vital, <span style=\"color:#ff0000;\"><strong>this </strong></span>can be challenging for busy students</span>",
+            "<span style=\"font-size:1.1em;\">All students know that avoiding plagiarism is important, but <span style=\"color:#ff0000;\"><strong>doing so</strong></span> can be difficult.</span>",
+            "<span style=\"font-size:1.1em;\">The best writers read their writing to check for clarity. However, <span style=\"color:#ff0000;\"><strong>many do not</strong></span>.</span>",
+            "<span style=\"font-size:1.1em;\">Generally, essays do not use <span style=\"color:#ff0000;\"><strong>headings</strong></span>, but <span style=\"color:#ff0000;\"><strong>clear section headings</strong></span> are a key feature of reports.</span>"
+          ],
+          "type": "association",
+          "validation": {
+            "scoring_type": "exactMatch",
+            "valid_response": {
+              "score": 1,
+              "value": [
+                "<span style=\"font-size:1.5em;\">Transition Signal</span>",
+                "<span style=\"font-size:1.5em;\">Reference Word</span>",
+                "<span style=\"font-size:1.5em;\">Substitution</span>",
+                "<span style=\"font-size:1.5em;\">Ellipsis</span>",
+                "<span style=\"font-size:1.5em;\">Repeated Word/Idea</span>"
+              ]
+            }
+          },
+          "shuffle_options": true
+        },
+        "metadata": {
+          "name": "Match list",
+          "template_reference": "1fa22aac-1f88-47f7-941b-3c77759549e6"
+        }
+      },
+      "feedbackInfo": [
+        null,
+        null
+      ]
+    },
+    {
+      "response_id": "ef5dbbd3-816a-45ca-9626-350f8d4be69e_62392bf2dc3e050dea74035e15f8245b",
+      "question_type": "choicematrix",
+      "dt_score_updated": "2022-02-16T09:33:28Z",
+      "automarkable": true,
+      "attempted": false,
+      "score": null,
+      "max_score": 26,
+      "question_reference": "63c32577-cea7-44d5-98c0-d65444bf5bd4",
+      "item_reference": "41f50425-5268-4b0a-b0bb-7d79d8007dc8",
+      "response": null,
+      "questionInfo": {
+        "type": "choicematrix",
+        "widget_type": "response",
+        "reference": "63c32577-cea7-44d5-98c0-d65444bf5bd4",
+        "data": {
+          "options": [
+            "Correct",
+            "Incorrect"
+          ],
+          "stems": [
+            "<span style=\"font-size:1.1em;\"><strong>1a)</strong> Poor paraphrasing can have a negative affect on your grades.</span>",
+            "<span style=\"font-size:1.1em;\"><strong>1b)</strong> Poor paraphrasing can have a negative effect on your grades.</span>",
+            "<span style=\"font-size:1.1em;\"><strong>2a) </strong>After writing the first draft of your report, it is important to review and improve it.</span>",
+            "<span style=\"font-size:1.1em;\"><strong>2b)</strong> After writing the first draft of your report it is important to review and improve it.</span>",
+            "<span style=\"font-size:1.1em;\"><strong>3a)</strong> Purdon (2021) emphasises the importance of accurate citation as a means of \"leaving an information trail\", which the reader can follow.</span>",
+            "<span style=\"font-size:1.1em;\"><strong>3b)</strong> Purdon (2021, p.21) emphasises the importance of accurate citation as a means of \"leaving an information trail\", which the reader can follow.</span>",
+            "<span style=\"font-size:1.1em;\"><strong>4a)</strong> Formal vocabulary is an important feature of academic writing, which causes problems for many students.</span>",
+            "<span style=\"font-size:1.1em;\"><strong>4b)</strong> Formal vocabulary is an important feature of academic writing, and causes problems for many students.</span>",
+            "<span style=\"font-size:1.1em;\"><strong>5a) </strong>A paragraph is difficult to read if it's structure is unclear.</span>",
+            "<span style=\"font-size:1.1em;\"><strong>5b)</strong> A paragraph is difficult to read if its structure is unclear,</span>",
+            "<span style=\"font-size:1.1em;\"><strong>6a)</strong> Businesses often fail because they fail to identify new trends early enough (Bobbin, 2018).</span>",
+            "<span style=\"font-size:1.1em;\"><strong>6b)</strong> Businesses often fail because they fail to identify new trends early enough. (Bobbin, 2018)</span>",
+            "<span style=\"font-size:1.1em;\"><strong>7a)</strong> The purpose of a report must be clear to the reader, it should therefore be made clear in the introduction.</span>",
+            "<span style=\"font-size:1.1em;\"><strong>7b)</strong> The purpose of a report must be clear to the reader. It should therefore be made clear in the introduction.</span>",
+            "<span style=\"font-size:1.1em;\"><strong>8a)</strong> A strong conclusion. This is important as it will focus the audience on your key message.</span>",
+            "<span style=\"font-size:1.1em;\"><strong>8b) </strong>A strong conclusion is important as it will focus the audience on your key message.</span>",
+            "<span style=\"font-size:1.1em;\"><strong>9a)</strong> Presentation slides, which should be used to help the audience, can often distract them from the speaker</span>",
+            "<span style=\"font-size:1.1em;\"><strong>9b)</strong> Presentation slides which should be used to help the audience, can often distract them from the speaker</span>",
+            "<span style=\"font-size:1.1em;\"><strong>10a)</strong> Sentences which include informal language are not acceptable in academic writing</span>",
+            "<span style=\"font-size:1.1em;\"><strong>10b)</strong> Sentences, which include informal language, are not acceptable in academic writing</span>",
+            "<span style=\"font-size:1.1em;\"><strong>11a)</strong> The lectures are extremely useful, but not necessary.</span>",
+            "<span style=\"font-size:1.1em;\"><strong>11b)</strong> The lectures are extremely useful. But not necessary.</span>",
+            "<span style=\"font-size:1.1em;\"><strong>12a)</strong> Parker &amp; Bowles (2018) suggest that emotional appeals are more effective than rational ones.</span>",
+            "<span style=\"font-size:1.1em;\"><strong>12b)</strong> Parker &amp; Bowles (2018) suggests that emotional appeals are more effective than rational ones.</span>",
+            "<span style=\"font-size:1.1em;\"><strong>13a) </strong>Recent studies have shown that customer loyalty has improved where businesses have remained in touch during the pandemic and providing updates (Giles &amp; Mortimer, 2020).</span>",
+            "<span style=\"font-size:1.1em;\"><strong>13b)</strong> Recent studies have shown that customer loyalty has improved where businesses have remained in touch during the pandemic and provided updates (Giles &amp; Mortimer, 2020).</span>"
+          ],
+          "stimulus": "<p><span style=\"color:#800080;\"><strong><span style=\"font-size:1.3em;\">TASK 3</span></strong></span></p>\n\n<p><span style=\"color:#800080;\"><strong><span style=\"font-size:1.3em;\">Each of the pairs of sentences below contains a typical error found in student writing. Look at the sentence pairs below and decide which one is CORRECT and which is INCORRECT.</span></strong></span></p>\n\n<p><span style=\"color:#800080;\"><strong><span style=\"font-size:1.3em;\"> Make a note of any errors which you might check for when you proofread your own writing!</span></strong></span></p>\n",
+          "type": "choicematrix",
+          "validation": {
+            "scoring_type": "partialMatchV2",
+            "valid_response": {
+              "score": 26,
+              "value": [
+                [
+                  1
+                ],
+                [
+                  0
+                ],
+                [
+                  0
+                ],
+                [
+                  1
+                ],
+                [
+                  1
+                ],
+                [
+                  0
+                ],
+                [
+                  1
+                ],
+                [
+                  0
+                ],
+                [
+                  1
+                ],
+                [
+                  0
+                ],
+                [
+                  0
+                ],
+                [
+                  1
+                ],
+                [
+                  1
+                ],
+                [
+                  0
+                ],
+                [
+                  1
+                ],
+                [
+                  0
+                ],
+                [
+                  0
+                ],
+                [
+                  1
+                ],
+                [
+                  0
+                ],
+                [
+                  1
+                ],
+                [
+                  0
+                ],
+                [
+                  1
+                ],
+                [
+                  0
+                ],
+                [
+                  1
+                ],
+                [
+                  1
+                ],
+                [
+                  0
+                ]
+              ]
+            }
+          },
+          "ui_style": {
+            "type": "table",
+            "horizontal_lines": false
+          },
+          "instant_feedback": true
+        },
+        "metadata": {
+          "name": "Choice matrix – standard",
+          "template_reference": "14b7af71-e146-4747-aae5-ca71618a5038"
+        }
+      },
+      "feedbackInfo": [
+        null,
+        null
+      ]
+    }
+  ]
+}

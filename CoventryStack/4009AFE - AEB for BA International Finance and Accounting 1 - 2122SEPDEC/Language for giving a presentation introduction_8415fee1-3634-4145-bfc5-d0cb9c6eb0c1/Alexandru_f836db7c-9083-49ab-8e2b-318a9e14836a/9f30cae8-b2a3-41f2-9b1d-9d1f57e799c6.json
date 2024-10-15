@@ -1,0 +1,85 @@
+{
+  "userId": "f836db7c-9083-49ab-8e2b-318a9e14836a",
+  "firstName": "Alexandru",
+  "lastName": "Handuca",
+  "assigmentId": "8415fee1-3634-4145-bfc5-d0cb9c6eb0c1",
+  "assigmentName": "Language for giving a presentation introduction",
+  "sessionId": "9f30cae8-b2a3-41f2-9b1d-9d1f57e799c6",
+  "email": "handucaa@coventry.ac.uk",
+  "spaceId": "54572b50-c067-4efa-9cfd-3b761bdd8b02",
+  "spaceName": "4009AFE - AEB for BA International Finance and Accounting 1 - 2122SEPDEC",
+  "score": 1,
+  "max_score": 1,
+  "questions": [
+    {
+      "response_id": "9f30cae8-b2a3-41f2-9b1d-9d1f57e799c6_a5aecffcea5c0de1bd9d77a792d10bfa",
+      "question_type": "orderlist",
+      "dt_score_updated": "2021-10-07T21:48:43Z",
+      "automarkable": true,
+      "attempted": true,
+      "score": 1,
+      "max_score": 1,
+      "question_reference": "76398b31-e00e-426f-b517-711333e1e426",
+      "item_reference": "ae8806ef-e74d-4d1b-b0aa-f2c3546ea5ed",
+      "response": {
+        "value": [
+          0,
+          1,
+          2,
+          3,
+          4,
+          5,
+          6,
+          7
+        ],
+        "type": "array",
+        "apiVersion": "v2.168.10",
+        "revision": 10
+      },
+      "questionInfo": {
+        "type": "orderlist",
+        "widget_type": "response",
+        "reference": "76398b31-e00e-426f-b517-711333e1e426",
+        "data": {
+          "list": [
+            "Hello everyone! My name is...",
+            "Today I will talk to you about...",
+            "Before we go there, what we really need to understand is...",
+            "In today's presentation, we are going to look at three key parts",
+            "The first thing we are going to look at is...",
+            "Then we are going to move on to...",
+            "And finally, we are going to look at...",
+            "So... let's move on to the first part"
+          ],
+          "stimulus": "<p>Watch Omar's presentation introduction and put the signposting phrases below into the correct order</p>\n\n<p>&nbsp;</p>\n<iframe allow=\"autoplay; fullscreen\" allowfullscreen=\"\" frameborder=\"0\" height=\"270\" src=\"https://media.coventry.ac.uk/Embed.aspx?id=30753&amp;code=cU~6oOIioxFWq6rgqFqMlWteukdIxfj&amp;hm=1\" width=\"500\"></iframe>",
+          "type": "orderlist",
+          "validation": {
+            "scoring_type": "exactMatch",
+            "valid_response": {
+              "score": 1,
+              "value": [
+                0,
+                1,
+                2,
+                3,
+                4,
+                5,
+                6,
+                7
+              ]
+            }
+          },
+          "shuffle_options": true
+        },
+        "metadata": {
+          "name": "Order list",
+          "template_reference": "0c7f68f7-2be6-4ae0-8492-0ab78c8d0010"
+        }
+      },
+      "feedbackInfo": [
+        null,
+        null
+      ]
+    }
+  ]
+}

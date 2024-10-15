@@ -1,0 +1,259 @@
+{
+  "userId": "0207859c-09d2-4659-b20b-4a7d801c828d",
+  "firstName": "Ahmad",
+  "lastName": "Nawaz",
+  "assigmentId": "1438472f-4484-4f50-b4af-b21ddfb67daf",
+  "assigmentName": "Academic Writing Style",
+  "sessionId": "85dcb0c9-ed4d-4da0-a173-5b06604650ac",
+  "email": "nawaza22@coventry.ac.uk",
+  "spaceId": "b7723c16-8043-49a0-aac5-518dccc0d596",
+  "spaceName": "4018MFH - AEB for BA International Hospitality Tourism Management 1 - 2122JANAPR",
+  "score": 1,
+  "max_score": 6,
+  "questions": [
+    {
+      "response_id": "85dcb0c9-ed4d-4da0-a173-5b06604650ac_a05f96bdf6424271d6b59439033e0f2f",
+      "question_type": "clozedropdown",
+      "dt_score_updated": "2022-03-14T20:54:27Z",
+      "automarkable": true,
+      "attempted": true,
+      "score": 1,
+      "max_score": 1,
+      "question_reference": "e2c6eda0-5a21-4a03-9fa3-030167792411",
+      "item_reference": "e520bf78-d9d1-44cf-814a-e87932afaaf2",
+      "response": {
+        "value": [
+          "BE CONCISE",
+          "concise",
+          "BE FORMAL",
+          "colloquial",
+          "BE COHERENT",
+          "coherent",
+          "BE OBJECTIVE",
+          "objective",
+          "cautious"
+        ],
+        "type": "array",
+        "apiVersion": "v2.168.17",
+        "revision": 31,
+        "feedbackAttemptsCount": 16
+      },
+      "questionInfo": {
+        "type": "clozedropdown",
+        "widget_type": "response",
+        "reference": "e2c6eda0-5a21-4a03-9fa3-030167792411",
+        "data": {
+          "possible_responses": [
+            [
+              "BE CONCISE",
+              "BE FORMAL",
+              "BE COHERENT",
+              "BE OBJECTIVE"
+            ],
+            [
+              "concise",
+              "colloquial",
+              "coherent",
+              "objective",
+              "cautious"
+            ],
+            [
+              "BE CONCISE",
+              "BE FORMAL",
+              "BE COHERENT",
+              "BE OBJECTIVE"
+            ],
+            [
+              "concise",
+              "colloquial",
+              "coherent",
+              "objective",
+              "cautious"
+            ],
+            [
+              "BE CONCISE",
+              "BE FORMAL",
+              "BE COHERENT",
+              "BE OBJECTIVE"
+            ],
+            [
+              "colloquial",
+              "coherent",
+              "concise",
+              "objective",
+              "cautious"
+            ],
+            [
+              "BE CONCISE",
+              "BE FORMAL",
+              "BE COHERENT",
+              "BE OBJECTIVE"
+            ],
+            [
+              "concise",
+              "coherent",
+              "colloquial",
+              "objective",
+              "cautious"
+            ],
+            [
+              "concise",
+              "coherent",
+              "colloquial",
+              "objective",
+              "cautious"
+            ]
+          ],
+          "response_container": {
+            "pointer": "left"
+          },
+          "stimulus": "<h4><span style=\"color:#8b4513;\"><strong>Task 1: Read the short summary below, which describes important&nbsp;aspects of academic style. Select the appropriate words to complete the headings and fill the gaps.</strong></span></h4>\n",
+          "template": "<p><span style=\"color:#8b4513;\"><strong>FUNDAMENTALS OF ACADEMIC STYLE</strong></span></p>\n\n<p><span id=\"cke_bm_3166S\" style=\"display: none;\"><span id=\"cke_bm_7898S\" style=\"display: none;\">&nbsp;</span>&nbsp;</span> <span id=\"cke_bm_3120S\" style=\"display: none;\">&nbsp;</span><strong>{{response}}</strong><span id=\"cke_bm_3166E\" style=\"display: none;\">&nbsp;</span></p>\n\n<p>One of the most important objectives of good academic style&nbsp;to keep your writing clear and <span id=\"cke_bm_3166S\" style=\"display: none;\">&nbsp;</span> <span id=\"cke_bm_3120S\" style=\"display: none;\">&nbsp;</span>{{response}}<span id=\"cke_bm_3166E\" style=\"display: none;\">&nbsp;</span>. This means getting your ideas across in a comprehensible form, without using unnecessary words. You should also avoid using unnecessary information.&nbsp;Good critical writing means knowing what to keep and what to cut out. You have a limited number of words for your assessments - Use them well!</p>\n\n<p>&nbsp;</p>\n\n<p><span id=\"cke_bm_3166S\" style=\"display: none;\"><span id=\"cke_bm_7898S\" style=\"display: none;\">&nbsp;</span>&nbsp;</span> <span id=\"cke_bm_3120S\" style=\"display: none;\">&nbsp;</span><strong>{{response}}</strong><span id=\"cke_bm_3166E\" style=\"display: none;\">&nbsp;</span></p>\n\n<p>A wide range of vocabulary is important, but you not all words are suitable for academic writing. It is important&nbsp;to avoid informal language, especially <span id=\"cke_bm_3600S\" style=\"display: none;\">&nbsp;</span> <span id=\"cke_bm_3166S\" style=\"display: none;\">&nbsp;</span> <span id=\"cke_bm_3120S\" style=\"display: none;\">&nbsp;</span>{{response}}<span id=\"cke_bm_3166E\" style=\"display: none;\">&nbsp;</span> expressions and slang. Academic writing also requires standard spelling and full forms (e.g \"do not\" should be used in place of \"don't\").</p>\n\n<p>&nbsp;</p>\n\n<p><span id=\"cke_bm_3166S\" style=\"display: none;\"><span id=\"cke_bm_7898S\" style=\"display: none;\">&nbsp;</span>&nbsp;</span> <span id=\"cke_bm_3120S\" style=\"display: none;\">&nbsp;</span><strong>{{response}}</strong><span id=\"cke_bm_3166E\" style=\"display: none;\">&nbsp;</span></p>\n\n<p>In your writing you need to have a clear argument, which develops logically. To&nbsp;develop a&nbsp;{{response}}&nbsp;argument, where ideas connect and build on each other, structure is important. Focus on how your sentences are arranged in each paragraph, how paragraphs link to each other, and how the different sections of your reports and essays are organised. Does the organisation or your writing help the reader follow your ideas?</p>\n\n<p>&nbsp;</p>\n\n<p><span id=\"cke_bm_3166S\" style=\"display: none;\"><span id=\"cke_bm_7898S\" style=\"display: none;\">&nbsp;</span>&nbsp;</span> <span id=\"cke_bm_3120S\" style=\"display: none;\">&nbsp;</span><strong>{{response}}</strong><span id=\"cke_bm_3166E\" style=\"display: none;\">&nbsp;</span></p>\n\n<p>Finally, academic writing must be&nbsp;{{response}}&nbsp;and based on evidence. In order for your ideas to be taken seriously, you need to show that they are supported by experts and serious research.&nbsp;However, as different viewpoints exist, it is also important to be <span id=\"cke_bm_9423S\" style=\"display: none;\">&nbsp;</span> <span id=\"cke_bm_3600S\" style=\"display: none;\">&nbsp;</span> <span id=\"cke_bm_3166S\" style=\"display: none;\">&nbsp;</span> <span id=\"cke_bm_3120S\" style=\"display: none;\">&nbsp;</span>{{response}}<span id=\"cke_bm_3166E\" style=\"display: none;\">&nbsp;</span> when presenting ideas.&nbsp;</p>\n",
+          "type": "clozedropdown",
+          "case_sensitive": true,
+          "validation": {
+            "scoring_type": "partialMatchV2",
+            "valid_response": {
+              "score": 1,
+              "value": [
+                "BE CONCISE",
+                "concise",
+                "BE FORMAL",
+                "colloquial",
+                "BE COHERENT",
+                "coherent",
+                "BE OBJECTIVE",
+                "objective",
+                "cautious"
+              ]
+            },
+            "rounding": "none"
+          },
+          "instant_feedback": true,
+          "shuffle_options": true
+        },
+        "metadata": {
+          "name": "Cloze with drop down",
+          "template_reference": "2fbba51b-e35e-441f-83c7-2662e2e81fa6"
+        }
+      },
+      "feedbackInfo": [
+        null,
+        null
+      ]
+    },
+    {
+      "response_id": "85dcb0c9-ed4d-4da0-a173-5b06604650ac_3fd01e90004eddcabba297fcf0e6a60c",
+      "question_type": "classification",
+      "dt_score_updated": "2022-03-14T20:55:48Z",
+      "automarkable": true,
+      "attempted": true,
+      "score": 0,
+      "max_score": 5,
+      "question_reference": "2439a785-a92b-4e75-89f9-2ebbd4b7acf0",
+      "item_reference": "e520bf78-d9d1-44cf-814a-e87932afaaf2",
+      "response": {
+        "value": [
+          [
+            1
+          ],
+          [
+            3
+          ],
+          [
+            4
+          ],
+          [
+            11
+          ],
+          [
+            8
+          ]
+        ],
+        "type": "array",
+        "apiVersion": "v2.168.17",
+        "revision": 23,
+        "feedbackAttemptsCount": 18
+      },
+      "questionInfo": {
+        "type": "classification",
+        "widget_type": "response",
+        "reference": "2439a785-a92b-4e75-89f9-2ebbd4b7acf0",
+        "data": {
+          "possible_responses": [
+            "<span style=\"font-size:1em;\">avoid contracted forms (e.g. use replace <em>don't</em> with <em>do not</em>)</span>",
+            "avoid slang and colloquial language",
+            "avoid abbreviations",
+            "avoid personal language",
+            "avoid generalisations",
+            "avoid emotional language",
+            "use qualifying language when appropriate (e.g. MANY businesses have issues with, NOT business have issues with)",
+            "check sentences are grammatical",
+            "use connecting words and phrases to show links between sentences/paragraphs",
+            "avoid exclamation marks !, (parentheses), - hyphens &amp; unnecessary CAPITALISATION",
+            "avoid repetition",
+            "replace wordy phrases (e.g. due to NOT due to the fact that)",
+            "only include what is needed for the task",
+            "use hedging language (e.g. This COULD be due to, It is POSSIBLE/PROBABLE that) if there is any doubt",
+            "base statements on evidence"
+          ],
+          "stimulus": "<h4><strong><span style=\"color:#008080;\">Task 2. The columns below show five criteria of academic writing style. What do you need to do to make sure that you are meeting each of these?&nbsp;Drag and drop each suggestion into the appropriate column.</span></strong></h4>\n",
+          "type": "classification",
+          "ui_style": {
+            "column_count": 5,
+            "column_titles": [
+              "FORMALITY",
+              "OBJECTIVITY",
+              "CAUTION",
+              "CONCISION",
+              "COHERENCE &amp; COHESION"
+            ]
+          },
+          "validation": {
+            "scoring_type": "partialMatch",
+            "valid_response": {
+              "score": 1,
+              "value": [
+                [
+                  0,
+                  1,
+                  2,
+                  9
+                ],
+                [
+                  3,
+                  5,
+                  14
+                ],
+                [
+                  4,
+                  6,
+                  13
+                ],
+                [
+                  10,
+                  11,
+                  12
+                ],
+                [
+                  7,
+                  8
+                ]
+              ]
+            }
+          },
+          "instant_feedback": true,
+          "shuffle_options": true
+        },
+        "metadata": {
+          "name": "Classification",
+          "template_reference": "ef2648de-f826-4674-b17d-71e71889d8e6"
+        }
+      },
+      "feedbackInfo": [
+        null,
+        null
+      ]
+    }
+  ]
+}

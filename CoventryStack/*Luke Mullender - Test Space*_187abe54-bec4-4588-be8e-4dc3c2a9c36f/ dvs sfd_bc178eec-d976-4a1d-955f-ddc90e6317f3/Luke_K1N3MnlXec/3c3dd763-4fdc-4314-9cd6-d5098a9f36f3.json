@@ -1,0 +1,71 @@
+{
+  "userId": "K1N3MnlXec",
+  "firstName": "Luke",
+  "lastName": "Mullender",
+  "assigmentId": "bc178eec-d976-4a1d-955f-ddc90e6317f3",
+  "assigmentName": " dvs sfd",
+  "sessionId": "3c3dd763-4fdc-4314-9cd6-d5098a9f36f3",
+  "email": "mullenderluke@gmail.com",
+  "spaceId": "187abe54-bec4-4588-be8e-4dc3c2a9c36f",
+  "spaceName": "*Luke Mullender - Test Space*",
+  "score": 0,
+  "max_score": 4,
+  "questions": [
+    {
+      "response_id": "3c3dd763-4fdc-4314-9cd6-d5098a9f36f3_f02844f5e8ff5853c1700777a8c838b9",
+      "question_type": "clozetext",
+      "dt_score_updated": "2022-01-18T15:45:09Z",
+      "automarkable": true,
+      "attempted": true,
+      "score": 0,
+      "max_score": 4,
+      "question_reference": "94b82451-65ad-4199-a948-b689208cca46",
+      "item_reference": "56c7333f-52ef-4e43-be70-9e5a1e8ba064",
+      "response": {
+        "value": [
+          "question I need to address",
+          "in fact",
+          "That means that",
+          "What I did was"
+        ],
+        "type": "array",
+        "apiVersion": "v2.168.15",
+        "revision": 4,
+        "feedbackAttemptsCount": 1
+      },
+      "questionInfo": {
+        "type": "clozetext",
+        "widget_type": "response",
+        "reference": "94b82451-65ad-4199-a948-b689208cca46",
+        "data": {
+          "template": "Now, the first&nbsp;{{response}} is,&nbsp;‘How do I know anything about lectures in&nbsp;China?’ because I haven’t studied there and&nbsp;{{response}} I haven’t even been there. Well, I found out&nbsp;by interviewing Chinese students. What I did&nbsp;was conduct a so-called ‘tracking study’.&nbsp;{{response}} you follow students over a period&nbsp;of time.&nbsp;{{response}} to follow 12 Chinese&nbsp;students, all doing different courses, different&nbsp;master’s courses at the University of Reading,&nbsp;and over their year of study I interviewed them&nbsp;three times individually. I interviewed them once&nbsp;in the autumn term, once in the spring term&nbsp;and then again in the summer term. And the&nbsp;interviews lasted for about an hour, an hour and&nbsp;a quarter. I asked them a number of questions&nbsp;about studies in the UK and about their studies&nbsp;in China.",
+          "type": "clozetext",
+          "validation": {
+            "scoring_type": "exactMatch",
+            "valid_response": {
+              "score": 4,
+              "value": [
+                "question I need to address",
+                "in fact",
+                "That means that",
+                "What I did was"
+              ]
+            }
+          },
+          "instant_feedback": true,
+          "max_length": 28,
+          "spellcheck": true,
+          "stimulus": "Question"
+        },
+        "metadata": {
+          "name": "Cloze with text",
+          "template_reference": "457fe101-0667-4a35-b193-b849653acb52"
+        }
+      },
+      "feedbackInfo": [
+        null,
+        null
+      ]
+    }
+  ]
+}

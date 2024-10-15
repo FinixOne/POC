@@ -1,0 +1,85 @@
+{
+  "userId": "14a4ac3f-a80c-48b2-99e1-0090a26c1367",
+  "firstName": "Zainab",
+  "lastName": "Anjum",
+  "assigmentId": "b88770c7-807d-44e5-819f-acb0434879c2",
+  "assigmentName": "Signposting Language for Introductions",
+  "sessionId": "07cc7aaf-e432-4cf6-98aa-3da55a1bc3ed",
+  "email": "anjumz@coventry.ac.uk",
+  "spaceId": "e8af2ef1-e731-4961-be80-0211fe49df29",
+  "spaceName": "4016MFH - AEB for BA International Fashion Management and Marketing 1 - 2122SEPDEC",
+  "score": 0,
+  "max_score": 1,
+  "questions": [
+    {
+      "response_id": "07cc7aaf-e432-4cf6-98aa-3da55a1bc3ed_a326bae2ac21f9401b6a414932897454",
+      "question_type": "orderlist",
+      "dt_score_updated": "2021-10-05T09:45:01Z",
+      "automarkable": true,
+      "attempted": true,
+      "score": 0,
+      "max_score": 1,
+      "question_reference": "ea8e06eb-2434-4edf-9c23-11ee115e92e2",
+      "item_reference": "9af7ba55-fc28-45a4-a394-558b03502008",
+      "response": {
+        "value": [
+          0,
+          1,
+          3,
+          2,
+          4,
+          7,
+          5,
+          6
+        ],
+        "type": "array",
+        "apiVersion": "v2.168.9",
+        "revision": 7
+      },
+      "questionInfo": {
+        "type": "orderlist",
+        "widget_type": "response",
+        "reference": "ea8e06eb-2434-4edf-9c23-11ee115e92e2",
+        "data": {
+          "list": [
+            "Hello everyone! My name is...",
+            "Today I will talk to you about...",
+            "Before we go there, what we really need to understand is...",
+            "In today's presentation, we are going to look at three key parts",
+            "The first thing we are going to look at is...",
+            "Then we are going to move on to...",
+            "And finally, we are going to look at...",
+            "So... let's move on to the first part"
+          ],
+          "stimulus": "<p>Watch Omar's presentation introduction and put the signposting phrases below into the correct order</p>\n\n<p>&nbsp;</p>\n<iframe allow=\"autoplay; fullscreen\" allowfullscreen=\"\" frameborder=\"0\" height=\"270\" src=\"https://media.coventry.ac.uk/Embed.aspx?id=30753&amp;code=cU~6oOIioxFWq6rgqFqMlWteukdIxfj&amp;hm=1\" width=\"500\"></iframe>",
+          "type": "orderlist",
+          "validation": {
+            "scoring_type": "exactMatch",
+            "valid_response": {
+              "score": 1,
+              "value": [
+                0,
+                1,
+                2,
+                3,
+                4,
+                5,
+                6,
+                7
+              ]
+            }
+          },
+          "shuffle_options": true
+        },
+        "metadata": {
+          "name": "Order list",
+          "template_reference": "0c7f68f7-2be6-4ae0-8492-0ab78c8d0010"
+        }
+      },
+      "feedbackInfo": [
+        null,
+        null
+      ]
+    }
+  ]
+}

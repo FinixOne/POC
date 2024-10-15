@@ -1,0 +1,1216 @@
+{
+  "userId": "1d586b71-f9f5-4f37-8884-30fd1ebc39e0",
+  "firstName": "Peeraya",
+  "lastName": "Tachabavornkul",
+  "assigmentId": "c78200e2-7a6d-44d8-90a3-82872b4b269b",
+  "assigmentName": "Fashion First (Case Study)",
+  "sessionId": "62079a3a-1d37-40e5-8248-f9eacb1f02a0",
+  "email": "tachabavop@coventry.ac.uk",
+  "spaceId": "eccb3434-e130-4250-b8cd-8ba714fcec86",
+  "spaceName": "(Community) Presessional English (PSE London)",
+  "score": 60,
+  "max_score": 65,
+  "questions": [
+    {
+      "response_id": "62079a3a-1d37-40e5-8248-f9eacb1f02a0_24da1d96c468f91740f6c9301046b5d4",
+      "question_type": "clozetext",
+      "dt_score_updated": "2023-06-13T10:50:11Z",
+      "automarkable": true,
+      "attempted": true,
+      "score": 4,
+      "max_score": 5,
+      "question_reference": "c52f0f0b-a7b0-4a91-8e9c-dc32796c512b",
+      "item_reference": "aa6f9b2d-aace-4226-9093-d4adff69a90a",
+      "response": {
+        "value": [
+          "Wind",
+          "low carbon",
+          "carbon prices",
+          "Clean energy",
+          "reduce"
+        ],
+        "type": "array",
+        "apiVersion": "v2.177.27",
+        "revision": 13,
+        "feedbackAttemptsCount": 12
+      },
+      "questionInfo": {
+        "type": "clozetext",
+        "widget_type": "response",
+        "reference": "c52f0f0b-a7b0-4a91-8e9c-dc32796c512b",
+        "data": {
+          "stimulus": "<h2><img height=\"80\" src=\"https://assets.learnosity.com/organisations/755/f2d8ea0c-ec7a-4c32-b8d8-99143ef0556d.jpg\" width=\"80\"><b>&nbsp;Get Ready to Listen&nbsp;</b></h2>\n\n<h2><b><span style=\"color:#ff8c00;\">► </span>In the first part of the lesson, we will focus on&nbsp;<span style=\"color:#ff8c00;\"><u>listening</u>&nbsp;</span>and&nbsp;<span style=\"color:#ff8c00;\"><u>vocabulary</u></span>.</b></h2>\n\n<p>&nbsp;</p>\n\n<p>&nbsp;</p>\n\n<h2><strong>1.&nbsp;BloombergNEF is a leading provider of&nbsp;primary research on clean energy.</strong></h2>\n\n<h4><img class=\"lrn-image-left\" height=\"180\" src=\"https://assets.learnosity.com/organisations/755/13daf44f-bc17-450b-90c6-2e6f4f8d49dc.png\" width=\"164\"></h4>\n\n<h2><img class=\"lrn-image-left\" height=\"150\" src=\"https://assets.learnosity.com/organisations/755/6fb9fcad-4a03-45ec-bbd0-0587c65bd2c2.png\" width=\"358\"></h2>\n\n<h4>&nbsp;</h4>\n\n<h4>&nbsp;</h4>\n\n<p>&nbsp;</p>\n\n<p>&nbsp;</p>\n\n<h4>&nbsp;</h4>\n\n<h4>&nbsp;</h4>\n\n<h4><b><b>► Listen to its Chief Editor talking about the company and complete the summary.</b></b></h4>\n\n<p><span class=\"learnosity-feature\" data-player=\"button\" data-simplefeature_id=\"9ec6a7f0-d48c-4efb-85f3-8dec1a8b9161\" data-src=\"https://assets.learnosity.com/organisations/755/03e2d2d3-7e91-46f6-99a9-4766972950af.mp3\" data-type=\"audioplayer\"></span></p>\n",
+          "template": "<p style=\"margin-left: 40px;\">&nbsp;</p>\n\n<p style=\"margin-left: 40px;\"><span style=\"font-size:1.3em;\">Bloomberg New Energy Finance (NEF) provides news, data and deep analysis on clean energy. Clean energy includes </span><span style=\"font-size:0.9em;\">{{response}}</span><span style=\"font-size:1.3em;\">&nbsp;and solar, small-hydro, marine, geothermal and other </span><span style=\"font-size:0.9em;\">{{response}}</span><span style=\"font-size:1.3em;\">&nbsp;technologies and energy efficiency.</span></p>\n\n<p style=\"margin-left: 40px;\"><span style=\"font-size:1.3em;\">They also look at the markets and predict </span><span style=\"font-size:0.9em;\">{{response}}</span><span style=\"font-size:1.3em;\">. NEF also collates energy data from projects all over the world; for example, 155 billion dollars were invested in&nbsp;</span><span style=\"font-size:0.9em;\">{{response}}</span><span style=\"font-size:1.3em;\">&nbsp;worldwide in 2008.</span></p>\n\n<p id=\"yui_3_17_2_1_1632236060484_2059\" style=\"margin-left: 40px;\"><span style=\"font-size:1.3em;\">They study factors such as falls in gas prices and whether that deter people from investing in </span><span style=\"font-size:0.9em;\">{{response}}</span><span style=\"font-size:1.3em;\">&nbsp;energy, and the possible effect on coal and nuclear energy.</span></p>\n\n<p style=\"margin-left: 40px;\"><span style=\"color:#ff0000;\"><b id=\"yui_3_17_2_1_1632236060484_2187\"><b id=\"yui_3_17_2_1_1632236060484_2189\">(write the exact words you hear and check your spelling carefully!)</b></b></span></p>\n<span style=\"font-size:0.9em;\"></span>",
+          "type": "clozetext",
+          "validation": {
+            "scoring_type": "partialMatchV2",
+            "valid_response": {
+              "score": 5,
+              "value": [
+                "wind",
+                "low carbon",
+                "carbon prices",
+                "clean energy",
+                "renewable"
+              ]
+            }
+          },
+          "instant_feedback": true
+        },
+        "metadata": {
+          "name": "Cloze with text",
+          "template_reference": "457fe101-0667-4a35-b193-b849653acb52"
+        }
+      },
+      "feedbackInfo": [
+        null,
+        null
+      ]
+    },
+    {
+      "response_id": "62079a3a-1d37-40e5-8248-f9eacb1f02a0_9f05e97189b221590f72ff6b65150d77",
+      "question_type": "mcq",
+      "dt_score_updated": "2023-06-13T10:54:15Z",
+      "automarkable": true,
+      "attempted": true,
+      "score": 4,
+      "max_score": 4,
+      "question_reference": "4209cdb8-d7c5-4aa3-b1b0-87383ccfb586",
+      "item_reference": "aa6f9b2d-aace-4226-9093-d4adff69a90a",
+      "response": {
+        "value": [
+          "0",
+          "1",
+          "3",
+          "5"
+        ],
+        "type": "array",
+        "apiVersion": "v2.177.27",
+        "revision": 4,
+        "feedbackAttemptsCount": 2
+      },
+      "questionInfo": {
+        "type": "mcq",
+        "widget_type": "response",
+        "reference": "4209cdb8-d7c5-4aa3-b1b0-87383ccfb586",
+        "data": {
+          "options": [
+            {
+              "label": "Currently the most mature clean energy is wind power.",
+              "value": "0"
+            },
+            {
+              "label": "People know where to locate wind turbines.",
+              "value": "1"
+            },
+            {
+              "label": "Energy supply and storage are the most important issues.",
+              "value": "2"
+            },
+            {
+              "label": "Solar power will become the most viable alternative energy.",
+              "value": "3"
+            },
+            {
+              "label": "New Energy Finance studies the price of carbon in the future",
+              "value": "4"
+            },
+            {
+              "label": "When the technology falls in price, there will be a huge market for solar energy.",
+              "value": "5"
+            }
+          ],
+          "stimulus": "<h2><b id=\"yui_3_17_2_1_1632236373632_148\">2. Now listen to the second part of the interview.</b></h2>\n\n<p><img height=\"150\" src=\"https://assets.learnosity.com/organisations/755/76dd94db-9764-4396-995f-eb7c1ca295e9.png\" width=\"137\"><img height=\"140\" src=\"https://assets.learnosity.com/organisations/755/a9d398c7-672a-4084-a6c2-d9d9b9e26e18.png\" width=\"333\"></p>\n\n<p><span class=\"learnosity-feature\" data-player=\"button\" data-simplefeature_id=\"28c17368-f754-4bc8-a9c3-ef2d19d3d678\" data-src=\"https://assets.learnosity.com/organisations/755/ad1fe485-a4ac-4865-96c6-f6de2203c081.mp3\" data-type=\"audioplayer\"></span></p>\n\n<h4>&nbsp;</h4>\n\n<h4 id=\"yui_3_17_2_1_1632236373632_156\"><b>► Tick the FOUR points that are mentioned.</b></h4>\n",
+          "type": "mcq",
+          "validation": {
+            "scoring_type": "partialMatchV2",
+            "valid_response": {
+              "score": 4,
+              "value": [
+                "5",
+                "3",
+                "1",
+                "0"
+              ]
+            }
+          },
+          "ui_style": {
+            "type": "horizontal"
+          },
+          "instant_feedback": true,
+          "multiple_responses": true
+        },
+        "metadata": {
+          "name": "Multiple choice – standard",
+          "template_reference": "9e8149bd-e4d8-4dd6-a751-1a113a4b9163"
+        }
+      },
+      "feedbackInfo": [
+        null,
+        null
+      ]
+    },
+    {
+      "response_id": "62079a3a-1d37-40e5-8248-f9eacb1f02a0_0811af0a9e78a4ecbad58a25b024999e",
+      "question_type": "mcq",
+      "dt_score_updated": "2023-06-13T10:55:12Z",
+      "automarkable": true,
+      "attempted": true,
+      "score": 3,
+      "max_score": 3,
+      "question_reference": "6ea64b71-1702-4858-8ebb-2ca8f2277d87",
+      "item_reference": "4091a9cd-d509-43b4-946d-6e92c513b62a",
+      "response": {
+        "value": [
+          "2",
+          "3",
+          "1"
+        ],
+        "type": "array",
+        "apiVersion": "v2.177.27",
+        "revision": 2,
+        "feedbackAttemptsCount": 1
+      },
+      "questionInfo": {
+        "type": "mcq",
+        "widget_type": "response",
+        "reference": "6ea64b71-1702-4858-8ebb-2ca8f2277d87",
+        "data": {
+          "multiple_responses": true,
+          "options": [
+            {
+              "label": "Carbon power",
+              "value": "0"
+            },
+            {
+              "label": "Tidal power",
+              "value": "1"
+            },
+            {
+              "label": "Wind power",
+              "value": "2"
+            },
+            {
+              "label": "Wave power",
+              "value": "3"
+            }
+          ],
+          "stimulus": "<h2><img class=\"lrn-image-left\" height=\"99\" src=\"https://assets.learnosity.com/organisations/755/720cc6d2-e657-478f-879e-01c4bb767c35.png\" width=\"100\"><br>\n<b>Let's review with some vocabulary...</b></h2>\n\n<h4><b><span style=\"color:#008000;\"><u>THREE of the collocations below are correct</u></span>&nbsp;and&nbsp;<span style=\"color:#ff0000;\"><u>ONE is wrong</u></span>.</b></h4>\n\n<p>&nbsp;</p>\n\n<p>&nbsp;</p>\n\n<div class=\"lrn-well\"><span style=\"font-size:1.3em;\"><b>Which words collocate with <u><span style=\"color:#008000;\">POWER</span></u>?</b></span></div>\n\n<h5><b>► Tick three correct options.</b></h5>\n",
+          "type": "mcq",
+          "validation": {
+            "scoring_type": "partialMatchV2",
+            "valid_response": {
+              "score": 3,
+              "value": [
+                "1",
+                "3",
+                "2"
+              ]
+            }
+          },
+          "ui_style": {
+            "type": "horizontal"
+          },
+          "instant_feedback": true,
+          "shuffle_options": true
+        },
+        "metadata": {
+          "name": "Multiple choice – multiple response",
+          "template_reference": "908de244-5c71-4c09-b094-7fb49554f2f9"
+        }
+      },
+      "feedbackInfo": [
+        null,
+        null
+      ]
+    },
+    {
+      "response_id": "62079a3a-1d37-40e5-8248-f9eacb1f02a0_6fb36eac8bb67b8cc551751c33d68b53",
+      "question_type": "mcq",
+      "dt_score_updated": "2023-06-13T10:55:26Z",
+      "automarkable": true,
+      "attempted": true,
+      "score": 3,
+      "max_score": 3,
+      "question_reference": "2dca9a0e-5710-4a84-ac24-8f39b4d2652e",
+      "item_reference": "4091a9cd-d509-43b4-946d-6e92c513b62a",
+      "response": {
+        "value": [
+          "2",
+          "1",
+          "0"
+        ],
+        "type": "array",
+        "apiVersion": "v2.177.27",
+        "revision": 1,
+        "feedbackAttemptsCount": 1
+      },
+      "questionInfo": {
+        "type": "mcq",
+        "widget_type": "response",
+        "reference": "2dca9a0e-5710-4a84-ac24-8f39b4d2652e",
+        "data": {
+          "multiple_responses": true,
+          "options": [
+            {
+              "label": "Alternative energy",
+              "value": "0"
+            },
+            {
+              "label": "Renewable energy",
+              "value": "1"
+            },
+            {
+              "label": "Clean energy",
+              "value": "2"
+            },
+            {
+              "label": "Consumption energy",
+              "value": "3"
+            }
+          ],
+          "stimulus": "<div class=\"lrn-well\"><strong><span style=\"font-size:1.3em;\">Which words collocates with <span style=\"color:#008000;\"><u>ENERGY</u></span>?</span></strong></div>\n\n<h5><strong>► Tick three correct options&nbsp;</strong></h5>\n",
+          "type": "mcq",
+          "validation": {
+            "scoring_type": "partialMatchV2",
+            "valid_response": {
+              "score": 3,
+              "value": [
+                "0",
+                "1",
+                "2"
+              ]
+            }
+          },
+          "ui_style": {
+            "type": "horizontal"
+          },
+          "instant_feedback": true,
+          "shuffle_options": true
+        },
+        "metadata": {
+          "name": "Multiple choice – multiple response",
+          "template_reference": "908de244-5c71-4c09-b094-7fb49554f2f9"
+        }
+      },
+      "feedbackInfo": [
+        null,
+        null
+      ]
+    },
+    {
+      "response_id": "62079a3a-1d37-40e5-8248-f9eacb1f02a0_aa4eec906b2c24be95132275f881bf85",
+      "question_type": "mcq",
+      "dt_score_updated": "2023-06-13T10:55:54Z",
+      "automarkable": true,
+      "attempted": true,
+      "score": 3,
+      "max_score": 3,
+      "question_reference": "f40d3c73-4cdd-4d3d-8449-2b17efcc3d4b",
+      "item_reference": "4091a9cd-d509-43b4-946d-6e92c513b62a",
+      "response": {
+        "value": [
+          "3",
+          "2",
+          "1"
+        ],
+        "type": "array",
+        "apiVersion": "v2.177.27",
+        "revision": 1,
+        "feedbackAttemptsCount": 3
+      },
+      "questionInfo": {
+        "type": "mcq",
+        "widget_type": "response",
+        "reference": "f40d3c73-4cdd-4d3d-8449-2b17efcc3d4b",
+        "data": {
+          "multiple_responses": true,
+          "options": [
+            {
+              "label": "Reduction emissions",
+              "value": "0"
+            },
+            {
+              "label": "Solar&nbsp;emissions",
+              "value": "1"
+            },
+            {
+              "label": "Gas&nbsp;emissions",
+              "value": "2"
+            },
+            {
+              "label": "Carbon emissions",
+              "value": "3"
+            }
+          ],
+          "stimulus": "<div class=\"lrn-well\"><strong><span style=\"font-size:1.3em;\">Which words collocates with <span style=\"color:#008000;\"><u>EMISSIONS</u></span>?</span></strong></div>\n\n<h5><strong>► Tick three correct options&nbsp;</strong></h5>\n",
+          "type": "mcq",
+          "validation": {
+            "scoring_type": "partialMatchV2",
+            "valid_response": {
+              "score": 3,
+              "value": [
+                "1",
+                "2",
+                "3"
+              ]
+            }
+          },
+          "ui_style": {
+            "type": "horizontal"
+          },
+          "instant_feedback": true,
+          "shuffle_options": true
+        },
+        "metadata": {
+          "name": "Multiple choice – multiple response",
+          "template_reference": "908de244-5c71-4c09-b094-7fb49554f2f9"
+        }
+      },
+      "feedbackInfo": [
+        null,
+        null
+      ]
+    },
+    {
+      "response_id": "62079a3a-1d37-40e5-8248-f9eacb1f02a0_d168f4d68a91d1f0356fe53221df045d",
+      "question_type": "mcq",
+      "dt_score_updated": "2023-06-13T10:56:09Z",
+      "automarkable": true,
+      "attempted": true,
+      "score": 3,
+      "max_score": 3,
+      "question_reference": "8c201492-f1bb-47b6-9e5b-2f3d4f4082b2",
+      "item_reference": "4091a9cd-d509-43b4-946d-6e92c513b62a",
+      "response": {
+        "value": [
+          "2",
+          "0",
+          "1"
+        ],
+        "type": "array",
+        "apiVersion": "v2.177.27",
+        "revision": 1,
+        "feedbackAttemptsCount": 3
+      },
+      "questionInfo": {
+        "type": "mcq",
+        "widget_type": "response",
+        "reference": "8c201492-f1bb-47b6-9e5b-2f3d4f4082b2",
+        "data": {
+          "multiple_responses": true,
+          "options": [
+            {
+              "label": "Sustainable development",
+              "value": "0"
+            },
+            {
+              "label": "Truly sustainable&nbsp;",
+              "value": "1"
+            },
+            {
+              "label": "Sustainable options",
+              "value": "2"
+            },
+            {
+              "label": "Sustainable oil",
+              "value": "3"
+            }
+          ],
+          "stimulus": "<div class=\"lrn-well\"><strong><span style=\"font-size:1.3em;\">Which words collocates with <span style=\"color:#008000;\"><u>SUSTAINABLE</u></span>?</span></strong></div>\n\n<h5><strong>► Tick three correct options&nbsp;</strong></h5>\n",
+          "type": "mcq",
+          "validation": {
+            "scoring_type": "partialMatchV2",
+            "valid_response": {
+              "score": 3,
+              "value": [
+                "0",
+                "1",
+                "2"
+              ]
+            }
+          },
+          "ui_style": {
+            "type": "horizontal"
+          },
+          "instant_feedback": true,
+          "shuffle_options": true
+        },
+        "metadata": {
+          "name": "Multiple choice – multiple response",
+          "template_reference": "908de244-5c71-4c09-b094-7fb49554f2f9"
+        }
+      },
+      "feedbackInfo": [
+        null,
+        null
+      ]
+    },
+    {
+      "response_id": "62079a3a-1d37-40e5-8248-f9eacb1f02a0_aaeaaecf7e08e3d1cb0d62f02f04a923",
+      "question_type": "mcq",
+      "dt_score_updated": "2023-06-13T10:57:50Z",
+      "automarkable": true,
+      "attempted": true,
+      "score": 1,
+      "max_score": 1,
+      "question_reference": "9a591381-74a7-46b8-9af8-5a6310dcec79",
+      "item_reference": "98ad6a31-25f9-4e62-94f1-64ab52080970",
+      "response": {
+        "value": [
+          "0"
+        ],
+        "type": "array",
+        "apiVersion": "v2.177.27",
+        "revision": 2,
+        "feedbackAttemptsCount": 2
+      },
+      "questionInfo": {
+        "type": "mcq",
+        "widget_type": "response",
+        "reference": "9a591381-74a7-46b8-9af8-5a6310dcec79",
+        "data": {
+          "options": [
+            {
+              "label": "prevent global temperatures from rising.&nbsp;",
+              "value": "0"
+            },
+            {
+              "label": "reduce carbon emissions worldwide by 2 per cent.&nbsp;",
+              "value": "1"
+            },
+            {
+              "label": "replace gas and oil with renewable energy.&nbsp;",
+              "value": "2"
+            }
+          ],
+          "stimulus": "<h2><img height=\"80\" src=\"https://assets.learnosity.com/organisations/755/f2d8ea0c-ec7a-4c32-b8d8-99143ef0556d.jpg\" width=\"80\"><b>&nbsp;Get Ready to Listen&nbsp;</b></h2>\n\n<p>&nbsp;</p>\n\n<h2><b>1. Listen to three lecturers talking about&nbsp;<span style=\"color:#008000;\"><u>carbon emissions</u></span> and <span style=\"color:#008000;\"><u>clean energy</u></span>.</b></h2>\n\n<p class=\"text-center\">&nbsp;</p>\n\n<p><img class=\"lrn-image-center text-center\" height=\"128\" src=\"https://assets.learnosity.com/organisations/755/adbb3379-7cca-4804-a783-62f3ff8a5648.jpg\" width=\"399\"></p>\n\n<p class=\"text-center\"><span class=\"learnosity-feature\" data-player=\"button\" data-simplefeature_id=\"4dad576f-b02c-488b-b12c-f793ac40a53c\" data-src=\"https://assets.learnosity.com/organisations/755/3a0f67e7-8c79-4e4b-b444-58f0dc9d77b3.mp3\" data-type=\"audioplayer\"></span></p>\n\n<p class=\"text-center\">&nbsp;</p>\n\n<h4><b><b><span style=\"color:#008000;\">► </span>Choose the best ending for each of the sentences below.</b></b></h4>\n\n<p>&nbsp;</p>\n\n<div class=\"lrn-well\"><strong><span style=\"font-size:1.3em;\">According to the first lecturer,&nbsp;the world's governments should...&nbsp;</span></strong></div>\n",
+          "type": "mcq",
+          "validation": {
+            "scoring_type": "exactMatch",
+            "valid_response": {
+              "score": 1,
+              "value": [
+                "0"
+              ]
+            }
+          },
+          "ui_style": {
+            "type": "horizontal"
+          },
+          "instant_feedback": true,
+          "shuffle_options": true
+        },
+        "metadata": {
+          "name": "Multiple choice – standard",
+          "template_reference": "9e8149bd-e4d8-4dd6-a751-1a113a4b9163"
+        }
+      },
+      "feedbackInfo": [
+        null,
+        null
+      ]
+    },
+    {
+      "response_id": "62079a3a-1d37-40e5-8248-f9eacb1f02a0_95750b91d0e15d882875e7d6f3370601",
+      "question_type": "mcq",
+      "dt_score_updated": "2023-06-13T10:58:19Z",
+      "automarkable": true,
+      "attempted": true,
+      "score": 1,
+      "max_score": 1,
+      "question_reference": "e9155cf9-838e-4946-9b7e-54f23380f643",
+      "item_reference": "98ad6a31-25f9-4e62-94f1-64ab52080970",
+      "response": {
+        "value": [
+          "0"
+        ],
+        "type": "array",
+        "apiVersion": "v2.177.27",
+        "revision": 1,
+        "feedbackAttemptsCount": 3
+      },
+      "questionInfo": {
+        "type": "mcq",
+        "widget_type": "response",
+        "reference": "e9155cf9-838e-4946-9b7e-54f23380f643",
+        "data": {
+          "options": [
+            {
+              "label": "companies to reduce CO2 emissions by using alternative energy.&nbsp;",
+              "value": "0"
+            },
+            {
+              "label": "both industry and citizens to reduce their energy consumption.",
+              "value": "1"
+            },
+            {
+              "label": "companies to use alternative gases in their manufacturing processes.&nbsp;",
+              "value": "2"
+            }
+          ],
+          "stimulus": "<div class=\"lrn-well\"><strong><span style=\"font-size:1.3em;\">The second lecturer thinks it is up to business to encourage...&nbsp;</span></strong></div>\n",
+          "type": "mcq",
+          "validation": {
+            "scoring_type": "exactMatch",
+            "valid_response": {
+              "score": 1,
+              "value": [
+                "0"
+              ]
+            }
+          },
+          "ui_style": {
+            "type": "horizontal"
+          },
+          "instant_feedback": true,
+          "shuffle_options": true
+        },
+        "metadata": {
+          "name": "Multiple choice – standard",
+          "template_reference": "9e8149bd-e4d8-4dd6-a751-1a113a4b9163"
+        }
+      },
+      "feedbackInfo": [
+        null,
+        null
+      ]
+    },
+    {
+      "response_id": "62079a3a-1d37-40e5-8248-f9eacb1f02a0_18fb1272d95bfb7d2d1e6765393b1156",
+      "question_type": "mcq",
+      "dt_score_updated": "2023-06-13T10:58:47Z",
+      "automarkable": true,
+      "attempted": true,
+      "score": 1,
+      "max_score": 1,
+      "question_reference": "40098898-79c8-4103-880d-26fd9bca204f",
+      "item_reference": "98ad6a31-25f9-4e62-94f1-64ab52080970",
+      "response": {
+        "value": [
+          "2"
+        ],
+        "type": "array",
+        "apiVersion": "v2.177.27",
+        "revision": 2,
+        "feedbackAttemptsCount": 1
+      },
+      "questionInfo": {
+        "type": "mcq",
+        "widget_type": "response",
+        "reference": "40098898-79c8-4103-880d-26fd9bca204f",
+        "data": {
+          "options": [
+            {
+              "label": "work much better than electric cars.&nbsp;",
+              "value": "0"
+            },
+            {
+              "label": "can already be seen on the roads.&nbsp;",
+              "value": "1"
+            },
+            {
+              "label": "are one example of fuel-cell technology.&nbsp;",
+              "value": "2"
+            }
+          ],
+          "stimulus": "<div class=\"lrn-well\"><strong><span style=\"font-size:1.3em;\">The third lecturer&nbsp;says that hydrogen-powered cars...&nbsp;</span></strong></div>\n",
+          "type": "mcq",
+          "validation": {
+            "scoring_type": "exactMatch",
+            "valid_response": {
+              "score": 1,
+              "value": [
+                "2"
+              ]
+            }
+          },
+          "ui_style": {
+            "type": "horizontal"
+          },
+          "instant_feedback": true,
+          "shuffle_options": true
+        },
+        "metadata": {
+          "name": "Multiple choice – standard",
+          "template_reference": "9e8149bd-e4d8-4dd6-a751-1a113a4b9163"
+        }
+      },
+      "feedbackInfo": [
+        null,
+        null
+      ]
+    },
+    {
+      "response_id": "62079a3a-1d37-40e5-8248-f9eacb1f02a0_bbd6a8a37c90b70f1cb2796de00bcbc7",
+      "question_type": "clozedropdown",
+      "dt_score_updated": "2023-06-13T11:01:22Z",
+      "automarkable": true,
+      "attempted": true,
+      "score": 5,
+      "max_score": 6,
+      "question_reference": "0ee9ce9c-33f8-4f33-8a87-659b8b3efc9f",
+      "item_reference": "98ad6a31-25f9-4e62-94f1-64ab52080970",
+      "response": {
+        "value": [
+          "manufacturing companies",
+          "if taxes were reduced",
+          "making demands on",
+          "gas and electicity",
+          "improve the countryside",
+          "a nuclear power station"
+        ],
+        "type": "array",
+        "apiVersion": "v2.177.27",
+        "revision": 5,
+        "feedbackAttemptsCount": 3
+      },
+      "questionInfo": {
+        "type": "clozedropdown",
+        "widget_type": "response",
+        "reference": "0ee9ce9c-33f8-4f33-8a87-659b8b3efc9f",
+        "data": {
+          "possible_responses": [
+            [
+              "manufacturing companies",
+              "airlines"
+            ],
+            [
+              "if taxes were reduced",
+              "in certain industries"
+            ],
+            [
+              "making demands on",
+              "sending aid to"
+            ],
+            [
+              "gas and electicity",
+              "wind farms"
+            ],
+            [
+              "bring employment and services",
+              "improve the countryside"
+            ],
+            [
+              "a nuclear power station",
+              "a chemical plant"
+            ]
+          ],
+          "response_container": {
+            "pointer": "left"
+          },
+          "stimulus": "<h2>&nbsp;</h2>\n\n<h2><b>2. Listen to the same lecturers giving <u><span style=\"color:#008000;\">more opinions</span></u> on the topic.&nbsp;</b></h2>\n\n<p class=\"text-center\">&nbsp;</p>\n\n<p><img class=\"lrn-image-center text-center\" height=\"128\" src=\"https://assets.learnosity.com/organisations/755/1f39b68b-d523-4f41-b817-2cf5037dee26.jpg\" width=\"399\"></p>\n\n<p class=\"text-center\"><span class=\"learnosity-feature\" data-player=\"button\" data-simplefeature_id=\"df4d46e2-86a9-4d24-a156-45d91ca8b0db\" data-src=\"https://assets.learnosity.com/organisations/755/067f9c37-d03d-4ead-9389-e6b891744571.mp3\" data-type=\"audioplayer\"></span></p>\n\n<p class=\"text-center\">&nbsp;</p>\n\n<h4><b><span style=\"color:#008000;\">► </span>Choose the correct option from the drop down.</b></h4>\n",
+          "template": "<ul>\n\t<li><span style=\"font-size:1.3em;\">Lecturer 1 thinks&nbsp;</span><span style=\"font-size:1em;\">{{response}}</span><span style=\"font-size:1.3em;\">&nbsp;should make donations to offset their carbon emissions.</span></li>\n\t<li><span style=\"font-size:1.3em;\">Lecturer 2 says paying a carbon tax would only work&nbsp;</span><span style=\"font-size:1em;\">{{response}}</span><span style=\"font-size:1.3em;\">.</span></li>\n\t<li><span style=\"font-size:1.3em;\">Lecturer 3 insists that wealthier countries should stop&nbsp;</span><span style=\"font-size:1em;\">{{response}}</span><span style=\"font-size:1.3em;\">&nbsp;developing countries.</span></li>\n\t<li><span style=\"font-size:1.3em;\">Lecturer 3 points out that many people in developing countries still don't have&nbsp;</span><span style=\"font-size:1em;\">{{response}}</span><span style=\"font-size:1.3em;\">.</span></li>\n\t<li><span style=\"font-size:1.3em;\">Lecturer 2 wouldn't mind living near a wind farm because it would&nbsp;</span><span style=\"font-size:1em;\">{{response}}</span><span style=\"font-size:1.3em;\">.</span></li>\n\t<li><span style=\"font-size:1.3em;\">Lecturer 3 says having wind turbines is better than living next to&nbsp;</span><span style=\"font-size:1em;\">{{response}}</span><span style=\"font-size:1.3em;\">.</span></li>\n</ul>\n",
+          "type": "clozedropdown",
+          "case_sensitive": true,
+          "validation": {
+            "scoring_type": "partialMatchV2",
+            "valid_response": {
+              "score": 6,
+              "value": [
+                "manufacturing companies",
+                "if taxes were reduced",
+                "making demands on",
+                "gas and electicity",
+                "bring employment and services",
+                "a nuclear power station"
+              ]
+            }
+          },
+          "instant_feedback": true,
+          "shuffle_options": true
+        },
+        "metadata": {
+          "name": "Cloze with drop down",
+          "template_reference": "2fbba51b-e35e-441f-83c7-2662e2e81fa6"
+        }
+      },
+      "feedbackInfo": [
+        null,
+        null
+      ]
+    },
+    {
+      "response_id": "62079a3a-1d37-40e5-8248-f9eacb1f02a0_77957b76702072786176c72b6368bf92",
+      "question_type": "clozeassociation",
+      "dt_score_updated": "2023-06-13T11:05:41Z",
+      "automarkable": true,
+      "attempted": true,
+      "score": 8,
+      "max_score": 8,
+      "question_reference": "cdbe9efa-3f48-4a42-9e31-ab6b94ec34f3",
+      "item_reference": "00d2969c-cac5-4a78-b420-8bac86845772",
+      "response": {
+        "value": [
+          "Based in",
+          "Office space",
+          "Energy saving goals",
+          "Investment",
+          "Strategy goals",
+          "Return on investment",
+          "Recent developments",
+          "Results of the above"
+        ],
+        "type": "array",
+        "apiVersion": "v2.177.27",
+        "revision": 6,
+        "feedbackAttemptsCount": 31
+      },
+      "questionInfo": {
+        "type": "clozeassociation",
+        "widget_type": "response",
+        "reference": "cdbe9efa-3f48-4a42-9e31-ab6b94ec34f3",
+        "data": {
+          "possible_responses": [
+            "Based in",
+            "Office space",
+            "Energy saving goals",
+            "Investment",
+            "Strategy goals",
+            "Return on investment",
+            "Recent developments",
+            "Results of the above",
+            "Created in",
+            "Annual profits",
+            "Target market"
+          ],
+          "response_container": {
+            "pointer": "left"
+          },
+          "stimulus": "<h2><b>In the second part of the lesson, you will focus on the <span style=\"color:#0000ff;\">case study</span> of the company...&nbsp;</b></h2>\n\n<p><img class=\"lrn-image-center\" height=\"158\" src=\"https://assets.learnosity.com/organisations/755/7aac6d8e-0633-4d54-b97f-74dc17e38b27.jpg\" width=\"401\"></p>\n\n<p>&nbsp;</p>\n\n<h4><b><span style=\"color:#0000ff;\">► </span>Read the&nbsp;<span style=\"color:#0000ff;\">company profile</span>&nbsp;below and complete the information table.</b></h4>\n\n<p>&nbsp;</p>\n\n<p style=\"margin-left: 40px;\"><span style=\"font-size:1.3em;\"><b>Company Background</b></span></p>\n\n<h5 style=\"margin-left: 40px;\"><strong>Fashion First</strong> is a leading&nbsp;fashion design company based in London.&nbsp;The headquarters and design studios span&nbsp;four buildings and comprise&nbsp;over&nbsp;90,000 square metres of office space.</h5>\n\n<h5 style=\"margin-left: 40px;\">Fashion First is committed to improving energy efficiency and reducing&nbsp;its CO2, emissions as part of its sustainable business strategy.&nbsp;In addition to that, they want to create a reputation as a green company.&nbsp;Over&nbsp;the past five years, the company has invested half a million pounds in&nbsp;sustainable projects, which have resulted in £600,000 in savings, a total&nbsp;return on investment of 120%.</h5>\n\n<h5 id=\"yui_3_17_2_1_1632238372447_139\" style=\"margin-left: 40px;\">A recent downturn in business and rapidly escalating electricity and&nbsp;gas prices are forcing the company to find new ways to reduce energy&nbsp;costs,&nbsp;develop strategies&nbsp;to reduce energy bills in order to&nbsp;minimise the impact of price increases on its operations.</h5>\n\n<h5 style=\"margin-left: 40px;\"><span style=\"font-size:1.1em;\">&nbsp;</span></h5>\n",
+          "template": "<table class=\"table table-condensed table-striped lrn_width_auto\">\n\t<tbody>\n\t\t<tr>\n\t\t\t<td>{{response}}</td>\n\t\t\t<td>\n\t\t\t<h5>London, United Kingdom</h5>\n\t\t\t</td>\n\t\t</tr>\n\t\t<tr>\n\t\t\t<td>{{response}}</td>\n\t\t\t<td>\n\t\t\t<h5>Four buildings, over 90,000 square miles</h5>\n\t\t\t</td>\n\t\t</tr>\n\t\t<tr>\n\t\t\t<td>{{response}}</td>\n\t\t\t<td>\n\t\t\t<h5>Reduce CO2 emissions as part of its sustainable business strategy.</h5>\n\n\t\t\t<h5>Create a reputation as a green company.</h5>\n\t\t\t</td>\n\t\t</tr>\n\t\t<tr>\n\t\t\t<td>{{response}}</td>\n\t\t\t<td>\n\t\t\t<h5>£500k over the last five years</h5>\n\t\t\t</td>\n\t\t</tr>\n\t\t<tr>\n\t\t\t<td>{{response}}</td>\n\t\t\t<td>\n\t\t\t<h5>£600k</h5>\n\t\t\t</td>\n\t\t</tr>\n\t\t<tr>\n\t\t\t<td>{{response}}</td>\n\t\t\t<td>\n\t\t\t<h5>120%</h5>\n\t\t\t</td>\n\t\t</tr>\n\t\t<tr>\n\t\t\t<td>{{response}}</td>\n\t\t\t<td>\n\t\t\t<h5>Downturn in business</h5>\n\n\t\t\t<h5>Fluctuating gas and electricity prices</h5>\n\t\t\t</td>\n\t\t</tr>\n\t\t<tr>\n\t\t\t<td>{{response}}</td>\n\t\t\t<td>\n\t\t\t<h5>Company wants to find new ways to reduce energy costs</h5>\n\t\t\t</td>\n\t\t</tr>\n\t</tbody>\n</table>\n\n<p>&nbsp;</p>\n\n<p><span style=\"color:#ff0000;\"><b>NOTE: there are some extra options that you don't need</b></span></p>\n",
+          "type": "clozeassociation",
+          "case_sensitive": true,
+          "validation": {
+            "scoring_type": "partialMatchV2",
+            "valid_response": {
+              "score": 8,
+              "value": [
+                "Based in",
+                "Office space",
+                "Energy saving goals",
+                "Investment",
+                "Strategy goals",
+                "Return on investment",
+                "Recent developments",
+                "Results of the above"
+              ]
+            }
+          },
+          "instant_feedback": true,
+          "shuffle_options": true
+        },
+        "metadata": {
+          "name": "Cloze with drag & drop",
+          "template_reference": "51a8c1e7-f34f-4faf-b211-da458e891fcb"
+        }
+      },
+      "feedbackInfo": [
+        null,
+        null
+      ]
+    },
+    {
+      "response_id": "62079a3a-1d37-40e5-8248-f9eacb1f02a0_8bf9562f73775bbe75f3c95e8ea8a4de",
+      "question_type": "clozedropdown",
+      "dt_score_updated": "2023-06-13T11:07:33Z",
+      "automarkable": true,
+      "attempted": true,
+      "score": 4,
+      "max_score": 5,
+      "question_reference": "fa5e8c6c-8211-4c1f-8ffe-645340f73de6",
+      "item_reference": "00d2969c-cac5-4a78-b420-8bac86845772",
+      "response": {
+        "value": [
+          "heating, cooling and office equipment",
+          "Over a third",
+          "a quarter",
+          "Office equipment",
+          "a minimal"
+        ],
+        "type": "array",
+        "apiVersion": "v2.177.27",
+        "revision": 3,
+        "feedbackAttemptsCount": 3
+      },
+      "questionInfo": {
+        "type": "clozedropdown",
+        "widget_type": "response",
+        "reference": "fa5e8c6c-8211-4c1f-8ffe-645340f73de6",
+        "data": {
+          "possible_responses": [
+            [
+              "heating, cooling and lightening",
+              "heating, cooling and office equipment"
+            ],
+            [
+              "Over a quarter",
+              "Over a third"
+            ],
+            [
+              "a quarter",
+              "nearly a quarter"
+            ],
+            [
+              "Office equipment",
+              "Lighting"
+            ],
+            [
+              "a minimal",
+              "a significant"
+            ]
+          ],
+          "response_container": {
+            "pointer": "left"
+          },
+          "stimulus": "<h2>&nbsp;</h2>\n\n<h2><b>In order to reduce their energy consumption, the company needs to find out&nbsp;<span style=\"color:#ff0000;\"><u>where energy is being spent</u></span>.</b></h2>\n\n<h3><b><span style=\"color:#ff0000;\">►</span> Here are some research findings:</b></h3>\n",
+          "template": "<p><img class=\"lrn-image-left\" height=\"376\" src=\"https://assets.learnosity.com/organisations/755/d42f34b2-a8f6-4076-be3a-36c9019702b5.jpg\" width=\"280\"></p>\n\n<h4>&nbsp;</h4>\n\n<h4><b>Consider the sentences below and select which option correctly <span style=\"color:#ff0000;\">analyses </span>the findings.</b></h4>\n\n<ul style=\"margin-left: 280px;\">\n\t<li><span style=\"font-size:1.3em;\">The three main uses of energy are&nbsp;</span><span style=\"font-size:1em;\">{{response}}</span><span style=\"font-size:1.3em;\">.</span></li>\n\t<li><span style=\"font-size:1.3em;\"></span><span style=\"font-size:1em;\">{{response}}</span><span style=\"font-size:1.3em;\">&nbsp;of all energy is spent on heating.</span></li>\n\t<li><span style=\"font-size:1.3em;\">Cooling represents&nbsp;</span><span style=\"font-size:1em;\">{{response}}</span><span style=\"font-size:1.3em;\">&nbsp;of the energy spent.</span></li>\n\t<li><span style=\"font-size:1.3em;\"></span><span style=\"font-size:1em;\">{{response}}</span><span style=\"font-size:1.3em;\">&nbsp;uses a quarter of all energy spent.</span></li>\n\t<li><span style=\"font-size:1.3em;\">Cooking and ventilation use&nbsp;</span><span style=\"font-size:1em;\">{{response}}</span><span style=\"font-size:1.3em;\">&nbsp;amount of energy.</span></li>\n</ul>\n",
+          "type": "clozedropdown",
+          "case_sensitive": true,
+          "validation": {
+            "scoring_type": "partialMatchV2",
+            "valid_response": {
+              "score": 5,
+              "value": [
+                "heating, cooling and office equipment",
+                "Over a quarter",
+                "a quarter",
+                "Office equipment",
+                "a minimal"
+              ]
+            }
+          },
+          "instant_feedback": true,
+          "shuffle_options": true
+        },
+        "metadata": {
+          "name": "Cloze with drop down",
+          "template_reference": "2fbba51b-e35e-441f-83c7-2662e2e81fa6"
+        }
+      },
+      "feedbackInfo": [
+        null,
+        null
+      ]
+    },
+    {
+      "response_id": "62079a3a-1d37-40e5-8248-f9eacb1f02a0_5909cec4020700bd06cde3c5b6e8b221",
+      "question_type": "clozedropdown",
+      "dt_score_updated": "2023-06-13T11:40:37Z",
+      "automarkable": true,
+      "attempted": true,
+      "score": 14,
+      "max_score": 16,
+      "question_reference": "bb3a42e2-f7c5-47f7-895d-1680f8891deb",
+      "item_reference": "2699fae9-f8c1-4d6c-a33d-3d2e5a552b6c",
+      "response": {
+        "value": [
+          "let's get started",
+          "How about",
+          "OK, that's a",
+          "What do you think",
+          "I'm not sure",
+          "That's true",
+          "I think",
+          "I don't know about",
+          "I'm not sure",
+          "how do you feel about",
+          "I'm not sure",
+          "I don't think",
+          "I don't think",
+          "That's a good point",
+          "Why don't we",
+          "I'm convinced"
+        ],
+        "type": "array",
+        "apiVersion": "v2.177.27",
+        "revision": 30,
+        "feedbackAttemptsCount": 53
+      },
+      "questionInfo": {
+        "type": "clozedropdown",
+        "widget_type": "response",
+        "reference": "bb3a42e2-f7c5-47f7-895d-1680f8891deb",
+        "data": {
+          "possible_responses": [
+            [
+              "let's get started",
+              "How about",
+              "OK, that's a",
+              "What do you think",
+              "I'm not sure",
+              "That's true",
+              "I don't know about",
+              "I think"
+            ],
+            [
+              "let's get started",
+              "How about",
+              "OK, that's a",
+              "What do you think",
+              "I'm not sure",
+              "That's true",
+              "I don't know about",
+              "I think"
+            ],
+            [
+              "let's get started",
+              "How about",
+              "OK, that's a",
+              "What do you think",
+              "I'm not sure",
+              "That's true",
+              "I don't know about",
+              "I think"
+            ],
+            [
+              "let's get started",
+              "How about",
+              "OK, that's a",
+              "What do you think",
+              "I'm not sure",
+              "That's true",
+              "I don't know about",
+              "I think"
+            ],
+            [
+              "let's get started",
+              "How about",
+              "OK, that's a",
+              "What do you think",
+              "I'm not sure",
+              "That's true",
+              "I don't know about",
+              "I think"
+            ],
+            [
+              "let's get started",
+              "How about",
+              "OK, that's a",
+              "What do you think",
+              "I'm not sure",
+              "That's true",
+              "I don't know about",
+              "I think"
+            ],
+            [
+              "let's get started",
+              "How about",
+              "OK, that's a",
+              "What do you think",
+              "I'm not sure",
+              "That's true",
+              "I don't know about",
+              "I think"
+            ],
+            [
+              "let's get started",
+              "How about",
+              "OK, that's a",
+              "What do you think",
+              "I'm not sure",
+              "That's true",
+              "I don't know about",
+              "I think"
+            ],
+            [
+              "I'm not sure",
+              "agree with you 100%",
+              "how do you feel about",
+              "In my opinion",
+              "That's a good point",
+              "Why don't we",
+              "I'm convinced",
+              "I don't think"
+            ],
+            [
+              "I'm not sure",
+              "agree with you 100%",
+              "how do you feel about",
+              "In my opinion",
+              "That's a good point",
+              "Why don't we",
+              "I'm convinced",
+              "I don't think"
+            ],
+            [
+              "I'm not sure",
+              "agree with you 100%",
+              "how do you feel about",
+              "In my opinion",
+              "That's a good point",
+              "Why don't we",
+              "I'm convinced",
+              "I don't think"
+            ],
+            [
+              "I'm not sure",
+              "agree with you 100%",
+              "how do you feel about",
+              "In my opinion",
+              "That's a good point",
+              "Why don't we",
+              "I'm convinced",
+              "I don't think"
+            ],
+            [
+              "I'm not sure",
+              "agree with you 100%",
+              "how do you feel about",
+              "In my opinion",
+              "That's a good point",
+              "Why don't we",
+              "I'm convinced",
+              "I don't think"
+            ],
+            [
+              "I'm not sure",
+              "agree with you 100%",
+              "how do you feel about",
+              "In my opinion",
+              "That's a good point",
+              "Why don't we",
+              "I'm convinced",
+              "I don't think"
+            ],
+            [
+              "I'm not sure",
+              "agree with you 100%",
+              "how do you feel about",
+              "In my opinion",
+              "That's a good point",
+              "Why don't we",
+              "I'm convinced",
+              "I don't think"
+            ],
+            [
+              "I'm not sure",
+              "agree with you 100%",
+              "how do you feel about",
+              "In my opinion",
+              "That's a good point",
+              "Why don't we",
+              "I'm convinced",
+              "I don't think"
+            ]
+          ],
+          "response_container": {
+            "pointer": "left"
+          },
+          "stimulus": "<h2 lang=\"en-US\"><strong>In the next live lesson, you will participate in a <span style=\"color:#800080;\">group discussion</span>.</strong></h2>\n\n<h4 lang=\"en-US\"><strong><span style=\"color:#800080;\">► </span>It's important to use <span style=\"color:#800080;\"><u>discussion language</u> </span>effectively to highlight your contributions.</strong></h4>\n\n<p>&nbsp;</p>\n\n<p lang=\"en-US\"><img height=\"176\" src=\"https://assets.learnosity.com/organisations/755/1f22abf8-61cf-4880-b5bb-e2b8596a2cbe.jpg\" width=\"300\"></p>\n\n<h4 lang=\"en-US\"><b>Read the dialogue below.&nbsp;Four executives in an energy company are discussing what best source of clean energy is for their client. Complete the dialogue with <span style=\"color:#800080;\">discussion&nbsp;language</span> from the drop down.</b></h4>\n\n<p lang=\"en-US\"><span style=\"font-size:11.0pt\"><span style=\"font-family:Calibri\">&nbsp;</span></span></p>\n",
+          "template": "<p style=\"margin-left: 40px;\"><em><span style=\"font-size:1.1em;\"><strong>David </strong>- OK everyone,&nbsp;</span><span style=\"font-size:1.3em;\">{{response}}</span><span style=\"font-size:1.1em;\">. Our client wants to start using a clean energy source to reduce energy costs and create a more sustainable image. Which kind of sustainable energy should they choose?</span></em></p>\n\n<p style=\"margin-left: 40px;\"><em><span style=\"font-size:1.1em;\"><strong>Julian&nbsp;</strong>- Well, there are several possibilities.&nbsp;</span><span style=\"font-size:1.3em;\">{{response}}</span><span style=\"font-size:1.1em;\">&nbsp;solar power? It's clean and cheap to run and&nbsp;it's very popular in America and in a lot of European countries. </span></em></p>\n\n<p style=\"margin-left: 40px;\"><em><span style=\"font-size:1.1em;\"><strong>David </strong>- </span><span style=\"font-size:1.3em;\">{{response}}</span><span style=\"font-size:1.1em;\">&nbsp;possibility. </span><span style=\"font-size:1.3em;\">{{response}}</span><span style=\"font-size:1.1em;\"> Natasha? Would solar power be a good choice?</span></em></p>\n\n<p style=\"margin-left: 40px;\"><em><span style=\"font-size:1.1em;\"><strong>Natasha </strong>- Mmm, </span><span style=\"font-size:1.3em;\">{{response}}</span><span style=\"font-size:1.1em;\">. It's not always sunny in this country, is it? Not like in Spain for example.</span></em></p>\n\n<p style=\"margin-left: 40px;\"><em><span style=\"font-size:1.1em;\"><strong>Joy&nbsp;</strong>- </span><span style=\"font-size:1.3em;\">{{response}}</span><span style=\"font-size:1.1em;\">, the climate&nbsp;here may not be suitable to solar power.&nbsp;</span><span style=\"font-size:1.3em;\">{{response}}</span><span style=\"font-size:1.1em;\">&nbsp;wind power has&nbsp;a lot more potential, and wind turbines have&nbsp;a reputation of being reliable. There's also wave power but&nbsp;</span><span style=\"font-size:1.3em;\">{{response}}</span><span style=\"font-size:1.1em;\">&nbsp;it - it's very expensive to set up&nbsp;so&nbsp;</span><span style=\"font-size:1.3em;\">{{response}}</span><span style=\"font-size:1.1em;\"> it would cost-effective. Julian, </span><span style=\"font-size:1.3em;\">{{response}}</span><span style=\"font-size:1.1em;\">&nbsp;this?</span></em></p>\n\n<p style=\"margin-left: 40px;\"><em><span style=\"font-size:1.1em;\"><strong>Julian&nbsp;</strong>- I&nbsp;</span><span style=\"font-size:1.3em;\">{{response}}</span><span style=\"font-size:1.1em;\"> about wave power, </span><span style=\"font-size:1.3em;\">{{response}}</span><span style=\"font-size:1.1em;\">&nbsp;it's a good option. </span><span style=\"font-size:1.3em;\">{{response}}</span><span style=\"font-size:1.1em;\">, wind turbines would be perfect for our client. They would need some initial investment but it will really improve their image.</span></em></p>\n\n<p style=\"margin-left: 40px;\"><em><span style=\"font-size:1.1em;\"><strong>David</strong> - </span><span style=\"font-size:1.3em;\">{{response}}</span><span style=\"font-size:1.1em;\">. </span><span style=\"font-size:1.3em;\">{{response}}</span><span style=\"font-size:1.1em;\"> get in touch with the CEO and see what she thinks? </span><span style=\"font-size:1.3em;\">{{response}}</span><span style=\"font-size:1.1em;\">&nbsp;that she will be happy with our recommendation.</span></em></p>\n",
+          "type": "clozedropdown",
+          "case_sensitive": true,
+          "validation": {
+            "scoring_type": "partialMatchV2",
+            "valid_response": {
+              "score": 16,
+              "value": [
+                "let's get started",
+                "How about",
+                "OK, that's a",
+                "What do you think",
+                "I'm not sure",
+                "That's true",
+                "I think",
+                "I don't know about",
+                "I'm not sure",
+                "how do you feel about",
+                "agree with you 100%",
+                "I don't think",
+                "In my opinion",
+                "That's a good point",
+                "Why don't we",
+                "I'm convinced"
+              ]
+            }
+          },
+          "instant_feedback": true,
+          "shuffle_options": true
+        },
+        "metadata": {
+          "name": "Cloze with drop down",
+          "template_reference": "2fbba51b-e35e-441f-83c7-2662e2e81fa6"
+        }
+      },
+      "feedbackInfo": [
+        null,
+        null
+      ]
+    },
+    {
+      "response_id": "62079a3a-1d37-40e5-8248-f9eacb1f02a0_9c307df4a362b810d5c3df3d8a50252e",
+      "question_type": "clozeassociation",
+      "dt_score_updated": "2023-06-13T11:41:21Z",
+      "automarkable": true,
+      "attempted": true,
+      "score": 6,
+      "max_score": 6,
+      "question_reference": "26416946-69db-4ca3-92eb-fa32db185e10",
+      "item_reference": "2699fae9-f8c1-4d6c-a33d-3d2e5a552b6c",
+      "response": {
+        "value": [
+          "<span style=\"font-size:1em;\"><strong>STARTING THE DISCUSSION</strong></span>",
+          "<span style=\"font-size:1em;\"><strong>MAKING SUGGESTIONS</strong></span>",
+          "<span style=\"font-size:1em;\"><strong>GIVING OPINIONS</strong></span>",
+          "<span style=\"font-size:1em;\"><strong>ASKING FOR OPINIONS</strong></span>",
+          "<span style=\"font-size:1em;\"><strong>AGREEING</strong></span>",
+          "<span style=\"font-size:1em;\"><strong>DISAGREEING</strong></span>"
+        ],
+        "type": "array",
+        "apiVersion": "v2.177.27",
+        "revision": 1,
+        "feedbackAttemptsCount": 1
+      },
+      "questionInfo": {
+        "type": "clozeassociation",
+        "widget_type": "response",
+        "reference": "26416946-69db-4ca3-92eb-fa32db185e10",
+        "data": {
+          "possible_responses": [
+            "<span style=\"font-size:1em;\"><strong>STARTING THE DISCUSSION</strong></span>",
+            "<span style=\"font-size:1em;\"><strong>GIVING OPINIONS</strong></span>",
+            "<span style=\"font-size:1em;\"><strong>MAKING SUGGESTIONS</strong></span>",
+            "<span style=\"font-size:1em;\"><strong>ASKING FOR OPINIONS</strong></span>",
+            "<span style=\"font-size:1em;\"><strong>AGREEING</strong></span>",
+            "<span style=\"font-size:1em;\"><strong>DISAGREEING</strong></span>"
+          ],
+          "response_container": {
+            "pointer": "left"
+          },
+          "stimulus": "<h2>&nbsp;</h2>\n\n<h2><strong>Here is the <span style=\"color:#800080;\">discussion language</span> you used in the exercise above.</strong></h2>\n\n<h4><strong>► What do you use each of these phrases for? Drag and drop the <span style=\"color:#800080;\">headings&nbsp;</span>into the table below.</strong></h4>\n\n<p>&nbsp;</p>\n",
+          "template": "<table class=\"table table-condensed table-striped lrn_width_auto\">\n\t<tbody>\n\t\t<tr>\n\t\t\t<td><span style=\"font-size:1.3em;\">{{response}}</span></td>\n\t\t\t<td><span style=\"font-size:1.3em;\">{{response}}</span></td>\n\t\t</tr>\n\t\t<tr>\n\t\t\t<td>\n\t\t\t<ul>\n\t\t\t\t<li>OK, let's get started...</li>\n\t\t\t</ul>\n\t\t\t</td>\n\t\t\t<td>\n\t\t\t<ul>\n\t\t\t\t<li>How about ...</li>\n\t\t\t\t<li>Why don't we...?</li>\n\t\t\t</ul>\n\t\t\t</td>\n\t\t</tr>\n\t\t<tr>\n\t\t\t<td><span style=\"font-size:1.3em;\">{{response}}</span></td>\n\t\t\t<td><span style=\"font-size:1.3em;\">{{response}}</span></td>\n\t\t</tr>\n\t\t<tr>\n\t\t\t<td>\n\t\t\t<ul>\n\t\t\t\t<li>In my opinion, ...</li>\n\t\t\t\t<li>I think that ...</li>\n\t\t\t\t<li>I'm convinced that...</li>\n\t\t\t</ul>\n\t\t\t</td>\n\t\t\t<td>\n\t\t\t<ul>\n\t\t\t\t<li>What do you think about...?</li>\n\t\t\t\t<li>How do you feel about...?</li>\n\t\t\t</ul>\n\t\t\t</td>\n\t\t</tr>\n\t\t<tr>\n\t\t\t<td><span style=\"font-size:1.3em;\">{{response}}</span></td>\n\t\t\t<td><span style=\"font-size:1.3em;\">{{response}}</span></td>\n\t\t</tr>\n\t\t<tr>\n\t\t\t<td>\n\t\t\t<ul>\n\t\t\t\t<li>OK, that's a possibility.</li>\n\t\t\t\t<li>That's true.</li>\n\t\t\t\t<li>I agree with you 100%</li>\n\t\t\t\t<li>That's a great point.</li>\n\t\t\t</ul>\n\t\t\t</td>\n\t\t\t<td>\n\t\t\t<ul>\n\t\t\t\t<li>I'm not sure.</li>\n\t\t\t\t<li>I don't know about it.</li>\n\t\t\t\t<li>I don't think that's a good idea<span style=\"font-size:11.0pt\"><span style=\"font-family:Calibri\"><span style=\"color:#0070c0\"><span style=\"font-weight:bold\">.</span></span></span></span></li>\n\t\t\t</ul>\n\t\t\t</td>\n\t\t</tr>\n\t</tbody>\n</table>\n\n<p>&nbsp;</p>\n",
+          "type": "clozeassociation",
+          "case_sensitive": true,
+          "validation": {
+            "scoring_type": "partialMatchV2",
+            "valid_response": {
+              "score": 6,
+              "value": [
+                "<span style=\"font-size:1em;\"><strong>STARTING THE DISCUSSION</strong></span>",
+                "<span style=\"font-size:1em;\"><strong>MAKING SUGGESTIONS</strong></span>",
+                "<span style=\"font-size:1em;\"><strong>GIVING OPINIONS</strong></span>",
+                "<span style=\"font-size:1em;\"><strong>ASKING FOR OPINIONS</strong></span>",
+                "<span style=\"font-size:1em;\"><strong>AGREEING</strong></span>",
+                "<span style=\"font-size:1em;\"><strong>DISAGREEING</strong></span>"
+              ]
+            }
+          },
+          "ui_style": {
+            "possibility_list_position": "right"
+          },
+          "instant_feedback": true,
+          "shuffle_options": true
+        },
+        "metadata": {
+          "name": "Cloze with drag & drop",
+          "template_reference": "51a8c1e7-f34f-4faf-b211-da458e891fcb"
+        }
+      },
+      "feedbackInfo": [
+        null,
+        null
+      ]
+    }
+  ]
+}

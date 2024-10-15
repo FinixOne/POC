@@ -1,0 +1,883 @@
+{
+  "userId": "2104c2da-7a08-4839-868c-dea53e904345",
+  "firstName": "Nattanicha",
+  "lastName": "Kasemnitikorn",
+  "assigmentId": "ab676ab1-5de7-449c-a985-b272fcbd8628",
+  "assigmentName": "Lecture B: Ethical Leadership",
+  "sessionId": "63c16b03-8006-4e99-98b9-220c35e9822b",
+  "email": "kasemnitin@coventry.ac.uk",
+  "spaceId": "eccb3434-e130-4250-b8cd-8ba714fcec86",
+  "spaceName": "(Community) Presessional English (PSE London)",
+  "score": 27,
+  "max_score": 31,
+  "questions": [
+    {
+      "response_id": "63c16b03-8006-4e99-98b9-220c35e9822b_637b5b1b0a6c7aaf5167afd11c27f3bb",
+      "question_type": "imageclozeassociationV2",
+      "dt_score_updated": "2022-07-05T18:28:33Z",
+      "automarkable": true,
+      "attempted": true,
+      "score": 0,
+      "max_score": 1,
+      "question_reference": "ad9f7c5c-a363-4525-8d8c-2cf6c68850b4",
+      "item_reference": "51244df8-2757-4052-9c11-72bfd7c94272",
+      "response": {
+        "value": [
+          [
+            "&nbsp;Background to the concept ethical leadership concept."
+          ],
+          [
+            "Famous ethical leaders from history."
+          ],
+          [
+            "Identify various sources that will allow you to pursue the subject further."
+          ],
+          [
+            "Help generate ideas that may encourage you to reflect upon your own ethical leadership."
+          ]
+        ],
+        "type": "array",
+        "apiVersion": "v2.168.22",
+        "revision": 3
+      },
+      "questionInfo": {
+        "type": "imageclozeassociationV2",
+        "widget_type": "response",
+        "reference": "ad9f7c5c-a363-4525-8d8c-2cf6c68850b4",
+        "data": {
+          "image": {
+            "src": "https://assets.learnosity.com/organisations/755/1d72a658-913f-46dc-9f3b-d2c9119484f9.jpg",
+            "width": 513,
+            "height": 386
+          },
+          "possible_responses": [
+            "Evaluate ethical leadership and assess how it relates to your own values and experiences.",
+            "&nbsp;Background to the concept ethical leadership concept.",
+            "Broad understanding of the concept of ethical leadership.",
+            "Help generate ideas that may encourage you to reflect upon your own ethical leadership.",
+            "Identify various sources that will allow you to pursue the subject further.",
+            "Famous ethical leaders from history."
+          ],
+          "response_containers": [
+            {
+              "x": 16.96,
+              "y": 19.69,
+              "width": "78.40%",
+              "height": "17.47%",
+              "aria_label": "",
+              "pointer": "undefined"
+            },
+            {
+              "x": 16.96,
+              "y": 38.6,
+              "width": "78.76%",
+              "height": "15.39%",
+              "aria_label": "",
+              "pointer": "undefined"
+            },
+            {
+              "x": 16.96,
+              "y": 55.18,
+              "width": "78.76%",
+              "height": "17.20%",
+              "aria_label": "",
+              "pointer": "undefined"
+            },
+            {
+              "x": 16.96,
+              "y": 74.09,
+              "aria_label": "",
+              "width": "78.56%",
+              "height": "16.48%",
+              "pointer": "none"
+            }
+          ],
+          "stimulus": "<h2><span style=\"color:#008000;\"><b>QUESTION ONE:&nbsp;</b></span></h2>\n\n<h4><strong>Order the lecture structure:&nbsp;Which topics is the lecturer going to focus on?&nbsp;</strong></h4>\n\n<h4><strong>► Organise the topics in <u>the order the lecturer mentions them</u>.</strong></h4>\n\n<p>&nbsp;</p>\n\n<p><span style=\"color:#b22222;\"><b><b><b><b>NOTE: There are TWO extra topics you don't need.&nbsp;</b></b></b></b></span></p>\n\n<p>&nbsp;</p>\n",
+          "type": "imageclozeassociationV2",
+          "case_sensitive": true,
+          "validation": {
+            "scoring_type": "partialMatchV2",
+            "valid_response": {
+              "score": 1,
+              "value": [
+                [
+                  "Broad understanding of the concept of ethical leadership."
+                ],
+                [
+                  "Evaluate ethical leadership and assess how it relates to your own values and experiences."
+                ],
+                [
+                  "Identify various sources that will allow you to pursue the subject further."
+                ],
+                [
+                  "Help generate ideas that may encourage you to reflect upon your own ethical leadership."
+                ]
+              ]
+            }
+          }
+        },
+        "metadata": {
+          "name": "Label image with drag & drop",
+          "template_reference": "6e77b403-8f0c-43af-b464-9450e1ac70dc"
+        }
+      },
+      "feedbackInfo": [
+        null,
+        null
+      ]
+    },
+    {
+      "response_id": "63c16b03-8006-4e99-98b9-220c35e9822b_4179d8e2b35ea29a4b0c790f0e8608e2",
+      "question_type": "mcq",
+      "dt_score_updated": "2022-07-05T18:27:22Z",
+      "automarkable": true,
+      "attempted": true,
+      "score": 1,
+      "max_score": 1,
+      "question_reference": "9b78872e-4456-4d05-bac3-8b0d1e8f404a",
+      "item_reference": "51244df8-2757-4052-9c11-72bfd7c94272",
+      "response": {
+        "value": [
+          "3"
+        ],
+        "type": "array",
+        "apiVersion": "v2.168.22",
+        "revision": 1
+      },
+      "questionInfo": {
+        "type": "mcq",
+        "widget_type": "response",
+        "reference": "9b78872e-4456-4d05-bac3-8b0d1e8f404a",
+        "data": {
+          "multiple_responses": true,
+          "options": [
+            {
+              "label": "Right and wrong",
+              "value": "0"
+            },
+            {
+              "label": "Conscious and unconscious choices&nbsp;",
+              "value": "1"
+            },
+            {
+              "label": "Ethical and unethical choices",
+              "value": "2"
+            },
+            {
+              "label": "Two equally valid alternatives",
+              "value": "3"
+            }
+          ],
+          "stimulus": "<h2><span style=\"color:#008000;\"><b>QUESTION TWO:</b></span></h2>\n\n<h4><b><b>According to the lecturer, the real difficulty that leaders have is to know the difference between…&nbsp;</b></b></h4>\n",
+          "type": "mcq",
+          "validation": {
+            "scoring_type": "exactMatch",
+            "valid_response": {
+              "score": 1,
+              "value": [
+                "3"
+              ]
+            }
+          },
+          "ui_style": {
+            "type": "horizontal"
+          }
+        },
+        "metadata": {
+          "name": "Multiple choice – multiple response",
+          "template_reference": "908de244-5c71-4c09-b094-7fb49554f2f9"
+        }
+      },
+      "feedbackInfo": [
+        null,
+        null
+      ]
+    },
+    {
+      "response_id": "63c16b03-8006-4e99-98b9-220c35e9822b_d02e4e81527ce8a21203d15e1d94c32a",
+      "question_type": "mcq",
+      "dt_score_updated": "2022-07-05T18:30:43Z",
+      "automarkable": true,
+      "attempted": true,
+      "score": 1,
+      "max_score": 1,
+      "question_reference": "b0996f45-73f0-46e2-8053-9c4148e50a44",
+      "item_reference": "51244df8-2757-4052-9c11-72bfd7c94272",
+      "response": {
+        "value": [
+          "1"
+        ],
+        "type": "array",
+        "apiVersion": "v2.168.22",
+        "revision": 2
+      },
+      "questionInfo": {
+        "type": "mcq",
+        "widget_type": "response",
+        "reference": "b0996f45-73f0-46e2-8053-9c4148e50a44",
+        "data": {
+          "options": [
+            {
+              "label": "It is not open for debate",
+              "value": "0"
+            },
+            {
+              "label": "It is based on common sense and not an established philosophy",
+              "value": "1"
+            },
+            {
+              "label": "It focuses on historical analysis",
+              "value": "2"
+            },
+            {
+              "label": "It is based on an established philosophy and not common sense",
+              "value": "3"
+            }
+          ],
+          "stimulus": "<h2>&nbsp;</h2>\n\n<h2><span style=\"color:#008000;\"><b>QUESTION THREE:</b></span></h2>\n\n<h4><b>According to the lecturer, the criticism that ethical leadership face is...</b></h4>\n",
+          "type": "mcq",
+          "validation": {
+            "scoring_type": "partialMatchV2",
+            "valid_response": {
+              "score": 1,
+              "value": [
+                "1"
+              ]
+            }
+          },
+          "ui_style": {
+            "type": "horizontal"
+          }
+        },
+        "metadata": {
+          "name": "Multiple choice – standard",
+          "template_reference": "9e8149bd-e4d8-4dd6-a751-1a113a4b9163"
+        }
+      },
+      "feedbackInfo": [
+        null,
+        null
+      ]
+    },
+    {
+      "response_id": "63c16b03-8006-4e99-98b9-220c35e9822b_5795bb0b123e2be7f9f24962b8f4c3c0",
+      "question_type": "mcq",
+      "dt_score_updated": "2022-07-05T18:30:58Z",
+      "automarkable": true,
+      "attempted": true,
+      "score": 4,
+      "max_score": 4,
+      "question_reference": "67f44ef5-e86c-4a66-a635-48d6c978b555",
+      "item_reference": "51244df8-2757-4052-9c11-72bfd7c94272",
+      "response": {
+        "value": [
+          "1",
+          "3",
+          "5",
+          "7"
+        ],
+        "type": "array",
+        "apiVersion": "v2.168.22",
+        "revision": 1
+      },
+      "questionInfo": {
+        "type": "mcq",
+        "widget_type": "response",
+        "reference": "67f44ef5-e86c-4a66-a635-48d6c978b555",
+        "data": {
+          "multiple_responses": true,
+          "options": [
+            {
+              "label": "To be persuasive and convince others",
+              "value": "0"
+            },
+            {
+              "label": "To go before others",
+              "value": "1"
+            },
+            {
+              "label": "To have superior morality",
+              "value": "2"
+            },
+            {
+              "label": "Presupposes others will follow",
+              "value": "3"
+            },
+            {
+              "label": "To take responsibility for others",
+              "value": "4"
+            },
+            {
+              "label": "A psychological relationship",
+              "value": "5"
+            },
+            {
+              "label": "A philosophical relationship",
+              "value": "6"
+            },
+            {
+              "label": "Often defined in terms of personal qualities",
+              "value": "7"
+            }
+          ],
+          "stimulus": "<h2>&nbsp;</h2>\n\n<h2><span style=\"color:#008000;\"><b>QUESTION FOUR:</b></span></h2>\n\n<h4><b><b>According to the lecturer, what is leadership?</b></b></h4>\n\n<h4><b>► Choose FOUR options.</b></h4>\n",
+          "type": "mcq",
+          "validation": {
+            "scoring_type": "partialMatchV2",
+            "valid_response": {
+              "score": 4,
+              "value": [
+                "1",
+                "3",
+                "5",
+                "7"
+              ]
+            }
+          },
+          "ui_style": {
+            "type": "horizontal"
+          }
+        },
+        "metadata": {
+          "name": "Multiple choice – multiple response",
+          "template_reference": "908de244-5c71-4c09-b094-7fb49554f2f9"
+        }
+      },
+      "feedbackInfo": [
+        null,
+        null
+      ]
+    },
+    {
+      "response_id": "63c16b03-8006-4e99-98b9-220c35e9822b_f00f7d22596ee16ec2f9f35e34923d85",
+      "question_type": "imageclozeassociationV2",
+      "dt_score_updated": "2022-07-05T18:32:38Z",
+      "automarkable": true,
+      "attempted": true,
+      "score": 5,
+      "max_score": 8,
+      "question_reference": "ec807604-107b-4fa3-8270-5036adcad728",
+      "item_reference": "51244df8-2757-4052-9c11-72bfd7c94272",
+      "response": {
+        "value": [
+          [
+            "correct"
+          ],
+          [
+            "followers"
+          ],
+          [
+            "heart"
+          ],
+          [
+            "right"
+          ],
+          [
+            "Practical"
+          ],
+          [
+            "Visionary"
+          ],
+          [
+            "head"
+          ],
+          [
+            "Tactical"
+          ]
+        ],
+        "type": "array",
+        "apiVersion": "v2.168.22",
+        "revision": 6
+      },
+      "questionInfo": {
+        "type": "imageclozeassociationV2",
+        "widget_type": "response",
+        "reference": "ec807604-107b-4fa3-8270-5036adcad728",
+        "data": {
+          "image": {
+            "src": "https://assets.learnosity.com/organisations/755/6190b7d4-c0df-490e-8c73-c0319b49f658.jpg",
+            "width": 776,
+            "height": 550
+          },
+          "possible_responses": [
+            "Visionary",
+            "Practical",
+            "followers",
+            "resources",
+            "heart",
+            "head",
+            "right",
+            "correct",
+            "Arbitrary",
+            "Tactical",
+            "connect",
+            "recourses"
+          ],
+          "response_containers": [
+            {
+              "x": 7.47,
+              "y": 30,
+              "width": "33.32%",
+              "height": "6.51%",
+              "aria_label": "",
+              "pointer": "undefined"
+            },
+            {
+              "x": 21.52,
+              "y": 65.82,
+              "width": "21.85%",
+              "height": "6.33%",
+              "aria_label": "",
+              "pointer": "undefined"
+            },
+            {
+              "x": 21.52,
+              "y": 77.82,
+              "width": "20.95%",
+              "height": "6.33%",
+              "aria_label": "",
+              "pointer": "undefined"
+            },
+            {
+              "x": 33.63,
+              "y": 89.64,
+              "aria_label": "",
+              "width": "10.57%",
+              "height": "6.53%",
+              "pointer": "none"
+            },
+            {
+              "x": 56.7,
+              "y": 30,
+              "aria_label": "",
+              "width": "31.06%",
+              "height": "6.89%",
+              "pointer": "none"
+            },
+            {
+              "x": 72.55,
+              "y": 65.82,
+              "aria_label": "",
+              "width": "19.72%",
+              "height": "6.53%",
+              "pointer": "none"
+            },
+            {
+              "x": 72.42,
+              "y": 77.82,
+              "aria_label": "",
+              "width": "20.36%",
+              "height": "6.35%",
+              "pointer": "none"
+            },
+            {
+              "x": 83.89,
+              "y": 89.82,
+              "aria_label": "",
+              "width": "10.82%",
+              "height": "6.53%",
+              "pointer": "none"
+            }
+          ],
+          "stimulus": "<h2>&nbsp;</h2>\n\n<h2><span style=\"color:#008000;\"><b>QUESTION FIVE:</b></span></h2>\n\n<h4><strong>Difference between leaders and managers.</strong></h4>\n\n<h4><b>► </b><strong>Complete the lecture slide with the words below.&nbsp;</strong></h4>\n\n<h5>&nbsp;</h5>\n\n<p><span style=\"color:#b22222;\"><b>NOTE; There are FOUR extra words that you don’t need.</b></span></p>\n",
+          "type": "imageclozeassociationV2",
+          "case_sensitive": true,
+          "validation": {
+            "scoring_type": "partialMatchV2",
+            "valid_response": {
+              "score": 8,
+              "value": [
+                [
+                  "Visionary"
+                ],
+                [
+                  "followers"
+                ],
+                [
+                  "heart"
+                ],
+                [
+                  "right"
+                ],
+                [
+                  "Practical"
+                ],
+                [
+                  "resources"
+                ],
+                [
+                  "head"
+                ],
+                [
+                  "correct"
+                ]
+              ]
+            }
+          }
+        },
+        "metadata": {
+          "name": "Label image with drag & drop",
+          "template_reference": "6e77b403-8f0c-43af-b464-9450e1ac70dc"
+        }
+      },
+      "feedbackInfo": [
+        null,
+        null
+      ]
+    },
+    {
+      "response_id": "63c16b03-8006-4e99-98b9-220c35e9822b_a42b44afb7f07c59bac3aa40870fcb3d",
+      "question_type": "mcq",
+      "dt_score_updated": "2022-07-05T18:33:49Z",
+      "automarkable": true,
+      "attempted": true,
+      "score": 2,
+      "max_score": 2,
+      "question_reference": "32ad405b-e454-4655-857f-9cf9d1b2563c",
+      "item_reference": "51244df8-2757-4052-9c11-72bfd7c94272",
+      "response": {
+        "value": [
+          "3",
+          "0"
+        ],
+        "type": "array",
+        "apiVersion": "v2.168.22",
+        "revision": 2
+      },
+      "questionInfo": {
+        "type": "mcq",
+        "widget_type": "response",
+        "reference": "32ad405b-e454-4655-857f-9cf9d1b2563c",
+        "data": {
+          "multiple_responses": true,
+          "options": [
+            {
+              "label": "Most leaders have to concern themselves with management",
+              "value": "0"
+            },
+            {
+              "label": "Most managers make no distinction between management and leadership",
+              "value": "1"
+            },
+            {
+              "label": "Most leaders also study management",
+              "value": "2"
+            },
+            {
+              "label": "Most managers have to act as leaders",
+              "value": "3"
+            }
+          ],
+          "stimulus": "<h2>&nbsp;</h2>\n\n<h2><span style=\"color:#008000;\"><b>QUESTION SIX:</b></span></h2>\n\n<h4><b>According to the lecturer, what are the similarities between leaders and managers?</b></h4>\n\n<h4 id=\"yui_3_17_2_1_1631713758738_206\"><b>► Choose TWO.</b></h4>\n",
+          "type": "mcq",
+          "validation": {
+            "scoring_type": "partialMatchV2",
+            "valid_response": {
+              "score": 2,
+              "value": [
+                "0",
+                "3"
+              ]
+            }
+          },
+          "ui_style": {
+            "type": "horizontal"
+          }
+        },
+        "metadata": {
+          "name": "Multiple choice – multiple response",
+          "template_reference": "908de244-5c71-4c09-b094-7fb49554f2f9"
+        }
+      },
+      "feedbackInfo": [
+        null,
+        null
+      ]
+    },
+    {
+      "response_id": "63c16b03-8006-4e99-98b9-220c35e9822b_8e4ce333964b55990a37967a78a391ad",
+      "question_type": "mcq",
+      "dt_score_updated": "2022-07-05T18:33:07Z",
+      "automarkable": true,
+      "attempted": true,
+      "score": 1,
+      "max_score": 1,
+      "question_reference": "b6908ccf-258b-495d-be88-6d1b5e56a6a6",
+      "item_reference": "51244df8-2757-4052-9c11-72bfd7c94272",
+      "response": {
+        "value": [
+          "0"
+        ],
+        "type": "array",
+        "apiVersion": "v2.168.22",
+        "revision": 1
+      },
+      "questionInfo": {
+        "type": "mcq",
+        "widget_type": "response",
+        "reference": "b6908ccf-258b-495d-be88-6d1b5e56a6a6",
+        "data": {
+          "options": [
+            {
+              "label": "The application of moral values to our everyday life",
+              "value": "0"
+            },
+            {
+              "label": "The application of moral values to business strategy",
+              "value": "1"
+            },
+            {
+              "label": "&nbsp;The application of moral values to intellectual processes",
+              "value": "2"
+            },
+            {
+              "label": "&nbsp;The application of moral values to broader concepts",
+              "value": "3"
+            }
+          ],
+          "stimulus": "<h2><span style=\"color:#008000;\"><b>QUESTION SEVEN:</b></span></h2>\n\n<h4><b><b>According to the lecturer, what is ethics?</b></b></h4>\n",
+          "type": "mcq",
+          "validation": {
+            "scoring_type": "exactMatch",
+            "valid_response": {
+              "score": 1,
+              "value": [
+                "0"
+              ]
+            }
+          },
+          "ui_style": {
+            "type": "horizontal"
+          }
+        },
+        "metadata": {
+          "name": "Multiple choice – standard",
+          "template_reference": "9e8149bd-e4d8-4dd6-a751-1a113a4b9163"
+        }
+      },
+      "feedbackInfo": [
+        null,
+        null
+      ]
+    },
+    {
+      "response_id": "63c16b03-8006-4e99-98b9-220c35e9822b_9b7bdf8d732e0264e14328aa90f21a54",
+      "question_type": "mcq",
+      "dt_score_updated": "2022-07-05T18:34:32Z",
+      "automarkable": true,
+      "attempted": true,
+      "score": 1,
+      "max_score": 1,
+      "question_reference": "e076fe1e-f04c-4dc4-8c39-8d986af51edc",
+      "item_reference": "51244df8-2757-4052-9c11-72bfd7c94272",
+      "response": {
+        "value": [
+          "2"
+        ],
+        "type": "array",
+        "apiVersion": "v2.168.22",
+        "revision": 1
+      },
+      "questionInfo": {
+        "type": "mcq",
+        "widget_type": "response",
+        "reference": "e076fe1e-f04c-4dc4-8c39-8d986af51edc",
+        "data": {
+          "options": [
+            {
+              "label": "Business ethics should be a limited philosophy",
+              "value": "0"
+            },
+            {
+              "label": "Ethics should not occur in a business setting",
+              "value": "1"
+            },
+            {
+              "label": "Business ethics should not be a special case",
+              "value": "2"
+            },
+            {
+              "label": "Business ethics should be a special case",
+              "value": "3"
+            }
+          ],
+          "stimulus": "<h2>&nbsp;</h2>\n\n<h2><span style=\"color:#008000;\"><b>QUESTION EIGHT:</b></span></h2>\n\n<h4><b>What is the lecturer’s opinion about Business Ethics?</b></h4>\n",
+          "type": "mcq",
+          "validation": {
+            "scoring_type": "exactMatch",
+            "valid_response": {
+              "score": 1,
+              "value": [
+                "2"
+              ]
+            }
+          },
+          "ui_style": {
+            "type": "horizontal"
+          }
+        },
+        "metadata": {
+          "name": "Multiple choice – standard",
+          "template_reference": "9e8149bd-e4d8-4dd6-a751-1a113a4b9163"
+        }
+      },
+      "feedbackInfo": [
+        null,
+        null
+      ]
+    },
+    {
+      "response_id": "63c16b03-8006-4e99-98b9-220c35e9822b_c7fdc5d8c1ba418767c1192bc0c40889",
+      "question_type": "mcq",
+      "dt_score_updated": "2022-07-05T18:34:04Z",
+      "automarkable": true,
+      "attempted": true,
+      "score": 1,
+      "max_score": 1,
+      "question_reference": "0c01d4e7-4f96-4c4f-9307-839dd18fc350",
+      "item_reference": "51244df8-2757-4052-9c11-72bfd7c94272",
+      "response": {
+        "value": [
+          "0"
+        ],
+        "type": "array",
+        "apiVersion": "v2.168.22",
+        "revision": 1
+      },
+      "questionInfo": {
+        "type": "mcq",
+        "widget_type": "response",
+        "reference": "0c01d4e7-4f96-4c4f-9307-839dd18fc350",
+        "data": {
+          "options": [
+            {
+              "label": "It does not tell us what is ethical and what isn’t",
+              "value": "0"
+            },
+            {
+              "label": "It tells us the processes through which ethical leadership may operate",
+              "value": "1"
+            },
+            {
+              "label": "Its underlying values are not based on research&nbsp;",
+              "value": "2"
+            },
+            {
+              "label": "&nbsp;It follows a set of procedures that will do more harm than good&nbsp;",
+              "value": "3"
+            }
+          ],
+          "stimulus": "<h2>&nbsp;</h2>\n\n<h2><span style=\"color:#008000;\"><b>QUESTION NINE:</b></span></h2>\n\n<h4><b>What is the lecturer’s concern about Brown and Trevino’s definition of ethical leadership?</b></h4>\n",
+          "type": "mcq",
+          "validation": {
+            "scoring_type": "exactMatch",
+            "valid_response": {
+              "score": 1,
+              "value": [
+                "0"
+              ]
+            }
+          },
+          "ui_style": {
+            "type": "horizontal"
+          }
+        },
+        "metadata": {
+          "name": "Multiple choice – standard",
+          "template_reference": "9e8149bd-e4d8-4dd6-a751-1a113a4b9163"
+        }
+      },
+      "feedbackInfo": [
+        null,
+        null
+      ]
+    },
+    {
+      "response_id": "63c16b03-8006-4e99-98b9-220c35e9822b_32df321489ccff6569cf9273039a379e",
+      "question_type": "clozeassociation",
+      "dt_score_updated": "2022-07-05T18:36:30Z",
+      "automarkable": true,
+      "attempted": true,
+      "score": 11,
+      "max_score": 11,
+      "question_reference": "9d52c36e-b2c4-449f-803d-1fea9abd1c4c",
+      "item_reference": "51244df8-2757-4052-9c11-72bfd7c94272",
+      "response": {
+        "value": [
+          "Fair and principled",
+          "Influences followers’ behaviour",
+          "Cares about people and the broader society",
+          "Makes ethics part of the leadership agenda",
+          "Behaves ethically",
+          "Communicate an ethics and values message",
+          "Hold followers accountable for ethical conducts",
+          "Who is deciding what counts as fair?",
+          "Where does influence ends and coercion begin?",
+          "Do leaders only have to appear to be ethical?",
+          "Are managers the best people to make judgements?"
+        ],
+        "type": "array",
+        "apiVersion": "v2.168.22",
+        "revision": 6
+      },
+      "questionInfo": {
+        "type": "clozeassociation",
+        "widget_type": "response",
+        "reference": "9d52c36e-b2c4-449f-803d-1fea9abd1c4c",
+        "data": {
+          "possible_responses": [
+            "Are managers the best people to make judgements?",
+            "Behaves ethically",
+            "Cares about people and the broader society",
+            "Communicate an ethics and values message",
+            "Do leaders only have to appear to be ethical?",
+            "Fair and principled",
+            "Hold followers accountable for ethical conducts",
+            "Influences followers’ behaviour",
+            "Makes ethics part of the leadership agenda",
+            "Where does influence ends and coercion begin?",
+            "Who is deciding what counts as fair?"
+          ],
+          "response_container": {
+            "pointer": "left"
+          },
+          "stimulus": "<h2>&nbsp;</h2>\n\n<h2><span style=\"color:#008000;\"><b>QUESTION TEN:</b></span></h2>\n\n<h4><b>The Pillars of Ethical Leadership.</b></h4>\n\n<h4><b>► Complete the table with the phrases below.</b></h4>\n\n<p>&nbsp;</p>\n",
+          "template": "<table class=\"table table-condensed table-striped lrn_width_auto\">\n\t<tbody>\n\t\t<tr>\n\t\t\t<td>\n\t\t\t<p class=\"text-center\" style=\"margin-left: 40px;\"><span style=\"color:#0000ff;\"><span style=\"font-size:1.3em;\"><strong>Pilar 1 - The Moral Person&nbsp; &nbsp; &nbsp;</strong></span></span></p>\n\t\t\t</td>\n\t\t\t<td>\n\t\t\t<p class=\"text-center\" style=\"margin-left: 40px;\"><span style=\"color:#008000;\"><span style=\"font-size:1.3em;\"><strong>Pilar 2 - The Moral Manager&nbsp; &nbsp; &nbsp;</strong></span></span></p>\n\t\t\t</td>\n\t\t</tr>\n\t\t<tr>\n\t\t\t<td>1.&nbsp;{{response}}</td>\n\t\t\t<td>\n\t\t\t<p style=\"margin-left: 40px;\">1.&nbsp;{{response}}</p>\n\t\t\t</td>\n\t\t</tr>\n\t\t<tr>\n\t\t\t<td>2.&nbsp;{{response}}</td>\n\t\t\t<td>\n\t\t\t<p style=\"margin-left: 40px;\">2.&nbsp;{{response}}</p>\n\t\t\t</td>\n\t\t</tr>\n\t\t<tr>\n\t\t\t<td>3.&nbsp;{{response}}</td>\n\t\t\t<td>\n\t\t\t<p style=\"margin-left: 40px;\">3.&nbsp;{{response}}</p>\n\t\t\t</td>\n\t\t</tr>\n\t\t<tr>\n\t\t\t<td>&nbsp;</td>\n\t\t\t<td>\n\t\t\t<p style=\"margin-left: 40px;\">4.&nbsp;{{response}}</p>\n\t\t\t</td>\n\t\t</tr>\n\t\t<tr>\n\t\t\t<td class=\"text-center\"><span style=\"color:#0000ff;\"><strong>Criticism to Pilar 1</strong></span></td>\n\t\t\t<td class=\"text-center\"><span style=\"color:#008000;\"><strong>Criticism to Pilar 2</strong></span></td>\n\t\t</tr>\n\t\t<tr>\n\t\t\t<td>•&nbsp;{{response}}</td>\n\t\t\t<td>\n\t\t\t<p style=\"margin-left: 40px;\">•&nbsp;{{response}}</p>\n\t\t\t</td>\n\t\t</tr>\n\t\t<tr>\n\t\t\t<td>•&nbsp;{{response}}</td>\n\t\t\t<td>\n\t\t\t<p style=\"margin-left: 40px;\">•&nbsp;{{response}}</p>\n\t\t\t</td>\n\t\t</tr>\n\t</tbody>\n</table>\n",
+          "type": "clozeassociation",
+          "case_sensitive": true,
+          "validation": {
+            "scoring_type": "partialMatchV2",
+            "valid_response": {
+              "score": 11,
+              "value": [
+                "Fair and principled",
+                "Influences followers’ behaviour",
+                "Cares about people and the broader society",
+                "Makes ethics part of the leadership agenda",
+                "Behaves ethically",
+                "Communicate an ethics and values message",
+                "Hold followers accountable for ethical conducts",
+                "Who is deciding what counts as fair?",
+                "Where does influence ends and coercion begin?",
+                "Do leaders only have to appear to be ethical?",
+                "Are managers the best people to make judgements?"
+              ]
+            }
+          },
+          "ui_style": {
+            "show_drag_handle": false
+          },
+          "shuffle_options": true
+        },
+        "metadata": {
+          "name": "Cloze with drag & drop",
+          "template_reference": "51a8c1e7-f34f-4faf-b211-da458e891fcb"
+        }
+      },
+      "feedbackInfo": [
+        null,
+        null
+      ]
+    }
+  ]
+}

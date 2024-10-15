@@ -1,0 +1,1414 @@
+{
+  "userId": "14f6a41e-750b-4cc3-ad15-3407b369c724",
+  "firstName": "Nattaphong",
+  "lastName": "Phiphatanaphong",
+  "assigmentId": "3895cf5c-e4bc-4091-8aca-48def2d615f8",
+  "assigmentName": "Hudson Corporation (Case Study)",
+  "sessionId": "1ab75e53-b457-4b66-ae7c-c74b8c6afb06",
+  "email": "phiphatann@coventry.ac.uk",
+  "spaceId": "eccb3434-e130-4250-b8cd-8ba714fcec86",
+  "spaceName": "(Community) Presessional English (PSE London)",
+  "score": 98,
+  "max_score": 112,
+  "questions": [
+    {
+      "response_id": "1ab75e53-b457-4b66-ae7c-c74b8c6afb06_34b32a7e7f0e6b5a625c6056bcea4e1c",
+      "question_type": "choicematrix",
+      "dt_score_updated": "2023-11-14T18:20:17Z",
+      "automarkable": true,
+      "attempted": true,
+      "score": 5,
+      "max_score": 5,
+      "question_reference": "cff15014-c9d9-4acc-b24d-eff16c999cc9",
+      "item_reference": "cf75856d-75d8-4fc0-aa34-1104d683c3e7",
+      "response": {
+        "value": [
+          [
+            1
+          ],
+          [
+            1
+          ],
+          [
+            0
+          ],
+          [
+            1
+          ],
+          [
+            1
+          ]
+        ],
+        "type": "array",
+        "apiVersion": "v2.192.17",
+        "revision": 4,
+        "feedbackAttemptsCount": 1
+      },
+      "questionInfo": {
+        "type": "choicematrix",
+        "widget_type": "response",
+        "reference": "cff15014-c9d9-4acc-b24d-eff16c999cc9",
+        "data": {
+          "options": [
+            "<strong><span style=\"color:#008000;\">True</span></strong>",
+            "<strong><span style=\"color:#ff0000;\">False</span></strong>"
+          ],
+          "stems": [
+            "<span style=\"font-size:1.1em;\">In your next class you will take part in a discussion led by your tutor.</span>",
+            "<span style=\"font-size:1.1em;\">For your case study discussion, you should&nbsp;<u>only</u>&nbsp;use the information given in this lesson.</span>",
+            "<span style=\"font-size:1.1em;\">You can use notes in discussions.</span>",
+            "<span style=\"font-size:1.1em;\">Speaking is the most important skill in a discussion.</span>",
+            "<span style=\"font-size:1.1em;\">According to the speaker, using discussion language accurately is the most important way to contribute effectively to a discussion.</span>"
+          ],
+          "stimulus": "<table class=\"table table-condensed table-no-border lrn_width_auto\">\n\t<tbody>\n\t\t<tr>\n\t\t\t<td><img class=\"lrn-image-non-responsive\" height=\"69\" src=\"https://assets.learnosity.com/organisations/755/0f66b7ad-c0bc-475c-bd43-bbe829321d5c.jpg\" width=\"80\"></td>\n\t\t\t<td>\n\t\t\t<p id=\"yui_3_17_2_1_1635242708607_179\"><span style=\"font-size:2em;\"><b id=\"yui_3_17_2_1_1635242708607_188\">I</b><b>n this video, Rachel reviews what students can expect from&nbsp;<u><span style=\"color:#ff8c00;\">academic discussions</span></u>&nbsp;and explains the format of your case study discussion.</b></span></p>\n\n\t\t\t<p><span class=\"learnosity-feature\" data-player_type=\"hosted-video\" data-simplefeature_id=\"d439e85a-3dbe-4864-bcea-165290eaefd0\" data-src=\"https://assets.learnosity.com/organisations/755/54466b98-a3f6-4722-bef7-e308568e7776.mp4\" data-type=\"videoplayer\"></span></p>\n\t\t\t</td>\n\t\t</tr>\n\t</tbody>\n</table>\n\n<h4><b><span style=\"color:#ff8c00;\">► </span>Listen and answer the questions below:</b></h4>\n",
+          "type": "choicematrix",
+          "validation": {
+            "scoring_type": "partialMatchV2",
+            "valid_response": {
+              "score": 5,
+              "value": [
+                [
+                  1
+                ],
+                [
+                  1
+                ],
+                [
+                  0
+                ],
+                [
+                  1
+                ],
+                [
+                  1
+                ]
+              ]
+            }
+          },
+          "ui_style": {
+            "type": "table",
+            "horizontal_lines": false
+          },
+          "instant_feedback": true
+        },
+        "metadata": {
+          "name": "Choice matrix – standard",
+          "template_reference": "14b7af71-e146-4747-aae5-ca71618a5038"
+        }
+      },
+      "feedbackInfo": [
+        null,
+        null
+      ]
+    },
+    {
+      "response_id": "1ab75e53-b457-4b66-ae7c-c74b8c6afb06_2cf74f9e1283e4a3753f90c83e764e43",
+      "question_type": "orderlist",
+      "dt_score_updated": "2023-11-14T18:28:49Z",
+      "automarkable": true,
+      "attempted": true,
+      "score": 6,
+      "max_score": 6,
+      "question_reference": "12d9f880-35a3-4488-9d89-2ce7a03f80e9",
+      "item_reference": "60bebbb0-efcf-4f8e-b9f3-aa853d15f3dc",
+      "response": {
+        "value": [
+          0,
+          1,
+          2,
+          3,
+          4,
+          5,
+          6
+        ],
+        "type": "array",
+        "apiVersion": "v2.192.17",
+        "revision": 6,
+        "feedbackAttemptsCount": 3
+      },
+      "questionInfo": {
+        "type": "orderlist",
+        "widget_type": "response",
+        "reference": "12d9f880-35a3-4488-9d89-2ce7a03f80e9",
+        "data": {
+          "list": [
+            "The most important purpose of a chairperson is to ensure that the participants of a meeting follow ...",
+            "... the brief and stay on topic, respect each other and the rules of the meeting.&nbsp;",
+            "The chairperson starts the meeting, welcomes everyone and states what the topic is.&nbsp;They must...&nbsp;",
+            "... manage the time, introduce each section of the agenda as they move through it, and make sure there is time to discuss each subtopic.",
+            "The chairperson should allow all those attending the meeting to have a chance to express their views and opinions.&nbsp;They should be ...",
+            "... friendly and encourage those present to participate during the meeting and make all members feel welcomed and valued.",
+            "Finally, the chair also has an important role encouraging quieter members to contribute."
+          ],
+          "type": "orderlist",
+          "validation": {
+            "scoring_type": "partialMatchV2",
+            "valid_response": {
+              "score": 6,
+              "value": [
+                0,
+                1,
+                2,
+                3,
+                4,
+                5,
+                6
+              ]
+            }
+          },
+          "instant_feedback": true,
+          "shuffle_options": true,
+          "stimulus": "<table class=\"table table-condensed table-no-border lrn_width_auto\">\n\t<tbody>\n\t\t<tr>\n\t\t\t<td><img class=\"lrn-image-non-responsive\" height=\"69\" src=\"https://assets.learnosity.com/organisations/755/0f66b7ad-c0bc-475c-bd43-bbe829321d5c.jpg\" width=\"80\"></td>\n\t\t\t<td>\n\t\t\t<p id=\"yui_3_17_2_1_1635242708607_179\"><span style=\"color:#000000;\"><span style=\"font-size:2em;\"><b>In this video, Sean reviews the&nbsp;</b></span></span><u><span style=\"color:#ff8c00;\"><span style=\"font-size:2em;\"><b>role of the chairperson</b></span></span></u><span style=\"color:#000000;\"><span style=\"font-size:2em;\"><b>&nbsp;and gives you some useful advice for participating in discussions.</b></span></span></p>\n\n\t\t\t<p><span class=\"learnosity-feature\" data-player_type=\"hosted-video\" data-simplefeature_id=\"c4edb1e6-246e-4f3a-b775-14761a163053\" data-src=\"https://assets.learnosity.com/organisations/755/1a439daa-3597-4760-a00b-177c1dba209e.mp4\" data-type=\"videoplayer\"></span></p>\n\t\t\t</td>\n\t\t</tr>\n\t</tbody>\n</table>\n\n<h4><b><span style=\"color:#ff8c00;\">►</span><span style=\"color:#000000;\"> Organise the summary of the chairperson's responsibilities below into the correct order</span></b><span style=\"color:#000000;\"><b id=\"yui_3_17_2_1_1635253540063_469\">.</b></span></h4>\n"
+        },
+        "metadata": {
+          "name": "Order list",
+          "template_reference": "0c7f68f7-2be6-4ae0-8492-0ab78c8d0010"
+        }
+      },
+      "feedbackInfo": [
+        null,
+        null
+      ]
+    },
+    {
+      "response_id": "1ab75e53-b457-4b66-ae7c-c74b8c6afb06_e771c01192295c75062d7b972240dc3e",
+      "question_type": "clozeassociation",
+      "dt_score_updated": "2023-11-14T18:33:00Z",
+      "automarkable": true,
+      "attempted": true,
+      "score": 10,
+      "max_score": 10,
+      "question_reference": "541f5fe1-ffce-41ff-8146-45caec7cb253",
+      "item_reference": "60bebbb0-efcf-4f8e-b9f3-aa853d15f3dc",
+      "response": {
+        "value": [
+          "Today",
+          "we're",
+          "looking",
+          "at",
+          "Shall",
+          "we",
+          "begin",
+          "Who",
+          "would&nbsp;",
+          "like",
+          "to start"
+        ],
+        "type": "array",
+        "apiVersion": "v2.192.17",
+        "revision": 2,
+        "feedbackAttemptsCount": 1
+      },
+      "questionInfo": {
+        "type": "clozeassociation",
+        "widget_type": "response",
+        "reference": "541f5fe1-ffce-41ff-8146-45caec7cb253",
+        "data": {
+          "possible_responses": [
+            "Today",
+            "we're",
+            "looking",
+            "at",
+            "Shall",
+            "we",
+            "begin",
+            "Who",
+            "would&nbsp;",
+            "like",
+            "to start"
+          ],
+          "response_container": {
+            "pointer": "left"
+          },
+          "stimulus": "<h2><b>In the questions below, you will review some useful language for&nbsp;<u><span style=\"color:#0000ff;\">chairing a discussion</span></u>...</b></h2>\n\n<p><img class=\"lrn-image-non-responsive\" height=\"90\" src=\"https://assets.learnosity.com/organisations/755/e0696894-c826-4294-a83a-760e9bb5d4f7.jpg\" width=\"318\"></p>\n\n<p>&nbsp;</p>\n\n<h3><span style=\"color:#0000ff;\"><b>1. Language for starting the discussion&nbsp;</b></span></h3>\n\n<h4><strong><span style=\"color:#0000ff;\">► </span>Put the words into the correct order:&nbsp;</strong></h4>\n",
+          "template": "<ul>\n\t<li>{{response}}&nbsp;{{response}}&nbsp;{{response}}&nbsp;{{response}}&nbsp;...&nbsp;</li>\n\t<li>{{response}}&nbsp;{{response}}&nbsp;{{response}}?</li>\n\t<li>{{response}}&nbsp;{{response}}&nbsp;{{response}}&nbsp;{{response}}&nbsp;?</li>\n</ul>\n",
+          "type": "clozeassociation",
+          "case_sensitive": true,
+          "validation": {
+            "scoring_type": "partialMatchV2",
+            "valid_response": {
+              "score": 10,
+              "value": [
+                "Today",
+                "we're",
+                "looking",
+                "at",
+                "Shall",
+                "we",
+                "begin",
+                "Who",
+                "would&nbsp;",
+                "like",
+                "to start"
+              ]
+            }
+          },
+          "instant_feedback": true,
+          "shuffle_options": true
+        },
+        "metadata": {
+          "name": "Cloze with drag & drop",
+          "template_reference": "51a8c1e7-f34f-4faf-b211-da458e891fcb"
+        }
+      },
+      "feedbackInfo": [
+        null,
+        null
+      ]
+    },
+    {
+      "response_id": "1ab75e53-b457-4b66-ae7c-c74b8c6afb06_1099bb5f4660ad2c084d7652e79db06b",
+      "question_type": "clozeassociation",
+      "dt_score_updated": "2023-11-14T18:36:20Z",
+      "automarkable": true,
+      "attempted": true,
+      "score": 13,
+      "max_score": 13,
+      "question_reference": "e95cf851-df35-4e61-8605-abf7fe518c54",
+      "item_reference": "60bebbb0-efcf-4f8e-b9f3-aa853d15f3dc",
+      "response": {
+        "value": [
+          "Thanks&nbsp;",
+          "contribution&nbsp;",
+          "Shall we",
+          "move on&nbsp;",
+          "to the",
+          "next&nbsp;",
+          "Sorry",
+          "what do&nbsp;",
+          "you mean",
+          "by that",
+          "Could you&nbsp;",
+          "explain&nbsp;",
+          "that"
+        ],
+        "type": "array",
+        "apiVersion": "v2.192.17",
+        "revision": 6,
+        "feedbackAttemptsCount": 1
+      },
+      "questionInfo": {
+        "type": "clozeassociation",
+        "widget_type": "response",
+        "reference": "e95cf851-df35-4e61-8605-abf7fe518c54",
+        "data": {
+          "possible_responses": [
+            "Thanks&nbsp;",
+            "contribution&nbsp;",
+            "Shall we",
+            "move on&nbsp;",
+            "to the",
+            "next&nbsp;",
+            "Sorry",
+            "what do&nbsp;",
+            "you mean",
+            "by that",
+            "Could you&nbsp;",
+            "explain&nbsp;",
+            "that"
+          ],
+          "response_container": {
+            "pointer": "left"
+          },
+          "stimulus": "<h3><span style=\"color:#008000;\"><b>2. Language for </b><b id=\"yui_3_17_2_1_1635255923627_174\">managing contributions</b><b>&nbsp;</b></span></h3>\n\n<h4><strong><span style=\"color:#0000ff;\"></span><span style=\"color:#008000;\">►</span><span style=\"color:#0000ff;\"> </span>Put the words into the correct order:&nbsp;</strong></h4>\n",
+          "template": "<ul>\n\t<li>{{response}}&nbsp;for your&nbsp;{{response}}.</li>\n\t<li>{{response}}&nbsp;{{response}}&nbsp;{{response}}&nbsp;{{response}}&nbsp; subtopic?</li>\n\t<li>{{response}},&nbsp;{{response}}&nbsp;{{response}}&nbsp;{{response}}?</li>\n\t<li>{{response}}&nbsp;{{response}}&nbsp;{{response}} again?</li>\n</ul>\n",
+          "type": "clozeassociation",
+          "case_sensitive": true,
+          "validation": {
+            "scoring_type": "partialMatchV2",
+            "valid_response": {
+              "score": 13,
+              "value": [
+                "Thanks&nbsp;",
+                "contribution&nbsp;",
+                "Shall we",
+                "move on&nbsp;",
+                "to the",
+                "next&nbsp;",
+                "Sorry",
+                "what do&nbsp;",
+                "you mean",
+                "by that",
+                "Could you&nbsp;",
+                "explain&nbsp;",
+                "that"
+              ]
+            }
+          },
+          "instant_feedback": true,
+          "shuffle_options": true
+        },
+        "metadata": {
+          "name": "Cloze with drag & drop",
+          "template_reference": "51a8c1e7-f34f-4faf-b211-da458e891fcb"
+        }
+      },
+      "feedbackInfo": [
+        null,
+        null
+      ]
+    },
+    {
+      "response_id": "1ab75e53-b457-4b66-ae7c-c74b8c6afb06_a2be3183b613b12084939005e2702a7d",
+      "question_type": "clozeassociation",
+      "dt_score_updated": "2023-11-14T18:37:17Z",
+      "automarkable": true,
+      "attempted": true,
+      "score": 7,
+      "max_score": 7,
+      "question_reference": "b5eff298-a313-46cc-af5a-ef82851daa1f",
+      "item_reference": "60bebbb0-efcf-4f8e-b9f3-aa853d15f3dc",
+      "response": {
+        "value": [
+          "would&nbsp;",
+          "you like to&nbsp;",
+          "add anything",
+          "Would&nbsp;",
+          "anyone else",
+          "like&nbsp;",
+          "to contribute"
+        ],
+        "type": "array",
+        "apiVersion": "v2.192.17",
+        "revision": 1,
+        "feedbackAttemptsCount": 1
+      },
+      "questionInfo": {
+        "type": "clozeassociation",
+        "widget_type": "response",
+        "reference": "b5eff298-a313-46cc-af5a-ef82851daa1f",
+        "data": {
+          "possible_responses": [
+            "would&nbsp;",
+            "you like to&nbsp;",
+            "add anything",
+            "Would&nbsp;",
+            "anyone else",
+            "like&nbsp;",
+            "to contribute"
+          ],
+          "response_container": {
+            "pointer": "left"
+          },
+          "stimulus": "<h3><span style=\"color:#4b0082;\"><b>3. Language for </b><b id=\"yui_3_17_2_1_1635255923627_180\">for inviting participants to contribute&nbsp;</b></span></h3>\n\n<h4><strong><span style=\"color:#0000ff;\"></span><span style=\"color:#4b0082;\">►</span><span style=\"color:#0000ff;\"> </span>Put the words into the correct order:&nbsp;</strong></h4>\n",
+          "template": "<ul>\n\t<li>David,&nbsp;{{response}}&nbsp;{{response}}&nbsp;{{response}}?</li>\n\t<li>{{response}}&nbsp;{{response}}&nbsp;{{response}}&nbsp;{{response}}​​​​​​​?</li>\n</ul>\n",
+          "type": "clozeassociation",
+          "case_sensitive": true,
+          "validation": {
+            "scoring_type": "partialMatchV2",
+            "valid_response": {
+              "score": 7,
+              "value": [
+                "would&nbsp;",
+                "you like to&nbsp;",
+                "add anything",
+                "Would&nbsp;",
+                "anyone else",
+                "like&nbsp;",
+                "to contribute"
+              ]
+            }
+          },
+          "shuffle_options": true,
+          "instant_feedback": true
+        },
+        "metadata": {
+          "name": "Cloze with drag & drop",
+          "template_reference": "51a8c1e7-f34f-4faf-b211-da458e891fcb"
+        }
+      },
+      "feedbackInfo": [
+        null,
+        null
+      ]
+    },
+    {
+      "response_id": "1ab75e53-b457-4b66-ae7c-c74b8c6afb06_ece5e049cbd1415a184fe6641024953b",
+      "question_type": "imageclozeassociationV2",
+      "dt_score_updated": "2023-11-14T18:43:41Z",
+      "automarkable": true,
+      "attempted": true,
+      "score": 11,
+      "max_score": 20,
+      "question_reference": "77096891-9e4c-45d5-9723-5c067be4b4e1",
+      "item_reference": "a3aeb4eb-512e-406a-b383-7189a6f7ddea",
+      "response": {
+        "value": [
+          [
+            "What's your opinion about...?",
+            "What do you think about...?"
+          ],
+          [
+            "The way I see it...",
+            "Personally, I think...",
+            "Well, it depends"
+          ],
+          [
+            "Do you mean...?",
+            "Could you explain to me...?"
+          ],
+          [
+            "I don't see it that way",
+            "I'm afraid I don't agree",
+            "I don't think that's true"
+          ],
+          [
+            "I couldn't agree more!",
+            "That's a very good point",
+            "I see what you mean"
+          ],
+          [
+            "Let me explain...",
+            "Well, the reason is...",
+            "The point I'd like to make is..."
+          ],
+          [
+            "That's partly true...",
+            "Yes, perhaps, but...",
+            "I see your point, but...",
+            "I agree up to a point, but..."
+          ]
+        ],
+        "type": "array",
+        "apiVersion": "v2.192.17",
+        "revision": 19,
+        "feedbackAttemptsCount": 5
+      },
+      "questionInfo": {
+        "type": "imageclozeassociationV2",
+        "widget_type": "response",
+        "reference": "77096891-9e4c-45d5-9723-5c067be4b4e1",
+        "data": {
+          "image": {
+            "src": "https://assets.learnosity.com/organisations/755/83d1c214-75c5-4ad1-b890-2a3f14594ad2.jpg",
+            "width": 850,
+            "height": 514
+          },
+          "possible_responses": [
+            "What do you think about...?",
+            "What's your opinion about...?",
+            "Could you explain to me...?",
+            "Do you mean...?",
+            "The way I see it...",
+            "The point I'd like to make is...",
+            "Personally, I think...",
+            "I'm afraid I don't agree",
+            "I don't think that's true",
+            "I don't see it that way",
+            "That's a very good point",
+            "I see what you mean",
+            "I couldn't agree more!",
+            "I agree up to a point, but...",
+            "Well, it depends",
+            "Yes, perhaps, but...",
+            "I see your point, but...",
+            "That's partly true...",
+            "Well, the reason is...",
+            "Let me explain..."
+          ],
+          "response_containers": [
+            {
+              "x": 16,
+              "y": 9,
+              "width": "40.18%",
+              "height": "18.17%",
+              "aria_label": "",
+              "pointer": "undefined"
+            },
+            {
+              "x": 16,
+              "y": 33,
+              "width": "40.20%",
+              "height": "18.15%",
+              "aria_label": "",
+              "pointer": "undefined"
+            },
+            {
+              "x": 57,
+              "y": 9,
+              "width": "40.28%",
+              "height": "17.70%",
+              "aria_label": "",
+              "pointer": "undefined"
+            },
+            {
+              "x": 57,
+              "y": 34,
+              "aria_label": "",
+              "width": "40.16%",
+              "height": "25.07%",
+              "pointer": "none"
+            },
+            {
+              "x": 16,
+              "y": 58,
+              "aria_label": "",
+              "width": "40.41%",
+              "height": "18.08%",
+              "pointer": "none"
+            },
+            {
+              "x": 16,
+              "y": 83,
+              "aria_label": "",
+              "width": "40.07%",
+              "height": "12.84%",
+              "pointer": "none"
+            },
+            {
+              "x": 57,
+              "y": 66,
+              "aria_label": "",
+              "width": "40.06%",
+              "height": "29.89%",
+              "pointer": "none"
+            }
+          ],
+          "stimulus": "<table class=\"table table-condensed table-no-border lrn_width_auto\">\n\t<tbody>\n\t\t<tr>\n\t\t\t<td>\n\t\t\t<p><img class=\"lrn-image-non-responsive\" height=\"180\" src=\"https://assets.learnosity.com/organisations/755/bf46c381-2ff7-4c97-904e-572df87bfb99.jpg\" width=\"180\"></p>\n\t\t\t</td>\n\t\t\t<td>\n\t\t\t<h2><b>Next, let's review some useful language for <u><span style=\"color:#ee82ee;\">everyone</span></u> in a discussion.</b></h2>\n\n\t\t\t<h4>&nbsp;</h4>\n\n\t\t\t<h4><strong>Below are different&nbsp;<span style=\"color:#ee82ee;\"><u>phrases</u> </span>participants might use in a discussion.</strong></h4>\n\n\t\t\t<h4><strong><span style=\"color:#ee82ee;\">► </span>Place them in the correct box.</strong></h4>\n\t\t\t</td>\n\t\t</tr>\n\t</tbody>\n</table>\n",
+          "type": "imageclozeassociationV2",
+          "case_sensitive": true,
+          "validation": {
+            "scoring_type": "partialMatchV2",
+            "valid_response": {
+              "score": 20,
+              "value": [
+                [
+                  "What do you think about...?",
+                  "What's your opinion about...?"
+                ],
+                [
+                  "The way I see it...",
+                  "The point I'd like to make is...",
+                  "Personally, I think..."
+                ],
+                [
+                  "Could you explain to me...?",
+                  "Do you mean...?"
+                ],
+                [
+                  "I'm afraid I don't agree",
+                  "I don't think that's true",
+                  "I don't see it that way"
+                ],
+                [
+                  "That's a very good point",
+                  "I see what you mean",
+                  "I couldn't agree more!"
+                ],
+                [
+                  "Well, the reason is...",
+                  "Let me explain..."
+                ],
+                [
+                  "I agree up to a point, but...",
+                  "Well, it depends",
+                  "Yes, perhaps, but...",
+                  "I see your point, but...",
+                  "That's partly true..."
+                ]
+              ]
+            }
+          },
+          "instant_feedback": true,
+          "shuffle_options": true,
+          "max_response_per_zone": 5
+        },
+        "metadata": {
+          "name": "Label image with drag & drop",
+          "template_reference": "6e77b403-8f0c-43af-b464-9450e1ac70dc"
+        }
+      },
+      "feedbackInfo": [
+        null,
+        null
+      ]
+    },
+    {
+      "response_id": "1ab75e53-b457-4b66-ae7c-c74b8c6afb06_cf8db347267f7689470b3fc71e1f7891",
+      "question_type": "clozedropdown",
+      "dt_score_updated": "2023-11-14T18:44:09Z",
+      "automarkable": true,
+      "attempted": true,
+      "score": 1,
+      "max_score": 1,
+      "question_reference": "d456781f-c806-4043-b338-fa7375b529d8",
+      "item_reference": "1d9d74e9-4498-4b20-9b95-1e7fa8a5d188",
+      "response": {
+        "value": [
+          "ONE member",
+          "the MAIN IDEAS"
+        ],
+        "type": "array",
+        "apiVersion": "v2.192.17",
+        "revision": 1,
+        "feedbackAttemptsCount": 1
+      },
+      "questionInfo": {
+        "type": "clozedropdown",
+        "widget_type": "response",
+        "reference": "d456781f-c806-4043-b338-fa7375b529d8",
+        "data": {
+          "possible_responses": [
+            [
+              "ONE member",
+              "EVERY member"
+            ],
+            [
+              "the MAIN IDEAS",
+              "ALL the ideas"
+            ]
+          ],
+          "response_container": {
+            "pointer": "left"
+          },
+          "template": "<p><span style=\"font-size:2em;\"><b id=\"yui_3_17_2_1_1635536039777_140\">At the end of your assessed group discussion, </b></span><span style=\"font-size:1.3em;\">{{response}}</span><span style=\"font-size:2em;\">&nbsp;<b>of the group will be asked to <span style=\"color:#800080;\">summarise </span></b></span><span style=\"font-size:1.3em;\">{{response}}</span><span style=\"font-size:2em;\"><b><span style=\"color:#800080;\"></span></b><b id=\"yui_3_17_2_1_1635536039777_142\">&nbsp;of the discussion based on their notes.</b></span></p>\n\n<h4><b><span style=\"color:#800080;\">► </span>Let's look at an example of a discussion summary.</b></h4>\n\n<p>&nbsp;</p>\n",
+          "type": "clozedropdown",
+          "case_sensitive": true,
+          "validation": {
+            "scoring_type": "partialMatchV2",
+            "valid_response": {
+              "score": 1,
+              "value": [
+                "ONE member",
+                "the MAIN IDEAS"
+              ]
+            }
+          },
+          "instant_feedback": true,
+          "shuffle_options": true
+        },
+        "metadata": {
+          "name": "Cloze with drop down",
+          "template_reference": "2fbba51b-e35e-441f-83c7-2662e2e81fa6"
+        }
+      },
+      "feedbackInfo": [
+        null,
+        null
+      ]
+    },
+    {
+      "response_id": "1ab75e53-b457-4b66-ae7c-c74b8c6afb06_e133d61eb5cd603939cfa02e901a1708",
+      "question_type": "clozedropdown",
+      "dt_score_updated": "2023-11-14T18:45:04Z",
+      "automarkable": true,
+      "attempted": true,
+      "score": 0,
+      "max_score": 1,
+      "question_reference": "25763cc6-8a7a-4844-91ec-754e06d0c9c6",
+      "item_reference": "1d9d74e9-4498-4b20-9b95-1e7fa8a5d188",
+      "response": {
+        "value": [
+          "discussed",
+          "talked",
+          "considered",
+          "described",
+          "described",
+          "talked",
+          "agreed",
+          "discussed",
+          "agreed",
+          "pointed",
+          "made",
+          "made",
+          "agreed",
+          "agreed",
+          "add"
+        ],
+        "type": "array",
+        "apiVersion": "v2.192.17",
+        "revision": 13,
+        "feedbackAttemptsCount": 4
+      },
+      "questionInfo": {
+        "type": "clozedropdown",
+        "widget_type": "response",
+        "reference": "25763cc6-8a7a-4844-91ec-754e06d0c9c6",
+        "data": {
+          "possible_responses": [
+            [
+              "talked",
+              "considered",
+              "discussed"
+            ],
+            [
+              "talked",
+              "considered",
+              "discussed"
+            ],
+            [
+              "talked",
+              "considered",
+              "discussed"
+            ],
+            [
+              "talked",
+              "had",
+              "agreed",
+              "described"
+            ],
+            [
+              "talked",
+              "had",
+              "agreed",
+              "described"
+            ],
+            [
+              "talked",
+              "had",
+              "agreed",
+              "described"
+            ],
+            [
+              "talked",
+              "had",
+              "agreed",
+              "described"
+            ],
+            [
+              "made",
+              "discussed",
+              "pointed",
+              "agreed"
+            ],
+            [
+              "made",
+              "discussed",
+              "pointed",
+              "agreed"
+            ],
+            [
+              "made",
+              "discussed",
+              "pointed",
+              "agreed"
+            ],
+            [
+              "made",
+              "discussed",
+              "pointed",
+              "agreed"
+            ],
+            [
+              "made",
+              "discussed",
+              "pointed",
+              "agreed"
+            ],
+            [
+              "made",
+              "discussed",
+              "pointed",
+              "agreed"
+            ],
+            [
+              "agreed",
+              "add"
+            ],
+            [
+              "agreed",
+              "add"
+            ]
+          ],
+          "response_container": {
+            "pointer": "left"
+          },
+          "stimulus": "<h2><span style=\"color:#800080;\"><b id=\"yui_3_17_2_1_1635536039777_189\"><b id=\"yui_3_17_2_1_1635536039777_188\">A group of students took part in the following discussion:</b></b></span></h2>\n\n<p><img height=\"309\" src=\"https://assets.learnosity.com/organisations/755/9e6096c3-a96e-4963-9b99-068ab77c178b.png\" width=\"549\"></p>\n\n<h3><b><b>At the end of the discussion, <u><span style=\"color:#800080;\">one student</span></u> gave a summary of the <u><span style=\"color:#800080;\">key points</span></u>.</b></b></h3>\n\n<h4><b><span style=\"color:#800080;\">► </span><b>Read the summary and choose the appropriate verb</b></b></h4>\n\n<h5><i>(make a note of the&nbsp;useful language&nbsp;for when you do a summary!)</i></h5>\n\n<p>&nbsp;</p>\n",
+          "template": "<h5><span style=\"color:#0000ff;\"><b>STAGE 1:&nbsp;<u>INTRODUCE THE SUMMARY</u></b></span></h5>\n\n<h5 id=\"yui_3_17_2_1_1635536039777_162\" style=\"margin-left: 40px;\"><em><b id=\"yui_3_17_2_1_1635536039777_161\">\"So, let’s review what we’ve&nbsp;</b>{{response}}&nbsp;today\"</em><br>\n&nbsp;</h5>\n\n<h5><span style=\"color:#008000;\"><b>STAGE 2:&nbsp;<u>RE-STATE THE TOPIC</u></b></span></h5>\n\n<h5 id=\"yui_3_17_2_1_1635536039777_180\" style=\"margin-left: 40px;\"><b id=\"yui_3_17_2_1_1635536039777_179\">\"In today's discussion, we&nbsp;</b>{{response}}<b>&nbsp;about</b>&nbsp;our experiences of giving presentations and then&nbsp;<b>we&nbsp;</b>{{response}}&nbsp;the most important features of an effective presentation\".</h5>\n\n<h5>&nbsp;</h5>\n\n<h5 id=\"yui_3_17_2_1_1635536039777_255\"><span style=\"color:#800080;\"><b id=\"yui_3_17_2_1_1635536039777_254\">STAGE 3:&nbsp;<u>THE SUMMARY</u></b></span></h5>\n\n<h5 style=\"margin-left: 40px;\">\"First,&nbsp;<b>members of the group&nbsp;</b>{{response}}<b>&nbsp;</b>different experience of giving presentations.&nbsp;<b>Most&nbsp;</b>had given a presentation before and&nbsp;<b>a few</b>&nbsp;had also given presentations in English. These included presentations at university and at work</h5>\n\n<h5 style=\"margin-left: 40px;\"><b>We also&nbsp;</b>{{response}}<b>&nbsp;different opinions about</b>&nbsp;whether giving presentations was easy or difficult.&nbsp;<b>We&nbsp;</b>{{response}}<b>&nbsp;about&nbsp;</b>how this often depended on the topic and the personality of the speaker, for example academic presentations were more difficult than non-academic ones, and shy speakers found presenting more difficult than confident speakers. However,&nbsp;<b>everyone&nbsp;</b>{{response}}<b>&nbsp;that</b>&nbsp;giving a presentation in English was challenging.</h5>\n\n<h5 id=\"yui_3_17_2_1_1635536039777_202\" style=\"margin-left: 40px;\"><b>Next, we&nbsp;</b>{{response}}<b>&nbsp;</b>preparation.&nbsp;<b id=\"yui_3_17_2_1_1635536039777_201\">Everyone&nbsp;</b>{{response}}<b>&nbsp;</b>that research was important, especially when preparing for academic presentations.&nbsp;<b id=\"yui_3_17_2_1_1635536039777_212\">One student&nbsp;</b>{{response}}<b>&nbsp;out</b>&nbsp;the importance of making a note of sources.&nbsp;<b id=\"yui_3_17_2_1_1635536039777_221\">We also&nbsp;</b>{{response}}<b>&nbsp;&nbsp;</b>practising. Some students recorded themselves, while others practised with friends.&nbsp;<b id=\"yui_3_17_2_1_1635536039777_230\">One member of the group&nbsp;</b>{{response}}<b>&nbsp;an interesting point that</b>&nbsp;practising confident body language could help nervous speakers.</h5>\n\n<h5 id=\"yui_3_17_2_1_1635536039777_242\" style=\"margin-left: 40px;\"><b>Finally</b>,&nbsp;<b id=\"yui_3_17_2_1_1635536039777_241\">we all&nbsp;</b>{{response}}<b>&nbsp;that</b>, the most important feature of a presentation was that it was interesting to the audience.&nbsp;<b id=\"yui_3_17_2_1_1635536039777_252\">We also&nbsp;</b>{{response}}<b>&nbsp;</b>that to make it interesting, we needed to focus on content, and clear language and delivery\".</h5>\n\n<h5>&nbsp;</h5>\n\n<h5><span style=\"color:#ff0000;\"><b>STAGE 4:&nbsp;<u>ENDING THE SUMMARY</u></b></span></h5>\n\n<h5 id=\"yui_3_17_2_1_1635536039777_256\" style=\"margin-left: 40px;\"><b>\"Thank you everyone for taking part today. Does anyone want to&nbsp;</b>{{response}}<b>&nbsp;anything?\"</b></h5>\n",
+          "type": "clozedropdown",
+          "case_sensitive": true,
+          "validation": {
+            "scoring_type": "partialMatchV2",
+            "valid_response": {
+              "score": 1,
+              "value": [
+                "discussed",
+                "talked",
+                "considered",
+                "described",
+                "had",
+                "talked",
+                "agreed",
+                "discussed",
+                "agreed",
+                "pointed",
+                "discussed",
+                "made",
+                "agreed",
+                "agreed",
+                "add"
+              ]
+            }
+          },
+          "instant_feedback": true,
+          "shuffle_options": true
+        },
+        "metadata": {
+          "name": "Cloze with drop down",
+          "template_reference": "2fbba51b-e35e-441f-83c7-2662e2e81fa6"
+        }
+      },
+      "feedbackInfo": [
+        null,
+        null
+      ]
+    },
+    {
+      "response_id": "1ab75e53-b457-4b66-ae7c-c74b8c6afb06_fd6fdffb75e240f8a647dcd0e69097ca",
+      "question_type": "clozeassociation",
+      "dt_score_updated": "2023-11-14T18:53:24Z",
+      "automarkable": true,
+      "attempted": true,
+      "score": 10,
+      "max_score": 12,
+      "question_reference": "7a8a1544-bb82-46a9-8c2b-07177ff5d304",
+      "item_reference": "85972ca2-a628-43f0-bb8f-1d255e3bec48",
+      "response": {
+        "value": [
+          "<span style=\"font-size:1.1em;\"><span style=\"color:#008080;\"><strong>Market</strong></span></span>",
+          "<span style=\"font-size:1.1em;\"><span style=\"color:#008080;\"><strong>Brand</strong></span></span>",
+          "<span style=\"font-size:1.1em;\"><span style=\"color:#008080;\"><strong>Brand</strong></span></span>",
+          "<span style=\"font-size:1.1em;\"><span style=\"color:#008080;\"><strong>Brand</strong></span></span>",
+          "<span style=\"font-size:1.1em;\"><span style=\"color:#008080;\"><strong>Brand</strong></span></span>",
+          "<span style=\"font-size:1.1em;\"><span style=\"color:#008080;\"><strong>Product</strong></span></span>",
+          "<span style=\"font-size:1.1em;\"><span style=\"color:#008080;\"><strong>Market</strong></span></span>",
+          "<span style=\"font-size:1.1em;\"><span style=\"color:#008080;\"><strong>Product</strong></span></span>",
+          "<span style=\"font-size:1.1em;\"><span style=\"color:#008080;\"><strong>Market</strong></span></span>",
+          "<span style=\"font-size:1.1em;\"><span style=\"color:#008080;\"><strong>Product</strong></span></span>",
+          "<span style=\"font-size:1.1em;\"><span style=\"color:#008080;\"><strong>Market</strong></span></span>",
+          "<span style=\"font-size:1.1em;\"><span style=\"color:#008080;\"><strong>Product</strong></span></span>"
+        ],
+        "type": "array",
+        "apiVersion": "v2.192.17",
+        "revision": 8,
+        "feedbackAttemptsCount": 2
+      },
+      "questionInfo": {
+        "type": "clozeassociation",
+        "widget_type": "response",
+        "reference": "7a8a1544-bb82-46a9-8c2b-07177ff5d304",
+        "data": {
+          "possible_responses": [
+            "<span style=\"font-size:1.1em;\"><span style=\"color:#008080;\"><strong>Brand</strong></span></span>",
+            "<span style=\"font-size:1.1em;\"><span style=\"color:#008080;\"><strong>Product</strong></span></span>",
+            "<span style=\"font-size:1.1em;\"><span style=\"color:#008080;\"><strong>Market</strong></span></span>"
+          ],
+          "response_container": {
+            "pointer": "left"
+          },
+          "stimulus": "<h2><b>In this part of today's lesson, you are going to prepare for your&nbsp;<span style=\"color:#008080;\">Case Study&nbsp;Discussion</span>.</b></h2>\n\n<h4><b><span style=\"color:#008080;\">► </span>First, we'll look at some <span style=\"color:#008080;\">vocabulary collocations</span> which will be useful for this task.&nbsp;</b></h4>\n\n<p><img height=\"132\" src=\"https://assets.learnosity.com/organisations/755/c8e858a5-5e29-456f-9446-fd61fe8a607a.jpg\" width=\"399\" /></p>\n\n<h4>&nbsp;</h4>\n\n<h4>&nbsp;</h4>\n\n<h2 id=\"yui_3_17_2_1_1635537078086_154\"><b>The topic is&nbsp;<span style=\"color:#008080;\">Brand Management</span>.&nbsp;</b></h2>\n\n<h4><b><span style=\"color:#008080;\">►&nbsp;</span>Each of the words below collocates with <span style=\"color:#008080;\">BRAND</span>, <span style=\"color:#008080;\">PRODUCT </span>or <span style=\"color:#008080;\">MARKET </span>to form <u>word partnerships</u>.&nbsp;</b></h4>\n\n<h4><b><span style=\"color:#008080;\">►&nbsp;</span>Drag and drop to form the correct collocations.&nbsp;</b></h4>\n\n<p>&nbsp;</p>\n\n<p><span style=\"color:#b22222;\"><b>(you can use each word FOUR times)</b></span></p>\n",
+          "template": "<table class=\"table table-condensed table-no-border lrn_width_auto\">\n\t<tbody>\n\t\t<tr>\n\t\t\t<td>\n\t\t\t<p style=\"margin-left: 40px;\"><strong><span id=\"cke_bm_34649S\" style=\"display: none;\">&nbsp;</span><strong>{{response}}</strong>&nbsp;share</strong></p>\n\n\t\t\t<p style=\"margin-left: 40px;\"><strong><strong>{{response}}</strong>&nbsp;endorsement</strong></p>\n\n\t\t\t<p style=\"margin-left: 40px;\"><strong><strong>{{response}}</strong>&nbsp;image</strong></p>\n\n\t\t\t<p style=\"margin-left: 40px;\"><strong><strong>{{response}}</strong>&nbsp;loyalty</strong></p>\n\t\t\t</td>\n\t\t\t<td>\n\t\t\t<p style=\"margin-left: 40px;\"><strong><strong><span id=\"cke_bm_40555S\" style=\"display: none;\">&nbsp;</span><strong><strong>{{response}}</strong></strong></strong>&nbsp;name</strong></p>\n\n\t\t\t<p style=\"margin-left: 40px;\"><strong><strong><strong><strong>{{response}}</strong></strong></strong>&nbsp;range</strong></p>\n\n\t\t\t<p style=\"margin-left: 40px;\"><strong><span id=\"cke_bm_35009S\" style=\"display: none;\">&nbsp;</span><strong>{{response}}</strong>&nbsp;research</strong></p>\n\n\t\t\t<p style=\"margin-left: 40px;\"><strong><strong>{{response}}</strong>&nbsp;awareness</strong></p>\n\t\t\t</td>\n\t\t\t<td>\n\t\t\t<p style=\"margin-left: 40px;\">{{response}}<strong>&nbsp;segment</strong></p>\n\n\t\t\t<p style=\"margin-left: 40px;\">{{response}}<strong>&nbsp;launch</strong></p>\n\n\t\t\t<p style=\"margin-left: 40px;\">{{response}}<strong>&nbsp;leader</strong></p>\n\n\t\t\t<p style=\"margin-left: 40px;\">{{response}}<strong>&nbsp;placement</strong></p>\n\t\t\t</td>\n\t\t</tr>\n\t</tbody>\n</table>\n",
+          "type": "clozeassociation",
+          "case_sensitive": true,
+          "validation": {
+            "scoring_type": "partialMatchV2",
+            "valid_response": {
+              "score": 12,
+              "value": [
+                "<span style=\"font-size:1.1em;\"><span style=\"color:#008080;\"><strong>Market</strong></span></span>",
+                "<span style=\"font-size:1.1em;\"><span style=\"color:#008080;\"><strong>Product</strong></span></span>",
+                "<span style=\"font-size:1.1em;\"><span style=\"color:#008080;\"><strong>Brand</strong></span></span>",
+                "<span style=\"font-size:1.1em;\"><span style=\"color:#008080;\"><strong>Brand</strong></span></span>",
+                "<span style=\"font-size:1.1em;\"><span style=\"color:#008080;\"><strong>Brand</strong></span></span>",
+                "<span style=\"font-size:1.1em;\"><span style=\"color:#008080;\"><strong>Product</strong></span></span>",
+                "<span style=\"font-size:1.1em;\"><span style=\"color:#008080;\"><strong>Market</strong></span></span>",
+                "<span style=\"font-size:1.1em;\"><span style=\"color:#008080;\"><strong>Brand</strong></span></span>",
+                "<span style=\"font-size:1.1em;\"><span style=\"color:#008080;\"><strong>Market</strong></span></span>",
+                "<span style=\"font-size:1.1em;\"><span style=\"color:#008080;\"><strong>Product</strong></span></span>",
+                "<span style=\"font-size:1.1em;\"><span style=\"color:#008080;\"><strong>Market</strong></span></span>",
+                "<span style=\"font-size:1.1em;\"><span style=\"color:#008080;\"><strong>Product</strong></span></span>"
+              ]
+            }
+          },
+          "instant_feedback": true,
+          "duplicate_responses": true
+        },
+        "metadata": {
+          "name": "Cloze with drag & drop",
+          "template_reference": "51a8c1e7-f34f-4faf-b211-da458e891fcb"
+        }
+      },
+      "feedbackInfo": [
+        null,
+        null
+      ]
+    },
+    {
+      "response_id": "1ab75e53-b457-4b66-ae7c-c74b8c6afb06_6407595fba7a6369265977889a67c812",
+      "question_type": "clozedropdown",
+      "dt_score_updated": "2023-11-14T18:57:22Z",
+      "automarkable": true,
+      "attempted": true,
+      "score": 10,
+      "max_score": 12,
+      "question_reference": "3d2be633-2493-49bb-89ad-25267c63efb9",
+      "item_reference": "85972ca2-a628-43f0-bb8f-1d255e3bec48",
+      "response": {
+        "value": [
+          "Brand name",
+          "Brand image",
+          "Brand loyalty",
+          "Brand awareness",
+          "Product range",
+          "Product endorsement",
+          "Product launch",
+          "Product placement",
+          "Market share",
+          "Market segment",
+          "Market leader",
+          "Marker research"
+        ],
+        "type": "array",
+        "apiVersion": "v2.192.17",
+        "revision": 11,
+        "feedbackAttemptsCount": 2
+      },
+      "questionInfo": {
+        "type": "clozedropdown",
+        "widget_type": "response",
+        "reference": "3d2be633-2493-49bb-89ad-25267c63efb9",
+        "data": {
+          "possible_responses": [
+            [
+              "Brand name",
+              "Brand image",
+              "Brand loyalty",
+              "Brand awareness"
+            ],
+            [
+              "Brand name",
+              "Brand image",
+              "Brand loyalty",
+              "Brand awareness"
+            ],
+            [
+              "Brand name",
+              "Brand image",
+              "Brand loyalty",
+              "Brand awareness"
+            ],
+            [
+              "Brand name",
+              "Brand image",
+              "Brand loyalty",
+              "Brand awareness"
+            ],
+            [
+              "Product range",
+              "Product endorsement",
+              "Product placement",
+              "Product launch"
+            ],
+            [
+              "Product range",
+              "Product endorsement",
+              "Product placement",
+              "Product launch"
+            ],
+            [
+              "Product range",
+              "Product endorsement",
+              "Product placement",
+              "Product launch"
+            ],
+            [
+              "Product range",
+              "Product endorsement",
+              "Product placement",
+              "Product launch"
+            ],
+            [
+              "Market share",
+              "Market segment",
+              "Market leader",
+              "Marker research"
+            ],
+            [
+              "Market share",
+              "Market segment",
+              "Market leader",
+              "Marker research"
+            ],
+            [
+              "Market share",
+              "Market segment",
+              "Market leader",
+              "Marker research"
+            ],
+            [
+              "Market share",
+              "Market segment",
+              "Market leader",
+              "Marker research"
+            ]
+          ],
+          "response_container": {
+            "pointer": "left"
+          },
+          "stimulus": "<h2><b>Now match the <u><span style=\"color:#008080;\">collocations</span></u> to the right <u><span style=\"color:#008080;\">definition</span></u>.</b></h2>\n\n<p><img height=\"113\" src=\"https://assets.learnosity.com/organisations/755/dcfbccb5-a855-4dfc-bc7f-db0160b7a857.jpg\" width=\"398\" /></p>\n",
+          "template": "<p>&nbsp;</p>\n\n<ul>\n\t<li><span style=\"font-size:1.3em;\"><strong>{{response}}</strong></span><span style=\"font-size:1.1em;\">&nbsp;- the title given to a product by the company that makes it.</span></li>\n\t<li><span style=\"font-size:1.3em;\"><strong>{{response}}</strong></span><span style=\"font-size:1.1em;\">&nbsp;- the ideas and beliefs people have about a brand.</span></li>\n\t<li><span style=\"font-size:1.3em;\"><strong>{{response}}</strong></span><span style=\"font-size:1.1em;\">&nbsp;- the tendency to always buy a particular brand.</span></li>\n\t<li><span style=\"font-size:1.3em;\"><strong>{{response}}</strong></span><span style=\"font-size:1.1em;\"> - how familiar people are with a brand (or its logo and slogan).</span></li>\n</ul>\n\n<p>&nbsp;</p>\n\n<p><span style=\"font-size:1.1em;\"></span></p>\n\n<ul>\n\t<li><span style=\"font-size:1.3em;\">{{response}}</span><span style=\"font-size:1.1em;\">&nbsp;- the set of products made by a company.</span></li>\n\t<li><span style=\"font-size:1.1em;\"></span><span style=\"font-size:1.3em;\">{{response}}</span><span style=\"font-size:1.1em;\"> - the use of a well-known person to advertise products.</span></li>\n\t<li><span style=\"font-size:1.1em;\"></span><span style=\"font-size:1.3em;\">{{response}}</span><span style=\"font-size:1.1em;\"> - when products are used in films or TV programmes.</span></li>\n\t<li><span style=\"font-size:1.1em;\"></span><span style=\"font-size:1.3em;\">{{response}}</span><span style=\"font-size:1.1em;\">&nbsp;- the introduction of a product to the market.</span></li>\n</ul>\n\n<p>&nbsp;</p>\n\n<p><span style=\"font-size:1.1em;\"></span></p>\n\n<ul>\n\t<li><span style=\"font-size:1.3em;\">{{response}}</span><span style=\"font-size:1.1em;\">&nbsp;- the percentage of sales a company has.</span></li>\n\t<li><span style=\"font-size:1.1em;\"></span><span style=\"font-size:1.3em;\">{{response}}</span><span style=\"font-size:1.1em;\"> - customers of a similar age, income level or social group.</span></li>\n\t<li><span style=\"font-size:1.1em;\"></span><span style=\"font-size:1.3em;\">{{response}}</span><span style=\"font-size:1.1em;\">&nbsp;- the best-selling product or brand in a market.</span></li>\n\t<li><span style=\"font-size:1.1em;\"></span><span style=\"font-size:1.3em;\">{{response}}</span><span style=\"font-size:1.1em;\">&nbsp;- information about what consumers want or need.</span></li>\n</ul>\n",
+          "type": "clozedropdown",
+          "case_sensitive": true,
+          "validation": {
+            "scoring_type": "partialMatchV2",
+            "valid_response": {
+              "score": 12,
+              "value": [
+                "Brand name",
+                "Brand image",
+                "Brand loyalty",
+                "Brand awareness",
+                "Product range",
+                "Product endorsement",
+                "Product placement",
+                "Product launch",
+                "Market share",
+                "Market segment",
+                "Market leader",
+                "Marker research"
+              ]
+            }
+          },
+          "instant_feedback": true,
+          "shuffle_options": true
+        },
+        "metadata": {
+          "name": "Cloze with drop down",
+          "template_reference": "2fbba51b-e35e-441f-83c7-2662e2e81fa6"
+        }
+      },
+      "feedbackInfo": [
+        null,
+        null
+      ]
+    },
+    {
+      "response_id": "1ab75e53-b457-4b66-ae7c-c74b8c6afb06_eb231ee0e1e37495d37f93c5196367e3",
+      "question_type": "clozeassociation",
+      "dt_score_updated": "2023-11-14T18:59:59Z",
+      "automarkable": true,
+      "attempted": true,
+      "score": 9,
+      "max_score": 9,
+      "question_reference": "fd96282f-d030-4507-ad0e-2c785a96f9e0",
+      "item_reference": "85972ca2-a628-43f0-bb8f-1d255e3bec48",
+      "response": {
+        "value": [
+          "brand&nbsp;awareness",
+          "brand&nbsp;loyalty",
+          "brand&nbsp;image",
+          "product&nbsp;endorsement",
+          "product&nbsp;range",
+          "product&nbsp;placement",
+          "market&nbsp;leader",
+          "market&nbsp;segment",
+          "market&nbsp;research"
+        ],
+        "type": "array",
+        "apiVersion": "v2.192.17",
+        "revision": 6
+      },
+      "questionInfo": {
+        "type": "clozeassociation",
+        "widget_type": "response",
+        "reference": "fd96282f-d030-4507-ad0e-2c785a96f9e0",
+        "data": {
+          "possible_responses": [
+            "brand&nbsp;awareness",
+            "brand&nbsp;loyalty",
+            "brand&nbsp;image",
+            "product&nbsp;endorsement",
+            "product&nbsp;range",
+            "product&nbsp;placement",
+            "market&nbsp;leader",
+            "market&nbsp;segment",
+            "market&nbsp;research"
+          ],
+          "response_container": {
+            "pointer": "left"
+          },
+          "stimulus": "<table class=\"table table-condensed table-no-border lrn_width_auto\">\n\t<tbody>\n\t\t<tr>\n\t\t\t<td><img class=\"lrn-image-left lrn-image-non-responsive\" height=\"79\" src=\"https://assets.learnosity.com/organisations/755/d35f0b03-fd63-4599-835d-61e54e57281b.png\" width=\"80\" /></td>\n\t\t\t<td>\n\t\t\t<p><span style=\"font-size:2em;\"><strong>To finish up this&nbsp;vocabulary section, let's&nbsp;look at these words <u><span style=\"color:#008000;\">in context</span></u>.&nbsp;</strong></span></p>\n\n\t\t\t<h4><strong><span style=\"color:#008000;\">► </span>Complete each sentence&nbsp;with the missing word&nbsp;(drag and drop).</strong></h4>\n\n\t\t\t<p>&nbsp;</p>\n\t\t\t</td>\n\t\t</tr>\n\t</tbody>\n</table>\n",
+          "template": "<ol id=\"yui_3_17_2_1_1635694418732_104\" style=\"margin-left: 40px;\">\n\t<li><span style=\"font-size:1.1em;\"><em>No one recognises our logo or slogan. We need to spend more on advertising to raise&nbsp;</em></span><span style=\"font-size:1em;\"><em>{{response}}</em></span><span style=\"font-size:1.1em;\"><em>.</em></span></li>\n\t<li><span style=\"font-size:1.1em;\"><em>Consumers who always buy Apple when they need a new mobile are showing&nbsp;</em></span><span style=\"font-size:1em;\"><em>{{response}}</em></span><span style=\"font-size:1.1em;\"><em>.&nbsp;</em></span></li>\n\t<li><span style=\"font-size:1.1em;\"><em>The&nbsp;</em></span><span style=\"font-size:1em;\"><em>{{response}}</em></span><span style=\"font-size:1.1em;\"><em>&nbsp;of Mercedes-Benz is such that its products are seen as safe, reliable,&nbsp;luxurious, well made and expensive.</em></span></li>\n\t<li><span style=\"font-size:1.1em;\"><em>The actor George Clooney advertising Nespresso is an example of&nbsp;</em></span><span style=\"font-size:1em;\"><em>{{response}}</em></span><span style=\"font-size:1.1em;\"><em>.</em></span></li>\n\t<li><span style=\"font-size:1.1em;\"><em>Tesco's wide&nbsp;</em></span><span style=\"font-size:1em;\"><em>{{response}}</em></span><span style=\"font-size:1.1em;\"><em>&nbsp;means that it appeals to all sectors of the UK market.</em></span></li>\n\t<li><span style=\"font-size:1.1em;\"><em>The use of Aston Martin cars and Sony computers in James Bond films are examples&nbsp;of&nbsp;</em></span><span style=\"font-size:1em;\"><em>{{response}}</em></span><span style=\"font-size:1.1em;\"><em>.&nbsp;</em></span></li>\n\t<li><span style=\"font-size:1.1em;\"><em>Microsoft is the&nbsp;</em></span><span style=\"font-size:1em;\"><em>{{response}}</em></span><span style=\"font-size:1.1em;\"><em>&nbsp;in computer software.</em></span></li>\n\t<li><span style=\"font-size:1.1em;\"><em>In countries with ageing populations, the over-60s age group is becoming an&nbsp;increasingly important&nbsp;</em></span><span style=\"font-size:1em;\"><em>{{response}}</em></span><span style=\"font-size:1.1em;\"><em>.</em></span></li>\n\t<li><span style=\"font-size:1.1em;\"><em>Focus groups and consumer surveys are ways of conducting&nbsp;</em></span><span style=\"font-size:1em;\"><em>{{response}}</em></span><span style=\"font-size:1.1em;\"><em>.</em></span></li>\n</ol>\n",
+          "type": "clozeassociation",
+          "case_sensitive": true,
+          "validation": {
+            "scoring_type": "partialMatchV2",
+            "valid_response": {
+              "score": 9,
+              "value": [
+                "brand&nbsp;awareness",
+                "brand&nbsp;loyalty",
+                "brand&nbsp;image",
+                "product&nbsp;endorsement",
+                "product&nbsp;range",
+                "product&nbsp;placement",
+                "market&nbsp;leader",
+                "market&nbsp;segment",
+                "market&nbsp;research"
+              ]
+            }
+          },
+          "instant_feedback": true,
+          "shuffle_options": true
+        },
+        "metadata": {
+          "name": "Cloze with drag & drop",
+          "template_reference": "51a8c1e7-f34f-4faf-b211-da458e891fcb"
+        }
+      },
+      "feedbackInfo": [
+        null,
+        null
+      ]
+    },
+    {
+      "response_id": "1ab75e53-b457-4b66-ae7c-c74b8c6afb06_7334186913dc7a5d3cfca82ef5701d08",
+      "question_type": "mcq",
+      "dt_score_updated": "2023-11-14T19:03:33Z",
+      "automarkable": true,
+      "attempted": true,
+      "score": 4,
+      "max_score": 4,
+      "question_reference": "f3d497cc-0998-47ae-822e-28bf92a246e0",
+      "item_reference": "bcda56d0-8bdb-4d55-911b-8eec413c8136",
+      "response": {
+        "value": [
+          "5",
+          "7",
+          "6",
+          "4"
+        ],
+        "type": "array",
+        "apiVersion": "v2.192.17",
+        "revision": 4,
+        "feedbackAttemptsCount": 1
+      },
+      "questionInfo": {
+        "type": "mcq",
+        "widget_type": "response",
+        "reference": "f3d497cc-0998-47ae-822e-28bf92a246e0",
+        "data": {
+          "multiple_responses": true,
+          "options": [
+            {
+              "label": "They don't have an office in Europe.",
+              "value": "0"
+            },
+            {
+              "label": "They don't have a warehouse in Europe.",
+              "value": "1"
+            },
+            {
+              "label": "The brand is not well-known in the USA.",
+              "value": "2"
+            },
+            {
+              "label": "The brand is not well-known in Europe.",
+              "value": "4"
+            },
+            {
+              "label": "Their products are low quality.",
+              "value": "3"
+            },
+            {
+              "label": "They don’t know the European market&nbsp;as well as the US market.",
+              "value": "5"
+            },
+            {
+              "label": "They may face different and new competitors.",
+              "value": "6"
+            },
+            {
+              "label": "The products may not match the European consumers’ tastes.",
+              "value": "7"
+            }
+          ],
+          "stimulus": "<h2><strong>Next,&nbsp;read the <u><span style=\"color:#008080;\">company profile</span></u>&nbsp;and answer the question below.</strong></h2>\n\n<p><img height=\"300\" src=\"https://assets.learnosity.com/organisations/755/026e440c-75cd-4018-accb-28e1942309ee.jpg\" width=\"651\" /></p>\n\n<h5 style=\"margin-left: 40px;\"><span style=\"font-size:1.3em;\"><b>Company Profile</b></span></h5>\n\n<p style=\"margin-left: 40px;\"><span style=\"font-size:1.3em;\">Hudson Corporation, based in New Jersey, USA,&nbsp;makes top-of-the-range luggage and travel&nbsp;accessories. It is a well-known brand name in the&nbsp;USA. Its suitcases and bags are associated with&nbsp;high quality, traditional design and craftsmanship.</span></p>\n\n<p style=\"margin-left: 40px;\"><span style=\"font-size:1.3em;\">Hudson emphasises in its advertising that its&nbsp;products are 'made in America'. Recently, the&nbsp;company's market share in the USA has decreased.&nbsp;One reason for this has been the increased&nbsp;competition from Asian companies selling similar&nbsp;products at much lower prices.</span></p>\n\n<p style=\"margin-left: 40px;\"><span style=\"font-size:1.3em;\">A year ago, the management decided to boost&nbsp;sales by entering the European market, focusing&nbsp;initially on Switzerland, Germany, France and&nbsp;Italy. They set up an office and warehouse&nbsp;facility in Zurich, which would be the base for their&nbsp;European expansion.</span></p>\n\n<p>&nbsp;</p>\n\n<div class=\"lrn-well\"><span style=\"font-size:1.3em;\"><b>What <u>PROBLEMS</u> might Hudson Corporation face in its expansion to Europe?</b></span></div>\n\n<p><span style=\"font-size:1em;\">(Choose FOUR)&nbsp;</span></p>\n",
+          "type": "mcq",
+          "validation": {
+            "scoring_type": "partialMatchV2",
+            "valid_response": {
+              "score": 4,
+              "value": [
+                "5",
+                "7",
+                "4",
+                "6"
+              ]
+            }
+          },
+          "ui_style": {
+            "type": "horizontal"
+          },
+          "instant_feedback": true,
+          "shuffle_options": true
+        },
+        "metadata": {
+          "name": "Multiple choice – multiple response",
+          "template_reference": "908de244-5c71-4c09-b094-7fb49554f2f9"
+        }
+      },
+      "feedbackInfo": [
+        null,
+        null
+      ]
+    },
+    {
+      "response_id": "1ab75e53-b457-4b66-ae7c-c74b8c6afb06_be7052a92d5eaf782e39e1ccc49d3086",
+      "question_type": "clozedropdown",
+      "dt_score_updated": "2023-11-14T19:05:31Z",
+      "automarkable": true,
+      "attempted": true,
+      "score": 5,
+      "max_score": 5,
+      "question_reference": "f354d28c-b940-4b71-8b06-557db997ee7f",
+      "item_reference": "bcda56d0-8bdb-4d55-911b-8eec413c8136",
+      "response": {
+        "value": [
+          "Over two thirds",
+          "Around half",
+          "Nearly half",
+          "A large majority",
+          "Less than a quarter"
+        ],
+        "type": "array",
+        "apiVersion": "v2.192.17",
+        "revision": 4,
+        "feedbackAttemptsCount": 1
+      },
+      "questionInfo": {
+        "type": "clozedropdown",
+        "widget_type": "response",
+        "reference": "f354d28c-b940-4b71-8b06-557db997ee7f",
+        "data": {
+          "possible_responses": [
+            [
+              "Almost two thirds",
+              "Over two thirds"
+            ],
+            [
+              "Around half",
+              "Less than a half"
+            ],
+            [
+              "Nearly half",
+              "A third"
+            ],
+            [
+              "A large majority",
+              "Around half"
+            ],
+            [
+              "Less than a quarter",
+              "The majority"
+            ]
+          ],
+          "response_container": {
+            "pointer": "left"
+          },
+          "stimulus": "<h2><b>The company carried out a&nbsp;<span style=\"color:#ff8c00;\">survey</span>&nbsp;to&nbsp;find out how consumers perceived the company's&nbsp;brand in the USA.</b></h2>\n\n<p><img height=\"170\" src=\"https://assets.learnosity.com/organisations/755/4b6c7843-38ba-4aa4-b6b5-57e513849a4e.jpg\" width=\"300\" /></p>\n\n<h4><strong><span style=\"color:#ff8c00;\">►</span> Here are the results:</strong></h4>\n\n<p><img height=\"310\" src=\"https://assets.learnosity.com/organisations/755/b5558f88-79b8-430d-b510-acb3894df861.jpg\" width=\"400\" /></p>\n\n<h4><strong><span style=\"color:#ff8c00;\">►</span> Complete the findings below:</strong></h4>\n",
+          "template": "<ul id=\"yui_3_17_2_1_1635695164001_3375\">\n\t<li id=\"yui_3_17_2_1_1635695164001_3374\">\n\t<h5 id=\"yui_3_17_2_1_1635695164001_3376\">{{response}}&nbsp;<u id=\"yui_3_17_2_1_1635695164001_3378\">of the</u>&nbsp;people believe that believe that Hudson is an&nbsp;<b id=\"yui_3_17_2_1_1635695164001_3379\">expensive&nbsp;</b>brand.</h5>\n\t</li>\n\t<li id=\"yui_3_17_2_1_1635695164001_3380\">\n\t<h5 id=\"yui_3_17_2_1_1635695164001_3381\">{{response}}&nbsp;<u id=\"yui_3_17_2_1_1635695164001_3383\">of the</u>&nbsp;respondents said that said that Hudson is an&nbsp;<b id=\"yui_3_17_2_1_1635695164001_3384\">exclusive&nbsp;</b>brand.</h5>\n\t</li>\n\t<li id=\"yui_3_17_2_1_1635695164001_3385\">\n\t<h5 id=\"yui_3_17_2_1_1635695164001_3386\">{{response}}&nbsp;<u id=\"yui_3_17_2_1_1635695164001_3388\">of&nbsp;</u><u id=\"yui_3_17_2_1_1635695164001_3389\">the</u>&nbsp;respondents said that the product offers&nbsp;<b id=\"yui_3_17_2_1_1635695164001_3390\">value for money</b>.</h5>\n\t</li>\n\t<li id=\"yui_3_17_2_1_1635695164001_3391\">\n\t<h5 id=\"yui_3_17_2_1_1635695164001_3392\">{{response}}&nbsp;<u id=\"yui_3_17_2_1_1635695164001_3394\">of the</u>&nbsp;interviewees stated that Hudson is a&nbsp;<b id=\"yui_3_17_2_1_1635695164001_3395\">quality&nbsp;</b>brand.</h5>\n\t</li>\n\t<li id=\"yui_3_17_2_1_1635695164001_3396\">\n\t<h5 id=\"yui_3_17_2_1_1635695164001_3397\">{{response}}&nbsp;<u id=\"yui_3_17_2_1_1635695164001_3399\">of the</u>&nbsp;respondents believe that the product is i<b id=\"yui_3_17_2_1_1635695164001_3400\">nnovative and exciting</b>.</h5>\n\t</li>\n</ul>\n",
+          "type": "clozedropdown",
+          "case_sensitive": true,
+          "validation": {
+            "scoring_type": "partialMatchV2",
+            "valid_response": {
+              "score": 5,
+              "value": [
+                "Over two thirds",
+                "Around half",
+                "Nearly half",
+                "A large majority",
+                "Less than a quarter"
+              ]
+            }
+          },
+          "instant_feedback": true,
+          "shuffle_options": true
+        },
+        "metadata": {
+          "name": "Cloze with drop down",
+          "template_reference": "2fbba51b-e35e-441f-83c7-2662e2e81fa6"
+        }
+      },
+      "feedbackInfo": [
+        null,
+        null
+      ]
+    },
+    {
+      "response_id": "1ab75e53-b457-4b66-ae7c-c74b8c6afb06_6735eca4f7c9defe330929ab1e3acb8a",
+      "question_type": "clozeassociation",
+      "dt_score_updated": "2023-11-14T19:09:37Z",
+      "automarkable": true,
+      "attempted": true,
+      "score": 7,
+      "max_score": 7,
+      "question_reference": "ca25ab94-8247-467a-8c9f-252c7354d7b2",
+      "item_reference": "bcda56d0-8bdb-4d55-911b-8eec413c8136",
+      "response": {
+        "value": [
+          "<span style=\"font-size:1.1em;\">advertising</span>",
+          "<span style=\"font-size:1.1em;\">pricing&nbsp;&nbsp;</span>",
+          "<span style=\"font-size:1.1em;\">price&nbsp;conscious</span>",
+          "<span style=\"font-size:1.1em;\">downmarket&nbsp;</span>",
+          "<span style=\"font-size:1.1em;\">manufacturing&nbsp;&nbsp;</span>",
+          "<span style=\"font-size:1.1em;\">range&nbsp;&nbsp;</span>",
+          "<span style=\"font-size:1.1em;\">thinking&nbsp;</span>"
+        ],
+        "type": "array",
+        "apiVersion": "v2.192.17",
+        "revision": 3,
+        "feedbackAttemptsCount": 1
+      },
+      "questionInfo": {
+        "type": "clozeassociation",
+        "widget_type": "response",
+        "reference": "ca25ab94-8247-467a-8c9f-252c7354d7b2",
+        "data": {
+          "possible_responses": [
+            "<span style=\"font-size:1.1em;\">advertising</span>",
+            "<span style=\"font-size:1.1em;\">pricing&nbsp;&nbsp;</span>",
+            "<span style=\"font-size:1.1em;\">price&nbsp;conscious</span>",
+            "<span style=\"font-size:1.1em;\">downmarket&nbsp;</span>",
+            "<span style=\"font-size:1.1em;\">manufacturing&nbsp;&nbsp;</span>",
+            "<span style=\"font-size:1.1em;\">range&nbsp;&nbsp;</span>",
+            "<span style=\"font-size:1.1em;\">thinking&nbsp;</span>"
+          ],
+          "response_container": {
+            "pointer": "left"
+          },
+          "stimulus": "<table class=\"table table-condensed table-no-border lrn_width_auto\">\n\t<tbody>\n\t\t<tr>\n\t\t\t<td><img class=\"lrn-image-non-responsive\" height=\"80\" src=\"https://assets.learnosity.com/organisations/755/943c671e-d530-4821-911e-062871b4d1e3.jpg\" width=\"80\"></td>\n\t\t\t<td>\n\t\t\t<h2><span style=\"color:#ff8c00;\"><strong>Get Ready to Listen</strong></span></h2>\n\t\t\t</td>\n\t\t</tr>\n\t</tbody>\n</table>\n\n<h4><b id=\"yui_3_17_2_1_1635695295752_151\">Listen to four Hudson managers talking about the problems they could face in Europe.</b></h4>\n\n<p style=\"margin-left: 40px;\"><img height=\"188\" src=\"https://assets.learnosity.com/organisations/755/6c46ea46-08bf-4675-8059-14d6146035c8.png\" width=\"300\"></p>\n\n<p style=\"margin-left: 80px;\"><span class=\"learnosity-feature\" data-player=\"button\" data-simplefeature_id=\"fa6d8ea1-d994-4cf1-b5d5-f986fcc474ab\" data-src=\"https://assets.learnosity.com/organisations/755/e6d0d09c-2e7b-46ed-b31c-7984c0c5aa08.mp3\" data-type=\"audioplayer\"></span></p>\n\n<h4>&nbsp;</h4>\n\n<h4><b><span style=\"color:#ff8c00;\">► </span>Complete the meeting main points below.</b></h4>\n",
+          "template": "<h4><b>Today's Meeting - Main Points:</b></h4>\n\n<ul>\n\t<li><span style=\"font-size:1.1em;\"><b>Diana</b>: Hudson will have to do a lot of&nbsp;</span><span style=\"font-size:1em;\">{{response}}</span><span style=\"font-size:1.1em;\">. They may need to adapt their products for the&nbsp;European&nbsp;&nbsp;consumers.</span></li>\n\t<li><span style=\"font-size:1.1em;\"><b>Ruth</b>: They have to get the&nbsp;</span><span style=\"font-size:1em;\">{{response}}</span><span style=\"font-size:1.1em;\">&nbsp;right: Europeans are less&nbsp;</span><span style=\"font-size:1em;\">{{response}}</span><span style=\"font-size:1.1em;\">&nbsp;than Americans so they can charge high prices if they position the brand in the luxury goods market.</span></li>\n\t<li><span style=\"font-size:1.1em;\"><b>Tom</b>: They should go&nbsp;</span><span style=\"font-size:1em;\">{{response}}</span><span style=\"font-size:1.1em;\">, reduce the price and reduce costs – stop&nbsp;</span><span style=\"font-size:1em;\">{{response}}</span><span style=\"font-size:1.1em;\">&nbsp;in the US.&nbsp;</span></li>\n\t<li><span style=\"font-size:1.1em;\"><b>Last speaker</b>: Increase&nbsp;</span><span style=\"font-size:1em;\">{{response}}</span><span style=\"font-size:1.1em;\">and stretch the brand. Hudson needs&nbsp;new&nbsp;</span><span style=\"font-size:1em;\">{{response}}</span><span style=\"font-size:1.1em;\">.</span></li>\n</ul>\n",
+          "type": "clozeassociation",
+          "case_sensitive": true,
+          "validation": {
+            "scoring_type": "partialMatchV2",
+            "valid_response": {
+              "score": 7,
+              "value": [
+                "<span style=\"font-size:1.1em;\">advertising</span>",
+                "<span style=\"font-size:1.1em;\">pricing&nbsp;&nbsp;</span>",
+                "<span style=\"font-size:1.1em;\">price&nbsp;conscious</span>",
+                "<span style=\"font-size:1.1em;\">downmarket&nbsp;</span>",
+                "<span style=\"font-size:1.1em;\">manufacturing&nbsp;&nbsp;</span>",
+                "<span style=\"font-size:1.1em;\">range&nbsp;&nbsp;</span>",
+                "<span style=\"font-size:1.1em;\">thinking&nbsp;</span>"
+              ]
+            }
+          },
+          "instant_feedback": true,
+          "shuffle_options": true
+        },
+        "metadata": {
+          "name": "Cloze with drag & drop",
+          "template_reference": "51a8c1e7-f34f-4faf-b211-da458e891fcb"
+        }
+      },
+      "feedbackInfo": [
+        null,
+        null
+      ]
+    }
+  ]
+}

@@ -1,0 +1,87 @@
+{
+  "userId": "94ba4b3e-3daa-4e84-af7a-a02fdd94cf64",
+  "firstName": "Jiaxin",
+  "lastName": "Zhang",
+  "assigmentId": "d832c548-ae78-4459-bf0c-2354b621b8cb",
+  "assigmentName": "Writing Diagnostic Exercise",
+  "sessionId": "9a666bfc-c2b8-49bb-b11e-9f9585874b35",
+  "email": "zhangj146@coventry.ac.uk",
+  "spaceId": "eccb3434-e130-4250-b8cd-8ba714fcec86",
+  "spaceName": "(Community) Presessional English (PSE London)",
+  "score": 0,
+  "max_score": 40,
+  "questions": [
+    {
+      "response_id": "9a666bfc-c2b8-49bb-b11e-9f9585874b35_29a59873d64e3761ccb0d29ecca16973",
+      "question_type": "longtextV2",
+      "dt_score_updated": "2022-07-05T05:06:53Z",
+      "automarkable": false,
+      "attempted": true,
+      "score": null,
+      "max_score": 40,
+      "question_reference": "8ce3bee1-48e8-4baa-b2e3-5bf8083389e0",
+      "item_reference": "570ff370-fde4-49bc-959d-b91c3099b1d6",
+      "response": {
+        "value": "<p>Introduction <br></p><p>The aim of this report is to introduce the main ways of transportation in our school to students, so that students can flexibly choose their own way of transportation.</p><p>Most popular transportation </p><p>The most popular transportation is riding a bike, which has many advantages ,such as it is environmentally friendly, healthy and cheap.However,cycling is slow in speed,so if you are in a hurry, you would better not taking a bike.It is no safe places for bikes, so it is easy to be steal.Whatsmore,it may cause  sweating and you may need to change your clothes.</p><p>Second Most popular transportation<br>The second most popular is train travel, which has many advantages, it is also very friendly to the environment, and the speed is very fast, and it is convenient for us cause it is near the station. but cancelled due to weather issues,also can be congested during peak hours.<br></p><p>Recommendations<br>In general, based on the above, we give some recommendations. For students who ride bicycles, we recommend that schools provide changing rooms for students and find a safer place to park their bicycles. For students who take the train, they can choose the time period that is not the peak period for course selection.<br></p>",
+        "wordCount": 203,
+        "type": "string",
+        "apiVersion": "v2.168.22",
+        "revision": 30
+      },
+      "questionInfo": {
+        "type": "longtextV2",
+        "widget_type": "response",
+        "reference": "8ce3bee1-48e8-4baa-b2e3-5bf8083389e0",
+        "data": {
+          "stimulus": "<h2 id=\"yui_3_17_2_1_1628703407776_1784\"><span style=\"color:#0000ff;\"><b id=\"yui_3_17_2_1_1628703407776_2039\">You are going to write a report for your University. </b></span></h2>\n\n<h4><b>You should…</b></h4>\n\n<ul id=\"yui_3_17_2_1_1628703407776_2050\">\n\t<li><span style=\"font-size:1.3em;\">Write about the&nbsp;TWO&nbsp;most popular means of transportation used by students</span></li>\n\t<li><span style=\"font-size:1.3em;\">Discuss the advantages&nbsp;AND&nbsp;disadvantages</span></li>\n\t<li><span style=\"font-size:1.3em;\">Make some recommendations to the university</span></li>\n</ul>\n\n<h5 id=\"yui_3_17_2_1_1628703407776_2051\">&nbsp;</h5>\n\n<h4 id=\"yui_3_17_2_1_1628703407776_2055\"><b id=\"yui_3_17_2_1_1628703407776_2057\">Analyse the information in the table below:</b></h4>\n\n<p><img height=\"285\" src=\"https://assets.learnosity.com/organisations/755/501dfa12-1cf8-4ced-a6ab-aa6ba44e3379.JPG\" width=\"701\" /></p>\n\n<p><img height=\"259\" src=\"https://assets.learnosity.com/organisations/755/2bc31a90-4e37-4aed-8f9c-b1924cc4ec71.JPG\" width=\"699\" /></p>\n\n<h4>&nbsp;</h4>\n\n<h4><span style=\"color:#0000ff;\"><b>Write your report using&nbsp; ALL&nbsp;the information in the table.</b></span></h4>\n\n<h4><span style=\"color:#ff0000;\"><b><u>Write COMPLETE sentences.&nbsp;Do NOT use bullet points.</u></b></span></h4>\n\n<h4><b style=\"\">Use at least&nbsp;ONE&nbsp;of <u>your own ideas</u>&nbsp;</b><b style=\"\">in the recommendations section.</b></h4>\n\n<h4>&nbsp;</h4>\n\n<h4><b>Follow the&nbsp;report structure&nbsp;you can see below:</b></h4>\n\n<p>&nbsp;</p>\n\n<p><img height=\"523\" src=\"https://assets.learnosity.com/organisations/755/2694fd52-288e-4118-90cd-de27f223d78a.JPG\" width=\"400\" /></p>\n\n<h4>&nbsp;</h4>\n\n<h4><b>Write your report in the box below.&nbsp;Start with:&nbsp;</b></h4>\n\n<p><span style=\"font-size:1.3em;\"><i>The aim of this report is to ...</i></span></p>\n",
+          "type": "longtextV2",
+          "formatting_options": [
+            "bold",
+            "italic",
+            "underline",
+            "|",
+            "unorderedList",
+            "orderedList",
+            "redo"
+          ],
+          "validation": {
+            "max_score": 40
+          }
+        },
+        "metadata": {
+          "name": "Essay with rich text",
+          "template_reference": "1e6039f8-0676-495d-aca9-108710a51ce5"
+        }
+      },
+      "feedbackInfo": [
+        {
+          "id": "0707_94ba4b3e-3daa-4e84-af7a-a02fdd94cf64_9a666bfc-c2b8-49bb-b11e-9f9585874b35_f0a8d38fbe68ffc3b3a5c3349ec9c415",
+          "user_id": "94ba4b3e-3daa-4e84-af7a-a02fdd94cf64",
+          "response_id": "9a666bfc-c2b8-49bb-b11e-9f9585874b35_f0a8d38fbe68ffc3b3a5c3349ec9c415",
+          "type": "longtextV2",
+          "question": {
+            "type": "longtextV2",
+            "metadata": {
+              "source": {
+                "organisation_id": 755
+              },
+              "sheet_reference": "default_feedback",
+              "widget_reference": "de082b5f-742a-4ecf-82ca-4dc86e218fec",
+              "valid_response_count": 0
+            },
+            "stimulus": "Written feedback:",
+            "response_id": "9a666bfc-c2b8-49bb-b11e-9f9585874b35_f0a8d38fbe68ffc3b3a5c3349ec9c415",
+            "show_word_count": false,
+            "show_word_limit": "off"
+          },
+          "response": null,
+          "creation_date": "2022-07-05 10:40:28",
+          "mod_date": "2022-07-05 10:40:28",
+          "persist_until": "2022-07-06 10:40:28",
+          "saved": false
+        },
+        null
+      ]
+    }
+  ]
+}

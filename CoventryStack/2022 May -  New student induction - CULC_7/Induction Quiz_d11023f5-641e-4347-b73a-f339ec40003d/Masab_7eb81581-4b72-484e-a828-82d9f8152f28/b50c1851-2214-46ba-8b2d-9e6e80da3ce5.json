@@ -1,0 +1,1174 @@
+{
+  "userId": "7eb81581-4b72-484e-a828-82d9f8152f28",
+  "firstName": "Masab",
+  "lastName": "Hameed",
+  "assigmentId": "d11023f5-641e-4347-b73a-f339ec40003d",
+  "assigmentName": "Induction Quiz",
+  "sessionId": "b50c1851-2214-46ba-8b2d-9e6e80da3ce5",
+  "email": "hameedm6@coventry.ac.uk",
+  "spaceId": "70f190db-b88d-492f-8a94-7c362d7b91a7",
+  "spaceName": "2022 May -  New student induction - CULC",
+  "score": 7,
+  "max_score": 12,
+  "questions": [
+    {
+      "response_id": "b50c1851-2214-46ba-8b2d-9e6e80da3ce5_211e526e008c1eeaa51bb544fe293038",
+      "question_type": "mcq",
+      "dt_score_updated": "2022-05-06T12:28:58Z",
+      "automarkable": true,
+      "attempted": true,
+      "score": 1,
+      "max_score": 1,
+      "question_reference": "6c10b786-f8cc-4d99-a8be-0d9470b1c64d",
+      "item_reference": "7a9c5fdd-ecff-4cf4-adea-ecd91383f064",
+      "response": {
+        "value": [
+          "1"
+        ],
+        "type": "array",
+        "apiVersion": "v2.168.19",
+        "revision": 1,
+        "feedbackAttemptsCount": 1
+      },
+      "questionInfo": {
+        "type": "mcq",
+        "widget_type": "response",
+        "reference": "6c10b786-f8cc-4d99-a8be-0d9470b1c64d",
+        "data": {
+          "options": [
+            {
+              "label": "Monday 9th May",
+              "value": "0"
+            },
+            {
+              "label": "Monday 23rd May",
+              "value": "1"
+            },
+            {
+              "label": "Monday 16th May",
+              "value": "2"
+            },
+            {
+              "label": "Monday 30th May",
+              "value": "3"
+            }
+          ],
+          "stimulus": "<h4>When does teaching start?</h4>\n\n<p>&nbsp;</p>\n",
+          "type": "mcq",
+          "ui_style": {
+            "choice_label": "lower-alpha",
+            "type": "block"
+          },
+          "validation": {
+            "scoring_type": "exactMatch",
+            "valid_response": {
+              "score": 1,
+              "value": [
+                "1"
+              ]
+            }
+          },
+          "metadata": {
+            "distractor_rationale_response_level": [
+              "<p>❌ You're early!</p>\n\n<p>Teaching starts on <strong>Monday 23rd May</strong>. There are other activities taking place before this week, like the <a href=\"https://culc-coventry.aula.education/#/dashboard/70f190db-b88d-492f-8a94-7c362d7b91a7/journey/materials/ab63957c-8aae-487a-a525-bdf7c7ebb4a1\" target=\"_blank\">School Induction event on Wednesday 18th May</a>, but teaching sessions will start on or after Monday 23rd May. See <a href=\"https://culc-coventry.aula.education/#/dashboard/70f190db-b88d-492f-8a94-7c362d7b91a7/journey/materials/48a5ff01-f7c0-448d-b7e4-ef05351fd012\" target=\"_blank\">your timetable</a>  for exact times of your teaching sessions.</p>\n",
+              "<p>✅ That's right!</p>\n\n<p>There are other activities taking place before this week, like the <a href=\"https://culc-coventry.aula.education/#/dashboard/70f190db-b88d-492f-8a94-7c362d7b91a7/journey/materials/ab63957c-8aae-487a-a525-bdf7c7ebb4a1\" target=\"_blank\">School Induction event on Wednesday 18th May</a>, but teaching sessions will start on or after Monday 24th January. See <a href=\"https://culc-coventry.aula.education/#/dashboard/70f190db-b88d-492f-8a94-7c362d7b91a7/journey/materials/48a5ff01-f7c0-448d-b7e4-ef05351fd012\" target=\"_blank\">your timetable</a>  for exact times of your teaching sessions.</p>\n",
+              "<p>❌ You're early!</p>\n\n<p>Teaching starts on <strong>Monday 23rd May</strong>. There are other activities taking place before this week, like the <a href=\"https://culc-coventry.aula.education/#/dashboard/70f190db-b88d-492f-8a94-7c362d7b91a7/journey/materials/ab63957c-8aae-487a-a525-bdf7c7ebb4a1\" target=\"_blank\">School Induction event on Wednesday 18th May</a>, but teaching sessions will start on or after Monday 24th January. See <a href=\"https://culc-coventry.aula.education/#/dashboard/70f190db-b88d-492f-8a94-7c362d7b91a7/journey/materials/48a5ff01-f7c0-448d-b7e4-ef05351fd012\" target=\"_blank\">your timetable</a>  for exact times of your teaching sessions.</p>\n",
+              "<p>❌ You're late!</p>\n\n<p>Teaching starts on <strong>Monday 23rd May</strong>. There are other activities taking place before this week, like the <a href=\"https://culc-coventry.aula.education/#/dashboard/70f190db-b88d-492f-8a94-7c362d7b91a7/journey/materials/ab63957c-8aae-487a-a525-bdf7c7ebb4a1\" target=\"_blank\">School Induction event on Wednesday 18th May</a>,&nbsp;but teaching sessions will start on or after Monday 24th January. See <a href=\"https://culc-coventry.aula.education/#/dashboard/70f190db-b88d-492f-8a94-7c362d7b91a7/journey/materials/48a5ff01-f7c0-448d-b7e4-ef05351fd012\" target=\"_blank\">your timetable</a> for exact times of your teaching sessions.</p>\n"
+            ]
+          },
+          "instant_feedback": true,
+          "shuffle_options": true
+        },
+        "metadata": {
+          "name": "Multiple choice – block layout",
+          "template_reference": "33d53a22-1a59-4a03-9671-7f5104edd62e"
+        }
+      },
+      "feedbackInfo": [
+        null,
+        null
+      ]
+    },
+    {
+      "response_id": "b50c1851-2214-46ba-8b2d-9e6e80da3ce5_32cceb24a09c012f55484d0a610e23f4",
+      "question_type": "mcq",
+      "dt_score_updated": "2022-05-06T12:29:27Z",
+      "automarkable": true,
+      "attempted": true,
+      "score": 1,
+      "max_score": 1,
+      "question_reference": "c17d4e63-7ee1-4684-8e7a-12c12ad1e0f4",
+      "item_reference": "8777124d-a356-402a-901f-a14055350fea",
+      "response": {
+        "value": [
+          "0"
+        ],
+        "type": "array",
+        "apiVersion": "v2.168.19",
+        "revision": 1,
+        "feedbackAttemptsCount": 1
+      },
+      "questionInfo": {
+        "type": "mcq",
+        "widget_type": "response",
+        "reference": "c17d4e63-7ee1-4684-8e7a-12c12ad1e0f4",
+        "data": {
+          "options": [
+            {
+              "label": "Aula",
+              "value": "0"
+            },
+            {
+              "label": "Student Portal",
+              "value": "1"
+            },
+            {
+              "label": "Email",
+              "value": "2"
+            },
+            {
+              "label": "Wayfinder",
+              "value": "3"
+            }
+          ],
+          "stimulus": "<h4>Where can you find the document - <em>Induction Checklist: Are you ready to start your Academic Year</em> ?</h4>\n\n<p>&nbsp;</p>\n",
+          "type": "mcq",
+          "ui_style": {
+            "choice_label": "lower-alpha",
+            "type": "block"
+          },
+          "validation": {
+            "scoring_type": "exactMatch",
+            "valid_response": {
+              "score": 1,
+              "value": [
+                "0"
+              ]
+            }
+          },
+          "instant_feedback": true,
+          "shuffle_options": true,
+          "metadata": {
+            "distractor_rationale_response_level": [
+              "<p>✅ That's right!</p>\n\n<p>You can find it <a href=\"https://culc-coventry.aula.education/#/dashboard/70f190db-b88d-492f-8a94-7c362d7b91a7/journey/materials/ab63957c-8aae-487a-a525-bdf7c7ebb4a1\" target=\"_blank\">right at the top of the&nbsp;<strong>Materials&nbsp;</strong>in this Induction space on Aula</a> (You can also download a copy on this page if you need to).</p>\n",
+              "<p>❌ Not quite.</p>\n\n<p>It's here...in Aula.&nbsp;You can find it <a href=\"https://culc-coventry.aula.education/#/dashboard/70f190db-b88d-492f-8a94-7c362d7b91a7/journey/materials/ab63957c-8aae-487a-a525-bdf7c7ebb4a1\" target=\"_blank\">right at the top of the&nbsp;<strong>Materials&nbsp;</strong>in this Induction space</a> (You can also download a copy on this page if you need to).</p>\n",
+              "<p>❌ Not quite.</p>\n\n<p>It's here...in Aula.&nbsp;You can find it <a href=\"https://culc-coventry.aula.education/#/dashboard/70f190db-b88d-492f-8a94-7c362d7b91a7/journey/materials/ab63957c-8aae-487a-a525-bdf7c7ebb4a1\" target=\"_blank\">right at the top of the&nbsp;<strong>Materials&nbsp;</strong>in this Induction space</a> (You can also download a copy on this page if you need to).</p>\n",
+              "<p>❌ Not quite.</p>\n\n<p>It's here...in Aula.&nbsp;You can find it <a href=\"https://culc-coventry.aula.education/#/dashboard/70f190db-b88d-492f-8a94-7c362d7b91a7/journey/materials/ab63957c-8aae-487a-a525-bdf7c7ebb4a1\" target=\"_blank\">right at the top of the&nbsp;<strong>Materials&nbsp;</strong>in this Induction space</a> (You can also download a copy on this page if you need to).</p>\n"
+            ]
+          }
+        },
+        "metadata": {
+          "name": "Multiple choice – block layout",
+          "template_reference": "33d53a22-1a59-4a03-9671-7f5104edd62e"
+        }
+      },
+      "feedbackInfo": [
+        null,
+        null
+      ]
+    },
+    {
+      "response_id": "b50c1851-2214-46ba-8b2d-9e6e80da3ce5_2372fe3f4df43b9172a848ce665ea17c",
+      "question_type": "mcq",
+      "dt_score_updated": "2022-05-06T12:29:41Z",
+      "automarkable": true,
+      "attempted": true,
+      "score": 0,
+      "max_score": 1,
+      "question_reference": "cd75c4c7-8c49-40df-bece-a14575fa11a4",
+      "item_reference": "6a714acc-9d7f-4866-9583-a2777f06d58f",
+      "response": {
+        "value": [
+          "2"
+        ],
+        "type": "array",
+        "apiVersion": "v2.168.19",
+        "revision": 1,
+        "feedbackAttemptsCount": 1
+      },
+      "questionInfo": {
+        "type": "mcq",
+        "widget_type": "response",
+        "reference": "cd75c4c7-8c49-40df-bece-a14575fa11a4",
+        "data": {
+          "options": [
+            {
+              "label": "ALS diagnostic exercise",
+              "value": "0"
+            },
+            {
+              "label": "IT skills diagnostic",
+              "value": "1"
+            },
+            {
+              "label": "Induction quizzes",
+              "value": "2"
+            },
+            {
+              "label": "Online induction diagnostics",
+              "value": "3"
+            }
+          ],
+          "stimulus": "<h4>Which assessment&nbsp;are you required to complete before you can collect your welcome goody bag from the Student Information Desk on the 3rd floor?</h4>\n\n<p>&nbsp;</p>\n",
+          "type": "mcq",
+          "ui_style": {
+            "choice_label": "lower-alpha",
+            "type": "block"
+          },
+          "validation": {
+            "scoring_type": "exactMatch",
+            "valid_response": {
+              "score": 1,
+              "value": [
+                "0"
+              ]
+            }
+          },
+          "metadata": {
+            "distractor_rationale_response_level": [
+              "<p>Yes. The&nbsp;ALS (Academic Language &amp; Skills) diagnostic exercise can be found here -&nbsp;<a href=\"https://libguides.coventry.ac.uk/ASU/ALS\" target=\"_blank\">libguides.coventry.ac.uk/ASU/ALS</a></p>\n\n<p>Completing this&nbsp;assessment&nbsp;will ensure you are equipped to succeed on your course, as tailored feedback and learning support material will be provided upon completion...and will allow you to collect your welcome goody bag from the Student Information Desk on 3rd floor.</p>\n",
+              "<p>Not quite. The&nbsp;IT skills diagnostic can be found here -&nbsp;<a href=\"https://es.eskill.com/es/quiz/?testId=a7f44fcda09f799b\" target=\"_blank\">es.eskill.com/es/quiz/?testId=a7f44fcda09f799b</a></p>\n\n<p>Completing this&nbsp;assessment&nbsp;will ensure you are equipped to succeed on your course, as tailored feedback and learning support material will be provided upon completion.</p>\n",
+              "Not quite. Obviously quizzes like the one you're doing right now, are great fun and useful. But you don't need to complete them in order to get your goody bag.",
+              "Not quite. Obviously quizzes like the one you're doing right now, are great fun and useful. But you don't need to complete them in order to get your goody bag."
+            ]
+          },
+          "instant_feedback": true,
+          "shuffle_options": true
+        },
+        "metadata": {
+          "name": "Multiple choice – block layout",
+          "template_reference": "33d53a22-1a59-4a03-9671-7f5104edd62e"
+        }
+      },
+      "feedbackInfo": [
+        null,
+        null
+      ]
+    },
+    {
+      "response_id": "b50c1851-2214-46ba-8b2d-9e6e80da3ce5_7f20e77947856847e547b5ec0cd37091",
+      "question_type": "mcq",
+      "dt_score_updated": "2022-05-06T12:29:55Z",
+      "automarkable": true,
+      "attempted": true,
+      "score": 1,
+      "max_score": 1,
+      "question_reference": "f0da8fb3-b62f-42ea-bc99-3ea253cfee34",
+      "item_reference": "20536264-21b7-4e96-848b-4fbc9487dc1b",
+      "response": {
+        "value": [
+          "0"
+        ],
+        "type": "array",
+        "apiVersion": "v2.168.19",
+        "revision": 1,
+        "feedbackAttemptsCount": 1
+      },
+      "questionInfo": {
+        "type": "mcq",
+        "widget_type": "response",
+        "reference": "f0da8fb3-b62f-42ea-bc99-3ea253cfee34",
+        "data": {
+          "options": [
+            {
+              "label": "True",
+              "value": "0"
+            },
+            {
+              "label": "False",
+              "value": "1"
+            }
+          ],
+          "stimulus": "<h4>You will earn&nbsp;a Digital Badge when you complete&nbsp;the IT Skills Diagnostic?</h4>\n\n<p>&nbsp;</p>\n",
+          "type": "mcq",
+          "ui_style": {
+            "type": "block"
+          },
+          "validation": {
+            "scoring_type": "exactMatch",
+            "valid_response": {
+              "score": 1,
+              "value": [
+                "0"
+              ]
+            }
+          },
+          "metadata": {
+            "distractor_rationale_response_level": [
+              "<p>✅ That's right! You lucky people!</p>\n\n<p>Coventry University use Digital Badges to recognise achievement.&nbsp;<a href=\"https://coventry.badgr.com\" target=\"_blank\">Digital Badges</a> are a great way to showcase and share your new skills with the world.&nbsp;Achieve a score of 75% or over (Level 3) in each of the topics in the IT Skills Assessment and you'll be able to collect and share your badge.</p>\n",
+              "<p>❌ You will!</p>\n\n<p>Coventry University use Digital Badges to recognise achievement.&nbsp;<a href=\"https://coventry.badgr.com\" target=\"_blank\">Digital Badges</a> are a great way to showcase and share your new skills with the world.&nbsp;Achieve a score of 75% or over (Level 3) in each of the topics in the IT Skills Assessment and you'll be able to collect and share your badge.</p>\n"
+            ]
+          },
+          "instant_feedback": true
+        },
+        "metadata": {
+          "name": "True or false",
+          "template_reference": "3egs0b24-5gs8-49fc-fds9-4a450sdg31ca"
+        }
+      },
+      "feedbackInfo": [
+        null,
+        null
+      ]
+    },
+    {
+      "response_id": "b50c1851-2214-46ba-8b2d-9e6e80da3ce5_98af2017be8237d6debacb893ac6d8d1",
+      "question_type": "mcq",
+      "dt_score_updated": "2022-05-06T12:30:56Z",
+      "automarkable": true,
+      "attempted": true,
+      "score": 0,
+      "max_score": 1,
+      "question_reference": "76de4f5c-4ae7-40a5-8c1a-6dc5170ec543",
+      "item_reference": "ac17c03a-3171-4f41-8ba1-1a3df61e47f2",
+      "response": {
+        "value": [
+          "1"
+        ],
+        "type": "array",
+        "apiVersion": "v2.168.19",
+        "revision": 1,
+        "feedbackAttemptsCount": 1
+      },
+      "questionInfo": {
+        "type": "mcq",
+        "widget_type": "response",
+        "reference": "76de4f5c-4ae7-40a5-8c1a-6dc5170ec543",
+        "data": {
+          "options": [
+            {
+              "label": "Attend all your timetabled classes",
+              "value": "0"
+            },
+            {
+              "label": "Do all the reading/preparation so you can have meaningful discussions and feedback in your classes",
+              "value": "1"
+            },
+            {
+              "label": "Submit your assessments on time, passing on your first attempt",
+              "value": "2"
+            },
+            {
+              "label": "Use all the support and resources available e.g. Academic Support Unit (Spotlight workshops)",
+              "value": "3"
+            }
+          ],
+          "stimulus": "<h4>What do we mean by \"own your learning\"?</h4>\n\n<p>See the <a href=\"https://culc-coventry.aula.education/#/dashboard/70f190db-b88d-492f-8a94-7c362d7b91a7/journey/materials/b9cc21f2-00d9-4354-a500-cea3ce728c0f\">Own your learning</a> page of the Online Induction for more info.</p>\n\n<p>Select all answers that you think apply...</p>\n\n<p>&nbsp;</p>\n",
+          "type": "mcq",
+          "ui_style": {
+            "choice_label": "lower-alpha",
+            "type": "block"
+          },
+          "validation": {
+            "scoring_type": "exactMatch",
+            "valid_response": {
+              "score": 1,
+              "value": [
+                "0",
+                "1",
+                "2",
+                "3"
+              ]
+            }
+          },
+          "metadata": {
+            "distractor_rationale": "<h4>All these things!</h4>\n\n<p>Part of higher education is learning how to take control of your own learning journey. Don’t just assume you’ll succeed.</p>\n\n<ul>\n\t<li>It is vital that you attend all your timetabled sessions...</li>\n\t<li>In Aula, you'll find many resources and activities that you can access at any time...</li>\n\t<li>Assignments can be stressful, but it is your responsibility to know exactly what is required&nbsp;and to submit your work on time...</li>\n\t<li>And there is more than Aula and timetabled sessions available to you.&nbsp;Take a look at some of the support available from services like the <a href=\"http://libguides.coventry.ac.uk/c.php?g=653884&amp;p=4873453\" target=\"_blank\">Academic Support Unit</a> -&nbsp; and the <a href=\"http://talent.coventry.ac.uk\" target=\"_blank\">Talent Team</a>.</li>\n</ul>\n\n<ul>\n</ul>\n"
+          },
+          "instant_feedback": true,
+          "multiple_responses": true,
+          "shuffle_options": true
+        },
+        "metadata": {
+          "name": "Multiple choice – block layout",
+          "template_reference": "33d53a22-1a59-4a03-9671-7f5104edd62e"
+        }
+      },
+      "feedbackInfo": [
+        null,
+        null
+      ]
+    },
+    {
+      "response_id": "b50c1851-2214-46ba-8b2d-9e6e80da3ce5_47decc66df8eae80e9a11a0e523bc239",
+      "question_type": "association",
+      "dt_score_updated": "2022-05-06T12:34:12Z",
+      "automarkable": true,
+      "attempted": true,
+      "score": 0,
+      "max_score": 1,
+      "question_reference": "a3ff5f9a-1c7c-40db-9bb4-dfc22d63ba79",
+      "item_reference": "96b26da7-66f4-473c-ab83-b5eb83a4f66c",
+      "response": {
+        "value": [
+          "...your first-stop for information about Coventry University campuses and services.",
+          null,
+          "<em>...the \"gateway to everything\"</em> you need for your time at Coventry University.",
+          "...details of your all your Live Sessions. Available 24-48 hours after you have fully completed your enrolment.",
+          "...details of your all your Live Sessions. Available for those who have not fully completed enrolment OR&nbsp;who are changing their mode of study.",
+          "...your personal details: phone number, term time address and correspondence address."
+        ],
+        "type": "array",
+        "updatedFormat": true,
+        "apiVersion": "v2.168.19",
+        "revision": 5,
+        "feedbackAttemptsCount": 1
+      },
+      "questionInfo": {
+        "type": "association",
+        "widget_type": "response",
+        "reference": "a3ff5f9a-1c7c-40db-9bb4-dfc22d63ba79",
+        "data": {
+          "possible_responses": [
+            "<em>...the \"gateway to everything\"</em> you need for your time at Coventry University.",
+            "...your first-stop for information about Coventry University campuses and services.",
+            "...your personal details: phone number, term time address and correspondence address.",
+            "...details of your all your Live Sessions. Available 24-48 hours after you have fully completed your enrolment.",
+            "...details of your all your Live Sessions. Available for those who have not fully completed enrolment OR&nbsp;who are changing their mode of study.",
+            "...a peer-to-peer mentoring app."
+          ],
+          "stimulus": "<h4>Match each of these university&nbsp;systems to its description...</h4>\n\n<p>&nbsp;</p>\n",
+          "stimulus_list": [
+            "<p>Student Portal</p>\n\n<p><img alt=\"Student Portal (SharePoint) screenshot\" src=\"https://assets.learnosity.com/organisations/755/5ca61562-c099-42e9-916a-b74b5601b6a6.png\" style=\"width:50%; box-shadow: 10px 10px 5px #aaaaaa;\"></p>\n",
+            "<p>Wayfinder</p>\n\n<p><img alt=\"Wayfinder screenshot\" src=\"https://assets.learnosity.com/organisations/755/1ad20370-20d4-4215-8d4b-ec12eb24fbab.png\" style=\"width:50%; box-shadow: 10px 10px 5px #aaaaaa;\"></p>\n",
+            "<p>SOLAR</p>\n\n<p><img alt=\"SOLAR screenshot\" src=\"https://assets.learnosity.com/organisations/755/363ea26f-5089-44e7-87ab-11c6a278d256.png\" style=\"width:50%; box-shadow: 10px 10px 5px #aaaaaa;\"></p>\n",
+            "<p>Timetable webapp</p>\n\n<p><img alt=\"Timetable web app screenshot\" src=\"https://assets.learnosity.com/organisations/755/0c693688-0166-43cc-82ec-7bf5026cc146.png\" style=\"width:50%; box-shadow: 10px 10px 5px #aaaaaa;\"></p>\n",
+            "<p>Provisional online timetable</p>\n\n<p><img alt=\"Provisional timetable screenshot\" src=\"https://assets.learnosity.com/organisations/755/5015a8c4-292c-4b26-b094-f32e0b7b35f3.png\" style=\"width:50%; box-shadow: 10px 10px 5px #aaaaaa;\"></p>\n",
+            "<p>Vygo</p>\n\n<p><img alt=\"Vygo screenshot\" src=\"https://assets.learnosity.com/organisations/755/f3eb50ff-e0bb-46f2-b233-3cabf2c9b2cc.png\" style=\"width:50%; box-shadow: 10px 10px 5px #aaaaaa;\"></p>\n"
+          ],
+          "type": "association",
+          "validation": {
+            "scoring_type": "exactMatch",
+            "valid_response": {
+              "score": 1,
+              "value": [
+                "<em>...the \"gateway to everything\"</em> you need for your time at Coventry University.",
+                "...your first-stop for information about Coventry University campuses and services.",
+                "...your personal details: phone number, term time address and correspondence address.",
+                "...details of your all your Live Sessions. Available 24-48 hours after you have fully completed your enrolment.",
+                "...details of your all your Live Sessions. Available for those who have not fully completed enrolment OR&nbsp;who are changing their mode of study.",
+                "...a peer-to-peer mentoring app."
+              ]
+            }
+          },
+          "ui_style": {
+            "possibility_list_position": "right"
+          },
+          "instant_feedback": true,
+          "shuffle_options": true
+        },
+        "metadata": {
+          "name": "Match list",
+          "template_reference": "1fa22aac-1f88-47f7-941b-3c77759549e6"
+        }
+      },
+      "feedbackInfo": [
+        null,
+        null
+      ]
+    },
+    {
+      "response_id": "b50c1851-2214-46ba-8b2d-9e6e80da3ce5_f3e4a8c7f0b7e251678f23f27cc9a9a0",
+      "question_type": "clozeassociation",
+      "dt_score_updated": "2022-05-06T12:38:27Z",
+      "automarkable": true,
+      "attempted": true,
+      "score": 0,
+      "max_score": 1,
+      "question_reference": "360d1da4-7e18-474d-afdd-dba8f4645704",
+      "item_reference": "91fa7b77-21ca-4ef4-8b75-e5e2e60cdc91",
+      "response": {
+        "value": [
+          "<strong>Community</strong>",
+          "<strong>Materials</strong>",
+          "<strong>Journey</strong>",
+          "online learning environment",
+          "<strong>Assignments</strong>",
+          "with your peers",
+          "tasks",
+          "prepare / complete",
+          "submission links"
+        ],
+        "type": "array",
+        "apiVersion": "v2.168.19",
+        "revision": 10,
+        "feedbackAttemptsCount": 1
+      },
+      "questionInfo": {
+        "type": "clozeassociation",
+        "widget_type": "response",
+        "reference": "360d1da4-7e18-474d-afdd-dba8f4645704",
+        "data": {
+          "possible_responses": [
+            "online learning environment",
+            "<strong>Community</strong>",
+            "<strong>Journey</strong>",
+            "with your peers",
+            "<strong>Materials</strong>",
+            "<strong>Assignments</strong>",
+            "tasks",
+            "prepare / complete",
+            "submission links"
+          ],
+          "response_container": {
+            "pointer": "left"
+          },
+          "stimulus": "<h4>Drag and drop the correct words into this paragraph explaining what <strong>Aula</strong> is...</h4>\n\n<p>&nbsp;</p>\n",
+          "template": "<p>&nbsp;Aula is your {{response}}. It has a dedicated space for your:</p>\n\n<ol>\n\t<li>Online induction</li>\n\t<li>Course community</li>\n\t<li>A space for each module&nbsp;you will be studying.</li>\n</ol>\n\n<p>Each&nbsp;space&nbsp;is divided into&nbsp;two sections: {{response}}and {{response}}.</p>\n\n<p><strong>Community</strong>&nbsp;is the where you can ask questions and share ideas {{response}}. Your Course Directors and Module Leaders may also use this area to post announcements and information.</p>\n\n<p>The <strong>Journey</strong>&nbsp;section is divided into {{response}} and {{response}}.&nbsp;&nbsp;</p>\n\n<p><strong>Materials</strong>&nbsp;contains resources and information about the {{response}} you'll need to complete. These could be an online activity, a quiz, sharing or discussing with your fellow new students, or something to {{response}} on your own.&nbsp;&nbsp;</p>\n\n<p><strong>Assignments</strong>&nbsp;is available only in the desktop version of Aula and is where you can access&nbsp;&nbsp;{{response}}&nbsp;for your assessments.&nbsp;</p>\n\n<p>&nbsp;</p>\n\n<p>&nbsp;</p>\n",
+          "type": "clozeassociation",
+          "case_sensitive": true,
+          "validation": {
+            "scoring_type": "exactMatch",
+            "valid_response": {
+              "score": 1,
+              "value": [
+                "online learning environment",
+                "<strong>Community</strong>",
+                "<strong>Journey</strong>",
+                "with your peers",
+                "<strong>Materials</strong>",
+                "<strong>Assignments</strong>",
+                "tasks",
+                "prepare / complete",
+                "submission links"
+              ]
+            },
+            "match_all_possible_responses": true
+          },
+          "metadata": {
+            "distractor_rationale": "<p>&nbsp;Aula is your <span style=\"color:#ff0000;\">online learning environment</span>. It has a dedicated space for your:</p>\n\n<ol>\n\t<li>Online induction</li>\n\t<li>Course community</li>\n\t<li>A space for each module&nbsp;you will be studying.</li>\n</ol>\n\n<p>Each&nbsp;space&nbsp;is divided into&nbsp;two sections: <strong><span style=\"color:#ff0000;\">Community</span>&nbsp;</strong>and <span style=\"color:#ff0000;\"><strong>Journey</strong></span>.</p>\n\n<p><strong>Community</strong>&nbsp;is the where you can ask questions and share ideas <span style=\"color:#ff0000;\">with your peers</span>. Your Course Directors and Module Leaders may also use this area to post announcements and information.</p>\n\n<p>The <strong>Journey</strong>&nbsp;section is divided into <span style=\"color:#ff0000;\"><strong>Materials</strong></span>&nbsp;and <span style=\"color:#ff0000;\"><strong>Assignments</strong></span>.&nbsp;&nbsp;</p>\n\n<p><strong>Materials</strong>&nbsp;contains resources and information about the <span style=\"color:#ff0000;\">tasks</span>&nbsp;you'll need to complete. These could be an online activity, a quiz, sharing or discussing with your fellow new students, or something to <span style=\"color:#ff0000;\">prepare / complete</span>&nbsp;on your own.&nbsp;&nbsp;</p>\n\n<p><strong>Assignments</strong>&nbsp;is available only in the desktop version of Aula and is where you can access&nbsp;<span style=\"color:#ff0000;\">submission links</span>&nbsp;for your assessments.&nbsp;</p>\n\n<p>&nbsp;</p>\n"
+          },
+          "ui_style": {
+            "possibility_list_position": "right"
+          },
+          "instant_feedback": true,
+          "shuffle_options": true
+        },
+        "metadata": {
+          "name": "Cloze with drag & drop",
+          "template_reference": "51a8c1e7-f34f-4faf-b211-da458e891fcb"
+        }
+      },
+      "feedbackInfo": [
+        null,
+        null
+      ]
+    },
+    {
+      "response_id": "b50c1851-2214-46ba-8b2d-9e6e80da3ce5_3ea42dd7c146cbe108b21e46fa40e718",
+      "question_type": "hotspot",
+      "dt_score_updated": "2022-05-06T12:59:33Z",
+      "automarkable": true,
+      "attempted": true,
+      "score": 1,
+      "max_score": 1,
+      "question_reference": "85ac30db-4ff5-4a61-87a6-d5f47c17b8d9",
+      "item_reference": "93da28fb-c569-43ed-9954-bfd0e9103198",
+      "response": {
+        "value": [
+          "0"
+        ],
+        "type": "array",
+        "apiVersion": "v2.168.19",
+        "revision": 1
+      },
+      "questionInfo": {
+        "type": "hotspot",
+        "widget_type": "response",
+        "reference": "85ac30db-4ff5-4a61-87a6-d5f47c17b8d9",
+        "data": {
+          "type": "hotspot",
+          "stimulus": "<h4>In Aula, where do you go to switch to a different <em>space</em>?</h4>\n\n<p>&nbsp;</p>\n",
+          "image": {
+            "source": "https://assets.learnosity.com/organisations/755/870b6ac5-23c5-4410-b88a-0e5dda70e817.PNG",
+            "width": 1393,
+            "height": 948,
+            "alt": "Aula screenshot"
+          },
+          "areas": [
+            [
+              {
+                "x": 8.22870173225216,
+                "y": 3.4653933992366173
+              },
+              {
+                "x": 8.391700917256234,
+                "y": 8.654248286917966
+              },
+              {
+                "x": 64.08994812484798,
+                "y": 8.288259860812712
+              },
+              {
+                "x": 64.00844853234594,
+                "y": 3.039205858850419
+              }
+            ],
+            [
+              {
+                "x": 0.35201356905749287,
+                "y": 5.4959043285067795
+              },
+              {
+                "x": 0.3606853020739405,
+                "y": 10.82064144474693
+              },
+              {
+                "x": 3.719585549953224,
+                "y": 10.729144338220616
+              },
+              {
+                "x": 3.638085957451187,
+                "y": 5.5081934982150305
+              }
+            ],
+            [
+              {
+                "x": 0.6693402060491953,
+                "y": 99.26613866426122
+              },
+              {
+                "x": 0.678011939065643,
+                "y": 95.31884508295697
+              },
+              {
+                "x": 3.873913001940852,
+                "y": 95.43860134071576
+              },
+              {
+                "x": 3.7924134094388147,
+                "y": 99.38589492202001
+              }
+            ],
+            [
+              {
+                "x": 7.643765207684329,
+                "y": 10.625454660296883
+              },
+              {
+                "x": 7.562265615182293,
+                "y": 14.876359053429516
+              },
+              {
+                "x": 14.446519291298946,
+                "y": 15.036663632129041
+              },
+              {
+                "x": 14.446519291298946,
+                "y": 10.584906339356152
+              }
+            ]
+          ],
+          "area_attributes": {
+            "global": {
+              "fill": "rgba(42, 183, 58, 0.5)",
+              "selected_fill": "rgba(255, 133, 27, 0.5)",
+              "selected_stroke": "rgba(235, 33, 46, 0.8)",
+              "focus_stroke": "rgba(255, 133, 27, 1)"
+            }
+          },
+          "metadata": {
+            "distractor_rationale": "<p>When you Sign In to Aula, you go straight into one of your current spaces (usually your <em>Course Community&nbsp;</em>space).</p>\n\n<p>Selecting the <strong>space title</strong> at the top of the screen, should open a panel listing all other spaces which you are currently enrolled on.</p>\n"
+          },
+          "instant_feedback": true,
+          "validation": {
+            "scoring_type": "exactMatch",
+            "valid_response": {
+              "score": 1,
+              "value": [
+                "0"
+              ]
+            }
+          }
+        },
+        "metadata": {
+          "name": "Hotspot",
+          "template_reference": "f0416e39-72fc-4d40-8d6e-c6f97e621fd4"
+        }
+      },
+      "feedbackInfo": [
+        null,
+        null
+      ]
+    },
+    {
+      "response_id": "b50c1851-2214-46ba-8b2d-9e6e80da3ce5_75ef2804355d0495eb503cbfc4140223",
+      "question_type": "hotspot",
+      "dt_score_updated": "2022-05-06T12:57:36Z",
+      "automarkable": true,
+      "attempted": true,
+      "score": 0,
+      "max_score": 1,
+      "question_reference": "75ca8f22-9987-40ce-b0f9-4a6fa71edafd",
+      "item_reference": "93da28fb-c569-43ed-9954-bfd0e9103198",
+      "response": {
+        "value": [
+          "3"
+        ],
+        "type": "array",
+        "apiVersion": "v2.168.19",
+        "revision": 2
+      },
+      "questionInfo": {
+        "type": "hotspot",
+        "widget_type": "response",
+        "reference": "75ca8f22-9987-40ce-b0f9-4a6fa71edafd",
+        "data": {
+          "type": "hotspot",
+          "stimulus": "<h4>...and where can you go to get&nbsp;Help &amp; Support during your enrolment?</h4>\n\n<p>&nbsp;</p>\n",
+          "image": {
+            "source": "https://assets.learnosity.com/organisations/755/de6893ec-8e21-48a4-974c-d95513ba91de.PNG",
+            "width": 1393,
+            "height": 948,
+            "alt": "Aula screenshot"
+          },
+          "areas": [
+            [
+              {
+                "x": 8.656447249774573,
+                "y": 3.5091674180943793
+              },
+              {
+                "x": 64.00268088830882,
+                "y": 3.5091674180943793
+              },
+              {
+                "x": 63.91250956279032,
+                "y": 8.491830293223618
+              },
+              {
+                "x": 8.639103783741678,
+                "y": 8.530489909100945
+              }
+            ],
+            [
+              {
+                "x": 0.4421848945759779,
+                "y": 6.290888732043578
+              },
+              {
+                "x": 0.5236844870780155,
+                "y": 11.014266526411944
+              },
+              {
+                "x": 3.8010851424552614,
+                "y": 11.014266526411944
+              },
+              {
+                "x": 3.891256467973747,
+                "y": 6.5709495685019
+              }
+            ],
+            [
+              {
+                "x": 8.214262355198592,
+                "y": 16.52872049850675
+              },
+              {
+                "x": 8.29576194770063,
+                "y": 20.02053902414588
+              },
+              {
+                "x": 16.23083859332732,
+                "y": 20.180843602845407
+              },
+              {
+                "x": 16.067839408323245,
+                "y": 16.526831793443346
+              }
+            ],
+            [
+              {
+                "x": 0.35201356905749287,
+                "y": 95.86437731426642
+              },
+              {
+                "x": 0.279185709571903,
+                "y": 99.68813722768502
+              },
+              {
+                "x": 3.882584734957299,
+                "y": 99.68813722768502
+              },
+              {
+                "x": 3.882584734957299,
+                "y": 96.26230570342014
+              }
+            ],
+            [
+              {
+                "x": 7.837997329400189,
+                "y": 65.22654789325803
+              },
+              {
+                "x": 7.765169469914598,
+                "y": 69.16439794924523
+              },
+              {
+                "x": 16.626284316729905,
+                "y": 69.00409337054569
+              },
+              {
+                "x": 16.626284316729905,
+                "y": 65.26709621419877
+              }
+            ]
+          ],
+          "area_attributes": {
+            "global": {
+              "fill": "rgba(42, 183, 58, 0.5)",
+              "selected_fill": "rgba(255, 133, 27, 0.5)",
+              "selected_stroke": "rgba(255, 133, 27, 0.8)",
+              "focus_stroke": "rgba(235, 33, 46, 1)"
+            }
+          },
+          "metadata": {
+            "distractor_rationale": "<p>If you are having problems with Aula itself, then you can contact Aula Support using the ❓ icon&nbsp;(if using the mobile app, select&nbsp;<em>Profile&nbsp;</em>&gt;&nbsp;<em>Help &amp; Feedback)</em>.</p>\n\n<p>There are many other places where you can get support, where you should go depends on the support that you need. For example, Aula Support won't be able to assist with specific questions about your module assessments. Here you might contact your Module Leader. You'll find their contact details on the <strong><em>Welcome</em></strong> page of&nbsp;each module space.</p>\n\n<p>For an overview of all support services, head to the <a href=\"https://livecoventryac.sharepoint.com/sites/student-portal-london/SitePages/My%20Help%20and%20Support%20Services.aspx\" target=\"_blank\">Student Portal: My Help &amp; Support Services</a>.</p>\n"
+          },
+          "instant_feedback": true,
+          "validation": {
+            "scoring_type": "exactMatch",
+            "valid_response": {
+              "score": 1,
+              "value": [
+                "4"
+              ]
+            }
+          }
+        },
+        "metadata": {
+          "name": "Hotspot",
+          "template_reference": "f0416e39-72fc-4d40-8d6e-c6f97e621fd4"
+        }
+      },
+      "feedbackInfo": [
+        null,
+        null
+      ]
+    },
+    {
+      "response_id": "b50c1851-2214-46ba-8b2d-9e6e80da3ce5_5c9c06c6c6e06a4e566806db46320592",
+      "question_type": "hotspot",
+      "dt_score_updated": "2022-05-06T13:00:44Z",
+      "automarkable": true,
+      "attempted": true,
+      "score": 1,
+      "max_score": 1,
+      "question_reference": "c5315a1f-002c-4c67-bef9-83c4d5dd785a",
+      "item_reference": "93da28fb-c569-43ed-9954-bfd0e9103198",
+      "response": {
+        "value": [
+          "2"
+        ],
+        "type": "array",
+        "apiVersion": "v2.168.19",
+        "revision": 1,
+        "feedbackAttemptsCount": 1
+      },
+      "questionInfo": {
+        "type": "hotspot",
+        "widget_type": "response",
+        "reference": "c5315a1f-002c-4c67-bef9-83c4d5dd785a",
+        "data": {
+          "type": "hotspot",
+          "stimulus": "<h4>...and finally, where will you find the submission links for your assignments?</h4>\n\n<p>&nbsp;</p>\n",
+          "image": {
+            "source": "https://assets.learnosity.com/organisations/755/b7470427-5cf5-4d19-96f2-51c6fe248fc4.PNG",
+            "width": 1393,
+            "height": 948,
+            "alt": "Aula screenshot"
+          },
+          "areas": [
+            [
+              {
+                "x": 7.498109488713153,
+                "y": 2.8679491032962625
+              },
+              {
+                "x": 7.416609896211115,
+                "y": 8.688905782737068
+              },
+              {
+                "x": 64.06683701477796,
+                "y": 8.36829662533801
+              },
+              {
+                "x": 64.06683701477796,
+                "y": 2.429472393201814
+              }
+            ],
+            [
+              {
+                "x": 0.42484142854308266,
+                "y": 6.451193310743106
+              },
+              {
+                "x": 0.5150127540615679,
+                "y": 9.69694769106519
+              },
+              {
+                "x": 3.48375850546356,
+                "y": 9.816703948823987
+              },
+              {
+                "x": 3.41093064597797,
+                "y": 6.690705826260697
+              }
+            ],
+            [
+              {
+                "x": 16.799645487796006,
+                "y": 16.234553211995365
+              },
+              {
+                "x": 16.80831722081245,
+                "y": 21.010697072294125
+              },
+              {
+                "x": 26.779193425944502,
+                "y": 20.970148751353392
+              },
+              {
+                "x": 26.86069301844654,
+                "y": 16.194004891054632
+              }
+            ],
+            [
+              {
+                "x": 16.29675846210489,
+                "y": 16.433517406572225
+              },
+              {
+                "x": 16.215258869602852,
+                "y": 21.13045333005292
+              },
+              {
+                "x": 7.61429601328098,
+                "y": 21.08990500911219
+              },
+              {
+                "x": 7.5327964207789435,
+                "y": 16.512725343390287
+              }
+            ],
+            [
+              {
+                "x": 0.5063410210451201,
+                "y": 99.36752807028597
+              },
+              {
+                "x": 0.2705139765554554,
+                "y": 95.82571769838908
+              },
+              {
+                "x": 4.281410964451039,
+                "y": 95.9454739561479
+              },
+              {
+                "x": 4.281410964451039,
+                "y": 99.20722349158645
+              }
+            ],
+            [
+              {
+                "x": 7.319530579984612,
+                "y": 23.07866144027153
+              },
+              {
+                "x": 7.473858031972239,
+                "y": 74.53365698314775
+              },
+              {
+                "x": 26.78786515896095,
+                "y": 74.4544490463297
+              },
+              {
+                "x": 26.626629716265306,
+                "y": 72.53834892218897
+              },
+              {
+                "x": 26.952628086273457,
+                "y": 23.27762563484839
+              }
+            ]
+          ],
+          "area_attributes": {
+            "global": {
+              "fill": "rgba(42, 183, 58, 0.5)",
+              "selected_fill": "rgba(255, 133, 27, 0.5)",
+              "selected_stroke": "rgba(235, 33, 46, 0.8)",
+              "focus_stroke": "rgba(255, 133, 27, 1)"
+            }
+          },
+          "metadata": {
+            "distractor_rationale": "<p>That's it. Your Module space &gt; Journey &gt; Assignments</p>\n\n<p>One thing though...<strong>you can't access this Assignments page using the Aula app</strong>. You must use the Desktop version, signing in at <a href=\"https://www.aula.education/\" target=\"_blank\">aula.education</a>&nbsp;in your web browser.</p>\n\n<p><img alt=\"Aula mobile app screenshot - 'you need to be on your desktop to view this' notification\" src=\"https://assets.learnosity.com/organisations/755/db1a1140-30cf-4128-8cc8-37e25fd60b14.PNG\" style=\"width:25%; min-width:100px; max-width:400px; border:4px solid black;\"></p>\n"
+          },
+          "instant_feedback": true,
+          "validation": {
+            "scoring_type": "exactMatch",
+            "valid_response": {
+              "score": 1,
+              "value": [
+                "2"
+              ]
+            }
+          }
+        },
+        "metadata": {
+          "name": "Hotspot",
+          "template_reference": "f0416e39-72fc-4d40-8d6e-c6f97e621fd4"
+        }
+      },
+      "feedbackInfo": [
+        null,
+        null
+      ]
+    },
+    {
+      "response_id": "b50c1851-2214-46ba-8b2d-9e6e80da3ce5_42f9b1ed597ad9fdeb5dcdec4b7e9684",
+      "question_type": "mcq",
+      "dt_score_updated": "2022-05-06T13:01:27Z",
+      "automarkable": true,
+      "attempted": true,
+      "score": 1,
+      "max_score": 1,
+      "question_reference": "3038b676-58f4-48f1-a7ce-3048b3491dae",
+      "item_reference": "769305a3-9af8-4d3a-bcd2-6ef6ba990fae",
+      "response": {
+        "value": [
+          "1"
+        ],
+        "type": "array",
+        "apiVersion": "v2.168.19",
+        "revision": 1,
+        "feedbackAttemptsCount": 1
+      },
+      "questionInfo": {
+        "type": "mcq",
+        "widget_type": "response",
+        "reference": "3038b676-58f4-48f1-a7ce-3048b3491dae",
+        "data": {
+          "options": [
+            {
+              "label": "Aula",
+              "value": "0"
+            },
+            {
+              "label": "Timetabling Web App",
+              "value": "1"
+            },
+            {
+              "label": "Student Portal",
+              "value": "2"
+            },
+            {
+              "label": "Wayfinder",
+              "value": "3"
+            }
+          ],
+          "stimulus": "<h4>Where can you access your&nbsp;timetable?</h4>\n\n<p>&nbsp;</p>\n",
+          "type": "mcq",
+          "ui_style": {
+            "choice_label": "lower-alpha",
+            "type": "block"
+          },
+          "validation": {
+            "scoring_type": "exactMatch",
+            "valid_response": {
+              "score": 1,
+              "value": [
+                "1"
+              ]
+            }
+          },
+          "metadata": {
+            "distractor_rationale": "<p>Though the <a href=\"https://webapp.coventry.ac.uk/timetable-culc/studentportal\" target=\"_blank\">Timetabling Web App</a> is the correct answer here. You'll find timetabling info and a link to the Web App on each of these systems...</p>\n\n<p>During enrolment there can be some delay in your timetable being updated. But don't panic - you'll find a&nbsp;<strong>Provisional Timetables&nbsp;</strong>in Aula (<em>Course Community space</em> &gt; <em>Journey</em> &gt; <em>Materials</em> &gt; <em>Information</em> &gt; <em>Timetable</em>)...</p>\n\n<p><img alt=\"Aula screenshot - Course Community - Provisional Timetable page highlighted\" src=\"https://assets.learnosity.com/organisations/755/5650e0bc-aab7-4710-a74a-808eaba4e8dc.png\" style=\"width:80%; max-width:1280px; margin:0 auto;\"></p>\n"
+          },
+          "instant_feedback": true,
+          "shuffle_options": true
+        },
+        "metadata": {
+          "name": "Multiple choice – block layout",
+          "template_reference": "33d53a22-1a59-4a03-9671-7f5104edd62e"
+        }
+      },
+      "feedbackInfo": [
+        null,
+        null
+      ]
+    },
+    {
+      "response_id": "b50c1851-2214-46ba-8b2d-9e6e80da3ce5_6529bbe834eef760302bfe396dd5c91b",
+      "question_type": "mcq",
+      "dt_score_updated": "2022-05-06T13:02:25Z",
+      "automarkable": true,
+      "attempted": true,
+      "score": 1,
+      "max_score": 1,
+      "question_reference": "e91e849e-a659-4397-8277-7975b06f6af3",
+      "item_reference": "c677d05d-8fa6-4afb-843a-062c424806aa",
+      "response": {
+        "value": [
+          "2"
+        ],
+        "type": "array",
+        "apiVersion": "v2.168.19",
+        "revision": 1,
+        "feedbackAttemptsCount": 1
+      },
+      "questionInfo": {
+        "type": "mcq",
+        "widget_type": "response",
+        "reference": "e91e849e-a659-4397-8277-7975b06f6af3",
+        "data": {
+          "options": [
+            {
+              "label": "Correctly referencing your work.",
+              "value": "0"
+            },
+            {
+              "label": "Not cheating.",
+              "value": "1"
+            },
+            {
+              "label": "<span style=\"font-size:1em;\"><span style=\"border: 1pt none windowtext; padding: 0cm;\">Completing your academic work in an open, honest and responsible manner.<span style=\"font-family: Arial, sans-serif;\"></span></span></span>",
+              "value": "2"
+            },
+            {
+              "label": "You taking responsibility for your own development.",
+              "value": "3"
+            }
+          ],
+          "stimulus": "<h4>What does 'Academic Integrity' mean?</h4>\n\n<p>&nbsp;</p>\n",
+          "type": "mcq",
+          "ui_style": {
+            "choice_label": "lower-alpha",
+            "type": "block"
+          },
+          "validation": {
+            "scoring_type": "partialMatchV2",
+            "valid_response": {
+              "score": 1,
+              "value": [
+                "2"
+              ]
+            },
+            "rounding": "none"
+          },
+          "metadata": {
+            "distractor_rationale": "<p><span style=\"font-size:1em;\">All of these options are important factors in Academic Integrity.</span></p>\n\n<p><span style=\"font-size:1em;\"><span style=\"border: 1pt none windowtext; padding: 0cm;\"><span style=\"font-family:&quot;Arial&quot;,sans-serif\">Completing your academic work in an open, honest and responsible manner</span></span>&nbsp;is probably the best description of what Academic Integrity means.</span></p>\n\n<p>For further info, see the&nbsp;<a href=\"https://culc-coventry.aula.education/?#/dashboard/1d85e590-3bf2-4180-a775-36124a98cdb9/journey/materials/83f3a265-eb6f-4324-a17d-c9ba5aecfeb5\" target=\"_blank\"><strong>Get a head start</strong></a> page in this Induction space.</p>\n\n<p><img alt=\"Aula screenshot - 'Get a head start' page r.e. Academic Integrity\" src=\"https://assets.learnosity.com/organisations/755/cad08391-0d65-48e5-8138-94f2cab86b69.png\" style=\"width:90%; box-shadow: 10px 10px 5px #aaaaaa;\" /></p>\n"
+          },
+          "instant_feedback": true,
+          "shuffle_options": true
+        },
+        "metadata": {
+          "name": "Multiple choice – block layout",
+          "template_reference": "33d53a22-1a59-4a03-9671-7f5104edd62e"
+        }
+      },
+      "feedbackInfo": [
+        null,
+        null
+      ]
+    }
+  ]
+}

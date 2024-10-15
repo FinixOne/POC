@@ -1,0 +1,90 @@
+{
+  "userId": "7952c995-06ef-48a9-84ae-f633d1b9e5c8",
+  "firstName": "Sarah",
+  "lastName": "Alsadi",
+  "assigmentId": "06c86713-5643-4822-ad88-8290a481312c",
+  "assigmentName": "AEB Sept 22 Writing Clearly IFMM",
+  "sessionId": "df88db77-88bc-4962-912f-2d9e5af91030",
+  "email": "alsadis4@coventry.ac.uk",
+  "spaceId": "7c53a317-aedf-445b-95b0-411f4f7803f3",
+  "spaceName": "4016MFH – AEB for BA International Fashion Management and Marketing 1 - 2223SEPDEC",
+  "score": 0,
+  "max_score": 6,
+  "questions": [
+    {
+      "response_id": "df88db77-88bc-4962-912f-2d9e5af91030_238a6a8ccfa05d9b3ecbab251e459129",
+      "question_type": "association",
+      "dt_score_updated": "2022-11-02T09:32:01Z",
+      "automarkable": true,
+      "attempted": true,
+      "score": 0,
+      "max_score": 6,
+      "question_reference": "5fc19d2f-6b4b-4040-84d0-933d544a78b1",
+      "item_reference": "a28f144f-61a9-40b1-87b9-2853dfa1ecce",
+      "response": {
+        "value": [
+          "You <strong>present </strong>the key information from your research. This should be organised logically, and should highlight information that is relevant to your argument.",
+          null,
+          null,
+          null,
+          null,
+          "You <strong>analyse </strong>and <strong>interpret </strong>the results of your research. You consider <strong>supporting and conflicting evidence</strong>, and show how it fits with the stated purpose of your report"
+        ],
+        "type": "array",
+        "updatedFormat": true,
+        "apiVersion": "v2.168.23",
+        "revision": 4
+      },
+      "questionInfo": {
+        "type": "association",
+        "widget_type": "response",
+        "reference": "5fc19d2f-6b4b-4040-84d0-933d544a78b1",
+        "data": {
+          "possible_responses": [
+            "You briefly explain <strong>WHY </strong>the topic is relevant (<strong>context</strong>), <strong>WHAT </strong>your report is going to show (<strong>purpose</strong>), and <strong>HOW </strong>report is going to show this (<strong>outline</strong>)",
+            "You give further <strong>relevant </strong>information on the topic of your report. This section gives the reader a better understanding of the topic and the context. Consider what is useful for the reader to know",
+            "You give details of how your <strong>research </strong>was carried out. This shows the reader that you have carried out reliable research and that your argument is based on credible evidence.",
+            "You <strong>present </strong>the key information from your research. This should be organised logically, and should highlight information that is relevant to your argument.",
+            "You <strong>analyse </strong>and <strong>interpret </strong>the results of your research. You consider <strong>supporting and conflicting evidence</strong>, and show how it fits with the stated purpose of your report",
+            "You <strong>summarise </strong>the key findings of your report and show how these support your stated purpose. Make sure the reader can see that <strong>you have done what you set out to do</strong>, and has an idea what the<strong> next steps</strong> could be. You may include <strong>recommendations</strong>, or these may appear in a separate section."
+          ],
+          "stimulus": "<h5><span style=\"color:#8b4513;\"><strong>TASK 1: REPORT SECTIONS</strong></span></h5>\n\n<p>When you write a report, or any other kind of academic writing, structure is essential for making your argument clear. Look at the typical report sections given below and match them with the descriptions of what each section does. Can you see how the structure helps you to present your argument clearly to the reader? (For further information on the structure of reports, you can read the following page from the EAP Foundations website:&nbsp;https://www.eapfoundation.com/writing/reports/structure/)</p>\n",
+          "stimulus_list": [
+            "Introduction",
+            "Background",
+            "Methodology",
+            "Findings",
+            "Discussion",
+            "Conclusion"
+          ],
+          "type": "association",
+          "validation": {
+            "scoring_type": "partialMatchV2",
+            "valid_response": {
+              "score": 6,
+              "value": [
+                "You briefly explain <strong>WHY </strong>the topic is relevant (<strong>context</strong>), <strong>WHAT </strong>your report is going to show (<strong>purpose</strong>), and <strong>HOW </strong>report is going to show this (<strong>outline</strong>)",
+                "You give further <strong>relevant </strong>information on the topic of your report. This section gives the reader a better understanding of the topic and the context. Consider what is useful for the reader to know",
+                "You give details of how your <strong>research </strong>was carried out. This shows the reader that you have carried out reliable research and that your argument is based on credible evidence.",
+                "You <strong>present </strong>the key information from your research. This should be organised logically, and should highlight information that is relevant to your argument.",
+                "You <strong>analyse </strong>and <strong>interpret </strong>the results of your research. You consider <strong>supporting and conflicting evidence</strong>, and show how it fits with the stated purpose of your report",
+                "You <strong>summarise </strong>the key findings of your report and show how these support your stated purpose. Make sure the reader can see that <strong>you have done what you set out to do</strong>, and has an idea what the<strong> next steps</strong> could be. You may include <strong>recommendations</strong>, or these may appear in a separate section."
+              ]
+            },
+            "rounding": "none"
+          },
+          "feedback_attempts": 3,
+          "shuffle_options": true
+        },
+        "metadata": {
+          "name": "Match list",
+          "template_reference": "1fa22aac-1f88-47f7-941b-3c77759549e6"
+        }
+      },
+      "feedbackInfo": [
+        null,
+        null
+      ]
+    }
+  ]
+}

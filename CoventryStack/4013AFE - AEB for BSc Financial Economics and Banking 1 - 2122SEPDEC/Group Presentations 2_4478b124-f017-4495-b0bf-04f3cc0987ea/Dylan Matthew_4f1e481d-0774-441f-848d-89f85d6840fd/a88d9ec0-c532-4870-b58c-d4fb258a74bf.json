@@ -1,0 +1,133 @@
+{
+  "userId": "4f1e481d-0774-441f-848d-89f85d6840fd",
+  "firstName": "Dylan Matthew",
+  "lastName": "Opara",
+  "assigmentId": "4478b124-f017-4495-b0bf-04f3cc0987ea",
+  "assigmentName": "Group Presentations 2",
+  "sessionId": "a88d9ec0-c532-4870-b58c-d4fb258a74bf",
+  "email": "oparad@coventry.ac.uk",
+  "spaceId": "668c4019-277b-4640-92c9-ecf302e5ae0e",
+  "spaceName": "4013AFE - AEB for BSc Financial Economics and Banking 1 - 2122SEPDEC",
+  "score": 0,
+  "max_score": 4,
+  "questions": [
+    {
+      "response_id": "a88d9ec0-c532-4870-b58c-d4fb258a74bf_67cb3f693239cbfd747d256ff004fc89",
+      "question_type": "classification",
+      "dt_score_updated": "2021-12-26T21:55:18Z",
+      "automarkable": true,
+      "attempted": false,
+      "score": null,
+      "max_score": 4,
+      "question_reference": "a3727634-a15d-4f73-a8ca-782cca4c5d41",
+      "item_reference": "6c02a47b-21b0-4139-b320-4c8a9da19605",
+      "response": null,
+      "questionInfo": {
+        "type": "classification",
+        "widget_type": "response",
+        "reference": "a3727634-a15d-4f73-a8ca-782cca4c5d41",
+        "data": {
+          "possible_responses": [
+            "Here are the main points I've covered today",
+            "Moving onto to my next point",
+            "My presentation is going to be divided into 3 sections",
+            "To sum up my main points",
+            "Now let's take a look at",
+            "Hello and welcome to this analysis of the pros and cons of online learning",
+            "That brings me to my next point",
+            "If you have any questions, I'd be happy to answer them",
+            "That's an interesting question",
+            "I'm glad you asked me that",
+            "Let's take a look back at what we've talked about today",
+            "The next issue we are going to look at is what can be done to ensure more recycling is done in the workplace",
+            "So, if you take one thing from this presentation today, think about what you, as an individual, can do to reduce your use of packaging",
+            "What I hope you'll get from today's session is a clearer idea of how to succeed in the world of business",
+            "Thank you for your question",
+            "Thank you for coming to this short talk in which I hope to show you how to live cheaply as a student in the UK",
+            "That brings me to the end of my analysis",
+            "By the end of today's talk, you'll understand the benefits of studying online",
+            "I'll find out. Can I get back to you on that?",
+            "Let's start by looking at the most popular options"
+          ],
+          "stimulus": "Put these signposting phrases in the correct section of a presentation",
+          "type": "classification",
+          "ui_style": {
+            "column_count": 4,
+            "column_titles": [
+              "Introduction",
+              "Main body",
+              "Conclusion",
+              "Questions and Answers"
+            ]
+          },
+          "validation": {
+            "scoring_type": "partialMatch",
+            "valid_response": {
+              "score": 1,
+              "value": [
+                [
+                  2,
+                  5,
+                  13,
+                  17
+                ],
+                [
+                  1,
+                  4,
+                  6,
+                  11,
+                  15,
+                  16,
+                  19
+                ],
+                [
+                  0,
+                  3,
+                  10,
+                  12
+                ],
+                [
+                  7,
+                  9,
+                  14,
+                  18,
+                  8
+                ]
+              ]
+            },
+            "alt_responses": [
+              {
+                "score": 1,
+                "value": [
+                  [],
+                  [],
+                  [],
+                  []
+                ]
+              },
+              {
+                "score": 1,
+                "value": [
+                  [],
+                  [],
+                  [],
+                  []
+                ]
+              }
+            ]
+          },
+          "shuffle_options": true,
+          "instant_feedback": true
+        },
+        "metadata": {
+          "name": "Classification",
+          "template_reference": "ef2648de-f826-4674-b17d-71e71889d8e6"
+        }
+      },
+      "feedbackInfo": [
+        null,
+        null
+      ]
+    }
+  ]
+}

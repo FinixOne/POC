@@ -1,0 +1,330 @@
+{
+  "userId": "1fcf1196-6acc-4f41-9c70-36d187cd88e3",
+  "firstName": "Adam",
+  "lastName": "Matloub",
+  "assigmentId": "06d7fc62-de75-4b4c-999c-4abb94f0b35d",
+  "assigmentName": "Article Summary",
+  "sessionId": "d6ee11a1-4bb7-477b-8220-3b7993f898d8",
+  "email": "matlouba@coventry.ac.uk",
+  "spaceId": "54572b50-c067-4efa-9cfd-3b761bdd8b02",
+  "spaceName": "4009AFE - AEB for BA International Finance and Accounting 1 - 2122SEPDEC",
+  "score": 0,
+  "max_score": 7,
+  "questions": [
+    {
+      "response_id": "d6ee11a1-4bb7-477b-8220-3b7993f898d8_4384dd2f1c2df0b6e1f22d41dbc1a3d5",
+      "question_type": "clozedropdown",
+      "dt_score_updated": "2021-10-15T07:16:20Z",
+      "automarkable": false,
+      "attempted": true,
+      "score": null,
+      "max_score": null,
+      "question_reference": "aceee243-2b96-4b29-aa84-2b7f231d1c17",
+      "item_reference": "bdee3b87-e9e5-48dd-a87e-bc39bde5a73f",
+      "response": {
+        "value": [
+          "accurately",
+          "longer",
+          "shorter",
+          "paraphrase",
+          "concisely",
+          "ideas",
+          "words",
+          "reference",
+          "analyse"
+        ],
+        "type": "array",
+        "apiVersion": "v2.168.11",
+        "revision": 8
+      },
+      "questionInfo": {
+        "type": "clozedropdown",
+        "widget_type": "response",
+        "reference": "aceee243-2b96-4b29-aa84-2b7f231d1c17",
+        "data": {
+          "possible_responses": [
+            [
+              "accurately",
+              "concisely"
+            ],
+            [
+              "longer",
+              "shorter"
+            ],
+            [
+              "longer",
+              "shorter"
+            ],
+            [
+              "analyse",
+              "paraphrase",
+              "reference"
+            ],
+            [
+              "accurately",
+              "concisely"
+            ],
+            [
+              "ideas",
+              "words"
+            ],
+            [
+              "ideas",
+              "words"
+            ],
+            [
+              "analyse",
+              "paraphrase",
+              "reference"
+            ],
+            [
+              "analyse",
+              "paraphrase",
+              "reference"
+            ]
+          ],
+          "response_container": {
+            "pointer": "left"
+          },
+          "stimulus": "<strong>1. Choose the correct word to fill the gaps in the text below</strong>",
+          "template": "A summary is a piece of writing, which {{response}}presents the key information from a {{response}}text. This means that the summary is always significantly {{response}}than the original. When you summarise, you do not need to {{response}}the original text, but you do need to convey the main ideas {{response}}. However, although your summary should contain the original author's {{response}}, it should not contain the original author's {{response}}! To avoid plagiarism, you need to {{response}}effectively (keep the ideas the same while using your own words)&nbsp;and of course, you must {{response}}your source.",
+          "type": "clozedropdown",
+          "case_sensitive": true,
+          "validation": {
+            "scoring_type": "exactMatch",
+            "valid_response": {
+              "score": 9,
+              "value": [
+                "concisely",
+                "longer",
+                "shorter",
+                "analyse",
+                "accurately",
+                "ideas",
+                "words",
+                "paraphrase",
+                "reference"
+              ]
+            }
+          },
+          "shuffle_options": true
+        },
+        "metadata": {
+          "name": "Cloze with drop down",
+          "template_reference": "2fbba51b-e35e-441f-83c7-2662e2e81fa6"
+        }
+      },
+      "feedbackInfo": [
+        null,
+        null
+      ]
+    },
+    {
+      "response_id": "d6ee11a1-4bb7-477b-8220-3b7993f898d8_1ef6e6fec6a84737b0f92bbb9b530602",
+      "question_type": "sortlist",
+      "dt_score_updated": "2021-10-15T07:18:00Z",
+      "automarkable": true,
+      "attempted": true,
+      "score": 0,
+      "max_score": 5,
+      "question_reference": "9c1d2ceb-2bd1-4a96-8db8-f140a528b027",
+      "item_reference": "bdee3b87-e9e5-48dd-a87e-bc39bde5a73f",
+      "response": {
+        "value": [
+          null,
+          null,
+          null,
+          null,
+          null
+        ],
+        "source": [
+          3,
+          4,
+          2,
+          1,
+          0
+        ],
+        "type": "array",
+        "apiVersion": "v2.168.11",
+        "revision": 2
+      },
+      "questionInfo": {
+        "type": "sortlist",
+        "widget_type": "response",
+        "reference": "9c1d2ceb-2bd1-4a96-8db8-f140a528b027",
+        "data": {
+          "list": [
+            "<strong>Read the text</strong> to ensure a thorough understanding",
+            "Analyse how the author has<strong>&nbsp;</strong>organised information and<strong> identify different sections</strong>",
+            "<strong>Identify key information</strong> from each section",
+            "<strong>Write the summary</strong>",
+            "<strong>Check </strong>that your summary accurately presents all key information and is paraphrased effectively"
+          ],
+          "stimulus": "<strong>2. Put the stages of summary writing into the correct order</strong>",
+          "type": "sortlist",
+          "validation": {
+            "scoring_type": "exactMatch",
+            "valid_response": {
+              "score": 5,
+              "value": [
+                0,
+                1,
+                2,
+                3,
+                4
+              ]
+            }
+          },
+          "shuffle_options": true
+        },
+        "metadata": {
+          "name": "Sort list",
+          "template_reference": "63891006-450a-4ffe-9876-74d62efa0152"
+        }
+      },
+      "feedbackInfo": [
+        null,
+        null
+      ]
+    },
+    {
+      "response_id": "d6ee11a1-4bb7-477b-8220-3b7993f898d8_8c80c63b805ef7b761e24a72215cb044",
+      "question_type": "association",
+      "dt_score_updated": "2021-10-15T07:18:40Z",
+      "automarkable": true,
+      "attempted": true,
+      "score": 0,
+      "max_score": 1,
+      "question_reference": "51314e4c-f7e6-4f3c-9a6e-1f531f3259f1",
+      "item_reference": "bdee3b87-e9e5-48dd-a87e-bc39bde5a73f",
+      "response": {
+        "value": [
+          "Go through the text in detail. Highlight important information and make notes",
+          "Check you have understood key ideas by going back and re-reading important or difficult sections",
+          "Very quickly look through the text to get an idea of the topic, the structure and the purpose"
+        ],
+        "type": "array",
+        "updatedFormat": true,
+        "apiVersion": "v2.168.11",
+        "revision": 3
+      },
+      "questionInfo": {
+        "type": "association",
+        "widget_type": "response",
+        "reference": "51314e4c-f7e6-4f3c-9a6e-1f531f3259f1",
+        "data": {
+          "stimulus": "<strong>3. Below are the three suggested stages for effective reading of academic text. Match the stage with the definition.</strong>",
+          "stimulus_list": [
+            "Scan",
+            "Read",
+            "Skim"
+          ],
+          "type": "association",
+          "validation": {
+            "scoring_type": "exactMatch",
+            "valid_response": {
+              "score": 1,
+              "value": [
+                "Very quickly look through the text to get an idea of the topic, the structure and the purpose",
+                "Go through the text in detail. Highlight important information and make notes",
+                "Check you have understood key ideas by going back and re-reading important or difficult sections"
+              ]
+            }
+          },
+          "shuffle_options": true,
+          "possible_responses": [
+            "Very quickly look through the text to get an idea of the topic, the structure and the purpose",
+            "Go through the text in detail. Highlight important information and make notes",
+            "Check you have understood key ideas by going back and re-reading important or difficult sections"
+          ]
+        },
+        "metadata": {
+          "name": "Match list",
+          "template_reference": "1fa22aac-1f88-47f7-941b-3c77759549e6"
+        }
+      },
+      "feedbackInfo": [
+        null,
+        null
+      ]
+    },
+    {
+      "response_id": "d6ee11a1-4bb7-477b-8220-3b7993f898d8_1ac89982f6b52487f1f82f833616f1cc",
+      "question_type": "clozeassociation",
+      "dt_score_updated": "2021-10-15T07:19:56Z",
+      "automarkable": true,
+      "attempted": true,
+      "score": 0,
+      "max_score": 1,
+      "question_reference": "dd6164bf-91fe-4ad3-8b8b-6dc67f4f96bf",
+      "item_reference": "bdee3b87-e9e5-48dd-a87e-bc39bde5a73f",
+      "response": {
+        "value": [
+          "introduction",
+          "table of contents",
+          "headings",
+          "subheadings",
+          "topic sentence",
+          "methods",
+          "results",
+          "abstract",
+          "conclusion"
+        ],
+        "type": "array",
+        "apiVersion": "v2.168.11",
+        "revision": 9
+      },
+      "questionInfo": {
+        "type": "clozeassociation",
+        "widget_type": "response",
+        "reference": "dd6164bf-91fe-4ad3-8b8b-6dc67f4f96bf",
+        "data": {
+          "possible_responses": [
+            "abstract",
+            "table of contents",
+            "headings",
+            "subheadings",
+            "introduction",
+            "conclusion",
+            "methods",
+            "results",
+            "topic sentence"
+          ],
+          "response_container": {
+            "pointer": "left"
+          },
+          "stimulus": "<strong>4. Academic texts share certain features which can help you to locate key ideas quickly before reading in more detail. Read the text below and decide which feature is being described</strong>",
+          "template": "<p>1. If you are reading an academic article, it is usually preceded by an&nbsp;{{response}}. This is the author's own summary and shows what the text will discuss. You may also find a {{response}}, which gives an overview of different sections</p>\n\n<p>2. Articles often have {{response}}&nbsp;and {{response}}, which give a general idea about the contents of each section. If these are not used, you can look at the&nbsp;{{response}}. This is usually the first sentence in a paragraph and it briefly describes what the paragraph is about</p>\n\n<p>3. The&nbsp;{{response}}&nbsp;outlines what the writer aims to do, while the {{response}}&nbsp;summarises the outcome of their research. You can read these first before going back to look at the evidence</p>\n\n<p>4. Finally, understanding the structures of different kinds of academic writing can also help you locate information quickly. For example, many research articles follow the structure: Introduction/{{response}}/{{response}}/Discussion &amp; Conclusion​​​​​​​</p>\n",
+          "type": "clozeassociation",
+          "case_sensitive": true,
+          "validation": {
+            "scoring_type": "exactMatch",
+            "valid_response": {
+              "score": 1,
+              "value": [
+                "abstract",
+                "table of contents",
+                "headings",
+                "subheadings",
+                "topic sentence",
+                "introduction",
+                "conclusion",
+                "methods",
+                "results"
+              ]
+            }
+          },
+          "shuffle_options": true
+        },
+        "metadata": {
+          "name": "Cloze with drag & drop",
+          "template_reference": "51a8c1e7-f34f-4faf-b211-da458e891fcb"
+        }
+      },
+      "feedbackInfo": [
+        null,
+        null
+      ]
+    }
+  ]
+}

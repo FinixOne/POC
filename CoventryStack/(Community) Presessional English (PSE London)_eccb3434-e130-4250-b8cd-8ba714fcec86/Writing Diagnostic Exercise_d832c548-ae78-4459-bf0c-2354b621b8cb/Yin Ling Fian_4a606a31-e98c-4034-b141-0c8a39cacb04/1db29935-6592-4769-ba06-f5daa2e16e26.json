@@ -1,0 +1,116 @@
+{
+  "userId": "4a606a31-e98c-4034-b141-0c8a39cacb04",
+  "firstName": "Yin Ling Fian",
+  "lastName": "Chan",
+  "assigmentId": "d832c548-ae78-4459-bf0c-2354b621b8cb",
+  "assigmentName": "Writing Diagnostic Exercise",
+  "sessionId": "1db29935-6592-4769-ba06-f5daa2e16e26",
+  "email": "chany186@coventry.ac.uk",
+  "spaceId": "eccb3434-e130-4250-b8cd-8ba714fcec86",
+  "spaceName": "(Community) Presessional English (PSE London)",
+  "score": 29,
+  "max_score": 40,
+  "questions": [
+    {
+      "response_id": "1db29935-6592-4769-ba06-f5daa2e16e26_29a59873d64e3761ccb0d29ecca16973",
+      "question_type": "longtextV2",
+      "dt_score_updated": "2023-07-12T14:27:21Z",
+      "automarkable": false,
+      "attempted": true,
+      "score": 29,
+      "max_score": 40,
+      "question_reference": "8ce3bee1-48e8-4baa-b2e3-5bf8083389e0",
+      "item_reference": "570ff370-fde4-49bc-959d-b91c3099b1d6",
+      "response": {
+        "value": "<p>The aim of this report is to investigate of two most popular transportations are widely used by students of bike or train. The essay will divide by two main pasts. Firstly, the report will be discussed about those two main transportation of advantages and disadvantages to students. Secondly, suggesting the recommendations to the university enhances those public facilities to be more convenience. </p><p>Most Popular transport of Bike, the benefits of using the bike is good for the environment as bike does not produce the fuel for running the bike moving forward, therefore, the physical movement for reaching the bike to move that can be provide the exercise to students and improve theirs healthy. In additional, bike don’t need to pay the ticket to go whatever the destination is it. While there are other disadvantages to opposite to the bike, unsafe place for bikes packing and slow speed heading to destination are limited the individuals to use the bike as road transport. Moreover, after the cycling to the school, students need to be changed the clothes after that probably waste of time to prepare your grooming before going to attend to the lecture. &nbsp;<br></p><p>Second Most popular transport of train, the contrastive idea for using the train is good for environment. The individuals are using the higher capacity of carrying the plenty of passengers to head to same direction that will be reduced the lower amount of emission of fuel. Moreover, the quick speed and the train station near the school are beneficial reasons to create more flexible to them. While the opposing voice to claim that the train tickets are expensive for every journey which is not every student can be offered traveling every day. Moreover, the trains would be delayed or cancelled by some reasons without any notices sometimes, it could be impacted the personal schedule. On the other hand, if taking the train in rush hour time, the carriage should be packed and crowded. </p><p>In the recommendations to improve the better facilities to bike and train to create the more convenient o students. For the bike, we suggest to offer the safe place for bikes to pack in the school and changing room to students to get change their sweaty clothes easily. In the Train, to avoid rush hour, school can be started the lessons later to provide more flexible timetable to students. </p><p><br></p>",
+        "wordCount": 394,
+        "type": "string",
+        "apiVersion": "v2.177.28",
+        "revision": 23
+      },
+      "manual_score": null,
+      "max_manual_score": null,
+      "questionInfo": {
+        "type": "longtextV2",
+        "widget_type": "response",
+        "reference": "8ce3bee1-48e8-4baa-b2e3-5bf8083389e0",
+        "data": {
+          "stimulus": "<h2 id=\"yui_3_17_2_1_1628703407776_1784\"><span style=\"color:#0000ff;\"><b id=\"yui_3_17_2_1_1628703407776_2039\">You are going to write a report for your University. </b></span></h2>\n\n<h4><b>You should…</b></h4>\n\n<ul id=\"yui_3_17_2_1_1628703407776_2050\">\n\t<li><span style=\"font-size:1.3em;\">Write about the&nbsp;TWO&nbsp;most popular means of transportation used by students</span></li>\n\t<li><span style=\"font-size:1.3em;\">Discuss the advantages&nbsp;AND&nbsp;disadvantages</span></li>\n\t<li><span style=\"font-size:1.3em;\">Make some recommendations to the university</span></li>\n</ul>\n\n<h5 id=\"yui_3_17_2_1_1628703407776_2051\">&nbsp;</h5>\n\n<h4 id=\"yui_3_17_2_1_1628703407776_2055\"><b id=\"yui_3_17_2_1_1628703407776_2057\">Analyse the information in the table below:</b></h4>\n\n<p><img height=\"285\" src=\"https://assets.learnosity.com/organisations/755/501dfa12-1cf8-4ced-a6ab-aa6ba44e3379.JPG\" width=\"701\" /></p>\n\n<p><img height=\"259\" src=\"https://assets.learnosity.com/organisations/755/2bc31a90-4e37-4aed-8f9c-b1924cc4ec71.JPG\" width=\"699\" /></p>\n\n<h4>&nbsp;</h4>\n\n<h4><span style=\"color:#0000ff;\"><b>Write your report using&nbsp; ALL&nbsp;the information in the table.</b></span></h4>\n\n<h4><span style=\"color:#ff0000;\"><b><u>Write COMPLETE sentences.&nbsp;Do NOT use bullet points.</u></b></span></h4>\n\n<h4><b style=\"\">Use at least&nbsp;ONE&nbsp;of <u>your own ideas</u>&nbsp;</b><b style=\"\">in the recommendations section.</b></h4>\n\n<h4>&nbsp;</h4>\n\n<h4><b>Follow the&nbsp;report structure&nbsp;you can see below:</b></h4>\n\n<p>&nbsp;</p>\n\n<p><img height=\"523\" src=\"https://assets.learnosity.com/organisations/755/2694fd52-288e-4118-90cd-de27f223d78a.JPG\" width=\"400\" /></p>\n\n<h4>&nbsp;</h4>\n\n<h4><b>Write your report in the box below.&nbsp;Start with:&nbsp;</b></h4>\n\n<p><span style=\"font-size:1.3em;\"><i>The aim of this report is to ...</i></span></p>\n",
+          "type": "longtextV2",
+          "formatting_options": [
+            "bold",
+            "italic",
+            "underline",
+            "|",
+            "unorderedList",
+            "orderedList",
+            "redo"
+          ],
+          "validation": {
+            "max_score": 40
+          }
+        },
+        "metadata": {
+          "name": "Essay with rich text",
+          "template_reference": "1e6039f8-0676-495d-aca9-108710a51ce5"
+        }
+      },
+      "feedbackInfo": [
+        {
+          "id": "0707_4a606a31-e98c-4034-b141-0c8a39cacb04_1db29935-6592-4769-ba06-f5daa2e16e26_a75cbcd553b42b19e80a5411d7639fa1",
+          "user_id": "4a606a31-e98c-4034-b141-0c8a39cacb04",
+          "response_id": "1db29935-6592-4769-ba06-f5daa2e16e26_a75cbcd553b42b19e80a5411d7639fa1",
+          "type": "longtextV2",
+          "question": {
+            "type": "longtextV2",
+            "metadata": {
+              "source": {
+                "organisation_id": 755
+              },
+              "sheet_reference": "default_feedback",
+              "widget_reference": "de082b5f-742a-4ecf-82ca-4dc86e218fec",
+              "valid_response_count": 0
+            },
+            "stimulus": "Written feedback:",
+            "response_id": "1db29935-6592-4769-ba06-f5daa2e16e26_a75cbcd553b42b19e80a5411d7639fa1",
+            "show_word_count": false,
+            "show_word_limit": "off"
+          },
+          "response": null,
+          "creation_date": "2023-07-11 13:33:33",
+          "mod_date": "2023-07-12 14:27:11",
+          "persist_until": "2026-07-10 13:33:33",
+          "saved": true
+        },
+        {
+          "id": "0707_4a606a31-e98c-4034-b141-0c8a39cacb04_1db29935-6592-4769-ba06-f5daa2e16e26_a8e87dbbe9381a23e0b66df85d26334d",
+          "user_id": "4a606a31-e98c-4034-b141-0c8a39cacb04",
+          "response_id": "1db29935-6592-4769-ba06-f5daa2e16e26_a8e87dbbe9381a23e0b66df85d26334d",
+          "type": "audio",
+          "question": {
+            "type": "audio",
+            "metadata": {
+              "source": {
+                "organisation_id": 755
+              },
+              "sheet_reference": "default_feedback",
+              "widget_reference": "b2f049b4-bb33-4542-993d-0645ffedda1a",
+              "valid_response_count": 0
+            },
+            "stimulus": "Audio feedback:",
+            "ui_style": {
+              "type": "button"
+            },
+            "max_length": 600,
+            "response_id": "1db29935-6592-4769-ba06-f5daa2e16e26_a8e87dbbe9381a23e0b66df85d26334d"
+          },
+          "response": null,
+          "creation_date": "2023-07-11 13:33:33",
+          "mod_date": "2023-07-12 14:27:11",
+          "persist_until": "2026-07-10 13:33:33",
+          "saved": true
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,866 @@
+{
+  "userId": "dbaeb7c5-3ea0-4103-b7df-d14c8d6e1d8d",
+  "firstName": "Yahui",
+  "lastName": "Chen",
+  "assigmentId": "6a611db5-9b3c-4e02-9b25-33655cd8a13c",
+  "assigmentName": "Introductions, Conclusions and Recommendations ",
+  "sessionId": "99214c37-0bce-4298-936d-5ffac3017577",
+  "email": "cheny305@coventry.ac.uk",
+  "spaceId": "eccb3434-e130-4250-b8cd-8ba714fcec86",
+  "spaceName": "(Community) Presessional English (PSE London)",
+  "score": 50,
+  "max_score": 50,
+  "questions": [
+    {
+      "response_id": "99214c37-0bce-4298-936d-5ffac3017577_b96934ab29b828ee0e7e806efeece3e5",
+      "question_type": "mcq",
+      "dt_score_updated": "2021-11-23T06:49:33Z",
+      "automarkable": true,
+      "attempted": true,
+      "score": 1,
+      "max_score": 1,
+      "question_reference": "bbe5ac93-366a-470d-90ec-71e6874c2be7",
+      "item_reference": "22a0be01-d43b-41a2-b2fa-594ec949a8a0",
+      "response": {
+        "value": [
+          "0"
+        ],
+        "type": "array",
+        "apiVersion": "v2.168.13",
+        "revision": 1
+      },
+      "questionInfo": {
+        "type": "mcq",
+        "widget_type": "response",
+        "reference": "bbe5ac93-366a-470d-90ec-71e6874c2be7",
+        "data": {
+          "options": [
+            {
+              "label": "1% of the total word count",
+              "value": "1"
+            },
+            {
+              "label": "10% of total word count",
+              "value": "0"
+            },
+            {
+              "label": "50% of the total word count",
+              "value": "2"
+            }
+          ],
+          "stimulus": "<h2><b id=\"yui_3_17_2_1_1627828825604_5348\">Let's start by reviewing some basic information about the&nbsp;<span style=\"color:#008000;\"><u id=\"yui_3_17_2_1_1627828825604_5350\">Introduction</u>&nbsp;</span>section.</b></h2>\n\n<p><img height=\"251\" src=\"https://assets.learnosity.com/organisations/755/34f624be-2380-482c-9186-498dd9aba5f8.png\" width=\"400\"></p>\n\n<p>&nbsp;</p>\n\n<div class=\"lrn-well\" id=\"yui_3_17_2_1_1627828825604_5424\"><span style=\"font-size:1.3em;\"><b id=\"yui_3_17_2_1_1627828825604_5422\">1. How long do you think you introduction should be?</b></span></div>\n",
+          "type": "mcq",
+          "validation": {
+            "scoring_type": "exactMatch",
+            "valid_response": {
+              "score": 1,
+              "value": [
+                "0"
+              ]
+            }
+          },
+          "ui_style": {
+            "type": "horizontal"
+          },
+          "instant_feedback": true
+        },
+        "metadata": {
+          "name": "Multiple choice – standard",
+          "template_reference": "9e8149bd-e4d8-4dd6-a751-1a113a4b9163"
+        }
+      },
+      "feedbackInfo": [
+        null,
+        null
+      ]
+    },
+    {
+      "response_id": "99214c37-0bce-4298-936d-5ffac3017577_b6bc7ec18796c4f8f5dcf3da2636f070",
+      "question_type": "mcq",
+      "dt_score_updated": "2021-11-23T06:49:58Z",
+      "automarkable": true,
+      "attempted": true,
+      "score": 1,
+      "max_score": 1,
+      "question_reference": "a9646066-de99-42cc-ac97-bf7d1badbb11",
+      "item_reference": "22a0be01-d43b-41a2-b2fa-594ec949a8a0",
+      "response": {
+        "value": [
+          "2"
+        ],
+        "type": "array",
+        "apiVersion": "v2.168.13",
+        "revision": 1,
+        "feedbackAttemptsCount": 1
+      },
+      "questionInfo": {
+        "type": "mcq",
+        "widget_type": "response",
+        "reference": "a9646066-de99-42cc-ac97-bf7d1badbb11",
+        "data": {
+          "options": [
+            {
+              "label": "Before you write the main body",
+              "value": "0"
+            },
+            {
+              "label": "When you are half way through your assignment",
+              "value": "1"
+            },
+            {
+              "label": "When you finish the main body",
+              "value": "2"
+            }
+          ],
+          "stimulus": "<div class=\"lrn-well\"><span style=\"font-size:1.3em;\"><b>2. You should write the introduction...</b></span></div>\n",
+          "type": "mcq",
+          "validation": {
+            "scoring_type": "exactMatch",
+            "valid_response": {
+              "score": 1,
+              "value": [
+                "2"
+              ]
+            }
+          },
+          "ui_style": {
+            "type": "horizontal"
+          },
+          "instant_feedback": true,
+          "shuffle_options": true
+        },
+        "metadata": {
+          "name": "Multiple choice – standard",
+          "template_reference": "9e8149bd-e4d8-4dd6-a751-1a113a4b9163"
+        }
+      },
+      "feedbackInfo": [
+        null,
+        null
+      ]
+    },
+    {
+      "response_id": "99214c37-0bce-4298-936d-5ffac3017577_4540c02a4a9dc5f7cf53cf15de7533db",
+      "question_type": "mcq",
+      "dt_score_updated": "2021-11-23T06:50:03Z",
+      "automarkable": true,
+      "attempted": true,
+      "score": 1,
+      "max_score": 1,
+      "question_reference": "d65f9d53-fdb5-436f-9763-db973fc0a939",
+      "item_reference": "22a0be01-d43b-41a2-b2fa-594ec949a8a0",
+      "response": {
+        "value": [
+          "0"
+        ],
+        "type": "array",
+        "apiVersion": "v2.168.13",
+        "revision": 1,
+        "feedbackAttemptsCount": 1
+      },
+      "questionInfo": {
+        "type": "mcq",
+        "widget_type": "response",
+        "reference": "d65f9d53-fdb5-436f-9763-db973fc0a939",
+        "data": {
+          "options": [
+            {
+              "label": "formal and academic",
+              "value": "0"
+            },
+            {
+              "label": "provocative and interesting",
+              "value": "1"
+            },
+            {
+              "label": "informal and friendly",
+              "value": "2"
+            }
+          ],
+          "stimulus": "<div class=\"lrn-well\"><span style=\"font-size:1.3em;\"><b>3. The style should be...</b></span></div>\n",
+          "type": "mcq",
+          "validation": {
+            "scoring_type": "exactMatch",
+            "valid_response": {
+              "score": 1,
+              "value": [
+                "0"
+              ]
+            }
+          },
+          "ui_style": {
+            "type": "horizontal"
+          },
+          "instant_feedback": true,
+          "shuffle_options": true
+        },
+        "metadata": {
+          "name": "Multiple choice – standard",
+          "template_reference": "9e8149bd-e4d8-4dd6-a751-1a113a4b9163"
+        }
+      },
+      "feedbackInfo": [
+        null,
+        null
+      ]
+    },
+    {
+      "response_id": "99214c37-0bce-4298-936d-5ffac3017577_77c98e9d6c85210bfdba8af15c1f722a",
+      "question_type": "clozedropdown",
+      "dt_score_updated": "2021-11-23T06:53:24Z",
+      "automarkable": true,
+      "attempted": true,
+      "score": 6,
+      "max_score": 6,
+      "question_reference": "9554394a-9c48-4893-96b7-364ab6098e5b",
+      "item_reference": "4d421a85-1790-4c90-8cf5-5424e7eeb470",
+      "response": {
+        "value": [
+          "Yes",
+          "Yes",
+          "No",
+          "Yes",
+          "No",
+          "Yes"
+        ],
+        "type": "array",
+        "apiVersion": "v2.168.13",
+        "revision": 2,
+        "feedbackAttemptsCount": 2
+      },
+      "questionInfo": {
+        "type": "clozedropdown",
+        "widget_type": "response",
+        "reference": "9554394a-9c48-4893-96b7-364ab6098e5b",
+        "data": {
+          "possible_responses": [
+            [
+              "Yes",
+              "No"
+            ],
+            [
+              "Yes",
+              "No"
+            ],
+            [
+              "Yes",
+              "No"
+            ],
+            [
+              "Yes",
+              "No"
+            ],
+            [
+              "Yes",
+              "No"
+            ],
+            [
+              "Yes",
+              "No"
+            ]
+          ],
+          "response_container": {
+            "pointer": "left"
+          },
+          "stimulus": "<h2><b>What should you include in the&nbsp;<span style=\"color:#0000ff;\"><u>Introduction</u>&nbsp;</span>of your report?</b></h2>\n\n<h4><b><b>► Select&nbsp;<span style=\"color:#008000;\"><u>Yes</u></span>&nbsp;or&nbsp;<span style=\"color:#ff0000;\"><u>No</u>&nbsp;</span>from the drop down.</b></b></h4>\n\n<p><img height=\"167\" src=\"https://assets.learnosity.com/organisations/755/4aa41186-a61d-4dc0-8123-c85ed6ad4795.png\" width=\"300\"></p>\n",
+          "template": "<ul>\n\t<li><span style=\"font-size:1.3em;\">Your aim or purpose in writing&nbsp;{{response}}</span></li>\n\t<li><span style=\"font-size:1.3em;\">The specific topic and time frame that the report covers&nbsp;{{response}}</span></li>\n\t<li><span style=\"font-size:1.3em;\">The conclusions you reached on the topic&nbsp;{{response}}</span></li>\n\t<li><span style=\"font-size:1.3em;\">The methods you adopt to research the topic&nbsp;{{response}}</span></li>\n\t<li><span style=\"font-size:1.3em;\">The results of the survey&nbsp;{{response}}</span></li>\n\t<li><span style=\"font-size:1.3em;\">An outline of what you will talk about in the report&nbsp;{{response}}</span></li>\n</ul>\n",
+          "type": "clozedropdown",
+          "case_sensitive": true,
+          "validation": {
+            "scoring_type": "exactMatch",
+            "valid_response": {
+              "score": 6,
+              "value": [
+                "Yes",
+                "Yes",
+                "No",
+                "Yes",
+                "No",
+                "Yes"
+              ]
+            }
+          },
+          "instant_feedback": true
+        },
+        "metadata": {
+          "name": "Cloze with drop down",
+          "template_reference": "2fbba51b-e35e-441f-83c7-2662e2e81fa6"
+        }
+      },
+      "feedbackInfo": [
+        null,
+        null
+      ]
+    },
+    {
+      "response_id": "99214c37-0bce-4298-936d-5ffac3017577_df2a24c139cf72c8f2bbf01e2b053c89",
+      "question_type": "clozeassociation",
+      "dt_score_updated": "2021-11-23T06:57:30Z",
+      "automarkable": true,
+      "attempted": true,
+      "score": 4,
+      "max_score": 4,
+      "question_reference": "630a07d4-7614-4a12-b96f-68aafab5c2d4",
+      "item_reference": "4d421a85-1790-4c90-8cf5-5424e7eeb470",
+      "response": {
+        "value": [
+          "Aim / Purpose",
+          "Topic and time frame&nbsp;",
+          "Methods",
+          "Outline of report"
+        ],
+        "type": "array",
+        "apiVersion": "v2.168.13",
+        "revision": 8,
+        "feedbackAttemptsCount": 4
+      },
+      "questionInfo": {
+        "type": "clozeassociation",
+        "widget_type": "response",
+        "reference": "630a07d4-7614-4a12-b96f-68aafab5c2d4",
+        "data": {
+          "possible_responses": [
+            "Aim / Purpose",
+            "Topic and time frame&nbsp;",
+            "Methods",
+            "Outline of report",
+            "Conclusions",
+            "Survey results"
+          ],
+          "response_container": {
+            "pointer": "left"
+          },
+          "stimulus": "<h4>&nbsp;</h4>\n\n<h2><b>Read the Introduction below carefully.&nbsp;Label the different parts.</b></h2>\n\n<p><img height=\"152\" src=\"https://assets.learnosity.com/organisations/755/d017578d-7497-446d-93cf-cfc6fc2089b0.png\" width=\"401\" /></p>\n",
+          "template": "<table class=\"table table-bordered table-condensed table-striped lrn_width_auto\">\n\t<tbody>\n\t\t<tr>\n\t\t\t<td>\n\t\t\t<h4 id=\"yui_3_17_2_1_1627829322996_146\"><b id=\"yui_3_17_2_1_1627829322996_145\">INTRODUCTION</b></h4>\n\n\t\t\t<p id=\"yui_3_17_2_1_1627829322996_139\"><br />\n\t\t\t<span style=\"font-size:1.1em;\">The goal of the present report is to identify and justify which HR practices in the United States can be adopted by our company, and at the same time, contribute to the discussion on why some firms are more innovative than others.&nbsp;</span></p>\n\t\t\t</td>\n\t\t\t<td>\n\t\t\t<p><span style=\"font-size:1em;\">{{response}}</span></p>\n\t\t\t</td>\n\t\t</tr>\n\t\t<tr>\n\t\t\t<td>\n\t\t\t<p id=\"yui_3_17_2_1_1627829322996_147\"><span style=\"font-size:1.1em;\">Three dimensions of modern HR practices are considered in this report: service, quality and price. This study will focus on HR practices in American media business between 1995 and 2015, since with more recent examples an accurate assessment of the consequences cannot yet be made.&nbsp;</span></p>\n\t\t\t</td>\n\t\t\t<td>\n\t\t\t<p><span style=\"font-size:1em;\">{{response}}</span></p>\n\t\t\t</td>\n\t\t</tr>\n\t\t<tr>\n\t\t\t<td>\n\t\t\t<p id=\"yui_3_17_2_1_1627829322996_148\"><span style=\"font-size:1.1em;\">A SWOT analysis was conducted and the standard methods used in American companies were analysed. Focus groups were organised to investigate the habits and preferences of our staff and our customers.</span></p>\n\t\t\t</td>\n\t\t\t<td>\n\t\t\t<p><span style=\"font-size:1em;\">{{response}}</span></p>\n\t\t\t</td>\n\t\t</tr>\n\t\t<tr>\n\t\t\t<td>\n\t\t\t<p id=\"yui_3_17_2_1_1627829322996_144\"><span style=\"font-size:1.1em;\">The report is organised as follows: The second section explains why HR practices are important for competitive strategy. The third section presents the model specification and describes the data and variables used in our analysis. The fourth section reports and discusses the results. The fifth section concludes.</span></p>\n\t\t\t</td>\n\t\t\t<td><span style=\"font-size:1em;\">{{response}}</span></td>\n\t\t</tr>\n\t</tbody>\n</table>\n\n<p><span style=\"color:#b22222;\"><b>(there are some extra options that you don't need)</b></span></p>\n",
+          "type": "clozeassociation",
+          "case_sensitive": true,
+          "validation": {
+            "scoring_type": "partialMatchV2",
+            "valid_response": {
+              "score": 4,
+              "value": [
+                "Aim / Purpose",
+                "Topic and time frame&nbsp;",
+                "Methods",
+                "Outline of report"
+              ]
+            }
+          },
+          "instant_feedback": true,
+          "shuffle_options": true
+        },
+        "metadata": {
+          "name": "Cloze with drag & drop",
+          "template_reference": "51a8c1e7-f34f-4faf-b211-da458e891fcb"
+        }
+      },
+      "feedbackInfo": [
+        null,
+        null
+      ]
+    },
+    {
+      "response_id": "99214c37-0bce-4298-936d-5ffac3017577_0082cdb83896d7b8446960927648043b",
+      "question_type": "clozedropdown",
+      "dt_score_updated": "2021-11-23T06:58:35Z",
+      "automarkable": true,
+      "attempted": true,
+      "score": 5,
+      "max_score": 5,
+      "question_reference": "f4d7110c-ddf2-400b-b7c0-0fcc162c1f51",
+      "item_reference": "d10246b3-b75c-43b2-8067-ee7aa3b3ed6b",
+      "response": {
+        "value": [
+          "Yes",
+          "No",
+          "No",
+          "Yes",
+          "Yes"
+        ],
+        "type": "array",
+        "apiVersion": "v2.168.13",
+        "revision": 1,
+        "feedbackAttemptsCount": 2
+      },
+      "questionInfo": {
+        "type": "clozedropdown",
+        "widget_type": "response",
+        "reference": "f4d7110c-ddf2-400b-b7c0-0fcc162c1f51",
+        "data": {
+          "possible_responses": [
+            [
+              "Yes",
+              "No"
+            ],
+            [
+              "Yes",
+              "No"
+            ],
+            [
+              "Yes",
+              "No"
+            ],
+            [
+              "Yes",
+              "No"
+            ],
+            [
+              "Yes",
+              "No"
+            ]
+          ],
+          "response_container": {
+            "pointer": "left"
+          },
+          "stimulus": "<h2><b>The next part of the lesson focuses on the&nbsp;<span style=\"color:#ff8c00;\"><u>Conclusion</u></span>.</b><b>&nbsp;</b></h2>\n\n<p>&nbsp;</p>\n\n\n<img height=\"253\" src=\"https://assets.learnosity.com/organisations/755/66d08816-845b-4a21-84a7-a93a1429e893.png\" width=\"400\">\n<h4>&nbsp;</h4>\n\n<h4><b><b>► Select&nbsp;<span style=\"color:#008000;\"><u>Yes</u>&nbsp;</span>or&nbsp;<span style=\"color:#ff0000;\"><u>No</u></span>&nbsp;from the drop down.</b></b></h4>",
+          "template": "<ul>\n\t<li><span style=\"font-size:1.3em;\">The conclusion is a summary of the main ideas in the report.&nbsp;</span><span style=\"font-size:1em;\">{{response}}</span><span style=\"font-size:1.3em;\"></span></li>\n\t<li><span style=\"font-size:1.3em;\">The conclusion can include new ideas.&nbsp;</span><span style=\"font-size:1em;\">{{response}}</span><span style=\"font-size:1.3em;\"></span></li>\n\t<li><span style=\"font-size:1.3em;\">You can use the same words used in the main body.&nbsp;</span><span style=\"font-size:1em;\">{{response}}</span><span style=\"font-size:1.3em;\"></span></li>\n\t<li><span style=\"font-size:1.3em;\">You should mention positive and negative findings.&nbsp;</span><span style=\"font-size:1em;\">{{response}}</span><span style=\"font-size:1.3em;\"></span></li>\n\t<li><span style=\"font-size:1.3em;\">The conclusion includes the ideas formed in the main body.&nbsp;</span><span style=\"font-size:1em;\">{{response}}</span><span style=\"font-size:1.3em;\"></span></li>\n</ul>\n",
+          "type": "clozedropdown",
+          "case_sensitive": true,
+          "validation": {
+            "scoring_type": "partialMatchV2",
+            "valid_response": {
+              "score": 5,
+              "value": [
+                "Yes",
+                "No",
+                "No",
+                "Yes",
+                "Yes"
+              ]
+            }
+          },
+          "instant_feedback": true
+        },
+        "metadata": {
+          "name": "Cloze with drop down",
+          "template_reference": "2fbba51b-e35e-441f-83c7-2662e2e81fa6"
+        }
+      },
+      "feedbackInfo": [
+        null,
+        null
+      ]
+    },
+    {
+      "response_id": "99214c37-0bce-4298-936d-5ffac3017577_2c2417bf6ab81ed60aa0115d242a4bb5",
+      "question_type": "clozeassociation",
+      "dt_score_updated": "2021-11-23T07:00:25Z",
+      "automarkable": true,
+      "attempted": true,
+      "score": 3,
+      "max_score": 3,
+      "question_reference": "dd22f138-da4f-4ba8-9790-0171e473178a",
+      "item_reference": "d10246b3-b75c-43b2-8067-ee7aa3b3ed6b",
+      "response": {
+        "value": [
+          "main idea",
+          "findings",
+          "recommendations"
+        ],
+        "type": "array",
+        "apiVersion": "v2.168.13",
+        "revision": 5,
+        "feedbackAttemptsCount": 2
+      },
+      "questionInfo": {
+        "type": "clozeassociation",
+        "widget_type": "response",
+        "reference": "dd22f138-da4f-4ba8-9790-0171e473178a",
+        "data": {
+          "possible_responses": [
+            "main idea",
+            "findings",
+            "recommendations",
+            "SWOT analysis",
+            "market"
+          ],
+          "response_container": {
+            "pointer": "left"
+          },
+          "stimulus": "<h2><b>Read the <span style=\"color:#ff8c00;\">Conclusion </span>below carefully.&nbsp;Label the different parts.</b></h2>\n\n<p><img height=\"154\" src=\"https://assets.learnosity.com/organisations/755/136a41c8-95e2-4dca-9f0d-7f5e85c04cf4.png\" width=\"400\" /></p>\n",
+          "template": "<table class=\"table table-bordered table-condensed table-striped lrn_width_auto\">\n\t<tbody>\n\t\t<tr>\n\t\t\t<td>\n\t\t\t<h4 id=\"yui_3_17_2_1_1627830135536_138\"><b id=\"yui_3_17_2_1_1627830135536_143\">CONCLUSION</b></h4>\n\n\t\t\t<p><span style=\"font-size:1.3em;\">According to the research conducted, modern HR practices seem to be beneficial to staff.</span></p>\n\t\t\t</td>\n\t\t\t<td>Summarise the&nbsp;<span style=\"font-size:1em;\">{{response}}</span></td>\n\t\t</tr>\n\t\t<tr>\n\t\t\t<td>\n\t\t\t<p id=\"yui_3_17_2_1_1627830135536_145\"><span style=\"font-size:1.3em;\">The focus group showed that staff well-being and team spirit is significantly stronger in companies with policies which are more flexible and similar to the ones used in the American context. However, the SWOT analysis showed that our company must be cautious introducing changes in their procedures as there have been numerous unsuccessful changes in recent years.</span></p>\n\t\t\t</td>\n\t\t\t<td>Summarise the&nbsp;<span style=\"font-size:1em;\">{{response}}</span></td>\n\t\t</tr>\n\t\t<tr>\n\t\t\t<td>\n\t\t\t<p id=\"yui_3_17_2_1_1627830135536_146\"><span style=\"font-size:1.3em;\">To sum up, this report concludes that a change in HR policy is necessary but must be introduced carefully.</span></p>\n\t\t\t</td>\n\t\t\t<td>Introduce the&nbsp;<span style=\"font-size:1em;\">{{response}}</span></td>\n\t\t</tr>\n\t</tbody>\n</table>\n\n<p><span style=\"color:#ff0000;\"><b>(there are some extra options that you don't need)</b></span></p>\n",
+          "type": "clozeassociation",
+          "case_sensitive": true,
+          "validation": {
+            "scoring_type": "partialMatchV2",
+            "valid_response": {
+              "score": 3,
+              "value": [
+                "main idea",
+                "findings",
+                "recommendations"
+              ]
+            }
+          },
+          "instant_feedback": true,
+          "shuffle_options": true
+        },
+        "metadata": {
+          "name": "Cloze with drag & drop",
+          "template_reference": "51a8c1e7-f34f-4faf-b211-da458e891fcb"
+        }
+      },
+      "feedbackInfo": [
+        null,
+        null
+      ]
+    },
+    {
+      "response_id": "99214c37-0bce-4298-936d-5ffac3017577_7da5d55a67b3d06a2e91ba9ab325ea61",
+      "question_type": "clozedropdown",
+      "dt_score_updated": "2021-11-23T07:02:55Z",
+      "automarkable": true,
+      "attempted": true,
+      "score": 6,
+      "max_score": 6,
+      "question_reference": "cd2b4a3f-a53c-4ddf-b04d-ddd3f682c543",
+      "item_reference": "72626195-68eb-419c-89d8-5311544264b7",
+      "response": {
+        "value": [
+          "the company should invests heavily in expanding to Europe.",
+          "the company should adopt a more eco-friendly image.",
+          "the first recommendation is to encourage them to learn Spanish.",
+          "engineers should close it down.",
+          "they should consider banning some films and websites.",
+          "film-makers should share staff to in order to save money."
+        ],
+        "type": "array",
+        "apiVersion": "v2.168.13",
+        "revision": 8,
+        "feedbackAttemptsCount": 3
+      },
+      "questionInfo": {
+        "type": "clozedropdown",
+        "widget_type": "response",
+        "reference": "cd2b4a3f-a53c-4ddf-b04d-ddd3f682c543",
+        "data": {
+          "possible_responses": [
+            [
+              "the company should invests heavily in expanding to Europe.",
+              "the company should adopt a more eco-friendly image.",
+              "the first recommendation is to encourage them to learn Spanish.",
+              "engineers should close it down.",
+              "they should consider banning some films and websites.",
+              "film-makers should share staff to in order to save money."
+            ],
+            [
+              "the company should invests heavily in expanding to Europe.",
+              "the company should adopt a more eco-friendly image.",
+              "the first recommendation is to encourage them to learn Spanish.",
+              "engineers should close it down.",
+              "they should consider banning some films and websites.",
+              "film-makers should share staff to in order to save money."
+            ],
+            [
+              "the company should invests heavily in expanding to Europe.",
+              "the company should adopt a more eco-friendly image.",
+              "the first recommendation is to encourage them to learn Spanish.",
+              "engineers should close it down.",
+              "they should consider banning some films and websites.",
+              "film-makers should share staff to in order to save money."
+            ],
+            [
+              "the company should invests heavily in expanding to Europe.",
+              "the company should adopt a more eco-friendly image.",
+              "the first recommendation is to encourage them to learn Spanish.",
+              "engineers should close it down.",
+              "they should consider banning some films and websites.",
+              "film-makers should share staff to in order to save money."
+            ],
+            [
+              "the company should invests heavily in expanding to Europe.",
+              "the company should adopt a more eco-friendly image.",
+              "the first recommendation is to encourage them to learn Spanish.",
+              "engineers should close it down.",
+              "they should consider banning some films and websites.",
+              "film-makers should share staff to in order to save money."
+            ],
+            [
+              "the company should invests heavily in expanding to Europe.",
+              "the company should adopt a more eco-friendly image.",
+              "the first recommendation is to encourage them to learn Spanish.",
+              "engineers should close it down.",
+              "they should consider banning some films and websites.",
+              "film-makers should share staff to in order to save money."
+            ]
+          ],
+          "response_container": {
+            "pointer": "left"
+          },
+          "stimulus": "<h2 id=\"yui_3_17_2_1_1627830410407_153\"><b id=\"yui_3_17_2_1_1627830410407_152\">The final section of the your report is the&nbsp;<span style=\"color:#0000ff;\">Recommendations section</span>.&nbsp;</b></h2>\n\n<h4><b><span style=\"color:#0000ff;\">► </span>The recommendations you make should have <span style=\"color:#0000ff;\">two parts</span>:</b></h4>\n\n<ol id=\"yui_3_17_2_1_1627830410407_157\">\n\t<li>\n\t<h5><b>The first part is an&nbsp;<span style=\"color:#0000ff;\"><u>explicit link to your research</u></span>.&nbsp;</b></h5>\n\t</li>\n\t<li id=\"yui_3_17_2_1_1627830410407_156\">\n\t<h5><b>The second part is&nbsp;<span style=\"color:#0000ff;\"><u>your own idea to address the problem</u></span>&nbsp;you identified.</b></h5>\n\t</li>\n</ol>\n\n<p>&nbsp;</p>\n\n<p><img height=\"266\" src=\"https://assets.learnosity.com/organisations/755/2e69effe-af81-4322-a22b-f0afdc0cb01d.png\" width=\"399\" /></p>\n\n<h4>&nbsp;</h4>\n\n<h2><b>Below you can see some recommendations. Read them carefully.</b></h2>\n\n<h4 id=\"yui_3_17_2_1_1627830410407_186\"><b><span style=\"color:#0000ff;\">► </span>Mach the first part (<span style=\"color:#0000ff;\"><u>the research findings</u></span>) with second part (<span style=\"color:#0000ff;\"><u>the suggestion</u></span>).</b></h4>\n",
+          "template": "<ul>\n\t<li><span style=\"font-size:1.1em;\">The SWOT analysis shows that there are no competitors in the European market, so&nbsp;</span><span style=\"font-size:1em;\">{{response}}.</span><span style=\"font-size:1.1em;\"></span></li>\n\t<li><span style=\"font-size:1.1em;\">There is evidence to suggest that customers are now more aware of environmental issues, therefore&nbsp;</span><span style=\"font-size:1em;\">{{response}}.</span><span style=\"font-size:1.1em;\"></span></li>\n\t<li><span style=\"font-size:1.1em;\">The survey results indicate that many Britons living in Spain do not integrate the local culture. Therefore,&nbsp;</span><span style=\"font-size:1em;\">{{response}}.</span><span style=\"font-size:1.1em;\"></span></li>\n\t<li><span style=\"font-size:1.1em;\">The investigation revealed that is a serious problem with the nuclear fuel plant, so&nbsp;</span><span style=\"font-size:1em;\">{{response}}.</span><span style=\"font-size:1.1em;\"></span></li>\n\t<li><span style=\"font-size:1.1em;\">The research showed that parents are concerned about on-screen violence, so&nbsp;</span><span style=\"font-size:1em;\">{{response}}.</span><span style=\"font-size:1.1em;\"></span></li>\n\t<li><span style=\"font-size:1.1em;\">The report concluded that small film companies do not have the financial resources for large scale productions, so&nbsp;</span><span style=\"font-size:1em;\">{{response}}.</span><span style=\"font-size:1.1em;\"></span></li>\n</ul>\n",
+          "type": "clozedropdown",
+          "case_sensitive": true,
+          "validation": {
+            "scoring_type": "partialMatchV2",
+            "valid_response": {
+              "score": 6,
+              "value": [
+                "the company should invests heavily in expanding to Europe.",
+                "the company should adopt a more eco-friendly image.",
+                "the first recommendation is to encourage them to learn Spanish.",
+                "engineers should close it down.",
+                "they should consider banning some films and websites.",
+                "film-makers should share staff to in order to save money."
+              ]
+            }
+          },
+          "instant_feedback": true,
+          "shuffle_options": true
+        },
+        "metadata": {
+          "name": "Cloze with drop down",
+          "template_reference": "2fbba51b-e35e-441f-83c7-2662e2e81fa6"
+        }
+      },
+      "feedbackInfo": [
+        null,
+        null
+      ]
+    },
+    {
+      "response_id": "99214c37-0bce-4298-936d-5ffac3017577_e5ce4453690d1b6319af805fbdfbe4dc",
+      "question_type": "clozedropdown",
+      "dt_score_updated": "2021-11-23T07:04:12Z",
+      "automarkable": true,
+      "attempted": true,
+      "score": 12,
+      "max_score": 12,
+      "question_reference": "4467d82e-3999-4494-b9f3-c10ff5be7bee",
+      "item_reference": "77b989f5-485e-4082-89ae-4b10e65ad25e",
+      "response": {
+        "value": [
+          "aims",
+          "benefits and drawbacks",
+          "examples",
+          "made",
+          "key",
+          "was conducted",
+          "were compared",
+          "railway activity",
+          "In addition",
+          "customers",
+          "examine",
+          "will attempt"
+        ],
+        "type": "array",
+        "apiVersion": "v2.168.13",
+        "revision": 5,
+        "feedbackAttemptsCount": 4
+      },
+      "questionInfo": {
+        "type": "clozedropdown",
+        "widget_type": "response",
+        "reference": "4467d82e-3999-4494-b9f3-c10ff5be7bee",
+        "data": {
+          "possible_responses": [
+            [
+              "aims",
+              "wants"
+            ],
+            [
+              "benefits and drawbacks",
+              "pros and con"
+            ],
+            [
+              "examples",
+              "stuff"
+            ],
+            [
+              "made",
+              "make"
+            ],
+            [
+              "key",
+              "big"
+            ],
+            [
+              "was conducted",
+              "I conducted"
+            ],
+            [
+              "were compared",
+              "I compared"
+            ],
+            [
+              "trains",
+              "railway activity"
+            ],
+            [
+              "And",
+              "In addition"
+            ],
+            [
+              "people",
+              "customers"
+            ],
+            [
+              "look at",
+              "examine"
+            ],
+            [
+              "will try",
+              "will attempt"
+            ]
+          ],
+          "response_container": {
+            "pointer": "left"
+          },
+          "stimulus": "<h2><b id=\"yui_3_17_2_1_1627831164787_1818\">In the final part of the lesson, you will focus on&nbsp;<span style=\"color:#ff8c00;\"><u id=\"yui_3_17_2_1_1627831164787_1820\">vocabulary and grammar</u></span>.&nbsp;</b></h2>\n\n<p><img height=\"190\" src=\"https://assets.learnosity.com/organisations/755/ff429f34-402a-4f5e-b020-0df9c4087d3a.png\" width=\"750\"></p>\n\n<p>&nbsp;</p>\n\n<h2 id=\"yui_3_17_2_1_1627831164787_1886\"><span style=\"color:#0000ff;\"></span><span style=\"color:#0000ff;\"><b><b>Let's start with the Introduction&nbsp;</b></b></span></h2>\n\n<h4><b><span style=\"color:#0000ff;\"><b>► </b></span>Choose the correct verb form or more academic vocabulary from the drop down</b></h4>\n",
+          "template": "<h4 id=\"yui_3_17_2_1_1627831164787_1863\">&nbsp;</h4>\n\n<h4 id=\"yui_3_17_2_1_1627831164787_2048\"><span style=\"font-size:1.1em;\"><span style=\"color:#0000ff;\"><b id=\"yui_3_17_2_1_1627831164787_2049\">INTRODUCTION</b></span></span></h4>\n\n<p id=\"yui_3_17_2_1_1627831164787_2050\"><span style=\"font-size:1.1em;\">This report </span><span style=\"font-size:1em;\">{{response}}</span><span style=\"font-size:1.1em;\"> to evaluate the&nbsp;</span><span style=\"font-size:1em;\">{{response}}</span><span style=\"font-size:1.1em;\"> of state control of&nbsp;industry.</span></p>\n\n<p id=\"yui_3_17_2_1_1627831164787_2051\"><span style=\"font-size:1.1em;\">&nbsp;Using </span><span style=\"font-size:1em;\">{{response}}</span><span style=\"font-size:1.1em;\"> from the UK and France between 1995 and 2015, a comparison will be </span><span style=\"font-size:1em;\">{{response}}</span><span style=\"font-size:1.1em;\"> of two&nbsp;</span><span style=\"font-size:1em;\">{{response}}</span><span style=\"font-size:1.1em;\"> industries: electricity and railways.</span></p>\n\n<p id=\"yui_3_17_2_1_1627831164787_2053\"><span style=\"font-size:1.1em;\">A SWOT analysis </span><span style=\"font-size:1em;\">{{response}}</span><span style=\"font-size:1.1em;\"> and the standard methods used in the UK and France </span><span style=\"font-size:1em;\">{{response}}</span><span style=\"font-size:1.1em;\">&nbsp;and large scale observation of </span><span style=\"font-size:1em;\">{{response}}</span><span style=\"font-size:1.1em;\"> was organised to investigate the traffic patterns. </span><span style=\"font-size:1em;\">{{response}}</span><span style=\"font-size:1.1em;\">, a survey of 5000 </span><span style=\"font-size:1em;\">{{response}}</span><span style=\"font-size:1.1em;\"> in each country was carried out.&nbsp;</span></p>\n\n<p id=\"yui_3_17_2_1_1627831164787_2010\"><span style=\"font-size:1.1em;\">The first section will </span><span style=\"font-size:1em;\">{{response}}</span><span style=\"font-size:1.1em;\"> the benefits obtained from public ownership, then the disadvantages will be analysed. The final section </span><span style=\"font-size:1em;\">{{response}}</span><span style=\"font-size:1.1em;\"> to assess the limits of the privatisation process.</span></p>\n",
+          "type": "clozedropdown",
+          "case_sensitive": true,
+          "validation": {
+            "scoring_type": "partialMatchV2",
+            "valid_response": {
+              "score": 12,
+              "value": [
+                "aims",
+                "benefits and drawbacks",
+                "examples",
+                "made",
+                "key",
+                "was conducted",
+                "were compared",
+                "railway activity",
+                "In addition",
+                "customers",
+                "examine",
+                "will attempt"
+              ]
+            }
+          },
+          "instant_feedback": true,
+          "shuffle_options": true
+        },
+        "metadata": {
+          "name": "Cloze with drop down",
+          "template_reference": "2fbba51b-e35e-441f-83c7-2662e2e81fa6"
+        }
+      },
+      "feedbackInfo": [
+        null,
+        null
+      ]
+    },
+    {
+      "response_id": "99214c37-0bce-4298-936d-5ffac3017577_8b108c9b0e5f031b3dd392e8ba30daf3",
+      "question_type": "clozedropdown",
+      "dt_score_updated": "2021-11-23T07:05:17Z",
+      "automarkable": true,
+      "attempted": true,
+      "score": 11,
+      "max_score": 11,
+      "question_reference": "472ddf59-0b51-4ce2-a2c0-f1dca42d4666",
+      "item_reference": "77b989f5-485e-4082-89ae-4b10e65ad25e",
+      "response": {
+        "value": [
+          "conducted",
+          "beneficial",
+          "found",
+          "satisfied",
+          "a minimal percentage",
+          "However",
+          "brings",
+          "decreases",
+          "concludes",
+          "obtain",
+          "suitable"
+        ],
+        "type": "array",
+        "apiVersion": "v2.168.13",
+        "revision": 3,
+        "feedbackAttemptsCount": 2
+      },
+      "questionInfo": {
+        "type": "clozedropdown",
+        "widget_type": "response",
+        "reference": "472ddf59-0b51-4ce2-a2c0-f1dca42d4666",
+        "data": {
+          "possible_responses": [
+            [
+              "conducted",
+              "I did"
+            ],
+            [
+              "beneficial",
+              "good"
+            ],
+            [
+              "found",
+              "find"
+            ],
+            [
+              "satisfied",
+              "happy"
+            ],
+            [
+              "a minimal percentage",
+              "a few of them"
+            ],
+            [
+              "However",
+              "But"
+            ],
+            [
+              "brings",
+              "is bringing"
+            ],
+            [
+              "decreases",
+              "has been decreasing"
+            ],
+            [
+              "concludes",
+              "says"
+            ],
+            [
+              "obtain",
+              "get"
+            ],
+            [
+              "suitable",
+              "fine"
+            ]
+          ],
+          "response_container": {
+            "pointer": "left"
+          },
+          "stimulus": "<h2 id=\"yui_3_17_2_1_1627831164787_1886\"><span style=\"color:#008000;\"><b id=\"yui_3_17_2_1_1627831164787_1887\"><b id=\"yui_3_17_2_1_1627831164787_1888\">Now, let's look at the Conclusion&nbsp;</b></b></span></h2>\n\n<h4><b><span style=\"color:#008000;\"><b>► </b></span>Choose the correct verb form or more academic vocabulary from the drop down</b></h4>\n\n<p>&nbsp;</p>\n",
+          "template": "<h4><span style=\"color:#008000;\"><b>CONCLUSION</b></span></h4>\n\n<p><span style=\"font-size:1.1em;\">According to the research </span><span style=\"font-size:1em;\">{{response}}</span><span style=\"font-size:1.1em;\">, state control appears to be as </span><span style=\"font-size:1em;\">{{response}}</span><span style=\"font-size:1.1em;\"> as private ownership. The research survey </span><span style=\"font-size:1em;\">{{response}}</span><span style=\"font-size:1.1em;\"> that the customers were </span><span style=\"font-size:1em;\">{{response}}</span><span style=\"font-size:1.1em;\"> with both options and only </span><span style=\"font-size:1em;\">{{response}}</span><span style=\"font-size:1.1em;\"> submitted complaints. </span><span style=\"font-size:1em;\">{{response}}</span><span style=\"font-size:1.1em;\">, the secondary research pointed out that while private ownership </span><span style=\"font-size:1em;\">{{response}}</span><span style=\"font-size:1.1em;\"> some benefits in terms of competitiveness of prices, it </span><span style=\"font-size:1em;\">{{response}}</span><span style=\"font-size:1.1em;\"> the level of satisfaction in terms of customer service.</span></p>\n\n<p><span style=\"font-size:1.1em;\">To sum up, this report </span><span style=\"font-size:1em;\">{{response}}</span><span style=\"font-size:1.1em;\">&nbsp;that the railways and electricity industries can </span><span style=\"font-size:1em;\">{{response}}</span><span style=\"font-size:1.1em;\">&nbsp;benefits under each system and that both are </span><span style=\"font-size:1em;\">{{response}}</span><span style=\"font-size:1.1em;\"> for the context analysed in the report.</span></p>\n\n<p>&nbsp;</p>\n",
+          "type": "clozedropdown",
+          "case_sensitive": true,
+          "validation": {
+            "scoring_type": "partialMatchV2",
+            "valid_response": {
+              "score": 11,
+              "value": [
+                "conducted",
+                "beneficial",
+                "found",
+                "satisfied",
+                "a minimal percentage",
+                "However",
+                "brings",
+                "decreases",
+                "concludes",
+                "obtain",
+                "suitable"
+              ]
+            }
+          },
+          "instant_feedback": true,
+          "shuffle_options": true
+        },
+        "metadata": {
+          "name": "Cloze with drop down",
+          "template_reference": "2fbba51b-e35e-441f-83c7-2662e2e81fa6"
+        }
+      },
+      "feedbackInfo": [
+        null,
+        null
+      ]
+    }
+  ]
+}

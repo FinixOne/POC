@@ -1,0 +1,777 @@
+{
+  "userId": "5f4c4ceb-c356-487d-8ae2-13d952dbe315",
+  "firstName": "Mohmedali",
+  "lastName": "Mohmed Aasif Kapadia",
+  "assigmentId": "4369604e-4c30-4314-9851-001b5cb3194f",
+  "assigmentName": "AEB Sept 22 USING RESEARCH IN ASSIGNMENTS 1 (GBM)",
+  "sessionId": "3fd122d8-af56-4ff0-a633-698885817d47",
+  "email": "kapadiam3@coventry.ac.uk",
+  "spaceId": "f0a0e829-bb00-4bd6-a6a9-11369059af55",
+  "spaceName": "4004MHR - AEB for BA Global Business Management 1 - 2223SEPDEC",
+  "score": 39.6,
+  "max_score": 49,
+  "questions": [
+    {
+      "response_id": "3fd122d8-af56-4ff0-a633-698885817d47_d5aa93884e30982b3147d94f5fe057f5",
+      "question_type": "mcq",
+      "dt_score_updated": "2022-10-14T16:38:47Z",
+      "automarkable": true,
+      "attempted": true,
+      "score": 3.6,
+      "max_score": 6,
+      "question_reference": "4b6a0402-6f20-4263-a701-9844373ef47a",
+      "item_reference": "77988b27-e621-4e8c-a5e5-2ef576e9b47a",
+      "response": {
+        "value": [
+          "5",
+          "4",
+          "2"
+        ],
+        "type": "array",
+        "apiVersion": "v2.168.23",
+        "revision": 2,
+        "feedbackAttemptsCount": 1
+      },
+      "questionInfo": {
+        "type": "mcq",
+        "widget_type": "response",
+        "reference": "4b6a0402-6f20-4263-a701-9844373ef47a",
+        "data": {
+          "multiple_responses": true,
+          "options": [
+            {
+              "label": "<span style=\"font-size:1.3em;\">To provide a useful example</span>",
+              "value": "0"
+            },
+            {
+              "label": "<span style=\"font-size:1.3em;\">To replace our own ideas</span>",
+              "value": "1"
+            },
+            {
+              "label": "<span style=\"font-size:1.3em;\">To give an expert opinion</span>",
+              "value": "2"
+            },
+            {
+              "label": "<span style=\"font-size:1.3em;\">To apply theories</span>",
+              "value": "3"
+            },
+            {
+              "label": "<span style=\"font-size:1.3em;\">To provide supporting statistics &amp; data</span>",
+              "value": "4"
+            },
+            {
+              "label": "<span style=\"font-size:1.3em;\">To show results from relevant research</span>",
+              "value": "5"
+            }
+          ],
+          "stimulus": "<p><strong style=\"font-size: 1.5em; color: rgb(139, 69, 19);\">TASK 1: Why should we&nbsp;use&nbsp;research in our academic assignments?</strong><span style=\"color:#8b4513;\"><span style=\"font-size:1.5em;\"><span style=\"font-size:1.3em;\"><img class=\"lrn-image-left\" height=\"86\" src=\"https://assets.learnosity.com/organisations/755/073a82b3-6bec-404f-aa7c-4fd02e2621c0.PNG\" width=\"70\"></span></span></span></p>\n\n<p><span style=\"font-size:1.3em;\"><strong>Choose ALL possible answers</strong></span></p>\n",
+          "type": "mcq",
+          "validation": {
+            "scoring_type": "partialMatchV2",
+            "valid_response": {
+              "score": 6,
+              "value": [
+                "2",
+                "3",
+                "4",
+                "5",
+                "0"
+              ]
+            },
+            "rounding": "none"
+          },
+          "ui_style": {
+            "type": "horizontal"
+          },
+          "shuffle_options": true,
+          "instant_feedback": true,
+          "feedback_attempts": 3
+        },
+        "metadata": {
+          "name": "Multiple choice – multiple response",
+          "template_reference": "908de244-5c71-4c09-b094-7fb49554f2f9"
+        }
+      },
+      "feedbackInfo": [
+        null,
+        null
+      ]
+    },
+    {
+      "response_id": "3fd122d8-af56-4ff0-a633-698885817d47_3b7230520298b0a2b3c80025a129726d",
+      "question_type": "association",
+      "dt_score_updated": "2022-10-14T16:57:07Z",
+      "automarkable": true,
+      "attempted": true,
+      "score": 6,
+      "max_score": 6,
+      "question_reference": "ffb392ed-b0cc-43fe-b2fe-a7bcb296de56",
+      "item_reference": "77988b27-e621-4e8c-a5e5-2ef576e9b47a",
+      "response": {
+        "value": [
+          "<span style=\"font-size:1.3em;\">Is the content connected to you what you are writing about? E.g. Is a book on marketing patterns in the US appropriate for your report on marketing in the UK?</span>",
+          "<span style=\"font-size:1.3em;\">Is the author qualified to write about the topic? Can you trust their opinion or their research?</span>",
+          "<span style=\"font-size:1.3em;\">Does the writer want to sell you an idea or opinion? Do they have an agenda?</span>",
+          "<span style=\"font-size:1.3em;\">Who was the writer writing for? e.g.&nbsp; Academics? Students? The general public? Corporate clients?</span>",
+          "<span style=\"font-size:1.3em;\">Can you trust the sources and the research, which the author uses to support their theory or opinion?</span>",
+          "<span style=\"font-size:1.3em;\">Does the date of publication effect how relevant the source is to your own argument?</span>"
+        ],
+        "type": "array",
+        "updatedFormat": true,
+        "apiVersion": "v2.168.23",
+        "revision": 6,
+        "feedbackAttemptsCount": 1
+      },
+      "questionInfo": {
+        "type": "association",
+        "widget_type": "response",
+        "reference": "ffb392ed-b0cc-43fe-b2fe-a7bcb296de56",
+        "data": {
+          "possible_responses": [
+            "<span style=\"font-size:1.3em;\">Can you trust the sources and the research, which the author uses to support their theory or opinion?</span>",
+            "<span style=\"font-size:1.3em;\">Who was the writer writing for? e.g.&nbsp; Academics? Students? The general public? Corporate clients?</span>",
+            "<span style=\"font-size:1.3em;\">Does the date of publication effect how relevant the source is to your own argument?</span>",
+            "<span style=\"font-size:1.3em;\">Does the writer want to sell you an idea or opinion? Do they have an agenda?</span>",
+            "<span style=\"font-size:1.3em;\">Is the content connected to you what you are writing about? E.g. Is a book on marketing patterns in the US appropriate for your report on marketing in the UK?</span>",
+            "<span style=\"font-size:1.3em;\">Is the author qualified to write about the topic? Can you trust their opinion or their research?</span>"
+          ],
+          "stimulus": "<p><strong style=\"color: rgb(47, 79, 79); font-size: 1.5em;\">TASK&nbsp;2: Using the REVIEW method to choose appropriate research</strong><span style=\"font-size:1.5em;\"><span style=\"color:#2f4f4f;\"><img class=\"lrn-image-left\" height=\"56\" src=\"https://assets.learnosity.com/organisations/755/87e0a5c8-9a76-462b-970c-9532e88625e3.jpg\" width=\"152\"></span></span></p>\n\n<p><strong><span style=\"font-size:1.3em;\">Match the descriptions to each of the REVIEW criteria</span></strong></p>\n",
+          "stimulus_list": [
+            "<span style=\"font-size:1.3em;\">Relevance</span>",
+            "<span style=\"font-size:1.3em;\">Expertise</span>",
+            "<span style=\"font-size:1.3em;\">Viewpoint</span>",
+            "<span style=\"font-size:1.3em;\">Intended audience</span>",
+            "<span style=\"font-size:1.3em;\">Evidence</span>",
+            "<span style=\"font-size:1.3em;\">When published</span>"
+          ],
+          "type": "association",
+          "validation": {
+            "scoring_type": "partialMatchV2",
+            "valid_response": {
+              "score": 6,
+              "value": [
+                "<span style=\"font-size:1.3em;\">Is the content connected to you what you are writing about? E.g. Is a book on marketing patterns in the US appropriate for your report on marketing in the UK?</span>",
+                "<span style=\"font-size:1.3em;\">Is the author qualified to write about the topic? Can you trust their opinion or their research?</span>",
+                "<span style=\"font-size:1.3em;\">Does the writer want to sell you an idea or opinion? Do they have an agenda?</span>",
+                "<span style=\"font-size:1.3em;\">Who was the writer writing for? e.g.&nbsp; Academics? Students? The general public? Corporate clients?</span>",
+                "<span style=\"font-size:1.3em;\">Can you trust the sources and the research, which the author uses to support their theory or opinion?</span>",
+                "<span style=\"font-size:1.3em;\">Does the date of publication effect how relevant the source is to your own argument?</span>"
+              ]
+            },
+            "rounding": "none"
+          },
+          "instant_feedback": true,
+          "feedback_attempts": 3
+        },
+        "metadata": {
+          "name": "Match list",
+          "template_reference": "1fa22aac-1f88-47f7-941b-3c77759549e6"
+        }
+      },
+      "feedbackInfo": [
+        null,
+        null
+      ]
+    },
+    {
+      "response_id": "3fd122d8-af56-4ff0-a633-698885817d47_a6538248b9ff76cb450ab36758baa4b5",
+      "question_type": "choicematrix",
+      "dt_score_updated": "2022-10-14T17:01:38Z",
+      "automarkable": true,
+      "attempted": true,
+      "score": 3,
+      "max_score": 6,
+      "question_reference": "fc2dc8c8-4f86-4959-a933-1a674658a69c",
+      "item_reference": "77988b27-e621-4e8c-a5e5-2ef576e9b47a",
+      "response": {
+        "value": [
+          [
+            1
+          ],
+          [
+            5
+          ],
+          [
+            0
+          ],
+          [
+            3
+          ],
+          [
+            4
+          ],
+          [
+            2
+          ]
+        ],
+        "type": "array",
+        "apiVersion": "v2.168.23",
+        "revision": 5
+      },
+      "questionInfo": {
+        "type": "choicematrix",
+        "widget_type": "response",
+        "reference": "fc2dc8c8-4f86-4959-a933-1a674658a69c",
+        "data": {
+          "options": [
+            "Not RELEVANT",
+            "Not EXPERT author",
+            "Biased VIEWPOINT",
+            "Wrong INTENDED audience",
+            "Unreliable EVIDENCE",
+            "Out-of-Date"
+          ],
+          "stems": [
+            "Macdonalds is often accused of only make minimal efforts to be sustainable (Wikipedia, 2022)",
+            "Recent investigations have shown sustainable practice in the beauty industry is \"only skin-deep\"We&nbsp; (Dolenz, 1983, p.12).",
+            "Sustainable production will soon be forgotten, along with other liberal trends (US Conservative, 2021)",
+            "Tork (2020) claims that households only account for 5% of C02 emissions",
+            "The impact of sustainable practices in manufacturing industries has been minimal",
+            "According to Costa's 2021 sustainability report, their competitors sustainability policies are appealing but ineffective."
+          ],
+          "stimulus": "<h4><strong><span style=\"color:#a52a2a;\">TASK 3 PROBLEMS WITH EVIDENCE</span></strong></h4>\n\n<h5>A student is writing a report on sustainability in industry. They have found some evidence to support the idea that sustainability practices can be ineffective. However, there is a problem with the evidence they have found.</h5>\n\n<h5><strong>Use the grid to show the problem with each.</strong></h5>\n",
+          "type": "choicematrix",
+          "validation": {
+            "scoring_type": "partialMatchV2",
+            "valid_response": {
+              "score": 6,
+              "value": [
+                [
+                  1
+                ],
+                [
+                  5
+                ],
+                [
+                  2
+                ],
+                [
+                  0
+                ],
+                [
+                  4
+                ],
+                [
+                  3
+                ]
+              ]
+            },
+            "rounding": "none"
+          },
+          "ui_style": {
+            "type": "table",
+            "horizontal_lines": false
+          },
+          "feedback_attempts": 3,
+          "shuffle_options": true
+        },
+        "metadata": {
+          "name": "Choice matrix – standard",
+          "template_reference": "14b7af71-e146-4747-aae5-ca71618a5038"
+        }
+      },
+      "feedbackInfo": [
+        null,
+        null
+      ]
+    },
+    {
+      "response_id": "3fd122d8-af56-4ff0-a633-698885817d47_d878c50ae689a51dbe1e2abfd6bc5057",
+      "question_type": "clozeassociation",
+      "dt_score_updated": "2022-10-14T17:14:10Z",
+      "automarkable": true,
+      "attempted": true,
+      "score": 9,
+      "max_score": 9,
+      "question_reference": "95af06cf-eca4-429c-bcdb-c9c75f00ee96",
+      "item_reference": "19c13cac-b40c-4461-8d3c-7294ae18218e",
+      "response": {
+        "value": [
+          "citing",
+          "reference list",
+          "citation and referencing",
+          "APA7",
+          "citations and a reference list",
+          "plagiarism",
+          "cite and reference",
+          "Quotation",
+          "Summarising &amp; Paraphrasing"
+        ],
+        "type": "array",
+        "apiVersion": "v2.168.23",
+        "revision": 15,
+        "feedbackAttemptsCount": 2
+      },
+      "questionInfo": {
+        "type": "clozeassociation",
+        "widget_type": "response",
+        "reference": "95af06cf-eca4-429c-bcdb-c9c75f00ee96",
+        "data": {
+          "possible_responses": [
+            "citing",
+            "reference list",
+            "citation and referencing",
+            "APA7",
+            "citations and a reference list",
+            "plagiarism",
+            "cite and reference",
+            "Quotation",
+            "Summarising &amp; Paraphrasing"
+          ],
+          "response_container": {
+            "pointer": "left"
+          },
+          "stimulus": "<h4><span style=\"color:#daa520;\"><strong>TASK 4: HOW TO INCLUDE RESEARCH IN YOUR WORK</strong></span></h4>\n\n<h5>Watch the following video from USU, which gives a brief introduction to referencing and citation, then drag and drop the correct words to complete the text below</h5>\n<iframe allow=\"accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen=\"\" frameborder=\"0\" height=\"315\" src=\"https://www.youtube.com/embed/tbhKAIXDRes\" title=\"YouTube video player\" width=\"560\"></iframe>",
+          "template": "<p>When you use research in your writing it is essential to show where the information comes from. We do this by&nbsp;&nbsp;{{response}}, the author and date of publication in our text and by including full details of the source in a <span id=\"cke_bm_19417S\" style=\"display: none;\">&nbsp;</span>&nbsp;{{response}}<span id=\"cke_bm_19417E\" style=\"display: none;\">&nbsp;</span>&nbsp;at the end of our assignment. Different institutions use different <span id=\"cke_bm_19417S\" style=\"display: none;\">&nbsp;</span>&nbsp;{{response}}<span id=\"cke_bm_19417E\" style=\"display: none;\">&nbsp;</span>&nbsp;systems. At Coventry Univerisity London, we use <span id=\"cke_bm_19417S\" style=\"display: none;\">&nbsp;</span>&nbsp;{{response}}<span id=\"cke_bm_19417E\" style=\"display: none;\">&nbsp;</span>, and full information on how to do this can be found on the Library Website. If you do not&nbsp; use {{response}}, this means you are not giving credit to the author and you are 'stealing' their ideas or research. This is a serious offence at University, and is known as&nbsp;<span id=\"cke_bm_19417S\" style=\"display: none;\">&nbsp;</span>&nbsp;{{response}}<span id=\"cke_bm_19417E\" style=\"display: none;\">&nbsp;</span>. It can result in lower grades or even failing a course. Make sure you&nbsp;&nbsp;<span id=\"cke_bm_19417S\" style=\"display: none;\">&nbsp;</span>&nbsp;{{response}}<span id=\"cke_bm_19417E\" style=\"display: none;\">&nbsp;</span>&nbsp;correctly to avoid&nbsp; problems when you submit your work!</p>\n\n<p>In the next section we will look at two different methods of putting research into our writing</p>\n\n<p>{{response}}&nbsp;- including the exact words from the source</p>\n\n<p>{{response}}&nbsp;- including information or ideas from the source using our own words</p>\n",
+          "type": "clozeassociation",
+          "case_sensitive": true,
+          "validation": {
+            "scoring_type": "partialMatchV2",
+            "valid_response": {
+              "score": 9,
+              "value": [
+                "citing",
+                "reference list",
+                "citation and referencing",
+                "APA7",
+                "citations and a reference list",
+                "plagiarism",
+                "cite and reference",
+                "Quotation",
+                "Summarising &amp; Paraphrasing"
+              ]
+            }
+          },
+          "feedback_attempts": 3,
+          "shuffle_options": true,
+          "instant_feedback": true
+        },
+        "metadata": {
+          "name": "Cloze with drag & drop",
+          "template_reference": "51a8c1e7-f34f-4faf-b211-da458e891fcb"
+        }
+      },
+      "feedbackInfo": [
+        null,
+        null
+      ]
+    },
+    {
+      "response_id": "3fd122d8-af56-4ff0-a633-698885817d47_9814148429b484a59e64b17a87a512e0",
+      "question_type": "clozeassociation",
+      "dt_score_updated": "2022-10-14T17:17:31Z",
+      "automarkable": true,
+      "attempted": true,
+      "score": 6,
+      "max_score": 6,
+      "question_reference": "525a6cce-07bf-4854-912e-58ea081cfe95",
+      "item_reference": "19c13cac-b40c-4461-8d3c-7294ae18218e",
+      "response": {
+        "value": [
+          "<span style=\"font-size:1.3em;\"><strong>QUOTING</strong></span>",
+          "<span style=\"color:#b22222;\"><span style=\"font-size:1.3em;\">According to Jones (2019, p.124), new businesses need to enter the market \"Tic-Toc smart and Insta-ready\"</span></span>",
+          "<span style=\"font-size:1.3em;\"><strong>PARAPHRASING</strong></span>",
+          "<span style=\"color:#a52a2a;\"><span style=\"font-size:1.3em;\">According to Jones (2019), new businesses need to plan for a strong social media presence&nbsp;when they enter the market.</span></span>",
+          "<span style=\"font-size:1.3em;\"><strong>SUMMARISING</strong></span>",
+          "<span style=\"font-size:1.3em;\"><span style=\"color:#a52a2a;\">While Jones (2019)&nbsp;emphasises the importance of embracing new media platforms when&nbsp;developing marketing plans, she&nbsp;argues that a campaign can only be successful if they are combined with more traditional media, such as print and television.</span></span>"
+        ],
+        "type": "array",
+        "apiVersion": "v2.168.23",
+        "revision": 7,
+        "feedbackAttemptsCount": 3
+      },
+      "questionInfo": {
+        "type": "clozeassociation",
+        "widget_type": "response",
+        "reference": "525a6cce-07bf-4854-912e-58ea081cfe95",
+        "data": {
+          "possible_responses": [
+            "<span style=\"font-size:1.3em;\"><strong>QUOTING</strong></span>",
+            "<span style=\"font-size:1.3em;\"><strong>PARAPHRASING</strong></span>",
+            "<span style=\"font-size:1.3em;\"><strong>SUMMARISING</strong></span>",
+            "<span style=\"color:#b22222;\"><span style=\"font-size:1.3em;\">According to Jones (2019, p.124), new businesses need to enter the market \"Tic-Toc smart and Insta-ready\"</span></span>",
+            "<span style=\"color:#a52a2a;\"><span style=\"font-size:1.3em;\">According to Jones (2019), new businesses need to plan for a strong social media presence&nbsp;when they enter the market.</span></span>",
+            "<span style=\"font-size:1.3em;\"><span style=\"color:#a52a2a;\">While Jones (2019)&nbsp;emphasises the importance of embracing new media platforms when&nbsp;developing marketing plans, she&nbsp;argues that a campaign can only be successful if they are combined with more traditional media, such as print and television.</span></span>"
+          ],
+          "response_container": {
+            "pointer": "left",
+            "wordwrap": true
+          },
+          "stimulus": "<h5><span style=\"color:#4b0082;\"><span style=\"font-size:1.5em;\"><strong>TASK 5: Quoting, Paraphrasing &amp; Summarising</strong></span></span></h5>\n\n<p><span style=\"font-size:1.5em;\"></span><span style=\"font-size:1.3em;\"><strong>In task 4 we mentioned the&nbsp;different ways to CITE source material in your work. In this task, read the definition and match it with the type and example that is correct. </strong></span></p>\n",
+          "template": "<table class=\"table\">\n\t<thead>\n\t\t<tr>\n\t\t\t<th class=\"text-center\" scope=\"col\">How is the source used?</th>\n\t\t\t<th class=\"text-center\" scope=\"col\">Definition</th>\n\t\t\t<th class=\"text-center\" scope=\"col\">Example</th>\n\t\t</tr>\n\t</thead>\n\t<tbody>\n\t\t<tr>\n\t\t\t<td class=\"text-center\">{{response}}</td>\n\t\t\t<td><span style=\"font-size:1.3em;\">This involves copying <strong>short sentences</strong> or <strong>sections </strong>(a limit of around 20 words) from a text word-for-word. The words you copy place need to be within “quotation marks”. You also need to give the page number in the citation. </span></td>\n\t\t\t<td class=\"text-center\">{{response}}</td>\n\t\t</tr>\n\t\t<tr>\n\t\t\t<td class=\"text-center\">{{response}}</td>\n\t\t\t<td><span style=\"font-size:1.3em;\">This involves putting a part of a text into your own words by changing the vocabulary, grammar and phrasing of the original text, but <strong>keeping the original meaning</strong> of the text.</span></td>\n\t\t\t<td class=\"text-center\">{{response}}</td>\n\t\t</tr>\n\t\t<tr>\n\t\t\t<td class=\"text-center\">{{response}}</td>\n\t\t\t<td><span style=\"font-size:1.3em;\">This involves giving the main ideas and findings of a text using your own words. This means that you give general overview so it must be <strong>much shorter</strong> than the original text. </span></td>\n\t\t\t<td class=\"text-center\">{{response}}</td>\n\t\t</tr>\n\t</tbody>\n</table>\n\n<p>&nbsp;</p>\n",
+          "type": "clozeassociation",
+          "case_sensitive": true,
+          "validation": {
+            "scoring_type": "exactMatch",
+            "valid_response": {
+              "score": 6,
+              "value": [
+                "<span style=\"font-size:1.3em;\"><strong>QUOTING</strong></span>",
+                "<span style=\"color:#b22222;\"><span style=\"font-size:1.3em;\">According to Jones (2019, p.124), new businesses need to enter the market \"Tic-Toc smart and Insta-ready\"</span></span>",
+                "<span style=\"font-size:1.3em;\"><strong>PARAPHRASING</strong></span>",
+                "<span style=\"color:#a52a2a;\"><span style=\"font-size:1.3em;\">According to Jones (2019), new businesses need to plan for a strong social media presence&nbsp;when they enter the market.</span></span>",
+                "<span style=\"font-size:1.3em;\"><strong>SUMMARISING</strong></span>",
+                "<span style=\"font-size:1.3em;\"><span style=\"color:#a52a2a;\">While Jones (2019)&nbsp;emphasises the importance of embracing new media platforms when&nbsp;developing marketing plans, she&nbsp;argues that a campaign can only be successful if they are combined with more traditional media, such as print and television.</span></span>"
+              ]
+            }
+          },
+          "instant_feedback": true,
+          "shuffle_options": true
+        },
+        "metadata": {
+          "name": "Cloze with drag & drop",
+          "template_reference": "51a8c1e7-f34f-4faf-b211-da458e891fcb"
+        }
+      },
+      "feedbackInfo": [
+        null,
+        null
+      ]
+    },
+    {
+      "response_id": "3fd122d8-af56-4ff0-a633-698885817d47_42d6978d4feb1dd7344257f05dc5a49e",
+      "question_type": "choicematrix",
+      "dt_score_updated": "2022-10-14T17:19:55Z",
+      "automarkable": true,
+      "attempted": true,
+      "score": 12,
+      "max_score": 15,
+      "question_reference": "bd17b16f-f013-4ae5-9c95-32866ec5df68",
+      "item_reference": "19c13cac-b40c-4461-8d3c-7294ae18218e",
+      "response": {
+        "value": [
+          [
+            0,
+            1
+          ],
+          [
+            2
+          ],
+          [
+            2
+          ],
+          [
+            0
+          ],
+          [
+            2
+          ],
+          [
+            0
+          ],
+          [
+            0
+          ],
+          [
+            1
+          ],
+          [
+            2
+          ],
+          [
+            1
+          ]
+        ],
+        "type": "array",
+        "apiVersion": "v2.168.23",
+        "revision": 6,
+        "feedbackAttemptsCount": 3
+      },
+      "questionInfo": {
+        "type": "choicematrix",
+        "widget_type": "response",
+        "reference": "bd17b16f-f013-4ae5-9c95-32866ec5df68",
+        "data": {
+          "options": [
+            "<span style=\"font-size:1.3em;\">Summary</span>",
+            "<span style=\"font-size:1.3em;\">Paraphrase</span>",
+            "<span style=\"font-size:1.3em;\">Quotation</span>"
+          ],
+          "stems": [
+            "<span style=\"font-size:1.3em;\">involves using your own words</span>",
+            "<span style=\"font-size:1.3em;\">involves copying the exact words from a text</span>",
+            "<span style=\"font-size:1.3em;\">puts words in inverted commas \" \"</span>",
+            "<span style=\"font-size:1.3em;\">is much shorter than the original text</span>",
+            "<span style=\"font-size:1.3em;\">is usually only a short piece of text</span>",
+            "<span style=\"font-size:1.3em;\">includes an in-text citation</span>",
+            "<span style=\"font-size:1.3em;\">presents a general overview of ideas and evidence from the original text</span>",
+            "<span style=\"font-size:1.3em;\">accurately presents an idea or piece of information from a text, but in your own words</span>",
+            "<span style=\"font-size:1.3em;\">should only be used if the exact words are important</span>",
+            "<span style=\"font-size:1.3em;\">demonstrate a good understanding of the text</span>"
+          ],
+          "stimulus": "<p><span style=\"color:#4b0082;\"><span style=\"font-size:1.5em;\"><img class=\"lrn-image-left\" height=\"92\" src=\"https://assets.learnosity.com/organisations/755/a3d8ed5a-3189-49b4-933d-744de3d10016.jpg\" style=\"width: 92px; height: 92px;\" width=\"92\"></span></span></p>\n\n<p>&nbsp;</p>\n\n<h5><span style=\"color:#daa520;\"><span style=\"font-size: 18.2px;\"><span style=\"font-size:1.5em;\"><strong>TASK 6: Quoting, Paraphrasing &amp; Summarising: Usage</strong></span></span></span></h5>\n\n<p><span style=\"font-size: 18.2px;\"><span style=\"color:#4b0082;\"><span style=\"font-size:1.5em;\"></span></span><b>Now complete the grid below based on the information above - some statements are true for more than one form of citation</b></span></p>\n",
+          "type": "choicematrix",
+          "ui_style": {
+            "stem_numeration": "upper-alpha",
+            "type": "table",
+            "horizontal_lines": false
+          },
+          "validation": {
+            "scoring_type": "partialMatchV2",
+            "valid_response": {
+              "score": 15,
+              "value": [
+                [
+                  0,
+                  1
+                ],
+                [
+                  2
+                ],
+                [
+                  2
+                ],
+                [
+                  0
+                ],
+                [
+                  2
+                ],
+                [
+                  0,
+                  1,
+                  2
+                ],
+                [
+                  0
+                ],
+                [
+                  1
+                ],
+                [
+                  2
+                ],
+                [
+                  0,
+                  1,
+                  2
+                ]
+              ]
+            },
+            "rounding": "none"
+          },
+          "shuffle_options": true,
+          "multiple_responses": true,
+          "instant_feedback": true,
+          "feedback_attempts": 3
+        },
+        "metadata": {
+          "name": "Choice matrix – labels",
+          "template_reference": "9de82e14-802c-4bea-a635-bf9ad0b622fb"
+        }
+      },
+      "feedbackInfo": [
+        null,
+        null
+      ]
+    },
+    {
+      "response_id": "3fd122d8-af56-4ff0-a633-698885817d47_c289537273de54da8bc060ad55b64bdf",
+      "question_type": "shorttext",
+      "dt_score_updated": "2022-10-14T17:24:24Z",
+      "automarkable": true,
+      "attempted": true,
+      "score": 0,
+      "max_score": 1,
+      "question_reference": "27c0142b-5f21-410e-a138-953401e2010a",
+      "item_reference": "19c13cac-b40c-4461-8d3c-7294ae18218e",
+      "response": {
+        "value": "Locate",
+        "characterCount": 6,
+        "type": "string",
+        "apiVersion": "v2.168.23",
+        "revision": 3,
+        "feedbackAttemptsCount": 3
+      },
+      "questionInfo": {
+        "type": "shorttext",
+        "widget_type": "response",
+        "reference": "27c0142b-5f21-410e-a138-953401e2010a",
+        "data": {
+          "stimulus": "<h4><span style=\"color:#00ff00;\"><strong>TASK 7: ONLINE TOOLS TO HELP YOU WITH APA7 CITATIONS</strong></span></h4>\n\n<h5><strong>The Coventry University London library referencing webpages: <span style=\"color:#40e0d0;\">https://libguides.coventry.ac.uk/CULONAPA</span> provide extensive information on how to create accurate APA7 citations for all the sources you use. Take time to explore these pages, so you know where to look when you complete your assignments.</strong></h5>\n\n<h5><strong>RefWorks is a free REFERENCING SOFTWARE, which the university subscribes to. Search the library referencing pages and type the name of the other free software available in the box below!</strong></h5>\n\n<p>&nbsp;</p>\n",
+          "type": "shorttext",
+          "validation": {
+            "scoring_type": "exactMatch",
+            "valid_response": {
+              "score": 1,
+              "matching_rule": "contains",
+              "value": "EndNotes"
+            }
+          },
+          "feedback_attempts": 3,
+          "instant_feedback": true
+        },
+        "metadata": {
+          "name": "Short text",
+          "template_reference": "4fe6c726-419c-4aff-b189-4a9756a0ffda"
+        }
+      },
+      "feedbackInfo": [
+        null,
+        null
+      ]
+    },
+    {
+      "response_id": "3fd122d8-af56-4ff0-a633-698885817d47_cb0b54737a9b479ded5cfb6809899494",
+      "question_type": "rating",
+      "dt_score_updated": "2022-10-14T17:25:37Z",
+      "automarkable": false,
+      "attempted": true,
+      "score": null,
+      "max_score": null,
+      "question_reference": "1087d527-9b24-4d65-b1e3-07d7613c056c",
+      "item_reference": "4c6aef72-4f3a-4e55-a4cf-f3c27d3774cf",
+      "response": {
+        "value": "",
+        "type": "numeric",
+        "apiVersion": "v2.168.23",
+        "revision": 1
+      },
+      "questionInfo": {
+        "type": "rating",
+        "widget_type": "response",
+        "reference": "1087d527-9b24-4d65-b1e3-07d7613c056c",
+        "data": {
+          "options": [
+            {
+              "value": "",
+              "label": "😀",
+              "tint": "#B85830",
+              "description": "Did you find this preparation task useful?"
+            },
+            {
+              "value": "",
+              "label": "😐",
+              "tint": "#2979AF",
+              "description": "Was it easy to understand what to do in this preparation task?"
+            },
+            {
+              "value": "",
+              "label": "🙁",
+              "description": "Are you ready to practise more in this week's workshop!!!"
+            }
+          ],
+          "type": "rating",
+          "stimulus": "<h5><font color=\"#008080\"><b>Let us know how you feel about this week's preparation task</b></font></h5>\n\n<p>Do you understand how to refer to your research in your writing?</p>\n",
+          "ui_style": {
+            "fontsize": "xxlarge"
+          }
+        },
+        "metadata": {
+          "name": "Rating",
+          "template_reference": "8e99fa69-b829-4a7d-ae2a-eb935fe3a2c6"
+        }
+      },
+      "feedbackInfo": [
+        null,
+        null
+      ]
+    },
+    {
+      "response_id": "3fd122d8-af56-4ff0-a633-698885817d47_e51e03f59e97a2e5e22ad4e43f7be3eb",
+      "question_type": "rating",
+      "dt_score_updated": "2022-10-14T17:25:37Z",
+      "automarkable": false,
+      "attempted": true,
+      "score": null,
+      "max_score": null,
+      "question_reference": "2f0998ca-4c33-4271-9571-76e8d18c5541",
+      "item_reference": "4c6aef72-4f3a-4e55-a4cf-f3c27d3774cf",
+      "response": {
+        "value": "",
+        "type": "numeric",
+        "apiVersion": "v2.168.23",
+        "revision": 1
+      },
+      "questionInfo": {
+        "type": "rating",
+        "widget_type": "response",
+        "reference": "2f0998ca-4c33-4271-9571-76e8d18c5541",
+        "data": {
+          "options": [
+            {
+              "value": "",
+              "label": "😀",
+              "tint": "#B85830"
+            },
+            {
+              "value": "",
+              "label": "😐",
+              "tint": "#2979AF"
+            },
+            {
+              "value": "",
+              "label": "🙁"
+            }
+          ],
+          "type": "rating",
+          "stimulus": "2. Did you feel confident about what you had to do in this week's preparation tasks?",
+          "ui_style": {
+            "fontsize": "xxlarge"
+          }
+        },
+        "metadata": {
+          "name": "Rating",
+          "template_reference": "8e99fa69-b829-4a7d-ae2a-eb935fe3a2c6"
+        }
+      },
+      "feedbackInfo": [
+        null,
+        null
+      ]
+    },
+    {
+      "response_id": "3fd122d8-af56-4ff0-a633-698885817d47_08d748fc3dd7a516a7beb7ea4f868b28",
+      "question_type": "rating",
+      "dt_score_updated": "2022-10-14T17:25:37Z",
+      "automarkable": false,
+      "attempted": true,
+      "score": null,
+      "max_score": null,
+      "question_reference": "b766c6b5-4ca0-46af-bac3-88bd975b1327",
+      "item_reference": "4c6aef72-4f3a-4e55-a4cf-f3c27d3774cf",
+      "response": {
+        "value": "",
+        "type": "numeric",
+        "apiVersion": "v2.168.23",
+        "revision": 1
+      },
+      "questionInfo": {
+        "type": "rating",
+        "widget_type": "response",
+        "reference": "b766c6b5-4ca0-46af-bac3-88bd975b1327",
+        "data": {
+          "options": [
+            {
+              "value": "",
+              "label": "😀",
+              "tint": "#B85830"
+            },
+            {
+              "value": "",
+              "label": "😐",
+              "tint": "#2979AF"
+            },
+            {
+              "value": "",
+              "label": "🙁"
+            }
+          ],
+          "type": "rating",
+          "stimulus": "3. How do you feel about practising this more in our next workshop! :)",
+          "ui_style": {
+            "fontsize": "xxlarge"
+          }
+        },
+        "metadata": {
+          "name": "Rating",
+          "template_reference": "8e99fa69-b829-4a7d-ae2a-eb935fe3a2c6"
+        }
+      },
+      "feedbackInfo": [
+        null,
+        null
+      ]
+    }
+  ]
+}

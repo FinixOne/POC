@@ -1,0 +1,2051 @@
+{
+  "userId": "e5d62ebc-f3a8-46ac-a773-83ffe102fb9f",
+  "firstName": "Minh Thao",
+  "lastName": "Hoang",
+  "assigmentId": "e740b6f5-9086-44e9-a689-dd8aa79069c1",
+  "assigmentName": "Academic Presentations (2)",
+  "sessionId": "ef4dd2dc-702d-4f00-a5e1-730a57fe3f22",
+  "email": "hoangm8@coventry.ac.uk",
+  "spaceId": "eccb3434-e130-4250-b8cd-8ba714fcec86",
+  "spaceName": "(Community) Presessional English (PSE London)",
+  "score": 91,
+  "max_score": 96,
+  "questions": [
+    {
+      "response_id": "ef4dd2dc-702d-4f00-a5e1-730a57fe3f22_b72ccfb6d5a764fcbcdb0c2f6951dc9f",
+      "question_type": "clozedropdown",
+      "dt_score_updated": "2022-11-16T02:58:28Z",
+      "automarkable": true,
+      "attempted": true,
+      "score": 1,
+      "max_score": 1,
+      "question_reference": "e1e8225b-598a-4960-83ad-dcd27bd3f6ce",
+      "item_reference": "49463e67-7dfd-4553-9047-fd5ef6532a4b",
+      "response": {
+        "value": [
+          "BAD"
+        ],
+        "type": "array",
+        "apiVersion": "v2.168.23",
+        "revision": 1,
+        "feedbackAttemptsCount": 1
+      },
+      "questionInfo": {
+        "type": "clozedropdown",
+        "widget_type": "response",
+        "reference": "e1e8225b-598a-4960-83ad-dcd27bd3f6ce",
+        "data": {
+          "possible_responses": [
+            [
+              "GOOD",
+              "BAD"
+            ]
+          ],
+          "response_container": {
+            "pointer": "left"
+          },
+          "stimulus": "<h2><strong><span style=\"color:#0000ff;\">Let's start by having a look at some Example Slides.&nbsp;</span></strong></h2>\n\n<h4><span style=\"font-size:1.5em;\"><strong><span style=\"color:#0000ff;\">► </span>Do you think they are&nbsp;GOOD&nbsp;or&nbsp;BAD&nbsp;examples? Why?</strong></span></h4>\n\n<p>&nbsp;</p>\n\n<h4>&nbsp;</h4>\n\n<h2><span style=\"color:#0000ff;\"><strong>Example 1</strong></span></h2>\n\n<p><img height=\"300\" src=\"https://assets.learnosity.com/organisations/755/793ae4e9-c31f-422f-8fed-cd1bb1321ec9.png\" width=\"400\" /></p>\n\n<p><sub>(Senior Capstone Class, 2013)</sub></p>\n",
+          "template": "<span style=\"font-size:2em;\"><strong><span style=\"color:#0000ff;\">►</span> This is a&nbsp;</strong></span><span style=\"font-size:1.3em;\"><strong>{{response}}</strong></span><span style=\"font-size:2em;\"><strong>&nbsp;slide.</strong></span>",
+          "type": "clozedropdown",
+          "case_sensitive": true,
+          "validation": {
+            "scoring_type": "exactMatch",
+            "valid_response": {
+              "score": 1,
+              "value": [
+                "BAD"
+              ]
+            }
+          },
+          "instant_feedback": true
+        },
+        "metadata": {
+          "name": "Cloze with drop down",
+          "template_reference": "2fbba51b-e35e-441f-83c7-2662e2e81fa6"
+        }
+      },
+      "feedbackInfo": [
+        null,
+        null
+      ]
+    },
+    {
+      "response_id": "ef4dd2dc-702d-4f00-a5e1-730a57fe3f22_7751ffaaae47ee702216e90647c35249",
+      "question_type": "choicematrix",
+      "dt_score_updated": "2022-11-16T02:59:23Z",
+      "automarkable": true,
+      "attempted": true,
+      "score": 10,
+      "max_score": 10,
+      "question_reference": "aa8893e6-d022-4182-b9ce-8d310611e1ef",
+      "item_reference": "49463e67-7dfd-4553-9047-fd5ef6532a4b",
+      "response": {
+        "value": [
+          [
+            1
+          ],
+          [
+            0
+          ],
+          [
+            0
+          ],
+          [
+            1
+          ],
+          [
+            0
+          ],
+          [
+            1
+          ],
+          [
+            0
+          ],
+          [
+            1
+          ],
+          [
+            1
+          ],
+          [
+            0
+          ]
+        ],
+        "type": "array",
+        "apiVersion": "v2.168.23",
+        "revision": 4,
+        "feedbackAttemptsCount": 2
+      },
+      "questionInfo": {
+        "type": "choicematrix",
+        "widget_type": "response",
+        "reference": "aa8893e6-d022-4182-b9ce-8d310611e1ef",
+        "data": {
+          "options": [
+            "<span style=\"color:#008000;\"><strong>YES</strong></span>",
+            "<span style=\"color:#ff0000;\"><strong>NO</strong></span>"
+          ],
+          "stems": [
+            "Background<span style=\"color:#ffffff;\">_</span>is<span style=\"color:#ffffff;\">_</span>simple<span style=\"color:#ffffff;\">_</span>and<span style=\"color:#ffffff;\">_</span>professional.",
+            "Too much colour.",
+            "Bad contrast.",
+            "Font is a good size.",
+            "Font too small.",
+            "Bullet points are short and clear.",
+            "Too much text.",
+            "Picture is relevant.",
+            "Attractive and interesting.",
+            "Boring."
+          ],
+          "type": "choicematrix",
+          "ui_style": {
+            "stem_numeration": "upper-alpha",
+            "type": "table",
+            "horizontal_lines": false
+          },
+          "validation": {
+            "scoring_type": "partialMatchV2",
+            "valid_response": {
+              "score": 10,
+              "value": [
+                [
+                  1
+                ],
+                [
+                  0
+                ],
+                [
+                  0
+                ],
+                [
+                  1
+                ],
+                [
+                  0
+                ],
+                [
+                  1
+                ],
+                [
+                  0
+                ],
+                [
+                  1
+                ],
+                [
+                  1
+                ],
+                [
+                  0
+                ]
+              ]
+            }
+          },
+          "stimulus": "<span style=\"font-size:2em;\"><strong><span style=\"color:#0000ff;\">► </span>Why?</strong></span>",
+          "instant_feedback": true
+        },
+        "metadata": {
+          "name": "Choice matrix – labels",
+          "template_reference": "9de82e14-802c-4bea-a635-bf9ad0b622fb"
+        }
+      },
+      "feedbackInfo": [
+        null,
+        null
+      ]
+    },
+    {
+      "response_id": "ef4dd2dc-702d-4f00-a5e1-730a57fe3f22_0c37ff8cf7434d04fb75f32a1ce212f6",
+      "question_type": "clozedropdown",
+      "dt_score_updated": "2022-11-16T02:59:38Z",
+      "automarkable": true,
+      "attempted": true,
+      "score": 1,
+      "max_score": 1,
+      "question_reference": "c8acdcfc-5e13-4699-bab8-743b9d5ced25",
+      "item_reference": "49463e67-7dfd-4553-9047-fd5ef6532a4b",
+      "response": {
+        "value": [
+          "GOOD"
+        ],
+        "type": "array",
+        "apiVersion": "v2.168.23",
+        "revision": 1
+      },
+      "questionInfo": {
+        "type": "clozedropdown",
+        "widget_type": "response",
+        "reference": "c8acdcfc-5e13-4699-bab8-743b9d5ced25",
+        "data": {
+          "possible_responses": [
+            [
+              "GOOD",
+              "BAD"
+            ]
+          ],
+          "response_container": {
+            "pointer": "left"
+          },
+          "stimulus": "<h2><span style=\"color:#daa520;\"><strong>Example 2</strong></span></h2>\n\n<p><img height=\"299\" src=\"https://assets.learnosity.com/organisations/755/fc90b9b7-880c-4dc2-84df-e76cc7ba8fa5.png\" width=\"400\"></p>\n\n<p><sub>(Senior Capstone Class, 2013)</sub></p>\n",
+          "template": "<span style=\"font-size:2em;\"><strong><span style=\"color:#daa520;\">► </span>This is a&nbsp;</strong></span><span style=\"font-size:1.3em;\"><strong>{{response}}</strong></span><span style=\"font-size:2em;\"><strong>&nbsp;slide.</strong></span>",
+          "type": "clozedropdown",
+          "case_sensitive": true,
+          "validation": {
+            "scoring_type": "exactMatch",
+            "valid_response": {
+              "score": 1,
+              "value": [
+                "GOOD"
+              ]
+            }
+          },
+          "instant_feedback": true
+        },
+        "metadata": {
+          "name": "Cloze with drop down",
+          "template_reference": "2fbba51b-e35e-441f-83c7-2662e2e81fa6"
+        }
+      },
+      "feedbackInfo": [
+        null,
+        null
+      ]
+    },
+    {
+      "response_id": "ef4dd2dc-702d-4f00-a5e1-730a57fe3f22_1fa857e6632617ec861eea4ac05c139f",
+      "question_type": "choicematrix",
+      "dt_score_updated": "2022-11-16T02:59:53Z",
+      "automarkable": true,
+      "attempted": true,
+      "score": 10,
+      "max_score": 10,
+      "question_reference": "e1067873-4211-481e-a1ca-59919a32c0aa",
+      "item_reference": "49463e67-7dfd-4553-9047-fd5ef6532a4b",
+      "response": {
+        "value": [
+          [
+            0
+          ],
+          [
+            1
+          ],
+          [
+            1
+          ],
+          [
+            0
+          ],
+          [
+            1
+          ],
+          [
+            0
+          ],
+          [
+            1
+          ],
+          [
+            0
+          ],
+          [
+            0
+          ],
+          [
+            1
+          ]
+        ],
+        "type": "array",
+        "apiVersion": "v2.168.23",
+        "revision": 1,
+        "feedbackAttemptsCount": 1
+      },
+      "questionInfo": {
+        "type": "choicematrix",
+        "widget_type": "response",
+        "reference": "e1067873-4211-481e-a1ca-59919a32c0aa",
+        "data": {
+          "options": [
+            "<span style=\"color:#008000;\"><strong>YES</strong></span>",
+            "<span style=\"color:#ff0000;\"><strong>NO</strong></span>"
+          ],
+          "stems": [
+            "Background<span style=\"color:#ffffff;\">_</span>is<span style=\"color:#ffffff;\">_</span>simple<span style=\"color:#ffffff;\">_</span>and<span style=\"color:#ffffff;\">_</span>professional.",
+            "Too much colour.",
+            "Bad contrast.",
+            "Font is a good size.",
+            "Font too small.",
+            "Bullet points are short and clear.",
+            "Too much text.",
+            "Picture is relevant.",
+            "Attractive and interesting.",
+            "Boring."
+          ],
+          "type": "choicematrix",
+          "ui_style": {
+            "stem_numeration": "upper-alpha",
+            "type": "table",
+            "horizontal_lines": false
+          },
+          "validation": {
+            "scoring_type": "partialMatchV2",
+            "valid_response": {
+              "score": 10,
+              "value": [
+                [
+                  0
+                ],
+                [
+                  1
+                ],
+                [
+                  1
+                ],
+                [
+                  0
+                ],
+                [
+                  1
+                ],
+                [
+                  0
+                ],
+                [
+                  1
+                ],
+                [
+                  0
+                ],
+                [
+                  0
+                ],
+                [
+                  1
+                ]
+              ]
+            }
+          },
+          "stimulus": "<span style=\"font-size:2em;\"><strong><span style=\"color:#daa520;\">► </span>Why?</strong></span>",
+          "instant_feedback": true
+        },
+        "metadata": {
+          "name": "Choice matrix – labels",
+          "template_reference": "9de82e14-802c-4bea-a635-bf9ad0b622fb"
+        }
+      },
+      "feedbackInfo": [
+        null,
+        null
+      ]
+    },
+    {
+      "response_id": "ef4dd2dc-702d-4f00-a5e1-730a57fe3f22_955d2086f9bac3f53a4971b23f2b46c7",
+      "question_type": "clozedropdown",
+      "dt_score_updated": "2022-11-16T03:02:00Z",
+      "automarkable": true,
+      "attempted": true,
+      "score": 1,
+      "max_score": 1,
+      "question_reference": "8d7e88e0-2e5c-43ea-ab39-d37c06ce198a",
+      "item_reference": "49463e67-7dfd-4553-9047-fd5ef6532a4b",
+      "response": {
+        "value": [
+          "BAD"
+        ],
+        "type": "array",
+        "apiVersion": "v2.168.23",
+        "revision": 2,
+        "feedbackAttemptsCount": 1
+      },
+      "questionInfo": {
+        "type": "clozedropdown",
+        "widget_type": "response",
+        "reference": "8d7e88e0-2e5c-43ea-ab39-d37c06ce198a",
+        "data": {
+          "possible_responses": [
+            [
+              "GOOD",
+              "BAD"
+            ]
+          ],
+          "response_container": {
+            "pointer": "left"
+          },
+          "stimulus": "<h2><span style=\"color:#8b4513;\"><strong>Example 3</strong></span></h2>\n\n<p><img height=\"290\" src=\"https://assets.learnosity.com/organisations/755/627d45f7-7591-4b1e-a3a5-101d0d64d150.png\" width=\"401\"></p>\n\n<p><sub>(Spreading Science, 2008)</sub></p>\n",
+          "template": "<span style=\"font-size:2em;\"><strong><span style=\"color:#daa520;\"></span><span style=\"color:#8b4513;\">►</span><span style=\"color:#daa520;\"> </span>This is a&nbsp;</strong></span><span style=\"font-size:1.3em;\"><strong>{{response}}</strong></span><span style=\"font-size:2em;\"><strong>&nbsp;slide.</strong></span>",
+          "type": "clozedropdown",
+          "case_sensitive": true,
+          "validation": {
+            "scoring_type": "exactMatch",
+            "valid_response": {
+              "score": 1,
+              "value": [
+                "BAD"
+              ]
+            }
+          },
+          "instant_feedback": true
+        },
+        "metadata": {
+          "name": "Cloze with drop down",
+          "template_reference": "2fbba51b-e35e-441f-83c7-2662e2e81fa6"
+        }
+      },
+      "feedbackInfo": [
+        null,
+        null
+      ]
+    },
+    {
+      "response_id": "ef4dd2dc-702d-4f00-a5e1-730a57fe3f22_84ae3387e66282d689a9b3a89e266750",
+      "question_type": "choicematrix",
+      "dt_score_updated": "2022-11-16T03:00:21Z",
+      "automarkable": true,
+      "attempted": true,
+      "score": 8,
+      "max_score": 8,
+      "question_reference": "3e730166-1cbd-473a-8ff2-4880cd3dec24",
+      "item_reference": "49463e67-7dfd-4553-9047-fd5ef6532a4b",
+      "response": {
+        "value": [
+          [
+            1
+          ],
+          [
+            0
+          ],
+          [
+            0
+          ],
+          [
+            1
+          ],
+          [
+            0
+          ],
+          [
+            0
+          ],
+          [
+            1
+          ],
+          [
+            0
+          ]
+        ],
+        "type": "array",
+        "apiVersion": "v2.168.23",
+        "revision": 1,
+        "feedbackAttemptsCount": 2
+      },
+      "questionInfo": {
+        "type": "choicematrix",
+        "widget_type": "response",
+        "reference": "3e730166-1cbd-473a-8ff2-4880cd3dec24",
+        "data": {
+          "options": [
+            "<span style=\"color:#008000;\"><strong>YES</strong></span>",
+            "<span style=\"color:#ff0000;\"><strong>NO</strong></span>"
+          ],
+          "stems": [
+            "Background<span style=\"color:#ffffff;\">_</span>is<span style=\"color:#ffffff;\">_</span>simple<span style=\"color:#ffffff;\">_</span>and<span style=\"color:#ffffff;\">_</span>professional.",
+            "Too much colour.",
+            "Bad contrast.",
+            "Font is a good size.",
+            "Font too small.",
+            "Too much information.",
+            "Attractive and interesting.",
+            "Confusing."
+          ],
+          "type": "choicematrix",
+          "ui_style": {
+            "stem_numeration": "upper-alpha",
+            "type": "table",
+            "horizontal_lines": false
+          },
+          "validation": {
+            "scoring_type": "partialMatchV2",
+            "valid_response": {
+              "score": 8,
+              "value": [
+                [
+                  1
+                ],
+                [
+                  0
+                ],
+                [
+                  0
+                ],
+                [
+                  1
+                ],
+                [
+                  0
+                ],
+                [
+                  0
+                ],
+                [
+                  1
+                ],
+                [
+                  0
+                ]
+              ]
+            }
+          },
+          "stimulus": "<span style=\"font-size:2em;\"><strong><span style=\"color:#daa520;\"></span><span style=\"color:#8b4513;\">►</span><span style=\"color:#daa520;\"> </span>Why?</strong></span>",
+          "instant_feedback": true
+        },
+        "metadata": {
+          "name": "Choice matrix – labels",
+          "template_reference": "9de82e14-802c-4bea-a635-bf9ad0b622fb"
+        }
+      },
+      "feedbackInfo": [
+        null,
+        null
+      ]
+    },
+    {
+      "response_id": "ef4dd2dc-702d-4f00-a5e1-730a57fe3f22_9462fc7e6c364ffacd0ec8721776ad36",
+      "question_type": "clozedropdown",
+      "dt_score_updated": "2022-11-16T03:00:36Z",
+      "automarkable": true,
+      "attempted": true,
+      "score": 1,
+      "max_score": 1,
+      "question_reference": "7ce6f5c2-47ba-4f06-9f10-5d408fff62c4",
+      "item_reference": "49463e67-7dfd-4553-9047-fd5ef6532a4b",
+      "response": {
+        "value": [
+          "BAD"
+        ],
+        "type": "array",
+        "apiVersion": "v2.168.23",
+        "revision": 1
+      },
+      "questionInfo": {
+        "type": "clozedropdown",
+        "widget_type": "response",
+        "reference": "7ce6f5c2-47ba-4f06-9f10-5d408fff62c4",
+        "data": {
+          "possible_responses": [
+            [
+              "GOOD",
+              "BAD"
+            ]
+          ],
+          "response_container": {
+            "pointer": "left"
+          },
+          "stimulus": "<h2><span style=\"color:#ee82ee;\"><strong>Example 4</strong></span></h2>\n\n<p><img height=\"323\" src=\"https://assets.learnosity.com/organisations/755/5bb9919d-b12a-4e55-bc8f-ca6a6a1ea6b4.png\" width=\"400\"></p>\n\n<p><sub>(Benhermance, 2011)</sub></p>\n",
+          "template": "<span style=\"font-size:2em;\"><strong><span style=\"color:#daa520;\"></span><span style=\"color:#ee82ee;\">► </span>This is a&nbsp;</strong></span><span style=\"font-size:1.3em;\"><strong>{{response}}</strong></span><span style=\"font-size:2em;\"><strong>&nbsp;slide.</strong></span>",
+          "type": "clozedropdown",
+          "case_sensitive": true,
+          "validation": {
+            "scoring_type": "exactMatch",
+            "valid_response": {
+              "score": 1,
+              "value": [
+                "BAD"
+              ]
+            }
+          },
+          "instant_feedback": true
+        },
+        "metadata": {
+          "name": "Cloze with drop down",
+          "template_reference": "2fbba51b-e35e-441f-83c7-2662e2e81fa6"
+        }
+      },
+      "feedbackInfo": [
+        null,
+        null
+      ]
+    },
+    {
+      "response_id": "ef4dd2dc-702d-4f00-a5e1-730a57fe3f22_b8e493149173d4fb65efc69f548daa78",
+      "question_type": "choicematrix",
+      "dt_score_updated": "2022-11-16T03:00:49Z",
+      "automarkable": true,
+      "attempted": true,
+      "score": 9,
+      "max_score": 9,
+      "question_reference": "a1ec9291-1420-4689-a29f-e79ce09205a6",
+      "item_reference": "49463e67-7dfd-4553-9047-fd5ef6532a4b",
+      "response": {
+        "value": [
+          [
+            1
+          ],
+          [
+            0
+          ],
+          [
+            0
+          ],
+          [
+            1
+          ],
+          [
+            0
+          ],
+          [
+            1
+          ],
+          [
+            0
+          ],
+          [
+            1
+          ],
+          [
+            0
+          ]
+        ],
+        "type": "array",
+        "apiVersion": "v2.168.23",
+        "revision": 1,
+        "feedbackAttemptsCount": 3
+      },
+      "questionInfo": {
+        "type": "choicematrix",
+        "widget_type": "response",
+        "reference": "a1ec9291-1420-4689-a29f-e79ce09205a6",
+        "data": {
+          "options": [
+            "<span style=\"color:#008000;\"><strong>YES</strong></span>",
+            "<span style=\"color:#ff0000;\"><strong>NO</strong></span>"
+          ],
+          "stems": [
+            "Background<span style=\"color:#ffffff;\">_</span>is<span style=\"color:#ffffff;\">_</span>simple<span style=\"color:#ffffff;\">_</span>and<span style=\"color:#ffffff;\">_</span>professional.",
+            "Too much colour.",
+            "Bad contrast.",
+            "Font is a good size.",
+            "Font too small.",
+            "Bullet points are short and clear.",
+            "Too much text.",
+            "Attractive and interesting.",
+            "Boring."
+          ],
+          "type": "choicematrix",
+          "ui_style": {
+            "stem_numeration": "upper-alpha",
+            "type": "table",
+            "horizontal_lines": false
+          },
+          "validation": {
+            "scoring_type": "partialMatchV2",
+            "valid_response": {
+              "score": 9,
+              "value": [
+                1,
+                0,
+                0,
+                1,
+                0,
+                1,
+                0,
+                1,
+                0
+              ]
+            }
+          },
+          "stimulus": "<span style=\"font-size:2em;\"><strong><span style=\"color:#ee82ee;\">► </span>Why?</strong></span>",
+          "instant_feedback": true
+        },
+        "metadata": {
+          "name": "Choice matrix – labels",
+          "template_reference": "9de82e14-802c-4bea-a635-bf9ad0b622fb"
+        }
+      },
+      "feedbackInfo": [
+        null,
+        null
+      ]
+    },
+    {
+      "response_id": "ef4dd2dc-702d-4f00-a5e1-730a57fe3f22_e475d5609f35aa79af3f88dc6f29ea50",
+      "question_type": "clozedropdown",
+      "dt_score_updated": "2022-11-16T03:01:04Z",
+      "automarkable": true,
+      "attempted": true,
+      "score": 1,
+      "max_score": 1,
+      "question_reference": "f4f3a737-0a32-4f06-8453-349a4a9d8f20",
+      "item_reference": "49463e67-7dfd-4553-9047-fd5ef6532a4b",
+      "response": {
+        "value": [
+          "GOOD"
+        ],
+        "type": "array",
+        "apiVersion": "v2.168.23",
+        "revision": 1
+      },
+      "questionInfo": {
+        "type": "clozedropdown",
+        "widget_type": "response",
+        "reference": "f4f3a737-0a32-4f06-8453-349a4a9d8f20",
+        "data": {
+          "possible_responses": [
+            [
+              "GOOD",
+              "BAD"
+            ]
+          ],
+          "response_container": {
+            "pointer": "left"
+          },
+          "stimulus": "<h2><span style=\"color:#008080;\"><strong>Example 5</strong></span></h2>\n\n<p><img height=\"228\" src=\"https://assets.learnosity.com/organisations/755/80ff5048-5653-4180-b256-f067f63221a8.png\" width=\"399\" /></p>\n",
+          "template": "<span style=\"font-size:2em;\"><strong><span style=\"color:#daa520;\"></span><span style=\"color:#ee82ee;\"></span><span style=\"color:#008080;\">►</span><span style=\"color:#ee82ee;\"> </span>This is a&nbsp;</strong></span><span style=\"font-size:1.3em;\"><strong>{{response}}</strong></span><span style=\"font-size:2em;\"><strong>&nbsp;slide.</strong></span>",
+          "type": "clozedropdown",
+          "case_sensitive": true,
+          "validation": {
+            "scoring_type": "exactMatch",
+            "valid_response": {
+              "score": 1,
+              "value": [
+                "GOOD"
+              ]
+            }
+          },
+          "instant_feedback": true
+        },
+        "metadata": {
+          "name": "Cloze with drop down",
+          "template_reference": "2fbba51b-e35e-441f-83c7-2662e2e81fa6"
+        }
+      },
+      "feedbackInfo": [
+        null,
+        null
+      ]
+    },
+    {
+      "response_id": "ef4dd2dc-702d-4f00-a5e1-730a57fe3f22_aa72f858dd63141a1da66c2818df7dd8",
+      "question_type": "choicematrix",
+      "dt_score_updated": "2022-11-16T03:01:18Z",
+      "automarkable": true,
+      "attempted": true,
+      "score": 10,
+      "max_score": 10,
+      "question_reference": "f429d78a-cfcb-4817-8da1-89d547aac29d",
+      "item_reference": "49463e67-7dfd-4553-9047-fd5ef6532a4b",
+      "response": {
+        "value": [
+          [
+            0
+          ],
+          [
+            1
+          ],
+          [
+            1
+          ],
+          [
+            0
+          ],
+          [
+            1
+          ],
+          [
+            0
+          ],
+          [
+            1
+          ],
+          [
+            0
+          ],
+          [
+            0
+          ],
+          [
+            1
+          ]
+        ],
+        "type": "array",
+        "apiVersion": "v2.168.23",
+        "revision": 2,
+        "feedbackAttemptsCount": 2
+      },
+      "questionInfo": {
+        "type": "choicematrix",
+        "widget_type": "response",
+        "reference": "f429d78a-cfcb-4817-8da1-89d547aac29d",
+        "data": {
+          "options": [
+            "<span style=\"color:#008000;\"><strong>YES</strong></span>",
+            "<span style=\"color:#ff0000;\"><strong>NO</strong></span>"
+          ],
+          "stems": [
+            "Background<span style=\"color:#ffffff;\">_</span>is<span style=\"color:#ffffff;\">_</span>simple<span style=\"color:#ffffff;\">_</span>and<span style=\"color:#ffffff;\">_</span>professional.",
+            "Too much colour.",
+            "Bad contrast.",
+            "Font is a good size.",
+            "Font too small.",
+            "Bullet points are short and clear.",
+            "Too much text.",
+            "Picture is relevant.",
+            "Attractive and interesting.",
+            "Boring."
+          ],
+          "type": "choicematrix",
+          "ui_style": {
+            "stem_numeration": "upper-alpha",
+            "type": "table",
+            "horizontal_lines": false
+          },
+          "validation": {
+            "scoring_type": "partialMatchV2",
+            "valid_response": {
+              "score": 10,
+              "value": [
+                [
+                  0
+                ],
+                [
+                  1
+                ],
+                [
+                  1
+                ],
+                [
+                  0
+                ],
+                [
+                  1
+                ],
+                [
+                  0
+                ],
+                [
+                  1
+                ],
+                [
+                  0
+                ],
+                [
+                  0
+                ],
+                [
+                  1
+                ]
+              ]
+            }
+          },
+          "stimulus": "<span style=\"font-size:2em;\"><strong><span style=\"color:#008080;\">► </span>Why?</strong></span>",
+          "instant_feedback": true
+        },
+        "metadata": {
+          "name": "Choice matrix – labels",
+          "template_reference": "9de82e14-802c-4bea-a635-bf9ad0b622fb"
+        }
+      },
+      "feedbackInfo": [
+        null,
+        null
+      ]
+    },
+    {
+      "response_id": "ef4dd2dc-702d-4f00-a5e1-730a57fe3f22_b82e7cd6d687091f8ea84af91e3f5106",
+      "question_type": "clozedropdown",
+      "dt_score_updated": "2022-11-16T03:01:46Z",
+      "automarkable": true,
+      "attempted": true,
+      "score": 1,
+      "max_score": 1,
+      "question_reference": "51ec8092-1e74-407a-917d-ac9b74cfcff0",
+      "item_reference": "49463e67-7dfd-4553-9047-fd5ef6532a4b",
+      "response": {
+        "value": [
+          "BAD"
+        ],
+        "type": "array",
+        "apiVersion": "v2.168.23",
+        "revision": 2,
+        "feedbackAttemptsCount": 1
+      },
+      "questionInfo": {
+        "type": "clozedropdown",
+        "widget_type": "response",
+        "reference": "51ec8092-1e74-407a-917d-ac9b74cfcff0",
+        "data": {
+          "possible_responses": [
+            [
+              "GOOD",
+              "BAD"
+            ]
+          ],
+          "response_container": {
+            "pointer": "left"
+          },
+          "stimulus": "<h2><span style=\"color:#696969;\"><strong>Example 6</strong></span></h2>\n\n<p><img height=\"235\" src=\"https://assets.learnosity.com/organisations/755/b3591a4d-f407-48ef-b0de-275636072726.png\" width=\"400\"></p>\n\n<p>&nbsp;</p>\n",
+          "template": "<span style=\"font-size:2em;\"><strong><span style=\"color:#daa520;\"></span><span style=\"color:#ee82ee;\"></span><span style=\"color:#696969;\">► </span>This is a&nbsp;</strong></span><span style=\"font-size:1.3em;\"><strong>{{response}}</strong></span><span style=\"font-size:2em;\"><strong>&nbsp;slide.</strong></span>",
+          "type": "clozedropdown",
+          "case_sensitive": true,
+          "validation": {
+            "scoring_type": "exactMatch",
+            "valid_response": {
+              "score": 1,
+              "value": [
+                "BAD"
+              ]
+            }
+          },
+          "instant_feedback": true
+        },
+        "metadata": {
+          "name": "Cloze with drop down",
+          "template_reference": "2fbba51b-e35e-441f-83c7-2662e2e81fa6"
+        }
+      },
+      "feedbackInfo": [
+        null,
+        null
+      ]
+    },
+    {
+      "response_id": "ef4dd2dc-702d-4f00-a5e1-730a57fe3f22_e80bab1e5a132aa4dce802218402f293",
+      "question_type": "choicematrix",
+      "dt_score_updated": "2022-11-16T03:01:46Z",
+      "automarkable": true,
+      "attempted": true,
+      "score": 9,
+      "max_score": 9,
+      "question_reference": "26959c32-2514-4d71-ba0b-8dd9da61e759",
+      "item_reference": "49463e67-7dfd-4553-9047-fd5ef6532a4b",
+      "response": {
+        "value": [
+          [
+            0
+          ],
+          [
+            1
+          ],
+          [
+            1
+          ],
+          [
+            1
+          ],
+          [
+            0
+          ],
+          [
+            0
+          ],
+          [
+            1
+          ],
+          [
+            1
+          ],
+          [
+            0
+          ]
+        ],
+        "type": "array",
+        "apiVersion": "v2.168.23",
+        "revision": 1,
+        "feedbackAttemptsCount": 3
+      },
+      "questionInfo": {
+        "type": "choicematrix",
+        "widget_type": "response",
+        "reference": "26959c32-2514-4d71-ba0b-8dd9da61e759",
+        "data": {
+          "options": [
+            "<span style=\"color:#008000;\"><strong>YES</strong></span>",
+            "<span style=\"color:#ff0000;\"><strong>NO</strong></span>"
+          ],
+          "stems": [
+            "Background<span style=\"color:#ffffff;\">_</span>is<span style=\"color:#ffffff;\">_</span>simple<span style=\"color:#ffffff;\">_</span>and<span style=\"color:#ffffff;\">_</span>professional.",
+            "Too much colour.",
+            "Bad contrast.",
+            "Font is a good size.",
+            "Font too small.",
+            "Bullet points are short and clear.",
+            "Too much text.",
+            "Attractive and interesting.",
+            "Boring."
+          ],
+          "type": "choicematrix",
+          "ui_style": {
+            "stem_numeration": "upper-alpha",
+            "type": "table",
+            "horizontal_lines": false
+          },
+          "validation": {
+            "scoring_type": "partialMatchV2",
+            "valid_response": {
+              "score": 9,
+              "value": [
+                0,
+                1,
+                1,
+                1,
+                0,
+                0,
+                1,
+                1,
+                0
+              ]
+            }
+          },
+          "stimulus": "<span style=\"font-size:2em;\"><strong><span style=\"color:#008080;\"></span><span style=\"color:#696969;\">►</span><span style=\"color:#008080;\"> </span>Why?</strong></span>",
+          "instant_feedback": true
+        },
+        "metadata": {
+          "name": "Choice matrix – labels",
+          "template_reference": "9de82e14-802c-4bea-a635-bf9ad0b622fb"
+        }
+      },
+      "feedbackInfo": [
+        null,
+        null
+      ]
+    },
+    {
+      "response_id": "ef4dd2dc-702d-4f00-a5e1-730a57fe3f22_0dac4ffce0d2d5e5b25c54217dcb4c4a",
+      "question_type": "clozedropdown",
+      "dt_score_updated": "2022-11-16T03:02:14Z",
+      "automarkable": true,
+      "attempted": true,
+      "score": 1,
+      "max_score": 1,
+      "question_reference": "d8923198-5408-4db8-b4db-42c368fed2cf",
+      "item_reference": "49463e67-7dfd-4553-9047-fd5ef6532a4b",
+      "response": {
+        "value": [
+          "GOOD"
+        ],
+        "type": "array",
+        "apiVersion": "v2.168.23",
+        "revision": 1
+      },
+      "questionInfo": {
+        "type": "clozedropdown",
+        "widget_type": "response",
+        "reference": "d8923198-5408-4db8-b4db-42c368fed2cf",
+        "data": {
+          "possible_responses": [
+            [
+              "GOOD",
+              "BAD"
+            ]
+          ],
+          "response_container": {
+            "pointer": "left"
+          },
+          "stimulus": "<h2><span style=\"color:#0000ff;\"><strong>Example 7</strong></span></h2>\n\n<p><img height=\"229\" src=\"https://assets.learnosity.com/organisations/755/6bebdb95-fc02-4b18-b063-1e8de88d6cef.png\" width=\"399\" /></p>\n\n<p>&nbsp;</p>\n",
+          "template": "<span style=\"font-size:2em;\"><strong><span style=\"color:#daa520;\"></span><span style=\"color:#ee82ee;\"></span><span style=\"color:#0000ff;\">► </span>This is a&nbsp;</strong></span><span style=\"font-size:1.3em;\"><strong>{{response}}</strong></span><span style=\"font-size:2em;\"><strong>&nbsp;slide.</strong></span>",
+          "type": "clozedropdown",
+          "case_sensitive": true,
+          "validation": {
+            "scoring_type": "exactMatch",
+            "valid_response": {
+              "score": 1,
+              "value": [
+                "GOOD"
+              ]
+            }
+          },
+          "instant_feedback": true
+        },
+        "metadata": {
+          "name": "Cloze with drop down",
+          "template_reference": "2fbba51b-e35e-441f-83c7-2662e2e81fa6"
+        }
+      },
+      "feedbackInfo": [
+        null,
+        null
+      ]
+    },
+    {
+      "response_id": "ef4dd2dc-702d-4f00-a5e1-730a57fe3f22_97e4d4f2c5b580b284f5f0e1af1a53fb",
+      "question_type": "choicematrix",
+      "dt_score_updated": "2022-11-16T03:02:28Z",
+      "automarkable": true,
+      "attempted": true,
+      "score": 9,
+      "max_score": 9,
+      "question_reference": "279a8d05-ddba-4a42-941d-58fe2344eb83",
+      "item_reference": "49463e67-7dfd-4553-9047-fd5ef6532a4b",
+      "response": {
+        "value": [
+          [
+            0
+          ],
+          [
+            1
+          ],
+          [
+            1
+          ],
+          [
+            0
+          ],
+          [
+            1
+          ],
+          [
+            0
+          ],
+          [
+            1
+          ],
+          [
+            0
+          ],
+          [
+            1
+          ]
+        ],
+        "type": "array",
+        "apiVersion": "v2.168.23",
+        "revision": 2,
+        "feedbackAttemptsCount": 2
+      },
+      "questionInfo": {
+        "type": "choicematrix",
+        "widget_type": "response",
+        "reference": "279a8d05-ddba-4a42-941d-58fe2344eb83",
+        "data": {
+          "options": [
+            "<span style=\"color:#008000;\"><strong>YES</strong></span>",
+            "<span style=\"color:#ff0000;\"><strong>NO</strong></span>"
+          ],
+          "stems": [
+            "Background<span style=\"color:#ffffff;\">_</span>is<span style=\"color:#ffffff;\">_</span>simple<span style=\"color:#ffffff;\">_</span>and<span style=\"color:#ffffff;\">_</span>professional.",
+            "Too much colour.",
+            "Bad contrast.",
+            "Font is a good size.",
+            "Font too small.",
+            "Bullet points are short and clear.",
+            "Too much text.",
+            "Attractive and interesting.",
+            "Boring."
+          ],
+          "type": "choicematrix",
+          "ui_style": {
+            "stem_numeration": "upper-alpha",
+            "type": "table",
+            "horizontal_lines": false
+          },
+          "validation": {
+            "scoring_type": "partialMatchV2",
+            "valid_response": {
+              "score": 9,
+              "value": [
+                0,
+                1,
+                1,
+                0,
+                1,
+                0,
+                1,
+                0,
+                1
+              ]
+            }
+          },
+          "stimulus": "<span style=\"font-size:2em;\"><strong><span style=\"color:#0000ff;\">► </span>Why?</strong></span>",
+          "instant_feedback": true
+        },
+        "metadata": {
+          "name": "Choice matrix – labels",
+          "template_reference": "9de82e14-802c-4bea-a635-bf9ad0b622fb"
+        }
+      },
+      "feedbackInfo": [
+        null,
+        null
+      ]
+    },
+    {
+      "response_id": "ef4dd2dc-702d-4f00-a5e1-730a57fe3f22_242e66a2059c95f353602686547fa3e7",
+      "question_type": "clozeassociation",
+      "dt_score_updated": "2022-11-16T03:03:10Z",
+      "automarkable": true,
+      "attempted": true,
+      "score": 2,
+      "max_score": 6,
+      "question_reference": "3e4cc0f6-7473-4fe5-b7e1-be2d9f95c66a",
+      "item_reference": "39b998f1-c1cb-4df1-bcca-ec905acad876",
+      "response": {
+        "value": [
+          "font",
+          "small",
+          "text&nbsp;",
+          "too much space",
+          "complete sentences",
+          "shorten your sentences"
+        ],
+        "type": "array",
+        "apiVersion": "v2.168.23",
+        "revision": 4,
+        "feedbackAttemptsCount": 3
+      },
+      "questionInfo": {
+        "type": "clozeassociation",
+        "widget_type": "response",
+        "reference": "3e4cc0f6-7473-4fe5-b7e1-be2d9f95c66a",
+        "data": {
+          "possible_responses": [
+            "text&nbsp;",
+            "small",
+            "complete sentences",
+            "too much space",
+            "font",
+            "shorten your sentences"
+          ],
+          "response_container": {
+            "pointer": "left"
+          },
+          "template": "<table class=\"table table-condensed table-no-border lrn_width_auto\">\n\t<tbody>\n\t\t<tr>\n\t\t\t<td><img height=\"101\" src=\"https://assets.learnosity.com/organisations/755/5274d9fa-7b87-4317-a5f1-b2e6664dd6cc.jpg\" width=\"100\" /></td>\n\t\t\t<td>\n\t\t\t<h2><strong>Two of the most common reasons why presentation slides are&nbsp;<span style=\"color:#ff0000;\">BAD&nbsp;</span>are:</strong></h2>\n\n\t\t\t<p><span style=\"color:#ff0000;\"><span style=\"font-size:1.5em;\"></span></span></p>\n\t\t\t</td>\n\t\t</tr>\n\t</tbody>\n</table>\n\n<p><span style=\"font-size:2em;\"><span style=\"color:#000000;\">► </span><span style=\"color:#ff0000;\"><strong>too much </strong></span></span><span style=\"font-size:1em;\"><span style=\"color:#ff0000;\"><strong><span style=\"color:#ff0000;\"><strong><span style=\"color:#ff0000;\"><strong><span style=\"color:#ff0000;\"><strong>{{response}}</strong></span></strong></span></strong></span></strong></span></span><span style=\"font-size:2em;\"><span style=\"color:#ff0000;\"><strong>&nbsp;and&nbsp;font too </strong></span></span><span style=\"font-size:1em;\"><span style=\"color:#ff0000;\"><strong><span style=\"color:#ff0000;\"><strong><span style=\"color:#ff0000;\"><strong><span style=\"color:#ff0000;\"><strong>{{response}}</strong></span></strong></span></strong></span></strong></span></span><span style=\"font-size:2em;\"><span style=\"color:#ff0000;\"><strong>.</strong></span></span></p>\n\n<p style=\"margin-left: 40px;\"><span style=\"font-size:1.3em;\">This can happen if you try to write&nbsp;</span><span style=\"font-size:1em;\">{{response}}</span><span style=\"font-size:1.3em;\">&nbsp;on the slides.</span></p>\n\n<p style=\"margin-left: 40px;\"><span style=\"font-size:1.3em;\">The text will take&nbsp;</span><span style=\"font-size:1em;\">{{response}}</span><span style=\"font-size:1.3em;\">&nbsp;and the </span><span style=\"font-size:1em;\">{{response}}</span><span style=\"font-size:1.3em;\">&nbsp;will be too small.</span></p>\n\n<p><span style=\"font-size:1.3em;\"><span style=\"color:#000000;\">►&nbsp;</span></span><span style=\"font-size:2em;\"><span style=\"color:#008000;\"><b>To avoid this, you mu</b><strong>st</strong></span>&nbsp;</span><span style=\"font-size:1em;\">{{response}}</span><span style=\"font-size:2em;\">.</span></p>\n",
+          "type": "clozeassociation",
+          "case_sensitive": true,
+          "validation": {
+            "scoring_type": "partialMatchV2",
+            "valid_response": {
+              "score": 6,
+              "value": [
+                "text&nbsp;",
+                "small",
+                "complete sentences",
+                "too much space",
+                null,
+                null
+              ]
+            }
+          },
+          "instant_feedback": true,
+          "shuffle_options": true
+        },
+        "metadata": {
+          "name": "Cloze with drag & drop",
+          "template_reference": "51a8c1e7-f34f-4faf-b211-da458e891fcb"
+        }
+      },
+      "feedbackInfo": [
+        null,
+        null
+      ]
+    },
+    {
+      "response_id": "ef4dd2dc-702d-4f00-a5e1-730a57fe3f22_8951da08ae02f198600514a0d4783eb5",
+      "question_type": "clozedropdown",
+      "dt_score_updated": "2022-11-16T03:04:06Z",
+      "automarkable": true,
+      "attempted": true,
+      "score": 1,
+      "max_score": 1,
+      "question_reference": "78ceaec3-607c-43b8-b550-37d443c7a3b1",
+      "item_reference": "39b998f1-c1cb-4df1-bcca-ec905acad876",
+      "response": {
+        "value": [
+          "second slide"
+        ],
+        "type": "array",
+        "apiVersion": "v2.168.23",
+        "revision": 1
+      },
+      "questionInfo": {
+        "type": "clozedropdown",
+        "widget_type": "response",
+        "reference": "78ceaec3-607c-43b8-b550-37d443c7a3b1",
+        "data": {
+          "possible_responses": [
+            [
+              "first slide",
+              "second slide"
+            ]
+          ],
+          "response_container": {
+            "pointer": "left"
+          },
+          "stimulus": "<h2><img class=\"lrn-image-non-responsive\" height=\"52\" src=\"https://assets.learnosity.com/organisations/755/baa97336-cf5d-44a6-a6d2-97cffdd95bc8.jpg\" width=\"70\" />&nbsp;<strong>Compare the examples below: which one is better?</strong></h2>\n\n<p><img height=\"223\" src=\"https://assets.learnosity.com/organisations/755/77750169-b020-4027-8fa2-acc0367160fc.png\" width=\"400\" /></p>\n\n<p><img height=\"217\" src=\"https://assets.learnosity.com/organisations/755/c75e9bb8-496c-44c9-aaf4-b0c5a4fd949a.png\" width=\"400\" /></p>\n",
+          "template": "<h4 style=\"margin-left: 40px;\"><strong>► The&nbsp;{{response}}&nbsp;is better.</strong></h4>\n",
+          "type": "clozedropdown",
+          "case_sensitive": true,
+          "validation": {
+            "scoring_type": "exactMatch",
+            "valid_response": {
+              "score": 1,
+              "value": [
+                "second slide"
+              ]
+            }
+          },
+          "instant_feedback": true
+        },
+        "metadata": {
+          "name": "Cloze with drop down",
+          "template_reference": "2fbba51b-e35e-441f-83c7-2662e2e81fa6"
+        }
+      },
+      "feedbackInfo": [
+        null,
+        null
+      ]
+    },
+    {
+      "response_id": "ef4dd2dc-702d-4f00-a5e1-730a57fe3f22_5d7728558057e6cf20ea9573d9c7af60",
+      "question_type": "clozeassociation",
+      "dt_score_updated": "2022-11-16T03:05:32Z",
+      "automarkable": true,
+      "attempted": true,
+      "score": 1,
+      "max_score": 1,
+      "question_reference": "ed3183a5-4b95-4d11-a138-840f6415ef2d",
+      "item_reference": "39b998f1-c1cb-4df1-bcca-ec905acad876",
+      "response": {
+        "value": [
+          "Common",
+          "reasons",
+          "for",
+          "climate",
+          "change"
+        ],
+        "type": "array",
+        "apiVersion": "v2.168.23",
+        "revision": 5,
+        "feedbackAttemptsCount": 6
+      },
+      "questionInfo": {
+        "type": "clozeassociation",
+        "widget_type": "response",
+        "reference": "ed3183a5-4b95-4d11-a138-840f6415ef2d",
+        "data": {
+          "possible_responses": [
+            "Common",
+            "reasons",
+            "for",
+            "climate",
+            "change",
+            "explain"
+          ],
+          "response_container": {
+            "pointer": "left"
+          },
+          "stimulus": "<h2><b>In this&nbsp;exercise, we are going to practice <span style=\"color:#ff0000;\">shortening the sentences</span> to make them more suitable for presentation slides.</b></h2>\n\n<p><img height=\"80\" src=\"https://assets.learnosity.com/organisations/755/85987ff8-65f2-4d46-b010-26270d45c1a2.jpg\" width=\"746\" /></p>\n\n<p>&nbsp;</p>\n\n<h4>1. Here is the complete sentence:</h4>\n\n<p style=\"margin-left: 40px;\"><em><strong><span style=\"font-size:1.5em;\">Reasons commonly given to explain why the climate is changing.</span></strong></em></p>\n\n<p><em><span style=\"font-size:1.5em;\"></span></em></p>\n\n<p style=\"margin-left: 40px;\">&nbsp;</p>\n\n<p style=\"margin-left: 40px;\"><span style=\"font-size:1.3em;\">► Organise the words below into a&nbsp;shorter heading or bullet point.</span></p>\n",
+          "template": "<p>{{response}}&nbsp;{{response}}&nbsp;{{response}}&nbsp;{{response}}&nbsp;{{response}}&nbsp;.</p>\n\n<p><span style=\"color:#ff0000;\"><b>(there is an extra word that you don't need)</b></span></p>\n",
+          "type": "clozeassociation",
+          "case_sensitive": true,
+          "validation": {
+            "scoring_type": "exactMatch",
+            "valid_response": {
+              "score": 1,
+              "value": [
+                "Common",
+                "reasons",
+                "for",
+                "climate",
+                "change"
+              ]
+            }
+          },
+          "instant_feedback": true,
+          "shuffle_options": true
+        },
+        "metadata": {
+          "name": "Cloze with drag & drop",
+          "template_reference": "51a8c1e7-f34f-4faf-b211-da458e891fcb"
+        }
+      },
+      "feedbackInfo": [
+        null,
+        null
+      ]
+    },
+    {
+      "response_id": "ef4dd2dc-702d-4f00-a5e1-730a57fe3f22_85dc72f15989a9892779160f361b1ed6",
+      "question_type": "clozeassociation",
+      "dt_score_updated": "2022-11-16T03:06:57Z",
+      "automarkable": true,
+      "attempted": true,
+      "score": 1,
+      "max_score": 1,
+      "question_reference": "5fc62b44-7ad3-4de3-beae-f9bbf00e63fc",
+      "item_reference": "39b998f1-c1cb-4df1-bcca-ec905acad876",
+      "response": {
+        "value": [
+          "Economic&nbsp;",
+          "advantages",
+          "of",
+          "international",
+          "business"
+        ],
+        "type": "array",
+        "apiVersion": "v2.168.23",
+        "revision": 4,
+        "feedbackAttemptsCount": 11
+      },
+      "questionInfo": {
+        "type": "clozeassociation",
+        "widget_type": "response",
+        "reference": "5fc62b44-7ad3-4de3-beae-f9bbf00e63fc",
+        "data": {
+          "possible_responses": [
+            "Economic&nbsp;",
+            "advantages",
+            "of",
+            "international",
+            "business",
+            "doing"
+          ],
+          "response_container": {
+            "pointer": "left"
+          },
+          "stimulus": "<h4>2. Here is the complete sentence:</h4>\n\n<p style=\"margin-left: 40px;\"><strong><span style=\"font-size:1.5em;\"><i>The economic advantages of doing business with other countries.</i></span></strong><em><strong><span style=\"font-size:1.5em;\"></span></strong></em></p>\n\n<p><em><span style=\"font-size:1.5em;\"></span></em></p>\n\n<p style=\"margin-left: 40px;\">&nbsp;</p>\n\n<p style=\"margin-left: 40px;\"><span style=\"font-size:1.3em;\">► Organise the words below into a&nbsp;shorter heading or bullet point.</span></p>\n",
+          "template": "<p>{{response}}&nbsp;{{response}}&nbsp;{{response}}&nbsp;{{response}}&nbsp;{{response}}&nbsp;.</p>\n\n<p><span style=\"color:#ff0000;\"><b>(there is an extra word that you don't need)</b></span></p>\n",
+          "type": "clozeassociation",
+          "case_sensitive": true,
+          "validation": {
+            "scoring_type": "exactMatch",
+            "valid_response": {
+              "score": 1,
+              "value": [
+                "Economic&nbsp;",
+                "advantages",
+                "of",
+                "international",
+                "business"
+              ]
+            }
+          },
+          "instant_feedback": true,
+          "shuffle_options": true
+        },
+        "metadata": {
+          "name": "Cloze with drag & drop",
+          "template_reference": "51a8c1e7-f34f-4faf-b211-da458e891fcb"
+        }
+      },
+      "feedbackInfo": [
+        null,
+        null
+      ]
+    },
+    {
+      "response_id": "ef4dd2dc-702d-4f00-a5e1-730a57fe3f22_2c054f57f0c52b551e19c819dad5b69f",
+      "question_type": "clozeassociation",
+      "dt_score_updated": "2022-11-16T03:07:26Z",
+      "automarkable": true,
+      "attempted": true,
+      "score": 1,
+      "max_score": 1,
+      "question_reference": "232f8794-99ef-48d3-b872-ac6fe3f7ce4d",
+      "item_reference": "39b998f1-c1cb-4df1-bcca-ec905acad876",
+      "response": {
+        "value": [
+          "Difficulties",
+          "experienced",
+          "by",
+          "international&nbsp;",
+          "students"
+        ],
+        "type": "array",
+        "apiVersion": "v2.168.23",
+        "revision": 3,
+        "feedbackAttemptsCount": 3
+      },
+      "questionInfo": {
+        "type": "clozeassociation",
+        "widget_type": "response",
+        "reference": "232f8794-99ef-48d3-b872-ac6fe3f7ce4d",
+        "data": {
+          "possible_responses": [
+            "Difficulties",
+            "experienced",
+            "by",
+            "international&nbsp;",
+            "students",
+            "that"
+          ],
+          "response_container": {
+            "pointer": "left"
+          },
+          "stimulus": "<h4>3. Here is the complete sentence:</h4>\n\n<p style=\"margin-left: 40px;\"><strong><span style=\"font-size:1.5em;\"></span><span style=\"font-size:1.5em;\"><i>Difficulties that international students usually experience.</i></span></strong></p>\n\n<p><em><span style=\"font-size:1.5em;\"></span></em></p>\n\n<p style=\"margin-left: 40px;\">&nbsp;</p>\n\n<p style=\"margin-left: 40px;\"><span style=\"font-size:1.3em;\">► Organise the words below into a&nbsp;shorter heading or bullet point.</span></p>\n",
+          "template": "<p>{{response}}&nbsp;{{response}}&nbsp;{{response}}&nbsp;{{response}}&nbsp;{{response}}&nbsp;.</p>\n\n<p><span style=\"color:#ff0000;\"><b>(there is an extra word that you don't need)</b></span></p>\n",
+          "type": "clozeassociation",
+          "case_sensitive": true,
+          "validation": {
+            "scoring_type": "exactMatch",
+            "valid_response": {
+              "score": 1,
+              "value": [
+                "Difficulties",
+                "experienced",
+                "by",
+                "international&nbsp;",
+                "students"
+              ]
+            }
+          },
+          "instant_feedback": true,
+          "shuffle_options": true
+        },
+        "metadata": {
+          "name": "Cloze with drag & drop",
+          "template_reference": "51a8c1e7-f34f-4faf-b211-da458e891fcb"
+        }
+      },
+      "feedbackInfo": [
+        null,
+        null
+      ]
+    },
+    {
+      "response_id": "ef4dd2dc-702d-4f00-a5e1-730a57fe3f22_f7307f60d6d9b7213ee9ddf3c5642bc7",
+      "question_type": "clozeassociation",
+      "dt_score_updated": "2022-11-16T03:07:55Z",
+      "automarkable": true,
+      "attempted": true,
+      "score": 1,
+      "max_score": 1,
+      "question_reference": "9c919cf6-f5e0-4d2b-977d-fda479c54480",
+      "item_reference": "39b998f1-c1cb-4df1-bcca-ec905acad876",
+      "response": {
+        "value": [
+          "Effects",
+          "of",
+          "culture&nbsp;",
+          "on",
+          "advertising"
+        ],
+        "type": "array",
+        "apiVersion": "v2.168.23",
+        "revision": 1,
+        "feedbackAttemptsCount": 3
+      },
+      "questionInfo": {
+        "type": "clozeassociation",
+        "widget_type": "response",
+        "reference": "9c919cf6-f5e0-4d2b-977d-fda479c54480",
+        "data": {
+          "possible_responses": [
+            "Effects",
+            "of",
+            "culture&nbsp;",
+            "on",
+            "advertising",
+            "in which&nbsp;"
+          ],
+          "response_container": {
+            "pointer": "left"
+          },
+          "stimulus": "<h4>4. Here is the complete sentence:</h4>\n\n<p style=\"margin-left: 40px;\"><strong><span style=\"font-size:1.5em;\"><i>Some of the ways in which culture can have an effect on advertising.</i></span></strong></p>\n\n<p style=\"margin-left: 40px;\"><strong><span style=\"font-size:1.5em;\"></span></strong></p>\n\n<p><em><span style=\"font-size:1.5em;\"></span></em></p>\n\n<p style=\"margin-left: 40px;\">&nbsp;</p>\n\n<p style=\"margin-left: 40px;\"><span style=\"font-size:1.3em;\">► Organise the words below into a&nbsp;shorter heading or bullet point.</span></p>\n",
+          "template": "<p>{{response}}&nbsp;{{response}}&nbsp;{{response}}&nbsp;{{response}}&nbsp;{{response}}&nbsp;.</p>\n\n<p><span style=\"color:#ff0000;\"><b>(there is an extra word that you don't need)</b></span></p>\n",
+          "type": "clozeassociation",
+          "case_sensitive": true,
+          "validation": {
+            "scoring_type": "exactMatch",
+            "valid_response": {
+              "score": 1,
+              "value": [
+                "Effects",
+                "of",
+                "culture&nbsp;",
+                "on",
+                "advertising"
+              ]
+            }
+          },
+          "instant_feedback": true,
+          "shuffle_options": true
+        },
+        "metadata": {
+          "name": "Cloze with drag & drop",
+          "template_reference": "51a8c1e7-f34f-4faf-b211-da458e891fcb"
+        }
+      },
+      "feedbackInfo": [
+        null,
+        null
+      ]
+    },
+    {
+      "response_id": "ef4dd2dc-702d-4f00-a5e1-730a57fe3f22_eca124793a82346b02887ff4470606d0",
+      "question_type": "clozedropdown",
+      "dt_score_updated": "2022-11-16T03:10:17Z",
+      "automarkable": true,
+      "attempted": true,
+      "score": 9,
+      "max_score": 9,
+      "question_reference": "512125b8-7677-4aa5-aefb-9955f7eea3c8",
+      "item_reference": "b0585998-67dc-4098-9f73-63a9c59711c6",
+      "response": {
+        "value": [
+          "As I mentioned earlier",
+          "Let’s look at",
+          "This graph represents",
+          "vertical axis represents",
+          "horizontal axis represents",
+          "As you can see",
+          "As the graph shows",
+          "I would also draw your attention",
+          "As the data here indicates"
+        ],
+        "type": "array",
+        "apiVersion": "v2.168.23",
+        "revision": 6,
+        "feedbackAttemptsCount": 4
+      },
+      "questionInfo": {
+        "type": "clozedropdown",
+        "widget_type": "response",
+        "reference": "512125b8-7677-4aa5-aefb-9955f7eea3c8",
+        "data": {
+          "possible_responses": [
+            [
+              "As I mentioned earlier",
+              "Let’s look at",
+              "This graph represents",
+              "vertical axis represents",
+              "horizontal axis represents",
+              "As you can see",
+              "As the graph shows",
+              "I would also draw your attention",
+              "As the data here indicates"
+            ],
+            [
+              "As I mentioned earlier",
+              "Let’s look at",
+              "This graph represents",
+              "vertical axis represents",
+              "horizontal axis represents",
+              "As you can see",
+              "As the graph shows",
+              "I would also draw your attention",
+              "As the data here indicates"
+            ],
+            [
+              "As I mentioned earlier",
+              "Let’s look at",
+              "This graph represents",
+              "vertical axis represents",
+              "horizontal axis represents",
+              "As you can see",
+              "As the graph shows",
+              "I would also draw your attention",
+              "As the data here indicates"
+            ],
+            [
+              "As I mentioned earlier",
+              "Let’s look at",
+              "This graph represents",
+              "vertical axis represents",
+              "horizontal axis represents",
+              "As you can see",
+              "As the graph shows",
+              "I would also draw your attention",
+              "As the data here indicates"
+            ],
+            [
+              "As I mentioned earlier",
+              "Let’s look at",
+              "This graph represents",
+              "vertical axis represents",
+              "horizontal axis represents",
+              "As you can see",
+              "As the graph shows",
+              "I would also draw your attention",
+              "As the data here indicates"
+            ],
+            [
+              "As I mentioned earlier",
+              "Let’s look at",
+              "This graph represents",
+              "vertical axis represents",
+              "horizontal axis represents",
+              "As you can see",
+              "As the graph shows",
+              "I would also draw your attention",
+              "As the data here indicates"
+            ],
+            [
+              "As I mentioned earlier",
+              "Let’s look at",
+              "This graph represents",
+              "vertical axis represents",
+              "horizontal axis represents",
+              "As you can see",
+              "As the graph shows",
+              "I would also draw your attention",
+              "As the data here indicates"
+            ],
+            [
+              "As I mentioned earlier",
+              "Let’s look at",
+              "This graph represents",
+              "vertical axis represents",
+              "horizontal axis represents",
+              "As you can see",
+              "As the graph shows",
+              "I would also draw your attention",
+              "As the data here indicates"
+            ],
+            [
+              "As I mentioned earlier",
+              "Let’s look at",
+              "This graph represents",
+              "vertical axis represents",
+              "horizontal axis represents",
+              "As you can see",
+              "As the graph shows",
+              "I would also draw your attention",
+              "As the data here indicates"
+            ]
+          ],
+          "response_container": {
+            "pointer": "left"
+          },
+          "template": "<p style=\"margin-left: 40px;\"><em><span style=\"font-size:1.1em;\">{{response}}, this year we’ve seen a considerable increase in our international student memberships.&nbsp;{{response}} which countries these students are coming from and which clubs and societies they’re choosing to join.</span></em></p>\n\n<p style=\"margin-left: 40px;\"><em><span style=\"font-size:1.1em;\">{{response}} all the international students currently studying at the university. The&nbsp;{{response}} the actual number of students and the {{response}}&nbsp;their country of origin.&nbsp;{{response}}, most international students are coming from four key areas: China, Japan, Nigeria, and India.</span></em></p>\n\n<p style=\"margin-left: 40px;\"><em><span style=\"font-size:1.1em;\">{{response}}, the University Travel Club is still the most popular society for international students, particularly for students from China and Nigeria. But&nbsp;{{response}} to two other societies: the Student Debating Group and the Drama Circle. {{response}}, the Student Debating Group is a popular choice with Indian students and the Drama Circle attracts lots of members from Japan.</span></em></p>\n",
+          "type": "clozedropdown",
+          "case_sensitive": true,
+          "validation": {
+            "scoring_type": "partialMatchV2",
+            "valid_response": {
+              "score": 9,
+              "value": [
+                "As I mentioned earlier",
+                "Let’s look at",
+                "This graph represents",
+                "vertical axis represents",
+                "horizontal axis represents",
+                "As you can see",
+                "As the graph shows",
+                "I would also draw your attention",
+                "As the data here indicates"
+              ]
+            }
+          },
+          "instant_feedback": true,
+          "shuffle_options": true
+        },
+        "metadata": {
+          "name": "Cloze with drop down",
+          "template_reference": "2fbba51b-e35e-441f-83c7-2662e2e81fa6"
+        }
+      },
+      "feedbackInfo": [
+        null,
+        null
+      ]
+    },
+    {
+      "response_id": "ef4dd2dc-702d-4f00-a5e1-730a57fe3f22_40dcfa2f085c2ea60dcd05c057808f15",
+      "question_type": "clozeassociation",
+      "dt_score_updated": "2022-11-16T03:11:44Z",
+      "automarkable": true,
+      "attempted": true,
+      "score": 1,
+      "max_score": 1,
+      "question_reference": "235356a5-f0c4-4aaf-ad30-dd7a5a9d7e56",
+      "item_reference": "2fd5c9f4-2708-4e84-88b1-79a98ec23561",
+      "response": {
+        "value": [
+          "Author's surname",
+          "source",
+          "reporting verb",
+          "that",
+          "statement"
+        ],
+        "type": "array",
+        "apiVersion": "v2.168.23",
+        "revision": 3,
+        "feedbackAttemptsCount": 8
+      },
+      "questionInfo": {
+        "type": "clozeassociation",
+        "widget_type": "response",
+        "reference": "235356a5-f0c4-4aaf-ad30-dd7a5a9d7e56",
+        "data": {
+          "possible_responses": [
+            "Author's surname",
+            "Author's first name",
+            "source",
+            "reporting verb",
+            "that",
+            "statement"
+          ],
+          "response_container": {
+            "pointer": "left"
+          },
+          "stimulus": "<p><span style=\"font-size:1.5em;\"><strong>In the final part of the lesson, we will review how to...</strong></span></p>\n\n<h2><span style=\"color:#0000ff;\"></span><span style=\"color:#000000;\"><strong>► </strong></span><span style=\"color:#0000ff;\"><strong>Refer&nbsp;to Research</strong></span></h2>\n\n<p><span style=\"font-size:1.5em;\"><strong>... in your spoken assignments (presentations and discussions).</strong></span></p>\n\n<p><img height=\"148\" src=\"https://assets.learnosity.com/organisations/755/88b4c00c-3e2b-4661-9ab4-4ce5ffa6f955.jfif\" width=\"300\" /></p>\n\n<p>&nbsp;</p>\n\n<h2><strong>How do you make sure you <u><span style=\"color:#0000ff;\">clearly show</span></u> where you are using research?</strong></h2>\n\n<p id=\"yui_3_17_2_1_1636459425724_187\"><span style=\"font-size:1.5em;\"><span style=\"color:#000000;\"><strong><span style=\"color:#0000ff;\">► </span></strong><b>Most times, you refer to research using a </b></span><b style=\"\"><u><span style=\"color:#0000ff;\">fixed&nbsp;sentence structure</span></u><font color=\"#000000\">.</font></b></span></p>\n\n<p><span style=\"font-size:1.5em;\"><strong><span style=\"color:#0000ff;\">► </span>Organise the elements below:</strong></span></p>\n\n<p>&nbsp;</p>\n\n<p><img height=\"45\" src=\"https://assets.learnosity.com/organisations/755/8b38948c-177b-4713-84ee-a88417dd1e65.jpg\" width=\"184\" /></p>\n",
+          "template": "<p style=\"margin-left: 40px;\"><span style=\"font-size:1.5em;\"></span><span style=\"font-size:1em;\">{{response}}</span><span style=\"font-size:1.5em;\">&nbsp;or type of&nbsp;</span><span style=\"font-size:1em;\">{{response}}</span><span style=\"font-size:1.5em;\">&nbsp;<span style=\"color:#b22222;\"><strong>+</strong></span>&nbsp;</span><span style=\"font-size:1em;\">{{response}}</span><span style=\"font-size:1.5em;\">&nbsp;<strong><span style=\"color:#b22222;\">+</span></strong>&nbsp;</span><span style=\"font-size:1em;\">{{response}}</span><span style=\"font-size:1.5em;\">&nbsp;<span style=\"color:#b22222;\"><strong>+</strong></span>&nbsp;</span><span style=\"font-size:1em;\">{{response}}</span><span style=\"font-size:1.5em;\"></span></p>\n\n<p style=\"margin-left: 40px;\"><span style=\"color:#ff0000;\"><strong>(there are some extra options that you don't need)</strong></span></p>\n",
+          "type": "clozeassociation",
+          "case_sensitive": true,
+          "validation": {
+            "scoring_type": "exactMatch",
+            "valid_response": {
+              "score": 1,
+              "value": [
+                "Author's surname",
+                "source",
+                "reporting verb",
+                "that",
+                "statement"
+              ]
+            }
+          },
+          "instant_feedback": true
+        },
+        "metadata": {
+          "name": "Cloze with drag & drop",
+          "template_reference": "51a8c1e7-f34f-4faf-b211-da458e891fcb"
+        }
+      },
+      "feedbackInfo": [
+        null,
+        null
+      ]
+    },
+    {
+      "response_id": "ef4dd2dc-702d-4f00-a5e1-730a57fe3f22_bbcb46aff6f60619ab2caf48acbd3d9c",
+      "question_type": "clozeassociation",
+      "dt_score_updated": "2022-11-16T03:12:12Z",
+      "automarkable": true,
+      "attempted": true,
+      "score": 1,
+      "max_score": 1,
+      "question_reference": "acb23957-82c3-498e-a399-b03a9dcf168d",
+      "item_reference": "2fd5c9f4-2708-4e84-88b1-79a98ec23561",
+      "response": {
+        "value": [
+          "The government website",
+          "SHOWS",
+          "statistics",
+          "that",
+          "clearly"
+        ],
+        "type": "array",
+        "apiVersion": "v2.168.23",
+        "revision": 1,
+        "feedbackAttemptsCount": 1
+      },
+      "questionInfo": {
+        "type": "clozeassociation",
+        "widget_type": "response",
+        "reference": "acb23957-82c3-498e-a399-b03a9dcf168d",
+        "data": {
+          "possible_responses": [
+            "The government website",
+            "SHOWS",
+            "statistics",
+            "that",
+            "clearly"
+          ],
+          "response_container": {
+            "pointer": "left"
+          },
+          "stimulus": "<h2><b>Let's look at some more <span style=\"color:#008080;\">examples</span> of this kind of structure.&nbsp;</b></h2>\n\n<h3><img height=\"97\" src=\"https://assets.learnosity.com/organisations/755/005d7178-7b7a-460b-a88a-cee197d11d98.jpg\" width=\"399\" /></h3>\n\n<p><span style=\"font-size:1.5em;\"><strong>Organise the missing words in the verbal references below.</strong></span></p>\n\n<p><span style=\"font-size:1.5em;\"><strong><span style=\"color:#008080;\">► </span>Notice all the different&nbsp;<u><span style=\"color:#008080;\">reporting verbs</span></u>.&nbsp;They are shown in CAPITAL letters.</strong></span></p>\n",
+          "template": "<p style=\"margin-left: 40px;\"><span style=\"font-size:1em;\"></span><strong><span style=\"font-size:1.3em;\">1.</span></strong><span style=\"font-size:1em;\">&nbsp;{{response}}&nbsp;{{response}}&nbsp;{{response}}&nbsp;{{response}}&nbsp;{{response}}&nbsp;</span><span style=\"font-size:1.3em;\"><b>indicate the growing popularity of this university.</b></span><span style=\"font-size:1em;\"></span></p>\n",
+          "type": "clozeassociation",
+          "case_sensitive": true,
+          "validation": {
+            "scoring_type": "exactMatch",
+            "valid_response": {
+              "score": 1,
+              "value": [
+                "The government website",
+                "SHOWS",
+                "statistics",
+                "that",
+                "clearly"
+              ]
+            }
+          },
+          "instant_feedback": true,
+          "shuffle_options": true
+        },
+        "metadata": {
+          "name": "Cloze with drag & drop",
+          "template_reference": "51a8c1e7-f34f-4faf-b211-da458e891fcb"
+        }
+      },
+      "feedbackInfo": [
+        null,
+        null
+      ]
+    },
+    {
+      "response_id": "ef4dd2dc-702d-4f00-a5e1-730a57fe3f22_d58463fbc055a9761205371acaca4ef9",
+      "question_type": "clozeassociation",
+      "dt_score_updated": "2022-11-16T03:12:12Z",
+      "automarkable": true,
+      "attempted": true,
+      "score": 0,
+      "max_score": 1,
+      "question_reference": "2e362692-386b-4308-9d64-8ea48f0f842e",
+      "item_reference": "2fd5c9f4-2708-4e84-88b1-79a98ec23561",
+      "response": {
+        "value": [
+          "The article",
+          "CLAIMS",
+          "the number of students",
+          "that"
+        ],
+        "type": "array",
+        "apiVersion": "v2.168.23",
+        "revision": 1
+      },
+      "questionInfo": {
+        "type": "clozeassociation",
+        "widget_type": "response",
+        "reference": "2e362692-386b-4308-9d64-8ea48f0f842e",
+        "data": {
+          "possible_responses": [
+            "The article",
+            "CLAIMS",
+            "that",
+            "the number of students"
+          ],
+          "response_container": {
+            "pointer": "left"
+          },
+          "template": "<p style=\"margin-left: 40px;\"><span style=\"font-size:1em;\"></span><strong><span style=\"font-size:1.3em;\">2.</span></strong><span style=\"font-size:1em;\">&nbsp;{{response}}&nbsp;{{response}}&nbsp;{{response}}&nbsp;{{response}}&nbsp;&nbsp;</span><span style=\"font-size:1.3em;\"><b>learning online is on the rise worldwide.</b></span><span style=\"font-size:1em;\"></span></p>\n",
+          "type": "clozeassociation",
+          "case_sensitive": true,
+          "validation": {
+            "scoring_type": "exactMatch",
+            "valid_response": {
+              "score": 1,
+              "value": [
+                "The article",
+                "CLAIMS",
+                "that",
+                "the number of students"
+              ]
+            }
+          },
+          "instant_feedback": true,
+          "shuffle_options": true
+        },
+        "metadata": {
+          "name": "Cloze with drag & drop",
+          "template_reference": "51a8c1e7-f34f-4faf-b211-da458e891fcb"
+        }
+      },
+      "feedbackInfo": [
+        null,
+        null
+      ]
+    },
+    {
+      "response_id": "ef4dd2dc-702d-4f00-a5e1-730a57fe3f22_1e9356371dc61f2f632e642f2c648f7f",
+      "question_type": "clozeassociation",
+      "dt_score_updated": "2022-11-16T03:12:52Z",
+      "automarkable": true,
+      "attempted": true,
+      "score": 1,
+      "max_score": 1,
+      "question_reference": "a75cb4f6-db8e-4921-b80b-0d7c10eb1a1e",
+      "item_reference": "2fd5c9f4-2708-4e84-88b1-79a98ec23561",
+      "response": {
+        "value": [
+          "In the NHS report",
+          "from 2018,",
+          "Miles",
+          "OBSERVED",
+          "that",
+          "ample evidence"
+        ],
+        "type": "array",
+        "apiVersion": "v2.168.23",
+        "revision": 2,
+        "feedbackAttemptsCount": 4
+      },
+      "questionInfo": {
+        "type": "clozeassociation",
+        "widget_type": "response",
+        "reference": "a75cb4f6-db8e-4921-b80b-0d7c10eb1a1e",
+        "data": {
+          "possible_responses": [
+            "In the NHS report",
+            "from 2018,",
+            "Miles",
+            "OBSERVED",
+            "that",
+            "ample evidence"
+          ],
+          "response_container": {
+            "pointer": "left"
+          },
+          "template": "<p style=\"margin-left: 40px;\"><span style=\"font-size:1em;\"></span><strong><span style=\"font-size:1.3em;\">3.</span></strong><span style=\"font-size:1em;\">&nbsp;{{response}}&nbsp;{{response}}&nbsp;{{response}}&nbsp;{{response}}&nbsp;{{response}}&nbsp;</span><strong><span style=\"font-size:1.3em;\">there is&nbsp;</span></strong><span style=\"font-size:1em;\">{{response}}&nbsp;</span><span style=\"font-size:1.3em;\"><b id=\"yui_3_17_2_1_1636460548047_3318\">of the effect of exercise on people's wellbeing.</b></span><span style=\"font-size:1em;\"></span></p>\n",
+          "type": "clozeassociation",
+          "case_sensitive": true,
+          "validation": {
+            "scoring_type": "exactMatch",
+            "valid_response": {
+              "score": 1,
+              "value": [
+                "In the NHS report",
+                "from 2018,",
+                "Miles",
+                "OBSERVED",
+                "that",
+                "ample evidence"
+              ]
+            }
+          },
+          "instant_feedback": true,
+          "shuffle_options": true
+        },
+        "metadata": {
+          "name": "Cloze with drag & drop",
+          "template_reference": "51a8c1e7-f34f-4faf-b211-da458e891fcb"
+        }
+      },
+      "feedbackInfo": [
+        null,
+        null
+      ]
+    }
+  ]
+}

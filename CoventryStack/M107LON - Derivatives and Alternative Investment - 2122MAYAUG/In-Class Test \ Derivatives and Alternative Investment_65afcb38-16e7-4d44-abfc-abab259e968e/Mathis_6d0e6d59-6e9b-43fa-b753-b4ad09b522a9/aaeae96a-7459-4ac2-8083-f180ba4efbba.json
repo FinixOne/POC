@@ -1,0 +1,2508 @@
+{
+  "userId": "6d0e6d59-6e9b-43fa-b753-b4ad09b522a9",
+  "firstName": "Mathis",
+  "lastName": "Knight",
+  "assigmentId": "65afcb38-16e7-4d44-abfc-abab259e968e",
+  "assigmentName": "In-Class Test \\ Derivatives and Alternative Investment",
+  "sessionId": "aaeae96a-7459-4ac2-8083-f180ba4efbba",
+  "email": "knightm10@coventry.ac.uk",
+  "spaceId": "2267c793-0543-439b-9fb5-67cfa6fc15dc",
+  "spaceName": "M107LON - Derivatives and Alternative Investment - 2122MAYAUG",
+  "score": 26,
+  "max_score": 55,
+  "questions": [
+    {
+      "response_id": "aaeae96a-7459-4ac2-8083-f180ba4efbba_15cce57941ec9f59c0ce5f0b5a10ca08",
+      "question_type": "plaintext",
+      "dt_score_updated": "2021-09-08T13:37:14Z",
+      "automarkable": false,
+      "attempted": true,
+      "score": 3,
+      "max_score": 10,
+      "question_reference": "8d355ae3-c146-47ee-a1a2-916e084cee47",
+      "item_reference": "a254ea49-0525-4c1f-863a-699485abe217",
+      "response": {
+        "value": "The strike price of the forward contract of assets equal as maturity value of the forward contract. \nThe European options can be only exercised on the date of maturity, so it will be same as the call on forward of assets. Hence no profit or loss will occur on hedging.\nThere will be no profit for these reasons",
+        "wordCount": 58,
+        "type": "string",
+        "apiVersion": "v2.168.5",
+        "revision": 13
+      },
+      "manual_score": null,
+      "max_manual_score": null,
+      "questionInfo": {
+        "type": "plaintext",
+        "widget_type": "response",
+        "reference": "8d355ae3-c146-47ee-a1a2-916e084cee47",
+        "data": {
+          "show_copy": true,
+          "show_cut": true,
+          "show_paste": true,
+          "stimulus": "On June 2, 2018 an investor simultaneously took long positions in a forward contact and a European put option both on the same underlying asset. The maturity of the options contract is the same as that of the forward contract. Describe the profit from the investor's portfolio if the forward price is equal to the strike price.",
+          "spellcheck": true,
+          "type": "plaintext",
+          "max_length": 150,
+          "is_math": true,
+          "metadata": {
+            "sample_answer": "<p>The terminal value of the long forward contract is</p>\n\n<p class=\"text-center\">&nbsp;\\(S_{T\\ }-F_0\\)</p>\n\n<p>where&nbsp;\\(S_T\\)&nbsp;is the price of the asset at maturity and&nbsp;\\(F_0\\)&nbsp;is the delivery price, which is the same as the forward price of the asset at the time the portfolio is set up. The terminal value of the put option is:</p>\n\n<p class=\"text-center\">&nbsp;\\(\\max\\left(F_{0\\ }-S_T,\\ 0\\right)\\)</p>\n\n<p>The terminal value of the portfolio is therefore</p>\n\n<p class=\"text-center\">&nbsp;\\(S_{T\\ }-F_0\\ +\\max\\left(F_0\\ -S_T,\\ 0\\right)\\)</p>\n\n<p class=\"text-center\">\\(=\\max\\left(0,\\ S_{T\\ }-\\ F_0\\right)\\)</p>\n\n<p>This is the same as the terminal value of a European call option with the same maturity as the forward contract and a strike price equal to&nbsp;\\(F_0\\)</p>\n"
+          },
+          "validation": {
+            "max_score": 10
+          }
+        },
+        "metadata": {
+          "name": "Essay with plain text",
+          "template_reference": "0f559437-5072-475e-830d-1fa9d2f6bb0d"
+        }
+      },
+      "feedbackInfo": [
+        {
+          "id": "0707_6d0e6d59-6e9b-43fa-b753-b4ad09b522a9_aaeae96a-7459-4ac2-8083-f180ba4efbba_c2c219ce4737cc7885a21fb199c7fdb9",
+          "user_id": "6d0e6d59-6e9b-43fa-b753-b4ad09b522a9",
+          "response_id": "aaeae96a-7459-4ac2-8083-f180ba4efbba_c2c219ce4737cc7885a21fb199c7fdb9",
+          "type": "longtextV2",
+          "question": {
+            "type": "longtextV2",
+            "metadata": {
+              "source": {
+                "organisation_id": 755
+              },
+              "sheet_reference": "default_feedback",
+              "widget_reference": "de082b5f-742a-4ecf-82ca-4dc86e218fec",
+              "valid_response_count": 0
+            },
+            "stimulus": "Written feedback:",
+            "response_id": "aaeae96a-7459-4ac2-8083-f180ba4efbba_c2c219ce4737cc7885a21fb199c7fdb9",
+            "show_word_count": false,
+            "show_word_limit": "off"
+          },
+          "response": {
+            "value": "<p>First determine the terminal value of the long forward, using the asset price at maturity and the delivery price. Second, determine the terminal value of the put option contract. Finally, the payoff of the portfolio is the sum of the terminal P/L of the long forward and the European put. This is the same as the terminal value of a European call option with the same maturity as the forward contract and a strike price equal to delivery price.<br></p>",
+            "wordCount": 79,
+            "type": "string",
+            "apiVersion": "v2.175.0",
+            "revision": 1
+          },
+          "creation_date": "2021-08-06 10:41:22",
+          "mod_date": "2021-08-06 15:29:25",
+          "persist_until": "2024-08-05 10:41:22",
+          "saved": true
+        },
+        null
+      ]
+    },
+    {
+      "response_id": "aaeae96a-7459-4ac2-8083-f180ba4efbba_9a861eed1864e1f354e7a44f63759af4",
+      "question_type": "plaintext",
+      "dt_score_updated": "2021-09-08T13:37:14Z",
+      "automarkable": false,
+      "attempted": true,
+      "score": 2,
+      "max_score": 10,
+      "question_reference": "336319e2-5f21-4a62-bc6e-fe838327fa12",
+      "item_reference": "38be4c5b-9827-4029-821d-7a26bb454800",
+      "response": {
+        "value": "When the future price of the commodity is higher than the spot price during the delivery period, the arbitrage opportunity allows the futures contracts to be sold and it will capitalize on the shortfall (because at maturity the cash price at the future price will be equal). \nWhen the future price is lower than the spot price, the investor can also arbitrate the price difference between the future price and the spot price (because at maturity the spot price will be equal to the future price, it is interesting to buy the future price, this will result in a profit equal to the difference at maturity).",
+        "wordCount": 106,
+        "type": "string",
+        "apiVersion": "v2.168.5",
+        "revision": 4
+      },
+      "manual_score": null,
+      "max_manual_score": null,
+      "questionInfo": {
+        "type": "plaintext",
+        "widget_type": "response",
+        "reference": "336319e2-5f21-4a62-bc6e-fe838327fa12",
+        "data": {
+          "show_copy": true,
+          "show_cut": true,
+          "show_paste": true,
+          "stimulus": "Critically explain why an arbitrage opportunity exists when the spot price during delivery period is smaller than the futures price of a commodity. Explain whether there will be arbitrage when the spot price is greater than the futures price?&nbsp;",
+          "spellcheck": true,
+          "type": "plaintext",
+          "metadata": {
+            "sample_answer": "If the futures price is greater than the spot price during the delivery period, an arbitrageur buys the asset, shorts a futures contract, and makes delivery for an immediate profit. If the futures price is less than the spot price during the delivery period, there is no similar perfect arbitrage strategy. An arbitrageur can take a long futures position but cannot force immediate delivery of the asset. The decision on when delivery will be made is made by the party with the short position. Nevertheless, companies interested in acquiring the asset may find it attractive to enter into a long futures contract and wait for delivery to be made."
+          },
+          "max_length": 150,
+          "is_math": true,
+          "validation": {
+            "max_score": 10
+          }
+        },
+        "metadata": {
+          "name": "Essay with plain text",
+          "template_reference": "0f559437-5072-475e-830d-1fa9d2f6bb0d"
+        }
+      },
+      "feedbackInfo": [
+        {
+          "id": "0707_6d0e6d59-6e9b-43fa-b753-b4ad09b522a9_aaeae96a-7459-4ac2-8083-f180ba4efbba_3193a6ae142d2fb64a132a15bed65cf4",
+          "user_id": "6d0e6d59-6e9b-43fa-b753-b4ad09b522a9",
+          "response_id": "aaeae96a-7459-4ac2-8083-f180ba4efbba_3193a6ae142d2fb64a132a15bed65cf4",
+          "type": "longtextV2",
+          "question": {
+            "type": "longtextV2",
+            "metadata": {
+              "source": {
+                "organisation_id": 755
+              },
+              "sheet_reference": "default_feedback",
+              "widget_reference": "de082b5f-742a-4ecf-82ca-4dc86e218fec",
+              "valid_response_count": 0
+            },
+            "stimulus": "Written feedback:",
+            "response_id": "aaeae96a-7459-4ac2-8083-f180ba4efbba_3193a6ae142d2fb64a132a15bed65cf4",
+            "show_word_count": false,
+            "show_word_limit": "off"
+          },
+          "response": {
+            "value": "<p>If the futures price is greater than the spot price during the delivery period, an arbitrageur buys the asset, shorts a futures contract, and makes delivery for an immediate profit. If the futures price is less than the spot price during the delivery period, there is no similar perfect arbitrage strategy. An arbitrageur can take a long futures position but cannot force immediate delivery of the asset. The decision on when delivery will be made is made by the party with the short position. Nevertheless, companies interested in acquiring the asset may find it attractive to enter into a long futures contract and wait for delivery to be made.<br><br><br></p>",
+            "wordCount": 109,
+            "type": "string",
+            "apiVersion": "v2.175.0",
+            "revision": 1
+          },
+          "creation_date": "2021-08-06 10:41:22",
+          "mod_date": "2021-08-06 15:29:25",
+          "persist_until": "2024-08-05 10:41:22",
+          "saved": true
+        },
+        null
+      ]
+    },
+    {
+      "response_id": "aaeae96a-7459-4ac2-8083-f180ba4efbba_a9f5c28de0cf268aeea71dec779af393",
+      "question_type": "mcq",
+      "dt_score_updated": "2021-07-14T09:20:09Z",
+      "automarkable": true,
+      "attempted": true,
+      "score": 1,
+      "max_score": 1,
+      "question_reference": "63c81524-ab1c-41ce-b36b-35d1cfef6bd2",
+      "item_reference": "1219284e-59a9-45c4-9a89-f62851e57418",
+      "response": {
+        "value": [
+          "1"
+        ],
+        "type": "array",
+        "apiVersion": "v2.168.5",
+        "revision": 3
+      },
+      "questionInfo": {
+        "type": "mcq",
+        "widget_type": "response",
+        "reference": "63c81524-ab1c-41ce-b36b-35d1cfef6bd2",
+        "data": {
+          "options": [
+            {
+              "label": "the par value",
+              "value": "0"
+            },
+            {
+              "label": "the call price",
+              "value": "1"
+            },
+            {
+              "label": "either call price or par value",
+              "value": "2"
+            },
+            {
+              "label": "None of the above",
+              "value": "3"
+            }
+          ],
+          "stimulus": "<span lang=\"EN-US\" style=\"font-size:11.0pt\"><span style=\"line-height:107%\"><span style=\"font-family:&quot;Helvetica&quot;,sans-serif\"><span style=\"color:black\">The maximum price for a callable bond is most accurately termed as</span></span></span></span>",
+          "type": "mcq",
+          "validation": {
+            "scoring_type": "exactMatch",
+            "valid_response": {
+              "score": 3,
+              "value": [
+                "1"
+              ]
+            }
+          },
+          "ui_style": {
+            "type": "horizontal"
+          }
+        },
+        "metadata": {
+          "name": "Multiple choice – standard",
+          "template_reference": "9e8149bd-e4d8-4dd6-a751-1a113a4b9163"
+        }
+      },
+      "feedbackInfo": [
+        {
+          "id": "0707_6d0e6d59-6e9b-43fa-b753-b4ad09b522a9_aaeae96a-7459-4ac2-8083-f180ba4efbba_34a9c1113740ae3239378754ec6d3786",
+          "user_id": "6d0e6d59-6e9b-43fa-b753-b4ad09b522a9",
+          "response_id": "aaeae96a-7459-4ac2-8083-f180ba4efbba_34a9c1113740ae3239378754ec6d3786",
+          "type": "longtextV2",
+          "question": {
+            "type": "longtextV2",
+            "metadata": {
+              "source": {
+                "organisation_id": 755
+              },
+              "sheet_reference": "default_feedback",
+              "widget_reference": "de082b5f-742a-4ecf-82ca-4dc86e218fec",
+              "valid_response_count": 0
+            },
+            "stimulus": "Written feedback:",
+            "response_id": "aaeae96a-7459-4ac2-8083-f180ba4efbba_34a9c1113740ae3239378754ec6d3786",
+            "show_word_count": false,
+            "show_word_limit": "off"
+          },
+          "response": null,
+          "creation_date": "2021-08-06 10:41:23",
+          "mod_date": "2021-08-06 15:29:26",
+          "persist_until": "2024-08-05 10:41:23",
+          "saved": true
+        },
+        null
+      ]
+    },
+    {
+      "response_id": "aaeae96a-7459-4ac2-8083-f180ba4efbba_38cefbb0a2c7094bbe32ebda862eb43e",
+      "question_type": "mcq",
+      "dt_score_updated": "2021-07-14T09:10:27Z",
+      "automarkable": true,
+      "attempted": true,
+      "score": 1,
+      "max_score": 1,
+      "question_reference": "cf0736fc-7259-45b6-9171-ea75094c9798",
+      "item_reference": "1219284e-59a9-45c4-9a89-f62851e57418",
+      "response": {
+        "value": [
+          "2"
+        ],
+        "type": "array",
+        "apiVersion": "v2.168.5",
+        "revision": 2
+      },
+      "questionInfo": {
+        "type": "mcq",
+        "widget_type": "response",
+        "reference": "cf0736fc-7259-45b6-9171-ea75094c9798",
+        "data": {
+          "options": [
+            {
+              "label": "(I) is true, (II) is false",
+              "value": "0"
+            },
+            {
+              "label": "Both statements are true",
+              "value": "2"
+            },
+            {
+              "label": "Both&nbsp; statements are false",
+              "value": "3"
+            },
+            {
+              "label": "(I) is false, (II) is true",
+              "value": "4"
+            }
+          ],
+          "stimulus": "<p class=\"NormalText\"><span style=\"font-size:10pt\"><span style=\"font-family:&quot;Palatino Linotype&quot;,serif\"><span style=\"color:black\"><span lang=\"EN-US\" style=\"font-size:11.0pt\"><span style=\"font-family:&quot;Helvetica&quot;,sans-serif\"><span style=\"color:black\">(I) The coupon rate is the rate of interest that the issuer of the bond must pay.</span></span></span></span></span></span></p>\n\n<p class=\"NormalText\"><span style=\"font-size:10pt\"><span style=\"font-family:&quot;Palatino Linotype&quot;,serif\"><span style=\"color:black\"><span lang=\"EN-US\" style=\"font-size:11.0pt\"><span style=\"font-family:&quot;Helvetica&quot;,sans-serif\"><span style=\"color:black\">(II) The coupon rate is usually fixed for the duration of the bond and does not fluctuate with market interest rates.</span></span></span></span></span></span></p>\n",
+          "type": "mcq",
+          "validation": {
+            "scoring_type": "exactMatch",
+            "valid_response": {
+              "score": 3,
+              "value": [
+                "2"
+              ]
+            }
+          },
+          "ui_style": {
+            "type": "horizontal"
+          },
+          "shuffle_options": true
+        },
+        "metadata": {
+          "name": "Multiple choice – standard",
+          "template_reference": "9e8149bd-e4d8-4dd6-a751-1a113a4b9163"
+        }
+      },
+      "feedbackInfo": [
+        {
+          "id": "0707_6d0e6d59-6e9b-43fa-b753-b4ad09b522a9_aaeae96a-7459-4ac2-8083-f180ba4efbba_d8bd45a3f55ea614f5793af9e743bd6f",
+          "user_id": "6d0e6d59-6e9b-43fa-b753-b4ad09b522a9",
+          "response_id": "aaeae96a-7459-4ac2-8083-f180ba4efbba_d8bd45a3f55ea614f5793af9e743bd6f",
+          "type": "longtextV2",
+          "question": {
+            "type": "longtextV2",
+            "metadata": {
+              "source": {
+                "organisation_id": 755
+              },
+              "sheet_reference": "default_feedback",
+              "widget_reference": "de082b5f-742a-4ecf-82ca-4dc86e218fec",
+              "valid_response_count": 0
+            },
+            "stimulus": "Written feedback:",
+            "response_id": "aaeae96a-7459-4ac2-8083-f180ba4efbba_d8bd45a3f55ea614f5793af9e743bd6f",
+            "show_word_count": false,
+            "show_word_limit": "off"
+          },
+          "response": null,
+          "creation_date": "2021-08-06 10:41:23",
+          "mod_date": "2021-08-06 15:29:26",
+          "persist_until": "2024-08-05 10:41:23",
+          "saved": true
+        },
+        null
+      ]
+    },
+    {
+      "response_id": "aaeae96a-7459-4ac2-8083-f180ba4efbba_b966bcd995b63d3ea6ff361e61e75b29",
+      "question_type": "mcq",
+      "dt_score_updated": "2021-07-14T09:15:43Z",
+      "automarkable": true,
+      "attempted": true,
+      "score": 0,
+      "max_score": 1,
+      "question_reference": "874feab9-fe78-40ca-ad62-d552adfd2f42",
+      "item_reference": "1219284e-59a9-45c4-9a89-f62851e57418",
+      "response": {
+        "value": [
+          "2"
+        ],
+        "type": "array",
+        "apiVersion": "v2.168.5",
+        "revision": 1
+      },
+      "questionInfo": {
+        "type": "mcq",
+        "widget_type": "response",
+        "reference": "874feab9-fe78-40ca-ad62-d552adfd2f42",
+        "data": {
+          "options": [
+            {
+              "label": "The bondholder benefits from the floor condition while the bond issuer benefits from the cap condition",
+              "value": "0"
+            },
+            {
+              "label": "Both issuer and bondholder benefit from the cap",
+              "value": "1"
+            },
+            {
+              "label": "The cap impacts the bondholder negatively, while the floor impacts the issuer negatively.",
+              "value": "2"
+            },
+            {
+              "label": "The floor positively impacts both bondholder and bond issuer, while the cap negatively impacts both issuer and bondholder.",
+              "value": "3"
+            }
+          ],
+          "stimulus": "<span style=\"font-size:10pt\"><span style=\"font-family:&quot;Palatino Linotype&quot;,serif\"><span style=\"color:black\"><span lang=\"EN-US\" style=\"font-size:11.0pt\"><span style=\"font-family:&quot;Helvetica&quot;,sans-serif\"><span style=\"color:black\">Which of the following is true regarding cap and floor conditions including in floating-rate coupon bonds?</span></span></span></span></span></span>",
+          "type": "mcq",
+          "validation": {
+            "scoring_type": "exactMatch",
+            "valid_response": {
+              "score": 3,
+              "value": [
+                "0"
+              ]
+            }
+          },
+          "ui_style": {
+            "type": "horizontal"
+          },
+          "shuffle_options": true
+        },
+        "metadata": {
+          "name": "Multiple choice – standard",
+          "template_reference": "9e8149bd-e4d8-4dd6-a751-1a113a4b9163"
+        }
+      },
+      "feedbackInfo": [
+        {
+          "id": "0707_6d0e6d59-6e9b-43fa-b753-b4ad09b522a9_aaeae96a-7459-4ac2-8083-f180ba4efbba_661efa0ddd9375fbc470974772398065",
+          "user_id": "6d0e6d59-6e9b-43fa-b753-b4ad09b522a9",
+          "response_id": "aaeae96a-7459-4ac2-8083-f180ba4efbba_661efa0ddd9375fbc470974772398065",
+          "type": "longtextV2",
+          "question": {
+            "type": "longtextV2",
+            "metadata": {
+              "source": {
+                "organisation_id": 755
+              },
+              "sheet_reference": "default_feedback",
+              "widget_reference": "de082b5f-742a-4ecf-82ca-4dc86e218fec",
+              "valid_response_count": 0
+            },
+            "stimulus": "Written feedback:",
+            "response_id": "aaeae96a-7459-4ac2-8083-f180ba4efbba_661efa0ddd9375fbc470974772398065",
+            "show_word_count": false,
+            "show_word_limit": "off"
+          },
+          "response": null,
+          "creation_date": "2021-08-06 10:41:23",
+          "mod_date": "2021-08-06 15:29:27",
+          "persist_until": "2024-08-05 10:41:23",
+          "saved": true
+        },
+        null
+      ]
+    },
+    {
+      "response_id": "aaeae96a-7459-4ac2-8083-f180ba4efbba_9369850169798f96a5300ece3873a816",
+      "question_type": "mcq",
+      "dt_score_updated": "2021-07-14T09:16:23Z",
+      "automarkable": true,
+      "attempted": true,
+      "score": 1,
+      "max_score": 1,
+      "question_reference": "9313a0e5-c0fb-4427-9f72-d8a5fdb7d566",
+      "item_reference": "1219284e-59a9-45c4-9a89-f62851e57418",
+      "response": {
+        "value": [
+          "0"
+        ],
+        "type": "array",
+        "apiVersion": "v2.168.5",
+        "revision": 3
+      },
+      "questionInfo": {
+        "type": "mcq",
+        "widget_type": "response",
+        "reference": "9313a0e5-c0fb-4427-9f72-d8a5fdb7d566",
+        "data": {
+          "options": [
+            {
+              "label": "(I) is true, (II) is false.",
+              "value": "0"
+            },
+            {
+              "label": "(I) is false, (II) is true",
+              "value": "1"
+            },
+            {
+              "label": "Both are true",
+              "value": "2"
+            },
+            {
+              "label": "Both are false",
+              "value": "3"
+            }
+          ],
+          "stimulus": "<p><span style=\"font-size:10pt\"><span style=\"font-family:&quot;Palatino Linotype&quot;,serif\"><span style=\"color:black\"><span lang=\"EN-US\" style=\"font-size:11.0pt\"><span style=\"font-family:&quot;Helvetica&quot;,sans-serif\"><span style=\"color:black\">(I) Most corporate bonds have a face value of $1,000, pay interest semi-annually, and can be redeemed anytime the issuer wishes. </span></span></span></span></span></span></p>\n\n<p><span style=\"font-size:10pt\"><span style=\"font-family:&quot;Palatino Linotype&quot;,serif\"><span style=\"color:black\"><span lang=\"EN-US\" style=\"font-size:11.0pt\"><span style=\"font-family:&quot;Helvetica&quot;,sans-serif\"><span style=\"color:black\">(II) Registered bonds have now been largely replaced by bearer bonds, which do not have coupons.</span></span></span></span></span></span></p>\n",
+          "type": "mcq",
+          "validation": {
+            "scoring_type": "exactMatch",
+            "valid_response": {
+              "score": 3,
+              "value": [
+                "0"
+              ]
+            }
+          },
+          "ui_style": {
+            "type": "horizontal"
+          },
+          "shuffle_options": true
+        },
+        "metadata": {
+          "name": "Multiple choice – standard",
+          "template_reference": "9e8149bd-e4d8-4dd6-a751-1a113a4b9163"
+        }
+      },
+      "feedbackInfo": [
+        {
+          "id": "0707_6d0e6d59-6e9b-43fa-b753-b4ad09b522a9_aaeae96a-7459-4ac2-8083-f180ba4efbba_e41a63972f6c4f8ef3d16cde77db0aff",
+          "user_id": "6d0e6d59-6e9b-43fa-b753-b4ad09b522a9",
+          "response_id": "aaeae96a-7459-4ac2-8083-f180ba4efbba_e41a63972f6c4f8ef3d16cde77db0aff",
+          "type": "longtextV2",
+          "question": {
+            "type": "longtextV2",
+            "metadata": {
+              "source": {
+                "organisation_id": 755
+              },
+              "sheet_reference": "default_feedback",
+              "widget_reference": "de082b5f-742a-4ecf-82ca-4dc86e218fec",
+              "valid_response_count": 0
+            },
+            "stimulus": "Written feedback:",
+            "response_id": "aaeae96a-7459-4ac2-8083-f180ba4efbba_e41a63972f6c4f8ef3d16cde77db0aff",
+            "show_word_count": false,
+            "show_word_limit": "off"
+          },
+          "response": null,
+          "creation_date": "2021-08-06 10:41:24",
+          "mod_date": "2021-08-06 15:29:27",
+          "persist_until": "2024-08-05 10:41:24",
+          "saved": true
+        },
+        null
+      ]
+    },
+    {
+      "response_id": "aaeae96a-7459-4ac2-8083-f180ba4efbba_0936034a7dafc1b0811557bc3d9710df",
+      "question_type": "mcq",
+      "dt_score_updated": "2021-07-14T09:08:07Z",
+      "automarkable": true,
+      "attempted": true,
+      "score": 1,
+      "max_score": 1,
+      "question_reference": "fb235f82-07dc-45df-8ac0-df331819f496",
+      "item_reference": "1219284e-59a9-45c4-9a89-f62851e57418",
+      "response": {
+        "value": [
+          "3"
+        ],
+        "type": "array",
+        "apiVersion": "v2.168.5",
+        "revision": 1
+      },
+      "questionInfo": {
+        "type": "mcq",
+        "widget_type": "response",
+        "reference": "fb235f82-07dc-45df-8ac0-df331819f496",
+        "data": {
+          "options": [
+            {
+              "label": "limit the amount of dividends the firm can pay",
+              "value": "0"
+            },
+            {
+              "label": "limit the ability of the firm to issue additional debt",
+              "value": "1"
+            },
+            {
+              "label": "restrict the ability of the firm to enter into a merger agreement",
+              "value": "2"
+            },
+            {
+              "label": "do all of the above",
+              "value": "3"
+            }
+          ],
+          "stimulus": "<span lang=\"EN-US\" style=\"font-size:11.0pt\"><span style=\"line-height:107%\"><span style=\"font-family:&quot;Helvetica&quot;,sans-serif\"><span style=\"color:black\">Restrictive covenants can</span></span></span></span>",
+          "type": "mcq",
+          "validation": {
+            "scoring_type": "exactMatch",
+            "valid_response": {
+              "score": 3,
+              "value": [
+                "3"
+              ]
+            }
+          },
+          "ui_style": {
+            "type": "horizontal"
+          }
+        },
+        "metadata": {
+          "name": "Multiple choice – standard",
+          "template_reference": "9e8149bd-e4d8-4dd6-a751-1a113a4b9163"
+        }
+      },
+      "feedbackInfo": [
+        {
+          "id": "0707_6d0e6d59-6e9b-43fa-b753-b4ad09b522a9_aaeae96a-7459-4ac2-8083-f180ba4efbba_31062ca41fbd7f4da0632b299f8071bc",
+          "user_id": "6d0e6d59-6e9b-43fa-b753-b4ad09b522a9",
+          "response_id": "aaeae96a-7459-4ac2-8083-f180ba4efbba_31062ca41fbd7f4da0632b299f8071bc",
+          "type": "longtextV2",
+          "question": {
+            "type": "longtextV2",
+            "metadata": {
+              "source": {
+                "organisation_id": 755
+              },
+              "sheet_reference": "default_feedback",
+              "widget_reference": "de082b5f-742a-4ecf-82ca-4dc86e218fec",
+              "valid_response_count": 0
+            },
+            "stimulus": "Written feedback:",
+            "response_id": "aaeae96a-7459-4ac2-8083-f180ba4efbba_31062ca41fbd7f4da0632b299f8071bc",
+            "show_word_count": false,
+            "show_word_limit": "off"
+          },
+          "response": null,
+          "creation_date": "2021-08-06 10:41:24",
+          "mod_date": "2021-08-06 15:29:27",
+          "persist_until": "2024-08-05 10:41:24",
+          "saved": true
+        },
+        null
+      ]
+    },
+    {
+      "response_id": "aaeae96a-7459-4ac2-8083-f180ba4efbba_f0e78c78519b966c64b952f583571979",
+      "question_type": "mcq",
+      "dt_score_updated": "2021-07-14T09:09:22Z",
+      "automarkable": true,
+      "attempted": true,
+      "score": 1,
+      "max_score": 1,
+      "question_reference": "76393ed7-6a0b-4d44-946b-7ce243b83577",
+      "item_reference": "1219284e-59a9-45c4-9a89-f62851e57418",
+      "response": {
+        "value": [
+          "0"
+        ],
+        "type": "array",
+        "apiVersion": "v2.168.5",
+        "revision": 1
+      },
+      "questionInfo": {
+        "type": "mcq",
+        "widget_type": "response",
+        "reference": "76393ed7-6a0b-4d44-946b-7ce243b83577",
+        "data": {
+          "options": [
+            {
+              "label": "True",
+              "value": "0"
+            },
+            {
+              "label": "False",
+              "value": "1"
+            }
+          ],
+          "stimulus": "<span lang=\"EN-US\" style=\"font-size:11.0pt\"><span style=\"line-height:107%\"><span style=\"font-family:&quot;Helvetica&quot;,sans-serif\"><span style=\"color:black\">Coupon bond yields and forward interest rates can be observed directly from market transactions. </span></span></span></span>",
+          "type": "mcq",
+          "ui_style": {
+            "type": "horizontal"
+          },
+          "validation": {
+            "scoring_type": "exactMatch",
+            "valid_response": {
+              "score": 2,
+              "value": [
+                "0"
+              ]
+            }
+          }
+        },
+        "metadata": {
+          "name": "True or false",
+          "template_reference": "3egs0b24-5gs8-49fc-fds9-4a450sdg31ca"
+        }
+      },
+      "feedbackInfo": [
+        {
+          "id": "0707_6d0e6d59-6e9b-43fa-b753-b4ad09b522a9_aaeae96a-7459-4ac2-8083-f180ba4efbba_fb513a26e6783cd735fed4c955b1003c",
+          "user_id": "6d0e6d59-6e9b-43fa-b753-b4ad09b522a9",
+          "response_id": "aaeae96a-7459-4ac2-8083-f180ba4efbba_fb513a26e6783cd735fed4c955b1003c",
+          "type": "longtextV2",
+          "question": {
+            "type": "longtextV2",
+            "metadata": {
+              "source": {
+                "organisation_id": 755
+              },
+              "sheet_reference": "default_feedback",
+              "widget_reference": "de082b5f-742a-4ecf-82ca-4dc86e218fec",
+              "valid_response_count": 0
+            },
+            "stimulus": "Written feedback:",
+            "response_id": "aaeae96a-7459-4ac2-8083-f180ba4efbba_fb513a26e6783cd735fed4c955b1003c",
+            "show_word_count": false,
+            "show_word_limit": "off"
+          },
+          "response": null,
+          "creation_date": "2021-08-06 10:41:24",
+          "mod_date": "2021-08-06 15:29:28",
+          "persist_until": "2024-08-05 10:41:24",
+          "saved": true
+        },
+        null
+      ]
+    },
+    {
+      "response_id": "aaeae96a-7459-4ac2-8083-f180ba4efbba_1705dc5ca1136dcd138da78d068c5efa",
+      "question_type": "mcq",
+      "dt_score_updated": "2021-07-14T09:11:37Z",
+      "automarkable": true,
+      "attempted": true,
+      "score": 1,
+      "max_score": 1,
+      "question_reference": "a29e1419-ea7d-4ffc-91c8-241ac14c2d7c",
+      "item_reference": "1219284e-59a9-45c4-9a89-f62851e57418",
+      "response": {
+        "value": [
+          "1"
+        ],
+        "type": "array",
+        "apiVersion": "v2.168.5",
+        "revision": 1
+      },
+      "questionInfo": {
+        "type": "mcq",
+        "widget_type": "response",
+        "reference": "a29e1419-ea7d-4ffc-91c8-241ac14c2d7c",
+        "data": {
+          "options": [
+            {
+              "label": "True",
+              "value": "0"
+            },
+            {
+              "label": "False",
+              "value": "1"
+            }
+          ],
+          "stimulus": "<span lang=\"EN-US\" style=\"font-size:11.0pt\"><span style=\"line-height:107%\"><span style=\"font-family:&quot;Helvetica&quot;,sans-serif\"><span style=\"color:black\">The coupon rate is the rate of interest that the investors require, which can be different from the periodic interest payment made by the bond issuer, often called the coupon payment.</span></span></span></span>",
+          "type": "mcq",
+          "ui_style": {
+            "type": "horizontal"
+          },
+          "validation": {
+            "scoring_type": "exactMatch",
+            "valid_response": {
+              "score": 2,
+              "value": [
+                "1"
+              ]
+            }
+          }
+        },
+        "metadata": {
+          "name": "True or false",
+          "template_reference": "3egs0b24-5gs8-49fc-fds9-4a450sdg31ca"
+        }
+      },
+      "feedbackInfo": [
+        {
+          "id": "0707_6d0e6d59-6e9b-43fa-b753-b4ad09b522a9_aaeae96a-7459-4ac2-8083-f180ba4efbba_876bdb9d29d2747f6e6e264945f3341f",
+          "user_id": "6d0e6d59-6e9b-43fa-b753-b4ad09b522a9",
+          "response_id": "aaeae96a-7459-4ac2-8083-f180ba4efbba_876bdb9d29d2747f6e6e264945f3341f",
+          "type": "longtextV2",
+          "question": {
+            "type": "longtextV2",
+            "metadata": {
+              "source": {
+                "organisation_id": 755
+              },
+              "sheet_reference": "default_feedback",
+              "widget_reference": "de082b5f-742a-4ecf-82ca-4dc86e218fec",
+              "valid_response_count": 0
+            },
+            "stimulus": "Written feedback:",
+            "response_id": "aaeae96a-7459-4ac2-8083-f180ba4efbba_876bdb9d29d2747f6e6e264945f3341f",
+            "show_word_count": false,
+            "show_word_limit": "off"
+          },
+          "response": null,
+          "creation_date": "2021-08-06 10:41:25",
+          "mod_date": "2021-08-06 15:29:28",
+          "persist_until": "2024-08-05 10:41:25",
+          "saved": true
+        },
+        null
+      ]
+    },
+    {
+      "response_id": "aaeae96a-7459-4ac2-8083-f180ba4efbba_79bc766f9c8600cb868b0ec27aac7cbb",
+      "question_type": "mcq",
+      "dt_score_updated": "2021-07-14T09:12:48Z",
+      "automarkable": true,
+      "attempted": true,
+      "score": 1,
+      "max_score": 1,
+      "question_reference": "d0e2377e-3c7b-4e0e-8ca2-dcfad5465ffd",
+      "item_reference": "1219284e-59a9-45c4-9a89-f62851e57418",
+      "response": {
+        "value": [
+          "1"
+        ],
+        "type": "array",
+        "apiVersion": "v2.168.5",
+        "revision": 1
+      },
+      "questionInfo": {
+        "type": "mcq",
+        "widget_type": "response",
+        "reference": "d0e2377e-3c7b-4e0e-8ca2-dcfad5465ffd",
+        "data": {
+          "options": [
+            {
+              "label": "True",
+              "value": "0"
+            },
+            {
+              "label": "False",
+              "value": "1"
+            }
+          ],
+          "stimulus": "<span lang=\"EN-US\" style=\"font-size:11.0pt\"><span style=\"line-height:107%\"><span style=\"font-family:&quot;Helvetica&quot;,sans-serif\"><span style=\"color:black\">The current yield on a bond is a good approximation of the bond's yield to maturity when the bond matures in five years or less and its price differs from its par value by a large amount. </span></span></span></span>",
+          "type": "mcq",
+          "ui_style": {
+            "type": "horizontal"
+          },
+          "validation": {
+            "scoring_type": "exactMatch",
+            "valid_response": {
+              "score": 2,
+              "value": [
+                "1"
+              ]
+            }
+          }
+        },
+        "metadata": {
+          "name": "True or false",
+          "template_reference": "3egs0b24-5gs8-49fc-fds9-4a450sdg31ca"
+        }
+      },
+      "feedbackInfo": [
+        {
+          "id": "0707_6d0e6d59-6e9b-43fa-b753-b4ad09b522a9_aaeae96a-7459-4ac2-8083-f180ba4efbba_0f161b4266b86b0816db303156ae20ea",
+          "user_id": "6d0e6d59-6e9b-43fa-b753-b4ad09b522a9",
+          "response_id": "aaeae96a-7459-4ac2-8083-f180ba4efbba_0f161b4266b86b0816db303156ae20ea",
+          "type": "longtextV2",
+          "question": {
+            "type": "longtextV2",
+            "metadata": {
+              "source": {
+                "organisation_id": 755
+              },
+              "sheet_reference": "default_feedback",
+              "widget_reference": "de082b5f-742a-4ecf-82ca-4dc86e218fec",
+              "valid_response_count": 0
+            },
+            "stimulus": "Written feedback:",
+            "response_id": "aaeae96a-7459-4ac2-8083-f180ba4efbba_0f161b4266b86b0816db303156ae20ea",
+            "show_word_count": false,
+            "show_word_limit": "off"
+          },
+          "response": null,
+          "creation_date": "2021-08-06 10:41:25",
+          "mod_date": "2021-08-06 15:29:28",
+          "persist_until": "2024-08-05 10:41:25",
+          "saved": true
+        },
+        null
+      ]
+    },
+    {
+      "response_id": "aaeae96a-7459-4ac2-8083-f180ba4efbba_1fe0198841a0724d7f61767e619b5483",
+      "question_type": "mcq",
+      "dt_score_updated": "2021-07-14T09:14:28Z",
+      "automarkable": true,
+      "attempted": true,
+      "score": 1,
+      "max_score": 1,
+      "question_reference": "6922d949-b75d-4e56-924d-2e8d1c941c4c",
+      "item_reference": "1219284e-59a9-45c4-9a89-f62851e57418",
+      "response": {
+        "value": [
+          "0"
+        ],
+        "type": "array",
+        "apiVersion": "v2.168.5",
+        "revision": 1
+      },
+      "questionInfo": {
+        "type": "mcq",
+        "widget_type": "response",
+        "reference": "6922d949-b75d-4e56-924d-2e8d1c941c4c",
+        "data": {
+          "options": [
+            {
+              "label": "True",
+              "value": "0"
+            },
+            {
+              "label": "False",
+              "value": "1"
+            }
+          ],
+          "stimulus": "<span lang=\"EN-US\" style=\"font-size:11.0pt\"><span style=\"line-height:107%\"><span style=\"font-family:&quot;Helvetica&quot;,sans-serif\"><span style=\"color:black\">Fixed-income classifications by type of issuer include corporate, and government, and structured finance instruments. </span></span></span></span>",
+          "type": "mcq",
+          "ui_style": {
+            "type": "horizontal"
+          },
+          "validation": {
+            "scoring_type": "exactMatch",
+            "valid_response": {
+              "score": 2,
+              "value": [
+                "0"
+              ]
+            }
+          }
+        },
+        "metadata": {
+          "name": "True or false",
+          "template_reference": "3egs0b24-5gs8-49fc-fds9-4a450sdg31ca"
+        }
+      },
+      "feedbackInfo": [
+        {
+          "id": "0707_6d0e6d59-6e9b-43fa-b753-b4ad09b522a9_aaeae96a-7459-4ac2-8083-f180ba4efbba_e0c4873f29965a3608b85690a7528233",
+          "user_id": "6d0e6d59-6e9b-43fa-b753-b4ad09b522a9",
+          "response_id": "aaeae96a-7459-4ac2-8083-f180ba4efbba_e0c4873f29965a3608b85690a7528233",
+          "type": "longtextV2",
+          "question": {
+            "type": "longtextV2",
+            "metadata": {
+              "source": {
+                "organisation_id": 755
+              },
+              "sheet_reference": "default_feedback",
+              "widget_reference": "de082b5f-742a-4ecf-82ca-4dc86e218fec",
+              "valid_response_count": 0
+            },
+            "stimulus": "Written feedback:",
+            "response_id": "aaeae96a-7459-4ac2-8083-f180ba4efbba_e0c4873f29965a3608b85690a7528233",
+            "show_word_count": false,
+            "show_word_limit": "off"
+          },
+          "response": null,
+          "creation_date": "2021-08-06 10:41:26",
+          "mod_date": "2021-08-06 15:29:29",
+          "persist_until": "2024-08-05 10:41:26",
+          "saved": true
+        },
+        null
+      ]
+    },
+    {
+      "response_id": "aaeae96a-7459-4ac2-8083-f180ba4efbba_a51dedd2516567298a290eb925c9bb9b",
+      "question_type": "mcq",
+      "dt_score_updated": "2021-07-14T09:15:03Z",
+      "automarkable": true,
+      "attempted": true,
+      "score": 0,
+      "max_score": 1,
+      "question_reference": "3eec5547-f044-4dd2-a21c-678ce7e643c2",
+      "item_reference": "1219284e-59a9-45c4-9a89-f62851e57418",
+      "response": {
+        "value": [
+          "1"
+        ],
+        "type": "array",
+        "apiVersion": "v2.168.5",
+        "revision": 1
+      },
+      "questionInfo": {
+        "type": "mcq",
+        "widget_type": "response",
+        "reference": "3eec5547-f044-4dd2-a21c-678ce7e643c2",
+        "data": {
+          "options": [
+            {
+              "label": "True",
+              "value": "0"
+            },
+            {
+              "label": "False",
+              "value": "1"
+            }
+          ],
+          "stimulus": "<span lang=\"EN-US\" style=\"font-size:11.0pt\"><span style=\"line-height:107%\"><span style=\"font-family:&quot;Helvetica&quot;,sans-serif\"><span style=\"color:black\">Many jurisdictions periodically tax interest income during the bond lifetime, although the holder of the bond does not receive any cash until maturity. </span></span></span></span>",
+          "type": "mcq",
+          "ui_style": {
+            "type": "horizontal"
+          },
+          "validation": {
+            "scoring_type": "exactMatch",
+            "valid_response": {
+              "score": 2,
+              "value": [
+                "0"
+              ]
+            }
+          }
+        },
+        "metadata": {
+          "name": "True or false",
+          "template_reference": "3egs0b24-5gs8-49fc-fds9-4a450sdg31ca"
+        }
+      },
+      "feedbackInfo": [
+        {
+          "id": "0707_6d0e6d59-6e9b-43fa-b753-b4ad09b522a9_aaeae96a-7459-4ac2-8083-f180ba4efbba_086181f23e6bb86ef8fccb8fb2ca972e",
+          "user_id": "6d0e6d59-6e9b-43fa-b753-b4ad09b522a9",
+          "response_id": "aaeae96a-7459-4ac2-8083-f180ba4efbba_086181f23e6bb86ef8fccb8fb2ca972e",
+          "type": "longtextV2",
+          "question": {
+            "type": "longtextV2",
+            "metadata": {
+              "source": {
+                "organisation_id": 755
+              },
+              "sheet_reference": "default_feedback",
+              "widget_reference": "de082b5f-742a-4ecf-82ca-4dc86e218fec",
+              "valid_response_count": 0
+            },
+            "stimulus": "Written feedback:",
+            "response_id": "aaeae96a-7459-4ac2-8083-f180ba4efbba_086181f23e6bb86ef8fccb8fb2ca972e",
+            "show_word_count": false,
+            "show_word_limit": "off"
+          },
+          "response": null,
+          "creation_date": "2021-08-06 10:41:26",
+          "mod_date": "2021-08-06 15:29:29",
+          "persist_until": "2024-08-05 10:41:26",
+          "saved": true
+        },
+        null
+      ]
+    },
+    {
+      "response_id": "aaeae96a-7459-4ac2-8083-f180ba4efbba_52ad6c5231d2ad3df8b9f126cd68b773",
+      "question_type": "mcq",
+      "dt_score_updated": "2021-07-14T09:43:59Z",
+      "automarkable": true,
+      "attempted": true,
+      "score": 1,
+      "max_score": 1,
+      "question_reference": "fe0e2897-adf2-4114-a457-87fa99127cab",
+      "item_reference": "59a164fc-2c0b-4f97-9a4c-49d9a5aac655",
+      "response": {
+        "value": [
+          "3"
+        ],
+        "type": "array",
+        "apiVersion": "v2.168.5",
+        "revision": 1
+      },
+      "questionInfo": {
+        "type": "mcq",
+        "widget_type": "response",
+        "reference": "fe0e2897-adf2-4114-a457-87fa99127cab",
+        "data": {
+          "options": [
+            {
+              "label": "47.21, and 4.21",
+              "value": "0"
+            },
+            {
+              "label": "52.21, and 0",
+              "value": "1"
+            },
+            {
+              "label": "38.21, and 1",
+              "value": "2"
+            },
+            {
+              "label": "44.21, and 0",
+              "value": "3"
+            }
+          ],
+          "stimulus": "A one-year long forward contract on a non-dividend paying stock is entered into when the stock price is $40 and the risk-free rate of interest is 10% per annum with continuous compounding. What is the forward price and initial value of the forward contract?",
+          "type": "mcq",
+          "validation": {
+            "scoring_type": "exactMatch",
+            "valid_response": {
+              "score": 3,
+              "value": [
+                "3"
+              ]
+            }
+          },
+          "ui_style": {
+            "type": "horizontal"
+          },
+          "shuffle_options": true
+        },
+        "metadata": {
+          "name": "Multiple choice – standard",
+          "template_reference": "9e8149bd-e4d8-4dd6-a751-1a113a4b9163"
+        }
+      },
+      "feedbackInfo": [
+        {
+          "id": "0707_6d0e6d59-6e9b-43fa-b753-b4ad09b522a9_aaeae96a-7459-4ac2-8083-f180ba4efbba_6c68d66273e177352c4e1a2f15d2c65b",
+          "user_id": "6d0e6d59-6e9b-43fa-b753-b4ad09b522a9",
+          "response_id": "aaeae96a-7459-4ac2-8083-f180ba4efbba_6c68d66273e177352c4e1a2f15d2c65b",
+          "type": "longtextV2",
+          "question": {
+            "type": "longtextV2",
+            "metadata": {
+              "source": {
+                "organisation_id": 755
+              },
+              "sheet_reference": "default_feedback",
+              "widget_reference": "de082b5f-742a-4ecf-82ca-4dc86e218fec",
+              "valid_response_count": 0
+            },
+            "stimulus": "Written feedback:",
+            "response_id": "aaeae96a-7459-4ac2-8083-f180ba4efbba_6c68d66273e177352c4e1a2f15d2c65b",
+            "show_word_count": false,
+            "show_word_limit": "off"
+          },
+          "response": null,
+          "creation_date": "2021-08-06 10:41:26",
+          "mod_date": "2021-08-06 15:29:30",
+          "persist_until": "2024-08-05 10:41:26",
+          "saved": true
+        },
+        null
+      ]
+    },
+    {
+      "response_id": "aaeae96a-7459-4ac2-8083-f180ba4efbba_4f25e6af6083e2cbea2987d4aa27f665",
+      "question_type": "mcq",
+      "dt_score_updated": "2021-07-14T09:51:41Z",
+      "automarkable": true,
+      "attempted": true,
+      "score": 1,
+      "max_score": 1,
+      "question_reference": "4a581bab-56a2-4459-bfaf-05b0ae7e2c0b",
+      "item_reference": "59a164fc-2c0b-4f97-9a4c-49d9a5aac655",
+      "response": {
+        "value": [
+          "1"
+        ],
+        "type": "array",
+        "apiVersion": "v2.168.5",
+        "revision": 1
+      },
+      "questionInfo": {
+        "type": "mcq",
+        "widget_type": "response",
+        "reference": "4a581bab-56a2-4459-bfaf-05b0ae7e2c0b",
+        "data": {
+          "options": [
+            {
+              "label": "45, and 0",
+              "value": "0"
+            },
+            {
+              "label": "47.21, and 2.95",
+              "value": "1"
+            },
+            {
+              "label": "44.21, and 40",
+              "value": "2"
+            },
+            {
+              "label": "49.21, and 45",
+              "value": "3"
+            }
+          ],
+          "stimulus": "A one-year long forward contract on a non-dividend paying stock is entered into when the stock price is $40 and the risk-free rate of interest is 10% per annum with continuous compounding. Six months later, the price of the stock is $45 and the risk-free interest rate is still 10%. What is the forward price and initial value of the forward contract?",
+          "type": "mcq",
+          "validation": {
+            "scoring_type": "exactMatch",
+            "valid_response": {
+              "score": 3,
+              "value": [
+                "1"
+              ]
+            }
+          },
+          "ui_style": {
+            "type": "horizontal"
+          },
+          "shuffle_options": true
+        },
+        "metadata": {
+          "name": "Multiple choice – standard",
+          "template_reference": "9e8149bd-e4d8-4dd6-a751-1a113a4b9163"
+        }
+      },
+      "feedbackInfo": [
+        {
+          "id": "0707_6d0e6d59-6e9b-43fa-b753-b4ad09b522a9_aaeae96a-7459-4ac2-8083-f180ba4efbba_68ac057e99bbee765127fb9a74e564aa",
+          "user_id": "6d0e6d59-6e9b-43fa-b753-b4ad09b522a9",
+          "response_id": "aaeae96a-7459-4ac2-8083-f180ba4efbba_68ac057e99bbee765127fb9a74e564aa",
+          "type": "longtextV2",
+          "question": {
+            "type": "longtextV2",
+            "metadata": {
+              "source": {
+                "organisation_id": 755
+              },
+              "sheet_reference": "default_feedback",
+              "widget_reference": "de082b5f-742a-4ecf-82ca-4dc86e218fec",
+              "valid_response_count": 0
+            },
+            "stimulus": "Written feedback:",
+            "response_id": "aaeae96a-7459-4ac2-8083-f180ba4efbba_68ac057e99bbee765127fb9a74e564aa",
+            "show_word_count": false,
+            "show_word_limit": "off"
+          },
+          "response": null,
+          "creation_date": "2021-08-06 10:41:27",
+          "mod_date": "2021-08-06 15:29:30",
+          "persist_until": "2024-08-05 10:41:27",
+          "saved": true
+        },
+        null
+      ]
+    },
+    {
+      "response_id": "aaeae96a-7459-4ac2-8083-f180ba4efbba_34d3df7b86cc0095183863a3bb4a3705",
+      "question_type": "mcq",
+      "dt_score_updated": "2021-07-14T09:52:56Z",
+      "automarkable": true,
+      "attempted": true,
+      "score": 1,
+      "max_score": 1,
+      "question_reference": "33477587-5122-4393-b701-79292956b8bd",
+      "item_reference": "59a164fc-2c0b-4f97-9a4c-49d9a5aac655",
+      "response": {
+        "value": [
+          "0"
+        ],
+        "type": "array",
+        "apiVersion": "v2.168.5",
+        "revision": 1
+      },
+      "questionInfo": {
+        "type": "mcq",
+        "widget_type": "response",
+        "reference": "33477587-5122-4393-b701-79292956b8bd",
+        "data": {
+          "options": [
+            {
+              "label": "&nbsp;$354.7",
+              "value": "0"
+            },
+            {
+              "label": "&nbsp;$352.7",
+              "value": "1"
+            },
+            {
+              "label": "$357.7",
+              "value": "2"
+            },
+            {
+              "label": "$351.7",
+              "value": "3"
+            }
+          ],
+          "stimulus": "A stock index currently stands at 350. The risk-free interest rate is 8% per annum (with continuous compounding) and the dividend yield on the index is 4% per annum. What should the futures price for a four-month contract be?&nbsp;",
+          "type": "mcq",
+          "validation": {
+            "scoring_type": "exactMatch",
+            "valid_response": {
+              "score": 3,
+              "value": [
+                "0"
+              ]
+            }
+          },
+          "ui_style": {
+            "type": "horizontal"
+          },
+          "shuffle_options": true
+        },
+        "metadata": {
+          "name": "Multiple choice – standard",
+          "template_reference": "9e8149bd-e4d8-4dd6-a751-1a113a4b9163"
+        }
+      },
+      "feedbackInfo": [
+        {
+          "id": "0707_6d0e6d59-6e9b-43fa-b753-b4ad09b522a9_aaeae96a-7459-4ac2-8083-f180ba4efbba_601d426363c114d7c13814a8a1d5f9c1",
+          "user_id": "6d0e6d59-6e9b-43fa-b753-b4ad09b522a9",
+          "response_id": "aaeae96a-7459-4ac2-8083-f180ba4efbba_601d426363c114d7c13814a8a1d5f9c1",
+          "type": "longtextV2",
+          "question": {
+            "type": "longtextV2",
+            "metadata": {
+              "source": {
+                "organisation_id": 755
+              },
+              "sheet_reference": "default_feedback",
+              "widget_reference": "de082b5f-742a-4ecf-82ca-4dc86e218fec",
+              "valid_response_count": 0
+            },
+            "stimulus": "Written feedback:",
+            "response_id": "aaeae96a-7459-4ac2-8083-f180ba4efbba_601d426363c114d7c13814a8a1d5f9c1",
+            "show_word_count": false,
+            "show_word_limit": "off"
+          },
+          "response": null,
+          "creation_date": "2021-08-06 10:41:27",
+          "mod_date": "2021-08-06 15:29:30",
+          "persist_until": "2024-08-05 10:41:27",
+          "saved": true
+        },
+        null
+      ]
+    },
+    {
+      "response_id": "aaeae96a-7459-4ac2-8083-f180ba4efbba_1dce3e5585e3798c3f0c5b69ec43ea30",
+      "question_type": "mcq",
+      "dt_score_updated": "2021-07-14T09:55:08Z",
+      "automarkable": true,
+      "attempted": true,
+      "score": 1,
+      "max_score": 1,
+      "question_reference": "84e52fcd-c86e-4afa-bba2-db050fefb647",
+      "item_reference": "59a164fc-2c0b-4f97-9a4c-49d9a5aac655",
+      "response": {
+        "value": [
+          "1"
+        ],
+        "type": "array",
+        "apiVersion": "v2.168.5",
+        "revision": 1
+      },
+      "questionInfo": {
+        "type": "mcq",
+        "widget_type": "response",
+        "reference": "84e52fcd-c86e-4afa-bba2-db050fefb647",
+        "data": {
+          "options": [
+            {
+              "label": "Long position gains 50",
+              "value": "0"
+            },
+            {
+              "label": "Long position gains 60",
+              "value": "1"
+            },
+            {
+              "label": "Long position gains 110",
+              "value": "2"
+            },
+            {
+              "label": "Short position gains 60",
+              "value": "3"
+            }
+          ],
+          "stimulus": "For non-dividend paying stock index, the current price is 1100 and the 6-month forward price is 1150. Assume the price of the stock index in 6 months will be 1210. Which of the following is true regarding forward positions in the stock index?",
+          "type": "mcq",
+          "validation": {
+            "scoring_type": "exactMatch",
+            "valid_response": {
+              "score": 3,
+              "value": [
+                "1"
+              ]
+            }
+          },
+          "ui_style": {
+            "type": "horizontal"
+          },
+          "shuffle_options": true
+        },
+        "metadata": {
+          "name": "Multiple choice – standard",
+          "template_reference": "9e8149bd-e4d8-4dd6-a751-1a113a4b9163"
+        }
+      },
+      "feedbackInfo": [
+        {
+          "id": "0707_6d0e6d59-6e9b-43fa-b753-b4ad09b522a9_aaeae96a-7459-4ac2-8083-f180ba4efbba_7aef921c23aa1963f709a03fe3c76b7d",
+          "user_id": "6d0e6d59-6e9b-43fa-b753-b4ad09b522a9",
+          "response_id": "aaeae96a-7459-4ac2-8083-f180ba4efbba_7aef921c23aa1963f709a03fe3c76b7d",
+          "type": "longtextV2",
+          "question": {
+            "type": "longtextV2",
+            "metadata": {
+              "source": {
+                "organisation_id": 755
+              },
+              "sheet_reference": "default_feedback",
+              "widget_reference": "de082b5f-742a-4ecf-82ca-4dc86e218fec",
+              "valid_response_count": 0
+            },
+            "stimulus": "Written feedback:",
+            "response_id": "aaeae96a-7459-4ac2-8083-f180ba4efbba_7aef921c23aa1963f709a03fe3c76b7d",
+            "show_word_count": false,
+            "show_word_limit": "off"
+          },
+          "response": null,
+          "creation_date": "2021-08-06 10:41:27",
+          "mod_date": "2021-08-06 15:29:31",
+          "persist_until": "2024-08-05 10:41:27",
+          "saved": true
+        },
+        null
+      ]
+    },
+    {
+      "response_id": "aaeae96a-7459-4ac2-8083-f180ba4efbba_503683f40e235d7d22a04ee8075d3dd2",
+      "question_type": "mcq",
+      "dt_score_updated": "2021-07-14T09:55:57Z",
+      "automarkable": true,
+      "attempted": true,
+      "score": 1,
+      "max_score": 1,
+      "question_reference": "27fd67b0-e126-40c1-9348-efc03278b6b1",
+      "item_reference": "59a164fc-2c0b-4f97-9a4c-49d9a5aac655",
+      "response": {
+        "value": [
+          "1"
+        ],
+        "type": "array",
+        "apiVersion": "v2.168.5",
+        "revision": 1
+      },
+      "questionInfo": {
+        "type": "mcq",
+        "widget_type": "response",
+        "reference": "27fd67b0-e126-40c1-9348-efc03278b6b1",
+        "data": {
+          "options": [
+            {
+              "label": "70.75",
+              "value": "0"
+            },
+            {
+              "label": "73.63",
+              "value": "1"
+            },
+            {
+              "label": "75.81",
+              "value": "2"
+            },
+            {
+              "label": "77.87",
+              "value": "3"
+            }
+          ],
+          "stimulus": "A one-year forward contract on a stock has a price of $75. The stock is expected to pay a dividend of $1.50 at two future times, six months from now and one year from now, and the annual effective risk-free interest rate is 6%. Calculate the current stock price. [Hint: use discrete compounding]",
+          "type": "mcq",
+          "validation": {
+            "scoring_type": "exactMatch",
+            "valid_response": {
+              "score": 3,
+              "value": [
+                "1"
+              ]
+            }
+          },
+          "ui_style": {
+            "type": "horizontal"
+          },
+          "shuffle_options": true
+        },
+        "metadata": {
+          "name": "Multiple choice – standard",
+          "template_reference": "9e8149bd-e4d8-4dd6-a751-1a113a4b9163"
+        }
+      },
+      "feedbackInfo": [
+        {
+          "id": "0707_6d0e6d59-6e9b-43fa-b753-b4ad09b522a9_aaeae96a-7459-4ac2-8083-f180ba4efbba_75eb4f44b5b7c9124e5cf4152d503a21",
+          "user_id": "6d0e6d59-6e9b-43fa-b753-b4ad09b522a9",
+          "response_id": "aaeae96a-7459-4ac2-8083-f180ba4efbba_75eb4f44b5b7c9124e5cf4152d503a21",
+          "type": "longtextV2",
+          "question": {
+            "type": "longtextV2",
+            "metadata": {
+              "source": {
+                "organisation_id": 755
+              },
+              "sheet_reference": "default_feedback",
+              "widget_reference": "de082b5f-742a-4ecf-82ca-4dc86e218fec",
+              "valid_response_count": 0
+            },
+            "stimulus": "Written feedback:",
+            "response_id": "aaeae96a-7459-4ac2-8083-f180ba4efbba_75eb4f44b5b7c9124e5cf4152d503a21",
+            "show_word_count": false,
+            "show_word_limit": "off"
+          },
+          "response": null,
+          "creation_date": "2021-08-06 10:41:28",
+          "mod_date": "2021-08-06 15:29:31",
+          "persist_until": "2024-08-05 10:41:28",
+          "saved": true
+        },
+        null
+      ]
+    },
+    {
+      "response_id": "aaeae96a-7459-4ac2-8083-f180ba4efbba_d1e5dd02ff1b11ecf5f5468296934bdb",
+      "question_type": "plaintext",
+      "dt_score_updated": "2021-09-08T13:37:14Z",
+      "automarkable": false,
+      "attempted": true,
+      "score": 0,
+      "max_score": 10,
+      "question_reference": "924f4473-bed4-4d6b-b40e-16104f527f99",
+      "item_reference": "b39d4f46-b9dd-4a8f-8db9-f3b11ba26b5b",
+      "response": {
+        "value": "Current Price = $100\nCoupon Rate = 8%\n1-year Forward Price = $125\nMarket Rate = 6%\n\nFair Forward Price = 100 * 1.06 = 106\nFair Forward Price will be $106\nHowever, the actual Forward Price is $125 (overvalued), the trader can win money using arbitrage. He can borrow $100 at 6% rate and buy share in spot market at $100. In 1 year, he can sell share at $125, pay back the loan $106 and receive a coupon of $8 \nProfit = 125 – 106 + 8 = 27; The arbitrage profit is $27",
+        "wordCount": 96,
+        "type": "string",
+        "apiVersion": "v2.168.5",
+        "revision": 7
+      },
+      "manual_score": null,
+      "max_manual_score": null,
+      "questionInfo": {
+        "type": "plaintext",
+        "widget_type": "response",
+        "reference": "924f4473-bed4-4d6b-b40e-16104f527f99",
+        "data": {
+          "show_copy": true,
+          "show_cut": true,
+          "show_paste": true,
+          "stimulus": "A trader takes a short position in a one year forward contract on a 31-year Treasury Bond. The Treasury Bond to be delivered in 1-year is assumed to have an 8% coupon rate and a par value of 100. Using a flat term structure with continuously compounded annual return of 6%. Construct a strategy from which an investor can earn a riskless profit. Assume the 1-year forward price on the bond is $125",
+          "spellcheck": true,
+          "type": "plaintext",
+          "is_math": true,
+          "metadata": {
+            "sample_answer": "<p>The spot price at the time the contract is entered is the spot price of a 31-year bond:</p>\n\n<p class=\"text-center\">\\(S_0=100e^{-31\\times0.06}+4\\times\\left(\\frac{1-e^{-31\\times0.06}}{e^{\\frac{0.06}{2}}-1}\\right)=126.46\\)</p>\n\n<p>The no arbitrage 1-year forward price is&nbsp;</p>\n\n<p class=\"text-center\">\\(\\left(S_{0\\ }-I\\right)e^r=\\left(126.46-4e^{-0.03}-4e^{-0.06}\\right)e^{0.06}=126.15\\)</p>\n\n<p>The forward price is below the no arbitrage forward price, arrange to buy in one year at the lower price. The strategy is as follows:</p>\n\n<ol>\n\t<li>Take a long position in a one year forward contract on the bond</li>\n\t<li>Sell short a 31-year 8% T-Bond, receive 126.46</li>\n\t<li>Invest 126.46 for one year at risk free rate</li>\n\t<li>At \\(t=0.05\\) borrow 4 for 6 months at risk free rate, and pay coupon to person to which the bond was sold.</li>\n\t<li>At time \\(t=1\\), receive&nbsp;\\(126.46e^{0.06}=134.28\\)&nbsp;from 1 year investment, pay coupon of 4 and 6-month loan amount of&nbsp;\\(4e^{0.03}=4.12\\), and close forward contract by buying 30-year T-Bond for 125 and delivering to the party to who it was sold short one year ago; this leaves a riskless profit of&nbsp;\\(134.28-4-4.12-125;=1.16\\). The riskless profit is the difference between the no arbitrage forward price and the actual forward price as of time 0.</li>\n</ol>\n"
+          },
+          "max_length": 100,
+          "validation": {
+            "max_score": 10
+          }
+        },
+        "metadata": {
+          "name": "Essay with plain text",
+          "template_reference": "0f559437-5072-475e-830d-1fa9d2f6bb0d"
+        }
+      },
+      "feedbackInfo": [
+        {
+          "id": "0707_6d0e6d59-6e9b-43fa-b753-b4ad09b522a9_aaeae96a-7459-4ac2-8083-f180ba4efbba_ea2ca8ead478d9881c57e0d2a7256abf",
+          "user_id": "6d0e6d59-6e9b-43fa-b753-b4ad09b522a9",
+          "response_id": "aaeae96a-7459-4ac2-8083-f180ba4efbba_ea2ca8ead478d9881c57e0d2a7256abf",
+          "type": "longtextV2",
+          "question": {
+            "type": "longtextV2",
+            "metadata": {
+              "source": {
+                "organisation_id": 755
+              },
+              "sheet_reference": "default_feedback",
+              "widget_reference": "de082b5f-742a-4ecf-82ca-4dc86e218fec",
+              "valid_response_count": 0
+            },
+            "stimulus": "Written feedback:",
+            "response_id": "aaeae96a-7459-4ac2-8083-f180ba4efbba_ea2ca8ead478d9881c57e0d2a7256abf",
+            "show_word_count": false,
+            "show_word_limit": "off"
+          },
+          "response": {
+            "value": "<p>​Step 1: Calculate the spot price at the time the contract is entered. This will be the spot price of a 31-year bond<br>Step 2: Calculate the no arbitrage 1-year forward price<br>The forward price is below the no arbitrage forward price, so we arrange to buy in one year at the lower price. The strategy is as follows:<br>1. Take a long position in a one year forward contract on the bond<br>2. Sell short a 31-year 8% T-Bond, receive 126.46  <br>3. Invest 126.46 for one year at risk free rate  <br>4. At t=0.5 borrow 4 for 6 months at risk free rate, and pay coupon to person to which the bond was sold.  <br>5. At time t=1, receive from 1 year investment, pay coupon of 4 and 6-month loan amount and close forward contract by buying 31-year T-Bond for 125 and delivering to the party to who it was sold short one year ago; this leaves a riskless profit of 1.16. The riskless profit is the difference between the no arbitrage forward price and the actual forward price as of time 0.<br><br>​<br></p>",
+            "wordCount": 184,
+            "type": "string",
+            "apiVersion": "v2.175.0",
+            "revision": 1
+          },
+          "creation_date": "2021-08-06 10:41:28",
+          "mod_date": "2021-08-06 15:29:32",
+          "persist_until": "2024-08-05 10:41:28",
+          "saved": true
+        },
+        null
+      ]
+    },
+    {
+      "response_id": "aaeae96a-7459-4ac2-8083-f180ba4efbba_f3d783d53a2d10540a9fbd8ed1e2ee8a",
+      "question_type": "mcq",
+      "dt_score_updated": "2021-07-14T09:40:59Z",
+      "automarkable": true,
+      "attempted": true,
+      "score": 1,
+      "max_score": 1,
+      "question_reference": "6f11d164-50ed-4fed-9773-f53e3dee0672",
+      "item_reference": "cbae4bde-cbbb-4f30-a2cd-0a88048e2d6c",
+      "response": {
+        "value": [
+          "1"
+        ],
+        "type": "array",
+        "apiVersion": "v2.168.5",
+        "revision": 2
+      },
+      "questionInfo": {
+        "type": "mcq",
+        "widget_type": "response",
+        "reference": "6f11d164-50ed-4fed-9773-f53e3dee0672",
+        "data": {
+          "options": [
+            {
+              "label": "This flexibility tends to increase the futures price.",
+              "value": "0"
+            },
+            {
+              "label": "This flexibility tends to decrease the futures price.",
+              "value": "1"
+            },
+            {
+              "label": "This flexibility may increase and may decrease the futures price.",
+              "value": "2"
+            },
+            {
+              "label": "This has no effect on the futures price.",
+              "value": "3"
+            }
+          ],
+          "stimulus": "In the corn futures contract a number of different types of corn can be delivered (with price adjustments specified by the exchange) and there are a number of different delivery locations. Which of the following is true?",
+          "type": "mcq",
+          "validation": {
+            "scoring_type": "exactMatch",
+            "valid_response": {
+              "score": 3,
+              "value": [
+                "1"
+              ]
+            }
+          },
+          "ui_style": {
+            "type": "horizontal"
+          },
+          "shuffle_options": true
+        },
+        "metadata": {
+          "name": "Multiple choice – standard",
+          "template_reference": "9e8149bd-e4d8-4dd6-a751-1a113a4b9163"
+        }
+      },
+      "feedbackInfo": [
+        {
+          "id": "0707_6d0e6d59-6e9b-43fa-b753-b4ad09b522a9_aaeae96a-7459-4ac2-8083-f180ba4efbba_f50f821f823255b019122eb4f9e46ddd",
+          "user_id": "6d0e6d59-6e9b-43fa-b753-b4ad09b522a9",
+          "response_id": "aaeae96a-7459-4ac2-8083-f180ba4efbba_f50f821f823255b019122eb4f9e46ddd",
+          "type": "longtextV2",
+          "question": {
+            "type": "longtextV2",
+            "metadata": {
+              "source": {
+                "organisation_id": 755
+              },
+              "sheet_reference": "default_feedback",
+              "widget_reference": "de082b5f-742a-4ecf-82ca-4dc86e218fec",
+              "valid_response_count": 0
+            },
+            "stimulus": "Written feedback:",
+            "response_id": "aaeae96a-7459-4ac2-8083-f180ba4efbba_f50f821f823255b019122eb4f9e46ddd",
+            "show_word_count": false,
+            "show_word_limit": "off"
+          },
+          "response": null,
+          "creation_date": "2021-08-06 10:41:29",
+          "mod_date": "2021-08-06 15:29:32",
+          "persist_until": "2024-08-05 10:41:29",
+          "saved": true
+        },
+        null
+      ]
+    },
+    {
+      "response_id": "aaeae96a-7459-4ac2-8083-f180ba4efbba_311314f09be89d8124801bdf756db483",
+      "question_type": "mcq",
+      "dt_score_updated": "2021-07-14T09:22:25Z",
+      "automarkable": true,
+      "attempted": true,
+      "score": 1,
+      "max_score": 1,
+      "question_reference": "829effcc-a83b-46b8-981a-cbb17ab182ef",
+      "item_reference": "cbae4bde-cbbb-4f30-a2cd-0a88048e2d6c",
+      "response": {
+        "value": [
+          "1"
+        ],
+        "type": "array",
+        "apiVersion": "v2.168.5",
+        "revision": 1
+      },
+      "questionInfo": {
+        "type": "mcq",
+        "widget_type": "response",
+        "reference": "829effcc-a83b-46b8-981a-cbb17ab182ef",
+        "data": {
+          "options": [
+            {
+              "label": "No change.",
+              "value": "0"
+            },
+            {
+              "label": "Decrease by one.",
+              "value": "1"
+            },
+            {
+              "label": "Decrease by two.",
+              "value": "2"
+            },
+            {
+              "label": "Increase by one.",
+              "value": "3"
+            }
+          ],
+          "stimulus": "On the floor of a futures exchange one futures contract is traded where both the long and short parties are closing out existing positions. What is the resultant change in the open interest?",
+          "type": "mcq",
+          "validation": {
+            "scoring_type": "exactMatch",
+            "valid_response": {
+              "score": 3,
+              "value": [
+                "1"
+              ]
+            }
+          },
+          "ui_style": {
+            "type": "horizontal"
+          },
+          "shuffle_options": true
+        },
+        "metadata": {
+          "name": "Multiple choice – standard",
+          "template_reference": "9e8149bd-e4d8-4dd6-a751-1a113a4b9163"
+        }
+      },
+      "feedbackInfo": [
+        {
+          "id": "0707_6d0e6d59-6e9b-43fa-b753-b4ad09b522a9_aaeae96a-7459-4ac2-8083-f180ba4efbba_49c92910488f84a6d8f689ab4b9c7418",
+          "user_id": "6d0e6d59-6e9b-43fa-b753-b4ad09b522a9",
+          "response_id": "aaeae96a-7459-4ac2-8083-f180ba4efbba_49c92910488f84a6d8f689ab4b9c7418",
+          "type": "longtextV2",
+          "question": {
+            "type": "longtextV2",
+            "metadata": {
+              "source": {
+                "organisation_id": 755
+              },
+              "sheet_reference": "default_feedback",
+              "widget_reference": "de082b5f-742a-4ecf-82ca-4dc86e218fec",
+              "valid_response_count": 0
+            },
+            "stimulus": "Written feedback:",
+            "response_id": "aaeae96a-7459-4ac2-8083-f180ba4efbba_49c92910488f84a6d8f689ab4b9c7418",
+            "show_word_count": false,
+            "show_word_limit": "off"
+          },
+          "response": null,
+          "creation_date": "2021-08-06 10:41:29",
+          "mod_date": "2021-08-06 15:29:32",
+          "persist_until": "2024-08-05 10:41:29",
+          "saved": true
+        },
+        null
+      ]
+    },
+    {
+      "response_id": "aaeae96a-7459-4ac2-8083-f180ba4efbba_44d85cfb79f41b9ff28955bb878f4662",
+      "question_type": "mcq",
+      "dt_score_updated": "2021-07-14T09:27:30Z",
+      "automarkable": true,
+      "attempted": true,
+      "score": 1,
+      "max_score": 1,
+      "question_reference": "e4555292-5d20-4494-87d4-3ca099525eef",
+      "item_reference": "cbae4bde-cbbb-4f30-a2cd-0a88048e2d6c",
+      "response": {
+        "value": [
+          "1"
+        ],
+        "type": "array",
+        "apiVersion": "v2.168.5",
+        "revision": 2
+      },
+      "questionInfo": {
+        "type": "mcq",
+        "widget_type": "response",
+        "reference": "e4555292-5d20-4494-87d4-3ca099525eef",
+        "data": {
+          "options": [
+            {
+              "label": "is paid at the inception of the contract.",
+              "value": "0"
+            },
+            {
+              "label": "is paid at maturity.",
+              "value": "1"
+            },
+            {
+              "label": "changes over the term of the contract.",
+              "value": "2"
+            },
+            {
+              "label": "is not paid at inception, but changes over time.",
+              "value": "3"
+            }
+          ],
+          "stimulus": "A forward contract has a price that:",
+          "type": "mcq",
+          "validation": {
+            "scoring_type": "exactMatch",
+            "valid_response": {
+              "score": 3,
+              "value": [
+                "1"
+              ]
+            }
+          },
+          "ui_style": {
+            "type": "horizontal"
+          },
+          "shuffle_options": true
+        },
+        "metadata": {
+          "name": "Multiple choice – standard",
+          "template_reference": "9e8149bd-e4d8-4dd6-a751-1a113a4b9163"
+        }
+      },
+      "feedbackInfo": [
+        {
+          "id": "0707_6d0e6d59-6e9b-43fa-b753-b4ad09b522a9_aaeae96a-7459-4ac2-8083-f180ba4efbba_ff0812507a051a837895e3b276dae399",
+          "user_id": "6d0e6d59-6e9b-43fa-b753-b4ad09b522a9",
+          "response_id": "aaeae96a-7459-4ac2-8083-f180ba4efbba_ff0812507a051a837895e3b276dae399",
+          "type": "longtextV2",
+          "question": {
+            "type": "longtextV2",
+            "metadata": {
+              "source": {
+                "organisation_id": 755
+              },
+              "sheet_reference": "default_feedback",
+              "widget_reference": "de082b5f-742a-4ecf-82ca-4dc86e218fec",
+              "valid_response_count": 0
+            },
+            "stimulus": "Written feedback:",
+            "response_id": "aaeae96a-7459-4ac2-8083-f180ba4efbba_ff0812507a051a837895e3b276dae399",
+            "show_word_count": false,
+            "show_word_limit": "off"
+          },
+          "response": null,
+          "creation_date": "2021-08-06 10:41:29",
+          "mod_date": "2021-08-06 15:29:33",
+          "persist_until": "2024-08-05 10:41:29",
+          "saved": true
+        },
+        null
+      ]
+    },
+    {
+      "response_id": "aaeae96a-7459-4ac2-8083-f180ba4efbba_6e88ad61cc18c8e6331db613e55cbb0f",
+      "question_type": "mcq",
+      "dt_score_updated": "2021-07-14T09:32:54Z",
+      "automarkable": true,
+      "attempted": true,
+      "score": 1,
+      "max_score": 1,
+      "question_reference": "ed0bfe17-740f-43f1-a4b6-e4ecd19c7153",
+      "item_reference": "cbae4bde-cbbb-4f30-a2cd-0a88048e2d6c",
+      "response": {
+        "value": [
+          "0"
+        ],
+        "type": "array",
+        "apiVersion": "v2.168.5",
+        "revision": 2
+      },
+      "questionInfo": {
+        "type": "mcq",
+        "widget_type": "response",
+        "reference": "ed0bfe17-740f-43f1-a4b6-e4ecd19c7153",
+        "data": {
+          "options": [
+            {
+              "label": "positive to holder of long position when forward price is lower than the spot price.",
+              "value": "0"
+            },
+            {
+              "label": "negative to holder of short position when spot price is lower than forward price.",
+              "value": "1"
+            },
+            {
+              "label": "positive to holder of short position when forward price is lower than the spot price.",
+              "value": "2"
+            },
+            {
+              "label": "negative to holder of long position when forward price is lower than the spot price.",
+              "value": "3"
+            }
+          ],
+          "stimulus": "At expiration, the value of the forward contract is:",
+          "type": "mcq",
+          "validation": {
+            "scoring_type": "exactMatch",
+            "valid_response": {
+              "score": 3,
+              "value": [
+                "0"
+              ]
+            }
+          },
+          "ui_style": {
+            "type": "horizontal"
+          },
+          "shuffle_options": true
+        },
+        "metadata": {
+          "name": "Multiple choice – standard",
+          "template_reference": "9e8149bd-e4d8-4dd6-a751-1a113a4b9163"
+        }
+      },
+      "feedbackInfo": [
+        {
+          "id": "0707_6d0e6d59-6e9b-43fa-b753-b4ad09b522a9_aaeae96a-7459-4ac2-8083-f180ba4efbba_7a53999a58f4ca35b5d8c1d1f4d8f6ef",
+          "user_id": "6d0e6d59-6e9b-43fa-b753-b4ad09b522a9",
+          "response_id": "aaeae96a-7459-4ac2-8083-f180ba4efbba_7a53999a58f4ca35b5d8c1d1f4d8f6ef",
+          "type": "longtextV2",
+          "question": {
+            "type": "longtextV2",
+            "metadata": {
+              "source": {
+                "organisation_id": 755
+              },
+              "sheet_reference": "default_feedback",
+              "widget_reference": "de082b5f-742a-4ecf-82ca-4dc86e218fec",
+              "valid_response_count": 0
+            },
+            "stimulus": "Written feedback:",
+            "response_id": "aaeae96a-7459-4ac2-8083-f180ba4efbba_7a53999a58f4ca35b5d8c1d1f4d8f6ef",
+            "show_word_count": false,
+            "show_word_limit": "off"
+          },
+          "response": null,
+          "creation_date": "2021-08-06 10:41:30",
+          "mod_date": "2021-08-06 15:29:33",
+          "persist_until": "2024-08-05 10:41:30",
+          "saved": true
+        },
+        null
+      ]
+    },
+    {
+      "response_id": "aaeae96a-7459-4ac2-8083-f180ba4efbba_92f4cb2d4f80b59d9aabc818d9589449",
+      "question_type": "mcq",
+      "dt_score_updated": "2021-07-14T09:30:56Z",
+      "automarkable": true,
+      "attempted": true,
+      "score": 0,
+      "max_score": 1,
+      "question_reference": "9cdd8570-cb00-4093-99d1-57c8c974218f",
+      "item_reference": "d5ccdcc2-4804-47a4-99c6-10286bf8bfc3",
+      "response": {
+        "value": [
+          "3"
+        ],
+        "type": "array",
+        "apiVersion": "v2.168.5",
+        "revision": 1
+      },
+      "questionInfo": {
+        "type": "mcq",
+        "widget_type": "response",
+        "reference": "9cdd8570-cb00-4093-99d1-57c8c974218f",
+        "data": {
+          "options": [
+            {
+              "label": "200 long",
+              "value": "0"
+            },
+            {
+              "label": "192 short",
+              "value": "1"
+            },
+            {
+              "label": "187 long",
+              "value": "2"
+            },
+            {
+              "label": "150 short",
+              "value": "3"
+            }
+          ],
+          "stimulus": "A company has a $36 million portfolio with a beta of 1.2. The futures price for a contract on the S&amp;P index is 900. Futures contracts on $250 times the index can be traded. What trade is necessary to eliminate all systemic risk in the portfolio?",
+          "type": "mcq",
+          "validation": {
+            "scoring_type": "exactMatch",
+            "valid_response": {
+              "score": 3,
+              "value": [
+                "1"
+              ]
+            }
+          },
+          "ui_style": {
+            "type": "horizontal"
+          },
+          "shuffle_options": true
+        },
+        "metadata": {
+          "name": "Multiple choice – standard",
+          "template_reference": "9e8149bd-e4d8-4dd6-a751-1a113a4b9163"
+        }
+      },
+      "feedbackInfo": [
+        {
+          "id": "0707_6d0e6d59-6e9b-43fa-b753-b4ad09b522a9_aaeae96a-7459-4ac2-8083-f180ba4efbba_f91d7cd318f5f00ddac83a4e69d0b89f",
+          "user_id": "6d0e6d59-6e9b-43fa-b753-b4ad09b522a9",
+          "response_id": "aaeae96a-7459-4ac2-8083-f180ba4efbba_f91d7cd318f5f00ddac83a4e69d0b89f",
+          "type": "longtextV2",
+          "question": {
+            "type": "longtextV2",
+            "metadata": {
+              "source": {
+                "organisation_id": 755
+              },
+              "sheet_reference": "default_feedback",
+              "widget_reference": "de082b5f-742a-4ecf-82ca-4dc86e218fec",
+              "valid_response_count": 0
+            },
+            "stimulus": "Written feedback:",
+            "response_id": "aaeae96a-7459-4ac2-8083-f180ba4efbba_f91d7cd318f5f00ddac83a4e69d0b89f",
+            "show_word_count": false,
+            "show_word_limit": "off"
+          },
+          "response": null,
+          "creation_date": "2021-08-06 10:41:30",
+          "mod_date": "2021-08-06 15:29:34",
+          "persist_until": "2024-08-05 10:41:30",
+          "saved": true
+        },
+        null
+      ]
+    },
+    {
+      "response_id": "aaeae96a-7459-4ac2-8083-f180ba4efbba_2038682ac1e8160901e1d5296f93aa14",
+      "question_type": "mcq",
+      "dt_score_updated": "2021-07-14T09:33:52Z",
+      "automarkable": true,
+      "attempted": true,
+      "score": 1,
+      "max_score": 1,
+      "question_reference": "1883b463-b3db-466e-b74a-cab03b3e4329",
+      "item_reference": "d5ccdcc2-4804-47a4-99c6-10286bf8bfc3",
+      "response": {
+        "value": [
+          "0"
+        ],
+        "type": "array",
+        "apiVersion": "v2.168.5",
+        "revision": 1
+      },
+      "questionInfo": {
+        "type": "mcq",
+        "widget_type": "response",
+        "reference": "1883b463-b3db-466e-b74a-cab03b3e4329",
+        "data": {
+          "options": [
+            {
+              "label": "48 short",
+              "value": "0"
+            },
+            {
+              "label": "50 short",
+              "value": "1"
+            },
+            {
+              "label": "52 short",
+              "value": "2"
+            },
+            {
+              "label": "54 short",
+              "value": "3"
+            }
+          ],
+          "stimulus": "A company has a $36 million portfolio with a beta of 1.2. The futures price for a contract on the S&amp;P index is 900. Futures contracts on $250 times the index can be traded. What trade is necessary to reduce beta to 0.9?",
+          "type": "mcq",
+          "validation": {
+            "scoring_type": "exactMatch",
+            "valid_response": {
+              "score": 3,
+              "value": [
+                "0"
+              ]
+            }
+          },
+          "ui_style": {
+            "type": "horizontal"
+          },
+          "shuffle_options": true
+        },
+        "metadata": {
+          "name": "Multiple choice – standard",
+          "template_reference": "9e8149bd-e4d8-4dd6-a751-1a113a4b9163"
+        }
+      },
+      "feedbackInfo": [
+        {
+          "id": "0707_6d0e6d59-6e9b-43fa-b753-b4ad09b522a9_aaeae96a-7459-4ac2-8083-f180ba4efbba_73e4847e7267010092b4b6b197cdb52a",
+          "user_id": "6d0e6d59-6e9b-43fa-b753-b4ad09b522a9",
+          "response_id": "aaeae96a-7459-4ac2-8083-f180ba4efbba_73e4847e7267010092b4b6b197cdb52a",
+          "type": "longtextV2",
+          "question": {
+            "type": "longtextV2",
+            "metadata": {
+              "source": {
+                "organisation_id": 755
+              },
+              "sheet_reference": "default_feedback",
+              "widget_reference": "de082b5f-742a-4ecf-82ca-4dc86e218fec",
+              "valid_response_count": 0
+            },
+            "stimulus": "Written feedback:",
+            "response_id": "aaeae96a-7459-4ac2-8083-f180ba4efbba_73e4847e7267010092b4b6b197cdb52a",
+            "show_word_count": false,
+            "show_word_limit": "off"
+          },
+          "response": null,
+          "creation_date": "2021-08-06 10:41:31",
+          "mod_date": "2021-08-06 15:29:34",
+          "persist_until": "2024-08-05 10:41:31",
+          "saved": true
+        },
+        null
+      ]
+    },
+    {
+      "response_id": "aaeae96a-7459-4ac2-8083-f180ba4efbba_800c8c077d04c19d36fa387d8a69eefa",
+      "question_type": "mcq",
+      "dt_score_updated": "2021-07-14T09:35:27Z",
+      "automarkable": true,
+      "attempted": true,
+      "score": 1,
+      "max_score": 1,
+      "question_reference": "14b4e4b3-0b7d-48dc-80ae-d3741faa849d",
+      "item_reference": "d5ccdcc2-4804-47a4-99c6-10286bf8bfc3",
+      "response": {
+        "value": [
+          "1"
+        ],
+        "type": "array",
+        "apiVersion": "v2.168.5",
+        "revision": 1
+      },
+      "questionInfo": {
+        "type": "mcq",
+        "widget_type": "response",
+        "reference": "14b4e4b3-0b7d-48dc-80ae-d3741faa849d",
+        "data": {
+          "options": [
+            {
+              "label": "The June contract",
+              "value": "0"
+            },
+            {
+              "label": "The July contract",
+              "value": "1"
+            },
+            {
+              "label": "The May contract",
+              "value": "2"
+            },
+            {
+              "label": "The August contract",
+              "value": "3"
+            }
+          ],
+          "stimulus": "Futures contracts trade with every month as a delivery month. A company is hedging the purchase of the underlying asset on June 15. Which futures contract should it use?",
+          "type": "mcq",
+          "validation": {
+            "scoring_type": "exactMatch",
+            "valid_response": {
+              "score": 3,
+              "value": [
+                "1"
+              ]
+            }
+          },
+          "ui_style": {
+            "type": "horizontal"
+          },
+          "shuffle_options": true
+        },
+        "metadata": {
+          "name": "Multiple choice – standard",
+          "template_reference": "9e8149bd-e4d8-4dd6-a751-1a113a4b9163"
+        }
+      },
+      "feedbackInfo": [
+        {
+          "id": "0707_6d0e6d59-6e9b-43fa-b753-b4ad09b522a9_aaeae96a-7459-4ac2-8083-f180ba4efbba_c33ca0887d04a700bb7eaa9739217c5b",
+          "user_id": "6d0e6d59-6e9b-43fa-b753-b4ad09b522a9",
+          "response_id": "aaeae96a-7459-4ac2-8083-f180ba4efbba_c33ca0887d04a700bb7eaa9739217c5b",
+          "type": "longtextV2",
+          "question": {
+            "type": "longtextV2",
+            "metadata": {
+              "source": {
+                "organisation_id": 755
+              },
+              "sheet_reference": "default_feedback",
+              "widget_reference": "de082b5f-742a-4ecf-82ca-4dc86e218fec",
+              "valid_response_count": 0
+            },
+            "stimulus": "Written feedback:",
+            "response_id": "aaeae96a-7459-4ac2-8083-f180ba4efbba_c33ca0887d04a700bb7eaa9739217c5b",
+            "show_word_count": false,
+            "show_word_limit": "off"
+          },
+          "response": null,
+          "creation_date": "2021-08-06 10:41:31",
+          "mod_date": "2021-08-06 15:29:34",
+          "persist_until": "2024-08-05 10:41:31",
+          "saved": true
+        },
+        null
+      ]
+    },
+    {
+      "response_id": "aaeae96a-7459-4ac2-8083-f180ba4efbba_7388aa09d8b9eefa052fba4f332b6448",
+      "question_type": "mcq",
+      "dt_score_updated": "2021-07-14T09:39:38Z",
+      "automarkable": true,
+      "attempted": true,
+      "score": 1,
+      "max_score": 1,
+      "question_reference": "c6c09f3a-00b9-4d43-9939-385325758aa6",
+      "item_reference": "d5ccdcc2-4804-47a4-99c6-10286bf8bfc3",
+      "response": {
+        "value": [
+          "0"
+        ],
+        "type": "array",
+        "apiVersion": "v2.168.5",
+        "revision": 2
+      },
+      "questionInfo": {
+        "type": "mcq",
+        "widget_type": "response",
+        "reference": "c6c09f3a-00b9-4d43-9939-385325758aa6",
+        "data": {
+          "options": [
+            {
+              "label": "an illiquid position exists.",
+              "value": "0"
+            },
+            {
+              "label": "there is substantially large price discrepancies between financial instruments.",
+              "value": "1"
+            },
+            {
+              "label": "investments can be executed in large volumes.",
+              "value": "2"
+            },
+            {
+              "label": "there is small price differential between assets.",
+              "value": "3"
+            }
+          ],
+          "stimulus": "Arbitrage opportunities are likely to be exploited except when:",
+          "type": "mcq",
+          "validation": {
+            "scoring_type": "exactMatch",
+            "valid_response": {
+              "score": 3,
+              "value": [
+                "0"
+              ]
+            }
+          },
+          "ui_style": {
+            "type": "horizontal"
+          },
+          "shuffle_options": true
+        },
+        "metadata": {
+          "name": "Multiple choice – standard",
+          "template_reference": "9e8149bd-e4d8-4dd6-a751-1a113a4b9163"
+        }
+      },
+      "feedbackInfo": [
+        {
+          "id": "0707_6d0e6d59-6e9b-43fa-b753-b4ad09b522a9_aaeae96a-7459-4ac2-8083-f180ba4efbba_3583bea1e0091a0bd334fa5880cbb871",
+          "user_id": "6d0e6d59-6e9b-43fa-b753-b4ad09b522a9",
+          "response_id": "aaeae96a-7459-4ac2-8083-f180ba4efbba_3583bea1e0091a0bd334fa5880cbb871",
+          "type": "longtextV2",
+          "question": {
+            "type": "longtextV2",
+            "metadata": {
+              "source": {
+                "organisation_id": 755
+              },
+              "sheet_reference": "default_feedback",
+              "widget_reference": "de082b5f-742a-4ecf-82ca-4dc86e218fec",
+              "valid_response_count": 0
+            },
+            "stimulus": "Written feedback:",
+            "response_id": "aaeae96a-7459-4ac2-8083-f180ba4efbba_3583bea1e0091a0bd334fa5880cbb871",
+            "show_word_count": false,
+            "show_word_limit": "off"
+          },
+          "response": null,
+          "creation_date": "2021-08-06 10:41:31",
+          "mod_date": "2021-08-06 15:29:35",
+          "persist_until": "2024-08-05 10:41:31",
+          "saved": true
+        },
+        null
+      ]
+    },
+    {
+      "response_id": "aaeae96a-7459-4ac2-8083-f180ba4efbba_f1302bbc7f798d8fb6aa9b0008bebeac",
+      "question_type": "mcq",
+      "dt_score_updated": "2021-07-14T09:47:10Z",
+      "automarkable": true,
+      "attempted": true,
+      "score": 1,
+      "max_score": 1,
+      "question_reference": "bb71db7f-5c54-4dd5-8bc9-79b2420bfb54",
+      "item_reference": "d5ccdcc2-4804-47a4-99c6-10286bf8bfc3",
+      "response": {
+        "value": [
+          "0"
+        ],
+        "type": "array",
+        "apiVersion": "v2.168.5",
+        "revision": 1
+      },
+      "questionInfo": {
+        "type": "mcq",
+        "widget_type": "response",
+        "reference": "bb71db7f-5c54-4dd5-8bc9-79b2420bfb54",
+        "data": {
+          "options": [
+            {
+              "label": "When associated transaction costs are low.",
+              "value": "0"
+            },
+            {
+              "label": "When short positions are associated with high cost.",
+              "value": "1"
+            },
+            {
+              "label": "When the law of one price generally holds.",
+              "value": "2"
+            },
+            {
+              "label": "When the underlying asset makes no income payment.",
+              "value": "3"
+            }
+          ],
+          "stimulus": "Under which of the following conditions will an arbitrageur certainly execute a trade?",
+          "type": "mcq",
+          "validation": {
+            "scoring_type": "exactMatch",
+            "valid_response": {
+              "score": 3,
+              "value": [
+                "0"
+              ]
+            }
+          },
+          "ui_style": {
+            "type": "horizontal"
+          },
+          "shuffle_options": true
+        },
+        "metadata": {
+          "name": "Multiple choice – standard",
+          "template_reference": "9e8149bd-e4d8-4dd6-a751-1a113a4b9163"
+        }
+      },
+      "feedbackInfo": [
+        {
+          "id": "0707_6d0e6d59-6e9b-43fa-b753-b4ad09b522a9_aaeae96a-7459-4ac2-8083-f180ba4efbba_c723557edf29159011fd67c30809bbf5",
+          "user_id": "6d0e6d59-6e9b-43fa-b753-b4ad09b522a9",
+          "response_id": "aaeae96a-7459-4ac2-8083-f180ba4efbba_c723557edf29159011fd67c30809bbf5",
+          "type": "longtextV2",
+          "question": {
+            "type": "longtextV2",
+            "metadata": {
+              "source": {
+                "organisation_id": 755
+              },
+              "sheet_reference": "default_feedback",
+              "widget_reference": "de082b5f-742a-4ecf-82ca-4dc86e218fec",
+              "valid_response_count": 0
+            },
+            "stimulus": "Written feedback:",
+            "response_id": "aaeae96a-7459-4ac2-8083-f180ba4efbba_c723557edf29159011fd67c30809bbf5",
+            "show_word_count": false,
+            "show_word_limit": "off"
+          },
+          "response": null,
+          "creation_date": "2021-08-06 10:41:32",
+          "mod_date": "2021-08-06 15:29:35",
+          "persist_until": "2024-08-05 10:41:32",
+          "saved": true
+        },
+        null
+      ]
+    },
+    {
+      "response_id": "aaeae96a-7459-4ac2-8083-f180ba4efbba_e8821c28048b5a66eb8754925f3eee2b",
+      "question_type": "mcq",
+      "dt_score_updated": "2021-07-14T09:47:20Z",
+      "automarkable": true,
+      "attempted": true,
+      "score": 0,
+      "max_score": 1,
+      "question_reference": "cc53dbb8-9b79-4dc0-a952-28e7099348dd",
+      "item_reference": "d5ccdcc2-4804-47a4-99c6-10286bf8bfc3",
+      "response": {
+        "value": [
+          "0"
+        ],
+        "type": "array",
+        "apiVersion": "v2.168.5",
+        "revision": 1
+      },
+      "questionInfo": {
+        "type": "mcq",
+        "widget_type": "response",
+        "reference": "cc53dbb8-9b79-4dc0-a952-28e7099348dd",
+        "data": {
+          "options": [
+            {
+              "label": "less than forward prices",
+              "value": "0"
+            },
+            {
+              "label": "equal to forward prices",
+              "value": "1"
+            },
+            {
+              "label": "greater than forward prices",
+              "value": "2"
+            },
+            {
+              "label": "preferred by investors",
+              "value": "3"
+            }
+          ],
+          "stimulus": "Futures contract prices are most likely ___________ when interest rates are constant",
+          "type": "mcq",
+          "validation": {
+            "scoring_type": "exactMatch",
+            "valid_response": {
+              "score": 3,
+              "value": [
+                "1"
+              ]
+            }
+          },
+          "ui_style": {
+            "type": "horizontal"
+          },
+          "shuffle_options": true
+        },
+        "metadata": {
+          "name": "Multiple choice – standard",
+          "template_reference": "9e8149bd-e4d8-4dd6-a751-1a113a4b9163"
+        }
+      },
+      "feedbackInfo": [
+        {
+          "id": "0707_6d0e6d59-6e9b-43fa-b753-b4ad09b522a9_aaeae96a-7459-4ac2-8083-f180ba4efbba_4fd8facd61de03a930b54450d384d7b6",
+          "user_id": "6d0e6d59-6e9b-43fa-b753-b4ad09b522a9",
+          "response_id": "aaeae96a-7459-4ac2-8083-f180ba4efbba_4fd8facd61de03a930b54450d384d7b6",
+          "type": "longtextV2",
+          "question": {
+            "type": "longtextV2",
+            "metadata": {
+              "source": {
+                "organisation_id": 755
+              },
+              "sheet_reference": "default_feedback",
+              "widget_reference": "de082b5f-742a-4ecf-82ca-4dc86e218fec",
+              "valid_response_count": 0
+            },
+            "stimulus": "Written feedback:",
+            "response_id": "aaeae96a-7459-4ac2-8083-f180ba4efbba_4fd8facd61de03a930b54450d384d7b6",
+            "show_word_count": false,
+            "show_word_limit": "off"
+          },
+          "response": null,
+          "creation_date": "2021-08-06 10:41:32",
+          "mod_date": "2021-08-06 15:29:35",
+          "persist_until": "2024-08-05 10:41:32",
+          "saved": true
+        },
+        null
+      ]
+    }
+  ]
+}

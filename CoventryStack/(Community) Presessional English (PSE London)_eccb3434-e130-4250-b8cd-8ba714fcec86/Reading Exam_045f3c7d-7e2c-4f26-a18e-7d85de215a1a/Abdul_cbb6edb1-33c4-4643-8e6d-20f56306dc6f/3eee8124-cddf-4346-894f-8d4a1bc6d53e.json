@@ -1,0 +1,3370 @@
+{
+  "userId": "cbb6edb1-33c4-4643-8e6d-20f56306dc6f",
+  "firstName": "Abdul",
+  "lastName": "Rehman",
+  "assigmentId": "045f3c7d-7e2c-4f26-a18e-7d85de215a1a",
+  "assigmentName": "Reading Exam",
+  "sessionId": "3eee8124-cddf-4346-894f-8d4a1bc6d53e",
+  "email": "rehmana21@coventry.ac.uk",
+  "spaceId": "eccb3434-e130-4250-b8cd-8ba714fcec86",
+  "spaceName": "(Community) Presessional English (PSE London)",
+  "score": 19,
+  "max_score": 50,
+  "questions": [
+    {
+      "response_id": "3eee8124-cddf-4346-894f-8d4a1bc6d53e_f07c09f89c31dca61626de1667c52fdf",
+      "question_type": "mcq",
+      "dt_score_updated": "2021-12-08T09:03:50Z",
+      "automarkable": true,
+      "attempted": true,
+      "score": 0,
+      "max_score": 1,
+      "question_reference": "7fa34a7b-1f1c-472f-b521-1cffe647f054",
+      "item_reference": "ad64d1d6-377f-4f89-a99c-5acb2491c211",
+      "response": {
+        "value": [
+          "1"
+        ],
+        "type": "array",
+        "apiVersion": "v2.168.13",
+        "revision": 1
+      },
+      "questionInfo": {
+        "type": "mcq",
+        "widget_type": "response",
+        "reference": "7fa34a7b-1f1c-472f-b521-1cffe647f054",
+        "data": {
+          "options": [
+            {
+              "label": "<span style=\"font-size:1.3em;\">Suitable</span>",
+              "value": "0"
+            },
+            {
+              "label": "<span style=\"font-size:1.3em;\">Not suitable</span>",
+              "value": "1"
+            }
+          ],
+          "stimulus": "<p><span style=\"color:#008000;\"><span style=\"font-size:1.5em;\"><b>1.1. Resource 1</b></span></span></p>\n\n<p><span style=\"font-size:1.5em;\">Kilroy, P. (1971) ‘Relationship between ethics and equal opportunities in the workplace’&nbsp;<i>Journal of International Business</i>, 18(5), 21-38.</span></p>\n",
+          "type": "mcq",
+          "validation": {
+            "scoring_type": "exactMatch",
+            "valid_response": {
+              "score": 1,
+              "value": [
+                "1"
+              ]
+            }
+          },
+          "ui_style": {
+            "type": "horizontal"
+          }
+        },
+        "metadata": {
+          "name": "Multiple choice – standard",
+          "template_reference": "9e8149bd-e4d8-4dd6-a751-1a113a4b9163"
+        }
+      },
+      "feedbackInfo": [
+        {
+          "id": "0707_cbb6edb1-33c4-4643-8e6d-20f56306dc6f_3eee8124-cddf-4346-894f-8d4a1bc6d53e_b75abd502fbc6422545a014e216973f8",
+          "user_id": "cbb6edb1-33c4-4643-8e6d-20f56306dc6f",
+          "response_id": "3eee8124-cddf-4346-894f-8d4a1bc6d53e_b75abd502fbc6422545a014e216973f8",
+          "type": "longtextV2",
+          "question": {
+            "type": "longtextV2",
+            "metadata": {
+              "source": {
+                "organisation_id": 755
+              },
+              "sheet_reference": "default_feedback",
+              "widget_reference": "de082b5f-742a-4ecf-82ca-4dc86e218fec",
+              "valid_response_count": 0
+            },
+            "stimulus": "Written feedback:",
+            "response_id": "3eee8124-cddf-4346-894f-8d4a1bc6d53e_b75abd502fbc6422545a014e216973f8",
+            "show_word_count": false,
+            "show_word_limit": "off"
+          },
+          "response": null,
+          "creation_date": "2021-12-09 12:29:38",
+          "mod_date": "2021-12-09 12:34:47",
+          "persist_until": "2024-12-08 12:29:38",
+          "saved": true
+        },
+        null
+      ]
+    },
+    {
+      "response_id": "3eee8124-cddf-4346-894f-8d4a1bc6d53e_57d611c12bdddcd82e457ce08d038f8d",
+      "question_type": "plaintext",
+      "dt_score_updated": "2021-12-09T12:34:59Z",
+      "automarkable": false,
+      "attempted": true,
+      "score": 1,
+      "max_score": 1,
+      "question_reference": "8959899a-17e5-4138-be2d-56ca817c667f",
+      "item_reference": "ad64d1d6-377f-4f89-a99c-5acb2491c211",
+      "response": {
+        "value": "because it is not recently.",
+        "wordCount": 5,
+        "type": "string",
+        "apiVersion": "v2.168.13",
+        "revision": 2
+      },
+      "manual_score": null,
+      "max_manual_score": null,
+      "questionInfo": {
+        "type": "plaintext",
+        "widget_type": "response",
+        "reference": "8959899a-17e5-4138-be2d-56ca817c667f",
+        "data": {
+          "stimulus": "<span style=\"color:#008000;\"><strong><span style=\"font-size:1.3em;\">1.1.1. Justify your answer.</span></strong></span>",
+          "spellcheck": true,
+          "type": "plaintext",
+          "max_length": 50,
+          "metadata": {
+            "sample_answer": "<h3><i><u><i id=\"yui_3_17_2_1_1626709702996_1892\"><u id=\"yui_3_17_2_1_1626709702996_1890\">it’s outdated (it’s not recent).</u></i></u></i></h3>\n"
+          },
+          "validation": {
+            "max_score": 1
+          }
+        },
+        "metadata": {
+          "name": "Essay with plain text",
+          "template_reference": "0f559437-5072-475e-830d-1fa9d2f6bb0d"
+        }
+      },
+      "feedbackInfo": [
+        {
+          "id": "0707_cbb6edb1-33c4-4643-8e6d-20f56306dc6f_3eee8124-cddf-4346-894f-8d4a1bc6d53e_59908c89ee754b4b13adb508033df1bf",
+          "user_id": "cbb6edb1-33c4-4643-8e6d-20f56306dc6f",
+          "response_id": "3eee8124-cddf-4346-894f-8d4a1bc6d53e_59908c89ee754b4b13adb508033df1bf",
+          "type": "longtextV2",
+          "question": {
+            "type": "longtextV2",
+            "metadata": {
+              "source": {
+                "organisation_id": 755
+              },
+              "sheet_reference": "default_feedback",
+              "widget_reference": "de082b5f-742a-4ecf-82ca-4dc86e218fec",
+              "valid_response_count": 0
+            },
+            "stimulus": "Written feedback:",
+            "response_id": "3eee8124-cddf-4346-894f-8d4a1bc6d53e_59908c89ee754b4b13adb508033df1bf",
+            "show_word_count": false,
+            "show_word_limit": "off"
+          },
+          "response": null,
+          "creation_date": "2021-12-09 12:29:38",
+          "mod_date": "2021-12-09 12:34:47",
+          "persist_until": "2024-12-08 12:29:38",
+          "saved": true
+        },
+        null
+      ]
+    },
+    {
+      "response_id": "3eee8124-cddf-4346-894f-8d4a1bc6d53e_5d447192e41648caa1f6af26366a0959",
+      "question_type": "mcq",
+      "dt_score_updated": "2021-12-08T09:14:49Z",
+      "automarkable": true,
+      "attempted": true,
+      "score": 0,
+      "max_score": 1,
+      "question_reference": "4b10e8dd-7649-4599-bf17-a379deb7f818",
+      "item_reference": "ad64d1d6-377f-4f89-a99c-5acb2491c211",
+      "response": {
+        "value": [
+          "0"
+        ],
+        "type": "array",
+        "apiVersion": "v2.168.13",
+        "revision": 2
+      },
+      "questionInfo": {
+        "type": "mcq",
+        "widget_type": "response",
+        "reference": "4b10e8dd-7649-4599-bf17-a379deb7f818",
+        "data": {
+          "options": [
+            {
+              "label": "<span style=\"font-size:1.3em;\">Suitable</span>",
+              "value": "0"
+            },
+            {
+              "label": "<span style=\"font-size:1.3em;\">Not suitable</span>",
+              "value": "1"
+            }
+          ],
+          "stimulus": "<p>&nbsp;</p>\n\n<p>&nbsp;</p>\n\n<p><span style=\"color:#008000;\"><span style=\"font-size:1.5em;\"><b>1.2. Resource 2</b></span></span></p>\n\n<p><span style=\"font-size:1.5em;\">Wilson, S. (2017) ‘Implementing ethical guidelines in the 21<sup>st</sup>&nbsp;century’&nbsp;<i>International Journal of Veterinarians</i>, 41(2), 671-677.</span></p>\n",
+          "type": "mcq",
+          "validation": {
+            "scoring_type": "exactMatch",
+            "valid_response": {
+              "score": 1,
+              "value": [
+                "1"
+              ]
+            }
+          },
+          "ui_style": {
+            "type": "horizontal"
+          }
+        },
+        "metadata": {
+          "name": "Multiple choice – standard",
+          "template_reference": "9e8149bd-e4d8-4dd6-a751-1a113a4b9163"
+        }
+      },
+      "feedbackInfo": [
+        {
+          "id": "0707_cbb6edb1-33c4-4643-8e6d-20f56306dc6f_3eee8124-cddf-4346-894f-8d4a1bc6d53e_c87fc83456cba1ff37e8c122e626a128",
+          "user_id": "cbb6edb1-33c4-4643-8e6d-20f56306dc6f",
+          "response_id": "3eee8124-cddf-4346-894f-8d4a1bc6d53e_c87fc83456cba1ff37e8c122e626a128",
+          "type": "longtextV2",
+          "question": {
+            "type": "longtextV2",
+            "metadata": {
+              "source": {
+                "organisation_id": 755
+              },
+              "sheet_reference": "default_feedback",
+              "widget_reference": "de082b5f-742a-4ecf-82ca-4dc86e218fec",
+              "valid_response_count": 0
+            },
+            "stimulus": "Written feedback:",
+            "response_id": "3eee8124-cddf-4346-894f-8d4a1bc6d53e_c87fc83456cba1ff37e8c122e626a128",
+            "show_word_count": false,
+            "show_word_limit": "off"
+          },
+          "response": null,
+          "creation_date": "2021-12-09 12:29:38",
+          "mod_date": "2021-12-09 12:34:48",
+          "persist_until": "2024-12-08 12:29:38",
+          "saved": true
+        },
+        null
+      ]
+    },
+    {
+      "response_id": "3eee8124-cddf-4346-894f-8d4a1bc6d53e_550f3e2a3494f9ccace269fee922ee00",
+      "question_type": "plaintext",
+      "dt_score_updated": "2021-12-09T12:34:59Z",
+      "automarkable": false,
+      "attempted": true,
+      "score": 0,
+      "max_score": 1,
+      "question_reference": "b3e654c3-6169-49cb-b9b4-de620ba0a88e",
+      "item_reference": "ad64d1d6-377f-4f89-a99c-5acb2491c211",
+      "response": {
+        "value": "this statement have a all information",
+        "wordCount": 6,
+        "type": "string",
+        "apiVersion": "v2.168.13",
+        "revision": 4
+      },
+      "manual_score": null,
+      "max_manual_score": null,
+      "questionInfo": {
+        "type": "plaintext",
+        "widget_type": "response",
+        "reference": "b3e654c3-6169-49cb-b9b4-de620ba0a88e",
+        "data": {
+          "stimulus": "<span style=\"color:#008000;\"><strong><span style=\"font-size:1.3em;\">1.2.1. Justify your answer.</span></strong></span>",
+          "spellcheck": true,
+          "type": "plaintext",
+          "metadata": {
+            "sample_answer": "<h3><i><u><i id=\"yui_3_17_2_1_1626709759016_1881\"><u id=\"yui_3_17_2_1_1626709759016_1879\">it’s for veterinarians and therefore not related to education (it’s not relevant).</u></i></u></i></h3>\n"
+          },
+          "max_length": 50,
+          "validation": {
+            "max_score": 1
+          }
+        },
+        "metadata": {
+          "name": "Essay with plain text",
+          "template_reference": "0f559437-5072-475e-830d-1fa9d2f6bb0d"
+        }
+      },
+      "feedbackInfo": [
+        {
+          "id": "0707_cbb6edb1-33c4-4643-8e6d-20f56306dc6f_3eee8124-cddf-4346-894f-8d4a1bc6d53e_57de8a59bbbd75a64ed7e2368408f3cc",
+          "user_id": "cbb6edb1-33c4-4643-8e6d-20f56306dc6f",
+          "response_id": "3eee8124-cddf-4346-894f-8d4a1bc6d53e_57de8a59bbbd75a64ed7e2368408f3cc",
+          "type": "longtextV2",
+          "question": {
+            "type": "longtextV2",
+            "metadata": {
+              "source": {
+                "organisation_id": 755
+              },
+              "sheet_reference": "default_feedback",
+              "widget_reference": "de082b5f-742a-4ecf-82ca-4dc86e218fec",
+              "valid_response_count": 0
+            },
+            "stimulus": "Written feedback:",
+            "response_id": "3eee8124-cddf-4346-894f-8d4a1bc6d53e_57de8a59bbbd75a64ed7e2368408f3cc",
+            "show_word_count": false,
+            "show_word_limit": "off"
+          },
+          "response": null,
+          "creation_date": "2021-12-09 12:29:39",
+          "mod_date": "2021-12-09 12:34:48",
+          "persist_until": "2024-12-08 12:29:39",
+          "saved": true
+        },
+        null
+      ]
+    },
+    {
+      "response_id": "3eee8124-cddf-4346-894f-8d4a1bc6d53e_d15670a9e0a89e830bde6940d82a44f5",
+      "question_type": "mcq",
+      "dt_score_updated": "2021-12-08T09:11:43Z",
+      "automarkable": true,
+      "attempted": true,
+      "score": 0,
+      "max_score": 1,
+      "question_reference": "f81b8550-2e5e-47df-be61-03a326700edc",
+      "item_reference": "ad64d1d6-377f-4f89-a99c-5acb2491c211",
+      "response": {
+        "value": [
+          "1"
+        ],
+        "type": "array",
+        "apiVersion": "v2.168.13",
+        "revision": 2
+      },
+      "questionInfo": {
+        "type": "mcq",
+        "widget_type": "response",
+        "reference": "f81b8550-2e5e-47df-be61-03a326700edc",
+        "data": {
+          "options": [
+            {
+              "label": "<span style=\"font-size:1.1em;\">Suitable</span>",
+              "value": "0"
+            },
+            {
+              "label": "<span style=\"font-size:1.3em;\">Not suitable</span>",
+              "value": "1"
+            }
+          ],
+          "stimulus": "<p>&nbsp;</p>\n\n<p>&nbsp;</p>\n\n<p><span style=\"color:#008000;\"><span style=\"font-size:1.5em;\"><b>1.3. Resource 3</b></span></span></p>\n\n<p><span style=\"font-size:1.5em;\">Robson, R. (2015)&nbsp;<i>Handbook of the Ethical Manager</i>. Cambridge University Press&nbsp;</span></p>\n",
+          "type": "mcq",
+          "validation": {
+            "scoring_type": "exactMatch",
+            "valid_response": {
+              "score": 1,
+              "value": [
+                "0"
+              ]
+            }
+          },
+          "ui_style": {
+            "type": "horizontal"
+          }
+        },
+        "metadata": {
+          "name": "Multiple choice – standard",
+          "template_reference": "9e8149bd-e4d8-4dd6-a751-1a113a4b9163"
+        }
+      },
+      "feedbackInfo": [
+        {
+          "id": "0707_cbb6edb1-33c4-4643-8e6d-20f56306dc6f_3eee8124-cddf-4346-894f-8d4a1bc6d53e_cce7797153cf2b2e40936278ac2d6c8c",
+          "user_id": "cbb6edb1-33c4-4643-8e6d-20f56306dc6f",
+          "response_id": "3eee8124-cddf-4346-894f-8d4a1bc6d53e_cce7797153cf2b2e40936278ac2d6c8c",
+          "type": "longtextV2",
+          "question": {
+            "type": "longtextV2",
+            "metadata": {
+              "source": {
+                "organisation_id": 755
+              },
+              "sheet_reference": "default_feedback",
+              "widget_reference": "de082b5f-742a-4ecf-82ca-4dc86e218fec",
+              "valid_response_count": 0
+            },
+            "stimulus": "Written feedback:",
+            "response_id": "3eee8124-cddf-4346-894f-8d4a1bc6d53e_cce7797153cf2b2e40936278ac2d6c8c",
+            "show_word_count": false,
+            "show_word_limit": "off"
+          },
+          "response": null,
+          "creation_date": "2021-12-09 12:29:39",
+          "mod_date": "2021-12-09 12:34:48",
+          "persist_until": "2024-12-08 12:29:39",
+          "saved": true
+        },
+        null
+      ]
+    },
+    {
+      "response_id": "3eee8124-cddf-4346-894f-8d4a1bc6d53e_b69ec2d1eb513356a0e0d763f63c17c0",
+      "question_type": "plaintext",
+      "dt_score_updated": "2021-12-09T12:35:00Z",
+      "automarkable": false,
+      "attempted": true,
+      "score": 0,
+      "max_score": 1,
+      "question_reference": "fd38377c-91b9-40e4-baaa-8c8998a9611b",
+      "item_reference": "ad64d1d6-377f-4f89-a99c-5acb2491c211",
+      "response": {
+        "value": "this statement is not reliable ",
+        "wordCount": 5,
+        "type": "string",
+        "apiVersion": "v2.168.13",
+        "revision": 4
+      },
+      "manual_score": null,
+      "max_manual_score": null,
+      "questionInfo": {
+        "type": "plaintext",
+        "widget_type": "response",
+        "reference": "fd38377c-91b9-40e4-baaa-8c8998a9611b",
+        "data": {
+          "stimulus": "<span style=\"color:#008000;\"><strong><span style=\"font-size:1.3em;\">1.3.1. Justify your answer.</span></strong></span>",
+          "spellcheck": true,
+          "type": "plaintext",
+          "metadata": {
+            "sample_answer": "<h3><i><u><i id=\"yui_3_17_2_1_1626709913423_1881\"><u id=\"yui_3_17_2_1_1626709913423_1879\">the topic is related to ethical leadership (it’s relevant), it’s reliable and it’s recent.</u></i></u></i></h3>\n"
+          },
+          "max_length": 50,
+          "validation": {
+            "max_score": 1
+          }
+        },
+        "metadata": {
+          "name": "Essay with plain text",
+          "template_reference": "0f559437-5072-475e-830d-1fa9d2f6bb0d"
+        }
+      },
+      "feedbackInfo": [
+        {
+          "id": "0707_cbb6edb1-33c4-4643-8e6d-20f56306dc6f_3eee8124-cddf-4346-894f-8d4a1bc6d53e_d013e9852b5aa12fea3704701dca3c26",
+          "user_id": "cbb6edb1-33c4-4643-8e6d-20f56306dc6f",
+          "response_id": "3eee8124-cddf-4346-894f-8d4a1bc6d53e_d013e9852b5aa12fea3704701dca3c26",
+          "type": "longtextV2",
+          "question": {
+            "type": "longtextV2",
+            "metadata": {
+              "source": {
+                "organisation_id": 755
+              },
+              "sheet_reference": "default_feedback",
+              "widget_reference": "de082b5f-742a-4ecf-82ca-4dc86e218fec",
+              "valid_response_count": 0
+            },
+            "stimulus": "Written feedback:",
+            "response_id": "3eee8124-cddf-4346-894f-8d4a1bc6d53e_d013e9852b5aa12fea3704701dca3c26",
+            "show_word_count": false,
+            "show_word_limit": "off"
+          },
+          "response": null,
+          "creation_date": "2021-12-09 12:29:40",
+          "mod_date": "2021-12-09 12:34:49",
+          "persist_until": "2024-12-08 12:29:40",
+          "saved": true
+        },
+        null
+      ]
+    },
+    {
+      "response_id": "3eee8124-cddf-4346-894f-8d4a1bc6d53e_7fef52fc7a66574a44a31830d6e15813",
+      "question_type": "mcq",
+      "dt_score_updated": "2021-12-08T09:06:56Z",
+      "automarkable": true,
+      "attempted": true,
+      "score": 1,
+      "max_score": 1,
+      "question_reference": "68fdb6e9-f1eb-4389-900f-a0dfc8f026bc",
+      "item_reference": "ad64d1d6-377f-4f89-a99c-5acb2491c211",
+      "response": {
+        "value": [
+          "1"
+        ],
+        "type": "array",
+        "apiVersion": "v2.168.13",
+        "revision": 1
+      },
+      "questionInfo": {
+        "type": "mcq",
+        "widget_type": "response",
+        "reference": "68fdb6e9-f1eb-4389-900f-a0dfc8f026bc",
+        "data": {
+          "options": [
+            {
+              "label": "<span style=\"font-size:1.3em;\">Suitable</span>",
+              "value": "0"
+            },
+            {
+              "label": "<span style=\"font-size:1.3em;\">Not suitable</span>",
+              "value": "1"
+            }
+          ],
+          "stimulus": "<p>&nbsp;</p>\n\n<p>&nbsp;</p>\n\n<p><span style=\"color:#008000;\"><span style=\"font-size:1.5em;\"><b>1.4. Resource 4</b></span></span></p>\n\n<p id=\"yui_3_17_2_1_1626709999803_261\"><span style=\"font-size:1.5em;\">Leading Tips (2019)&nbsp;<i id=\"yui_3_17_2_1_1626709999803_259\">How to Be an Ethical Leader.</i>&nbsp;www.youtube.com/watch=Fiso45ktsg2yw&nbsp;</span></p>\n",
+          "type": "mcq",
+          "validation": {
+            "scoring_type": "exactMatch",
+            "valid_response": {
+              "score": 1,
+              "value": [
+                "1"
+              ]
+            }
+          },
+          "ui_style": {
+            "type": "horizontal"
+          }
+        },
+        "metadata": {
+          "name": "Multiple choice – standard",
+          "template_reference": "9e8149bd-e4d8-4dd6-a751-1a113a4b9163"
+        }
+      },
+      "feedbackInfo": [
+        {
+          "id": "0707_cbb6edb1-33c4-4643-8e6d-20f56306dc6f_3eee8124-cddf-4346-894f-8d4a1bc6d53e_3dcf2d59a12c9b9404fc96caa0f5088a",
+          "user_id": "cbb6edb1-33c4-4643-8e6d-20f56306dc6f",
+          "response_id": "3eee8124-cddf-4346-894f-8d4a1bc6d53e_3dcf2d59a12c9b9404fc96caa0f5088a",
+          "type": "longtextV2",
+          "question": {
+            "type": "longtextV2",
+            "metadata": {
+              "source": {
+                "organisation_id": 755
+              },
+              "sheet_reference": "default_feedback",
+              "widget_reference": "de082b5f-742a-4ecf-82ca-4dc86e218fec",
+              "valid_response_count": 0
+            },
+            "stimulus": "Written feedback:",
+            "response_id": "3eee8124-cddf-4346-894f-8d4a1bc6d53e_3dcf2d59a12c9b9404fc96caa0f5088a",
+            "show_word_count": false,
+            "show_word_limit": "off"
+          },
+          "response": null,
+          "creation_date": "2021-12-09 12:29:40",
+          "mod_date": "2021-12-09 12:34:49",
+          "persist_until": "2024-12-08 12:29:40",
+          "saved": true
+        },
+        null
+      ]
+    },
+    {
+      "response_id": "3eee8124-cddf-4346-894f-8d4a1bc6d53e_8cdab175db82faf66a45ffca970ae4f3",
+      "question_type": "plaintext",
+      "dt_score_updated": "2021-12-09T13:06:43Z",
+      "automarkable": false,
+      "attempted": true,
+      "score": 1,
+      "max_score": 1,
+      "question_reference": "3617c1d3-ccc1-409f-a465-cbc477fb76d6",
+      "item_reference": "ad64d1d6-377f-4f89-a99c-5acb2491c211",
+      "response": {
+        "value": "it is not suitable because it is not reliable ",
+        "wordCount": 9,
+        "type": "string",
+        "apiVersion": "v2.168.13",
+        "revision": 4
+      },
+      "manual_score": null,
+      "max_manual_score": null,
+      "questionInfo": {
+        "type": "plaintext",
+        "widget_type": "response",
+        "reference": "3617c1d3-ccc1-409f-a465-cbc477fb76d6",
+        "data": {
+          "stimulus": "<span style=\"color:#008000;\"><span style=\"font-size:1.3em;\"><b>1.4.1. Justify your answer.</b></span></span>",
+          "spellcheck": true,
+          "type": "plaintext",
+          "metadata": {
+            "sample_answer": "<h3><i><u><i id=\"yui_3_17_2_1_1626710075716_1882\"><u id=\"yui_3_17_2_1_1626710075716_1880\">it’s a youtube video and therefore it’s not reliable.</u></i></u></i></h3>\n"
+          },
+          "max_length": 50,
+          "validation": {
+            "max_score": 1
+          }
+        },
+        "metadata": {
+          "name": "Essay with plain text",
+          "template_reference": "0f559437-5072-475e-830d-1fa9d2f6bb0d"
+        }
+      },
+      "feedbackInfo": [
+        {
+          "id": "0707_cbb6edb1-33c4-4643-8e6d-20f56306dc6f_3eee8124-cddf-4346-894f-8d4a1bc6d53e_2057adece5c9da427700df9481688b38",
+          "user_id": "cbb6edb1-33c4-4643-8e6d-20f56306dc6f",
+          "response_id": "3eee8124-cddf-4346-894f-8d4a1bc6d53e_2057adece5c9da427700df9481688b38",
+          "type": "longtextV2",
+          "question": {
+            "type": "longtextV2",
+            "metadata": {
+              "source": {
+                "organisation_id": 755
+              },
+              "sheet_reference": "default_feedback",
+              "widget_reference": "de082b5f-742a-4ecf-82ca-4dc86e218fec",
+              "valid_response_count": 0
+            },
+            "stimulus": "Written feedback:",
+            "response_id": "3eee8124-cddf-4346-894f-8d4a1bc6d53e_2057adece5c9da427700df9481688b38",
+            "show_word_count": false,
+            "show_word_limit": "off"
+          },
+          "response": null,
+          "creation_date": "2021-12-09 12:29:40",
+          "mod_date": "2021-12-09 12:34:50",
+          "persist_until": "2024-12-08 12:29:40",
+          "saved": true
+        },
+        null
+      ]
+    },
+    {
+      "response_id": "3eee8124-cddf-4346-894f-8d4a1bc6d53e_56dc4a27c3d32ebe382cc1634fec684c",
+      "question_type": "mcq",
+      "dt_score_updated": "2021-12-08T09:09:12Z",
+      "automarkable": true,
+      "attempted": true,
+      "score": 1,
+      "max_score": 1,
+      "question_reference": "ab08ed27-331c-4cdf-8c57-a762789327c2",
+      "item_reference": "ad64d1d6-377f-4f89-a99c-5acb2491c211",
+      "response": {
+        "value": [
+          "0"
+        ],
+        "type": "array",
+        "apiVersion": "v2.168.13",
+        "revision": 1
+      },
+      "questionInfo": {
+        "type": "mcq",
+        "widget_type": "response",
+        "reference": "ab08ed27-331c-4cdf-8c57-a762789327c2",
+        "data": {
+          "options": [
+            {
+              "label": "<span style=\"font-size:1.3em;\">Suitable</span>",
+              "value": "0"
+            },
+            {
+              "label": "<span style=\"font-size:1.3em;\">Not suitable</span>",
+              "value": "1"
+            }
+          ],
+          "stimulus": "<p>&nbsp;</p>\n\n<p>&nbsp;</p>\n\n<p><span style=\"color:#008000;\"><span style=\"font-size:1.5em;\"><b>1.5. Resource 5</b></span></span></p>\n\n<p><span style=\"font-size:1.5em;\">Ericksen, M. (2017) ‘Ethics in academia: challenges managing modern educational systems’<i>&nbsp;International Journal of Management</i>, 46(7), 67-75.</span></p>\n",
+          "type": "mcq",
+          "validation": {
+            "scoring_type": "exactMatch",
+            "valid_response": {
+              "score": 1,
+              "value": [
+                "0"
+              ]
+            }
+          },
+          "ui_style": {
+            "type": "horizontal"
+          }
+        },
+        "metadata": {
+          "name": "Multiple choice – standard",
+          "template_reference": "9e8149bd-e4d8-4dd6-a751-1a113a4b9163"
+        }
+      },
+      "feedbackInfo": [
+        {
+          "id": "0707_cbb6edb1-33c4-4643-8e6d-20f56306dc6f_3eee8124-cddf-4346-894f-8d4a1bc6d53e_a55390d0f9a98b8ea8e15fb213e558a6",
+          "user_id": "cbb6edb1-33c4-4643-8e6d-20f56306dc6f",
+          "response_id": "3eee8124-cddf-4346-894f-8d4a1bc6d53e_a55390d0f9a98b8ea8e15fb213e558a6",
+          "type": "longtextV2",
+          "question": {
+            "type": "longtextV2",
+            "metadata": {
+              "source": {
+                "organisation_id": 755
+              },
+              "sheet_reference": "default_feedback",
+              "widget_reference": "de082b5f-742a-4ecf-82ca-4dc86e218fec",
+              "valid_response_count": 0
+            },
+            "stimulus": "Written feedback:",
+            "response_id": "3eee8124-cddf-4346-894f-8d4a1bc6d53e_a55390d0f9a98b8ea8e15fb213e558a6",
+            "show_word_count": false,
+            "show_word_limit": "off"
+          },
+          "response": null,
+          "creation_date": "2021-12-09 12:29:41",
+          "mod_date": "2021-12-09 12:34:50",
+          "persist_until": "2024-12-08 12:29:41",
+          "saved": true
+        },
+        null
+      ]
+    },
+    {
+      "response_id": "3eee8124-cddf-4346-894f-8d4a1bc6d53e_79214489c135a675bebe8ffdf7613e46",
+      "question_type": "plaintext",
+      "dt_score_updated": "2021-12-09T13:06:43Z",
+      "automarkable": false,
+      "attempted": true,
+      "score": 1,
+      "max_score": 1,
+      "question_reference": "fdbf72a1-6904-4f10-95d0-c84ecad0b259",
+      "item_reference": "ad64d1d6-377f-4f89-a99c-5acb2491c211",
+      "response": {
+        "value": "this statement have a full information ",
+        "wordCount": 6,
+        "type": "string",
+        "apiVersion": "v2.168.13",
+        "revision": 3
+      },
+      "manual_score": null,
+      "max_manual_score": null,
+      "questionInfo": {
+        "type": "plaintext",
+        "widget_type": "response",
+        "reference": "fdbf72a1-6904-4f10-95d0-c84ecad0b259",
+        "data": {
+          "stimulus": "<span style=\"color:#008000;\"><strong><span style=\"font-size:1.3em;\">1.5.1. Justify your answer.</span></strong></span>",
+          "spellcheck": true,
+          "type": "plaintext",
+          "metadata": {
+            "sample_answer": "<h3><i><u><i id=\"yui_3_17_2_1_1626710187830_1882\"><u id=\"yui_3_17_2_1_1626710187830_1880\">the topic is related to education and the ethical leadership (it’s relevant), it’s reliable and it’s recent.</u></i></u></i></h3>\n"
+          },
+          "max_length": 50,
+          "validation": {
+            "max_score": 1
+          }
+        },
+        "metadata": {
+          "name": "Essay with plain text",
+          "template_reference": "0f559437-5072-475e-830d-1fa9d2f6bb0d"
+        }
+      },
+      "feedbackInfo": [
+        {
+          "id": "0707_cbb6edb1-33c4-4643-8e6d-20f56306dc6f_3eee8124-cddf-4346-894f-8d4a1bc6d53e_d62a70fc839543e48b934e7404a693b5",
+          "user_id": "cbb6edb1-33c4-4643-8e6d-20f56306dc6f",
+          "response_id": "3eee8124-cddf-4346-894f-8d4a1bc6d53e_d62a70fc839543e48b934e7404a693b5",
+          "type": "longtextV2",
+          "question": {
+            "type": "longtextV2",
+            "metadata": {
+              "source": {
+                "organisation_id": 755
+              },
+              "sheet_reference": "default_feedback",
+              "widget_reference": "de082b5f-742a-4ecf-82ca-4dc86e218fec",
+              "valid_response_count": 0
+            },
+            "stimulus": "Written feedback:",
+            "response_id": "3eee8124-cddf-4346-894f-8d4a1bc6d53e_d62a70fc839543e48b934e7404a693b5",
+            "show_word_count": false,
+            "show_word_limit": "off"
+          },
+          "response": null,
+          "creation_date": "2021-12-09 12:29:41",
+          "mod_date": "2021-12-09 12:34:50",
+          "persist_until": "2024-12-08 12:29:41",
+          "saved": true
+        },
+        null
+      ]
+    },
+    {
+      "response_id": "3eee8124-cddf-4346-894f-8d4a1bc6d53e_4d0f5acf76a97c05866ec59ad5502b91",
+      "question_type": "clozedropdown",
+      "dt_score_updated": "2021-12-08T09:23:32Z",
+      "automarkable": true,
+      "attempted": true,
+      "score": 1,
+      "max_score": 1,
+      "question_reference": "5b16105c-71b4-4994-8019-e0f28a4f642d",
+      "item_reference": "ad64d1d6-377f-4f89-a99c-5acb2491c211",
+      "response": {
+        "value": [
+          "paraphrase",
+          "not plagiarism"
+        ],
+        "type": "array",
+        "apiVersion": "v2.168.13",
+        "revision": 2
+      },
+      "questionInfo": {
+        "type": "clozedropdown",
+        "widget_type": "response",
+        "reference": "5b16105c-71b4-4994-8019-e0f28a4f642d",
+        "data": {
+          "possible_responses": [
+            [
+              "quotation",
+              "paraphrase"
+            ],
+            [
+              "plagiarism",
+              "not plagiarism"
+            ]
+          ],
+          "response_container": {
+            "pointer": "left"
+          },
+          "stimulus": "<p><img height=\"427\" src=\"https://assets.learnosity.com/organisations/755/ec280d37-b74d-48a7-ad97-e0c0e3178821.png\" width=\"1001\"></p>\n\n<p>&nbsp;</p>\n",
+          "template": "<p style=\"margin-left: 40px;\"><span style=\"font-size:1.3em;\">This is a&nbsp;{{response}}</span></p>\n\n<p style=\"margin-left: 40px;\"><span style=\"font-size:1.3em;\">This is&nbsp;{{response}}</span></p>\n",
+          "type": "clozedropdown",
+          "case_sensitive": true,
+          "validation": {
+            "scoring_type": "partialMatchV2",
+            "valid_response": {
+              "score": 1,
+              "value": [
+                "paraphrase",
+                "not plagiarism"
+              ]
+            }
+          }
+        },
+        "metadata": {
+          "name": "Cloze with drop down",
+          "template_reference": "2fbba51b-e35e-441f-83c7-2662e2e81fa6"
+        }
+      },
+      "feedbackInfo": [
+        {
+          "id": "0707_cbb6edb1-33c4-4643-8e6d-20f56306dc6f_3eee8124-cddf-4346-894f-8d4a1bc6d53e_94e1769b0b0207454e64285621f5585f",
+          "user_id": "cbb6edb1-33c4-4643-8e6d-20f56306dc6f",
+          "response_id": "3eee8124-cddf-4346-894f-8d4a1bc6d53e_94e1769b0b0207454e64285621f5585f",
+          "type": "longtextV2",
+          "question": {
+            "type": "longtextV2",
+            "metadata": {
+              "source": {
+                "organisation_id": 755
+              },
+              "sheet_reference": "default_feedback",
+              "widget_reference": "de082b5f-742a-4ecf-82ca-4dc86e218fec",
+              "valid_response_count": 0
+            },
+            "stimulus": "Written feedback:",
+            "response_id": "3eee8124-cddf-4346-894f-8d4a1bc6d53e_94e1769b0b0207454e64285621f5585f",
+            "show_word_count": false,
+            "show_word_limit": "off"
+          },
+          "response": null,
+          "creation_date": "2021-12-09 12:29:42",
+          "mod_date": "2021-12-09 12:34:51",
+          "persist_until": "2024-12-08 12:29:42",
+          "saved": true
+        },
+        null
+      ]
+    },
+    {
+      "response_id": "3eee8124-cddf-4346-894f-8d4a1bc6d53e_ce39cbd08405ca32415ed10501f09632",
+      "question_type": "clozedropdown",
+      "dt_score_updated": "2021-12-08T09:24:33Z",
+      "automarkable": true,
+      "attempted": true,
+      "score": 1,
+      "max_score": 1,
+      "question_reference": "ec85b8e9-0c46-4b97-850b-dd5a32c85336",
+      "item_reference": "ad64d1d6-377f-4f89-a99c-5acb2491c211",
+      "response": {
+        "value": [
+          "paraphrase",
+          "plagiarism"
+        ],
+        "type": "array",
+        "apiVersion": "v2.168.13",
+        "revision": 2
+      },
+      "questionInfo": {
+        "type": "clozedropdown",
+        "widget_type": "response",
+        "reference": "ec85b8e9-0c46-4b97-850b-dd5a32c85336",
+        "data": {
+          "possible_responses": [
+            [
+              "quotation",
+              "paraphrase"
+            ],
+            [
+              "plagiarism",
+              "not plagiarism"
+            ]
+          ],
+          "response_container": {
+            "pointer": "left"
+          },
+          "stimulus": "<p>&nbsp;</p>\n\n<p><img height=\"452\" src=\"https://assets.learnosity.com/organisations/755/c643b57b-eec5-4725-a4d1-1ad018e53c04.png\" width=\"1000\"></p>\n",
+          "template": "<p style=\"margin-left: 40px;\"><span style=\"font-size:1.3em;\">This is a&nbsp;{{response}}</span></p>\n\n<p style=\"margin-left: 40px;\"><span style=\"font-size:1.3em;\">This is&nbsp;{{response}}</span></p>\n",
+          "type": "clozedropdown",
+          "case_sensitive": true,
+          "validation": {
+            "scoring_type": "partialMatchV2",
+            "valid_response": {
+              "score": 1,
+              "value": [
+                "paraphrase",
+                "plagiarism"
+              ]
+            }
+          }
+        },
+        "metadata": {
+          "name": "Cloze with drop down",
+          "template_reference": "2fbba51b-e35e-441f-83c7-2662e2e81fa6"
+        }
+      },
+      "feedbackInfo": [
+        {
+          "id": "0707_cbb6edb1-33c4-4643-8e6d-20f56306dc6f_3eee8124-cddf-4346-894f-8d4a1bc6d53e_26a4d6ff9e5fec58b5ae75d35eaa9afc",
+          "user_id": "cbb6edb1-33c4-4643-8e6d-20f56306dc6f",
+          "response_id": "3eee8124-cddf-4346-894f-8d4a1bc6d53e_26a4d6ff9e5fec58b5ae75d35eaa9afc",
+          "type": "longtextV2",
+          "question": {
+            "type": "longtextV2",
+            "metadata": {
+              "source": {
+                "organisation_id": 755
+              },
+              "sheet_reference": "default_feedback",
+              "widget_reference": "de082b5f-742a-4ecf-82ca-4dc86e218fec",
+              "valid_response_count": 0
+            },
+            "stimulus": "Written feedback:",
+            "response_id": "3eee8124-cddf-4346-894f-8d4a1bc6d53e_26a4d6ff9e5fec58b5ae75d35eaa9afc",
+            "show_word_count": false,
+            "show_word_limit": "off"
+          },
+          "response": null,
+          "creation_date": "2021-12-09 12:29:42",
+          "mod_date": "2021-12-09 12:34:51",
+          "persist_until": "2024-12-08 12:29:42",
+          "saved": true
+        },
+        null
+      ]
+    },
+    {
+      "response_id": "3eee8124-cddf-4346-894f-8d4a1bc6d53e_1eb4bf381aa05e11da70adb712591ddc",
+      "question_type": "clozedropdown",
+      "dt_score_updated": "2021-12-08T09:21:17Z",
+      "automarkable": true,
+      "attempted": true,
+      "score": 0,
+      "max_score": 1,
+      "question_reference": "f570ac81-e304-429c-92b3-dae0285aafc7",
+      "item_reference": "ad64d1d6-377f-4f89-a99c-5acb2491c211",
+      "response": {
+        "value": [
+          "paraphrase",
+          "not plagiarism"
+        ],
+        "type": "array",
+        "apiVersion": "v2.168.13",
+        "revision": 2
+      },
+      "questionInfo": {
+        "type": "clozedropdown",
+        "widget_type": "response",
+        "reference": "f570ac81-e304-429c-92b3-dae0285aafc7",
+        "data": {
+          "possible_responses": [
+            [
+              "quotation",
+              "paraphrase"
+            ],
+            [
+              "plagiarism",
+              "not plagiarism"
+            ]
+          ],
+          "response_container": {
+            "pointer": "left"
+          },
+          "stimulus": "<p>&nbsp;</p>\n\n<p><img height=\"430\" src=\"https://assets.learnosity.com/organisations/755/2e920d89-0d16-4390-a7d4-b5554d9a3ea9.png\" width=\"1000\"></p>\n",
+          "template": "<p style=\"margin-left: 40px;\"><span style=\"font-size:1.3em;\">This is a&nbsp;{{response}}</span></p>\n\n<p style=\"margin-left: 40px;\"><span style=\"font-size:1.3em;\">This is&nbsp;{{response}}</span></p>\n",
+          "type": "clozedropdown",
+          "case_sensitive": true,
+          "validation": {
+            "scoring_type": "partialMatchV2",
+            "valid_response": {
+              "score": 1,
+              "value": [
+                "paraphrase",
+                "plagiarism"
+              ]
+            }
+          }
+        },
+        "metadata": {
+          "name": "Cloze with drop down",
+          "template_reference": "2fbba51b-e35e-441f-83c7-2662e2e81fa6"
+        }
+      },
+      "feedbackInfo": [
+        {
+          "id": "0707_cbb6edb1-33c4-4643-8e6d-20f56306dc6f_3eee8124-cddf-4346-894f-8d4a1bc6d53e_9cb54f62c307d0b8a44211084f0afb0f",
+          "user_id": "cbb6edb1-33c4-4643-8e6d-20f56306dc6f",
+          "response_id": "3eee8124-cddf-4346-894f-8d4a1bc6d53e_9cb54f62c307d0b8a44211084f0afb0f",
+          "type": "longtextV2",
+          "question": {
+            "type": "longtextV2",
+            "metadata": {
+              "source": {
+                "organisation_id": 755
+              },
+              "sheet_reference": "default_feedback",
+              "widget_reference": "de082b5f-742a-4ecf-82ca-4dc86e218fec",
+              "valid_response_count": 0
+            },
+            "stimulus": "Written feedback:",
+            "response_id": "3eee8124-cddf-4346-894f-8d4a1bc6d53e_9cb54f62c307d0b8a44211084f0afb0f",
+            "show_word_count": false,
+            "show_word_limit": "off"
+          },
+          "response": null,
+          "creation_date": "2021-12-09 12:29:42",
+          "mod_date": "2021-12-09 12:34:52",
+          "persist_until": "2024-12-08 12:29:42",
+          "saved": true
+        },
+        null
+      ]
+    },
+    {
+      "response_id": "3eee8124-cddf-4346-894f-8d4a1bc6d53e_30b4c2770b65ae0777ae3284f0b5b9e7",
+      "question_type": "clozedropdown",
+      "dt_score_updated": "2021-12-08T09:30:00Z",
+      "automarkable": true,
+      "attempted": true,
+      "score": 1,
+      "max_score": 1,
+      "question_reference": "123d3b23-36a8-4738-9712-b1fb512831b0",
+      "item_reference": "ad64d1d6-377f-4f89-a99c-5acb2491c211",
+      "response": {
+        "value": [
+          "quotation",
+          "not plagiarism"
+        ],
+        "type": "array",
+        "apiVersion": "v2.168.13",
+        "revision": 2
+      },
+      "questionInfo": {
+        "type": "clozedropdown",
+        "widget_type": "response",
+        "reference": "123d3b23-36a8-4738-9712-b1fb512831b0",
+        "data": {
+          "possible_responses": [
+            [
+              "quotation",
+              "paraphrase"
+            ],
+            [
+              "plagiarism",
+              "not plagiarism"
+            ]
+          ],
+          "response_container": {
+            "pointer": "left"
+          },
+          "stimulus": "<p>&nbsp;</p>\n\n<p><img height=\"465\" src=\"https://assets.learnosity.com/organisations/755/d62666cd-68a0-45af-a9a6-9bfe1f5259e1.png\" width=\"1001\"></p>\n",
+          "template": "<p style=\"margin-left: 40px;\"><span style=\"font-size:1.3em;\">This is a&nbsp;{{response}}</span></p>\n\n<p style=\"margin-left: 40px;\"><span style=\"font-size:1.3em;\">This is&nbsp;{{response}}</span></p>\n",
+          "type": "clozedropdown",
+          "case_sensitive": true,
+          "validation": {
+            "scoring_type": "partialMatchV2",
+            "valid_response": {
+              "score": 1,
+              "value": [
+                "quotation",
+                "not plagiarism"
+              ]
+            }
+          }
+        },
+        "metadata": {
+          "name": "Cloze with drop down",
+          "template_reference": "2fbba51b-e35e-441f-83c7-2662e2e81fa6"
+        }
+      },
+      "feedbackInfo": [
+        {
+          "id": "0707_cbb6edb1-33c4-4643-8e6d-20f56306dc6f_3eee8124-cddf-4346-894f-8d4a1bc6d53e_9c37d81db36bb31ca0e89ce059fd59b6",
+          "user_id": "cbb6edb1-33c4-4643-8e6d-20f56306dc6f",
+          "response_id": "3eee8124-cddf-4346-894f-8d4a1bc6d53e_9c37d81db36bb31ca0e89ce059fd59b6",
+          "type": "longtextV2",
+          "question": {
+            "type": "longtextV2",
+            "metadata": {
+              "source": {
+                "organisation_id": 755
+              },
+              "sheet_reference": "default_feedback",
+              "widget_reference": "de082b5f-742a-4ecf-82ca-4dc86e218fec",
+              "valid_response_count": 0
+            },
+            "stimulus": "Written feedback:",
+            "response_id": "3eee8124-cddf-4346-894f-8d4a1bc6d53e_9c37d81db36bb31ca0e89ce059fd59b6",
+            "show_word_count": false,
+            "show_word_limit": "off"
+          },
+          "response": null,
+          "creation_date": "2021-12-09 12:29:43",
+          "mod_date": "2021-12-09 12:34:52",
+          "persist_until": "2024-12-08 12:29:43",
+          "saved": true
+        },
+        null
+      ]
+    },
+    {
+      "response_id": "3eee8124-cddf-4346-894f-8d4a1bc6d53e_0028ab5225514b3cd9af0356e6371ebd",
+      "question_type": "mcq",
+      "dt_score_updated": "2021-12-08T09:47:59Z",
+      "automarkable": true,
+      "attempted": true,
+      "score": 2,
+      "max_score": 2,
+      "question_reference": "859a489c-dedd-41e6-b263-73d76738d841",
+      "item_reference": "19ab006b-e3c9-42e2-99c9-512f0f489dc4",
+      "response": {
+        "value": [
+          "2"
+        ],
+        "type": "array",
+        "apiVersion": "v2.168.13",
+        "revision": 4
+      },
+      "questionInfo": {
+        "type": "mcq",
+        "widget_type": "response",
+        "reference": "859a489c-dedd-41e6-b263-73d76738d841",
+        "data": {
+          "options": [
+            {
+              "label": "Consumers worldwide vary tremendously in age, education income, education level and tastes.",
+              "value": "0"
+            },
+            {
+              "label": "Consumers buy a wide variety of goods throughout their lives.",
+              "value": "1"
+            },
+            {
+              "label": "Social factors such as groups, word-of-mouth, opinion leaders and social networks affect people’s choices of products, services and companies.",
+              "value": "2"
+            }
+          ],
+          "stimulus": "<h2>&nbsp;</h2>\n\n<h2><span style=\"color:#800080;\"><b><b>Task 1 – Section Summaries</b></b></span></h2>\n\n<p>&nbsp;</p>\n\n<p><img height=\"277\" src=\"https://assets.learnosity.com/organisations/755/25e3daca-7b67-4dbb-a974-fa39daceb5cb.png\" width=\"1000\"></p>\n",
+          "type": "mcq",
+          "validation": {
+            "scoring_type": "exactMatch",
+            "valid_response": {
+              "score": 2,
+              "value": [
+                "2"
+              ]
+            }
+          },
+          "ui_style": {
+            "type": "horizontal"
+          }
+        },
+        "metadata": {
+          "name": "Multiple choice – standard",
+          "template_reference": "9e8149bd-e4d8-4dd6-a751-1a113a4b9163"
+        }
+      },
+      "feedbackInfo": [
+        {
+          "id": "0707_cbb6edb1-33c4-4643-8e6d-20f56306dc6f_3eee8124-cddf-4346-894f-8d4a1bc6d53e_e1814033c9f7edbb901f61137bc4fcd6",
+          "user_id": "cbb6edb1-33c4-4643-8e6d-20f56306dc6f",
+          "response_id": "3eee8124-cddf-4346-894f-8d4a1bc6d53e_e1814033c9f7edbb901f61137bc4fcd6",
+          "type": "longtextV2",
+          "question": {
+            "type": "longtextV2",
+            "metadata": {
+              "source": {
+                "organisation_id": 755
+              },
+              "sheet_reference": "default_feedback",
+              "widget_reference": "de082b5f-742a-4ecf-82ca-4dc86e218fec",
+              "valid_response_count": 0
+            },
+            "stimulus": "Written feedback:",
+            "response_id": "3eee8124-cddf-4346-894f-8d4a1bc6d53e_e1814033c9f7edbb901f61137bc4fcd6",
+            "show_word_count": false,
+            "show_word_limit": "off"
+          },
+          "response": null,
+          "creation_date": "2021-12-09 12:29:43",
+          "mod_date": "2021-12-09 12:34:52",
+          "persist_until": "2024-12-08 12:29:43",
+          "saved": true
+        },
+        null
+      ]
+    },
+    {
+      "response_id": "3eee8124-cddf-4346-894f-8d4a1bc6d53e_9c63a2b70ed876ddbd1399a821db35be",
+      "question_type": "mcq",
+      "dt_score_updated": "2021-12-08T09:31:40Z",
+      "automarkable": true,
+      "attempted": true,
+      "score": 0,
+      "max_score": 2,
+      "question_reference": "3dcb4f8e-baeb-4f44-906b-30440c88b60f",
+      "item_reference": "19ab006b-e3c9-42e2-99c9-512f0f489dc4",
+      "response": {
+        "value": [
+          "0"
+        ],
+        "type": "array",
+        "apiVersion": "v2.168.13",
+        "revision": 1
+      },
+      "questionInfo": {
+        "type": "mcq",
+        "widget_type": "response",
+        "reference": "3dcb4f8e-baeb-4f44-906b-30440c88b60f",
+        "data": {
+          "options": [
+            {
+              "label": "Two types of groups influence consumer behaviour: membership groups and reference groups.",
+              "value": "0"
+            },
+            {
+              "label": "Identifying the target market’s reference groups helps marketers influence consumer behaviour.",
+              "value": "1"
+            },
+            {
+              "label": "Strong brands have more control over reference groups and can pressure consumers to choose their products.",
+              "value": "2"
+            }
+          ],
+          "stimulus": "<p>&nbsp;</p>\n\n<p><img height=\"383\" src=\"https://assets.learnosity.com/organisations/755/94c42c87-db77-4b79-95a9-7a23d30862a3.png\" width=\"1000\"></p>\n",
+          "type": "mcq",
+          "validation": {
+            "scoring_type": "exactMatch",
+            "valid_response": {
+              "score": 2,
+              "value": [
+                "1"
+              ]
+            }
+          },
+          "ui_style": {
+            "type": "horizontal"
+          }
+        },
+        "metadata": {
+          "name": "Multiple choice – standard",
+          "template_reference": "9e8149bd-e4d8-4dd6-a751-1a113a4b9163"
+        }
+      },
+      "feedbackInfo": [
+        {
+          "id": "0707_cbb6edb1-33c4-4643-8e6d-20f56306dc6f_3eee8124-cddf-4346-894f-8d4a1bc6d53e_c6fc0c45c12ce53e6913379453469771",
+          "user_id": "cbb6edb1-33c4-4643-8e6d-20f56306dc6f",
+          "response_id": "3eee8124-cddf-4346-894f-8d4a1bc6d53e_c6fc0c45c12ce53e6913379453469771",
+          "type": "longtextV2",
+          "question": {
+            "type": "longtextV2",
+            "metadata": {
+              "source": {
+                "organisation_id": 755
+              },
+              "sheet_reference": "default_feedback",
+              "widget_reference": "de082b5f-742a-4ecf-82ca-4dc86e218fec",
+              "valid_response_count": 0
+            },
+            "stimulus": "Written feedback:",
+            "response_id": "3eee8124-cddf-4346-894f-8d4a1bc6d53e_c6fc0c45c12ce53e6913379453469771",
+            "show_word_count": false,
+            "show_word_limit": "off"
+          },
+          "response": null,
+          "creation_date": "2021-12-09 12:29:44",
+          "mod_date": "2021-12-09 12:34:53",
+          "persist_until": "2024-12-08 12:29:44",
+          "saved": true
+        },
+        null
+      ]
+    },
+    {
+      "response_id": "3eee8124-cddf-4346-894f-8d4a1bc6d53e_1550cf6c325572496db755cc9d5f2396",
+      "question_type": "mcq",
+      "dt_score_updated": "2021-12-08T09:35:32Z",
+      "automarkable": true,
+      "attempted": true,
+      "score": 2,
+      "max_score": 2,
+      "question_reference": "ce45dd31-4f46-4ff7-bd73-ac09f2fc3e5e",
+      "item_reference": "19ab006b-e3c9-42e2-99c9-512f0f489dc4",
+      "response": {
+        "value": [
+          "0"
+        ],
+        "type": "array",
+        "apiVersion": "v2.168.13",
+        "revision": 1
+      },
+      "questionInfo": {
+        "type": "mcq",
+        "widget_type": "response",
+        "reference": "ce45dd31-4f46-4ff7-bd73-ac09f2fc3e5e",
+        "data": {
+          "options": [
+            {
+              "label": "Consumers trust their friends and family more than commercial sources (e.g., advertisements or salespeople).",
+              "value": "0"
+            },
+            {
+              "label": "It’s impossible for marketers to control word-of-mouth because most of its influence happens naturally.",
+              "value": "1"
+            },
+            {
+              "label": "Consumers have mostly positive conversations about the brands they feel strongly about.",
+              "value": "2"
+            }
+          ],
+          "stimulus": "<p>&nbsp;</p>\n\n<p><img height=\"305\" src=\"https://assets.learnosity.com/organisations/755/c0567e2c-6abe-407b-9460-f863404d63ab.png\" width=\"1001\"></p>\n",
+          "type": "mcq",
+          "validation": {
+            "scoring_type": "exactMatch",
+            "valid_response": {
+              "score": 2,
+              "value": [
+                "0"
+              ]
+            }
+          },
+          "ui_style": {
+            "type": "horizontal"
+          }
+        },
+        "metadata": {
+          "name": "Multiple choice – standard",
+          "template_reference": "9e8149bd-e4d8-4dd6-a751-1a113a4b9163"
+        }
+      },
+      "feedbackInfo": [
+        {
+          "id": "0707_cbb6edb1-33c4-4643-8e6d-20f56306dc6f_3eee8124-cddf-4346-894f-8d4a1bc6d53e_2fb26d5c0f7ece8f9cacc6d16a64d344",
+          "user_id": "cbb6edb1-33c4-4643-8e6d-20f56306dc6f",
+          "response_id": "3eee8124-cddf-4346-894f-8d4a1bc6d53e_2fb26d5c0f7ece8f9cacc6d16a64d344",
+          "type": "longtextV2",
+          "question": {
+            "type": "longtextV2",
+            "metadata": {
+              "source": {
+                "organisation_id": 755
+              },
+              "sheet_reference": "default_feedback",
+              "widget_reference": "de082b5f-742a-4ecf-82ca-4dc86e218fec",
+              "valid_response_count": 0
+            },
+            "stimulus": "Written feedback:",
+            "response_id": "3eee8124-cddf-4346-894f-8d4a1bc6d53e_2fb26d5c0f7ece8f9cacc6d16a64d344",
+            "show_word_count": false,
+            "show_word_limit": "off"
+          },
+          "response": null,
+          "creation_date": "2021-12-09 12:29:44",
+          "mod_date": "2021-12-09 12:34:53",
+          "persist_until": "2024-12-08 12:29:44",
+          "saved": true
+        },
+        null
+      ]
+    },
+    {
+      "response_id": "3eee8124-cddf-4346-894f-8d4a1bc6d53e_136c8bbc2d8363dd4b1e7d7427437082",
+      "question_type": "mcq",
+      "dt_score_updated": "2021-12-08T09:42:01Z",
+      "automarkable": true,
+      "attempted": true,
+      "score": 0,
+      "max_score": 2,
+      "question_reference": "468b0788-69be-4617-8879-b8309a8419c5",
+      "item_reference": "19ab006b-e3c9-42e2-99c9-512f0f489dc4",
+      "response": {
+        "value": [
+          "2"
+        ],
+        "type": "array",
+        "apiVersion": "v2.168.13",
+        "revision": 1
+      },
+      "questionInfo": {
+        "type": "mcq",
+        "widget_type": "response",
+        "reference": "468b0788-69be-4617-8879-b8309a8419c5",
+        "data": {
+          "options": [
+            {
+              "label": "Opinion leaders are experts who can influence consumer behaviour.",
+              "value": "0"
+            },
+            {
+              "label": "Opinion leaders can help a brand become popular with target consumers.",
+              "value": "1"
+            },
+            {
+              "label": "Opinion leaders help marketers identify products which are suitable for their target consumers.",
+              "value": "2"
+            }
+          ],
+          "stimulus": "<p>&nbsp;</p>\n\n<p><img height=\"262\" src=\"https://assets.learnosity.com/organisations/755/f6ae04fe-5c72-4297-ba60-8ddd37cab927.png\" width=\"1000\"></p>\n",
+          "type": "mcq",
+          "validation": {
+            "scoring_type": "exactMatch",
+            "valid_response": {
+              "score": 2,
+              "value": [
+                "1"
+              ]
+            }
+          },
+          "ui_style": {
+            "type": "horizontal"
+          }
+        },
+        "metadata": {
+          "name": "Multiple choice – standard",
+          "template_reference": "9e8149bd-e4d8-4dd6-a751-1a113a4b9163"
+        }
+      },
+      "feedbackInfo": [
+        {
+          "id": "0707_cbb6edb1-33c4-4643-8e6d-20f56306dc6f_3eee8124-cddf-4346-894f-8d4a1bc6d53e_ad0f9b9019f8f432cf425cae7a53cf1b",
+          "user_id": "cbb6edb1-33c4-4643-8e6d-20f56306dc6f",
+          "response_id": "3eee8124-cddf-4346-894f-8d4a1bc6d53e_ad0f9b9019f8f432cf425cae7a53cf1b",
+          "type": "longtextV2",
+          "question": {
+            "type": "longtextV2",
+            "metadata": {
+              "source": {
+                "organisation_id": 755
+              },
+              "sheet_reference": "default_feedback",
+              "widget_reference": "de082b5f-742a-4ecf-82ca-4dc86e218fec",
+              "valid_response_count": 0
+            },
+            "stimulus": "Written feedback:",
+            "response_id": "3eee8124-cddf-4346-894f-8d4a1bc6d53e_ad0f9b9019f8f432cf425cae7a53cf1b",
+            "show_word_count": false,
+            "show_word_limit": "off"
+          },
+          "response": null,
+          "creation_date": "2021-12-09 12:29:44",
+          "mod_date": "2021-12-09 12:34:54",
+          "persist_until": "2024-12-08 12:29:44",
+          "saved": true
+        },
+        null
+      ]
+    },
+    {
+      "response_id": "3eee8124-cddf-4346-894f-8d4a1bc6d53e_248fb23ade9342c9a3b1ce38c5425d9f",
+      "question_type": "mcq",
+      "dt_score_updated": "2021-12-08T09:46:38Z",
+      "automarkable": true,
+      "attempted": true,
+      "score": 2,
+      "max_score": 2,
+      "question_reference": "7cb7237f-c24a-41e1-ba0e-9d9dcb391f99",
+      "item_reference": "19ab006b-e3c9-42e2-99c9-512f0f489dc4",
+      "response": {
+        "value": [
+          "1"
+        ],
+        "type": "array",
+        "apiVersion": "v2.168.13",
+        "revision": 1
+      },
+      "questionInfo": {
+        "type": "mcq",
+        "widget_type": "response",
+        "reference": "7cb7237f-c24a-41e1-ba0e-9d9dcb391f99",
+        "data": {
+          "options": [
+            {
+              "label": "There are several types of social networking communities (e.g., blogs, message boards, social media sites and communal shopping sites).",
+              "value": "0"
+            },
+            {
+              "label": "Social networking communities enable consumers to create closer connections with the brands they buy.",
+              "value": "1"
+            },
+            {
+              "label": "Social networking communities enable brands to send more one-way commercial messages to consumers.",
+              "value": "2"
+            }
+          ],
+          "stimulus": "<p>&nbsp;</p>\n\n<p><img height=\"393\" src=\"https://assets.learnosity.com/organisations/755/a554b87e-1728-4838-9f2c-f19ab48a945e.png\" width=\"1000\"></p>\n",
+          "type": "mcq",
+          "validation": {
+            "scoring_type": "exactMatch",
+            "valid_response": {
+              "score": 2,
+              "value": [
+                "1"
+              ]
+            }
+          },
+          "ui_style": {
+            "type": "horizontal"
+          }
+        },
+        "metadata": {
+          "name": "Multiple choice – standard",
+          "template_reference": "9e8149bd-e4d8-4dd6-a751-1a113a4b9163"
+        }
+      },
+      "feedbackInfo": [
+        {
+          "id": "0707_cbb6edb1-33c4-4643-8e6d-20f56306dc6f_3eee8124-cddf-4346-894f-8d4a1bc6d53e_a33bc2356113944e8d208c4994fa9e7f",
+          "user_id": "cbb6edb1-33c4-4643-8e6d-20f56306dc6f",
+          "response_id": "3eee8124-cddf-4346-894f-8d4a1bc6d53e_a33bc2356113944e8d208c4994fa9e7f",
+          "type": "longtextV2",
+          "question": {
+            "type": "longtextV2",
+            "metadata": {
+              "source": {
+                "organisation_id": 755
+              },
+              "sheet_reference": "default_feedback",
+              "widget_reference": "de082b5f-742a-4ecf-82ca-4dc86e218fec",
+              "valid_response_count": 0
+            },
+            "stimulus": "Written feedback:",
+            "response_id": "3eee8124-cddf-4346-894f-8d4a1bc6d53e_a33bc2356113944e8d208c4994fa9e7f",
+            "show_word_count": false,
+            "show_word_limit": "off"
+          },
+          "response": null,
+          "creation_date": "2021-12-09 12:29:45",
+          "mod_date": "2021-12-09 12:34:54",
+          "persist_until": "2024-12-08 12:29:45",
+          "saved": true
+        },
+        null
+      ]
+    },
+    {
+      "response_id": "3eee8124-cddf-4346-894f-8d4a1bc6d53e_6b173be390912a24ec91269a5aa9561b",
+      "question_type": "mcq",
+      "dt_score_updated": "2021-12-08T09:50:45Z",
+      "automarkable": true,
+      "attempted": true,
+      "score": 0,
+      "max_score": 2,
+      "question_reference": "377e2dbd-a1a9-4f47-b25b-017e93586bea",
+      "item_reference": "19ab006b-e3c9-42e2-99c9-512f0f489dc4",
+      "response": {
+        "value": [
+          "2"
+        ],
+        "type": "array",
+        "apiVersion": "v2.168.13",
+        "revision": 2
+      },
+      "questionInfo": {
+        "type": "mcq",
+        "widget_type": "response",
+        "reference": "377e2dbd-a1a9-4f47-b25b-017e93586bea",
+        "data": {
+          "options": [
+            {
+              "label": "A university student buying a new laptop.",
+              "value": "0"
+            },
+            {
+              "label": "A fashion company buying fur to make expensive coats",
+              "value": "1"
+            },
+            {
+              "label": "A family buying plane tickets to go on their summer holiday.",
+              "value": "2"
+            },
+            {
+              "label": "A person buying office furniture (e.g. desk and chair) to work from home&nbsp;.",
+              "value": "3"
+            }
+          ],
+          "stimulus": "<h2>&nbsp;</h2>\n\n<h2><span style=\"color:#800080;\"><b><b>Task 2&nbsp;– Main ideas and Supporting Points</b></b></span></h2>\n\n<h3><span style=\"font-size:1em;\"><b id=\"yui_3_17_2_1_1626785354991_196\">Based on the information from text A, choose the correct answer: a, b, c or d.</b></span></h3>\n\n<p>&nbsp;</p>\n\n<p>&nbsp;</p>\n\n<p><img height=\"43\" src=\"https://assets.learnosity.com/organisations/755/f0dcbe50-f2ad-42ab-b76d-8304e3881eeb.png\" width=\"994\"></p>\n",
+          "type": "mcq",
+          "validation": {
+            "scoring_type": "exactMatch",
+            "valid_response": {
+              "score": 2,
+              "value": [
+                "1"
+              ]
+            }
+          },
+          "ui_style": {
+            "type": "horizontal"
+          }
+        },
+        "metadata": {
+          "name": "Multiple choice – standard",
+          "template_reference": "9e8149bd-e4d8-4dd6-a751-1a113a4b9163"
+        }
+      },
+      "feedbackInfo": [
+        {
+          "id": "0707_cbb6edb1-33c4-4643-8e6d-20f56306dc6f_3eee8124-cddf-4346-894f-8d4a1bc6d53e_99a5aa2a75c08e109742b4e89005c2ef",
+          "user_id": "cbb6edb1-33c4-4643-8e6d-20f56306dc6f",
+          "response_id": "3eee8124-cddf-4346-894f-8d4a1bc6d53e_99a5aa2a75c08e109742b4e89005c2ef",
+          "type": "longtextV2",
+          "question": {
+            "type": "longtextV2",
+            "metadata": {
+              "source": {
+                "organisation_id": 755
+              },
+              "sheet_reference": "default_feedback",
+              "widget_reference": "de082b5f-742a-4ecf-82ca-4dc86e218fec",
+              "valid_response_count": 0
+            },
+            "stimulus": "Written feedback:",
+            "response_id": "3eee8124-cddf-4346-894f-8d4a1bc6d53e_99a5aa2a75c08e109742b4e89005c2ef",
+            "show_word_count": false,
+            "show_word_limit": "off"
+          },
+          "response": null,
+          "creation_date": "2021-12-09 12:29:45",
+          "mod_date": "2021-12-09 12:34:54",
+          "persist_until": "2024-12-08 12:29:45",
+          "saved": true
+        },
+        null
+      ]
+    },
+    {
+      "response_id": "3eee8124-cddf-4346-894f-8d4a1bc6d53e_cad8da5b86bb0f38aa5f67ffed96e3cc",
+      "question_type": "mcq",
+      "dt_score_updated": "2021-12-08T09:52:46Z",
+      "automarkable": true,
+      "attempted": true,
+      "score": 0,
+      "max_score": 2,
+      "question_reference": "b5f2fe04-4c71-4d95-9840-1e30fa96a25d",
+      "item_reference": "19ab006b-e3c9-42e2-99c9-512f0f489dc4",
+      "response": {
+        "value": [
+          "1"
+        ],
+        "type": "array",
+        "apiVersion": "v2.168.13",
+        "revision": 1
+      },
+      "questionInfo": {
+        "type": "mcq",
+        "widget_type": "response",
+        "reference": "b5f2fe04-4c71-4d95-9840-1e30fa96a25d",
+        "data": {
+          "options": [
+            {
+              "label": "Consumer behaviour is directly influenced by reference groups.",
+              "value": "0"
+            },
+            {
+              "label": "Reference groups serve as a starting point&nbsp;in a person's attitudes or behaviour.",
+              "value": "1"
+            },
+            {
+              "label": "Consumers pick up new behaviours and lifestyles from reference groups.",
+              "value": "2"
+            },
+            {
+              "label": "Reference groups make products visible to others whom the buyer respects.",
+              "value": "3"
+            }
+          ],
+          "stimulus": "<p>&nbsp;</p>\n\n<p><img height=\"47\" src=\"https://assets.learnosity.com/organisations/755/5022b5d2-8daf-47d8-9fc9-870ff8e611b1.png\" width=\"999\"></p>\n",
+          "type": "mcq",
+          "validation": {
+            "scoring_type": "exactMatch",
+            "valid_response": {
+              "score": 2,
+              "value": [
+                "2"
+              ]
+            }
+          },
+          "ui_style": {
+            "type": "horizontal"
+          }
+        },
+        "metadata": {
+          "name": "Multiple choice – standard",
+          "template_reference": "9e8149bd-e4d8-4dd6-a751-1a113a4b9163"
+        }
+      },
+      "feedbackInfo": [
+        {
+          "id": "0707_cbb6edb1-33c4-4643-8e6d-20f56306dc6f_3eee8124-cddf-4346-894f-8d4a1bc6d53e_7ea385910eab2b881e20d3caad1cd4d9",
+          "user_id": "cbb6edb1-33c4-4643-8e6d-20f56306dc6f",
+          "response_id": "3eee8124-cddf-4346-894f-8d4a1bc6d53e_7ea385910eab2b881e20d3caad1cd4d9",
+          "type": "longtextV2",
+          "question": {
+            "type": "longtextV2",
+            "metadata": {
+              "source": {
+                "organisation_id": 755
+              },
+              "sheet_reference": "default_feedback",
+              "widget_reference": "de082b5f-742a-4ecf-82ca-4dc86e218fec",
+              "valid_response_count": 0
+            },
+            "stimulus": "Written feedback:",
+            "response_id": "3eee8124-cddf-4346-894f-8d4a1bc6d53e_7ea385910eab2b881e20d3caad1cd4d9",
+            "show_word_count": false,
+            "show_word_limit": "off"
+          },
+          "response": null,
+          "creation_date": "2021-12-09 12:29:46",
+          "mod_date": "2021-12-09 12:34:55",
+          "persist_until": "2024-12-08 12:29:46",
+          "saved": true
+        },
+        null
+      ]
+    },
+    {
+      "response_id": "3eee8124-cddf-4346-894f-8d4a1bc6d53e_3fa126d0ef454472d26b8cb50b34c7d1",
+      "question_type": "mcq",
+      "dt_score_updated": "2021-12-08T09:54:32Z",
+      "automarkable": true,
+      "attempted": true,
+      "score": 0,
+      "max_score": 2,
+      "question_reference": "0ca6904c-26bf-4746-ac88-abca6207257f",
+      "item_reference": "19ab006b-e3c9-42e2-99c9-512f0f489dc4",
+      "response": {
+        "value": [
+          "2"
+        ],
+        "type": "array",
+        "apiVersion": "v2.168.13",
+        "revision": 1
+      },
+      "questionInfo": {
+        "type": "mcq",
+        "widget_type": "response",
+        "reference": "0ca6904c-26bf-4746-ac88-abca6207257f",
+        "data": {
+          "options": [
+            {
+              "label": "The vast majority of consumers don’t believe any form of advertising.",
+              "value": "0"
+            },
+            {
+              "label": "The vast majority of consumers don’t believe the&nbsp;personal words and recommendations&nbsp;of their friends and family.",
+              "value": "1"
+            },
+            {
+              "label": "Only a small number of consumers believe the&nbsp;personal words and recommendations of trusted friends and family.",
+              "value": "2"
+            },
+            {
+              "label": "Only a small number of consumers consider advertising more credible than recommendations from friends and family.",
+              "value": "3"
+            }
+          ],
+          "stimulus": "<p>&nbsp;</p>\n\n<p><img height=\"46\" src=\"https://assets.learnosity.com/organisations/755/2ef28f7d-1c48-4c88-ba2c-545dd4cd7678.png\" width=\"1005\"></p>\n",
+          "type": "mcq",
+          "validation": {
+            "scoring_type": "exactMatch",
+            "valid_response": {
+              "score": 2,
+              "value": [
+                "3"
+              ]
+            }
+          },
+          "ui_style": {
+            "type": "horizontal"
+          }
+        },
+        "metadata": {
+          "name": "Multiple choice – standard",
+          "template_reference": "9e8149bd-e4d8-4dd6-a751-1a113a4b9163"
+        }
+      },
+      "feedbackInfo": [
+        {
+          "id": "0707_cbb6edb1-33c4-4643-8e6d-20f56306dc6f_3eee8124-cddf-4346-894f-8d4a1bc6d53e_4ae94b228ababdf6da26b993929245d2",
+          "user_id": "cbb6edb1-33c4-4643-8e6d-20f56306dc6f",
+          "response_id": "3eee8124-cddf-4346-894f-8d4a1bc6d53e_4ae94b228ababdf6da26b993929245d2",
+          "type": "longtextV2",
+          "question": {
+            "type": "longtextV2",
+            "metadata": {
+              "source": {
+                "organisation_id": 755
+              },
+              "sheet_reference": "default_feedback",
+              "widget_reference": "de082b5f-742a-4ecf-82ca-4dc86e218fec",
+              "valid_response_count": 0
+            },
+            "stimulus": "Written feedback:",
+            "response_id": "3eee8124-cddf-4346-894f-8d4a1bc6d53e_4ae94b228ababdf6da26b993929245d2",
+            "show_word_count": false,
+            "show_word_limit": "off"
+          },
+          "response": null,
+          "creation_date": "2021-12-09 12:29:46",
+          "mod_date": "2021-12-09 12:34:55",
+          "persist_until": "2024-12-08 12:29:46",
+          "saved": true
+        },
+        null
+      ]
+    },
+    {
+      "response_id": "3eee8124-cddf-4346-894f-8d4a1bc6d53e_747ecfc36ea1e0a51b4ac2127d16ab96",
+      "question_type": "mcq",
+      "dt_score_updated": "2021-12-08T09:57:03Z",
+      "automarkable": true,
+      "attempted": true,
+      "score": 0,
+      "max_score": 2,
+      "question_reference": "c98064e5-9988-4ba1-bcef-656f8d6c8fae",
+      "item_reference": "19ab006b-e3c9-42e2-99c9-512f0f489dc4",
+      "response": {
+        "value": [
+          "0"
+        ],
+        "type": "array",
+        "apiVersion": "v2.168.13",
+        "revision": 1
+      },
+      "questionInfo": {
+        "type": "mcq",
+        "widget_type": "response",
+        "reference": "c98064e5-9988-4ba1-bcef-656f8d6c8fae",
+        "data": {
+          "options": [
+            {
+              "label": "They do not use social networks to promote their products and brands effectively.",
+              "value": "0"
+            },
+            {
+              "label": "They are focusing on the implications of business-to-consumer dialogue.",
+              "value": "1"
+            },
+            {
+              "label": "They use social networks to talk to consumers&nbsp;and get involved in their conversations and lives.",
+              "value": "2"
+            },
+            {
+              "label": "They are helping brands share their passions and experiences with consumers in both real and digital worlds.",
+              "value": "3"
+            }
+          ],
+          "stimulus": "<p>&nbsp;</p>\n\n<p><img height=\"46\" src=\"https://assets.learnosity.com/organisations/755/fc9c4a31-ef89-44c0-a9d8-53119f4ca165.png\" width=\"1010\"></p>\n",
+          "type": "mcq",
+          "validation": {
+            "scoring_type": "exactMatch",
+            "valid_response": {
+              "score": 2,
+              "value": [
+                "2"
+              ]
+            }
+          },
+          "ui_style": {
+            "type": "horizontal"
+          }
+        },
+        "metadata": {
+          "name": "Multiple choice – standard",
+          "template_reference": "9e8149bd-e4d8-4dd6-a751-1a113a4b9163"
+        }
+      },
+      "feedbackInfo": [
+        {
+          "id": "0707_cbb6edb1-33c4-4643-8e6d-20f56306dc6f_3eee8124-cddf-4346-894f-8d4a1bc6d53e_d5cc82e7536a84d205c175775f068972",
+          "user_id": "cbb6edb1-33c4-4643-8e6d-20f56306dc6f",
+          "response_id": "3eee8124-cddf-4346-894f-8d4a1bc6d53e_d5cc82e7536a84d205c175775f068972",
+          "type": "longtextV2",
+          "question": {
+            "type": "longtextV2",
+            "metadata": {
+              "source": {
+                "organisation_id": 755
+              },
+              "sheet_reference": "default_feedback",
+              "widget_reference": "de082b5f-742a-4ecf-82ca-4dc86e218fec",
+              "valid_response_count": 0
+            },
+            "stimulus": "Written feedback:",
+            "response_id": "3eee8124-cddf-4346-894f-8d4a1bc6d53e_d5cc82e7536a84d205c175775f068972",
+            "show_word_count": false,
+            "show_word_limit": "off"
+          },
+          "response": null,
+          "creation_date": "2021-12-09 12:29:46",
+          "mod_date": "2021-12-09 12:34:56",
+          "persist_until": "2024-12-08 12:29:46",
+          "saved": true
+        },
+        null
+      ]
+    },
+    {
+      "response_id": "3eee8124-cddf-4346-894f-8d4a1bc6d53e_7d516ac9b8ca6c082ba122613f3e42f4",
+      "question_type": "mcq",
+      "dt_score_updated": "2021-12-08T10:05:31Z",
+      "automarkable": true,
+      "attempted": true,
+      "score": 0,
+      "max_score": 1,
+      "question_reference": "49039602-07ba-4b32-9421-9cf554d9deec",
+      "item_reference": "813bc81a-feb7-4705-ae54-aad06ac5815e",
+      "response": {
+        "value": [
+          "0"
+        ],
+        "type": "array",
+        "apiVersion": "v2.168.13",
+        "revision": 1
+      },
+      "questionInfo": {
+        "type": "mcq",
+        "widget_type": "response",
+        "reference": "49039602-07ba-4b32-9421-9cf554d9deec",
+        "data": {
+          "options": [
+            {
+              "label": "True",
+              "value": "0"
+            },
+            {
+              "label": "False",
+              "value": "1"
+            }
+          ],
+          "stimulus": "<h2>&nbsp;</h2>\n\n<h2><span style=\"color:#0000ff;\"><b>Task 1 – Identifying author’s viewpoint.</b></span></h2>\n\n<h3 style=\"margin-left: 40px;\"><b>Use the information in text B to decide if the sentences are TRUE or FALSE.&nbsp;</b></h3>\n\n<h3 style=\"margin-left: 40px;\"><b>Justify your answer with a sentence from text B.</b></h3>\n\n<p>&nbsp;</p>\n<img height=\"83\" src=\"https://assets.learnosity.com/organisations/755/b656b648-9562-47a6-ad46-1bee704cc9f8.png\" width=\"999\">",
+          "type": "mcq",
+          "ui_style": {
+            "type": "horizontal"
+          },
+          "validation": {
+            "scoring_type": "exactMatch",
+            "valid_response": {
+              "score": 1,
+              "value": [
+                "1"
+              ]
+            }
+          }
+        },
+        "metadata": {
+          "name": "Multiple choice – standard",
+          "template_reference": "9e8149bd-e4d8-4dd6-a751-1a113a4b9163"
+        }
+      },
+      "feedbackInfo": [
+        {
+          "id": "0707_cbb6edb1-33c4-4643-8e6d-20f56306dc6f_3eee8124-cddf-4346-894f-8d4a1bc6d53e_d006d0ff1131fdd3f359c4385b448bca",
+          "user_id": "cbb6edb1-33c4-4643-8e6d-20f56306dc6f",
+          "response_id": "3eee8124-cddf-4346-894f-8d4a1bc6d53e_d006d0ff1131fdd3f359c4385b448bca",
+          "type": "longtextV2",
+          "question": {
+            "type": "longtextV2",
+            "metadata": {
+              "source": {
+                "organisation_id": 755
+              },
+              "sheet_reference": "default_feedback",
+              "widget_reference": "de082b5f-742a-4ecf-82ca-4dc86e218fec",
+              "valid_response_count": 0
+            },
+            "stimulus": "Written feedback:",
+            "response_id": "3eee8124-cddf-4346-894f-8d4a1bc6d53e_d006d0ff1131fdd3f359c4385b448bca",
+            "show_word_count": false,
+            "show_word_limit": "off"
+          },
+          "response": null,
+          "creation_date": "2021-12-09 12:29:47",
+          "mod_date": "2021-12-09 12:34:56",
+          "persist_until": "2024-12-08 12:29:47",
+          "saved": true
+        },
+        null
+      ]
+    },
+    {
+      "response_id": "3eee8124-cddf-4346-894f-8d4a1bc6d53e_ce01f67973c3159f36dd2d1460ac10aa",
+      "question_type": "plaintext",
+      "dt_score_updated": "2021-12-09T12:35:00Z",
+      "automarkable": false,
+      "attempted": true,
+      "score": 0,
+      "max_score": 1,
+      "question_reference": "55ec2ef7-e819-414e-9b97-21f5351d4b88",
+      "item_reference": "813bc81a-feb7-4705-ae54-aad06ac5815e",
+      "response": {
+        "value": "author claim that online markets increasing .",
+        "wordCount": 7,
+        "type": "string",
+        "apiVersion": "v2.168.13",
+        "revision": 4
+      },
+      "manual_score": null,
+      "max_manual_score": null,
+      "questionInfo": {
+        "type": "plaintext",
+        "widget_type": "response",
+        "reference": "55ec2ef7-e819-414e-9b97-21f5351d4b88",
+        "data": {
+          "stimulus": "<span style=\"color:#0000ff;\"><span style=\"font-size:1.3em;\"><strong>1.1.1. Justify your answer with a sentence from text B.</strong></span></span>",
+          "spellcheck": true,
+          "type": "plaintext",
+          "metadata": {
+            "sample_answer": "<h3><i><u><i id=\"yui_3_17_2_1_1637675974412_1919\"><u id=\"yui_3_17_2_1_1637675974412_1917\">More than ever before, it’s crucial for businesses to go beyond the digital space to build meaningful relationships.</u></i></u></i></h3>\n"
+          },
+          "max_length": 50,
+          "validation": {
+            "max_score": 1
+          }
+        },
+        "metadata": {
+          "name": "Essay with plain text",
+          "template_reference": "0f559437-5072-475e-830d-1fa9d2f6bb0d"
+        }
+      },
+      "feedbackInfo": [
+        {
+          "id": "0707_cbb6edb1-33c4-4643-8e6d-20f56306dc6f_3eee8124-cddf-4346-894f-8d4a1bc6d53e_92f40f4ff8bb7ee0bdbf89e4d4f0b793",
+          "user_id": "cbb6edb1-33c4-4643-8e6d-20f56306dc6f",
+          "response_id": "3eee8124-cddf-4346-894f-8d4a1bc6d53e_92f40f4ff8bb7ee0bdbf89e4d4f0b793",
+          "type": "longtextV2",
+          "question": {
+            "type": "longtextV2",
+            "metadata": {
+              "source": {
+                "organisation_id": 755
+              },
+              "sheet_reference": "default_feedback",
+              "widget_reference": "de082b5f-742a-4ecf-82ca-4dc86e218fec",
+              "valid_response_count": 0
+            },
+            "stimulus": "Written feedback:",
+            "response_id": "3eee8124-cddf-4346-894f-8d4a1bc6d53e_92f40f4ff8bb7ee0bdbf89e4d4f0b793",
+            "show_word_count": false,
+            "show_word_limit": "off"
+          },
+          "response": null,
+          "creation_date": "2021-12-09 12:29:47",
+          "mod_date": "2021-12-09 12:34:56",
+          "persist_until": "2024-12-08 12:29:47",
+          "saved": true
+        },
+        null
+      ]
+    },
+    {
+      "response_id": "3eee8124-cddf-4346-894f-8d4a1bc6d53e_6c7c8e6f6d71da60a2bd6f9eaae0f564",
+      "question_type": "mcq",
+      "dt_score_updated": "2021-12-08T10:44:07Z",
+      "automarkable": true,
+      "attempted": true,
+      "score": 0,
+      "max_score": 1,
+      "question_reference": "8d69b00c-33e5-4d45-be39-52da9c5d9cd9",
+      "item_reference": "813bc81a-feb7-4705-ae54-aad06ac5815e",
+      "response": {
+        "value": [
+          "1"
+        ],
+        "type": "array",
+        "apiVersion": "v2.168.13",
+        "revision": 2
+      },
+      "questionInfo": {
+        "type": "mcq",
+        "widget_type": "response",
+        "reference": "8d69b00c-33e5-4d45-be39-52da9c5d9cd9",
+        "data": {
+          "options": [
+            {
+              "label": "True",
+              "value": "0"
+            },
+            {
+              "label": "False",
+              "value": "1"
+            }
+          ],
+          "stimulus": "<p>&nbsp;</p>\n\n<p><img height=\"83\" src=\"https://assets.learnosity.com/organisations/755/81d7ffae-3f6d-45e3-850a-c2d138b2f097.png\" width=\"1000\"></p>\n",
+          "type": "mcq",
+          "ui_style": {
+            "type": "horizontal"
+          },
+          "validation": {
+            "scoring_type": "exactMatch",
+            "valid_response": {
+              "score": 1,
+              "value": [
+                "0"
+              ]
+            }
+          }
+        },
+        "metadata": {
+          "name": "True or false",
+          "template_reference": "3egs0b24-5gs8-49fc-fds9-4a450sdg31ca"
+        }
+      },
+      "feedbackInfo": [
+        {
+          "id": "0707_cbb6edb1-33c4-4643-8e6d-20f56306dc6f_3eee8124-cddf-4346-894f-8d4a1bc6d53e_7accd5f4a6b3d31adcbfc275338ea90d",
+          "user_id": "cbb6edb1-33c4-4643-8e6d-20f56306dc6f",
+          "response_id": "3eee8124-cddf-4346-894f-8d4a1bc6d53e_7accd5f4a6b3d31adcbfc275338ea90d",
+          "type": "longtextV2",
+          "question": {
+            "type": "longtextV2",
+            "metadata": {
+              "source": {
+                "organisation_id": 755
+              },
+              "sheet_reference": "default_feedback",
+              "widget_reference": "de082b5f-742a-4ecf-82ca-4dc86e218fec",
+              "valid_response_count": 0
+            },
+            "stimulus": "Written feedback:",
+            "response_id": "3eee8124-cddf-4346-894f-8d4a1bc6d53e_7accd5f4a6b3d31adcbfc275338ea90d",
+            "show_word_count": false,
+            "show_word_limit": "off"
+          },
+          "response": null,
+          "creation_date": "2021-12-09 12:29:48",
+          "mod_date": "2021-12-09 12:34:57",
+          "persist_until": "2024-12-08 12:29:48",
+          "saved": true
+        },
+        null
+      ]
+    },
+    {
+      "response_id": "3eee8124-cddf-4346-894f-8d4a1bc6d53e_3b9cab4f55fd7ef1639664658d3ffc46",
+      "question_type": "plaintext",
+      "dt_score_updated": "2021-12-09T13:06:43Z",
+      "automarkable": false,
+      "attempted": true,
+      "score": 0,
+      "max_score": 1,
+      "question_reference": "bf1fbdb2-6088-4d1b-a4b4-26d544e2f6be",
+      "item_reference": "813bc81a-feb7-4705-ae54-aad06ac5815e",
+      "response": {
+        "value": "don't accept informal results and improve the technology ",
+        "wordCount": 8,
+        "type": "string",
+        "apiVersion": "v2.168.13",
+        "revision": 3
+      },
+      "manual_score": null,
+      "max_manual_score": null,
+      "questionInfo": {
+        "type": "plaintext",
+        "widget_type": "response",
+        "reference": "bf1fbdb2-6088-4d1b-a4b4-26d544e2f6be",
+        "data": {
+          "stimulus": "<span style=\"color:#0000ff;\"><span style=\"font-size:1.3em;\"><strong>1.2.1. Justify your answer with a sentence from text B.</strong></span></span>",
+          "spellcheck": true,
+          "type": "plaintext",
+          "metadata": {
+            "sample_answer": "<p style=\"margin-top:8px; margin-bottom:8px; margin-left:8px\"><span style=\"font-size:11pt\"><span style=\"line-height:normal\"><span style=\"font-family:Calibri,sans-serif\"> <i><u><span style=\"font-size:12.0pt\"></span></u></i><b id=\"yui_3_17_2_1_1637676894023_1887\"><i id=\"yui_3_17_2_1_1637676894023_1885\"><u id=\"yui_3_17_2_1_1637676894023_1882\">it’s no longer acceptable for event marketers to report on informal results.</u></i></b><i><u><span style=\"font-size:12.0pt\"></span></u></i></span></span></span></p>\n"
+          },
+          "max_length": 50,
+          "validation": {
+            "max_score": 1
+          }
+        },
+        "metadata": {
+          "name": "Essay with plain text",
+          "template_reference": "0f559437-5072-475e-830d-1fa9d2f6bb0d"
+        }
+      },
+      "feedbackInfo": [
+        {
+          "id": "0707_cbb6edb1-33c4-4643-8e6d-20f56306dc6f_3eee8124-cddf-4346-894f-8d4a1bc6d53e_dc62fe9e7777f655064788d2388d09c5",
+          "user_id": "cbb6edb1-33c4-4643-8e6d-20f56306dc6f",
+          "response_id": "3eee8124-cddf-4346-894f-8d4a1bc6d53e_dc62fe9e7777f655064788d2388d09c5",
+          "type": "longtextV2",
+          "question": {
+            "type": "longtextV2",
+            "metadata": {
+              "source": {
+                "organisation_id": 755
+              },
+              "sheet_reference": "default_feedback",
+              "widget_reference": "de082b5f-742a-4ecf-82ca-4dc86e218fec",
+              "valid_response_count": 0
+            },
+            "stimulus": "Written feedback:",
+            "response_id": "3eee8124-cddf-4346-894f-8d4a1bc6d53e_dc62fe9e7777f655064788d2388d09c5",
+            "show_word_count": false,
+            "show_word_limit": "off"
+          },
+          "response": null,
+          "creation_date": "2021-12-09 12:29:48",
+          "mod_date": "2021-12-09 12:34:57",
+          "persist_until": "2024-12-08 12:29:48",
+          "saved": true
+        },
+        null
+      ]
+    },
+    {
+      "response_id": "3eee8124-cddf-4346-894f-8d4a1bc6d53e_0b637602788eb02548bc11dcd8a7159d",
+      "question_type": "mcq",
+      "dt_score_updated": "2021-12-08T10:27:16Z",
+      "automarkable": true,
+      "attempted": true,
+      "score": 1,
+      "max_score": 1,
+      "question_reference": "a6c5418c-167a-4016-9451-4290305d92b4",
+      "item_reference": "813bc81a-feb7-4705-ae54-aad06ac5815e",
+      "response": {
+        "value": [
+          "0"
+        ],
+        "type": "array",
+        "apiVersion": "v2.168.13",
+        "revision": 1
+      },
+      "questionInfo": {
+        "type": "mcq",
+        "widget_type": "response",
+        "reference": "a6c5418c-167a-4016-9451-4290305d92b4",
+        "data": {
+          "options": [
+            {
+              "label": "True",
+              "value": "0"
+            },
+            {
+              "label": "False",
+              "value": "1"
+            }
+          ],
+          "stimulus": "<p>&nbsp;</p>\n\n<p><img height=\"61\" src=\"https://assets.learnosity.com/organisations/755/7527f348-83b6-4830-a65b-f00ce49c4b6d.png\" width=\"998\"></p>\n",
+          "type": "mcq",
+          "ui_style": {
+            "type": "horizontal"
+          },
+          "validation": {
+            "scoring_type": "exactMatch",
+            "valid_response": {
+              "score": 1,
+              "value": [
+                "0"
+              ]
+            }
+          }
+        },
+        "metadata": {
+          "name": "True or false",
+          "template_reference": "3egs0b24-5gs8-49fc-fds9-4a450sdg31ca"
+        }
+      },
+      "feedbackInfo": [
+        {
+          "id": "0707_cbb6edb1-33c4-4643-8e6d-20f56306dc6f_3eee8124-cddf-4346-894f-8d4a1bc6d53e_d8613d2d34ee7e33ce37b5a84e012654",
+          "user_id": "cbb6edb1-33c4-4643-8e6d-20f56306dc6f",
+          "response_id": "3eee8124-cddf-4346-894f-8d4a1bc6d53e_d8613d2d34ee7e33ce37b5a84e012654",
+          "type": "longtextV2",
+          "question": {
+            "type": "longtextV2",
+            "metadata": {
+              "source": {
+                "organisation_id": 755
+              },
+              "sheet_reference": "default_feedback",
+              "widget_reference": "de082b5f-742a-4ecf-82ca-4dc86e218fec",
+              "valid_response_count": 0
+            },
+            "stimulus": "Written feedback:",
+            "response_id": "3eee8124-cddf-4346-894f-8d4a1bc6d53e_d8613d2d34ee7e33ce37b5a84e012654",
+            "show_word_count": false,
+            "show_word_limit": "off"
+          },
+          "response": null,
+          "creation_date": "2021-12-09 12:29:48",
+          "mod_date": "2021-12-09 12:34:58",
+          "persist_until": "2024-12-08 12:29:48",
+          "saved": true
+        },
+        null
+      ]
+    },
+    {
+      "response_id": "3eee8124-cddf-4346-894f-8d4a1bc6d53e_cb87a4701b203c3047f794d10dece8b5",
+      "question_type": "plaintext",
+      "dt_score_updated": "2021-12-09T12:35:01Z",
+      "automarkable": false,
+      "attempted": true,
+      "score": 0,
+      "max_score": 1,
+      "question_reference": "3dd5076d-22a1-4171-9955-2fd42eef48f9",
+      "item_reference": "813bc81a-feb7-4705-ae54-aad06ac5815e",
+      "response": {
+        "value": "the author suggest that old software is slow ",
+        "wordCount": 8,
+        "type": "string",
+        "apiVersion": "v2.168.13",
+        "revision": 5
+      },
+      "manual_score": null,
+      "max_manual_score": null,
+      "questionInfo": {
+        "type": "plaintext",
+        "widget_type": "response",
+        "reference": "3dd5076d-22a1-4171-9955-2fd42eef48f9",
+        "data": {
+          "stimulus": "<span style=\"color:#0000ff;\"><span style=\"font-size:1.3em;\"><strong>1.3.1. Justify your answer with a sentence from text B.</strong></span></span>",
+          "spellcheck": true,
+          "type": "plaintext",
+          "metadata": {
+            "sample_answer": "<p style=\"margin-top:8px; margin-bottom:8px; margin-left:8px\"><span style=\"font-size:11pt\"><span style=\"line-height:normal\"><span style=\"font-family:Calibri,sans-serif\"> <i><u><span style=\"font-size:12.0pt\"></span><i id=\"yui_3_17_2_1_1637677994911_1879\"><u id=\"yui_3_17_2_1_1637677994911_1878\">Early event management software programs were helpful in planning and managing events, but lacked the tools needed to track what those events were delivering for the companies.</u></i><span style=\"font-size:12.0pt\"></span></u></i></span></span></span></p>\n"
+          },
+          "max_length": 50,
+          "validation": {
+            "max_score": 1
+          }
+        },
+        "metadata": {
+          "name": "Essay with plain text",
+          "template_reference": "0f559437-5072-475e-830d-1fa9d2f6bb0d"
+        }
+      },
+      "feedbackInfo": [
+        {
+          "id": "0707_cbb6edb1-33c4-4643-8e6d-20f56306dc6f_3eee8124-cddf-4346-894f-8d4a1bc6d53e_469f64aeea7548761263dd4ef5beef4d",
+          "user_id": "cbb6edb1-33c4-4643-8e6d-20f56306dc6f",
+          "response_id": "3eee8124-cddf-4346-894f-8d4a1bc6d53e_469f64aeea7548761263dd4ef5beef4d",
+          "type": "longtextV2",
+          "question": {
+            "type": "longtextV2",
+            "metadata": {
+              "source": {
+                "organisation_id": 755
+              },
+              "sheet_reference": "default_feedback",
+              "widget_reference": "de082b5f-742a-4ecf-82ca-4dc86e218fec",
+              "valid_response_count": 0
+            },
+            "stimulus": "Written feedback:",
+            "response_id": "3eee8124-cddf-4346-894f-8d4a1bc6d53e_469f64aeea7548761263dd4ef5beef4d",
+            "show_word_count": false,
+            "show_word_limit": "off"
+          },
+          "response": null,
+          "creation_date": "2021-12-09 12:29:49",
+          "mod_date": "2021-12-09 12:34:58",
+          "persist_until": "2024-12-08 12:29:49",
+          "saved": true
+        },
+        null
+      ]
+    },
+    {
+      "response_id": "3eee8124-cddf-4346-894f-8d4a1bc6d53e_f39c195de1b4c4bc0887b9241f7a7e0b",
+      "question_type": "mcq",
+      "dt_score_updated": "2021-12-08T10:43:17Z",
+      "automarkable": true,
+      "attempted": true,
+      "score": 1,
+      "max_score": 1,
+      "question_reference": "98b6af18-d269-420a-bd87-849a8a136164",
+      "item_reference": "813bc81a-feb7-4705-ae54-aad06ac5815e",
+      "response": {
+        "value": [
+          "1"
+        ],
+        "type": "array",
+        "apiVersion": "v2.168.13",
+        "revision": 2
+      },
+      "questionInfo": {
+        "type": "mcq",
+        "widget_type": "response",
+        "reference": "98b6af18-d269-420a-bd87-849a8a136164",
+        "data": {
+          "options": [
+            {
+              "label": "True",
+              "value": "0"
+            },
+            {
+              "label": "False",
+              "value": "1"
+            }
+          ],
+          "stimulus": "<p>&nbsp;</p>\n\n<p><img height=\"64\" src=\"https://assets.learnosity.com/organisations/755/e36e3072-53e7-40cd-bc0e-52e5a12570ef.png\" width=\"993\"></p>\n",
+          "type": "mcq",
+          "ui_style": {
+            "type": "horizontal"
+          },
+          "validation": {
+            "scoring_type": "exactMatch",
+            "valid_response": {
+              "score": 1,
+              "value": [
+                "1"
+              ]
+            }
+          }
+        },
+        "metadata": {
+          "name": "True or false",
+          "template_reference": "3egs0b24-5gs8-49fc-fds9-4a450sdg31ca"
+        }
+      },
+      "feedbackInfo": [
+        {
+          "id": "0707_cbb6edb1-33c4-4643-8e6d-20f56306dc6f_3eee8124-cddf-4346-894f-8d4a1bc6d53e_273db26e20cb63e18485aba8596c7393",
+          "user_id": "cbb6edb1-33c4-4643-8e6d-20f56306dc6f",
+          "response_id": "3eee8124-cddf-4346-894f-8d4a1bc6d53e_273db26e20cb63e18485aba8596c7393",
+          "type": "longtextV2",
+          "question": {
+            "type": "longtextV2",
+            "metadata": {
+              "source": {
+                "organisation_id": 755
+              },
+              "sheet_reference": "default_feedback",
+              "widget_reference": "de082b5f-742a-4ecf-82ca-4dc86e218fec",
+              "valid_response_count": 0
+            },
+            "stimulus": "Written feedback:",
+            "response_id": "3eee8124-cddf-4346-894f-8d4a1bc6d53e_273db26e20cb63e18485aba8596c7393",
+            "show_word_count": false,
+            "show_word_limit": "off"
+          },
+          "response": null,
+          "creation_date": "2021-12-09 12:29:49",
+          "mod_date": "2021-12-09 12:34:58",
+          "persist_until": "2024-12-08 12:29:49",
+          "saved": true
+        },
+        null
+      ]
+    },
+    {
+      "response_id": "3eee8124-cddf-4346-894f-8d4a1bc6d53e_81a20ac4179d29ea41911612bd9ba726",
+      "question_type": "plaintext",
+      "dt_score_updated": "2021-12-09T13:06:43Z",
+      "automarkable": false,
+      "attempted": true,
+      "score": 1,
+      "max_score": 1,
+      "question_reference": "75b1f666-70bd-4a58-884e-9b6fe86d8835",
+      "item_reference": "813bc81a-feb7-4705-ae54-aad06ac5815e",
+      "response": {
+        "value": "the author  predicts expending their event budgets ",
+        "wordCount": 7,
+        "type": "string",
+        "apiVersion": "v2.168.13",
+        "revision": 5
+      },
+      "manual_score": null,
+      "max_manual_score": null,
+      "questionInfo": {
+        "type": "plaintext",
+        "widget_type": "response",
+        "reference": "75b1f666-70bd-4a58-884e-9b6fe86d8835",
+        "data": {
+          "stimulus": "<span style=\"color:#0000ff;\"><span style=\"font-size:1.3em;\"><strong>1.4.1. Justify your answer with a sentence from text B.</strong></span></span>",
+          "spellcheck": true,
+          "type": "plaintext",
+          "metadata": {
+            "sample_answer": "<h3 id=\"yui_3_17_2_1_1637678075567_1892\"><i><u><i><u>it seems inevitable that more organizations will join them.</u></i></u></i></h3>\n\n<p>&nbsp;</p>\n\n<p>&nbsp;</p>\n\n<h4><i><u>&nbsp;but are also more confidently expanding their event budgets for event marketing.</u></i></h4>\n"
+          },
+          "max_length": 50,
+          "validation": {
+            "max_score": 1
+          }
+        },
+        "metadata": {
+          "name": "Essay with plain text",
+          "template_reference": "0f559437-5072-475e-830d-1fa9d2f6bb0d"
+        }
+      },
+      "feedbackInfo": [
+        {
+          "id": "0707_cbb6edb1-33c4-4643-8e6d-20f56306dc6f_3eee8124-cddf-4346-894f-8d4a1bc6d53e_66b02ecf6e2a747ddfd26b6151efeb31",
+          "user_id": "cbb6edb1-33c4-4643-8e6d-20f56306dc6f",
+          "response_id": "3eee8124-cddf-4346-894f-8d4a1bc6d53e_66b02ecf6e2a747ddfd26b6151efeb31",
+          "type": "longtextV2",
+          "question": {
+            "type": "longtextV2",
+            "metadata": {
+              "source": {
+                "organisation_id": 755
+              },
+              "sheet_reference": "default_feedback",
+              "widget_reference": "de082b5f-742a-4ecf-82ca-4dc86e218fec",
+              "valid_response_count": 0
+            },
+            "stimulus": "Written feedback:",
+            "response_id": "3eee8124-cddf-4346-894f-8d4a1bc6d53e_66b02ecf6e2a747ddfd26b6151efeb31",
+            "show_word_count": false,
+            "show_word_limit": "off"
+          },
+          "response": null,
+          "creation_date": "2021-12-09 12:29:50",
+          "mod_date": "2021-12-09 12:34:59",
+          "persist_until": "2024-12-08 12:29:50",
+          "saved": true
+        },
+        null
+      ]
+    },
+    {
+      "response_id": "3eee8124-cddf-4346-894f-8d4a1bc6d53e_63c5a422547487521614204ae24de56e",
+      "question_type": "mcq",
+      "dt_score_updated": "2021-12-08T10:12:13Z",
+      "automarkable": true,
+      "attempted": true,
+      "score": 0,
+      "max_score": 1,
+      "question_reference": "0ef5f011-9270-492b-bf42-ccf1d51e792a",
+      "item_reference": "813bc81a-feb7-4705-ae54-aad06ac5815e",
+      "response": {
+        "value": [
+          "2"
+        ],
+        "type": "array",
+        "apiVersion": "v2.168.13",
+        "revision": 2
+      },
+      "questionInfo": {
+        "type": "mcq",
+        "widget_type": "response",
+        "reference": "0ef5f011-9270-492b-bf42-ccf1d51e792a",
+        "data": {
+          "options": [
+            {
+              "label": "Record",
+              "value": "0"
+            },
+            {
+              "label": "Achieve",
+              "value": "1"
+            },
+            {
+              "label": "Organise",
+              "value": "2"
+            },
+            {
+              "label": "Advertise",
+              "value": "3"
+            }
+          ],
+          "stimulus": "<h2><span style=\"color:#0000ff;\"></span></h2>\n\n<p>&nbsp;</p>\n\n<p>&nbsp;</p>\n\n<h2><span style=\"color:#0000ff;\"><b>Task 2&nbsp;– Vocabulary</b></span></h2>\n\n<h3 style=\"margin-left: 40px;\"><b>Match the&nbsp;<u>underlined</u>&nbsp;words from text B to the&nbsp;correct synonym: a, b, c, or d.</b></h3>\n\n<p>&nbsp;</p>\n\n<h2><span style=\"color:#0000ff;\"></span><img height=\"61\" src=\"https://assets.learnosity.com/organisations/755/a412eaec-9b31-4c87-a716-289082885328.png\" width=\"1004\"></h2>\n",
+          "type": "mcq",
+          "validation": {
+            "scoring_type": "exactMatch",
+            "valid_response": {
+              "score": 1,
+              "value": [
+                "0"
+              ]
+            }
+          },
+          "ui_style": {
+            "type": "horizontal"
+          }
+        },
+        "metadata": {
+          "name": "Multiple choice – standard",
+          "template_reference": "9e8149bd-e4d8-4dd6-a751-1a113a4b9163"
+        }
+      },
+      "feedbackInfo": [
+        {
+          "id": "0707_cbb6edb1-33c4-4643-8e6d-20f56306dc6f_3eee8124-cddf-4346-894f-8d4a1bc6d53e_aa0c699be8a769fdc6bac248de94cba9",
+          "user_id": "cbb6edb1-33c4-4643-8e6d-20f56306dc6f",
+          "response_id": "3eee8124-cddf-4346-894f-8d4a1bc6d53e_aa0c699be8a769fdc6bac248de94cba9",
+          "type": "longtextV2",
+          "question": {
+            "type": "longtextV2",
+            "metadata": {
+              "source": {
+                "organisation_id": 755
+              },
+              "sheet_reference": "default_feedback",
+              "widget_reference": "de082b5f-742a-4ecf-82ca-4dc86e218fec",
+              "valid_response_count": 0
+            },
+            "stimulus": "Written feedback:",
+            "response_id": "3eee8124-cddf-4346-894f-8d4a1bc6d53e_aa0c699be8a769fdc6bac248de94cba9",
+            "show_word_count": false,
+            "show_word_limit": "off"
+          },
+          "response": null,
+          "creation_date": "2021-12-09 12:29:50",
+          "mod_date": "2021-12-09 12:34:59",
+          "persist_until": "2024-12-08 12:29:50",
+          "saved": true
+        },
+        null
+      ]
+    },
+    {
+      "response_id": "3eee8124-cddf-4346-894f-8d4a1bc6d53e_019c78421ebadbd23137982259326473",
+      "question_type": "mcq",
+      "dt_score_updated": "2021-12-08T10:11:53Z",
+      "automarkable": true,
+      "attempted": true,
+      "score": 0,
+      "max_score": 1,
+      "question_reference": "534af7b4-7aaf-4184-8bc9-724552a5a8f9",
+      "item_reference": "813bc81a-feb7-4705-ae54-aad06ac5815e",
+      "response": {
+        "value": [
+          "0"
+        ],
+        "type": "array",
+        "apiVersion": "v2.168.13",
+        "revision": 1
+      },
+      "questionInfo": {
+        "type": "mcq",
+        "widget_type": "response",
+        "reference": "534af7b4-7aaf-4184-8bc9-724552a5a8f9",
+        "data": {
+          "options": [
+            {
+              "label": "Causes",
+              "value": "0"
+            },
+            {
+              "label": "Consequences",
+              "value": "1"
+            },
+            {
+              "label": "Intentions&nbsp;",
+              "value": "2"
+            },
+            {
+              "label": "Reasons",
+              "value": "3"
+            }
+          ],
+          "stimulus": "<img height=\"60\" src=\"https://assets.learnosity.com/organisations/755/a55f1b5c-870b-46c3-b2ff-cd31f38baa2b.png\" width=\"1000\">",
+          "type": "mcq",
+          "validation": {
+            "scoring_type": "exactMatch",
+            "valid_response": {
+              "score": 1,
+              "value": [
+                "1"
+              ]
+            }
+          },
+          "ui_style": {
+            "type": "horizontal"
+          }
+        },
+        "metadata": {
+          "name": "Multiple choice – standard",
+          "template_reference": "9e8149bd-e4d8-4dd6-a751-1a113a4b9163"
+        }
+      },
+      "feedbackInfo": [
+        {
+          "id": "0707_cbb6edb1-33c4-4643-8e6d-20f56306dc6f_3eee8124-cddf-4346-894f-8d4a1bc6d53e_fc0adb63813f5f9189630ec44945aa91",
+          "user_id": "cbb6edb1-33c4-4643-8e6d-20f56306dc6f",
+          "response_id": "3eee8124-cddf-4346-894f-8d4a1bc6d53e_fc0adb63813f5f9189630ec44945aa91",
+          "type": "longtextV2",
+          "question": {
+            "type": "longtextV2",
+            "metadata": {
+              "source": {
+                "organisation_id": 755
+              },
+              "sheet_reference": "default_feedback",
+              "widget_reference": "de082b5f-742a-4ecf-82ca-4dc86e218fec",
+              "valid_response_count": 0
+            },
+            "stimulus": "Written feedback:",
+            "response_id": "3eee8124-cddf-4346-894f-8d4a1bc6d53e_fc0adb63813f5f9189630ec44945aa91",
+            "show_word_count": false,
+            "show_word_limit": "off"
+          },
+          "response": null,
+          "creation_date": "2021-12-09 12:29:50",
+          "mod_date": "2021-12-09 12:35:00",
+          "persist_until": "2024-12-08 12:29:50",
+          "saved": true
+        },
+        null
+      ]
+    },
+    {
+      "response_id": "3eee8124-cddf-4346-894f-8d4a1bc6d53e_a861d99afb5d1c5f2848177c43e909ad",
+      "question_type": "mcq",
+      "dt_score_updated": "2021-12-08T10:10:27Z",
+      "automarkable": true,
+      "attempted": true,
+      "score": 1,
+      "max_score": 1,
+      "question_reference": "ef03bc3b-345f-4602-b682-ab58ec8c1d97",
+      "item_reference": "813bc81a-feb7-4705-ae54-aad06ac5815e",
+      "response": {
+        "value": [
+          "3"
+        ],
+        "type": "array",
+        "apiVersion": "v2.168.13",
+        "revision": 1
+      },
+      "questionInfo": {
+        "type": "mcq",
+        "widget_type": "response",
+        "reference": "ef03bc3b-345f-4602-b682-ab58ec8c1d97",
+        "data": {
+          "options": [
+            {
+              "label": "System",
+              "value": "0"
+            },
+            {
+              "label": "Method",
+              "value": "1"
+            },
+            {
+              "label": "Strategy",
+              "value": "2"
+            },
+            {
+              "label": "Part",
+              "value": "3"
+            }
+          ],
+          "stimulus": "<img height=\"60\" src=\"https://assets.learnosity.com/organisations/755/944f5fdc-b101-4cab-b9b1-087af543784b.png\" width=\"1002\">",
+          "type": "mcq",
+          "validation": {
+            "scoring_type": "exactMatch",
+            "valid_response": {
+              "score": 1,
+              "value": [
+                "3"
+              ]
+            }
+          },
+          "ui_style": {
+            "type": "horizontal"
+          }
+        },
+        "metadata": {
+          "name": "Multiple choice – standard",
+          "template_reference": "9e8149bd-e4d8-4dd6-a751-1a113a4b9163"
+        }
+      },
+      "feedbackInfo": [
+        {
+          "id": "0707_cbb6edb1-33c4-4643-8e6d-20f56306dc6f_3eee8124-cddf-4346-894f-8d4a1bc6d53e_d42d590659bb73ea9e49e12bb8e75aca",
+          "user_id": "cbb6edb1-33c4-4643-8e6d-20f56306dc6f",
+          "response_id": "3eee8124-cddf-4346-894f-8d4a1bc6d53e_d42d590659bb73ea9e49e12bb8e75aca",
+          "type": "longtextV2",
+          "question": {
+            "type": "longtextV2",
+            "metadata": {
+              "source": {
+                "organisation_id": 755
+              },
+              "sheet_reference": "default_feedback",
+              "widget_reference": "de082b5f-742a-4ecf-82ca-4dc86e218fec",
+              "valid_response_count": 0
+            },
+            "stimulus": "Written feedback:",
+            "response_id": "3eee8124-cddf-4346-894f-8d4a1bc6d53e_d42d590659bb73ea9e49e12bb8e75aca",
+            "show_word_count": false,
+            "show_word_limit": "off"
+          },
+          "response": null,
+          "creation_date": "2021-12-09 12:29:51",
+          "mod_date": "2021-12-09 12:35:00",
+          "persist_until": "2024-12-08 12:29:51",
+          "saved": true
+        },
+        null
+      ]
+    },
+    {
+      "response_id": "3eee8124-cddf-4346-894f-8d4a1bc6d53e_c5293597bb0907370439a1671dcc7c82",
+      "question_type": "mcq",
+      "dt_score_updated": "2021-12-08T10:21:34Z",
+      "automarkable": true,
+      "attempted": true,
+      "score": 0,
+      "max_score": 1,
+      "question_reference": "bf999f35-0980-4aba-bd1b-0b336af6c370",
+      "item_reference": "813bc81a-feb7-4705-ae54-aad06ac5815e",
+      "response": {
+        "value": [
+          "3"
+        ],
+        "type": "array",
+        "apiVersion": "v2.168.13",
+        "revision": 2
+      },
+      "questionInfo": {
+        "type": "mcq",
+        "widget_type": "response",
+        "reference": "bf999f35-0980-4aba-bd1b-0b336af6c370",
+        "data": {
+          "options": [
+            {
+              "label": "Dedicating",
+              "value": "0"
+            },
+            {
+              "label": "Removing",
+              "value": "1"
+            },
+            {
+              "label": "Extracting",
+              "value": "2"
+            },
+            {
+              "label": "Promoting",
+              "value": "3"
+            }
+          ],
+          "stimulus": "<img height=\"47\" src=\"https://assets.learnosity.com/organisations/755/3b151c77-58eb-4130-9499-6863d25b63b4.png\" width=\"1000\">",
+          "type": "mcq",
+          "validation": {
+            "scoring_type": "exactMatch",
+            "valid_response": {
+              "score": 1,
+              "value": [
+                "0"
+              ]
+            }
+          },
+          "ui_style": {
+            "type": "horizontal"
+          }
+        },
+        "metadata": {
+          "name": "Multiple choice – standard",
+          "template_reference": "9e8149bd-e4d8-4dd6-a751-1a113a4b9163"
+        }
+      },
+      "feedbackInfo": [
+        {
+          "id": "0707_cbb6edb1-33c4-4643-8e6d-20f56306dc6f_3eee8124-cddf-4346-894f-8d4a1bc6d53e_00b6541fe9a53baedea670481d973af8",
+          "user_id": "cbb6edb1-33c4-4643-8e6d-20f56306dc6f",
+          "response_id": "3eee8124-cddf-4346-894f-8d4a1bc6d53e_00b6541fe9a53baedea670481d973af8",
+          "type": "longtextV2",
+          "question": {
+            "type": "longtextV2",
+            "metadata": {
+              "source": {
+                "organisation_id": 755
+              },
+              "sheet_reference": "default_feedback",
+              "widget_reference": "de082b5f-742a-4ecf-82ca-4dc86e218fec",
+              "valid_response_count": 0
+            },
+            "stimulus": "Written feedback:",
+            "response_id": "3eee8124-cddf-4346-894f-8d4a1bc6d53e_00b6541fe9a53baedea670481d973af8",
+            "show_word_count": false,
+            "show_word_limit": "off"
+          },
+          "response": null,
+          "creation_date": "2021-12-09 12:29:51",
+          "mod_date": "2021-12-09 12:35:00",
+          "persist_until": "2024-12-08 12:29:51",
+          "saved": true
+        },
+        null
+      ]
+    },
+    {
+      "response_id": "3eee8124-cddf-4346-894f-8d4a1bc6d53e_116d956d8ffd89149f2808de9490015c",
+      "question_type": "mcq",
+      "dt_score_updated": "2021-12-08T11:04:21Z",
+      "automarkable": true,
+      "attempted": true,
+      "score": 1,
+      "max_score": 1,
+      "question_reference": "96863e76-53e9-446e-b2bd-b7bc179fa1e8",
+      "item_reference": "813bc81a-feb7-4705-ae54-aad06ac5815e",
+      "response": {
+        "value": [
+          "3"
+        ],
+        "type": "array",
+        "apiVersion": "v2.168.13",
+        "revision": 3
+      },
+      "questionInfo": {
+        "type": "mcq",
+        "widget_type": "response",
+        "reference": "96863e76-53e9-446e-b2bd-b7bc179fa1e8",
+        "data": {
+          "options": [
+            {
+              "label": "Dangerous",
+              "value": "0"
+            },
+            {
+              "label": "Precarious",
+              "value": "1"
+            },
+            {
+              "label": "Unlikely",
+              "value": "2"
+            },
+            {
+              "label": "Certain",
+              "value": "3"
+            }
+          ],
+          "stimulus": "<img height=\"53\" src=\"https://assets.learnosity.com/organisations/755/b88f424b-3fda-4da4-842c-13edeb0b5de0.png\" width=\"1001\">",
+          "type": "mcq",
+          "validation": {
+            "scoring_type": "exactMatch",
+            "valid_response": {
+              "score": 1,
+              "value": [
+                "3"
+              ]
+            }
+          },
+          "ui_style": {
+            "type": "horizontal"
+          }
+        },
+        "metadata": {
+          "name": "Multiple choice – standard",
+          "template_reference": "9e8149bd-e4d8-4dd6-a751-1a113a4b9163"
+        }
+      },
+      "feedbackInfo": [
+        {
+          "id": "0707_cbb6edb1-33c4-4643-8e6d-20f56306dc6f_3eee8124-cddf-4346-894f-8d4a1bc6d53e_3bbf4a846bfc4b6681b6dd9f09f80e2b",
+          "user_id": "cbb6edb1-33c4-4643-8e6d-20f56306dc6f",
+          "response_id": "3eee8124-cddf-4346-894f-8d4a1bc6d53e_3bbf4a846bfc4b6681b6dd9f09f80e2b",
+          "type": "longtextV2",
+          "question": {
+            "type": "longtextV2",
+            "metadata": {
+              "source": {
+                "organisation_id": 755
+              },
+              "sheet_reference": "default_feedback",
+              "widget_reference": "de082b5f-742a-4ecf-82ca-4dc86e218fec",
+              "valid_response_count": 0
+            },
+            "stimulus": "Written feedback:",
+            "response_id": "3eee8124-cddf-4346-894f-8d4a1bc6d53e_3bbf4a846bfc4b6681b6dd9f09f80e2b",
+            "show_word_count": false,
+            "show_word_limit": "off"
+          },
+          "response": null,
+          "creation_date": "2021-12-09 12:29:52",
+          "mod_date": "2021-12-09 12:35:01",
+          "persist_until": "2024-12-08 12:29:52",
+          "saved": true
+        },
+        null
+      ]
+    },
+    {
+      "response_id": "3eee8124-cddf-4346-894f-8d4a1bc6d53e_3b07da4ac21dab7d3fd1f66adc20ddc6",
+      "question_type": "shorttext",
+      "dt_score_updated": "2021-12-09T12:35:01Z",
+      "automarkable": false,
+      "attempted": true,
+      "score": 0,
+      "max_score": 1,
+      "question_reference": "36c33c9e-a267-4a23-ac2b-83be954a7b8d",
+      "item_reference": "813bc81a-feb7-4705-ae54-aad06ac5815e",
+      "response": {
+        "value": "consumer",
+        "characterCount": 8,
+        "type": "string",
+        "apiVersion": "v2.168.13",
+        "revision": 1
+      },
+      "manual_score": null,
+      "max_manual_score": null,
+      "questionInfo": {
+        "type": "shorttext",
+        "widget_type": "response",
+        "reference": "36c33c9e-a267-4a23-ac2b-83be954a7b8d",
+        "data": {
+          "stimulus": "<h2>&nbsp;</h2>\n\n<h2>&nbsp;</h2>\n\n<h2><span style=\"color:#0000ff;\"><b>Task 3&nbsp;– Referring Words</b></span></h2>\n\n<h3 style=\"margin-left: 40px;\"><b>Find the word or phrase in text B which the underlined words below refer to.</b></h3>\n\n<p>&nbsp;</p>\n\n<p><img height=\"53\" src=\"https://assets.learnosity.com/organisations/755/cae16d35-d53c-4ef0-b50e-00beb3ddcd61.png\" width=\"1008\"></p>\n",
+          "type": "shorttext",
+          "validation": {
+            "scoring_type": "exactMatch",
+            "valid_response": {
+              "score": 1,
+              "value": "events",
+              "matching_rule": "contains"
+            },
+            "automarkable": false,
+            "max_score": 1
+          },
+          "metadata": {
+            "sample_answer": "events"
+          }
+        },
+        "metadata": {
+          "name": "Short text",
+          "template_reference": "4fe6c726-419c-4aff-b189-4a9756a0ffda"
+        }
+      },
+      "feedbackInfo": [
+        {
+          "id": "0707_cbb6edb1-33c4-4643-8e6d-20f56306dc6f_3eee8124-cddf-4346-894f-8d4a1bc6d53e_73881cbe3732769664cc486852505dbe",
+          "user_id": "cbb6edb1-33c4-4643-8e6d-20f56306dc6f",
+          "response_id": "3eee8124-cddf-4346-894f-8d4a1bc6d53e_73881cbe3732769664cc486852505dbe",
+          "type": "longtextV2",
+          "question": {
+            "type": "longtextV2",
+            "metadata": {
+              "source": {
+                "organisation_id": 755
+              },
+              "sheet_reference": "default_feedback",
+              "widget_reference": "de082b5f-742a-4ecf-82ca-4dc86e218fec",
+              "valid_response_count": 0
+            },
+            "stimulus": "Written feedback:",
+            "response_id": "3eee8124-cddf-4346-894f-8d4a1bc6d53e_73881cbe3732769664cc486852505dbe",
+            "show_word_count": false,
+            "show_word_limit": "off"
+          },
+          "response": null,
+          "creation_date": "2021-12-09 12:29:52",
+          "mod_date": "2021-12-09 12:35:01",
+          "persist_until": "2024-12-08 12:29:52",
+          "saved": true
+        },
+        null
+      ]
+    },
+    {
+      "response_id": "3eee8124-cddf-4346-894f-8d4a1bc6d53e_cb641b353ab3ac5b39b50b8d3867a556",
+      "question_type": "shorttext",
+      "dt_score_updated": "2021-12-09T12:35:01Z",
+      "automarkable": false,
+      "attempted": true,
+      "score": 0,
+      "max_score": 1,
+      "question_reference": "23004ca1-9868-454f-943a-7cd322983f27",
+      "item_reference": "813bc81a-feb7-4705-ae54-aad06ac5815e",
+      "response": {
+        "value": "corporation",
+        "characterCount": 11,
+        "type": "string",
+        "apiVersion": "v2.168.13",
+        "revision": 2
+      },
+      "manual_score": null,
+      "max_manual_score": null,
+      "questionInfo": {
+        "type": "shorttext",
+        "widget_type": "response",
+        "reference": "23004ca1-9868-454f-943a-7cd322983f27",
+        "data": {
+          "stimulus": "<p>&nbsp;</p>\n\n<p><img height=\"51\" src=\"https://assets.learnosity.com/organisations/755/ce59d47d-b6fd-4ad5-b658-3df53cce8032.png\" width=\"996\"></p>\n",
+          "type": "shorttext",
+          "validation": {
+            "scoring_type": "exactMatch",
+            "valid_response": {
+              "score": 1,
+              "matching_rule": "contains",
+              "value": "Salesforce"
+            },
+            "automarkable": false,
+            "max_score": 1
+          },
+          "metadata": {
+            "sample_answer": "<p style=\"margin-top:8px; margin-bottom:8px; margin-left:8px\"><span style=\"font-size:11pt\"><span style=\"line-height:150%\"><span style=\"font-family:Calibri,sans-serif\"><b><i><span style=\"font-size:12.0pt\"></span></i></b><i><span style=\"font-size:12.0pt\"><span style=\"line-height:150%\">Salesforce </span></span></i></span></span></span></p>\n"
+          }
+        },
+        "metadata": {
+          "name": "Short text",
+          "template_reference": "4fe6c726-419c-4aff-b189-4a9756a0ffda"
+        }
+      },
+      "feedbackInfo": [
+        {
+          "id": "0707_cbb6edb1-33c4-4643-8e6d-20f56306dc6f_3eee8124-cddf-4346-894f-8d4a1bc6d53e_88940862d8332b8b35e6c53cb2c8ca20",
+          "user_id": "cbb6edb1-33c4-4643-8e6d-20f56306dc6f",
+          "response_id": "3eee8124-cddf-4346-894f-8d4a1bc6d53e_88940862d8332b8b35e6c53cb2c8ca20",
+          "type": "longtextV2",
+          "question": {
+            "type": "longtextV2",
+            "metadata": {
+              "source": {
+                "organisation_id": 755
+              },
+              "sheet_reference": "default_feedback",
+              "widget_reference": "de082b5f-742a-4ecf-82ca-4dc86e218fec",
+              "valid_response_count": 0
+            },
+            "stimulus": "Written feedback:",
+            "response_id": "3eee8124-cddf-4346-894f-8d4a1bc6d53e_88940862d8332b8b35e6c53cb2c8ca20",
+            "show_word_count": false,
+            "show_word_limit": "off"
+          },
+          "response": null,
+          "creation_date": "2021-12-09 12:29:52",
+          "mod_date": "2021-12-09 12:35:02",
+          "persist_until": "2024-12-08 12:29:52",
+          "saved": true
+        },
+        null
+      ]
+    },
+    {
+      "response_id": "3eee8124-cddf-4346-894f-8d4a1bc6d53e_964b2420d801a755f7ec19a9e91e3c72",
+      "question_type": "shorttext",
+      "dt_score_updated": "2021-12-09T12:35:01Z",
+      "automarkable": false,
+      "attempted": true,
+      "score": 0,
+      "max_score": 1,
+      "question_reference": "efd9997d-9c59-44c3-b638-752c375278f8",
+      "item_reference": "813bc81a-feb7-4705-ae54-aad06ac5815e",
+      "response": {
+        "value": "harvard",
+        "characterCount": 7,
+        "type": "string",
+        "apiVersion": "v2.168.13",
+        "revision": 3
+      },
+      "manual_score": null,
+      "max_manual_score": null,
+      "questionInfo": {
+        "type": "shorttext",
+        "widget_type": "response",
+        "reference": "efd9997d-9c59-44c3-b638-752c375278f8",
+        "data": {
+          "stimulus": "<p>&nbsp;</p>\n\n<p><img height=\"50\" src=\"https://assets.learnosity.com/organisations/755/66bcde3e-5f97-47d8-b8ec-621b3d9fc3c0.png\" width=\"991\"></p>\n",
+          "type": "shorttext",
+          "validation": {
+            "scoring_type": "exactMatch",
+            "valid_response": {
+              "score": 1,
+              "matching_rule": "contains",
+              "value": "hosting events"
+            },
+            "automarkable": false,
+            "max_score": 1
+          },
+          "metadata": {
+            "sample_answer": "<p style=\"margin-top:8px; margin-bottom:8px; margin-left:8px\"><span style=\"font-size:11pt\"><span style=\"line-height:150%\"><span style=\"font-family:Calibri,sans-serif\"><b><i><span style=\"font-size:12.0pt\"></span></i></b><i><span style=\"font-size:12.0pt\"><span style=\"line-height:150%\">hosting events </span></span></i></span></span></span></p>\n"
+          }
+        },
+        "metadata": {
+          "name": "Short text",
+          "template_reference": "4fe6c726-419c-4aff-b189-4a9756a0ffda"
+        }
+      },
+      "feedbackInfo": [
+        {
+          "id": "0707_cbb6edb1-33c4-4643-8e6d-20f56306dc6f_3eee8124-cddf-4346-894f-8d4a1bc6d53e_879e8b3fa4afb89017536a5eb1b92269",
+          "user_id": "cbb6edb1-33c4-4643-8e6d-20f56306dc6f",
+          "response_id": "3eee8124-cddf-4346-894f-8d4a1bc6d53e_879e8b3fa4afb89017536a5eb1b92269",
+          "type": "longtextV2",
+          "question": {
+            "type": "longtextV2",
+            "metadata": {
+              "source": {
+                "organisation_id": 755
+              },
+              "sheet_reference": "default_feedback",
+              "widget_reference": "de082b5f-742a-4ecf-82ca-4dc86e218fec",
+              "valid_response_count": 0
+            },
+            "stimulus": "Written feedback:",
+            "response_id": "3eee8124-cddf-4346-894f-8d4a1bc6d53e_879e8b3fa4afb89017536a5eb1b92269",
+            "show_word_count": false,
+            "show_word_limit": "off"
+          },
+          "response": null,
+          "creation_date": "2021-12-09 12:29:53",
+          "mod_date": "2021-12-09 12:35:02",
+          "persist_until": "2024-12-08 12:29:53",
+          "saved": true
+        },
+        null
+      ]
+    },
+    {
+      "response_id": "3eee8124-cddf-4346-894f-8d4a1bc6d53e_9b90980dec7cb690bf9fd730cd0599b1",
+      "question_type": "shorttext",
+      "dt_score_updated": "2021-12-09T12:35:02Z",
+      "automarkable": false,
+      "attempted": true,
+      "score": 0,
+      "max_score": 1,
+      "question_reference": "8b89f983-8e8c-49f8-b105-476fbea3812f",
+      "item_reference": "813bc81a-feb7-4705-ae54-aad06ac5815e",
+      "response": {
+        "value": "event market software",
+        "characterCount": 21,
+        "type": "string",
+        "apiVersion": "v2.168.13",
+        "revision": 1
+      },
+      "manual_score": null,
+      "max_manual_score": null,
+      "questionInfo": {
+        "type": "shorttext",
+        "widget_type": "response",
+        "reference": "8b89f983-8e8c-49f8-b105-476fbea3812f",
+        "data": {
+          "stimulus": "<p>&nbsp;</p>\n\n<p><img height=\"52\" src=\"https://assets.learnosity.com/organisations/755/83a2fd51-fe9e-44da-b84b-6873acb962bb.png\" width=\"991\"></p>\n",
+          "type": "shorttext",
+          "validation": {
+            "scoring_type": "exactMatch",
+            "valid_response": {
+              "score": 1,
+              "matching_rule": "contains",
+              "value": "new generation event marketing software"
+            },
+            "automarkable": false,
+            "max_score": 1
+          },
+          "max_length": 100,
+          "metadata": {
+            "sample_answer": "<p style=\"margin-top:8px; margin-bottom:8px; margin-left:8px; text-align:justify\"><span style=\"font-size:11pt\"><span style=\"line-height:150%\"><span style=\"font-family:Calibri,sans-serif\"><b><i><span style=\"font-size:12.0pt\"></span></i></b><i><span style=\"font-size:12.0pt\"><span style=\"line-height:150%\">new generation event marketing software (NOT event marketing software)</span></span></i></span></span></span></p>\n"
+          }
+        },
+        "metadata": {
+          "name": "Short text",
+          "template_reference": "4fe6c726-419c-4aff-b189-4a9756a0ffda"
+        }
+      },
+      "feedbackInfo": [
+        {
+          "id": "0707_cbb6edb1-33c4-4643-8e6d-20f56306dc6f_3eee8124-cddf-4346-894f-8d4a1bc6d53e_34f5e8f0ff7a7ea9dfe321b9ddb7a89b",
+          "user_id": "cbb6edb1-33c4-4643-8e6d-20f56306dc6f",
+          "response_id": "3eee8124-cddf-4346-894f-8d4a1bc6d53e_34f5e8f0ff7a7ea9dfe321b9ddb7a89b",
+          "type": "longtextV2",
+          "question": {
+            "type": "longtextV2",
+            "metadata": {
+              "source": {
+                "organisation_id": 755
+              },
+              "sheet_reference": "default_feedback",
+              "widget_reference": "de082b5f-742a-4ecf-82ca-4dc86e218fec",
+              "valid_response_count": 0
+            },
+            "stimulus": "Written feedback:",
+            "response_id": "3eee8124-cddf-4346-894f-8d4a1bc6d53e_34f5e8f0ff7a7ea9dfe321b9ddb7a89b",
+            "show_word_count": false,
+            "show_word_limit": "off"
+          },
+          "response": null,
+          "creation_date": "2021-12-09 12:29:53",
+          "mod_date": "2021-12-09 12:35:03",
+          "persist_until": "2024-12-08 12:29:53",
+          "saved": true
+        },
+        null
+      ]
+    },
+    {
+      "response_id": "3eee8124-cddf-4346-894f-8d4a1bc6d53e_ef676def9aae1f22b5a827473fc47825",
+      "question_type": "shorttext",
+      "dt_score_updated": "2021-12-09T12:35:02Z",
+      "automarkable": false,
+      "attempted": true,
+      "score": 0,
+      "max_score": 1,
+      "question_reference": "e9fc7ec7-5962-4365-a113-cb3b4b6fa794",
+      "item_reference": "813bc81a-feb7-4705-ae54-aad06ac5815e",
+      "response": {
+        "value": "companies",
+        "characterCount": 9,
+        "type": "string",
+        "apiVersion": "v2.168.13",
+        "revision": 1
+      },
+      "manual_score": null,
+      "max_manual_score": null,
+      "questionInfo": {
+        "type": "shorttext",
+        "widget_type": "response",
+        "reference": "e9fc7ec7-5962-4365-a113-cb3b4b6fa794",
+        "data": {
+          "stimulus": "<p>&nbsp;</p>\n\n<p><img height=\"40\" src=\"https://assets.learnosity.com/organisations/755/0f5f4d16-5079-491b-ba79-242ce0ac2daa.png\" width=\"1001\"></p>\n",
+          "type": "shorttext",
+          "validation": {
+            "scoring_type": "exactMatch",
+            "valid_response": {
+              "score": 1,
+              "matching_rule": "contains",
+              "value": "early adopters of this technology"
+            },
+            "automarkable": false,
+            "max_score": 1
+          },
+          "metadata": {
+            "sample_answer": "<p style=\"margin-top:8px; margin-bottom:8px; margin-left:8px; text-align:justify\"><span style=\"font-size:11pt\"><span style=\"line-height:150%\"><span style=\"font-family:Calibri,sans-serif\"><b><i><span style=\"font-size:12.0pt\"></span></i></b><i><span style=\"font-size:12.0pt\"><span style=\"line-height:150%\">early adopters [of this technology] (NOT largest tech companies)</span></span></i></span></span></span></p>\n"
+          }
+        },
+        "metadata": {
+          "name": "Short text",
+          "template_reference": "4fe6c726-419c-4aff-b189-4a9756a0ffda"
+        }
+      },
+      "feedbackInfo": [
+        {
+          "id": "0707_cbb6edb1-33c4-4643-8e6d-20f56306dc6f_3eee8124-cddf-4346-894f-8d4a1bc6d53e_946aad6ff9db231525a0c00539cdeba2",
+          "user_id": "cbb6edb1-33c4-4643-8e6d-20f56306dc6f",
+          "response_id": "3eee8124-cddf-4346-894f-8d4a1bc6d53e_946aad6ff9db231525a0c00539cdeba2",
+          "type": "longtextV2",
+          "question": {
+            "type": "longtextV2",
+            "metadata": {
+              "source": {
+                "organisation_id": 755
+              },
+              "sheet_reference": "default_feedback",
+              "widget_reference": "de082b5f-742a-4ecf-82ca-4dc86e218fec",
+              "valid_response_count": 0
+            },
+            "stimulus": "Written feedback:",
+            "response_id": "3eee8124-cddf-4346-894f-8d4a1bc6d53e_946aad6ff9db231525a0c00539cdeba2",
+            "show_word_count": false,
+            "show_word_limit": "off"
+          },
+          "response": null,
+          "creation_date": "2021-12-09 12:29:54",
+          "mod_date": "2021-12-09 12:35:03",
+          "persist_until": "2024-12-08 12:29:54",
+          "saved": true
+        },
+        null
+      ]
+    }
+  ]
+}

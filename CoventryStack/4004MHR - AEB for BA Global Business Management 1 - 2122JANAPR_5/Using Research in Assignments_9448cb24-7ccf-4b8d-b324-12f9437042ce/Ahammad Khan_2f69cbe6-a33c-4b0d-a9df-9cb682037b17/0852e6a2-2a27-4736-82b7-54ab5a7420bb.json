@@ -1,0 +1,301 @@
+{
+  "userId": "2f69cbe6-a33c-4b0d-a9df-9cb682037b17",
+  "firstName": "Ahammad Khan",
+  "lastName": "Jafarkhan",
+  "assigmentId": "9448cb24-7ccf-4b8d-b324-12f9437042ce",
+  "assigmentName": "Using Research in Assignments",
+  "sessionId": "0852e6a2-2a27-4736-82b7-54ab5a7420bb",
+  "email": "jafarkhana@coventry.ac.uk",
+  "spaceId": "5fe1bafe-2b28-4ea7-aac5-d82115d4cf7f",
+  "spaceName": "4004MHR - AEB for BA Global Business Management 1 - 2122JANAPR",
+  "score": 0,
+  "max_score": 3,
+  "questions": [
+    {
+      "response_id": "0852e6a2-2a27-4736-82b7-54ab5a7420bb_8a93647a0c7e8ff4002e2fbed3713618",
+      "question_type": "mcq",
+      "dt_score_updated": "2022-03-14T11:33:10Z",
+      "automarkable": true,
+      "attempted": true,
+      "score": 0,
+      "max_score": 1,
+      "question_reference": "daab28f9-7d93-484f-95f2-f8dc5f436405",
+      "item_reference": "9a48b3dd-8806-4771-9daf-f1e5547d16bd",
+      "response": {
+        "value": [
+          "5",
+          "0"
+        ],
+        "type": "array",
+        "apiVersion": "v2.168.17",
+        "revision": 2
+      },
+      "questionInfo": {
+        "type": "mcq",
+        "widget_type": "response",
+        "reference": "daab28f9-7d93-484f-95f2-f8dc5f436405",
+        "data": {
+          "multiple_responses": true,
+          "options": [
+            {
+              "label": "<span style=\"font-size:1.3em;\">To provide a useful example</span>",
+              "value": "0"
+            },
+            {
+              "label": "<span style=\"font-size:1.3em;\">To replace our own ideas</span>",
+              "value": "1"
+            },
+            {
+              "label": "<span style=\"font-size:1.3em;\">To give an expert opinion</span>",
+              "value": "2"
+            },
+            {
+              "label": "<span style=\"font-size:1.3em;\">To apply theories</span>",
+              "value": "3"
+            },
+            {
+              "label": "<span style=\"font-size:1.3em;\">To provide supporting statistics &amp; data</span>",
+              "value": "4"
+            },
+            {
+              "label": "<span style=\"font-size:1.3em;\">To show results from relevant research</span>",
+              "value": "5"
+            }
+          ],
+          "stimulus": "<p><span style=\"color:#8b4513;\"><span style=\"font-size:1.5em;\"><strong>T</strong><span style=\"font-size:1.3em;\"><img class=\"lrn-image-left\" height=\"86\" src=\"https://assets.learnosity.com/organisations/755/073a82b3-6bec-404f-aa7c-4fd02e2621c0.PNG\" width=\"70\"></span><strong>ASK 1: Why should we&nbsp;use&nbsp;research in our academic assignments?</strong></span></span></p>\n\n<p><span style=\"font-size:1.3em;\"><strong>Choose ALL possible answers</strong></span></p>\n",
+          "type": "mcq",
+          "validation": {
+            "scoring_type": "partialMatchV2",
+            "valid_response": {
+              "score": 1,
+              "value": [
+                "0",
+                "2",
+                "3",
+                "4",
+                "5"
+              ]
+            }
+          },
+          "ui_style": {
+            "type": "horizontal"
+          },
+          "shuffle_options": true,
+          "instant_feedback": true
+        },
+        "metadata": {
+          "name": "Multiple choice – multiple response",
+          "template_reference": "908de244-5c71-4c09-b094-7fb49554f2f9"
+        }
+      },
+      "feedbackInfo": [
+        null,
+        null
+      ]
+    },
+    {
+      "response_id": "0852e6a2-2a27-4736-82b7-54ab5a7420bb_63c7f09964c2ec251142c9a44e1ded1b",
+      "question_type": "association",
+      "dt_score_updated": "2022-03-14T11:34:31Z",
+      "automarkable": true,
+      "attempted": true,
+      "score": 0,
+      "max_score": 1,
+      "question_reference": "20196ac2-10e7-46c0-976f-a8235738275d",
+      "item_reference": "9a48b3dd-8806-4771-9daf-f1e5547d16bd",
+      "response": {
+        "value": [
+          "<span style=\"font-size:1.3em;\">Can you trust the sources and the research, which the author uses to support their theory or opinion?</span>",
+          "<span style=\"font-size:1.3em;\">Does the date of publication effect how relevant the source is to your own argument?</span>",
+          "<span style=\"font-size:1.3em;\">Is the content connected to you what you are writing about? E.g. Is a book on marketing patterns in the US appropriate for your report on marketing in the UK?</span>",
+          "<span style=\"font-size:1.3em;\">Who was the writer writing for? e.g.&nbsp; Academics? Students? The general public? Corporate clients?</span>",
+          "<span style=\"font-size:1.3em;\">Does the writer want to sell you an idea or opinion? Do they have an agenda?</span>",
+          "<span style=\"font-size:1.3em;\">Is the author qualified to write about the topic? Can you trust their opinion or their research?</span>"
+        ],
+        "type": "array",
+        "updatedFormat": true,
+        "apiVersion": "v2.168.17",
+        "revision": 2
+      },
+      "questionInfo": {
+        "type": "association",
+        "widget_type": "response",
+        "reference": "20196ac2-10e7-46c0-976f-a8235738275d",
+        "data": {
+          "possible_responses": [
+            "<span style=\"font-size:1.3em;\">Can you trust the sources and the research, which the author uses to support their theory or opinion?</span>",
+            "<span style=\"font-size:1.3em;\">Who was the writer writing for? e.g.&nbsp; Academics? Students? The general public? Corporate clients?</span>",
+            "<span style=\"font-size:1.3em;\">Does the date of publication effect how relevant the source is to your own argument?</span>",
+            "<span style=\"font-size:1.3em;\">Does the writer want to sell you an idea or opinion? Do they have an agenda?</span>",
+            "<span style=\"font-size:1.3em;\">Is the content connected to you what you are writing about? E.g. Is a book on marketing patterns in the US appropriate for your report on marketing in the UK?</span>",
+            "<span style=\"font-size:1.3em;\">Is the author qualified to write about the topic? Can you trust their opinion or their research?</span>"
+          ],
+          "stimulus": "<p><strong style=\"color: rgb(47, 79, 79); font-size: 1.5em;\">TASK&nbsp;2: Using the REVIEW method to choose appropriate research</strong><span style=\"font-size:1.5em;\"><span style=\"color:#2f4f4f;\"><img class=\"lrn-image-left\" height=\"56\" src=\"https://assets.learnosity.com/organisations/755/87e0a5c8-9a76-462b-970c-9532e88625e3.jpg\" width=\"152\"></span></span></p>\n\n<p><strong><span style=\"font-size:1.3em;\">Match the descriptions to each of the REVIEW criteria</span></strong></p>\n",
+          "stimulus_list": [
+            "<span style=\"font-size:1.3em;\">Relevance</span>",
+            "<span style=\"font-size:1.3em;\">Expertise</span>",
+            "<span style=\"font-size:1.3em;\">Viewpoint</span>",
+            "<span style=\"font-size:1.3em;\">Intended audience</span>",
+            "<span style=\"font-size:1.3em;\">Evidence</span>",
+            "<span style=\"font-size:1.3em;\">When published</span>"
+          ],
+          "type": "association",
+          "validation": {
+            "scoring_type": "partialMatchV2",
+            "valid_response": {
+              "score": 1,
+              "value": [
+                "<span style=\"font-size:1.3em;\">Is the content connected to you what you are writing about? E.g. Is a book on marketing patterns in the US appropriate for your report on marketing in the UK?</span>",
+                "<span style=\"font-size:1.3em;\">Is the author qualified to write about the topic? Can you trust their opinion or their research?</span>",
+                "<span style=\"font-size:1.3em;\">Does the writer want to sell you an idea or opinion? Do they have an agenda?</span>",
+                "<span style=\"font-size:1.3em;\">Who was the writer writing for? e.g.&nbsp; Academics? Students? The general public? Corporate clients?</span>",
+                "<span style=\"font-size:1.3em;\">Can you trust the sources and the research, which the author uses to support their theory or opinion?</span>",
+                "<span style=\"font-size:1.3em;\">Does the date of publication effect how relevant the source is to your own argument?</span>"
+              ]
+            }
+          },
+          "instant_feedback": true
+        },
+        "metadata": {
+          "name": "Match list",
+          "template_reference": "1fa22aac-1f88-47f7-941b-3c77759549e6"
+        }
+      },
+      "feedbackInfo": [
+        null,
+        null
+      ]
+    },
+    {
+      "response_id": "0852e6a2-2a27-4736-82b7-54ab5a7420bb_4897c9aa01d5d16ce7d82902a1d60843",
+      "question_type": "choicematrix",
+      "dt_score_updated": "2022-03-14T11:35:20Z",
+      "automarkable": true,
+      "attempted": true,
+      "score": 0,
+      "max_score": 1,
+      "question_reference": "56eae816-0beb-4016-bb44-1a30eb762dfe",
+      "item_reference": "9a48b3dd-8806-4771-9daf-f1e5547d16bd",
+      "response": {
+        "value": [
+          [
+            2
+          ],
+          [
+            2
+          ],
+          [
+            2
+          ],
+          [
+            1
+          ],
+          [
+            1
+          ],
+          [
+            1
+          ],
+          [
+            2
+          ],
+          [
+            0
+          ],
+          [
+            2
+          ],
+          null
+        ],
+        "type": "array",
+        "apiVersion": "v2.168.17",
+        "revision": 8
+      },
+      "questionInfo": {
+        "type": "choicematrix",
+        "widget_type": "response",
+        "reference": "56eae816-0beb-4016-bb44-1a30eb762dfe",
+        "data": {
+          "options": [
+            "<span style=\"font-size:1.3em;\">Summary</span>",
+            "<span style=\"font-size:1.3em;\">Paraphrase</span>",
+            "<span style=\"font-size:1.3em;\">Quotation</span>"
+          ],
+          "stems": [
+            "<span style=\"font-size:1.3em;\">involves using your own words</span>",
+            "<span style=\"font-size:1.3em;\">involves copying the exact words from a text</span>",
+            "<span style=\"font-size:1.3em;\">puts words in inverted commas \" \"</span>",
+            "<span style=\"font-size:1.3em;\">is much shorter than the original text</span>",
+            "<span style=\"font-size:1.3em;\">is usually only a short piece of text</span>",
+            "<span style=\"font-size:1.3em;\">includes an in-text citation</span>",
+            "<span style=\"font-size:1.3em;\">presents a general overview of ideas and evidence from the original text</span>",
+            "<span style=\"font-size:1.3em;\">accurately presents an idea or piece of information from a text, but in your own words</span>",
+            "<span style=\"font-size:1.3em;\">should only be used if the exact words are important</span>",
+            "<span style=\"font-size:1.3em;\">demonstrate a good understanding of the text</span>"
+          ],
+          "stimulus": "<p><span style=\"color:#4b0082;\"><span style=\"font-size:1.5em;\"><img class=\"lrn-image-left\" height=\"92\" src=\"https://assets.learnosity.com/organisations/755/a3d8ed5a-3189-49b4-933d-744de3d10016.jpg\" style=\"width: 92px; height: 92px;\" width=\"92\"><strong>TASK 3: Quoting, Paraphrasing &amp; Summarising</strong></span></span></p>\n\n<p><span style=\"font-size:1.5em;\"></span><span style=\"font-size:1.3em;\"><strong>Read the description,&nbsp;then complete the grid below by selecting the form by deciding which form (or forms) is being described</strong></span><span style=\"font-size:1.5em;\"><strong>.</strong></span></p>\n\n<p>&nbsp;</p>\n\n<p><span style=\"font-size:1.3em;\">We can use ideas from sources in our assignments by quoting, paraphrasing, or summarising.&nbsp;Quoting is using the exact words and phrases from the source. However, paraphrasing and summarising involve putting ideas in your own words, to demonstrate understanding of the text. Whichever you use, supporting your ideas with referenced sources makes your writing more credible. In order to avoid plagiarism, you need to make sure you do this correctly.</span></p>\n\n<p><span style=\"font-size:1.3em;\"><u><strong>What are the differences?</strong></u></span></p>\n\n<p><span style=\"font-size:1.3em;\"><br>\n<strong>Quoting</strong><br>\ninvolves copying short sentences or passages from the original text word-for-word<br>\nplaces copied wording within “quotation marks”&nbsp;<br>\nincludes an in-text citation&nbsp;using the expected&nbsp;<a href=\"http://writingcenter.uagc.edu/apamlachicago\">formatting style</a>&nbsp;(APA, MLA, etc.)</span><span style=\"font-size:1.3em;\"></span></p>\n\n<p><span style=\"color:#b22222;\"><span style=\"font-size:1.3em;\">e.g. According to Jones (2019, p.124), new businesses need to enter the market \"Tic-Toc smart and Insta-ready\"</span></span></p>\n\n<p><span style=\"font-size:1.3em;\"><br>\n<strong>Paraphrasing</strong><br>\ninvolves putting a section of a text into your own words<br>\nchanges the words and phrasing of the original text, but keeps the original meaning of the text<br>\nincludes an in-text citation using the expected&nbsp;<a href=\"http://writingcenter.uagc.edu/apamlachicago\">formatting style</a>&nbsp;(APA, MLA, etc.)</span></p>\n\n<p><span style=\"color:#a52a2a;\"><span style=\"font-size:1.3em;\">e.g.&nbsp; According to Jones (2019), new businesses need to plan for a strong social media presence&nbsp;when they enter the market.</span></span></p>\n\n<p><span style=\"font-size:1.3em;\"><br>\n<strong>Summarising</strong><br>\ninvolves stating the main ideas and findings of a text into your own words<br>\npresents a general overview, so is usually much shorter than the original text<br>\nincludes an in-text citation using the expected&nbsp;<a href=\"http://writingcenter.uagc.edu/apamlachicago\">formatting style</a>&nbsp;(APA, MLA, etc.)</span></p>\n\n<p><span style=\"font-size:1.3em;\"><span style=\"color:#a52a2a;\">e.g. While Jones (2019)&nbsp;emphasises the importance of embracing new media platforms when&nbsp;developing marketing plans, she&nbsp;argues that a campaign can only be successful if they are combined with more traditional media, such as print and television.</span></span></p>\n",
+          "type": "choicematrix",
+          "ui_style": {
+            "stem_numeration": "upper-alpha",
+            "type": "table",
+            "horizontal_lines": false
+          },
+          "validation": {
+            "scoring_type": "partialMatch",
+            "valid_response": {
+              "score": 1,
+              "value": [
+                [
+                  0,
+                  1
+                ],
+                [
+                  2
+                ],
+                [
+                  2
+                ],
+                [
+                  0
+                ],
+                [
+                  2
+                ],
+                [
+                  0,
+                  1,
+                  2
+                ],
+                [
+                  0
+                ],
+                [
+                  1
+                ],
+                [
+                  2
+                ],
+                [
+                  0,
+                  1,
+                  2
+                ]
+              ]
+            }
+          },
+          "shuffle_options": true,
+          "multiple_responses": true,
+          "instant_feedback": true
+        },
+        "metadata": {
+          "name": "Choice matrix – labels",
+          "template_reference": "9de82e14-802c-4bea-a635-bf9ad0b622fb"
+        }
+      },
+      "feedbackInfo": [
+        null,
+        null
+      ]
+    }
+  ]
+}

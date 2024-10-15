@@ -1,0 +1,470 @@
+{
+  "userId": "e981a3d4-9ed0-4678-a729-45ee5ffc5ba9",
+  "firstName": "Yuchen",
+  "lastName": "Liu",
+  "assigmentId": "75c73933-c3a0-49e6-bfad-eb11fc0989b1",
+  "assigmentName": "Lecture A: GM Foods",
+  "sessionId": "4011c623-2a78-44c0-aebb-0b8692404c58",
+  "email": "liuy310@coventry.ac.uk",
+  "spaceId": "eccb3434-e130-4250-b8cd-8ba714fcec86",
+  "spaceName": "(Community) Presessional English (PSE London)",
+  "score": 15,
+  "max_score": 22,
+  "questions": [
+    {
+      "response_id": "4011c623-2a78-44c0-aebb-0b8692404c58_ed6f3bfe8820825003552cfd426e8105",
+      "question_type": "clozeassociation",
+      "dt_score_updated": "2021-10-14T19:43:37Z",
+      "automarkable": true,
+      "attempted": true,
+      "score": 2,
+      "max_score": 3,
+      "question_reference": "2fa28f18-e924-4a9a-bf7e-618f3e2df30a",
+      "item_reference": "d4c5c3e9-d9e8-482b-9c76-28453d6557df",
+      "response": {
+        "value": [
+          "What is genetic modification?",
+          "The safety of genetically modified food",
+          "General problems of GM technology"
+        ],
+        "type": "array",
+        "apiVersion": "v2.168.11",
+        "revision": 4
+      },
+      "questionInfo": {
+        "type": "clozeassociation",
+        "widget_type": "response",
+        "reference": "2fa28f18-e924-4a9a-bf7e-618f3e2df30a",
+        "data": {
+          "possible_responses": [
+            "The safety of genetic modification technology",
+            "General problems of food business",
+            "What is genetic modification?",
+            "The history of genetic modification",
+            "General problems of GM technology",
+            "The safety of genetically modified food"
+          ],
+          "response_container": {
+            "pointer": "left"
+          },
+          "stimulus": "<h4>&nbsp;</h4>\n\n<h4><span style=\"color:#0000cd;\"><b>QUESTION ONE: LECTURE STRUCTURE</b></span></h4>\n\n<p><span style=\"font-size:1.3em;\"><b>How will the speaker order the three parts of his lecture?&nbsp;</b></span></p>\n\n<p><span style=\"font-size:1.3em;\"><b>Drag THREE of the statements into the correct order.&nbsp;&nbsp;</b><b>You will NOT need three of the statements.</b></span></p>\n",
+          "template": "<p>1.&nbsp;{{response}}</p>\n\n<p>2.&nbsp;{{response}}</p>\n\n<p>3.&nbsp;{{response}}</p>\n",
+          "type": "clozeassociation",
+          "case_sensitive": true,
+          "validation": {
+            "scoring_type": "partialMatchV2",
+            "valid_response": {
+              "score": 3,
+              "value": [
+                "What is genetic modification?",
+                "The safety of genetically modified food",
+                "General problems of food business"
+              ]
+            }
+          }
+        },
+        "metadata": {
+          "name": "Cloze with drag & drop",
+          "template_reference": "51a8c1e7-f34f-4faf-b211-da458e891fcb"
+        }
+      },
+      "feedbackInfo": [
+        null,
+        null
+      ]
+    },
+    {
+      "response_id": "4011c623-2a78-44c0-aebb-0b8692404c58_318d871fb7ada43093ae6d3a6036c219",
+      "question_type": "mcq",
+      "dt_score_updated": "2021-10-14T19:44:42Z",
+      "automarkable": true,
+      "attempted": true,
+      "score": 2,
+      "max_score": 2,
+      "question_reference": "0b6abc12-6e22-4c17-9bb3-89500f48d44c",
+      "item_reference": "d4c5c3e9-d9e8-482b-9c76-28453d6557df",
+      "response": {
+        "value": [
+          "0",
+          "3"
+        ],
+        "type": "array",
+        "apiVersion": "v2.168.11",
+        "revision": 1
+      },
+      "questionInfo": {
+        "type": "mcq",
+        "widget_type": "response",
+        "reference": "0b6abc12-6e22-4c17-9bb3-89500f48d44c",
+        "data": {
+          "multiple_responses": true,
+          "options": [
+            {
+              "label": "People inherit genes from their parents",
+              "value": "0"
+            },
+            {
+              "label": "&nbsp;Genes are also called traits",
+              "value": "1"
+            },
+            {
+              "label": "Height is not genetically determined",
+              "value": "2"
+            },
+            {
+              "label": "&nbsp;Genes are molecules",
+              "value": "3"
+            }
+          ],
+          "stimulus": "<h4>&nbsp;</h4>\n\n<h4 id=\"yui_3_17_2_1_1631542980636_179\"><span style=\"color:#0000cd;\"><b>QUESTION TWO: WHAT IS GM?<span style=\"font-size:1.3em;\"></span></b></span></h4>\n\n<p><span style=\"font-size:1.3em;\"><b><b>Choose&nbsp;</b>TWO correct answers.&nbsp;According to the lecturer…</b></span></p>\n",
+          "type": "mcq",
+          "validation": {
+            "scoring_type": "partialMatchV2",
+            "valid_response": {
+              "score": 2,
+              "value": [
+                "0",
+                "3"
+              ]
+            }
+          },
+          "ui_style": {
+            "type": "horizontal"
+          }
+        },
+        "metadata": {
+          "name": "Multiple choice – multiple response",
+          "template_reference": "908de244-5c71-4c09-b094-7fb49554f2f9"
+        }
+      },
+      "feedbackInfo": [
+        null,
+        null
+      ]
+    },
+    {
+      "response_id": "4011c623-2a78-44c0-aebb-0b8692404c58_3bf8301d292819669226de3e2cacd78b",
+      "question_type": "mcq",
+      "dt_score_updated": "2021-10-14T20:15:54Z",
+      "automarkable": true,
+      "attempted": true,
+      "score": 1,
+      "max_score": 2,
+      "question_reference": "e35a3006-a243-4277-ac73-d84c42c99d1b",
+      "item_reference": "d4c5c3e9-d9e8-482b-9c76-28453d6557df",
+      "response": {
+        "value": [
+          "3",
+          "2"
+        ],
+        "type": "array",
+        "apiVersion": "v2.168.11",
+        "revision": 4
+      },
+      "questionInfo": {
+        "type": "mcq",
+        "widget_type": "response",
+        "reference": "e35a3006-a243-4277-ac73-d84c42c99d1b",
+        "data": {
+          "multiple_responses": true,
+          "options": [
+            {
+              "label": "&nbsp;GM technology is not new",
+              "value": "0"
+            },
+            {
+              "label": "It’s not possible to transfer genes across species",
+              "value": "1"
+            },
+            {
+              "label": "Geneticists can move genes across organisms",
+              "value": "2"
+            },
+            {
+              "label": "Some people are worried about this technology",
+              "value": "3"
+            }
+          ],
+          "stimulus": "<h4>&nbsp;</h4>\n\n<h4 id=\"yui_3_17_2_1_1631543333235_179\"><span style=\"color:#0000cd;\"><b>QUESTION THREE: GM TECHNOLOGY</b></span></h4>\n\n<p><span style=\"font-size:1.3em;\"><b><b>Choose&nbsp;</b>TWO correct answers.&nbsp;</b><b>According to the lecturer…</b></span></p>\n",
+          "type": "mcq",
+          "validation": {
+            "scoring_type": "partialMatchV2",
+            "valid_response": {
+              "score": 2,
+              "value": [
+                "2",
+                "1"
+              ]
+            }
+          },
+          "ui_style": {
+            "type": "horizontal"
+          }
+        },
+        "metadata": {
+          "name": "Multiple choice – multiple response",
+          "template_reference": "908de244-5c71-4c09-b094-7fb49554f2f9"
+        }
+      },
+      "feedbackInfo": [
+        null,
+        null
+      ]
+    },
+    {
+      "response_id": "4011c623-2a78-44c0-aebb-0b8692404c58_2720207dffc752a67ddc94745118715f",
+      "question_type": "mcq",
+      "dt_score_updated": "2021-10-14T20:03:01Z",
+      "automarkable": true,
+      "attempted": true,
+      "score": 2,
+      "max_score": 2,
+      "question_reference": "cfc94724-08b4-4b2b-9d11-2ebecbb5829b",
+      "item_reference": "d4c5c3e9-d9e8-482b-9c76-28453d6557df",
+      "response": {
+        "value": [
+          "2",
+          "1"
+        ],
+        "type": "array",
+        "apiVersion": "v2.168.11",
+        "revision": 1
+      },
+      "questionInfo": {
+        "type": "mcq",
+        "widget_type": "response",
+        "reference": "cfc94724-08b4-4b2b-9d11-2ebecbb5829b",
+        "data": {
+          "multiple_responses": true,
+          "options": [
+            {
+              "label": "Unprocessed food has the same ingredients as cells",
+              "value": "0"
+            },
+            {
+              "label": "Food can be divided into processed and unprocessed food",
+              "value": "1"
+            },
+            {
+              "label": "Processed food usually has colouring and additives&nbsp;",
+              "value": "2"
+            },
+            {
+              "label": "Processed food often has bacteria and toxins",
+              "value": "3"
+            }
+          ],
+          "stimulus": "<h4>&nbsp;</h4>\n\n<h4 id=\"yui_3_17_2_1_1631543568881_179\"><span style=\"color:#0000cd;\"><b>QUESTION FOUR: THE NATURE OF FOOD</b></span></h4>\n\n<p><span style=\"font-size:1.3em;\"><b><b>Choose&nbsp;</b>TWO correct answers. According to the lecturer…</b></span></p>\n",
+          "type": "mcq",
+          "validation": {
+            "scoring_type": "partialMatchV2",
+            "valid_response": {
+              "score": 2,
+              "value": [
+                "1",
+                "2"
+              ]
+            }
+          },
+          "ui_style": {
+            "type": "horizontal"
+          }
+        },
+        "metadata": {
+          "name": "Multiple choice – multiple response",
+          "template_reference": "908de244-5c71-4c09-b094-7fb49554f2f9"
+        }
+      },
+      "feedbackInfo": [
+        null,
+        null
+      ]
+    },
+    {
+      "response_id": "4011c623-2a78-44c0-aebb-0b8692404c58_32c43460cb86040298bddc1df4fdb3d2",
+      "question_type": "clozedropdown",
+      "dt_score_updated": "2021-10-14T20:22:45Z",
+      "automarkable": true,
+      "attempted": true,
+      "score": 4,
+      "max_score": 8,
+      "question_reference": "24bf858a-cf76-46e3-926f-bdc201043ca4",
+      "item_reference": "d4c5c3e9-d9e8-482b-9c76-28453d6557df",
+      "response": {
+        "value": [
+          "True",
+          "False",
+          "Not given",
+          "True",
+          "False",
+          "Not given",
+          "Not given",
+          "True"
+        ],
+        "type": "array",
+        "apiVersion": "v2.168.11",
+        "revision": 11
+      },
+      "questionInfo": {
+        "type": "clozedropdown",
+        "widget_type": "response",
+        "reference": "24bf858a-cf76-46e3-926f-bdc201043ca4",
+        "data": {
+          "possible_responses": [
+            [
+              "True",
+              "False",
+              "Not given"
+            ],
+            [
+              "True",
+              "False",
+              "Not given"
+            ],
+            [
+              "True",
+              "False",
+              "Not given"
+            ],
+            [
+              "True",
+              "False",
+              "Not given"
+            ],
+            [
+              "True",
+              "False",
+              "Not given"
+            ],
+            [
+              "True",
+              "False",
+              "Not given"
+            ],
+            [
+              "True",
+              "False",
+              "Not given"
+            ],
+            [
+              "True",
+              "False",
+              "Not given"
+            ]
+          ],
+          "response_container": {
+            "pointer": "left"
+          },
+          "stimulus": "<h4>&nbsp;</h4>\n\n<h4 id=\"yui_3_17_2_1_1631543796283_200\"><b><span style=\"color:#0000cd;\">QUESTION FIVE: PUBLIC ATTITUDES TO GM </span><span style=\"color:#0000cd;\">FOOD</span></b></h4>\n\n<p><span style=\"font-size:1.3em;\"><b>Choose TRUE, FALSE or NOT GIVEN from the drop-down list.&nbsp;&nbsp;</b></span></p>\n\n<p><span style=\"font-size:1.3em;\"></span></p>\n\n<p><span style=\"font-size:1.3em;\"><b>According to the lecturer…</b></span></p>\n",
+          "template": "<p id=\"yui_3_17_2_1_1631543796283_190\">a)&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;In 1999 America created a new policy.&nbsp;{{response}}</p>\n\n<p>b)&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;In America GM crops and regular crops are separated.&nbsp;{{response}}&nbsp;</p>\n\n<p>c)&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;English people like to have choices.&nbsp;{{response}} &nbsp;</p>\n\n<p>d)&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;In England people don’t trust GM food.&nbsp;{{response}} &nbsp;</p>\n\n<p>e)&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;People protested against GM food because they didn’t want to buy it.&nbsp;{{response}}&nbsp;</p>\n\n<p>f)&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;UK supermarkets decided to separate GM food in their stores.&nbsp;{{response}} &nbsp;</p>\n\n<p>g)&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;People in America are getting diseases from GM food.&nbsp;{{response}}&nbsp;</p>\n\n<p id=\"yui_3_17_2_1_1631543796283_202\">h)&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;People in America can buy GM food in every supermarket.&nbsp;{{response}}&nbsp;</p>\n",
+          "type": "clozedropdown",
+          "case_sensitive": true,
+          "validation": {
+            "scoring_type": "partialMatchV2",
+            "valid_response": {
+              "score": 8,
+              "value": [
+                "True",
+                "False",
+                "True",
+                "True",
+                "Not given",
+                "False",
+                "False",
+                "True"
+              ]
+            }
+          }
+        },
+        "metadata": {
+          "name": "Cloze with drop down",
+          "template_reference": "2fbba51b-e35e-441f-83c7-2662e2e81fa6"
+        }
+      },
+      "feedbackInfo": [
+        null,
+        null
+      ]
+    },
+    {
+      "response_id": "4011c623-2a78-44c0-aebb-0b8692404c58_f296755f5de0ed6e186ea8e061f34b9d",
+      "question_type": "clozedropdown",
+      "dt_score_updated": "2021-10-14T20:26:01Z",
+      "automarkable": true,
+      "attempted": true,
+      "score": 4,
+      "max_score": 5,
+      "question_reference": "158c2870-6501-4318-8662-461e6e7d11d7",
+      "item_reference": "d4c5c3e9-d9e8-482b-9c76-28453d6557df",
+      "response": {
+        "value": [
+          "intrinsic",
+          "intrinsic",
+          "extrinsic",
+          "extrinsic",
+          "intrinsic"
+        ],
+        "type": "array",
+        "apiVersion": "v2.168.11",
+        "revision": 3
+      },
+      "questionInfo": {
+        "type": "clozedropdown",
+        "widget_type": "response",
+        "reference": "158c2870-6501-4318-8662-461e6e7d11d7",
+        "data": {
+          "possible_responses": [
+            [
+              "intrinsic",
+              "extrinsic"
+            ],
+            [
+              "intrinsic",
+              "extrinsic"
+            ],
+            [
+              "intrinsic",
+              "extrinsic"
+            ],
+            [
+              "intrinsic",
+              "extrinsic"
+            ],
+            [
+              "intrinsic",
+              "extrinsic"
+            ]
+          ],
+          "response_container": {
+            "pointer": "left"
+          },
+          "stimulus": "<h4>&nbsp;</h4>\n\n<h4><span style=\"color:#0000cd;\"><b>QUESTION SIX: WIDER ISSUES</b></span></h4>\n\n<p><span style=\"font-size:1.3em;\"><b>According to the lecturer, there are both INTRINSIC and EXTRINSIC objections to GM Food.&nbsp;&nbsp;</b></span></p>\n\n<p><span style=\"font-size:1.3em;\"><b>For each statement, choose the correct type from the drop-down list.</b></span></p>\n",
+          "template": "<p id=\"yui_3_17_2_1_1631544585253_190\">a)&nbsp;&nbsp;&nbsp;&nbsp;GM is dangerous for the environment.&nbsp;{{response}}</p>\n\n<p>b)&nbsp;&nbsp;&nbsp;&nbsp;You shouldn’t change the way things are created.&nbsp;&nbsp;{{response}}</p>\n\n<p>c)&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Monopoly from companies.&nbsp;&nbsp;{{response}}</p>\n\n<p>d)&nbsp;&nbsp;&nbsp;&nbsp;Consumers have no choice.&nbsp;{{response}}&nbsp;</p>\n\n<p>e)&nbsp;&nbsp;&nbsp;&nbsp;People don’t trust the views of the scientists.&nbsp;{{response}}</p>\n",
+          "type": "clozedropdown",
+          "case_sensitive": true,
+          "validation": {
+            "scoring_type": "partialMatchV2",
+            "valid_response": {
+              "score": 5,
+              "value": [
+                "extrinsic",
+                "intrinsic",
+                "extrinsic",
+                "extrinsic",
+                "intrinsic"
+              ]
+            }
+          }
+        },
+        "metadata": {
+          "name": "Cloze with drop down",
+          "template_reference": "2fbba51b-e35e-441f-83c7-2662e2e81fa6"
+        }
+      },
+      "feedbackInfo": [
+        null,
+        null
+      ]
+    }
+  ]
+}

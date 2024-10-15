@@ -1,0 +1,506 @@
+{
+  "userId": "11b2f89d-de80-4037-b172-3a1b86867416",
+  "firstName": "Hefei",
+  "lastName": "Wu",
+  "assigmentId": "be0a72d7-56b1-4ad0-bb59-76681004c314",
+  "assigmentName": "Developing a Framework for Internationalisation",
+  "sessionId": "29d2a56f-9aee-4d17-8aad-3866b1dd2943",
+  "email": "wuh64@coventry.ac.uk",
+  "spaceId": "eccb3434-e130-4250-b8cd-8ba714fcec86",
+  "spaceName": "(Community) Presessional English (PSE London)",
+  "score": 25,
+  "max_score": 27,
+  "questions": [
+    {
+      "response_id": "29d2a56f-9aee-4d17-8aad-3866b1dd2943_adf1a891529afb9d3e43ab072591aa06",
+      "question_type": "association",
+      "dt_score_updated": "2023-07-25T14:23:44Z",
+      "automarkable": true,
+      "attempted": true,
+      "score": 3,
+      "max_score": 3,
+      "question_reference": "314f78f4-dfb6-4f23-b309-87f00efcc002",
+      "item_reference": "08d5d1d5-15d1-4dc8-bb99-8b5a2f5236c5",
+      "response": {
+        "value": [
+          "Macro and micro perspectives for internationalisation",
+          "The capability approach and reasons for studying abroad",
+          "Recommendations to&nbsp;support the development of internationalisation strategies"
+        ],
+        "type": "array",
+        "updatedFormat": true,
+        "apiVersion": "v2.177.28",
+        "revision": 3,
+        "feedbackAttemptsCount": 3
+      },
+      "questionInfo": {
+        "type": "association",
+        "widget_type": "response",
+        "reference": "314f78f4-dfb6-4f23-b309-87f00efcc002",
+        "data": {
+          "possible_responses": [
+            "Macro and micro perspectives for internationalisation",
+            "The capability approach and reasons for studying abroad",
+            "Recommendations to&nbsp;support the development of internationalisation strategies",
+            "Push and pull factors",
+            "<span style=\"font-size:11.0pt\"><span style=\"line-height:107%\"><span style=\"font-family:&quot;Calibri&quot;,sans-serif\"><span style=\"color:#221f20\"></span></span></span></span>The global trend to internationalise education",
+            "The importance of developing an education policy<span style=\"font-size:11.0pt\"><span style=\"line-height:107%\"><span style=\"font-family:&quot;Calibri&quot;,sans-serif\"><span style=\"color:#221f20\"> </span></span></span></span>",
+            "Recommendations for the development of a global policy for higher education"
+          ],
+          "stimulus": "<p><span style=\"color:#0000ff;\"><strong><span style=\"font-size:2em;\">Article Structure</span></strong></span></p>\n\n<p><img height=\"96\" src=\"https://assets.learnosity.com/organisations/755/13fbf4ea-e32b-4df2-9f06-6dd264b1a179.jpg\" width=\"699\" /></p>\n\n<p>&nbsp;</p>\n\n<p><span style=\"font-size:1.5em;\"><span style=\"color:#0000ff;\">► </span>Review the <span style=\"color:#0000ff;\"><strong>introduction </strong></span>and organise the below points according to the article structure.</span></p>\n",
+          "stimulus_list": [
+            "<span style=\"font-size:1.1em;\"><span style=\"color:#0000ff;\"><strong>As a starting point, ...</strong></span></span>",
+            "<span style=\"color:#0000ff;\"><strong><span style=\"font-size:1.1em;\">Secondly, ...</span></strong></span>",
+            "<span style=\"font-size:1.1em;\"><span style=\"color:#0000ff;\"><strong>Finally, ...</strong></span></span>"
+          ],
+          "type": "association",
+          "validation": {
+            "scoring_type": "partialMatchV2",
+            "valid_response": {
+              "score": 3,
+              "value": [
+                "Macro and micro perspectives for internationalisation",
+                "The capability approach and reasons for studying abroad",
+                "Recommendations to&nbsp;support the development of internationalisation strategies"
+              ]
+            }
+          },
+          "instant_feedback": true
+        },
+        "metadata": {
+          "name": "Match list",
+          "template_reference": "1fa22aac-1f88-47f7-941b-3c77759549e6"
+        }
+      },
+      "feedbackInfo": [
+        null,
+        null
+      ]
+    },
+    {
+      "response_id": "29d2a56f-9aee-4d17-8aad-3866b1dd2943_b235cb01c8125ee31498f97c2b094401",
+      "question_type": "clozeassociation",
+      "dt_score_updated": "2023-07-25T14:24:55Z",
+      "automarkable": true,
+      "attempted": true,
+      "score": 1,
+      "max_score": 1,
+      "question_reference": "bcc1f176-576b-459e-a6bb-547e632e2fe5",
+      "item_reference": "08d5d1d5-15d1-4dc8-bb99-8b5a2f5236c5",
+      "response": {
+        "value": [
+          "negative",
+          "move abroad",
+          "educational institutions",
+          "options for courses"
+        ],
+        "type": "array",
+        "apiVersion": "v2.177.28",
+        "revision": 1,
+        "feedbackAttemptsCount": 1
+      },
+      "questionInfo": {
+        "type": "clozeassociation",
+        "widget_type": "response",
+        "reference": "bcc1f176-576b-459e-a6bb-547e632e2fe5",
+        "data": {
+          "possible_responses": [
+            "negative",
+            "move abroad",
+            "educational institutions",
+            "options for courses"
+          ],
+          "response_container": {
+            "pointer": "left"
+          },
+          "stimulus": "<p><strong><span style=\"font-size:2em;\">The article mentions <span style=\"color:#0000cd;\">PUSH&nbsp;</span>and <span style=\"color:#008000;\">PULL&nbsp;</span>factors.&nbsp;</span></strong><br />\n<img height=\"196\" src=\"https://assets.learnosity.com/organisations/755/834ec0f9-7d4c-40ec-85e4-f9e65d11e01e.jpg\" width=\"350\" /></p>\n\n<p>&nbsp;</p>\n\n<p><span style=\"font-size:1.5em;\"><span style=\"color:#0000cd;\">► </span>Complete the definitions:</span></p>\n",
+          "template": "<p><span style=\"font-size:1.3em;\"></span><span style=\"font-size:1.5em;\"><span style=\"color:#0000cd;\"><strong>PUSH </strong></span></span><span style=\"font-size:1.3em;\">factors are </span><span style=\"font-size:1em;\">{{response}}</span><span style=\"font-size:1.3em;\">&nbsp;aspects that make students want to </span><span style=\"font-size:1em;\">{{response}}</span><span style=\"font-size:1.3em;\">&nbsp;to study.</span></p>\n\n<p><strong><span style=\"font-size:1.3em;\">► Here are two examples:&nbsp;</span></strong></p>\n\n<ul>\n\t<li><span style=\"font-size:1.1em;\">Lack of good </span><span style=\"font-size:1em;\">{{response}}</span><span style=\"font-size:1.1em;\">&nbsp;where students can study</span></li>\n\t<li><span style=\"font-size:1.1em;\">Limited&nbsp;</span><span style=\"font-size:1em;\">{{response}}</span><span style=\"font-size:1.1em;\">&nbsp; that students can take</span></li>\n</ul>\n",
+          "type": "clozeassociation",
+          "case_sensitive": true,
+          "validation": {
+            "scoring_type": "partialMatchV2",
+            "valid_response": {
+              "score": 1,
+              "value": [
+                "negative",
+                "move abroad",
+                "educational institutions",
+                "options for courses"
+              ]
+            }
+          },
+          "instant_feedback": true,
+          "shuffle_options": true
+        },
+        "metadata": {
+          "name": "Cloze with drag & drop",
+          "template_reference": "51a8c1e7-f34f-4faf-b211-da458e891fcb"
+        }
+      },
+      "feedbackInfo": [
+        null,
+        null
+      ]
+    },
+    {
+      "response_id": "29d2a56f-9aee-4d17-8aad-3866b1dd2943_6f1c6826559c483d84ebaf0df53bb777",
+      "question_type": "clozeassociation",
+      "dt_score_updated": "2023-07-25T14:25:38Z",
+      "automarkable": true,
+      "attempted": true,
+      "score": 16,
+      "max_score": 16,
+      "question_reference": "d74d8697-c0c6-4138-95ba-800df4f06dca",
+      "item_reference": "08d5d1d5-15d1-4dc8-bb99-8b5a2f5236c5",
+      "response": {
+        "value": [
+          "positive",
+          "attract",
+          "good global reputation",
+          "New and innovative courses"
+        ],
+        "type": "array",
+        "apiVersion": "v2.177.28",
+        "revision": 1,
+        "feedbackAttemptsCount": 1
+      },
+      "questionInfo": {
+        "type": "clozeassociation",
+        "widget_type": "response",
+        "reference": "d74d8697-c0c6-4138-95ba-800df4f06dca",
+        "data": {
+          "possible_responses": [
+            "positive",
+            "attract",
+            "good global reputation",
+            "New and innovative courses"
+          ],
+          "response_container": {
+            "pointer": "left"
+          },
+          "template": "<p><span style=\"font-size:1.3em;\"></span><span style=\"font-size:1.5em;\"><span style=\"color:#008000;\"><strong>PULL </strong></span></span><span style=\"font-size:1.3em;\">factors are </span><span style=\"font-size:1em;\">{{response}}</span><span style=\"font-size:1.3em;\">&nbsp;aspects that </span><span style=\"font-size:1em;\">{{response}}</span><span style=\"font-size:1.3em;\">&nbsp;students to the country where they want to study.</span></p>\n\n<p><span style=\"font-size:1.3em;\"><strong>► Here are two examples:&nbsp;</strong></span></p>\n\n<ul>\n\t<li><span style=\"font-size:1.1em;\">Educational institutions that have </span><span style=\"font-size:1em;\">{{response}}</span><span style=\"font-size:1.1em;\"></span></li>\n\t<li><span style=\"font-size:1.1em;\"></span><span style=\"font-size:1em;\">{{response}}</span><span style=\"font-size:1.1em;\"> that students can take.</span></li>\n</ul>\n",
+          "type": "clozeassociation",
+          "case_sensitive": true,
+          "validation": {
+            "scoring_type": "partialMatch",
+            "valid_response": {
+              "score": 4,
+              "value": [
+                "positive",
+                "attract",
+                "good global reputation",
+                "New and innovative courses"
+              ]
+            }
+          },
+          "instant_feedback": true,
+          "shuffle_options": true
+        },
+        "metadata": {
+          "name": "Cloze with drag & drop",
+          "template_reference": "51a8c1e7-f34f-4faf-b211-da458e891fcb"
+        }
+      },
+      "feedbackInfo": [
+        null,
+        null
+      ]
+    },
+    {
+      "response_id": "29d2a56f-9aee-4d17-8aad-3866b1dd2943_c1dec57edd09eaf1932e11180b39d0ac",
+      "question_type": "mcq",
+      "dt_score_updated": "2023-07-25T14:27:47Z",
+      "automarkable": true,
+      "attempted": true,
+      "score": 2,
+      "max_score": 2,
+      "question_reference": "72a118ef-1d23-44fc-b0cc-9e8417c42232",
+      "item_reference": "08d5d1d5-15d1-4dc8-bb99-8b5a2f5236c5",
+      "response": {
+        "value": [
+          "3",
+          "0"
+        ],
+        "type": "array",
+        "apiVersion": "v2.177.28",
+        "revision": 3,
+        "feedbackAttemptsCount": 2
+      },
+      "questionInfo": {
+        "type": "mcq",
+        "widget_type": "response",
+        "reference": "72a118ef-1d23-44fc-b0cc-9e8417c42232",
+        "data": {
+          "options": [
+            {
+              "label": "It doesn't take into account the individual preferences and personal characteristics of students",
+              "value": "0"
+            },
+            {
+              "label": "The&nbsp;&nbsp;dominance of marketisation of higher education&nbsp;is largely unaccounted for.",
+              "value": "1"
+            },
+            {
+              "label": "This analytical framework has not&nbsp;been highlighted by several researchers.",
+              "value": "2"
+            },
+            {
+              "label": "It focuses too much on economic aspects and not enough on&nbsp;other aspects of the education experience.",
+              "value": "3"
+            }
+          ],
+          "stimulus": "<p><span style=\"font-size:1.5em;\">1. According to the article, what are the <span style=\"color:#ff0000;\"><strong>limitations </strong></span>of the push/pull analysis? (choose TWO)</span></p>\n\n<p><img height=\"144\" src=\"https://assets.learnosity.com/organisations/755/c1d90b21-9586-476b-8d7a-21ea860ed288.jpg\" width=\"349\" /></p>\n\n<p>&nbsp;</p>\n\n<p><span style=\"color:#ff0000;\"><strong>► Read the <u>'internationalisation'</u> </strong><strong>section carefully</strong></span><span style=\"color:#ff0000;\"><strong> - you only have TWO check answer attempts!</strong></span></p>\n",
+          "type": "mcq",
+          "ui_style": {
+            "choice_label": "upper-alpha",
+            "type": "block"
+          },
+          "validation": {
+            "scoring_type": "partialMatchV2",
+            "valid_response": {
+              "score": 2,
+              "value": [
+                "0",
+                "3"
+              ]
+            }
+          },
+          "feedback_attempts": 2,
+          "instant_feedback": true,
+          "multiple_responses": true,
+          "shuffle_options": true
+        },
+        "metadata": {
+          "name": "Multiple choice – block layout",
+          "template_reference": "33d53a22-1a59-4a03-9671-7f5104edd62e"
+        }
+      },
+      "feedbackInfo": [
+        null,
+        null
+      ]
+    },
+    {
+      "response_id": "29d2a56f-9aee-4d17-8aad-3866b1dd2943_9f278c6be96785ff82ab1fe98523bd75",
+      "question_type": "mcq",
+      "dt_score_updated": "2023-07-25T14:29:00Z",
+      "automarkable": true,
+      "attempted": true,
+      "score": 3,
+      "max_score": 3,
+      "question_reference": "a0c92871-b5a0-4435-8515-52e8de300a4b",
+      "item_reference": "08d5d1d5-15d1-4dc8-bb99-8b5a2f5236c5",
+      "response": {
+        "value": [
+          "4",
+          "0",
+          "1"
+        ],
+        "type": "array",
+        "apiVersion": "v2.177.28",
+        "revision": 2,
+        "feedbackAttemptsCount": 2
+      },
+      "questionInfo": {
+        "type": "mcq",
+        "widget_type": "response",
+        "reference": "a0c92871-b5a0-4435-8515-52e8de300a4b",
+        "data": {
+          "options": [
+            {
+              "label": "It helps understand and evaluate educational policies from the the individual perspective&nbsp;",
+              "value": "0"
+            },
+            {
+              "label": "It goes beyond the beyond dominant economic narratives",
+              "value": "1"
+            },
+            {
+              "label": "It&nbsp;underpins the relevance of push-pull factors",
+              "value": "2"
+            },
+            {
+              "label": "It helps understand and evaluate educational policies from the the economic perspective&nbsp;",
+              "value": "3"
+            },
+            {
+              "label": "It offers a holistic understanding of why students want to study abroad",
+              "value": "4"
+            }
+          ],
+          "stimulus": "<p><span style=\"font-size:1.5em;\">2. According to the article, why is the <span style=\"color:#0000ff;\"><strong>capability approach</strong></span> useful? (choose THREE)</span></p>\n\n<p>&nbsp;</p>\n\n<p><span style=\"color:#ff0000;\"><strong>► Read the <u>'capability approach'</u>&nbsp;</strong><strong>section carefully</strong></span><span style=\"color:#ff0000;\"><strong> - you only have TWO check answer attempts!</strong></span></p>\n",
+          "type": "mcq",
+          "ui_style": {
+            "choice_label": "upper-alpha",
+            "type": "block"
+          },
+          "validation": {
+            "scoring_type": "exactMatch",
+            "valid_response": {
+              "score": 3,
+              "value": [
+                "0",
+                "1",
+                "4"
+              ]
+            }
+          },
+          "feedback_attempts": 2,
+          "instant_feedback": true,
+          "multiple_responses": true,
+          "shuffle_options": true
+        },
+        "metadata": {
+          "name": "Multiple choice – block layout",
+          "template_reference": "33d53a22-1a59-4a03-9671-7f5104edd62e"
+        }
+      },
+      "feedbackInfo": [
+        null,
+        null
+      ]
+    },
+    {
+      "response_id": "29d2a56f-9aee-4d17-8aad-3866b1dd2943_57990a5c98d272d2115d6340a28687dc",
+      "question_type": "mcq",
+      "dt_score_updated": "2023-07-25T14:30:23Z",
+      "automarkable": true,
+      "attempted": true,
+      "score": 0,
+      "max_score": 1,
+      "question_reference": "1fba182d-26a3-4fb7-b8fe-1fcb4e8d2647",
+      "item_reference": "9cebb3ec-0bd9-4316-b1e0-6b71c0374935",
+      "response": {
+        "value": [
+          "3"
+        ],
+        "type": "array",
+        "apiVersion": "v2.177.28",
+        "revision": 3,
+        "feedbackAttemptsCount": 2
+      },
+      "questionInfo": {
+        "type": "mcq",
+        "widget_type": "response",
+        "reference": "1fba182d-26a3-4fb7-b8fe-1fcb4e8d2647",
+        "data": {
+          "options": [
+            {
+              "label": "achieve their goals and satisfy their own interests.",
+              "value": "0"
+            },
+            {
+              "label": "experience other cultures.",
+              "value": "1"
+            },
+            {
+              "label": "get a higher paying job and progress in their careers.",
+              "value": "2"
+            },
+            {
+              "label": "improve their English language skills, especially speaking.",
+              "value": "3"
+            }
+          ],
+          "stimulus": "<p><strong><span style=\"font-size:2em;\">In this part of the lesson, let's focus on the <span style=\"color:#0000ff;\">Key Drivers</span> analysis section.</span></strong></p>\n\n<p style=\"margin-left: 40px;\"><img height=\"148\" src=\"https://assets.learnosity.com/organisations/755/3be9bc45-caed-40d1-a322-b92feae6a32d.jpg\" width=\"401\"></p>\n\n<p>&nbsp;</p>\n\n<div class=\"lrn-well\"><strong><span style=\"font-size:1.3em;\">1. According to the article, most students believed that&nbsp;studying abroad would allow them to studying abroad would allow them to...</span></strong></div>\n\n<p>&nbsp;</p>\n\n<p><span style=\"color:#ff0000;\"><strong>Read the section \"Framework for Key Drivers\" carefully - you only have TWO check answer attempts!&nbsp;</strong></span></p>\n",
+          "type": "mcq",
+          "ui_style": {
+            "choice_label": "upper-alpha",
+            "type": "block"
+          },
+          "validation": {
+            "scoring_type": "exactMatch",
+            "valid_response": {
+              "score": 1,
+              "value": [
+                "0"
+              ]
+            }
+          },
+          "feedback_attempts": 2,
+          "instant_feedback": true,
+          "shuffle_options": true
+        },
+        "metadata": {
+          "name": "Multiple choice – block layout",
+          "template_reference": "33d53a22-1a59-4a03-9671-7f5104edd62e"
+        }
+      },
+      "feedbackInfo": [
+        null,
+        null
+      ]
+    },
+    {
+      "response_id": "29d2a56f-9aee-4d17-8aad-3866b1dd2943_71169703503e27f9910e6b40708978b4",
+      "question_type": "mcq",
+      "dt_score_updated": "2023-07-25T14:31:20Z",
+      "automarkable": true,
+      "attempted": true,
+      "score": 0,
+      "max_score": 1,
+      "question_reference": "f3812902-12bf-4f3c-a071-e93348ba94f6",
+      "item_reference": "9cebb3ec-0bd9-4316-b1e0-6b71c0374935",
+      "response": {
+        "value": [
+          "1"
+        ],
+        "type": "array",
+        "apiVersion": "v2.177.28",
+        "revision": 2,
+        "feedbackAttemptsCount": 2
+      },
+      "questionInfo": {
+        "type": "mcq",
+        "widget_type": "response",
+        "reference": "f3812902-12bf-4f3c-a071-e93348ba94f6",
+        "data": {
+          "options": [
+            {
+              "label": "Educational, Aspirational, Experiential, and Economic drivers.",
+              "value": "0"
+            },
+            {
+              "label": "Educational, Cultural, Experiential, and Economic drivers.",
+              "value": "1"
+            },
+            {
+              "label": "Educational, Cultural, Inspirational, and Economic drivers.",
+              "value": "2"
+            },
+            {
+              "label": "Educational, Operational, Experiential, and Economic drivers.",
+              "value": "3"
+            }
+          ],
+          "stimulus": "<div class=\"lrn-well\"><strong><span style=\"font-size:1.3em;\">2. According to the article, there are four categories of key drivers...&nbsp;</span></strong></div>\n\n<p>&nbsp;</p>\n\n<p><span style=\"color:#ff0000;\"><strong>Read the section \"Framework for Key Drivers\" carefully - you only have TWO check answer attempts!&nbsp;</strong></span></p>\n",
+          "type": "mcq",
+          "ui_style": {
+            "choice_label": "upper-alpha",
+            "type": "block"
+          },
+          "validation": {
+            "scoring_type": "exactMatch",
+            "valid_response": {
+              "score": 1,
+              "value": [
+                "0"
+              ]
+            }
+          },
+          "feedback_attempts": 2,
+          "instant_feedback": true,
+          "shuffle_options": true
+        },
+        "metadata": {
+          "name": "Multiple choice – block layout",
+          "template_reference": "33d53a22-1a59-4a03-9671-7f5104edd62e"
+        }
+      },
+      "feedbackInfo": [
+        null,
+        null
+      ]
+    }
+  ]
+}

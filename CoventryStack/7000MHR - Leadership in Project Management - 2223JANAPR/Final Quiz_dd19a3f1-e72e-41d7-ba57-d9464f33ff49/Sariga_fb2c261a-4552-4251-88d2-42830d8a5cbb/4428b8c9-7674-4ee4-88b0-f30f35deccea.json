@@ -1,0 +1,50 @@
+{
+  "userId": "fb2c261a-4552-4251-88d2-42830d8a5cbb",
+  "firstName": "Sariga",
+  "lastName": "Ettummal Sethunath",
+  "assigmentId": "dd19a3f1-e72e-41d7-ba57-d9464f33ff49",
+  "assigmentName": "Final Quiz",
+  "sessionId": "4428b8c9-7674-4ee4-88b0-f30f35deccea",
+  "email": "ettummalss@coventry.ac.uk",
+  "spaceId": "4fb344e0-2505-4dbc-9179-c896b74e9fe2",
+  "spaceName": "7000MHR - Leadership in Project Management - 2223JANAPR",
+  "score": 0,
+  "max_score": 0,
+  "questions": [
+    {
+      "response_id": "4428b8c9-7674-4ee4-88b0-f30f35deccea_d74b3a6030c83fcf5ee153076270cc28",
+      "question_type": "longtextV2",
+      "dt_score_updated": "2023-03-27T09:21:31Z",
+      "automarkable": false,
+      "attempted": true,
+      "score": null,
+      "max_score": null,
+      "question_reference": "19cfb112-ed0c-48f3-9354-ee3d148b109b",
+      "item_reference": "48b87caa-f852-4992-b089-cc00d5b5a683",
+      "response": {
+        "value": "<p>Lewin’s 3-Stage Model: Unfreeze, Change, Refreeze\nUnfreeze stage</p><p>During this stage, the focus is on getting ready to accept change, so this is a combination of recognising that things can’t stay as they are and creating the desire for something different.</p><p>Change stage</p><p>This is the process of moving to the future state, it’s a stage of transition in which the organisation (and individuals within it) transform from one way of doing things to something new.</p><p>Refreeze stage</p><p>During this period, changes need to become the new norm. It’s the moment in which changes transform into organisational goals, processes, structure or roles.</p><br><br>",
+        "wordCount": 102,
+        "type": "string",
+        "apiVersion": "v2.168.23",
+        "revision": 5
+      },
+      "questionInfo": {
+        "type": "longtextV2",
+        "widget_type": "response",
+        "reference": "19cfb112-ed0c-48f3-9354-ee3d148b109b",
+        "data": {
+          "stimulus": "Can you reflect on any change management model",
+          "type": "longtextV2"
+        },
+        "metadata": {
+          "name": "Essay with rich text",
+          "template_reference": "1e6039f8-0676-495d-aca9-108710a51ce5"
+        }
+      },
+      "feedbackInfo": [
+        null,
+        null
+      ]
+    }
+  ]
+}

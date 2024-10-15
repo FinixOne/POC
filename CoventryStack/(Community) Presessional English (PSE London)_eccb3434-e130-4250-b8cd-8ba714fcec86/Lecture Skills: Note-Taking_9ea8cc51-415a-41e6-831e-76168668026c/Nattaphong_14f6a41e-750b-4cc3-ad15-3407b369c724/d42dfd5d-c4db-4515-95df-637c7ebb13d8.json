@@ -1,0 +1,673 @@
+{
+  "userId": "14f6a41e-750b-4cc3-ad15-3407b369c724",
+  "firstName": "Nattaphong",
+  "lastName": "Phiphatanaphong",
+  "assigmentId": "9ea8cc51-415a-41e6-831e-76168668026c",
+  "assigmentName": "Lecture Skills: Note-Taking",
+  "sessionId": "d42dfd5d-c4db-4515-95df-637c7ebb13d8",
+  "email": "phiphatann@coventry.ac.uk",
+  "spaceId": "eccb3434-e130-4250-b8cd-8ba714fcec86",
+  "spaceName": "(Community) Presessional English (PSE London)",
+  "score": 25,
+  "max_score": 25,
+  "questions": [
+    {
+      "response_id": "d42dfd5d-c4db-4515-95df-637c7ebb13d8_25f3e3ff853670d02a17bcf19420dd01",
+      "question_type": "clozeassociation",
+      "dt_score_updated": "2023-10-24T18:05:33Z",
+      "automarkable": true,
+      "attempted": true,
+      "score": 8,
+      "max_score": 8,
+      "question_reference": "18bf2634-5a72-43ca-9785-c56797c7d133",
+      "item_reference": "f250c3bf-877f-4515-a765-c3902c8baee1",
+      "response": {
+        "value": [
+          "appealing",
+          "relationships",
+          "carry over&nbsp;",
+          "clearly organised",
+          "familiar",
+          "next page",
+          "organised",
+          "space"
+        ],
+        "type": "array",
+        "apiVersion": "v2.192.16",
+        "revision": 5,
+        "feedbackAttemptsCount": 2
+      },
+      "questionInfo": {
+        "type": "clozeassociation",
+        "widget_type": "response",
+        "reference": "18bf2634-5a72-43ca-9785-c56797c7d133",
+        "data": {
+          "possible_responses": [
+            "appealing",
+            "relationships",
+            "carry over&nbsp;",
+            "clearly organised",
+            "familiar",
+            "next page",
+            "organised",
+            "space"
+          ],
+          "response_container": {
+            "pointer": "left"
+          },
+          "stimulus": "<h2><strong>In today's lesson you looked at different <span style=\"color:#800080;\">Note-Taking Styles</span>.</strong></h2>\n\n<p><img height=\"267\" src=\"https://assets.learnosity.com/organisations/755/9a733831-73cc-47a9-99ad-5d6b24fcbbca.jpg\" width=\"800\"></p>\n\n<p>&nbsp;</p>\n\n<h4><strong><span style=\"color:#800080;\">►</span> What are the advantages and disadvantages&nbsp;of each method?</strong></h4>\n",
+          "template": "<table class=\"table table-condensed table-striped\">\n\t<tbody>\n\t\t<tr>\n\t\t\t<td>&nbsp;</td>\n\t\t\t<td>\n\t\t\t<h4 class=\"text-center\"><span style=\"color:#008000;\"><strong>Advantages</strong></span></h4>\n\t\t\t</td>\n\t\t\t<td>\n\t\t\t<h4 class=\"text-center\"><span style=\"color:#b22222;\"><strong>Disadvantages</strong></span></h4>\n\t\t\t</td>\n\t\t</tr>\n\t\t<tr>\n\t\t\t<td>\n\t\t\t<h4><span style=\"color:#800080;\"><strong>Mind Maps</strong></span></h4>\n\t\t\t</td>\n\t\t\t<td>\n\t\t\t<ul>\n\t\t\t\t<li>Visually&nbsp;{{response}}</li>\n\t\t\t\t<li>Better for showing {{response}}&nbsp;between ideas</li>\n\t\t\t</ul>\n\t\t\t</td>\n\t\t\t<td>\n\t\t\t<ul>\n\t\t\t\t<li>Difficult to link ideas if you have to&nbsp;{{response}}&nbsp;to the next page</li>\n\t\t\t\t<li>Ideas are not always {{response}}</li>\n\t\t\t</ul>\n\t\t\t</td>\n\t\t</tr>\n\t\t<tr>\n\t\t\t<td>\n\t\t\t<h4><span style=\"color:#800080;\"><strong>Linear Notes</strong></span></h4>\n\t\t\t</td>\n\t\t\t<td>\n\t\t\t<ul>\n\t\t\t\t<li>More&nbsp;{{response}}&nbsp;format</li>\n\t\t\t\t<li>Easy to carry over to the {{response}}</li>\n\t\t\t\t<li>Better for lectures which are clearly&nbsp;{{response}}</li>\n\t\t\t</ul>\n\t\t\t</td>\n\t\t\t<td>\n\t\t\t<ul>\n\t\t\t\t<li>If you miss something, it's difficult to find the&nbsp;{{response}}&nbsp;to add it later</li>\n\t\t\t</ul>\n\t\t\t</td>\n\t\t</tr>\n\t</tbody>\n</table>\n",
+          "type": "clozeassociation",
+          "case_sensitive": true,
+          "validation": {
+            "scoring_type": "partialMatchV2",
+            "valid_response": {
+              "score": 8,
+              "value": [
+                "appealing",
+                "relationships",
+                "carry over&nbsp;",
+                "clearly organised",
+                "familiar",
+                "next page",
+                "organised",
+                "space"
+              ]
+            }
+          },
+          "instant_feedback": true,
+          "shuffle_options": true
+        },
+        "metadata": {
+          "name": "Cloze with drag & drop",
+          "template_reference": "51a8c1e7-f34f-4faf-b211-da458e891fcb"
+        }
+      },
+      "feedbackInfo": [
+        null,
+        null
+      ]
+    },
+    {
+      "response_id": "d42dfd5d-c4db-4515-95df-637c7ebb13d8_928c7d651980cedbdf903cef07a97bf8",
+      "question_type": "association",
+      "dt_score_updated": "2023-10-24T18:07:15Z",
+      "automarkable": true,
+      "attempted": true,
+      "score": 1,
+      "max_score": 1,
+      "question_reference": "917f3fea-777b-4ab2-8cfa-b5fb3780bfb4",
+      "item_reference": "f250c3bf-877f-4515-a765-c3902c8baee1",
+      "response": {
+        "value": [
+          "bc",
+          "tf",
+          "imp",
+          "U R",
+          "rtn",
+          "2 B",
+          "ppl",
+          "eg",
+          "B4",
+          "conc"
+        ],
+        "type": "array",
+        "updatedFormat": true,
+        "apiVersion": "v2.192.16",
+        "revision": 4,
+        "feedbackAttemptsCount": 1
+      },
+      "questionInfo": {
+        "type": "association",
+        "widget_type": "response",
+        "reference": "917f3fea-777b-4ab2-8cfa-b5fb3780bfb4",
+        "data": {
+          "possible_responses": [
+            "bc",
+            "tf",
+            "imp",
+            "U R",
+            "rtn",
+            "2 B",
+            "ppl",
+            "eg",
+            "B4",
+            "conc"
+          ],
+          "stimulus": "<h2><strong>One way to <span style=\"color:#800080;\">save time</span> when note-taking is to use <span style=\"color:#800080;\"><u>abbreviations</u> </span>and <u><span style=\"color:#800080;\">symbols</span></u>.</strong></h2>\n\n<p><img height=\"177\" src=\"https://assets.learnosity.com/organisations/755/b7aad9fc-766f-4e8c-9526-50da87e90cd2.jpg\" width=\"399\" /></p>\n\n<h4><strong><span style=\"color:#000000;\">► </span><span style=\"color:#800080;\">Abbreviations</span> are shortened versions of long words or phrases.</strong></h4>\n\n<h4><strong><span style=\"color:#800080;\"></span><span style=\"color:#800080;\"></span><span style=\"color:#000000;\">►</span><span style=\"color:#800080;\"> </span><span style=\"color:#800080;\">Symbols </span>are pictures used as a shortened version of written language</strong></h4>\n\n<p>&nbsp;</p>\n\n<p>&nbsp;</p>\n\n<h2><strong>Here are some useful abbreviations of <span style=\"color:#800080;\">general words</span>.&nbsp;</strong></h2>\n\n<h4><strong><span style=\"color:#800080;\">► </span>Match the abbreviation to the complete word.</strong></h4>\n",
+          "stimulus_list": [
+            "<span style=\"font-size:12.0pt\"><span style=\"font-family:Arial\"><span style=\"color:#2d2e2d\"><span style=\"language:en-GB\">Because</span></span></span></span>",
+            "<span style=\"font-size:12.0pt\"><span style=\"font-family:Arial\"><span style=\"color:#2d2e2d\"><span style=\"language:en-GB\">Therefore</span></span></span></span>",
+            "<span style=\"font-size:12.0pt\"><span style=\"font-family:Arial\"><span style=\"color:#2d2e2d\"><span style=\"language:en-GB\">Important</span></span></span></span>",
+            "<span style=\"font-size:12.0pt\"><span style=\"font-family:Arial\"><span style=\"color:#2d2e2d\"><span style=\"language:en-GB\">You are</span></span></span></span>",
+            "<span style=\"font-size:12.0pt\"><span style=\"font-family:Arial\"><span style=\"color:#2d2e2d\"><span style=\"language:en-GB\">Return</span></span></span></span>",
+            "<span style=\"font-size:12.0pt\"><span style=\"font-family:Arial\"><span style=\"color:#2d2e2d\"><span style=\"language:en-GB\">To be</span></span></span></span>",
+            "<span style=\"font-size:12.0pt\"><span style=\"font-family:Arial\"><span style=\"color:#2d2e2d\"><span style=\"language:en-GB\">People</span></span></span></span>",
+            "<span style=\"font-size:12.0pt\"><span style=\"font-family:Arial\"><span style=\"color:#2d2e2d\"><span style=\"language:en-GB\">For example</span></span></span></span>",
+            "<span style=\"font-size:12.0pt\"><span style=\"font-family:Arial\"><span style=\"color:#2d2e2d\"><span style=\"language:en-GB\">Before</span></span></span></span>",
+            "<span style=\"font-size:12.0pt\"><span style=\"font-family:Arial\"><span style=\"color:#2d2e2d\"><span style=\"language:en-GB\"><span style=\"vertical-align:baseline\">conclusion</span></span></span></span></span>"
+          ],
+          "type": "association",
+          "validation": {
+            "scoring_type": "partialMatchV2",
+            "valid_response": {
+              "score": 1,
+              "value": [
+                "bc",
+                "tf",
+                "imp",
+                "U R",
+                "rtn",
+                "2 B",
+                "ppl",
+                "eg",
+                "B4",
+                "conc"
+              ]
+            }
+          },
+          "instant_feedback": true,
+          "shuffle_options": true
+        },
+        "metadata": {
+          "name": "Match list",
+          "template_reference": "1fa22aac-1f88-47f7-941b-3c77759549e6"
+        }
+      },
+      "feedbackInfo": [
+        null,
+        null
+      ]
+    },
+    {
+      "response_id": "d42dfd5d-c4db-4515-95df-637c7ebb13d8_5d95532c68e29a391a21eddfb4fc9be0",
+      "question_type": "association",
+      "dt_score_updated": "2023-10-24T18:08:27Z",
+      "automarkable": true,
+      "attempted": true,
+      "score": 10,
+      "max_score": 10,
+      "question_reference": "91b4aca8-1f44-4588-a58e-968524c6e55f",
+      "item_reference": "f250c3bf-877f-4515-a765-c3902c8baee1",
+      "response": {
+        "value": [
+          "infl.",
+          "bus.",
+          "invest.",
+          "org.",
+          "rcess.",
+          "min.",
+          "max.",
+          "p.a.",
+          "approx.",
+          "no. OR #"
+        ],
+        "type": "array",
+        "updatedFormat": true,
+        "apiVersion": "v2.192.16",
+        "revision": 5
+      },
+      "questionInfo": {
+        "type": "association",
+        "widget_type": "response",
+        "reference": "91b4aca8-1f44-4588-a58e-968524c6e55f",
+        "data": {
+          "possible_responses": [
+            "infl.",
+            "bus.",
+            "invest.",
+            "org.",
+            "rcess.",
+            "min.",
+            "max.",
+            "p.a.",
+            "approx.",
+            "no. OR #"
+          ],
+          "stimulus": "<h2>&nbsp;</h2>\n\n<h2><strong>And here are some useful abbreviations of <span style=\"color:#800080;\">business words</span>.&nbsp;</strong></h2>\n\n<h4><strong><span style=\"color:#800080;\">► </span>Match the abbreviation to the complete word.</strong></h4>\n",
+          "stimulus_list": [
+            "<span style=\"font-size:12.0pt\"><span style=\"font-family:Arial\"><span style=\"color:#2d2e2d\"><span style=\"language:en-GB\">Inflation</span></span></span></span>",
+            "<span style=\"font-size:12.0pt\"><span style=\"font-family:Arial\"><span style=\"color:#2d2e2d\"><span style=\"language:en-GB\">Business</span></span></span></span>",
+            "<span style=\"font-size:12.0pt\"><span style=\"font-family:Arial\"><span style=\"color:#2d2e2d\"><span style=\"language:en-GB\"><span style=\"vertical-align:baseline\">investment</span></span></span></span></span>",
+            "<span style=\"font-size:12.0pt\"><span style=\"font-family:Arial\"><span style=\"color:#2d2e2d\"><span style=\"language:en-GB\"><span style=\"vertical-align:baseline\">Organisation</span></span></span></span></span>",
+            "<span style=\"font-size:12.0pt\"><span style=\"font-family:Arial\"><span style=\"color:#2d2e2d\"><span style=\"language:en-GB\"><span style=\"vertical-align:baseline\">Recession</span></span></span></span></span>",
+            "<span style=\"font-size:12.0pt\"><span style=\"font-family:Arial\"><span style=\"color:#2d2e2d\"><span style=\"language:en-GB\"><span style=\"vertical-align:baseline\">Minimum</span></span></span></span></span>",
+            "<span style=\"font-size:12.0pt\"><span style=\"font-family:Arial\"><span style=\"color:#2d2e2d\"><span style=\"language:en-GB\"><span style=\"vertical-align:baseline\">Maximum</span></span></span></span></span>",
+            "<span style=\"font-size:12.0pt\"><span style=\"font-family:Arial\"><span style=\"color:#2d2e2d\"><span style=\"language:en-GB\"><span style=\"vertical-align:baseline\">Per year</span></span></span></span></span>",
+            "<span style=\"font-size:12.0pt\"><span style=\"font-family:Arial\"><span style=\"color:#2d2e2d\"><span style=\"language:en-GB\"><span style=\"vertical-align:baseline\">Approximately</span></span></span></span></span>",
+            "<span style=\"font-size:12.0pt\"><span style=\"font-family:Arial\"><span style=\"color:#2d2e2d\"><span style=\"language:en-GB\"><span style=\"vertical-align:baseline\">Number</span></span></span></span></span>"
+          ],
+          "type": "association",
+          "validation": {
+            "scoring_type": "partialMatchV2",
+            "valid_response": {
+              "score": 10,
+              "value": [
+                "infl.",
+                "bus.",
+                "invest.",
+                "org.",
+                "rcess.",
+                "min.",
+                "max.",
+                "p.a.",
+                "approx.",
+                "no. OR #"
+              ]
+            }
+          },
+          "instant_feedback": true,
+          "shuffle_options": true
+        },
+        "metadata": {
+          "name": "Match list",
+          "template_reference": "1fa22aac-1f88-47f7-941b-3c77759549e6"
+        }
+      },
+      "feedbackInfo": [
+        null,
+        null
+      ]
+    },
+    {
+      "response_id": "d42dfd5d-c4db-4515-95df-637c7ebb13d8_f1048076460ee4c514a1dd30ba605407",
+      "question_type": "association",
+      "dt_score_updated": "2023-10-24T18:09:23Z",
+      "automarkable": true,
+      "attempted": true,
+      "score": 1,
+      "max_score": 1,
+      "question_reference": "d963466f-d7b7-4f0a-a0c3-a345d201bc3f",
+      "item_reference": "f250c3bf-877f-4515-a765-c3902c8baee1",
+      "response": {
+        "value": [
+          "<span style=\"font-size:1.5em;\"><span style=\"font-family:Calibri\"><span style=\"color:black\"><span style=\"font-weight:bold\">=</span></span></span></span>",
+          "<span style=\"font-size:1.5em;\"><span style=\"font-family:Calibri\"><span style=\"color:black\"><span style=\"font-weight:bold\">+</span></span></span></span>",
+          "<strong><span style=\"font-size:1.5em;\"><span style=\"font-family:Wingdings\"><span style=\"color:black\"><span style=\"font-weight:bold\">ä</span></span></span></span></strong>",
+          "<strong><span style=\"font-size:1.5em;\"><span style=\"font-family:Wingdings\"><span style=\"color:black\"><span style=\"font-weight:bold\">æ</span></span></span></span></strong>",
+          "<span style=\"font-size:1.5em;\"><span style=\"font-family:Calibri\"><span style=\"color:black\"><span style=\"font-weight:bold\">$</span></span></span></span>",
+          "<span style=\"font-size:1.5em;\"><span style=\"font-family:Calibri\"><span style=\"color:black\"><span style=\"font-weight:bold\">£</span></span></span></span>",
+          "<span style=\"font-size:1.5em;\"><span style=\"font-family:Calibri\"><span style=\"color:black\"><span style=\"font-weight:bold\">&amp;</span></span></span></span>",
+          "<span style=\"font-size:1.5em;\"><span style=\"font-family:Calibri\"><span style=\"color:black\"><span style=\"font-weight:bold\"># </span></span></span></span>",
+          "<span style=\"font-size:1.5em;\"><span style=\"font-family:Calibri\"><span style=\"color:black\"><span style=\"font-weight:bold\">%</span></span></span></span>",
+          "<span style=\"font-size:1.5em;\"><span style=\"font-family:Calibri\"><span style=\"color:black\"><span style=\"font-weight:bold\">∞</span></span></span></span>",
+          "<span style=\"font-size:1.5em;\"><span style=\"font-family:Calibri\"><span style=\"color:black\"><span style=\"font-weight:bold\">≠</span></span></span></span>"
+        ],
+        "type": "array",
+        "updatedFormat": true,
+        "apiVersion": "v2.192.16",
+        "revision": 3,
+        "feedbackAttemptsCount": 1
+      },
+      "questionInfo": {
+        "type": "association",
+        "widget_type": "response",
+        "reference": "d963466f-d7b7-4f0a-a0c3-a345d201bc3f",
+        "data": {
+          "possible_responses": [
+            "<span style=\"font-size:1.5em;\"><span style=\"font-family:Calibri\"><span style=\"color:black\"><span style=\"font-weight:bold\">=</span></span></span></span>",
+            "<span style=\"font-size:1.5em;\"><span style=\"font-family:Calibri\"><span style=\"color:black\"><span style=\"font-weight:bold\">+</span></span></span></span>",
+            "<strong><span style=\"font-size:1.5em;\"><span style=\"font-family:Wingdings\"><span style=\"color:black\"><span style=\"font-weight:bold\">ä</span></span></span></span></strong>",
+            "<strong><span style=\"font-size:1.5em;\"><span style=\"font-family:Wingdings\"><span style=\"color:black\"><span style=\"font-weight:bold\">æ</span></span></span></span></strong>",
+            "<span style=\"font-size:1.5em;\"><span style=\"font-family:Calibri\"><span style=\"color:black\"><span style=\"font-weight:bold\">$</span></span></span></span>",
+            "<span style=\"font-size:1.5em;\"><span style=\"font-family:Calibri\"><span style=\"color:black\"><span style=\"font-weight:bold\">£</span></span></span></span>",
+            "<span style=\"font-size:1.5em;\"><span style=\"font-family:Calibri\"><span style=\"color:black\"><span style=\"font-weight:bold\">&amp;</span></span></span></span>",
+            "<span style=\"font-size:1.5em;\"><span style=\"font-family:Calibri\"><span style=\"color:black\"><span style=\"font-weight:bold\"># </span></span></span></span>",
+            "<span style=\"font-size:1.5em;\"><span style=\"font-family:Calibri\"><span style=\"color:black\"><span style=\"font-weight:bold\">%</span></span></span></span>",
+            "<span style=\"font-size:1.5em;\"><span style=\"font-family:Calibri\"><span style=\"color:black\"><span style=\"font-weight:bold\">∞</span></span></span></span>",
+            "<span style=\"font-size:1.5em;\"><span style=\"font-family:Calibri\"><span style=\"color:black\"><span style=\"font-weight:bold\">≠</span></span></span></span>"
+          ],
+          "stimulus": "<h2>&nbsp;</h2>\n\n<h2><strong>Finally, here are some useful examples of <span style=\"color:#008080;\">symbols</span>.</strong></h2>\n\n<h4><strong><span style=\"color:#008080;\">► </span>&nbsp;Match the symbol to the complete word.</strong></h4>\n",
+          "stimulus_list": [
+            "equal / the same as",
+            "plus / in addition",
+            "increase",
+            "decrease",
+            "dollar",
+            "pound",
+            "and",
+            "number",
+            "percent",
+            "infinite",
+            "different from"
+          ],
+          "type": "association",
+          "validation": {
+            "scoring_type": "partialMatchV2",
+            "valid_response": {
+              "score": 1,
+              "value": [
+                "<span style=\"font-size:1.5em;\"><span style=\"font-family:Calibri\"><span style=\"color:black\"><span style=\"font-weight:bold\">=</span></span></span></span>",
+                "<span style=\"font-size:1.5em;\"><span style=\"font-family:Calibri\"><span style=\"color:black\"><span style=\"font-weight:bold\">+</span></span></span></span>",
+                "<strong><span style=\"font-size:1.5em;\"><span style=\"font-family:Wingdings\"><span style=\"color:black\"><span style=\"font-weight:bold\">ä</span></span></span></span></strong>",
+                "<strong><span style=\"font-size:1.5em;\"><span style=\"font-family:Wingdings\"><span style=\"color:black\"><span style=\"font-weight:bold\">æ</span></span></span></span></strong>",
+                "<span style=\"font-size:1.5em;\"><span style=\"font-family:Calibri\"><span style=\"color:black\"><span style=\"font-weight:bold\">$</span></span></span></span>",
+                "<span style=\"font-size:1.5em;\"><span style=\"font-family:Calibri\"><span style=\"color:black\"><span style=\"font-weight:bold\">£</span></span></span></span>",
+                "<span style=\"font-size:1.5em;\"><span style=\"font-family:Calibri\"><span style=\"color:black\"><span style=\"font-weight:bold\">&amp;</span></span></span></span>",
+                "<span style=\"font-size:1.5em;\"><span style=\"font-family:Calibri\"><span style=\"color:black\"><span style=\"font-weight:bold\"># </span></span></span></span>",
+                "<span style=\"font-size:1.5em;\"><span style=\"font-family:Calibri\"><span style=\"color:black\"><span style=\"font-weight:bold\">%</span></span></span></span>",
+                "<span style=\"font-size:1.5em;\"><span style=\"font-family:Calibri\"><span style=\"color:black\"><span style=\"font-weight:bold\">∞</span></span></span></span>",
+                "<span style=\"font-size:1.5em;\"><span style=\"font-family:Calibri\"><span style=\"color:black\"><span style=\"font-weight:bold\">≠</span></span></span></span>"
+              ]
+            }
+          },
+          "instant_feedback": true,
+          "shuffle_options": true
+        },
+        "metadata": {
+          "name": "Match list",
+          "template_reference": "1fa22aac-1f88-47f7-941b-3c77759549e6"
+        }
+      },
+      "feedbackInfo": [
+        null,
+        null
+      ]
+    },
+    {
+      "response_id": "d42dfd5d-c4db-4515-95df-637c7ebb13d8_4cf076144fad9c5c673c23baa8535074",
+      "question_type": "mcq",
+      "dt_score_updated": "2023-10-24T18:09:51Z",
+      "automarkable": true,
+      "attempted": true,
+      "score": 1,
+      "max_score": 1,
+      "question_reference": "16b06567-ef7f-4b88-81ed-f734da503f54",
+      "item_reference": "f250c3bf-877f-4515-a765-c3902c8baee1",
+      "response": {
+        "value": [
+          "1"
+        ],
+        "type": "array",
+        "apiVersion": "v2.192.16",
+        "revision": 1,
+        "feedbackAttemptsCount": 1
+      },
+      "questionInfo": {
+        "type": "mcq",
+        "widget_type": "response",
+        "reference": "16b06567-ef7f-4b88-81ed-f734da503f54",
+        "data": {
+          "options": [
+            {
+              "label": "<span style=\"font-size:1.3em;\">Try new abbreviations and symbols in each lecture.</span>",
+              "value": "0"
+            },
+            {
+              "label": "<span style=\"font-size:1.3em;\">Make a list of abbreviations and symbols you like and use frequently and use the same in every lecture.</span>",
+              "value": "1"
+            }
+          ],
+          "stimulus": "<p>&nbsp;</p>\n\n<div class=\"lrn-well\"><span style=\"font-size:1.5em;\"><strong>What do you think is <span style=\"color:#008000;\">best approach</span> to abbreviations and symbols?</strong></span></div>\n",
+          "type": "mcq",
+          "ui_style": {
+            "choice_label": "upper-alpha",
+            "type": "block"
+          },
+          "validation": {
+            "scoring_type": "exactMatch",
+            "valid_response": {
+              "score": 1,
+              "value": [
+                "1"
+              ]
+            }
+          },
+          "instant_feedback": true
+        },
+        "metadata": {
+          "name": "Multiple choice – block layout",
+          "template_reference": "33d53a22-1a59-4a03-9671-7f5104edd62e"
+        }
+      },
+      "feedbackInfo": [
+        null,
+        null
+      ]
+    },
+    {
+      "response_id": "d42dfd5d-c4db-4515-95df-637c7ebb13d8_be345625d70dd95c531ff6351992536e",
+      "question_type": "tokenhighlight",
+      "dt_score_updated": "2023-10-24T18:14:33Z",
+      "automarkable": true,
+      "attempted": true,
+      "score": 1,
+      "max_score": 1,
+      "question_reference": "bd15a221-9ef3-4683-a0fd-32ebf6f3f395",
+      "item_reference": "4a85cfcc-b259-4e2e-b9a9-969facf15ce1",
+      "response": {
+        "value": [
+          0,
+          1,
+          2,
+          3,
+          4,
+          5
+        ],
+        "type": "array",
+        "apiVersion": "v2.192.16",
+        "revision": 7,
+        "feedbackAttemptsCount": 4
+      },
+      "questionInfo": {
+        "type": "tokenhighlight",
+        "widget_type": "response",
+        "reference": "bd15a221-9ef3-4683-a0fd-32ebf6f3f395",
+        "data": {
+          "stimulus": "<h2><strong>In today's lesson you learned that one of the <span style=\"color:#800080;\">principles of note-taking</span> is to...</strong></h2>\n\n<table class=\"table lrn_width_auto table-no-border\">\n\t<tbody>\n\t\t<tr>\n\t\t\t<td><img class=\"lrn-image-left\" height=\"124\" src=\"https://assets.learnosity.com/organisations/755/d188bfa4-28d2-43b3-bad1-40b4a51c9a35.jpg\" style=\"width: 65px; height: 124px;\" width=\"65\" /></td>\n\t\t\t<td>\n\t\t\t<h3><strong><span style=\"color:#008000;\">►&nbsp;</span><u><span style=\"color:#008000;\">Keep</span></u>: main ideas and key points</strong></h3>\n\n\t\t\t<h4>&nbsp;</h4>\n\n\t\t\t<h3><strong><span style=\"color:#ff0000;\"></span><span style=\"color:#ff0000;\">►&nbsp;</span><u><span style=\"color:#ff0000;\">Omit</span></u>: all that is not needed&nbsp;</strong></h3>\n\t\t\t</td>\n\t\t</tr>\n\t</tbody>\n</table>\n\n<h4>&nbsp;</h4>\n\n<h4><strong>Consider the extract below. Highlight the words that the lecturer uses...</strong></h4>\n\n<div class=\"lrn-well\"><span style=\"font-size:1.3em;\"><strong>1. To show he or she is making a conclusion (SIX words)</strong></span></div>\n",
+          "template": "<p style=\"margin-left: 40px;\"><span style=\"font-size:1.3em;\"><span class=\"lrn_token\">At</span> <span class=\"lrn_token\">the</span> <span class=\"lrn_token\">end</span> <span class=\"lrn_token\">of</span> <span class=\"lrn_token\">the</span> <span class=\"lrn_token\">day</span>, <span class=\"lrn_token\">there’s</span> <span class=\"lrn_token\">really</span> <span class=\"lrn_token\">no</span> <span class=\"lrn_token\">way</span> <span class=\"lrn_token\">round</span> <span class=\"lrn_token\">the</span> <span class=\"lrn_token\">facts</span>: <span class=\"lrn_token\">alcohol</span>, <span class=\"lrn_token\">as</span> <span class=\"lrn_token\">I</span> <span class=\"lrn_token\">have</span> <span class=\"lrn_token\">shown</span>, <span class=\"lrn_token\">is</span> <span class=\"lrn_token\">directly</span> <span class=\"lrn_token\">implicated</span> <span class=\"lrn_token\">in</span> <span class=\"lrn_token\">more</span> <span class=\"lrn_token\">than</span> <span class=\"lrn_token\">three</span> <span class=\"lrn_token\">out</span> <span class=\"lrn_token\">of</span> <span class=\"lrn_token\">every</span> <span class=\"lrn_token\">ten</span> <span class=\"lrn_token\">fatal</span> <span class=\"lrn_token\">road</span> <span class=\"lrn_token\">accidents</span>.</span></p>\n",
+          "tokenization": "custom",
+          "type": "tokenhighlight",
+          "validation": {
+            "scoring_type": "partialMatchV2",
+            "valid_response": {
+              "score": 1,
+              "value": [
+                0,
+                1,
+                2,
+                3,
+                4,
+                5
+              ]
+            }
+          },
+          "instant_feedback": true
+        },
+        "metadata": {
+          "name": "Token highlight",
+          "template_reference": "47f0db98-79e8-4273-946f-90faf4a2ae49"
+        }
+      },
+      "feedbackInfo": [
+        null,
+        null
+      ]
+    },
+    {
+      "response_id": "d42dfd5d-c4db-4515-95df-637c7ebb13d8_7b4a5e02f6c15e66c420d3417464337d",
+      "question_type": "tokenhighlight",
+      "dt_score_updated": "2023-10-24T18:18:59Z",
+      "automarkable": true,
+      "attempted": true,
+      "score": 1,
+      "max_score": 1,
+      "question_reference": "efc6f221-b9a2-4d2e-a8c3-070a0e5181e7",
+      "item_reference": "4a85cfcc-b259-4e2e-b9a9-969facf15ce1",
+      "response": {
+        "value": [
+          6,
+          7,
+          8,
+          9,
+          10,
+          11,
+          12
+        ],
+        "type": "array",
+        "apiVersion": "v2.192.16",
+        "revision": 6,
+        "feedbackAttemptsCount": 2
+      },
+      "questionInfo": {
+        "type": "tokenhighlight",
+        "widget_type": "response",
+        "reference": "efc6f221-b9a2-4d2e-a8c3-070a0e5181e7",
+        "data": {
+          "stimulus": "<div class=\"lrn-well\"><strong><span style=\"font-size:1.3em;\">2. To emphasise a point (SEVEN words).</span></strong></div>\n",
+          "template": "<p style=\"margin-left: 40px;\"><span style=\"font-size:1.3em;\"><span class=\"lrn_token\">At</span> <span class=\"lrn_token\">the</span> <span class=\"lrn_token\">end</span> <span class=\"lrn_token\">of</span> <span class=\"lrn_token\">the</span> <span class=\"lrn_token\">day</span>, <span class=\"lrn_token\">there’s</span> <span class=\"lrn_token\">really</span> <span class=\"lrn_token\">no</span> <span class=\"lrn_token\">way</span> <span class=\"lrn_token\">round</span> <span class=\"lrn_token\">the</span> <span class=\"lrn_token\">facts</span>: <span class=\"lrn_token\">alcohol</span>, <span class=\"lrn_token\">as</span> <span class=\"lrn_token\">I</span> <span class=\"lrn_token\">have</span> <span class=\"lrn_token\">shown</span>, <span class=\"lrn_token\">is</span> <span class=\"lrn_token\">directly</span> <span class=\"lrn_token\">implicated</span> <span class=\"lrn_token\">in</span> <span class=\"lrn_token\">more</span> <span class=\"lrn_token\">than</span> <span class=\"lrn_token\">three</span> <span class=\"lrn_token\">out</span> <span class=\"lrn_token\">of</span> <span class=\"lrn_token\">every</span> <span class=\"lrn_token\">ten</span> <span class=\"lrn_token\">fatal</span> <span class=\"lrn_token\">road</span> <span class=\"lrn_token\">accidents</span>.</span></p>\n",
+          "tokenization": "custom",
+          "type": "tokenhighlight",
+          "validation": {
+            "scoring_type": "partialMatchV2",
+            "valid_response": {
+              "score": 1,
+              "value": [
+                6,
+                7,
+                8,
+                9,
+                10,
+                11,
+                12
+              ]
+            }
+          },
+          "instant_feedback": true
+        },
+        "metadata": {
+          "name": "Token highlight",
+          "template_reference": "47f0db98-79e8-4273-946f-90faf4a2ae49"
+        }
+      },
+      "feedbackInfo": [
+        null,
+        null
+      ]
+    },
+    {
+      "response_id": "d42dfd5d-c4db-4515-95df-637c7ebb13d8_bb70eaad68d833e10ee758a767776e68",
+      "question_type": "tokenhighlight",
+      "dt_score_updated": "2023-10-24T18:15:01Z",
+      "automarkable": true,
+      "attempted": true,
+      "score": 1,
+      "max_score": 1,
+      "question_reference": "f9b657a1-484e-4553-b5fd-3051c977585f",
+      "item_reference": "4a85cfcc-b259-4e2e-b9a9-969facf15ce1",
+      "response": {
+        "value": [
+          14,
+          15,
+          16,
+          17
+        ],
+        "type": "array",
+        "apiVersion": "v2.192.16",
+        "revision": 1
+      },
+      "questionInfo": {
+        "type": "tokenhighlight",
+        "widget_type": "response",
+        "reference": "f9b657a1-484e-4553-b5fd-3051c977585f",
+        "data": {
+          "stimulus": "<div class=\"lrn-well\"><strong><span style=\"font-size:1.3em;\">3. To refer to a previous part of the lecture (FOUR words).</span></strong></div>\n",
+          "template": "<p style=\"margin-left: 40px;\"><span style=\"font-size:1.3em;\"><span class=\"lrn_token\">At</span> <span class=\"lrn_token\">the</span> <span class=\"lrn_token\">end</span> <span class=\"lrn_token\">of</span> <span class=\"lrn_token\">the</span> <span class=\"lrn_token\">day</span>, <span class=\"lrn_token\">there’s</span> <span class=\"lrn_token\">really</span> <span class=\"lrn_token\">no</span> <span class=\"lrn_token\">way</span> <span class=\"lrn_token\">round</span> <span class=\"lrn_token\">the</span> <span class=\"lrn_token\">facts</span>: <span class=\"lrn_token\">alcohol</span>, <span class=\"lrn_token\">as</span> <span class=\"lrn_token\">I</span> <span class=\"lrn_token\">have</span> <span class=\"lrn_token\">shown</span>, <span class=\"lrn_token\">is</span> <span class=\"lrn_token\">directly</span> <span class=\"lrn_token\">implicated</span> <span class=\"lrn_token\">in</span> <span class=\"lrn_token\">more</span> <span class=\"lrn_token\">than</span> <span class=\"lrn_token\">three</span> <span class=\"lrn_token\">out</span> <span class=\"lrn_token\">of</span> <span class=\"lrn_token\">every</span> <span class=\"lrn_token\">ten</span> <span class=\"lrn_token\">fatal</span> <span class=\"lrn_token\">road</span> <span class=\"lrn_token\">accidents</span>.</span></p>\n",
+          "tokenization": "custom",
+          "type": "tokenhighlight",
+          "validation": {
+            "scoring_type": "partialMatchV2",
+            "valid_response": {
+              "score": 1,
+              "value": [
+                14,
+                15,
+                16,
+                17
+              ]
+            }
+          },
+          "instant_feedback": true
+        },
+        "metadata": {
+          "name": "Token highlight",
+          "template_reference": "47f0db98-79e8-4273-946f-90faf4a2ae49"
+        }
+      },
+      "feedbackInfo": [
+        null,
+        null
+      ]
+    },
+    {
+      "response_id": "d42dfd5d-c4db-4515-95df-637c7ebb13d8_d6ac990529ff138d39ccdba0f2bc438a",
+      "question_type": "mcq",
+      "dt_score_updated": "2023-10-24T18:17:10Z",
+      "automarkable": true,
+      "attempted": true,
+      "score": 1,
+      "max_score": 1,
+      "question_reference": "a8dbbe5a-ec74-4967-8273-5c269eb53f3c",
+      "item_reference": "4a85cfcc-b259-4e2e-b9a9-969facf15ce1",
+      "response": {
+        "value": [
+          "0"
+        ],
+        "type": "array",
+        "apiVersion": "v2.192.16",
+        "revision": 1,
+        "feedbackAttemptsCount": 1
+      },
+      "questionInfo": {
+        "type": "mcq",
+        "widget_type": "response",
+        "reference": "a8dbbe5a-ec74-4967-8273-5c269eb53f3c",
+        "data": {
+          "options": [
+            {
+              "label": "<span style=\"font-size:1.1em;\">Alcohol: direct implication&nbsp;+ 30% road deaths</span>",
+              "value": "0"
+            },
+            {
+              "label": "<span style=\"font-size:1.1em;\">Most accidents happen at the end of the day</span>",
+              "value": "1"
+            },
+            {
+              "label": "<span style=\"font-size:1.1em;\">Roundabouts: direct implication&nbsp;+ 30% road deaths</span>",
+              "value": "2"
+            },
+            {
+              "label": "<span style=\"font-size:1.1em;\">The causes of road accidents have been shown</span>",
+              "value": "3"
+            }
+          ],
+          "stimulus": "<h2><img height=\"200\" src=\"https://assets.learnosity.com/organisations/755/b826f0e2-d35d-41ee-a025-ec77aab5937a.jpg\" width=\"200\" /></h2>\n\n<h2><strong>► What is the key point of this extract?</strong></h2>\n\n<p>&nbsp;</p>\n",
+          "type": "mcq",
+          "ui_style": {
+            "choice_label": "upper-alpha",
+            "type": "block"
+          },
+          "validation": {
+            "scoring_type": "exactMatch",
+            "valid_response": {
+              "score": 1,
+              "value": [
+                "0"
+              ]
+            }
+          },
+          "instant_feedback": true,
+          "shuffle_options": true
+        },
+        "metadata": {
+          "name": "Multiple choice – block layout",
+          "template_reference": "33d53a22-1a59-4a03-9671-7f5104edd62e"
+        }
+      },
+      "feedbackInfo": [
+        null,
+        null
+      ]
+    }
+  ]
+}

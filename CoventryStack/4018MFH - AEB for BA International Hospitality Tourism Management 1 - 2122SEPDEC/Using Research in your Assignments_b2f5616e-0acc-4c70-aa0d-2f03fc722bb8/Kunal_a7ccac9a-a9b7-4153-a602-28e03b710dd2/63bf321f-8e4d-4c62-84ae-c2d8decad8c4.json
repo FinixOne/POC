@@ -1,0 +1,242 @@
+{
+  "userId": "a7ccac9a-a9b7-4153-a602-28e03b710dd2",
+  "firstName": "Kunal",
+  "lastName": "Choudhary",
+  "assigmentId": "b2f5616e-0acc-4c70-aa0d-2f03fc722bb8",
+  "assigmentName": "Using Research in your Assignments",
+  "sessionId": "63bf321f-8e4d-4c62-84ae-c2d8decad8c4",
+  "email": "choudharyk@coventry.ac.uk",
+  "spaceId": "9a507ffb-6559-4833-af28-f40266c8e380",
+  "spaceName": "4018MFH - AEB for BA International Hospitality Tourism Management 1 - 2122SEPDEC",
+  "score": 0,
+  "max_score": 3,
+  "questions": [
+    {
+      "response_id": "63bf321f-8e4d-4c62-84ae-c2d8decad8c4_85ca7204c5113bc576657f0bd7858aa8",
+      "question_type": "mcq",
+      "dt_score_updated": "2021-10-18T22:32:43Z",
+      "automarkable": true,
+      "attempted": false,
+      "score": null,
+      "max_score": 1,
+      "question_reference": "f7ebbc81-c15f-42a3-a416-22569ad1a718",
+      "item_reference": "5f3c4d09-8369-4522-a820-d7742e164cb8",
+      "response": null,
+      "questionInfo": {
+        "type": "mcq",
+        "widget_type": "response",
+        "reference": "f7ebbc81-c15f-42a3-a416-22569ad1a718",
+        "data": {
+          "multiple_responses": true,
+          "options": [
+            {
+              "label": "To provide a useful example",
+              "value": "0"
+            },
+            {
+              "label": "To replace our own ideas",
+              "value": "1"
+            },
+            {
+              "label": "To give an expert opinion",
+              "value": "2"
+            },
+            {
+              "label": "To apply theories",
+              "value": "3"
+            },
+            {
+              "label": "To provide supporting statistics &amp; data",
+              "value": "4"
+            },
+            {
+              "label": "To show results from relevant research",
+              "value": "5"
+            }
+          ],
+          "stimulus": "<strong>Why should we&nbsp;use&nbsp;research in our academic assignments? (CHOOSE MORE THAN ONE ANSWER!)</strong>",
+          "type": "mcq",
+          "validation": {
+            "scoring_type": "exactMatch",
+            "valid_response": {
+              "score": 1,
+              "value": [
+                "0",
+                "2",
+                "3",
+                "4",
+                "5"
+              ]
+            }
+          },
+          "ui_style": {
+            "type": "horizontal"
+          },
+          "shuffle_options": true
+        },
+        "metadata": {
+          "name": "Multiple choice – multiple response",
+          "template_reference": "908de244-5c71-4c09-b094-7fb49554f2f9"
+        }
+      },
+      "feedbackInfo": [
+        null,
+        null
+      ]
+    },
+    {
+      "response_id": "63bf321f-8e4d-4c62-84ae-c2d8decad8c4_5c5668f05857d02dd38e17ea6cc99f20",
+      "question_type": "association",
+      "dt_score_updated": "2021-10-18T22:32:43Z",
+      "automarkable": true,
+      "attempted": false,
+      "score": null,
+      "max_score": 1,
+      "question_reference": "d829bdae-d9f2-45a5-ad86-02a8e418b635",
+      "item_reference": "5f3c4d09-8369-4522-a820-d7742e164cb8",
+      "response": null,
+      "questionInfo": {
+        "type": "association",
+        "widget_type": "response",
+        "reference": "d829bdae-d9f2-45a5-ad86-02a8e418b635",
+        "data": {
+          "possible_responses": [
+            "Can you trust the sources and the research, which the author uses to support their theory or opinion?",
+            "Who was the writer writing for? e.g.&nbsp; Academics? Students? The general public? Corporate clients?",
+            "Does the date of publication effect how relevant the source is to your own argument?",
+            "Does the writer want to sell you an idea or opinion? Do they have an agenda?",
+            "Is the content connected to you what you are writing about? E.g. Is a book on marketing patterns in the US appropriate for your report on marketing in the UK?",
+            "Is the author qualified to write about the topic? Can you trust their opinion or their research?"
+          ],
+          "stimulus": "<strong>For our assignments to be credible, we need to choose appropriate sources to support our arguments. One way to check our sources are appropriate is to apply the six-step REVIEW method. Can you match the different steps you need to take when checking your material</strong>",
+          "stimulus_list": [
+            "Relevance",
+            "Expertise",
+            "Viewpoint",
+            "Intended audience",
+            "Evidence",
+            "When published"
+          ],
+          "type": "association",
+          "validation": {
+            "scoring_type": "exactMatch",
+            "valid_response": {
+              "score": 1,
+              "value": [
+                "Is the content connected to you what you are writing about? E.g. Is a book on marketing patterns in the US appropriate for your report on marketing in the UK?",
+                "Is the author qualified to write about the topic? Can you trust their opinion or their research?",
+                "Does the writer want to sell you an idea or opinion? Do they have an agenda?",
+                "Who was the writer writing for? e.g.&nbsp; Academics? Students? The general public? Corporate clients?",
+                "Can you trust the sources and the research, which the author uses to support their theory or opinion?",
+                "Does the date of publication effect how relevant the source is to your own argument?"
+              ]
+            }
+          }
+        },
+        "metadata": {
+          "name": "Match list",
+          "template_reference": "1fa22aac-1f88-47f7-941b-3c77759549e6"
+        }
+      },
+      "feedbackInfo": [
+        null,
+        null
+      ]
+    },
+    {
+      "response_id": "63bf321f-8e4d-4c62-84ae-c2d8decad8c4_5336ba7cf7cb220a0f0c4a74ab2b515b",
+      "question_type": "choicematrix",
+      "dt_score_updated": "2021-10-18T22:32:43Z",
+      "automarkable": true,
+      "attempted": false,
+      "score": null,
+      "max_score": 1,
+      "question_reference": "2e56948b-35b7-480a-8a38-0972855875a5",
+      "item_reference": "5f3c4d09-8369-4522-a820-d7742e164cb8",
+      "response": null,
+      "questionInfo": {
+        "type": "choicematrix",
+        "widget_type": "response",
+        "reference": "2e56948b-35b7-480a-8a38-0972855875a5",
+        "data": {
+          "options": [
+            "Summary",
+            "Paraphrase",
+            "Quotation"
+          ],
+          "stems": [
+            "involves using your own words",
+            "involves copying the exact words from a text",
+            "puts words in inverted commas \" \"",
+            "is much shorter than the original text",
+            "is usually only a short piece of text",
+            "includes an in-text citation",
+            "presents a general overview of ideas and evidence from the original text",
+            "accurately presents an idea or piece of information from a text, but in your own words",
+            "should only be used if the exact words are important",
+            "demonstrate a good understanding of the text"
+          ],
+          "stimulus": "<p><span style=\"font-size:1.1em;\"><em><strong>Read the following descriptions of QUOTING, PARAPHRASING &amp; SUMMARISING, then complete the grid below by selecting the form by deciding which form (or forms) is being described.</strong></em></span></p>\n\n<p><span style=\"font-size:1.1em;\">We can use ideas from sources in our assignments by quoting, paraphrasing, or summarising.&nbsp;Quoting is using the exact words and phrases from the source. However, paraphrasing and summarising involve putting ideas in your own words, to demonstrate understanding of the text. Whichever you use, supporting your ideas with referenced sources makes your writing more credible. In order to avoid plagiarism, you need to make sure you do this correctly.</span></p>\n\n<h2><span style=\"font-size:1.1em;\">What are the differences?</span></h2>\n\n<h3><span style=\"font-size:1.1em;\">Quoting</span></h3>\n\n<ul>\n\t<li><span style=\"font-size:1.1em;\">involves copying short sentences or passages from the original text word-for-word</span></li>\n\t<li><span style=\"font-size:1.1em;\">places copied wording within “quotation marks”&nbsp;</span></li>\n\t<li><span style=\"font-size:1.1em;\">includes an in-text citation&nbsp;using the expected&nbsp;<a href=\"https://writingcenter.uagc.edu/apamlachicago\">formatting style&nbsp;</a>(APA, MLA, etc.)</span></li>\n</ul>\n\n<h3><span style=\"font-size:1.1em;\">Paraphrasing</span></h3>\n\n<ul>\n\t<li><span style=\"font-size:1.1em;\">involves putting a section of a text into your own words</span></li>\n\t<li><span style=\"font-size:1.1em;\">changes the words and phrasing of the original text, but keeps the original meaning of the text</span></li>\n\t<li><span style=\"font-size:1.1em;\">includes an in-text citation using the expected&nbsp;<a href=\"https://writingcenter.uagc.edu/apamlachicago\">formatting style&nbsp;</a>(APA, MLA, etc.)</span></li>\n</ul>\n\n<h3><span style=\"font-size:1.1em;\">Summarising</span></h3>\n\n<ul>\n\t<li><span style=\"font-size:1.1em;\">involves stating the main ideas and findings of a text into your own words</span></li>\n\t<li><span style=\"font-size:1.1em;\">presents a general overview, so is usually much shorter than the original text</span></li>\n\t<li><span style=\"font-size:1.1em;\">includes an in-text citation using the expected&nbsp;<a href=\"https://writingcenter.uagc.edu/apamlachicago\">formatting style&nbsp;</a>(APA, MLA, etc.)</span></li>\n</ul>\n\n<p>&nbsp;</p>\n",
+          "type": "choicematrix",
+          "ui_style": {
+            "stem_numeration": "upper-alpha",
+            "type": "table",
+            "horizontal_lines": false
+          },
+          "validation": {
+            "scoring_type": "exactMatch",
+            "valid_response": {
+              "score": 1,
+              "value": [
+                [
+                  0,
+                  1
+                ],
+                [
+                  2
+                ],
+                [
+                  2
+                ],
+                [
+                  0
+                ],
+                [
+                  2
+                ],
+                [
+                  0,
+                  1,
+                  2
+                ],
+                [
+                  0
+                ],
+                [
+                  1
+                ],
+                [
+                  2
+                ],
+                [
+                  0,
+                  1
+                ]
+              ]
+            }
+          },
+          "shuffle_options": true,
+          "multiple_responses": true
+        },
+        "metadata": {
+          "name": "Choice matrix – labels",
+          "template_reference": "9de82e14-802c-4bea-a635-bf9ad0b622fb"
+        }
+      },
+      "feedbackInfo": [
+        null,
+        null
+      ]
+    }
+  ]
+}

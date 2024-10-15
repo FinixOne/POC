@@ -1,0 +1,1330 @@
+{
+  "userId": "f00843b9-9b4c-4751-813c-d5eff13d3e4d",
+  "firstName": "Jiaxin",
+  "lastName": "Miao",
+  "assigmentId": "bda4b5bb-8629-4651-b814-da742e2d5eb0",
+  "assigmentName": "Lecture Skills",
+  "sessionId": "2e9c6c26-eaf5-4ba4-a39e-e090e0e6c376",
+  "email": "miaoj7@coventry.ac.uk",
+  "spaceId": "eccb3434-e130-4250-b8cd-8ba714fcec86",
+  "spaceName": "(Community) Presessional English (PSE London)",
+  "score": 70,
+  "max_score": 70,
+  "questions": [
+    {
+      "response_id": "2e9c6c26-eaf5-4ba4-a39e-e090e0e6c376_2f77dfeb487eb3ae52b9856d5c1cc7d9",
+      "question_type": "clozeassociation",
+      "dt_score_updated": "2022-12-08T06:50:44Z",
+      "automarkable": true,
+      "attempted": true,
+      "score": 4,
+      "max_score": 4,
+      "question_reference": "9cb89724-9af0-424a-8795-735a068bd437",
+      "item_reference": "7e56b9ca-8c56-432f-87ea-d299650a2c3d",
+      "response": {
+        "value": [
+          "<span style=\"font-size:1em;\">to engage with the topic</span>",
+          "to test how much you know about the topic",
+          "to ensure you understand them when you hear them",
+          "to share ideas and clarify issues&nbsp;"
+        ],
+        "type": "array",
+        "apiVersion": "v2.193.0",
+        "revision": 3,
+        "feedbackAttemptsCount": 2
+      },
+      "questionInfo": {
+        "type": "clozeassociation",
+        "widget_type": "response",
+        "reference": "9cb89724-9af0-424a-8795-735a068bd437",
+        "data": {
+          "possible_responses": [
+            "<span style=\"font-size:1em;\">to engage with the topic</span>",
+            "to test how much you know about the topic",
+            "to ensure you understand them when you hear them",
+            "to share ideas and clarify issues&nbsp;"
+          ],
+          "response_container": {
+            "pointer": "left"
+          },
+          "stimulus": "<h2 id=\"yui_3_17_2_1_1630924389031_3337\"><img class=\"lrn-image-left\" height=\"106\" src=\"https://assets.learnosity.com/organisations/755/e0fe52f2-a92f-49b5-8c9f-7a596012a146.jpg\" style=\"width: 278px; height: 106px;\" width=\"278\"><br>\n&nbsp;</h2>\n\n<p>&nbsp;</p>\n\n<p>&nbsp;</p>\n\n<h4 id=\"yui_3_17_2_1_1630924389031_3342\"><strong>Here are some<span style=\"color:#ffa07a;\">&nbsp;</span><span style=\"color:#ff0000;\">Lecture Strategies</span><span style=\"color:#daa520;\"> </span>that we discussed in today's session. </strong></h4>\n\n<h4><strong><span style=\"color:#ff8c00;\"></span><span style=\"color:#ff0000;\">► </span>Drag and drop the sentence halves to make a useful lecture tip.</strong></h4>\n\n<p>&nbsp;</p>\n",
+          "template": "<h4 id=\"yui_3_17_2_1_1630924389031_3502\"><span style=\"color:#ff8c00;\"><strong>► BEFORE THE LECTURE</strong></span></h4>\n\n<p style=\"margin-left: 40px;\"><span style=\"font-size:1.3em;\"></span><strong><span style=\"font-size:1.3em;\">1. Analyse the lecture title&nbsp;</span><span style=\"font-size:1em;\">{{response}}</span><span style=\"font-size:1.3em;\"></span></strong></p>\n\n<p style=\"margin-left: 40px;\"><strong><span style=\"font-size:1.3em;\"><b id=\"yui_3_17_2_1_1630924389031_3509\">2. Brainstorm vocabulary</b> </span><span style=\"font-size:1em;\">{{response}}</span><span style=\"font-size:1.3em;\"></span></strong></p>\n\n<p style=\"margin-left: 40px;\"><strong><span style=\"font-size:1.3em;\"><span style=\"font-size:1.3em;\"></span></span><span style=\"font-size:1.3em;\">3. Check meaning and pronunciation of key words</span><span style=\"font-size:1.3em;\">&nbsp;</span><span style=\"font-size:1em;\">{{response}}</span><span style=\"font-size:1.3em;\"></span></strong></p>\n\n<p style=\"margin-left: 40px;\"><strong><span style=\"font-size:1.3em;\"><b id=\"yui_3_17_2_1_1630924389031_3514\">4. Talk with classmates </b></span><span style=\"font-size:1em;\">{{response}}</span><span style=\"font-size:1.3em;\"></span></strong></p>\n",
+          "type": "clozeassociation",
+          "case_sensitive": true,
+          "validation": {
+            "scoring_type": "partialMatchV2",
+            "valid_response": {
+              "score": 4,
+              "value": [
+                "<span style=\"font-size:1em;\">to engage with the topic</span>",
+                "to test how much you know about the topic",
+                "to ensure you understand them when you hear them",
+                "to share ideas and clarify issues&nbsp;"
+              ]
+            }
+          },
+          "instant_feedback": true,
+          "shuffle_options": true,
+          "ui_style": {
+            "show_drag_handle": false
+          }
+        },
+        "metadata": {
+          "name": "Cloze with drag & drop",
+          "template_reference": "51a8c1e7-f34f-4faf-b211-da458e891fcb"
+        }
+      },
+      "feedbackInfo": [
+        null,
+        null
+      ]
+    },
+    {
+      "response_id": "2e9c6c26-eaf5-4ba4-a39e-e090e0e6c376_b38ac48df60a015ddc444ab5756f6a3b",
+      "question_type": "clozeassociation",
+      "dt_score_updated": "2022-12-08T06:51:13Z",
+      "automarkable": true,
+      "attempted": true,
+      "score": 4,
+      "max_score": 4,
+      "question_reference": "a9318c47-2ab2-468e-b28f-e3eece3ea8d0",
+      "item_reference": "7e56b9ca-8c56-432f-87ea-d299650a2c3d",
+      "response": {
+        "value": [
+          "always make a note of the lecture structure",
+          "even if you don’t understand certain words",
+          "to the visuals that the lecturer uses",
+          "when you write your notes – not everything is needed!&nbsp;"
+        ],
+        "type": "array",
+        "apiVersion": "v2.193.0",
+        "revision": 2
+      },
+      "questionInfo": {
+        "type": "clozeassociation",
+        "widget_type": "response",
+        "reference": "a9318c47-2ab2-468e-b28f-e3eece3ea8d0",
+        "data": {
+          "possible_responses": [
+            "always make a note of the lecture structure",
+            "even if you don’t understand certain words",
+            "to the visuals that the lecturer uses",
+            "when you write your notes – not everything is needed!&nbsp;"
+          ],
+          "response_container": {
+            "pointer": "left"
+          },
+          "template": "<h4><span style=\"color:#ff0000;\"><strong>​►&nbsp;<span style=\"font-size:1.3em;\">DURING THE LECTURE</span></strong></span></h4>\n\n<p style=\"margin-left: 40px;\"><strong><span style=\"font-size:1.3em;\">1. In the introduction&nbsp;</span><span style=\"font-size:1em;\">{{response}}</span><span style=\"font-size:1.3em;\"></span></strong></p>\n\n<p style=\"margin-left: 40px;\"><strong><span style=\"font-size:1.3em;\">2. Keep listening&nbsp;</span><span style=\"font-size:1em;\">{{response}}</span><span style=\"font-size:1.3em;\"></span></strong></p>\n\n<p style=\"margin-left: 40px;\"><strong><span style=\"font-size:1.3em;\">3. Pay attention&nbsp;</span><span style=\"font-size:1em;\">{{response}}</span><span style=\"font-size:1.3em;\"></span></strong></p>\n\n<p style=\"margin-left: 40px;\"><strong><span style=\"font-size:1.3em;\">4. Be selective&nbsp;</span><span style=\"font-size:1em;\">{{response}}</span><span style=\"font-size:1.3em;\"></span></strong></p>\n\n<p><span style=\"font-size:1.3em;\">​</span></p>\n",
+          "type": "clozeassociation",
+          "case_sensitive": true,
+          "validation": {
+            "scoring_type": "partialMatchV2",
+            "valid_response": {
+              "score": 4,
+              "value": [
+                "always make a note of the lecture structure",
+                "even if you don’t understand certain words",
+                "to the visuals that the lecturer uses",
+                "when you write your notes – not everything is needed!&nbsp;"
+              ]
+            }
+          },
+          "ui_style": {
+            "show_drag_handle": false
+          },
+          "instant_feedback": true,
+          "shuffle_options": true
+        },
+        "metadata": {
+          "name": "Cloze with drag & drop",
+          "template_reference": "51a8c1e7-f34f-4faf-b211-da458e891fcb"
+        }
+      },
+      "feedbackInfo": [
+        null,
+        null
+      ]
+    },
+    {
+      "response_id": "2e9c6c26-eaf5-4ba4-a39e-e090e0e6c376_b67bb3f49805a0b88a3877f05a8c6f06",
+      "question_type": "clozedropdown",
+      "dt_score_updated": "2022-12-08T06:55:59Z",
+      "automarkable": true,
+      "attempted": true,
+      "score": 7,
+      "max_score": 7,
+      "question_reference": "29f52167-05e1-4a0a-8cf0-9f192bdf830f",
+      "item_reference": "32f61048-422f-4515-b73c-b336f7e4d8a4",
+      "response": {
+        "value": [
+          "capital",
+          "business",
+          "skills",
+          "hairdressing salons",
+          "to invest heavily",
+          "control",
+          "mimimise"
+        ],
+        "type": "array",
+        "apiVersion": "v2.193.0",
+        "revision": 6,
+        "feedbackAttemptsCount": 3
+      },
+      "questionInfo": {
+        "type": "clozedropdown",
+        "widget_type": "response",
+        "reference": "29f52167-05e1-4a0a-8cf0-9f192bdf830f",
+        "data": {
+          "possible_responses": [
+            [
+              "capital",
+              "business",
+              "skills",
+              "hairdressing salons",
+              "to invest heavily",
+              "control",
+              "minimise",
+              "management",
+              "fast-food restaurant",
+              "maximise",
+              "to make profit",
+              "interest"
+            ],
+            [
+              "capital",
+              "business",
+              "hairdressing salons",
+              "to invest heavily",
+              "control",
+              "mimimise",
+              "management",
+              "fast-food restaurant",
+              "maximise",
+              "to make profit",
+              "interest",
+              "skills"
+            ],
+            [
+              "capital",
+              "business",
+              "skills",
+              "hairdressing salons",
+              "to invest heavily",
+              "control",
+              "mimimise",
+              "management",
+              "fast-food restaurant",
+              "maximise",
+              "to make profit",
+              "interest"
+            ],
+            [
+              "capital",
+              "business",
+              "skills",
+              "hairdressing salons",
+              "to invest heavily",
+              "control",
+              "mimimise",
+              "management",
+              "fast-food restaurant",
+              "maximise",
+              "to make profit",
+              "interest"
+            ],
+            [
+              "capital",
+              "business",
+              "hairdressing salons",
+              "to invest heavily",
+              "control",
+              "mimimise",
+              "management",
+              "fast-food restaurant",
+              "maximise",
+              "to make profit",
+              "interest",
+              "skills"
+            ],
+            [
+              "capital",
+              "business",
+              "skills",
+              "hairdressing salons",
+              "to invest heavily",
+              "control",
+              "mimimise",
+              "management",
+              "fast-food restaurant",
+              "maximise",
+              "to make profit",
+              "interest"
+            ],
+            [
+              "capital",
+              "business",
+              "skills",
+              "hairdressing salons",
+              "to invest heavily",
+              "control",
+              "mimimise",
+              "management",
+              "fast-food restaurant",
+              "maximise",
+              "to make profit",
+              "interest"
+            ]
+          ],
+          "response_container": {
+            "pointer": "left"
+          },
+          "template": "<div class=\"lrn-well\" id=\"yui_3_17_2_1_1630925556768_10392\"><span style=\"font-size:1.3em;\"><b id=\"yui_3_17_2_1_1630925556768_10393\">1.&nbsp;</b><b>What may you need in order to develop a small or medium-sized enterprise?</b></span></div>\n\n<p style=\"margin-left: 40px;\"><span style=\"font-size:1.3em;\"><b>You may need:&nbsp;</b></span></p>\n\n<ul style=\"margin-left: 40px;\">\n\t<li><span style=\"font-size:1.3em;\">large amounts of {{response}}</span></li>\n\t<li><span style=\"font-size:1.3em;\">to reorganise your {{response}}</span></li>\n\t<li><span style=\"font-size:1.3em;\">to bring new {{response}} into the management team</span></li>\n</ul>\n\n<div class=\"lrn-well\" id=\"yui_3_17_2_1_1630925556768_10406\"><span style=\"font-size:1.3em;\"><strong>2.&nbsp;What example of such a business is given?</strong></span></div>\n\n<ul>\n\t<li><span style=\"font-size:1.3em;\">A small chain of {{response}}</span></li>\n</ul>\n\n<div class=\"lrn-well\"><span style=\"font-size:1.3em;\"><strong>3. What risks are there for a business owner in expanding his or her business?&nbsp;</strong></span></div>\n\n<p style=\"margin-left: 40px;\"><span style=\"font-size:1.3em;\"><strong>Risks include:</strong></span></p>\n\n<ul style=\"margin-left: 40px;\">\n\t<li><span style=\"font-size:1.3em;\">You may need {{response}}</span></li>\n\t<li><span style=\"font-size:1.3em;\">You may not have as much personal {{response}} over the business</span></li>\n</ul>\n\n<div class=\"lrn-well\" id=\"yui_3_17_2_1_1630925556768_10413\"><strong><span style=\"font-size:1.3em;\">4. What is the key point of this section?</span></strong></div>\n\n<ul>\n\t<li><span style=\"font-size:1.3em;\">Franchising can {{response}} the risks involved in expansion</span></li>\n</ul>\n",
+          "type": "clozedropdown",
+          "case_sensitive": true,
+          "validation": {
+            "scoring_type": "partialMatchV2",
+            "valid_response": {
+              "score": 7,
+              "value": [
+                "capital",
+                "business",
+                "skills",
+                "hairdressing salons",
+                "to invest heavily",
+                "control",
+                "mimimise"
+              ]
+            }
+          },
+          "instant_feedback": true,
+          "shuffle_options": true
+        },
+        "metadata": {
+          "name": "Cloze with drop down",
+          "template_reference": "2fbba51b-e35e-441f-83c7-2662e2e81fa6"
+        }
+      },
+      "feedbackInfo": [
+        null,
+        null
+      ]
+    },
+    {
+      "response_id": "2e9c6c26-eaf5-4ba4-a39e-e090e0e6c376_9d0946b0140fc66beb9f3691fda76a0a",
+      "question_type": "mcq",
+      "dt_score_updated": "2022-12-08T06:56:58Z",
+      "automarkable": true,
+      "attempted": true,
+      "score": 1,
+      "max_score": 1,
+      "question_reference": "90cd1507-dc9e-425d-bc92-64c73562f2ab",
+      "item_reference": "32f61048-422f-4515-b73c-b336f7e4d8a4",
+      "response": {
+        "value": [
+          "2"
+        ],
+        "type": "array",
+        "apiVersion": "v2.193.0",
+        "revision": 2,
+        "feedbackAttemptsCount": 2
+      },
+      "questionInfo": {
+        "type": "mcq",
+        "widget_type": "response",
+        "reference": "90cd1507-dc9e-425d-bc92-64c73562f2ab",
+        "data": {
+          "options": [
+            {
+              "label": "Job franchising",
+              "value": "0"
+            },
+            {
+              "label": "Product (or distribution) Franchising",
+              "value": "1"
+            },
+            {
+              "label": "Business Format Franchising",
+              "value": "2"
+            },
+            {
+              "label": "Investment Franchsing",
+              "value": "3"
+            }
+          ],
+          "stimulus": "<div class=\"lrn-well\"><strong><span style=\"font-size:1.3em;\">1. What type of franchising is defined here?</span></strong></div>\n",
+          "type": "mcq",
+          "validation": {
+            "scoring_type": "exactMatch",
+            "valid_response": {
+              "score": 1,
+              "value": [
+                "2"
+              ]
+            }
+          },
+          "ui_style": {
+            "type": "horizontal"
+          },
+          "instant_feedback": true,
+          "shuffle_options": true
+        },
+        "metadata": {
+          "name": "Multiple choice – standard",
+          "template_reference": "9e8149bd-e4d8-4dd6-a751-1a113a4b9163"
+        }
+      },
+      "feedbackInfo": [
+        null,
+        null
+      ]
+    },
+    {
+      "response_id": "2e9c6c26-eaf5-4ba4-a39e-e090e0e6c376_50ece61bd225c3a57ff4092ee47bbcc9",
+      "question_type": "clozedropdown",
+      "dt_score_updated": "2022-12-08T06:58:08Z",
+      "automarkable": true,
+      "attempted": true,
+      "score": 1,
+      "max_score": 1,
+      "question_reference": "2c7adaae-f87a-496a-a9c8-4c2ea1137825",
+      "item_reference": "32f61048-422f-4515-b73c-b336f7e4d8a4",
+      "response": {
+        "value": [
+          "McDonalds",
+          "Bill Jones"
+        ],
+        "type": "array",
+        "apiVersion": "v2.193.0",
+        "revision": 1,
+        "feedbackAttemptsCount": 1
+      },
+      "questionInfo": {
+        "type": "clozedropdown",
+        "widget_type": "response",
+        "reference": "2c7adaae-f87a-496a-a9c8-4c2ea1137825",
+        "data": {
+          "possible_responses": [
+            [
+              "McDonalds",
+              "Bill Jones"
+            ],
+            [
+              "McDonalds",
+              "Bill Jones"
+            ]
+          ],
+          "response_container": {
+            "pointer": "left"
+          },
+          "template": "<div class=\"lrn-well\" id=\"yui_3_17_2_1_1630931018484_3285\"><strong><span style=\"font-size:1.3em;\">2. If Bill Jones wants to open a branch of McDonald's in his hometown...</span></strong></div>\n\n<p style=\"margin-left: 40px;\"><span style=\"font-size:1.1em;\">Who is the <em>franchisor</em>? Who is the <em>franchisee</em>?</span></p>\n\n<ul>\n\t<li style=\"margin-left: 40px;\"><span style=\"font-size:1.1em;\">{{response}}&nbsp;is the <em>franchisor</em></span></li>\n\t<li style=\"margin-left: 40px;\"><span style=\"font-size:1.1em;\">{{response}} is the <em>franchisee</em></span></li>\n</ul>\n",
+          "type": "clozedropdown",
+          "case_sensitive": true,
+          "validation": {
+            "scoring_type": "exactMatch",
+            "valid_response": {
+              "score": 1,
+              "value": [
+                "McDonalds",
+                "Bill Jones"
+              ]
+            }
+          },
+          "instant_feedback": true
+        },
+        "metadata": {
+          "name": "Cloze with drop down",
+          "template_reference": "2fbba51b-e35e-441f-83c7-2662e2e81fa6"
+        }
+      },
+      "feedbackInfo": [
+        null,
+        null
+      ]
+    },
+    {
+      "response_id": "2e9c6c26-eaf5-4ba4-a39e-e090e0e6c376_a0f225242fe35160e2e70d393c5da9f5",
+      "question_type": "mcq",
+      "dt_score_updated": "2022-12-08T06:59:33Z",
+      "automarkable": true,
+      "attempted": true,
+      "score": 2,
+      "max_score": 2,
+      "question_reference": "01d51c42-6bf9-47bf-be4b-fbb45c4947df",
+      "item_reference": "32f61048-422f-4515-b73c-b336f7e4d8a4",
+      "response": {
+        "value": [
+          "1",
+          "0"
+        ],
+        "type": "array",
+        "apiVersion": "v2.193.0",
+        "revision": 1,
+        "feedbackAttemptsCount": 1
+      },
+      "questionInfo": {
+        "type": "mcq",
+        "widget_type": "response",
+        "reference": "01d51c42-6bf9-47bf-be4b-fbb45c4947df",
+        "data": {
+          "multiple_responses": true,
+          "options": [
+            {
+              "label": "Trade under the name of the franchisor",
+              "value": "0"
+            },
+            {
+              "label": "Receive a package of support",
+              "value": "1"
+            },
+            {
+              "label": "Give support to the franchisor",
+              "value": "2"
+            },
+            {
+              "label": "Employ new workers for the company",
+              "value": "3"
+            },
+            {
+              "label": "Start new marketing campaigns",
+              "value": "4"
+            }
+          ],
+          "stimulus": "<div class=\"lrn-well\"><strong><span style=\"font-size:1.3em;\">3. What does the license entitle the franchisee to do? (Choose <u>two</u> answers)</span></strong></div>\n",
+          "type": "mcq",
+          "validation": {
+            "scoring_type": "exactMatch",
+            "valid_response": {
+              "score": 2,
+              "value": [
+                "0",
+                "1"
+              ]
+            }
+          },
+          "ui_style": {
+            "type": "horizontal"
+          },
+          "instant_feedback": true,
+          "shuffle_options": true
+        },
+        "metadata": {
+          "name": "Multiple choice – multiple response",
+          "template_reference": "908de244-5c71-4c09-b094-7fb49554f2f9"
+        }
+      },
+      "feedbackInfo": [
+        null,
+        null
+      ]
+    },
+    {
+      "response_id": "2e9c6c26-eaf5-4ba4-a39e-e090e0e6c376_9ccdd72ff3a207ede2c4ace098417b2b",
+      "question_type": "clozeassociation",
+      "dt_score_updated": "2022-12-08T06:59:19Z",
+      "automarkable": true,
+      "attempted": true,
+      "score": 4,
+      "max_score": 4,
+      "question_reference": "ad8e892d-23bb-4056-b0c0-80eb6b09cfde",
+      "item_reference": "32f61048-422f-4515-b73c-b336f7e4d8a4",
+      "response": {
+        "value": [
+          "Training",
+          "Consultancy",
+          "Marketing",
+          "Supplies"
+        ],
+        "type": "array",
+        "apiVersion": "v2.193.0",
+        "revision": 3,
+        "feedbackAttemptsCount": 2
+      },
+      "questionInfo": {
+        "type": "clozeassociation",
+        "widget_type": "response",
+        "reference": "ad8e892d-23bb-4056-b0c0-80eb6b09cfde",
+        "data": {
+          "possible_responses": [
+            "Training",
+            "Consultancy",
+            "Marketing",
+            "Supplies"
+          ],
+          "response_container": {
+            "pointer": "left"
+          },
+          "template": "<ul>\n\t<li style=\"margin-left: 40px;\">{{response}} - a program of teaching to help staff to acquire new skills</li>\n\t<li style=\"margin-left: 40px;\">{{response}} - expert advice provided by the franchisor</li>\n\t<li style=\"margin-left: 40px;\">{{response}} - the action of promoting the brand and its products</li>\n\t<li style=\"margin-left: 40px;\">{{response}} - important equipment which contributes to the operation of the franchise</li>\n</ul>\n",
+          "type": "clozeassociation",
+          "case_sensitive": true,
+          "validation": {
+            "scoring_type": "partialMatchV2",
+            "valid_response": {
+              "score": 4,
+              "value": [
+                "Training",
+                "Consultancy",
+                "Marketing",
+                "Supplies"
+              ]
+            }
+          },
+          "instant_feedback": true,
+          "shuffle_options": true,
+          "stimulus": "<div class=\"lrn-well\"><strong><span style=\"font-size:1.3em;\">4. What would the 'package' received by the franchisee include?</span></strong></div>\n"
+        },
+        "metadata": {
+          "name": "Cloze with drag & drop",
+          "template_reference": "51a8c1e7-f34f-4faf-b211-da458e891fcb"
+        }
+      },
+      "feedbackInfo": [
+        null,
+        null
+      ]
+    },
+    {
+      "response_id": "2e9c6c26-eaf5-4ba4-a39e-e090e0e6c376_755636a0fa7f8057340b3fd1bef288ce",
+      "question_type": "imageclozeassociationV2",
+      "dt_score_updated": "2022-12-08T07:01:28Z",
+      "automarkable": true,
+      "attempted": true,
+      "score": 8,
+      "max_score": 8,
+      "question_reference": "9050ed6e-bb8b-4b73-af7b-16ce4ded4db8",
+      "item_reference": "32f61048-422f-4515-b73c-b336f7e4d8a4",
+      "response": {
+        "value": [
+          [
+            "Fast Food Restaurant"
+          ],
+          [
+            "trademark"
+          ],
+          [
+            "Signage"
+          ],
+          [
+            "Materials"
+          ],
+          [
+            "Uniform"
+          ],
+          [
+            "INITIAL FEE"
+          ],
+          [
+            "MNGMT SERVICE FEE"
+          ],
+          [
+            "% of turnover"
+          ]
+        ],
+        "type": "array",
+        "apiVersion": "v2.193.0",
+        "revision": 5,
+        "feedbackAttemptsCount": 2
+      },
+      "questionInfo": {
+        "type": "imageclozeassociationV2",
+        "widget_type": "response",
+        "reference": "9050ed6e-bb8b-4b73-af7b-16ce4ded4db8",
+        "data": {
+          "image": {
+            "src": "https://assets.learnosity.com/organisations/755/33b0834b-f911-41d7-b532-dbdf8e99f12c.jpg",
+            "width": 900,
+            "height": 442
+          },
+          "possible_responses": [
+            "Fast Food Restaurant",
+            "trademark",
+            "Signage",
+            "Materials",
+            "Uniform",
+            "INITIAL FEE",
+            "MNGMT SERVICE FEE",
+            "% of turnover"
+          ],
+          "response_containers": [
+            {
+              "x": 10,
+              "y": 3,
+              "width": "33.41%",
+              "height": "10.73%",
+              "aria_label": "",
+              "pointer": "undefined"
+            },
+            {
+              "x": 72,
+              "y": 8,
+              "width": "18.03%",
+              "height": "9.90%",
+              "aria_label": "",
+              "pointer": "undefined"
+            },
+            {
+              "x": 13,
+              "y": 41,
+              "width": "17.95%",
+              "height": "9.07%",
+              "aria_label": "",
+              "pointer": "undefined"
+            },
+            {
+              "x": 13.75,
+              "y": 51.91,
+              "aria_label": "",
+              "width": "18.13%",
+              "height": "9.59%",
+              "pointer": "none"
+            },
+            {
+              "x": 49,
+              "y": 40,
+              "aria_label": "",
+              "width": "10.27%",
+              "height": "9.59%",
+              "pointer": "none"
+            },
+            {
+              "x": 20,
+              "y": 74,
+              "aria_label": "",
+              "width": "11.99%",
+              "height": "7.92%",
+              "pointer": "none"
+            },
+            {
+              "x": 30,
+              "y": 83,
+              "aria_label": "",
+              "width": "23.20%",
+              "height": "7.42%",
+              "pointer": "none"
+            },
+            {
+              "x": 56,
+              "y": 89,
+              "aria_label": "",
+              "width": "18.13%",
+              "height": "7.26%",
+              "pointer": "none"
+            }
+          ],
+          "type": "imageclozeassociationV2",
+          "case_sensitive": true,
+          "validation": {
+            "scoring_type": "partialMatchV2",
+            "valid_response": {
+              "score": 8,
+              "value": [
+                [
+                  "Fast Food Restaurant"
+                ],
+                [
+                  "trademark"
+                ],
+                [
+                  "Signage"
+                ],
+                [
+                  "Materials"
+                ],
+                [
+                  "Uniform"
+                ],
+                [
+                  "INITIAL FEE"
+                ],
+                [
+                  "MNGMT SERVICE FEE"
+                ],
+                [
+                  "% of turnover"
+                ]
+              ]
+            }
+          },
+          "instant_feedback": true,
+          "shuffle_options": true,
+          "ui_style": {
+            "show_drag_handle": true
+          }
+        },
+        "metadata": {
+          "name": "Label image with drag & drop",
+          "template_reference": "6e77b403-8f0c-43af-b464-9450e1ac70dc"
+        }
+      },
+      "feedbackInfo": [
+        null,
+        null
+      ]
+    },
+    {
+      "response_id": "2e9c6c26-eaf5-4ba4-a39e-e090e0e6c376_4acb55944697c65f5b638230cf12d554",
+      "question_type": "clozedropdown",
+      "dt_score_updated": "2022-12-08T07:03:35Z",
+      "automarkable": true,
+      "attempted": true,
+      "score": 6,
+      "max_score": 6,
+      "question_reference": "33a31739-f431-4404-bbbf-d6c4a077d5b7",
+      "item_reference": "2764033f-564c-4a2e-8020-cbec0d41981c",
+      "response": {
+        "value": [
+          "Stable, long-term market",
+          "substantial investment",
+          "an established market",
+          "long-term growth",
+          "hairdressing salons",
+          "a new kind of toy"
+        ],
+        "type": "array",
+        "apiVersion": "v2.193.0",
+        "revision": 4,
+        "feedbackAttemptsCount": 1
+      },
+      "questionInfo": {
+        "type": "clozedropdown",
+        "widget_type": "response",
+        "reference": "33a31739-f431-4404-bbbf-d6c4a077d5b7",
+        "data": {
+          "possible_responses": [
+            [
+              "Stable, long-term market",
+              "substantial investment",
+              "an established market",
+              "long-term growth",
+              "hairdressing salons",
+              "a new kind of toy",
+              "long-term investment",
+              "an established operation",
+              "a fast food chain"
+            ],
+            [
+              "Stable, long-term market",
+              "a fast food chain",
+              "substantial investment",
+              "an established market",
+              "long-term growth",
+              "hairdressing salons",
+              "a new kind of toy",
+              "long-term investment",
+              "an established operation"
+            ],
+            [
+              "Stable, long-term market",
+              "substantial investment",
+              "an established market",
+              "long-term growth",
+              "hairdressing salons",
+              "a new kind of toy",
+              "long-term investment",
+              "an established operation",
+              "a fast food chain"
+            ],
+            [
+              "Stable, long-term market",
+              "substantial investment",
+              "an established market",
+              "long-term growth",
+              "hairdressing salons",
+              "a new kind of toy",
+              "long-term investment",
+              "an established operation",
+              "a fast food chain"
+            ],
+            [
+              "Stable, long-term market",
+              "substantial investment",
+              "an established market",
+              "long-term growth",
+              "hairdressing salons",
+              "a new kind of toy",
+              "long-term investment",
+              "an established operation",
+              "a fast food chain"
+            ],
+            [
+              "Stable, long-term market",
+              "substantial investment",
+              "an established market",
+              "long-term growth",
+              "hairdressing salons",
+              "a new kind of toy",
+              "long-term investment",
+              "an established operation",
+              "a fast food chain"
+            ]
+          ],
+          "response_container": {
+            "pointer": "left"
+          },
+          "template": "<div class=\"lrn-well\"><span style=\"font-size:1.3em;\"><b>KEY IDEA: A relatively</b><i><b> </b></i>{{response}}<strong> is needed for</strong>&nbsp;<b id=\"yui_3_17_2_1_1630937660008_9647\"><u id=\"yui_3_17_2_1_1630937660008_9648\">a successful franchise operation.</u></b>&nbsp;</span></div>\n\n<p><strong><span style=\"color:#0000cd;\"><span style=\"font-size:1.3em;\"><i>► Two reasons:</i></span></span></strong></p>\n\n<ul>\n\t<li><span style=\"font-size:1.1em;\"><i><i id=\"yui_3_17_2_1_1630937660008_9658\">You need </i></i>{{response}}<i><i> to set up a franchise operation.</i></i></span></li>\n\t<li><span style=\"font-size:1.1em;\"><i id=\"yui_3_17_2_1_1630937660008_9661\">You need </i>{{response}}<i> with potential for </i>{{response}}<i> to attract franchisees.</i></span></li>\n</ul>\n\n<p id=\"yui_3_17_2_1_1630937660008_9662\"><strong><span style=\"color:#006400;\"><span style=\"font-size:1.3em;\"><i style=\"font-family: &quot;Helvetica Neue&quot;, Helvetica, Arial, sans-serif;\">► Two examples:</i></span></span></strong></p>\n\n<ul>\n\t<li><span style=\"font-size:1.1em;\">GOOD example:&nbsp;{{response}}</span></li>\n\t<li><span style=\"font-size:1.1em;\">BAD example:&nbsp;{{response}}</span></li>\n</ul>\n",
+          "type": "clozedropdown",
+          "case_sensitive": true,
+          "validation": {
+            "scoring_type": "partialMatchV2",
+            "valid_response": {
+              "score": 6,
+              "value": [
+                "Stable, long-term market",
+                "substantial investment",
+                "an established market",
+                "long-term growth",
+                "hairdressing salons",
+                "a new kind of toy"
+              ]
+            }
+          },
+          "instant_feedback": true,
+          "shuffle_options": true
+        },
+        "metadata": {
+          "name": "Cloze with drop down",
+          "template_reference": "2fbba51b-e35e-441f-83c7-2662e2e81fa6"
+        }
+      },
+      "feedbackInfo": [
+        null,
+        null
+      ]
+    },
+    {
+      "response_id": "2e9c6c26-eaf5-4ba4-a39e-e090e0e6c376_ac72033b662aa9809d475cc051662c0b",
+      "question_type": "clozeassociation",
+      "dt_score_updated": "2022-12-08T07:05:56Z",
+      "automarkable": true,
+      "attempted": true,
+      "score": 3,
+      "max_score": 3,
+      "question_reference": "f888b022-adfc-4d16-8fe3-d4eaeb2459eb",
+      "item_reference": "2764033f-564c-4a2e-8020-cbec0d41981c",
+      "response": {
+        "value": [
+          "keep costs down",
+          "a wide margin",
+          "costs and income"
+        ],
+        "type": "array",
+        "apiVersion": "v2.193.0",
+        "revision": 6,
+        "feedbackAttemptsCount": 3
+      },
+      "questionInfo": {
+        "type": "clozeassociation",
+        "widget_type": "response",
+        "reference": "f888b022-adfc-4d16-8fe3-d4eaeb2459eb",
+        "data": {
+          "possible_responses": [
+            "keep costs down",
+            "a wide margin",
+            "costs and income",
+            "franchisee and franchisor",
+            "return on investment",
+            "market advantage"
+          ],
+          "response_container": {
+            "pointer": "left"
+          },
+          "stimulus": "<p><strong style=\"color: rgb(178, 34, 34); font-size: 1.3em; font-family: &quot;Helvetica Neue&quot;, Helvetica, Arial, sans-serif;\">► </strong><u style=\"color: rgb(178, 34, 34); font-size: 1.3em; font-family: &quot;Helvetica Neue&quot;, Helvetica, Arial, sans-serif;\"><strong>NOTE: There are some extra options that you don't need.</strong></u></p>\n\n<p>&nbsp;</p>\n",
+          "template": "<div class=\"lrn-well\"><span style=\"font-size:1.3em;\"><b>ONE ADVANTAGE OF FRANCHISING: Buying in bulk</b></span></div>\n\n<ul>\n\t<li style=\"margin-left: 80px;\"><span style=\"font-size:1.3em;\"><i>Buying in bulk enables franchisees and franchisors to </i>{{response}}<i>.</i></span></li>\n\t<li style=\"margin-left: 80px;\"><span style=\"font-size:1.3em;\"><i>This is an example of one way you can ensure that there is </i>{{response}}<i> between </i>{{response}}</span></li>\n</ul>\n",
+          "type": "clozeassociation",
+          "case_sensitive": true,
+          "validation": {
+            "scoring_type": "partialMatchV2",
+            "valid_response": {
+              "score": 3,
+              "value": [
+                "keep costs down",
+                "a wide margin",
+                "costs and income"
+              ]
+            }
+          },
+          "ui_style": {
+            "show_drag_handle": false
+          },
+          "instant_feedback": true,
+          "shuffle_options": true
+        },
+        "metadata": {
+          "name": "Cloze with drag & drop",
+          "template_reference": "51a8c1e7-f34f-4faf-b211-da458e891fcb"
+        }
+      },
+      "feedbackInfo": [
+        null,
+        null
+      ]
+    },
+    {
+      "response_id": "2e9c6c26-eaf5-4ba4-a39e-e090e0e6c376_9cd4f8e5885657ba0d4a5237a6218b9e",
+      "question_type": "association",
+      "dt_score_updated": "2022-12-08T07:07:50Z",
+      "automarkable": true,
+      "attempted": true,
+      "score": 4,
+      "max_score": 4,
+      "question_reference": "9c094936-aff9-47c6-8a41-c1cca5ed0555",
+      "item_reference": "2764033f-564c-4a2e-8020-cbec0d41981c",
+      "response": {
+        "value": [
+          "Support, training and an operating manual",
+          "When setting up the franchise and possibly on a regular, ongoing basis",
+          "They are likely to have experience in the industry and will therefore be able to have the franchise up and running more quickly",
+          "the franchisee needs to be able to develop the skills to operate the franchise <em>quickly</em>"
+        ],
+        "type": "array",
+        "updatedFormat": true,
+        "apiVersion": "v2.193.0",
+        "revision": 4,
+        "feedbackAttemptsCount": 2
+      },
+      "questionInfo": {
+        "type": "association",
+        "widget_type": "response",
+        "reference": "9c094936-aff9-47c6-8a41-c1cca5ed0555",
+        "data": {
+          "possible_responses": [
+            "Consultancy",
+            "They lack experience in the industry and will therefore need a lot of additional support",
+            "When setting up the franchise and possibly on a regular, ongoing basis",
+            "They are likely to have experience in the industry and will therefore be able to have the franchise up and running more quickly",
+            "Support, training and an operating manual",
+            "There are a number of areas that the franchisor needs to focus on",
+            "Initial fee and management service fee",
+            "the franchisee needs to be able to develop the skills to operate the franchise <em>quickly</em>"
+          ],
+          "stimulus_list": [
+            "1. What does the franchisor need to provide to the franchisee?",
+            "2. When are these required?",
+            "3. What point is made about franchisees in the restaurant industry?",
+            "4. What do you think is the key point in this section?"
+          ],
+          "type": "association",
+          "validation": {
+            "scoring_type": "partialMatchV2",
+            "valid_response": {
+              "score": 4,
+              "value": [
+                "Support, training and an operating manual",
+                "When setting up the franchise and possibly on a regular, ongoing basis",
+                "They are likely to have experience in the industry and will therefore be able to have the franchise up and running more quickly",
+                "the franchisee needs to be able to develop the skills to operate the franchise <em>quickly</em>"
+              ]
+            }
+          },
+          "instant_feedback": true,
+          "stimulus": "<p><strong style=\"color: rgb(178, 34, 34); font-size: 1.3em; font-family: &quot;Helvetica Neue&quot;, Helvetica, Arial, sans-serif;\">► </strong><u style=\"color: rgb(178, 34, 34); font-size: 1.3em; font-family: &quot;Helvetica Neue&quot;, Helvetica, Arial, sans-serif;\"><strong>NOTE: There are some extra options that you don't need.</strong></u></p>\n\n<p>&nbsp;</p>\n",
+          "ui_style": {
+            "show_drag_handle": false
+          }
+        },
+        "metadata": {
+          "name": "Match list",
+          "template_reference": "1fa22aac-1f88-47f7-941b-3c77759549e6"
+        }
+      },
+      "feedbackInfo": [
+        null,
+        null
+      ]
+    },
+    {
+      "response_id": "2e9c6c26-eaf5-4ba4-a39e-e090e0e6c376_b30ef6cc8bc97dc1e6b02d02ef0397af",
+      "question_type": "clozedropdown",
+      "dt_score_updated": "2022-12-08T07:08:47Z",
+      "automarkable": true,
+      "attempted": true,
+      "score": 7,
+      "max_score": 7,
+      "question_reference": "7c2b6813-feb6-492f-9e19-83000aa8d883",
+      "item_reference": "d0677e7f-b5e2-4473-9e25-771e3ff15392",
+      "response": {
+        "value": [
+          "transferable",
+          "much larger area",
+          "similar market",
+          "strong",
+          "survive",
+          "socioeconomic",
+          "cultural"
+        ],
+        "type": "array",
+        "apiVersion": "v2.193.0",
+        "revision": 2,
+        "feedbackAttemptsCount": 1
+      },
+      "questionInfo": {
+        "type": "clozedropdown",
+        "widget_type": "response",
+        "reference": "7c2b6813-feb6-492f-9e19-83000aa8d883",
+        "data": {
+          "possible_responses": [
+            [
+              "transferable",
+              "deferrable"
+            ],
+            [
+              "much larger area",
+              "much darker area"
+            ],
+            [
+              "similar market",
+              "particular market"
+            ],
+            [
+              "strong",
+              "wrong"
+            ],
+            [
+              "survive",
+              "revive"
+            ],
+            [
+              "socioeconomic",
+              "architectonic"
+            ],
+            [
+              "cultural",
+              "structural"
+            ]
+          ],
+          "response_container": {
+            "pointer": "left"
+          },
+          "stimulus": "<h2 id=\"yui_3_17_2_1_1631010846667_1982\"><span style=\"color:#ff0000;\"><img height=\"100\" src=\"https://assets.learnosity.com/organisations/755/f41182b4-0397-4678-a0dd-2ed07a1d07a6.jpg\" width=\"100\">&nbsp;<span style=\"color:#b22222;\"></span></span><span style=\"color:#0000cd;\"><strong>Part 3 - Section 1&nbsp;</strong></span><span style=\"color:#ff0000;\"></span></h2>\n\n<h4><strong>In Part 3 of the lecture, the lecturer continues to discuss the issues to be considered when deciding to franchise your business.</strong></h4>\n\n<p>&nbsp;</p>\n\n<p><span class=\"learnosity-feature\" data-player_type=\"hosted-video\" data-simplefeature_id=\"a1124ef5-cbe3-4e1d-bac9-c8e0e494d334\" data-src=\"https://assets.learnosity.com/organisations/755/6db803c2-3480-499a-8a1c-cfaa91e4ea5d.mp4\" data-type=\"videoplayer\"></span></p>\n\n<p>&nbsp;</p>\n\n<div class=\"lrn-well\" id=\"yui_3_17_2_1_1631010846667_2093\"><strong><span style=\"font-size:1.3em;\">Listen to this section of the lecture and complete the extract&nbsp;by choosing the correct option for&nbsp;each space.</span></strong></div>\n",
+          "template": "<span style=\"font-size:1.1em;\"><i id=\"yui_3_17_2_1_1631010846667_2539\">\"One further issue you may need to consider is whether the business </i>{{response}}<i>&nbsp;is&nbsp;to another geographical area. If you have developed your business serving one&nbsp;particular part of the country and you want to set up a franchise network covering a&nbsp;</i>{{response}}<i>&nbsp;– the whole country, for example – another thing you&nbsp;will have to consider is whether there is a </i>{{response}}<i>&nbsp;for your&nbsp;product or service in different regions. It may be, for example, that competition in&nbsp;other parts of the country may be so </i>{{response}}<i>&nbsp;that it is difficult for&nbsp;franchisees to </i>{{response}}<i>, or that for localized </i>{{response}}<i>&nbsp;or&nbsp;</i>{{response}}<i>&nbsp;reasons the business may not be as profitable.\"</i></span>",
+          "type": "clozedropdown",
+          "case_sensitive": true,
+          "validation": {
+            "scoring_type": "partialMatchV2",
+            "valid_response": {
+              "score": 7,
+              "value": [
+                "transferable",
+                "much larger area",
+                "similar market",
+                "strong",
+                "survive",
+                "socioeconomic",
+                "cultural"
+              ]
+            }
+          },
+          "shuffle_options": true,
+          "instant_feedback": true
+        },
+        "metadata": {
+          "name": "Cloze with drop down",
+          "template_reference": "2fbba51b-e35e-441f-83c7-2662e2e81fa6"
+        }
+      },
+      "feedbackInfo": [
+        null,
+        null
+      ]
+    },
+    {
+      "response_id": "2e9c6c26-eaf5-4ba4-a39e-e090e0e6c376_3d19781b032d3967a66392eb17f1aaa2",
+      "question_type": "clozedropdown",
+      "dt_score_updated": "2022-12-08T07:10:28Z",
+      "automarkable": true,
+      "attempted": true,
+      "score": 11,
+      "max_score": 11,
+      "question_reference": "c41427bc-d516-475f-8803-e47fb63e7663",
+      "item_reference": "d0677e7f-b5e2-4473-9e25-771e3ff15392",
+      "response": {
+        "value": [
+          "Finally",
+          "losing direct control",
+          "this brings me",
+          "emphasise",
+          "damaged",
+          "detailed operating manual",
+          "monitoring",
+          "In addition to",
+          "skills and experience",
+          "business values",
+          "individualistic"
+        ],
+        "type": "array",
+        "apiVersion": "v2.193.0",
+        "revision": 6,
+        "feedbackAttemptsCount": 1
+      },
+      "questionInfo": {
+        "type": "clozedropdown",
+        "widget_type": "response",
+        "reference": "c41427bc-d516-475f-8803-e47fb63e7663",
+        "data": {
+          "possible_responses": [
+            [
+              "Finally",
+              "Actually"
+            ],
+            [
+              "losing direct control",
+              "losing impact control"
+            ],
+            [
+              "this brings me",
+              "this being me"
+            ],
+            [
+              "emphasise",
+              "centralise"
+            ],
+            [
+              "damaged",
+              "managed"
+            ],
+            [
+              "detailed operating manual",
+              "detailed separating manual"
+            ],
+            [
+              "monitoring",
+              "mentoring"
+            ],
+            [
+              "In addition to",
+              "Additionally to"
+            ],
+            [
+              "skills and experience",
+              "scales and experience"
+            ],
+            [
+              "business values",
+              "business volumes"
+            ],
+            [
+              "individualistic",
+              "into being dualistic"
+            ]
+          ],
+          "response_container": {
+            "pointer": "left"
+          },
+          "stimulus": "<h2 id=\"yui_3_17_2_1_1631012377515_1987\"><span style=\"color:#008000;\"><span style=\"color:#ff0000;\"><span id=\"cke_bm_124094S\" style=\"display: none;\">&nbsp;</span></span></span></h2>\n\n<h2><span style=\"color:#008000;\"><span style=\"color:#ff0000;\"><img height=\"100\" src=\"https://assets.learnosity.com/organisations/755/f41182b4-0397-4678-a0dd-2ed07a1d07a6.jpg\" width=\"100\">&nbsp;<span style=\"color:#b22222;\"></span></span><span style=\"color:#0000cd;\"><strong>Part 3 - Section 2&nbsp;</strong></span></span></h2>\n\n<p><span class=\"learnosity-feature\" data-player_type=\"hosted-video\" data-simplefeature_id=\"e61ceb65-ff72-432b-87b7-2e9fe04744a3\" data-src=\"https://assets.learnosity.com/organisations/755/2825cbb5-d974-491f-9590-a0ce432f1657.mp4\" data-type=\"videoplayer\"></span></p>\n\n<p>&nbsp;</p>\n\n<div class=\"lrn-well\"><strong><span style=\"font-size:1.3em;\">Listen to this section of the lecture and complete the extract&nbsp;by choosing the correct option for&nbsp;each space.</span><span style=\"font-size:1.3em;\"></span></strong></div>\n",
+          "template": "<p id=\"yui_3_17_2_1_1631012377515_2069\"><span style=\"font-size:1.1em;\">\"<em><span style=\"font-size:1.1em;\"><em>{{response}}</em></span>, when you are setting up a franchise network, you will need to bear in mind that you will be <span style=\"font-size:1.1em;\"><em>{{response}}</em></span>&nbsp;of the way your brand is perceived by the customer, so <span style=\"font-size:1.1em;\"><em>{{response}}</em></span>&nbsp;to my last point, which is to <span style=\"font-size:1.1em;\"><em>{{response}}</em></span>&nbsp;the importance of protecting your brand. I am sure you are all aware that it often takes a long time to establish a distinctive brand with a valuable reputation, but that this reputation can be <span style=\"font-size:1.1em;\"><em>{{response}}</em></span>&nbsp;comparatively quickly if, for example, quality standards are not &nbsp;consistently applied. </em></span></p>\n\n<p><span style=\"font-size:1.1em;\"></span></p>\n\n<p><span style=\"font-size:1.1em;\"></span></p>\n\n<p><span style=\"font-size:1.1em;\"><em>The <span style=\"font-size:1.1em;\"><em>{{response}}</em></span>&nbsp;that I referred to earlier will play a role in maintaining the brand but, just as important, you need to take care selecting franchisees and <span style=\"font-size:1.1em;\"><em>{{response}}</em></span>&nbsp;their operations. <span style=\"font-size:1.1em;\"><em>{{response}}</em></span>&nbsp;checking that franchisees have the relevant <span style=\"font-size:1.1em;\"><em>{{response}}</em></span>&nbsp;to run a successful business, you also need to ensure that they share the same <span style=\"font-size:1.1em;\"><em>{{response}}</em></span>&nbsp;as you, that they accept the importance of maintaining the brand and that they are clear about what they can or can’t change about the way the business is run – so people who are very <span style=\"font-size:1.1em;\"><em>{{response}}</em></span>&nbsp;will probably not make good franchisees.\"</em></span></p>\n",
+          "type": "clozedropdown",
+          "case_sensitive": true,
+          "validation": {
+            "scoring_type": "partialMatchV2",
+            "valid_response": {
+              "score": 11,
+              "value": [
+                "Finally",
+                "losing direct control",
+                "this brings me",
+                "emphasise",
+                "damaged",
+                "detailed operating manual",
+                "monitoring",
+                "In addition to",
+                "skills and experience",
+                "business values",
+                "individualistic"
+              ]
+            }
+          },
+          "instant_feedback": true,
+          "shuffle_options": true
+        },
+        "metadata": {
+          "name": "Cloze with drop down",
+          "template_reference": "2fbba51b-e35e-441f-83c7-2662e2e81fa6"
+        }
+      },
+      "feedbackInfo": [
+        null,
+        null
+      ]
+    },
+    {
+      "response_id": "2e9c6c26-eaf5-4ba4-a39e-e090e0e6c376_d45c7618c2d9ace0f94752868868fe16",
+      "question_type": "clozeassociation",
+      "dt_score_updated": "2022-12-08T07:12:38Z",
+      "automarkable": true,
+      "attempted": true,
+      "score": 8,
+      "max_score": 8,
+      "question_reference": "ad39e59a-2107-4c29-b40a-9234823ad008",
+      "item_reference": "d0677e7f-b5e2-4473-9e25-771e3ff15392",
+      "response": {
+        "value": [
+          "<span style=\"color:#008000;\"><strong>Initial training</strong></span>",
+          "<span style=\"color:#0000cd;\">to ensure staff have the skills to achieve the standards</span>",
+          "<span style=\"color:#008000;\"><strong>Visits</strong></span>",
+          "<span style=\"color:#0000cd;\">to check that standards are being applied uniformly</span>",
+          "<span style=\"color:#008000;\"><strong>Ongoing training</strong></span>",
+          "<span style=\"color:#0000cd;\">to deal with issues uncovered during visits</span>",
+          "<strong><span style=\"color:#008000;\">Protecting the brand</span></strong>",
+          "<span style=\"color:#0000cd;\">to consolidate and improve brand image</span>"
+        ],
+        "type": "array",
+        "apiVersion": "v2.193.0",
+        "revision": 3,
+        "feedbackAttemptsCount": 1
+      },
+      "questionInfo": {
+        "type": "clozeassociation",
+        "widget_type": "response",
+        "reference": "ad39e59a-2107-4c29-b40a-9234823ad008",
+        "data": {
+          "possible_responses": [
+            "<span style=\"color:#008000;\"><strong>Initial training</strong></span>",
+            "<span style=\"color:#008000;\"><strong>Visits</strong></span>",
+            "<span style=\"color:#008000;\"><strong>Ongoing training</strong></span>",
+            "<strong><span style=\"color:#008000;\">Protecting the brand</span></strong>",
+            "<span style=\"color:#0000cd;\">to ensure staff have the skills to achieve the standards</span>",
+            "<span style=\"color:#0000cd;\">to check that standards are being applied uniformly</span>",
+            "<span style=\"color:#0000cd;\">to deal with issues uncovered during visits</span>",
+            "<span style=\"color:#0000cd;\">to consolidate and improve brand image</span>"
+          ],
+          "response_container": {
+            "pointer": "left"
+          },
+          "stimulus": "<h2 id=\"yui_3_17_2_1_1631015809225_1885\"><span style=\"color:#008000;\"><span style=\"color:#008000;\"><span style=\"color:#ff0000;\"><img height=\"100\" src=\"https://assets.learnosity.com/organisations/755/f41182b4-0397-4678-a0dd-2ed07a1d07a6.jpg\" width=\"100\">&nbsp;<span style=\"color:#b22222;\"></span></span><span style=\"color:#0000cd;\"><strong>Part 3 - Section 3</strong></span></span></span></h2>\n\n<h4>&nbsp;</h4>\n\n<h4><strong><span style=\"font-size:1.3em;\">In the final part of the lecture, the presenter talks about the <span style=\"color:#008000;\">key actions</span> to take when franchising your business.</span></strong></h4>\n\n<p><span class=\"learnosity-feature\" data-player_type=\"hosted-video\" data-simplefeature_id=\"aa1d2f96-4c27-4fc3-ab57-d4c806ded4a2\" data-src=\"https://assets.learnosity.com/organisations/755/bafde0f0-3933-4510-8cbe-9f76c34411af.mp4\" data-type=\"videoplayer\"></span></p>\n\n<p>&nbsp;</p>\n\n<div allowfullscreen=\"\" class=\"lrn-well\" src=\"https://web.microsoftstream.com/embed/video/823890a1-591e-4c4f-a27c-bafc1464e529?autoplay=false&amp;showinfo=true\"><b style=\"font-size: 1.3em;\">Complete </b><span style=\"font-size: 18.2px;\"><b>the</b></span><b style=\"font-size: 1.3em;\">&nbsp;table with the </b><span style=\"font-size: 1.3em; font-weight: bold; color: rgb(0, 128, 0);\">key actions</span><span style=\"font-size: 1.3em;\"><b>&nbsp;in the first column and the reason&nbsp;</b></span><span style=\"font-size: 1.3em; font-weight: bold; color: rgb(0, 0, 205);\">why these&nbsp;actions are&nbsp;needed</span><span style=\"font-size: 1.3em;\"><b>&nbsp;in the </b></span><span style=\"font-size: 18.2px;\"><b>second</b></span><span style=\"font-size: 1.3em;\"><b>&nbsp;column.</b></span></div>\n\n<p><span style=\"font-size:1.3em;\"><u><strong>There is one example.</strong></u></span></p>\n",
+          "template": "<table class=\"table\">\n\t<tbody>\n\t\t<tr>\n\t\t\t<td class=\"text-center\"><span style=\"font-size:1.3em;\"><u><span style=\"color:#008000;\"><strong>Key actions when franchising</strong></span></u></span></td>\n\t\t\t<td class=\"text-center\"><span style=\"font-size:1.3em;\"><u><span style=\"color:#0000cd;\"><strong>Why is it needed?&nbsp;</strong></span></u></span></td>\n\t\t</tr>\n\t\t<tr>\n\t\t\t<td class=\"text-center\"><span style=\"color:#008000;\"><strong><span style=\"font-size:1.1em;\">The written agreement</span></strong></span></td>\n\t\t\t<td class=\"text-center\"><span style=\"color:#0000cd;\"><span style=\"font-size: 15.4px;\">To specify performance and standards</span></span></td>\n\t\t</tr>\n\t\t<tr>\n\t\t\t<td class=\"text-center\"><span style=\"font-size:1.1em;\">{{response}}</span></td>\n\t\t\t<td class=\"text-center\"><span style=\"font-size:1.1em;\">{{response}}</span></td>\n\t\t</tr>\n\t\t<tr>\n\t\t\t<td class=\"text-center\"><span style=\"font-size:1.1em;\">{{response}}</span></td>\n\t\t\t<td class=\"text-center\"><span style=\"font-size:1.1em;\">{{response}}</span></td>\n\t\t</tr>\n\t\t<tr>\n\t\t\t<td class=\"text-center\"><span style=\"font-size:1.1em;\">{{response}}</span></td>\n\t\t\t<td class=\"text-center\"><span style=\"font-size:1.1em;\">{{response}}</span></td>\n\t\t</tr>\n\t\t<tr>\n\t\t\t<td class=\"text-center\"><span style=\"font-size:1.1em;\"><strong>Overall Goal:</strong></span>&nbsp;<span style=\"font-size:1.1em;\">{{response}}</span></td>\n\t\t\t<td class=\"text-center\"><span style=\"font-size:1.1em;\"><span style=\"font-size:1.1em;\"><strong> </strong></span>{{response}}</span></td>\n\t\t</tr>\n\t\t<tr>\n\t\t\t<td>&nbsp;</td>\n\t\t\t<td>&nbsp;</td>\n\t\t</tr>\n\t</tbody>\n</table>\n",
+          "type": "clozeassociation",
+          "case_sensitive": true,
+          "validation": {
+            "scoring_type": "partialMatchV2",
+            "valid_response": {
+              "score": 8,
+              "value": [
+                "<span style=\"color:#008000;\"><strong>Initial training</strong></span>",
+                "<span style=\"color:#0000cd;\">to ensure staff have the skills to achieve the standards</span>",
+                "<span style=\"color:#008000;\"><strong>Visits</strong></span>",
+                "<span style=\"color:#0000cd;\">to check that standards are being applied uniformly</span>",
+                "<span style=\"color:#008000;\"><strong>Ongoing training</strong></span>",
+                "<span style=\"color:#0000cd;\">to deal with issues uncovered during visits</span>",
+                "<strong><span style=\"color:#008000;\">Protecting the brand</span></strong>",
+                "<span style=\"color:#0000cd;\">to consolidate and improve brand image</span>"
+              ]
+            }
+          },
+          "ui_style": {
+            "show_drag_handle": false,
+            "possibility_list_position": "right"
+          },
+          "instant_feedback": true,
+          "shuffle_options": true
+        },
+        "metadata": {
+          "name": "Cloze with drag & drop",
+          "template_reference": "51a8c1e7-f34f-4faf-b211-da458e891fcb"
+        }
+      },
+      "feedbackInfo": [
+        null,
+        null
+      ]
+    }
+  ]
+}

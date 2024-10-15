@@ -1,0 +1,227 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Read Directories</title>
+    <style>
+        /* Base padding for top-level details */
+        details {
+            padding: 5px;
+            /* padding-left: 10px; */
+
+        }
+
+        /* Increase padding for each nested level */
+        details details {
+            padding-left: 20px;
+            font-weight: bold;
+        }
+
+        details details details {
+            padding-left: 30px;
+        }
+
+        ol {
+            margin-left: 0px;
+            padding-left: 25px;
+        }
+        input[type="file"] {
+           width: 0;
+           height: 0;
+        }
+        .custom-file-upload {
+            padding: 10px;
+            cursor: pointer;
+            background-color: #4ca2ff;
+            color: white;
+            border-radius: 5px;
+            display: inherit;
+            text-align: center;
+        }
+
+        .custom-file-upload:hover {
+            background-color: #0056b3;
+        }
+
+        input[type="search"] {
+           padding: 5px;
+           border-radius: 5px;
+           border-width: 1px;
+         }
+        /* Continue nesting levels if needed */
+    </style>
+</head>
+<body>
+    <div style="display: flex; height: 98vh;">
+        <!--  background-color: gray; color: white; -->
+        <div style="width: 25%; overflow-y: auto; padding: 5px; flex: 1;">
+            <label for="directoryInput" class="custom-file-upload">
+                Choose File
+                <input type="file" id="directoryInput" webkitdirectory multiple />
+            </label>
+          <input type="search" placeholder="Search Items" style="width: 100%; margin-top: 10px" onkeyup="filterWhileTyping(event)"/> 
+          <ol id="fileList" start="1"></ol>
+      </div>
+      <div id="mainContent" style="width: 75%;background-color: lightgray;overflow-y: auto;padding: 5px;">
+           Main
+      </div>
+    </div>
+
+    <script>
+        
+        const directoryInput = document.getElementById('directoryInput');
+        const mainContent = document.getElementById('mainContent');
+        const fileList = document.getElementById('fileList');
+        const endsWithJSON = new RegExp(/\.json$/i)
+        
+        // Events
+        directoryInput.addEventListener('change', createDirectories);
+        let timeOut;
+        function filterWhileTyping(event) {
+
+          const value = event.target.value
+          clearTimeout(timeOut)
+
+          timeOut = setTimeout(() => {
+              const summaryTags = fileList.querySelectorAll('summary');
+              console.log('+++++++++++++++', summaryTags)
+          }, 1000)
+        }
+
+        function createDirectories(event) {
+
+            const files = [...event.target.files];
+
+            const tree = buildTree(files);
+            const treeHTML = createTreeHTML(tree);
+            fileList.appendChild(treeHTML);
+        }
+
+        // Function to create a tree structure from paths
+        function buildTree(files) {
+          const root = {};
+          files.forEach(file => {
+          const parts = file.webkitRelativePath.split('/').slice(1);
+          let current = root;
+          parts.forEach((part, index) => {
+                if (!current[part]) {
+                    current[part] = index === parts.length - 1 ? file : {};
+                }
+                current = current[part];
+                });
+            });
+
+          return root;
+        }
+
+
+        function createTreeHTML(tree) {
+            const fragment = document.createDocumentFragment();
+
+            for (let key in tree) {
+                const value = tree[key];
+
+                if (value instanceof File) {
+                    const label = document.createElement('label');
+                    label.style = `padding:2px; background-color: yellow; font-weight: normal; border-radius: 10px; margin-top: 10px; cursor:pointer`
+                    label.textContent = key;
+                    label.onclick = handleExtrectJson.bind(value)
+                    
+                    endsWithJSON.test(key) && fragment.appendChild(label);
+                } else {
+                    // Create a details/summary structure for directories
+                    const detailsTag = document.createElement('details');
+                    const summary = document.createElement('summary');
+                    summary.textContent = key;
+                    detailsTag.append(summary);
+
+                    // Recursively add children
+                    const children = createTreeHTML(value);
+                    if (children.children.length > 0) {
+                        detailsTag.appendChild(children);
+                    }
+
+                    // const listItem = document.createElement('li');
+                    // listItem.append(detailsTag)
+                    // fragment.appendChild(listItem);
+                    fragment.appendChild(detailsTag);
+                }
+            }
+
+            return fragment;
+        }
+
+        function handleExtrectJson() {
+            const reader = new FileReader();
+            reader.onload = function(e) {
+            try {
+                const json = JSON.parse(e.target.result); // Parse the JSON content
+                generateUI(json);
+            } catch (error) {
+                mainContent.textContent = 'Error parsing JSON: ' + error.message;
+                console.error('Error parsing JSON:', error);
+                }
+
+            };
+            reader.onerror = function() {
+                console.error('Error reading file');
+            };
+            reader.readAsText(this);
+        }
+
+
+        function generateUI(dataJSON) {
+
+            const generateQuestions = (questionList) => {
+                const questions = questionList?.map((ques, i) => {
+                     const { data } = ques?.questionInfo || {}
+                     const attempted = !!ques?.attempted;
+                     return data?.stimulus
+                });
+
+                 return (`
+                    <div style="border-radius: 10px; display: flex; flex-direction:column; row-gap: 5px; box-shadow: rgba(99, 99, 99, 0.2) 0px 2px 8px 0px; padding: 10px;background-color: #d7d7d7">
+                    ${questions?.join('')}
+                    </div>
+                    `)
+            }
+
+            const generateUserInfo = (userDetails) => {
+                return (`
+                    <div style="border-radius: 10px; display: flex; gap: 10px; box-shadow: rgba(99, 99, 99, 0.2) 0px 2px 8px 0px; padding: 10px;background-color: #d7d7d7">
+
+                        <div style="width: 50% ;">
+                            <b>User ID</b> : <span> ${userDetails?.userId || '-'} </span><br/>
+                            <b>First Name</b> : <span> ${userDetails?.firstName || '-'} </span><br/>
+                            <b>Last Name</b> : <span> ${userDetails?.lastName || '-'} </span><br/>
+                            <b>Email</b> : <span> ${userDetails?.email || '-'} </span><br/>
+                            <b>Score</b> : <span> ${userDetails?.score || '-'} </span><br/>
+                            <b>Max Score</b> : <i> ${userDetails?.max_score || '-'} </i><br/>
+                        </div>
+
+                        <div style="width: 50% ;">
+                            <b>Assigment ID</b> : <span> ${userDetails?.assigmentId || '-'} </span><br/>
+                            <b>AssigmentName</b> : <span> ${userDetails?.assigmentName || '-'} </span><br/>
+                            <b>Space ID</b> : <span> ${userDetails?.spaceId || '-'} </span><br/>
+                            <b>Space Name</b> : <span> ${userDetails?.spaceName || '-'} </span><br/>
+                            <b>Session ID</b> : <span> ${userDetails?.sessionId || '-'} </span><br/>
+                        </div>
+
+                    </div>
+                    `)
+            }
+            
+            console.log('JJJJJ>', dataJSON)
+            const TEMPLATE = `
+            <div style="display: flex; flex-direction: column; gap: 10px;padding: 10px 5px;">
+               ${generateUserInfo(dataJSON)}
+               ${generateQuestions(dataJSON.questions)} 
+            </div>
+            `;
+            mainContent.innerHTML = TEMPLATE;
+
+        }
+    </script>
+</body>
+</html>

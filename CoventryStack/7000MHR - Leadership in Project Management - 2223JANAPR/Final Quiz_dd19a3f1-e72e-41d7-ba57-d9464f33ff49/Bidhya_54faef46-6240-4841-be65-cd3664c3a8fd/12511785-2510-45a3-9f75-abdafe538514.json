@@ -1,0 +1,50 @@
+{
+  "userId": "54faef46-6240-4841-be65-cd3664c3a8fd",
+  "firstName": "Bidhya",
+  "lastName": "Ghale",
+  "assigmentId": "dd19a3f1-e72e-41d7-ba57-d9464f33ff49",
+  "assigmentName": "Final Quiz",
+  "sessionId": "12511785-2510-45a3-9f75-abdafe538514",
+  "email": "ghaleb@coventry.ac.uk",
+  "spaceId": "4fb344e0-2505-4dbc-9179-c896b74e9fe2",
+  "spaceName": "7000MHR - Leadership in Project Management - 2223JANAPR",
+  "score": 0,
+  "max_score": 0,
+  "questions": [
+    {
+      "response_id": "12511785-2510-45a3-9f75-abdafe538514_d74b3a6030c83fcf5ee153076270cc28",
+      "question_type": "longtextV2",
+      "dt_score_updated": "2023-03-27T09:15:20Z",
+      "automarkable": false,
+      "attempted": true,
+      "score": null,
+      "max_score": null,
+      "question_reference": "19cfb112-ed0c-48f3-9354-ee3d148b109b",
+      "item_reference": "48b87caa-f852-4992-b089-cc00d5b5a683",
+      "response": {
+        "value": "<p>Change management of a change of process, resources, process and people involved in a project. For eg. if the project is to finish in 12 months but due to some reasons the timeline is cut down in 9 months is a change management. </p><p>There are few models for change management</p><p>ADKARA</p><p>Lewin's 3 stages change of mode.. change, unfreeze and refreeze. </p>",
+        "wordCount": 61,
+        "type": "string",
+        "apiVersion": "v2.168.23",
+        "revision": 15
+      },
+      "questionInfo": {
+        "type": "longtextV2",
+        "widget_type": "response",
+        "reference": "19cfb112-ed0c-48f3-9354-ee3d148b109b",
+        "data": {
+          "stimulus": "Can you reflect on any change management model",
+          "type": "longtextV2"
+        },
+        "metadata": {
+          "name": "Essay with rich text",
+          "template_reference": "1e6039f8-0676-495d-aca9-108710a51ce5"
+        }
+      },
+      "feedbackInfo": [
+        null,
+        null
+      ]
+    }
+  ]
+}

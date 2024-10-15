@@ -1,0 +1,448 @@
+{
+  "userId": "57b5b929-e97f-4c87-9669-b86bb8f3ebc1",
+  "firstName": "Renju",
+  "lastName": "George Mathew",
+  "assigmentId": "73c2271c-3fe8-4bc2-b0b3-a4b545f4d83a",
+  "assigmentName": "Introduction to Academic Presentations QUIZ",
+  "sessionId": "41d4c394-afd6-44da-952e-4f30b2bbfae1",
+  "email": "georgematr@coventry.ac.uk",
+  "spaceId": "9a507ffb-6559-4833-af28-f40266c8e380",
+  "spaceName": "4018MFH - AEB for BA International Hospitality Tourism Management 1 - 2122SEPDEC",
+  "score": 4,
+  "max_score": 7,
+  "questions": [
+    {
+      "response_id": "41d4c394-afd6-44da-952e-4f30b2bbfae1_44842c0b14ace39eb9535e0b13bbc2d6",
+      "question_type": "clozeassociation",
+      "dt_score_updated": "2021-12-23T12:56:22Z",
+      "automarkable": true,
+      "attempted": true,
+      "score": 0,
+      "max_score": 1,
+      "question_reference": "2f2c839b-9d36-4583-a43f-8df69bb81d91",
+      "item_reference": "d349dfcc-3bdb-4e8a-be30-9ec84a81072b",
+      "response": {
+        "value": [
+          "General introduction",
+          "Overview of the Presentation",
+          "References"
+        ],
+        "type": "array",
+        "apiVersion": "v2.168.14",
+        "revision": 3
+      },
+      "questionInfo": {
+        "type": "clozeassociation",
+        "widget_type": "response",
+        "reference": "2f2c839b-9d36-4583-a43f-8df69bb81d91",
+        "data": {
+          "response_container": {
+            "pointer": "left"
+          },
+          "stimulus": "<p class=\"text-center\"><span style=\"font-size:1.5em;\"><strong>How much do you know about Academic Presentations?</strong></span></p>\n\n<p>&nbsp;</p>\n\n<p>Drag the answers below into the correct space. There is one extra answer that you do not need to use.</p>\n",
+          "template": "Academic presentations consist of five parts. The first part is the &nbsp;{{response}}&nbsp;where you greet the audience and introduce yourself. Next comes the&nbsp;&nbsp;{{response}} followed by the Main Body, Conclusion and &nbsp;{{response}} sections.",
+          "type": "clozeassociation",
+          "case_sensitive": true,
+          "validation": {
+            "scoring_type": "exactMatch",
+            "valid_response": {
+              "score": 1,
+              "value": [
+                "General introduction",
+                "Overview of the Presentation",
+                "Questions and answers"
+              ]
+            }
+          },
+          "group_possible_responses": true,
+          "possible_response_groups": [
+            {
+              "responses": [
+                "General introduction",
+                "Overview of the Presentation",
+                "References",
+                "Questions and answers"
+              ]
+            }
+          ],
+          "possible_responses": [],
+          "shuffle_options": true
+        },
+        "metadata": {
+          "name": "Cloze with drag & drop",
+          "template_reference": "51a8c1e7-f34f-4faf-b211-da458e891fcb"
+        }
+      },
+      "feedbackInfo": [
+        null,
+        null
+      ]
+    },
+    {
+      "response_id": "41d4c394-afd6-44da-952e-4f30b2bbfae1_0ddaa796b253d20cda1dbc00edeb1bdf",
+      "question_type": "clozeassociation",
+      "dt_score_updated": "2021-12-23T12:57:17Z",
+      "automarkable": true,
+      "attempted": true,
+      "score": 0,
+      "max_score": 1,
+      "question_reference": "ba1fb785-bab2-44cc-a781-c6017277def1",
+      "item_reference": "d349dfcc-3bdb-4e8a-be30-9ec84a81072b",
+      "response": {
+        "value": [
+          "what the main topic is",
+          "subtopics",
+          "subtopics there are"
+        ],
+        "type": "array",
+        "apiVersion": "v2.168.14",
+        "revision": 2
+      },
+      "questionInfo": {
+        "type": "clozeassociation",
+        "widget_type": "response",
+        "reference": "ba1fb785-bab2-44cc-a781-c6017277def1",
+        "data": {
+          "possible_responses": [
+            "what the main topic is",
+            "subtopics there are",
+            "where you got your material from",
+            "subtopics"
+          ],
+          "response_container": {
+            "pointer": "left"
+          },
+          "template": "In the overview section of the presentation, you should include &nbsp;{{response}}&nbsp;and how many&nbsp;{{response}}&nbsp;. You should make sure you mention what these&nbsp;{{response}} are going to be about in order to prepare your audience.",
+          "type": "clozeassociation",
+          "case_sensitive": true,
+          "validation": {
+            "scoring_type": "exactMatch",
+            "valid_response": {
+              "score": 1,
+              "value": [
+                "what the main topic is",
+                "subtopics there are",
+                "subtopics"
+              ]
+            }
+          },
+          "shuffle_options": true
+        },
+        "metadata": {
+          "name": "Cloze with drag & drop",
+          "template_reference": "51a8c1e7-f34f-4faf-b211-da458e891fcb"
+        }
+      },
+      "feedbackInfo": [
+        null,
+        null
+      ]
+    },
+    {
+      "response_id": "41d4c394-afd6-44da-952e-4f30b2bbfae1_2eb0a72c6e8482629a460df8194c01ef",
+      "question_type": "clozeassociation",
+      "dt_score_updated": "2021-12-23T12:58:12Z",
+      "automarkable": true,
+      "attempted": true,
+      "score": 1,
+      "max_score": 1,
+      "question_reference": "c2507ad2-93dd-48cf-92a7-74b97acdbd7d",
+      "item_reference": "d349dfcc-3bdb-4e8a-be30-9ec84a81072b",
+      "response": {
+        "value": [
+          "signposting language",
+          "pause",
+          "word stress"
+        ],
+        "type": "array",
+        "apiVersion": "v2.168.14",
+        "revision": 3
+      },
+      "questionInfo": {
+        "type": "clozeassociation",
+        "widget_type": "response",
+        "reference": "c2507ad2-93dd-48cf-92a7-74b97acdbd7d",
+        "data": {
+          "possible_responses": [
+            "signposting language",
+            "word stress",
+            "lots of jokes",
+            "pause"
+          ],
+          "response_container": {
+            "pointer": "left"
+          },
+          "template": "In order for the audience to be able to follow your presentation, it is crucial to use&nbsp;{{response}}&nbsp; such as 'I'm going to talk about X first, then I'll&nbsp;be moving onto Y. This makes it easier for the listeners to follow. You must also remember to &nbsp;{{response}}&nbsp;from time to time and also use&nbsp;&nbsp;{{response}}&nbsp;These will all help the audience to engage with your presentation!",
+          "type": "clozeassociation",
+          "case_sensitive": true,
+          "validation": {
+            "scoring_type": "exactMatch",
+            "valid_response": {
+              "score": 1,
+              "value": [
+                "signposting language",
+                "pause",
+                "word stress"
+              ]
+            }
+          },
+          "shuffle_options": true
+        },
+        "metadata": {
+          "name": "Cloze with drag & drop",
+          "template_reference": "51a8c1e7-f34f-4faf-b211-da458e891fcb"
+        }
+      },
+      "feedbackInfo": [
+        null,
+        null
+      ]
+    },
+    {
+      "response_id": "41d4c394-afd6-44da-952e-4f30b2bbfae1_4c26a4639fc4ca523ef348d6abf25477",
+      "question_type": "clozeassociation",
+      "dt_score_updated": "2021-12-23T12:58:27Z",
+      "automarkable": true,
+      "attempted": true,
+      "score": 1,
+      "max_score": 1,
+      "question_reference": "344933b1-e0ef-4763-b5ae-5c82593253cc",
+      "item_reference": "d349dfcc-3bdb-4e8a-be30-9ec84a81072b",
+      "response": {
+        "value": [
+          "body language&nbsp;",
+          "eye contact",
+          "read"
+        ],
+        "type": "array",
+        "apiVersion": "v2.168.14",
+        "revision": 2
+      },
+      "questionInfo": {
+        "type": "clozeassociation",
+        "widget_type": "response",
+        "reference": "344933b1-e0ef-4763-b5ae-5c82593253cc",
+        "data": {
+          "possible_responses": [
+            "body language&nbsp;",
+            "eye contact",
+            "read",
+            "watch"
+          ],
+          "response_container": {
+            "pointer": "left"
+          },
+          "template": "Positive&nbsp;{{response}}&nbsp;is vital in a presentation. Make sure you make&nbsp;{{response}}&nbsp;with your audience (not just one person) and try not to &nbsp;{{response}} from a script or the screen. This will show your audience how&nbsp;well-prepared you are and how well you know your subject.",
+          "type": "clozeassociation",
+          "case_sensitive": true,
+          "validation": {
+            "scoring_type": "exactMatch",
+            "valid_response": {
+              "score": 1,
+              "value": [
+                "body language&nbsp;",
+                "eye contact",
+                "read"
+              ]
+            }
+          },
+          "shuffle_options": true
+        },
+        "metadata": {
+          "name": "Cloze with drag & drop",
+          "template_reference": "51a8c1e7-f34f-4faf-b211-da458e891fcb"
+        }
+      },
+      "feedbackInfo": [
+        null,
+        null
+      ]
+    },
+    {
+      "response_id": "41d4c394-afd6-44da-952e-4f30b2bbfae1_2dcce64b57ba53575f0b40d8ee4fdca7",
+      "question_type": "clozeassociation",
+      "dt_score_updated": "2021-12-23T12:59:08Z",
+      "automarkable": true,
+      "attempted": true,
+      "score": 1,
+      "max_score": 1,
+      "question_reference": "5a93a075-8df1-4a49-8714-dcc9956eef90",
+      "item_reference": "d349dfcc-3bdb-4e8a-be30-9ec84a81072b",
+      "response": {
+        "value": [
+          "visual aids",
+          "slides&nbsp;",
+          "key",
+          "font"
+        ],
+        "type": "array",
+        "apiVersion": "v2.168.14",
+        "revision": 3
+      },
+      "questionInfo": {
+        "type": "clozeassociation",
+        "widget_type": "response",
+        "reference": "5a93a075-8df1-4a49-8714-dcc9956eef90",
+        "data": {
+          "possible_responses": [
+            "visual aids",
+            "slides&nbsp;",
+            "detailed",
+            "key",
+            "font"
+          ],
+          "response_container": {
+            "pointer": "left"
+          },
+          "template": "Having useful&nbsp;{{response}}&nbsp;is very important. Firstly, make sure you do not have too many&nbsp;&nbsp;{{response}} in your PPT.&nbsp;&nbsp;Check with your tutor as this will depend on the length of your presentation.&nbsp;The content on each&nbsp;slide should contain&nbsp;{{response}} information only. The slides are there to help your audience follow your presentation but your tutor wants to hear you speaking not reading text! Make sure you use bullet points and that your&nbsp;<span id=\"cke_bm_44160S\" style=\"display: none;\">&nbsp;</span> {{response}}&nbsp; is not too big or too small.",
+          "type": "clozeassociation",
+          "case_sensitive": true,
+          "validation": {
+            "scoring_type": "exactMatch",
+            "valid_response": {
+              "score": 1,
+              "value": [
+                "visual aids",
+                "slides&nbsp;",
+                "key",
+                "font"
+              ]
+            }
+          },
+          "shuffle_options": true
+        },
+        "metadata": {
+          "name": "Cloze with drag & drop",
+          "template_reference": "51a8c1e7-f34f-4faf-b211-da458e891fcb"
+        }
+      },
+      "feedbackInfo": [
+        null,
+        null
+      ]
+    },
+    {
+      "response_id": "41d4c394-afd6-44da-952e-4f30b2bbfae1_fdb6f7d62a950c4eb128daa9fc7dbcc7",
+      "question_type": "clozeassociation",
+      "dt_score_updated": "2021-12-23T12:59:43Z",
+      "automarkable": true,
+      "attempted": true,
+      "score": 1,
+      "max_score": 1,
+      "question_reference": "3ce36631-83b9-4f35-8fdb-d73d819e981c",
+      "item_reference": "d349dfcc-3bdb-4e8a-be30-9ec84a81072b",
+      "response": {
+        "value": [
+          "cite",
+          "reference list",
+          "APA"
+        ],
+        "type": "array",
+        "apiVersion": "v2.168.14",
+        "revision": 3
+      },
+      "questionInfo": {
+        "type": "clozeassociation",
+        "widget_type": "response",
+        "reference": "3ce36631-83b9-4f35-8fdb-d73d819e981c",
+        "data": {
+          "possible_responses": [
+            "cite",
+            "citations",
+            "reference list",
+            "APA"
+          ],
+          "response_container": {
+            "pointer": "left"
+          },
+          "template": "Make sure you &nbsp;{{response}}&nbsp;your sources when you are presenting. Using language such as 'according to...' will give you the opportunity to show your tutor that you have done your research.&nbsp;Do not forget that your final slide should be a&nbsp;&nbsp;{{response}}&nbsp;. This should be organised in alphabetical order and follow the&nbsp;&nbsp;{{response}}&nbsp;style.",
+          "type": "clozeassociation",
+          "case_sensitive": true,
+          "validation": {
+            "scoring_type": "exactMatch",
+            "valid_response": {
+              "score": 1,
+              "value": [
+                "cite",
+                "reference list",
+                "APA"
+              ]
+            }
+          },
+          "shuffle_options": true
+        },
+        "metadata": {
+          "name": "Cloze with drag & drop",
+          "template_reference": "51a8c1e7-f34f-4faf-b211-da458e891fcb"
+        }
+      },
+      "feedbackInfo": [
+        null,
+        null
+      ]
+    },
+    {
+      "response_id": "41d4c394-afd6-44da-952e-4f30b2bbfae1_b055a8cadd64c5b67cde013b3f6d6a40",
+      "question_type": "clozeassociation",
+      "dt_score_updated": "2021-12-23T12:59:58Z",
+      "automarkable": true,
+      "attempted": true,
+      "score": 0,
+      "max_score": 1,
+      "question_reference": "736d97fc-af49-4606-8054-0223804ef945",
+      "item_reference": "d349dfcc-3bdb-4e8a-be30-9ec84a81072b",
+      "response": {
+        "value": [
+          "practise",
+          "pronounce",
+          "questions",
+          "answers"
+        ],
+        "type": "array",
+        "apiVersion": "v2.168.14",
+        "revision": 4
+      },
+      "questionInfo": {
+        "type": "clozeassociation",
+        "widget_type": "response",
+        "reference": "736d97fc-af49-4606-8054-0223804ef945",
+        "data": {
+          "possible_responses": [
+            "practise",
+            "pronounce",
+            "discussion",
+            "questions",
+            "answers"
+          ],
+          "response_container": {
+            "pointer": "left"
+          },
+          "template": "Finally, make sure that you&nbsp;{{response}}&nbsp;as much as you can. It is important&nbsp;to&nbsp;&nbsp;{{response}}&nbsp;key words correctly and, by recording yourself on your phone or laptop, you can see what you look and sound like.&nbsp;<span id=\"cke_bm_75815S\" style=\"display: none;\">&nbsp;</span>&nbsp;Do not forget to prepare for&nbsp;the&nbsp;{{response}}<span id=\"cke_bm_75815S\" style=\"display: none;\">&nbsp;</span>&nbsp;session at the end of your presentation. You can do this by taking time to consider what&nbsp; {{response}}&nbsp;you might be asked. Good luck!!!!&nbsp;",
+          "type": "clozeassociation",
+          "case_sensitive": true,
+          "validation": {
+            "scoring_type": "exactMatch",
+            "valid_response": {
+              "score": 1,
+              "value": [
+                "practise",
+                "pronounce",
+                "discussion",
+                "questions"
+              ]
+            }
+          },
+          "shuffle_options": true
+        },
+        "metadata": {
+          "name": "Cloze with drag & drop",
+          "template_reference": "51a8c1e7-f34f-4faf-b211-da458e891fcb"
+        }
+      },
+      "feedbackInfo": [
+        null,
+        null
+      ]
+    }
+  ]
+}

@@ -1,0 +1,311 @@
+{
+  "userId": "092f7784-0962-4320-bb13-45f6c557cce0",
+  "firstName": "Xiaoyan",
+  "lastName": "Zhou",
+  "assigmentId": "80e83f0e-29d5-4f11-af87-dc3ac9154251",
+  "assigmentName": "Week 5 Quiz",
+  "sessionId": "7294dd1f-e1b4-4d5a-94fc-2dafd25814f4",
+  "email": "zhoux43@coventry.ac.uk",
+  "spaceId": "vrgeGStA78",
+  "spaceName": "(Community) MSc Professional Accounting (LONT024 / LONT051)",
+  "score": 1,
+  "max_score": 4,
+  "questions": [
+    {
+      "response_id": "7294dd1f-e1b4-4d5a-94fc-2dafd25814f4_82f6a90fa550ffe69cf84b65e583b480",
+      "question_type": "mcq",
+      "dt_score_updated": "2022-02-23T21:33:53Z",
+      "automarkable": true,
+      "attempted": true,
+      "score": 0,
+      "max_score": 1,
+      "question_reference": "a708fd54-a1c4-4da4-996e-92ce5c87e6ae",
+      "item_reference": "fb55f076-b5a0-49ba-a0a8-bbf193e97372",
+      "response": {
+        "value": [
+          "1"
+        ],
+        "type": "array",
+        "apiVersion": "v2.168.17",
+        "revision": 1
+      },
+      "questionInfo": {
+        "type": "mcq",
+        "widget_type": "response",
+        "reference": "a708fd54-a1c4-4da4-996e-92ce5c87e6ae",
+        "data": {
+          "options": [
+            {
+              "label": "True",
+              "value": "0"
+            },
+            {
+              "label": "False",
+              "value": "1"
+            }
+          ],
+          "stimulus": "You can submit&nbsp;multiple times before the deadline and use your similarity score to improve your assignment?",
+          "type": "mcq",
+          "ui_style": {
+            "type": "horizontal"
+          },
+          "validation": {
+            "scoring_type": "exactMatch",
+            "valid_response": {
+              "score": 1,
+              "value": [
+                "0"
+              ]
+            }
+          }
+        },
+        "metadata": {
+          "name": "True or false",
+          "template_reference": "3egs0b24-5gs8-49fc-fds9-4a450sdg31ca"
+        }
+      },
+      "feedbackInfo": [
+        null,
+        null
+      ]
+    },
+    {
+      "response_id": "7294dd1f-e1b4-4d5a-94fc-2dafd25814f4_04e9dc8976a673d350c2f0e99d555617",
+      "question_type": "choicematrix",
+      "dt_score_updated": "2022-02-23T21:35:02Z",
+      "automarkable": true,
+      "attempted": true,
+      "score": 0,
+      "max_score": 1,
+      "question_reference": "0fd57e76-44ce-4d16-919c-000f05c3b941",
+      "item_reference": "fb55f076-b5a0-49ba-a0a8-bbf193e97372",
+      "response": {
+        "value": [
+          [
+            1
+          ],
+          [
+            1
+          ],
+          [
+            0
+          ],
+          [
+            0
+          ]
+        ],
+        "type": "array",
+        "apiVersion": "v2.168.17",
+        "revision": 2
+      },
+      "questionInfo": {
+        "type": "choicematrix",
+        "widget_type": "response",
+        "reference": "0fd57e76-44ce-4d16-919c-000f05c3b941",
+        "data": {
+          "options": [
+            "True",
+            "False"
+          ],
+          "stems": [
+            "Your Student Visa",
+            "Your Post Study Work visa option e.g PSW/Graduate visa",
+            "Your student loans",
+            "Your overall degree classification"
+          ],
+          "stimulus": "Not&nbsp;submitting your assignments on time&nbsp;could impact on the below:&nbsp;",
+          "type": "choicematrix",
+          "ui_style": {
+            "type": "inline",
+            "horizontal_lines": false
+          },
+          "validation": {
+            "scoring_type": "exactMatch",
+            "valid_response": {
+              "score": 1,
+              "value": [
+                [
+                  0
+                ],
+                [
+                  0
+                ],
+                [
+                  0
+                ],
+                [
+                  0
+                ]
+              ]
+            }
+          },
+          "shuffle_options": true
+        },
+        "metadata": {
+          "name": "Choice matrix – inline",
+          "template_reference": "f109c77c-390e-4595-93b8-2dbd547251b6"
+        }
+      },
+      "feedbackInfo": [
+        null,
+        null
+      ]
+    },
+    {
+      "response_id": "7294dd1f-e1b4-4d5a-94fc-2dafd25814f4_1a27c895dc30aa617cb569cf9f6c1486",
+      "question_type": "mcq",
+      "dt_score_updated": "2022-02-23T21:33:35Z",
+      "automarkable": true,
+      "attempted": true,
+      "score": 0,
+      "max_score": 1,
+      "question_reference": "0dfb8134-9d24-4c83-ab17-8c76b3a65bed",
+      "item_reference": "fb55f076-b5a0-49ba-a0a8-bbf193e97372",
+      "response": {
+        "value": [
+          "0"
+        ],
+        "type": "array",
+        "apiVersion": "v2.168.17",
+        "revision": 1
+      },
+      "questionInfo": {
+        "type": "mcq",
+        "widget_type": "response",
+        "reference": "0dfb8134-9d24-4c83-ab17-8c76b3a65bed",
+        "data": {
+          "options": [
+            {
+              "label": "50",
+              "value": "0"
+            },
+            {
+              "label": "40",
+              "value": "1"
+            },
+            {
+              "label": "55",
+              "value": "2"
+            },
+            {
+              "label": "45",
+              "value": "3"
+            }
+          ],
+          "stimulus": "The&nbsp;pass mark for assessments is:",
+          "type": "mcq",
+          "validation": {
+            "scoring_type": "exactMatch",
+            "valid_response": {
+              "score": 1,
+              "value": [
+                "1"
+              ]
+            }
+          },
+          "ui_style": {
+            "type": "horizontal"
+          },
+          "shuffle_options": true
+        },
+        "metadata": {
+          "name": "Multiple choice – standard",
+          "template_reference": "9e8149bd-e4d8-4dd6-a751-1a113a4b9163"
+        }
+      },
+      "feedbackInfo": [
+        null,
+        null
+      ]
+    },
+    {
+      "response_id": "7294dd1f-e1b4-4d5a-94fc-2dafd25814f4_3a3c269e218567feaede2d3ef29d41df",
+      "question_type": "choicematrix",
+      "dt_score_updated": "2022-02-23T21:39:00Z",
+      "automarkable": true,
+      "attempted": true,
+      "score": 1,
+      "max_score": 1,
+      "question_reference": "96662a9b-6767-4ea3-b276-874aba47ed65",
+      "item_reference": "fb55f076-b5a0-49ba-a0a8-bbf193e97372",
+      "response": {
+        "value": [
+          [
+            0
+          ],
+          [
+            0
+          ],
+          [
+            0
+          ],
+          [
+            1
+          ],
+          [
+            1
+          ]
+        ],
+        "type": "array",
+        "apiVersion": "v2.168.17",
+        "revision": 5
+      },
+      "questionInfo": {
+        "type": "choicematrix",
+        "widget_type": "response",
+        "reference": "96662a9b-6767-4ea3-b276-874aba47ed65",
+        "data": {
+          "options": [
+            "True",
+            "False"
+          ],
+          "stems": [
+            "Submit your assessments on time – if they are late, you will receive a mark of 0",
+            "Arrive for exams and presentations on time",
+            "Only submit work that is your own",
+            "Ignore feedback on assessments and do not use it to improve your work",
+            "Buy assessments, copy materials, or work together with friends when you should be working alone"
+          ],
+          "stimulus": "Expectations for assessments:",
+          "type": "choicematrix",
+          "ui_style": {
+            "type": "inline",
+            "horizontal_lines": false
+          },
+          "validation": {
+            "scoring_type": "exactMatch",
+            "valid_response": {
+              "score": 1,
+              "value": [
+                [
+                  0
+                ],
+                [
+                  0
+                ],
+                [
+                  0
+                ],
+                [
+                  1
+                ],
+                [
+                  1
+                ]
+              ]
+            }
+          },
+          "shuffle_options": true
+        },
+        "metadata": {
+          "name": "Choice matrix – inline",
+          "template_reference": "f109c77c-390e-4595-93b8-2dbd547251b6"
+        }
+      },
+      "feedbackInfo": [
+        null,
+        null
+      ]
+    }
+  ]
+}

@@ -1,0 +1,144 @@
+{
+  "userId": "K1N3MnlXec",
+  "firstName": "Luke",
+  "lastName": "Mullender",
+  "assigmentId": "570df162-bd5f-4770-b866-c559a4655ca9",
+  "assigmentName": "brsbv",
+  "sessionId": "4a72f095-bfb8-47cb-8f91-cf923a3f578c",
+  "email": "mullenderluke@gmail.com",
+  "spaceId": "187abe54-bec4-4588-be8e-4dc3c2a9c36f",
+  "spaceName": "*Luke Mullender - Test Space*",
+  "score": 8,
+  "max_score": 10,
+  "questions": [
+    {
+      "response_id": "4a72f095-bfb8-47cb-8f91-cf923a3f578c_aa33dd7cf9612eaeba395e0302ad54a4",
+      "question_type": "longtextV2",
+      "dt_score_updated": "2021-09-29T09:57:16Z",
+      "automarkable": false,
+      "attempted": true,
+      "score": 8,
+      "max_score": 10,
+      "question_reference": "41d013ef-3219-499d-aae5-d03bb24e81a2",
+      "item_reference": "609f042e-2a39-4897-9e9c-6b45e60679ac",
+      "response": {
+        "value": "<p>bkhgkj<br></p>",
+        "wordCount": 1,
+        "type": "string",
+        "apiVersion": "v2.168.9",
+        "revision": 1
+      },
+      "manual_score": null,
+      "max_manual_score": null,
+      "questionInfo": {
+        "type": "longtextV2",
+        "widget_type": "response",
+        "reference": "41d013ef-3219-499d-aae5-d03bb24e81a2",
+        "data": {
+          "stimulus": "Your written answer",
+          "type": "longtextV2",
+          "validation": {
+            "max_score": 10
+          },
+          "show_word_limit": "off",
+          "placeholder": "If you are attaching files below, then you do not need to enter any text here."
+        },
+        "metadata": {
+          "name": "Essay with rich text",
+          "template_reference": "1e6039f8-0676-495d-aca9-108710a51ce5"
+        }
+      },
+      "feedbackInfo": [
+        {
+          "id": "0707_K1N3MnlXec_4a72f095-bfb8-47cb-8f91-cf923a3f578c_a1841870f9c1ca7b3a3e7ec7469e1d64",
+          "user_id": "K1N3MnlXec",
+          "response_id": "4a72f095-bfb8-47cb-8f91-cf923a3f578c_a1841870f9c1ca7b3a3e7ec7469e1d64",
+          "type": "longtextV2",
+          "question": {
+            "type": "longtextV2",
+            "metadata": {
+              "source": {
+                "organisation_id": 755
+              },
+              "sheet_reference": "default_feedback",
+              "widget_reference": "de082b5f-742a-4ecf-82ca-4dc86e218fec",
+              "valid_response_count": 0
+            },
+            "stimulus": "Written feedback:",
+            "response_id": "4a72f095-bfb8-47cb-8f91-cf923a3f578c_a1841870f9c1ca7b3a3e7ec7469e1d64",
+            "show_word_count": false,
+            "show_word_limit": "off"
+          },
+          "response": {
+            "value": "<p>gygjgjhk</p>",
+            "wordCount": 1,
+            "type": "string",
+            "apiVersion": "v2.168.9",
+            "revision": 1
+          },
+          "creation_date": "2021-09-29 09:50:41",
+          "mod_date": "2021-09-29 09:57:05",
+          "persist_until": "2024-09-28 09:50:41",
+          "saved": true
+        },
+        null
+      ]
+    },
+    {
+      "response_id": "4a72f095-bfb8-47cb-8f91-cf923a3f578c_5b815b176df88068ff3f77da5a813d79",
+      "question_type": "fileupload",
+      "dt_score_updated": "2021-09-29T09:50:14Z",
+      "automarkable": false,
+      "attempted": true,
+      "score": null,
+      "max_score": null,
+      "question_reference": "a5c8fccd-682e-44c0-bc57-293a4d2e8d45",
+      "item_reference": "609f042e-2a39-4897-9e9c-6b45e60679ac",
+      "response": {
+        "value": [
+          {
+            "name": "Screenshot 2021-09-29 at 10.35.54.png",
+            "description": "",
+            "originalName": "Screenshot 2021-09-29 at 10.35.54.png",
+            "extension": "png",
+            "size": 34064,
+            "assetPath": "userupload/0707/questionresponse/2021/271/0707_K1N3MnlXec_0707_K1N3MnlXec_4a72f095-bfb8-47cb-8f91-cf923a3f578c_5b815b176df88068ff3f77da5a813d79/47f8bf60-9abc-4eea-8be5-03be38adb69e.png"
+          }
+        ],
+        "type": "array",
+        "apiVersion": "v2.168.9",
+        "revision": 1
+      },
+      "questionInfo": {
+        "type": "fileupload",
+        "widget_type": "response",
+        "reference": "a5c8fccd-682e-44c0-bc57-293a4d2e8d45",
+        "data": {
+          "max_files": 3,
+          "stimulus": "File upload",
+          "type": "fileupload",
+          "allow_pdf": true,
+          "allow_jpg": true,
+          "allow_gif": true,
+          "allow_png": true,
+          "validation": {
+            "unscored": true
+          },
+          "allow_rtf": true,
+          "allow_txt": true,
+          "allow_ms_word": true,
+          "allow_ms_powerpoint": true,
+          "allow_open_office": true
+        },
+        "metadata": {
+          "name": "File upload",
+          "template_reference": "8ff43fa9-804b-42e7-9b3e-4cdd7e3a882d"
+        }
+      },
+      "feedbackInfo": [
+        null,
+        null
+      ]
+    }
+  ]
+}

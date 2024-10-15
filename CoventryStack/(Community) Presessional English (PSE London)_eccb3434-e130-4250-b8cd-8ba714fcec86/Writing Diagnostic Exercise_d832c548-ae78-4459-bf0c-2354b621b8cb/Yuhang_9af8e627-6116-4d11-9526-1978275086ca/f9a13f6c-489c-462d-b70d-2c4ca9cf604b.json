@@ -1,0 +1,114 @@
+{
+  "userId": "9af8e627-6116-4d11-9526-1978275086ca",
+  "firstName": "Yuhang",
+  "lastName": "Yang",
+  "assigmentId": "d832c548-ae78-4459-bf0c-2354b621b8cb",
+  "assigmentName": "Writing Diagnostic Exercise",
+  "sessionId": "f9a13f6c-489c-462d-b70d-2c4ca9cf604b",
+  "email": "yangy159@coventry.ac.uk",
+  "spaceId": "eccb3434-e130-4250-b8cd-8ba714fcec86",
+  "spaceName": "(Community) Presessional English (PSE London)",
+  "score": 0,
+  "max_score": 40,
+  "questions": [
+    {
+      "response_id": "f9a13f6c-489c-462d-b70d-2c4ca9cf604b_29a59873d64e3761ccb0d29ecca16973",
+      "question_type": "longtextV2",
+      "dt_score_updated": "2022-11-02T13:47:58Z",
+      "automarkable": false,
+      "attempted": true,
+      "score": null,
+      "max_score": 40,
+      "question_reference": "8ce3bee1-48e8-4baa-b2e3-5bf8083389e0",
+      "item_reference": "570ff370-fde4-49bc-959d-b91c3099b1d6",
+      "response": {
+        "value": "<p>The aim of this report is to help people understand the convenience of bicycles and trains and the health of the environment.<br></p><p>In today's increasingly developed modern society, people's travel modes are more and more diversified, people can travel by car, bus, train and bicycle.</p><p>The most popular means of transportation in the city is bicycle.Bicycle travel is very green, it will not release carbon dioxide and damage the environmen, traveling by bike is also very cheap. But there are also many shortcomings, riding a bicycle is not particularly safe on the road without the same protective measures as cars. If you sweat after cycling, you need to take a bath and change into clean clothes.</p><p>Second most popular transport is train. The train has many advantages. For example, the ride environment is very comfortable, the speed is very fast, and the station is very close to the city. At the same time, the disadvantages can not be ignored. The ticket price of taking the train is very expensive. it is often late or cancelled. The traffic is very crowded during peak hours. </p><p>My advice on bicycles is to build a bicycle lane, separate the main road from the bicycle lane, and the government will issue disciplinary measures, and the traffic police will supervise and enforce the law.</p><p>The suggestion about trains is to start classes later to avoid rush hour.</p><p><br></p>",
+        "wordCount": 231,
+        "type": "string",
+        "apiVersion": "v2.168.23",
+        "revision": 28
+      },
+      "questionInfo": {
+        "type": "longtextV2",
+        "widget_type": "response",
+        "reference": "8ce3bee1-48e8-4baa-b2e3-5bf8083389e0",
+        "data": {
+          "stimulus": "<h2 id=\"yui_3_17_2_1_1628703407776_1784\"><span style=\"color:#0000ff;\"><b id=\"yui_3_17_2_1_1628703407776_2039\">You are going to write a report for your University. </b></span></h2>\n\n<h4><b>You should…</b></h4>\n\n<ul id=\"yui_3_17_2_1_1628703407776_2050\">\n\t<li><span style=\"font-size:1.3em;\">Write about the&nbsp;TWO&nbsp;most popular means of transportation used by students</span></li>\n\t<li><span style=\"font-size:1.3em;\">Discuss the advantages&nbsp;AND&nbsp;disadvantages</span></li>\n\t<li><span style=\"font-size:1.3em;\">Make some recommendations to the university</span></li>\n</ul>\n\n<h5 id=\"yui_3_17_2_1_1628703407776_2051\">&nbsp;</h5>\n\n<h4 id=\"yui_3_17_2_1_1628703407776_2055\"><b id=\"yui_3_17_2_1_1628703407776_2057\">Analyse the information in the table below:</b></h4>\n\n<p><img height=\"285\" src=\"https://assets.learnosity.com/organisations/755/501dfa12-1cf8-4ced-a6ab-aa6ba44e3379.JPG\" width=\"701\" /></p>\n\n<p><img height=\"259\" src=\"https://assets.learnosity.com/organisations/755/2bc31a90-4e37-4aed-8f9c-b1924cc4ec71.JPG\" width=\"699\" /></p>\n\n<h4>&nbsp;</h4>\n\n<h4><span style=\"color:#0000ff;\"><b>Write your report using&nbsp; ALL&nbsp;the information in the table.</b></span></h4>\n\n<h4><span style=\"color:#ff0000;\"><b><u>Write COMPLETE sentences.&nbsp;Do NOT use bullet points.</u></b></span></h4>\n\n<h4><b style=\"\">Use at least&nbsp;ONE&nbsp;of <u>your own ideas</u>&nbsp;</b><b style=\"\">in the recommendations section.</b></h4>\n\n<h4>&nbsp;</h4>\n\n<h4><b>Follow the&nbsp;report structure&nbsp;you can see below:</b></h4>\n\n<p>&nbsp;</p>\n\n<p><img height=\"523\" src=\"https://assets.learnosity.com/organisations/755/2694fd52-288e-4118-90cd-de27f223d78a.JPG\" width=\"400\" /></p>\n\n<h4>&nbsp;</h4>\n\n<h4><b>Write your report in the box below.&nbsp;Start with:&nbsp;</b></h4>\n\n<p><span style=\"font-size:1.3em;\"><i>The aim of this report is to ...</i></span></p>\n",
+          "type": "longtextV2",
+          "formatting_options": [
+            "bold",
+            "italic",
+            "underline",
+            "|",
+            "unorderedList",
+            "orderedList",
+            "redo"
+          ],
+          "validation": {
+            "max_score": 40
+          }
+        },
+        "metadata": {
+          "name": "Essay with rich text",
+          "template_reference": "1e6039f8-0676-495d-aca9-108710a51ce5"
+        }
+      },
+      "feedbackInfo": [
+        {
+          "id": "0707_9af8e627-6116-4d11-9526-1978275086ca_f9a13f6c-489c-462d-b70d-2c4ca9cf604b_411fdefc972c4ffaa52991c89fa07c1f",
+          "user_id": "9af8e627-6116-4d11-9526-1978275086ca",
+          "response_id": "f9a13f6c-489c-462d-b70d-2c4ca9cf604b_411fdefc972c4ffaa52991c89fa07c1f",
+          "type": "longtextV2",
+          "question": {
+            "type": "longtextV2",
+            "metadata": {
+              "source": {
+                "organisation_id": 755
+              },
+              "sheet_reference": "default_feedback",
+              "widget_reference": "de082b5f-742a-4ecf-82ca-4dc86e218fec",
+              "valid_response_count": 0
+            },
+            "stimulus": "Written feedback:",
+            "response_id": "f9a13f6c-489c-462d-b70d-2c4ca9cf604b_411fdefc972c4ffaa52991c89fa07c1f",
+            "show_word_count": false,
+            "show_word_limit": "off"
+          },
+          "response": null,
+          "creation_date": "2022-11-04 10:24:46",
+          "mod_date": "2022-11-04 10:24:46",
+          "persist_until": "2022-11-05 10:24:46",
+          "saved": false
+        },
+        {
+          "id": "0707_9af8e627-6116-4d11-9526-1978275086ca_f9a13f6c-489c-462d-b70d-2c4ca9cf604b_f61b4d92afd9d6064726cec09fb9e8e6",
+          "user_id": "9af8e627-6116-4d11-9526-1978275086ca",
+          "response_id": "f9a13f6c-489c-462d-b70d-2c4ca9cf604b_f61b4d92afd9d6064726cec09fb9e8e6",
+          "type": "audio",
+          "question": {
+            "type": "audio",
+            "metadata": {
+              "source": {
+                "organisation_id": 755
+              },
+              "sheet_reference": "default_feedback",
+              "widget_reference": "b2f049b4-bb33-4542-993d-0645ffedda1a",
+              "valid_response_count": 0
+            },
+            "stimulus": "Audio feedback:",
+            "ui_style": {
+              "type": "button"
+            },
+            "max_length": 600,
+            "response_id": "f9a13f6c-489c-462d-b70d-2c4ca9cf604b_f61b4d92afd9d6064726cec09fb9e8e6"
+          },
+          "response": null,
+          "creation_date": "2022-11-04 10:24:46",
+          "mod_date": "2022-11-04 10:24:46",
+          "persist_until": "2022-11-05 10:24:46",
+          "saved": false
+        }
+      ]
+    }
+  ]
+}

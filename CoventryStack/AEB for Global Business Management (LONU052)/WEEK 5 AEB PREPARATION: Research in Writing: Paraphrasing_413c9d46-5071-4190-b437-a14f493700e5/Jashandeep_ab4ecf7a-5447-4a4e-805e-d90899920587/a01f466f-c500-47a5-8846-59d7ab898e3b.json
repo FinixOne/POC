@@ -1,0 +1,747 @@
+{
+  "userId": "ab4ecf7a-5447-4a4e-805e-d90899920587",
+  "firstName": "Jashandeep",
+  "lastName": "KAUR",
+  "assigmentId": "413c9d46-5071-4190-b437-a14f493700e5",
+  "assigmentName": "WEEK 5 AEB PREPARATION: Research in Writing: Paraphrasing",
+  "sessionId": "a01f466f-c500-47a5-8846-59d7ab898e3b",
+  "email": "kaurj61@coventry.ac.uk",
+  "spaceId": "9e570e54-f3ba-41f0-b0dd-65fb63887cf3",
+  "spaceName": "AEB for Global Business Management (LONU052)",
+  "score": 31,
+  "max_score": 34,
+  "questions": [
+    {
+      "response_id": "a01f466f-c500-47a5-8846-59d7ab898e3b_817ce841c7b483beabbba041a8cf4a3a",
+      "question_type": "clozedropdown",
+      "dt_score_updated": "2023-02-18T22:31:18Z",
+      "automarkable": false,
+      "attempted": true,
+      "score": 12,
+      "max_score": 12,
+      "question_reference": "90a2bad8-4899-4069-9a10-03cc32224fa5",
+      "item_reference": "e9a40574-66d1-4cdc-aadb-4b3bb7b00d33",
+      "response": {
+        "value": [
+          "ideas",
+          "words",
+          "research",
+          "meaning",
+          "understand",
+          "quotation",
+          "paraphrase",
+          "quotations",
+          "author",
+          "publication",
+          "plagiarism",
+          "reference"
+        ],
+        "type": "array",
+        "apiVersion": "v2.168.23",
+        "revision": 13
+      },
+      "questionInfo": {
+        "type": "clozedropdown",
+        "widget_type": "response",
+        "reference": "90a2bad8-4899-4069-9a10-03cc32224fa5",
+        "data": {
+          "possible_responses": [
+            [
+              "ideas",
+              "words",
+              "meaning",
+              "understand",
+              "research"
+            ],
+            [
+              "research",
+              "understand",
+              "meaning",
+              "words",
+              "ideas"
+            ],
+            [
+              "ideas",
+              "words",
+              "meaning",
+              "research",
+              "understand"
+            ],
+            [
+              "research",
+              "meaning",
+              "understand",
+              "words",
+              "ideas"
+            ],
+            [
+              "ideas",
+              "words",
+              "understand",
+              "meaning",
+              "research"
+            ],
+            [
+              "quotation",
+              "paraphrase",
+              "quotations"
+            ],
+            [
+              "paraphrase",
+              "quotations",
+              "quotation"
+            ],
+            [
+              "quotation",
+              "paraphrase",
+              "quotations"
+            ],
+            [
+              "author",
+              "publication",
+              "reference",
+              "plagiarism"
+            ],
+            [
+              "author",
+              "publication",
+              "plagiarism",
+              "reference"
+            ],
+            [
+              "author",
+              "publication",
+              "plagiarism",
+              "reference"
+            ],
+            [
+              "author",
+              "publication",
+              "plagiarism",
+              "reference"
+            ]
+          ],
+          "response_container": {
+            "pointer": "left"
+          },
+          "stimulus": "<h5><span style=\"color:#4b0082;\"><strong>TASK 1</strong></span></h5>\n\n<p><strong>Read the text (which reviews paraphrasing, quoting &amp; citing) and choose the correct word or phrase from the list.</strong></p>\n",
+          "template": "<p><span style=\"font-size:1.6em;\"><strong>🤔 </strong><u><strong>What is a paraphrase?</strong></u></span></p>\n\n<p>Paraphrasing means&nbsp;presenting someone else's {{response}}&nbsp;but using your own {{response}}. We use paraphrasing when we use {{response}}&nbsp;(from books, articles, databases etc.) in our assignments.&nbsp;It is important to change the words, but we must ensure the {{response}}&nbsp;is the same. When you use your own words, it shows that you {{response}}&nbsp;the original and you are <strong>not </strong>just copying and pasting!</p>\n\n<p>&nbsp;</p>\n\n<p><span style=\"font-size:1.6em;\"><strong>🗣 </strong><u><strong>What is a quotation?</strong></u></span></p>\n\n<p>If it is important to use the exact words from the original source, we can use a {{response}}. However, these words must be presented with quotation marks (\"...\"). Remember, you should use {{response}}&nbsp;for presenting most of the research in your essays. {{response}}&nbsp;should only be used occasionally, when needed.</p>\n\n<p>&nbsp;</p>\n\n<p><span style=\"font-size:1.6em;\"><strong>📑 </strong><u><strong>What is a citation?</strong></u></span></p>\n\n<p>Finally, if you use paraphrasing or quotation, you must always give a citation! This means putting the {{response}}&nbsp;and year of {{response}}&nbsp;in brackets after cited information, and putting full details of your source in the {{response}}&nbsp;list at the end of your work. If you don't do this, you are committing {{response}}, which is a serious academic offence!</p>\n",
+          "type": "clozedropdown",
+          "case_sensitive": true,
+          "validation": {
+            "scoring_type": "partialMatchV2",
+            "valid_response": {
+              "score": 12,
+              "value": [
+                null,
+                null,
+                null,
+                null,
+                null,
+                null,
+                null,
+                null,
+                null,
+                null,
+                null,
+                null
+              ]
+            },
+            "min_score_if_attempted": 12,
+            "rounding": "none"
+          },
+          "feedback_attempts": 3,
+          "shuffle_options": true
+        },
+        "metadata": {
+          "name": "Cloze with drop down",
+          "template_reference": "2fbba51b-e35e-441f-83c7-2662e2e81fa6"
+        }
+      },
+      "feedbackInfo": [
+        null,
+        null
+      ]
+    },
+    {
+      "response_id": "a01f466f-c500-47a5-8846-59d7ab898e3b_1a99b4b9bbb7e3d918946f369336ed8c",
+      "question_type": "clozedropdown",
+      "dt_score_updated": "2023-02-18T22:41:29Z",
+      "automarkable": true,
+      "attempted": true,
+      "score": 2,
+      "max_score": 4,
+      "question_reference": "f348907b-b645-4905-a0cc-5280268be51f",
+      "item_reference": "79f9afe8-edea-4a3d-860e-d3dd0515a5ba",
+      "response": {
+        "value": [
+          "has not",
+          "has"
+        ],
+        "type": "array",
+        "apiVersion": "v2.168.23",
+        "revision": 2
+      },
+      "questionInfo": {
+        "type": "clozedropdown",
+        "widget_type": "response",
+        "reference": "f348907b-b645-4905-a0cc-5280268be51f",
+        "data": {
+          "possible_responses": [
+            [
+              "has",
+              "has not"
+            ],
+            [
+              "has",
+              "has not"
+            ]
+          ],
+          "response_container": {
+            "pointer": "left"
+          },
+          "stimulus": "<table class=\"table table-condensed table-no-border lrn_width_auto\">\n\t<tbody>\n\t\t<tr>\n\t\t\t<td>\n\t\t\t<p><span style=\"color:#800080;\"><u><strong><span style=\"font-size:2em;\">TASK 2</span></strong></u></span></p>\n\n\t\t\t<p><img class=\"lrn-image-non-responsive\" height=\"115\" src=\"https://assets.learnosity.com/organisations/755/ee36bd6a-7b30-4545-b4aa-f8bf6841c68d.jpg\" width=\"170\"></p>\n\t\t\t</td>\n\t\t\t<td>\n\t\t\t<p>&nbsp;</p>\n\n\t\t\t<p><span id=\"yui_3_17_2_1_1646404166529_166\" style=\"\"><b style=\"font-size: 2em;\">Here is an extract of an </b><span style=\"font-size: 28px;\"><b>assignment</b></span><b style=\"font-size: 2em;\">. </b></span></p>\n\n\t\t\t<p><span style=\"font-size:1.8em;\"><b><span style=\"color:#0000ff;\">►&nbsp;</span>Read it<span style=\"color:#008000;\">&nbsp;<u>QUICKLY</u></span>.</b></span></p>\n\t\t\t</td>\n\t\t</tr>\n\t</tbody>\n</table>\n\n<p>&nbsp;</p>\n\n<p><span style=\"font-size:1.5em;\"><b>Read the <u><span style=\"color:#0000ff;\">assignment brief</span></u> and <span style=\"color:#ff0000;\"><u>the assignment extract below</u></span>&nbsp;and answer the questions.</b></span></p>\n\n<p><span style=\"font-size:1.5em;\"><b><span style=\"color:#0000ff;\">► </span>To complete this task you only need to get the&nbsp;<span style=\"color:#008000;\"><u>main ideas</u>.</span></b></span></p>\n\n<p>&nbsp;</p>\n\n<p>&nbsp;</p>\n\n<p><span style=\"color:#0000ff;\"><span style=\"font-size:1.5em;\"><b><b>❓ Assignment Brief:</b></b></span></span></p>\n\n<p style=\"margin-left: 40px;\"><span style=\"font-size:1.3em;\"><em>Assess the role of competition between nations in the creation of business innovation.&nbsp;</em></span></p>\n\n<p style=\"margin-left: 40px;\"><span style=\"font-size:1.3em;\"><i>Use findings from research to support your arguments.</i></span></p>\n\n<p style=\"margin-left: 40px;\">&nbsp;</p>\n\n<p><span style=\"color:#ff0000;\"><strong><span style=\"font-size:1.5em;\">Assignment Extract:</span></strong></span></p>\n\n<p><img height=\"740\" src=\"https://assets.learnosity.com/organisations/755/63ce0f8c-5809-4a43-97c6-2f5e4e97fe01.jpg\" width=\"800\"></p>\n\n<p style=\"margin-left: 40px;\"><img height=\"319\" src=\"https://assets.learnosity.com/organisations/755/05c051ee-e420-48bf-92a6-3153ccbc3caa.png\" width=\"400\"></p>\n",
+          "template": "<p style=\"margin-left: 40px;\">&nbsp;</p>\n\n<p id=\"yui_3_17_2_1_1646404166529_210\" style=\"margin-left: 40px;\"><span style=\"font-size:1.3em;\">The writer&nbsp;</span><span style=\"font-size:1em;\">{{response}}</span><span style=\"font-size:1.3em;\">&nbsp;addressed all parts of the brief.</span></p>\n\n<p style=\"margin-left: 40px;\"><span style=\"font-size:1.3em;\">The writer&nbsp;</span><span style=\"font-size:1em;\">{{response}}</span><span style=\"font-size:1.3em;\">&nbsp;used research to support their argument.</span></p>\n",
+          "type": "clozedropdown",
+          "case_sensitive": true,
+          "validation": {
+            "scoring_type": "partialMatch",
+            "valid_response": {
+              "score": 2,
+              "value": [
+                "has",
+                "has"
+              ]
+            }
+          },
+          "instant_feedback": true
+        },
+        "metadata": {
+          "name": "Cloze with drop down",
+          "template_reference": "2fbba51b-e35e-441f-83c7-2662e2e81fa6"
+        }
+      },
+      "feedbackInfo": [
+        null,
+        null
+      ]
+    },
+    {
+      "response_id": "a01f466f-c500-47a5-8846-59d7ab898e3b_81b05c05e42bc9c019dfe5d4abb806a2",
+      "question_type": "mcq",
+      "dt_score_updated": "2023-02-18T22:46:44Z",
+      "automarkable": true,
+      "attempted": true,
+      "score": 0,
+      "max_score": 1,
+      "question_reference": "0d56751e-1765-4364-a45a-976b2d1b928e",
+      "item_reference": "79f9afe8-edea-4a3d-860e-d3dd0515a5ba",
+      "response": {
+        "value": [
+          "0"
+        ],
+        "type": "array",
+        "apiVersion": "v2.168.23",
+        "revision": 1,
+        "feedbackAttemptsCount": 1
+      },
+      "questionInfo": {
+        "type": "mcq",
+        "widget_type": "response",
+        "reference": "0d56751e-1765-4364-a45a-976b2d1b928e",
+        "data": {
+          "options": [
+            {
+              "label": "<span style=\"font-size:1.1em;\">The key factors that influence innovation are the organisational and geographical context</span>",
+              "value": "0"
+            },
+            {
+              "label": "<span style=\"font-size:1.1em;\">Talented individuals tend to be responsible for most innovation, especially technological breakthroughs.</span>",
+              "value": "1"
+            },
+            {
+              "label": "<span style=\"font-size:1.1em;\">The responsibility for innovation lies with talented individuals and the context from where live and work.</span>",
+              "value": "2"
+            }
+          ],
+          "stimulus": "<table class=\"table table-condensed table-no-border lrn_width_auto\">\n\t<tbody>\n\t\t<tr>\n\t\t\t<td><img class=\"lrn-image-non-responsive\" height=\"122\" src=\"https://assets.learnosity.com/organisations/755/ead09039-c9bc-45df-b596-6afe84f0f6c3.jpg\" width=\"180\"></td>\n\t\t\t<td>\n\t\t\t<p><span style=\"font-size:2em;\"></span></p>\n\n\t\t\t<p><span style=\"font-size:2em;\"><strong>Next, let's <span style=\"color:#000080;\">read for detail</span>.</strong></span><b style=\"font-size: 2em;\"> </b></p>\n\n\t\t\t<p><span style=\"font-size:1.5em;\"><strong><span style=\"color:#000080;\">►</span> Read the text&nbsp;<u><span style=\"color:#000080;\">carefully</span></u>&nbsp;and <u><span style=\"color:#000080;\">check vocabulary</span></u> if you need to.</strong></span></p>\n\t\t\t</td>\n\t\t</tr>\n\t</tbody>\n</table>\n\n<p>&nbsp;</p>\n\n<p><span style=\"font-size:1.8em;\"><b><span style=\"color:#000080;\">► </span></b><strong>Answer the questions below</strong><b>.</b></span></p>\n\n<p>&nbsp;</p>\n\n<div class=\"lrn-well\"><span style=\"font-size:1.3em;\"><b id=\"yui_3_17_2_1_1646404777850_174\">1. Read section 1 again. Choose the best summary.</b></span></div>\n\n<p><font color=\"#ff0000\"><b>► </b></font><b>Read the text carefully!&nbsp;</b><span style=\"font-weight:bold\"><span style=\"color:#ff0000\"><u>You have only ONE 'check answer' attempt</u>!</span></span>&nbsp;</p>\n",
+          "type": "mcq",
+          "ui_style": {
+            "choice_label": "upper-alpha",
+            "type": "block"
+          },
+          "validation": {
+            "scoring_type": "partialMatchV2",
+            "valid_response": {
+              "score": 1,
+              "value": [
+                "2"
+              ]
+            }
+          },
+          "instant_feedback": true,
+          "shuffle_options": true,
+          "feedback_attempts": 1
+        },
+        "metadata": {
+          "name": "Multiple choice – block layout",
+          "template_reference": "33d53a22-1a59-4a03-9671-7f5104edd62e"
+        }
+      },
+      "feedbackInfo": [
+        null,
+        null
+      ]
+    },
+    {
+      "response_id": "a01f466f-c500-47a5-8846-59d7ab898e3b_930ff4a9d5c2f8da84d224fb957baa50",
+      "question_type": "mcq",
+      "dt_score_updated": "2023-02-18T22:49:09Z",
+      "automarkable": true,
+      "attempted": true,
+      "score": 1,
+      "max_score": 1,
+      "question_reference": "4cee1910-2638-42a1-a465-1edb862ad929",
+      "item_reference": "79f9afe8-edea-4a3d-860e-d3dd0515a5ba",
+      "response": {
+        "value": [
+          "0"
+        ],
+        "type": "array",
+        "apiVersion": "v2.168.23",
+        "revision": 1
+      },
+      "questionInfo": {
+        "type": "mcq",
+        "widget_type": "response",
+        "reference": "4cee1910-2638-42a1-a465-1edb862ad929",
+        "data": {
+          "options": [
+            {
+              "label": "<span style=\"font-size:1.1em;\">It’s the main idea</span>",
+              "value": "1"
+            },
+            {
+              "label": "<span style=\"font-size:1.1em;\">It’s a supporting idea</span>",
+              "value": "2"
+            },
+            {
+              "label": "<span style=\"font-size:1.1em;\">It’s an example</span>",
+              "value": "0"
+            }
+          ],
+          "stimulus": "<div class=\"lrn-well\"><span style=\"font-size:1.3em;\"><b id=\"yui_3_17_2_1_1646404777850_174\">2.&nbsp;</b><b>Read section 2 again. Why does the writer mention Japan?&nbsp;</b></span></div>\n\n<p><font color=\"#ff0000\"><b>► </b></font><b>Read the text carefully!&nbsp;</b><span style=\"font-weight:bold\"><span style=\"color:#ff0000\"><u>You have only ONE 'check answer' attempt</u>!</span></span>&nbsp;</p>\n",
+          "type": "mcq",
+          "ui_style": {
+            "choice_label": "upper-alpha",
+            "type": "block"
+          },
+          "validation": {
+            "scoring_type": "exactMatch",
+            "valid_response": {
+              "score": 1,
+              "value": [
+                "0"
+              ]
+            }
+          },
+          "instant_feedback": true,
+          "feedback_attempts": 1
+        },
+        "metadata": {
+          "name": "Multiple choice – block layout",
+          "template_reference": "33d53a22-1a59-4a03-9671-7f5104edd62e"
+        }
+      },
+      "feedbackInfo": [
+        null,
+        null
+      ]
+    },
+    {
+      "response_id": "a01f466f-c500-47a5-8846-59d7ab898e3b_658fad2597347faf4a4f645354326302",
+      "question_type": "mcq",
+      "dt_score_updated": "2023-02-18T22:50:33Z",
+      "automarkable": true,
+      "attempted": true,
+      "score": 1,
+      "max_score": 1,
+      "question_reference": "7d823ae9-36ca-4596-911d-1a9505b209c5",
+      "item_reference": "79f9afe8-edea-4a3d-860e-d3dd0515a5ba",
+      "response": {
+        "value": [
+          "1"
+        ],
+        "type": "array",
+        "apiVersion": "v2.168.23",
+        "revision": 1
+      },
+      "questionInfo": {
+        "type": "mcq",
+        "widget_type": "response",
+        "reference": "7d823ae9-36ca-4596-911d-1a9505b209c5",
+        "data": {
+          "options": [
+            {
+              "label": "<span style=\"font-size:1.1em;\">the main idea?</span>",
+              "value": "1"
+            },
+            {
+              "label": "<span style=\"font-size:1.1em;\">a supporting idea?</span>",
+              "value": "0"
+            },
+            {
+              "label": "<span style=\"font-size:1.1em;\">an example?</span>",
+              "value": "2"
+            }
+          ],
+          "stimulus": "<div class=\"lrn-well\"><span style=\"font-size:1.3em;\"><b id=\"yui_3_17_2_1_1646404777850_174\">3.&nbsp;</b><b>&nbsp;Read lines 12 to 15 – “A country’s national innovation system … inter-firm relationships”.&nbsp;</b><b>Is this…&nbsp;&nbsp;</b></span></div>\n\n<p><font color=\"#ff0000\"><b>► </b></font><b>Read the text carefully!&nbsp;</b><span style=\"font-weight:bold\"><span style=\"color:#ff0000\"><u>You have only ONE 'check answer' attempt</u>!</span></span>&nbsp;</p>\n",
+          "type": "mcq",
+          "ui_style": {
+            "choice_label": "upper-alpha",
+            "type": "block"
+          },
+          "validation": {
+            "scoring_type": "exactMatch",
+            "valid_response": {
+              "score": 1,
+              "value": [
+                "1"
+              ]
+            }
+          },
+          "instant_feedback": true,
+          "feedback_attempts": 1
+        },
+        "metadata": {
+          "name": "Multiple choice – block layout",
+          "template_reference": "33d53a22-1a59-4a03-9671-7f5104edd62e"
+        }
+      },
+      "feedbackInfo": [
+        null,
+        null
+      ]
+    },
+    {
+      "response_id": "a01f466f-c500-47a5-8846-59d7ab898e3b_a71ad634677b932efe4f551c7fffca94",
+      "question_type": "clozedropdown",
+      "dt_score_updated": "2023-02-18T22:53:22Z",
+      "automarkable": true,
+      "attempted": true,
+      "score": 2,
+      "max_score": 2,
+      "question_reference": "99cd6ea3-b17c-444a-9c1d-37c4fc2d80fd",
+      "item_reference": "79f9afe8-edea-4a3d-860e-d3dd0515a5ba",
+      "response": {
+        "value": [
+          "levels of innovation",
+          "economic growth"
+        ],
+        "type": "array",
+        "apiVersion": "v2.168.23",
+        "revision": 2,
+        "feedbackAttemptsCount": 1
+      },
+      "questionInfo": {
+        "type": "clozedropdown",
+        "widget_type": "response",
+        "reference": "99cd6ea3-b17c-444a-9c1d-37c4fc2d80fd",
+        "data": {
+          "possible_responses": [
+            [
+              "levels of innovation",
+              "economic growth",
+              "levels of expenditure",
+              "GDP (Gross Domestic Product)"
+            ],
+            [
+              "levels of innovation",
+              "economic growth",
+              "levels of expenditure",
+              "GDP (Gross Domestic Product)"
+            ]
+          ],
+          "response_container": {
+            "pointer": "left"
+          },
+          "stimulus": "<div class=\"lrn-well\"><span style=\"font-size:1.3em;\"><b id=\"yui_3_17_2_1_1646405326636_1886\">4. Read lines 16 to 19. What are two results of investment in R&amp;D?</b></span></div>\n",
+          "template": "<ul>\n\t<li><span style=\"font-size:1.1em;\">It’s an important indicator of {{response}}.</span></li>\n\t<li><span style=\"font-size:1.1em;\">It contributes to {{response}}.</span></li>\n</ul>\n",
+          "type": "clozedropdown",
+          "case_sensitive": true,
+          "validation": {
+            "scoring_type": "partialMatchV2",
+            "valid_response": {
+              "score": 2,
+              "value": [
+                "levels of innovation",
+                "economic growth"
+              ]
+            }
+          },
+          "instant_feedback": true,
+          "shuffle_options": true
+        },
+        "metadata": {
+          "name": "Cloze with drop down",
+          "template_reference": "2fbba51b-e35e-441f-83c7-2662e2e81fa6"
+        }
+      },
+      "feedbackInfo": [
+        null,
+        null
+      ]
+    },
+    {
+      "response_id": "a01f466f-c500-47a5-8846-59d7ab898e3b_cf1a721e33b6127c7983083e9469b8a3",
+      "question_type": "clozeassociation",
+      "dt_score_updated": "2023-02-23T11:12:07Z",
+      "automarkable": true,
+      "attempted": true,
+      "score": 9,
+      "max_score": 9,
+      "question_reference": "c802a9d4-ea87-4d01-aaaa-b8ffb9bdaed7",
+      "item_reference": "8c997a40-67aa-49d2-a5fe-8e6dd536f777",
+      "response": {
+        "value": [
+          "It is a common belief",
+          "improvements in technology",
+          "creative people or companies",
+          "are different from",
+          "colleagues",
+          "work in specific places",
+          "in companies and countries",
+          "have an important role",
+          "developing creativity"
+        ],
+        "type": "array",
+        "apiVersion": "v2.168.23",
+        "revision": 8
+      },
+      "questionInfo": {
+        "type": "clozeassociation",
+        "widget_type": "response",
+        "reference": "c802a9d4-ea87-4d01-aaaa-b8ffb9bdaed7",
+        "data": {
+          "possible_responses": [
+            "It is a common belief",
+            "improvements in technology",
+            "creative people or companies",
+            "are different from",
+            "colleagues",
+            "work in specific places",
+            "in companies and countries",
+            "have an important role",
+            "developing creativity"
+          ],
+          "response_container": {
+            "pointer": "left"
+          },
+          "stimulus": "<p><span style=\"color:#800080;\"><u><strong><span style=\"font-size:2em;\">TASK 4</span></strong></u></span></p>\n\n<p><img alt=\"Innovation in the national environment\" class=\"lrn-image-center\" height=\"221\" src=\"https://assets.learnosity.com/organisations/755/49099e32-f53f-47ea-ac75-bc30d66df9b8.jpg\" width=\"800\"></p>\n\n<p>&nbsp;</p>\n\n<p><span style=\"font-size:1.5em;\"><b>B</b><b>elow is a paraphrase of paragraph one, Innovation in the national environment (lines 1-7). </b></span></p>\n\n<p><span style=\"color:#0000ff;\"><span style=\"font-size:1.3em;\"><b>🔄 Complete the paraphrase of the text by choosing the correct </b></span><u><span style=\"font-size:1.6em;\"><b>synonym </b></span></u><span style=\"font-size:1.3em;\"><b>from the list</b></span></span></p>\n",
+          "template": "<p style=\"margin-left: 40px;\"><span style=\"font-size:1.3em;\"></span><span style=\"font-size:1em;\">{{response}}</span><span style=\"font-size:1.3em;\">&nbsp;that innovation, especially </span><span style=\"font-size:1em;\">{{response}}</span><span style=\"font-size:1.3em;\"> is the result of </span><span style=\"font-size:1em;\">{{response}}</span><span style=\"font-size:1.3em;\"> who </span><span style=\"font-size:1em;\">{{response}}</span><span style=\"font-size:1.3em;\"> their less imaginative </span><span style=\"font-size:1em;\">{{response}}</span><span style=\"font-size:1.3em;\">. However, creative people do not come from nowhere. In fact, they </span><span style=\"font-size:1em;\">{{response}}</span><span style=\"font-size:1.3em;\"> both </span><span style=\"font-size:1em;\">{{response}}</span><span style=\"font-size:1.3em;\">. For companies and nations, key factors </span><span style=\"font-size:1em;\">{{response}}</span><span style=\"font-size:1.3em;\"> in identifying and </span><span style=\"font-size:1em;\">{{response}}</span><span style=\"font-size:1.3em;\">.</span></p>\n\n<p style=\"margin-left: 40px;\">&nbsp;</p>\n\n<p class=\"text-center\" style=\"margin-left: 40px;\"><span style=\"font-size:1.3em;\"><span style=\"color:#ff0000;\"><u><strong>Read the text and choose your answers carefully, you can only check your answers THREE TIMES.</strong></u></span></span></p>\n",
+          "type": "clozeassociation",
+          "case_sensitive": true,
+          "validation": {
+            "scoring_type": "partialMatchV2",
+            "valid_response": {
+              "score": 9,
+              "value": [
+                "It is a common belief",
+                "improvements in technology",
+                "creative people or companies",
+                "are different from",
+                "colleagues",
+                "work in specific places",
+                "in companies and countries",
+                "have an important role",
+                "developing creativity"
+              ]
+            },
+            "rounding": "none"
+          },
+          "instant_feedback": true,
+          "shuffle_options": true,
+          "feedback_attempts": 3
+        },
+        "metadata": {
+          "name": "Cloze with drag & drop",
+          "template_reference": "51a8c1e7-f34f-4faf-b211-da458e891fcb"
+        }
+      },
+      "feedbackInfo": [
+        null,
+        null
+      ]
+    },
+    {
+      "response_id": "a01f466f-c500-47a5-8846-59d7ab898e3b_4e4cbdb96bd317509113075689650489",
+      "question_type": "association",
+      "dt_score_updated": "2023-02-23T11:17:36Z",
+      "automarkable": true,
+      "attempted": true,
+      "score": 4,
+      "max_score": 4,
+      "question_reference": "a7af2896-7381-44ca-b6f3-361e6a9dfdfd",
+      "item_reference": "8c997a40-67aa-49d2-a5fe-8e6dd536f777",
+      "response": {
+        "value": [
+          "<span style=\"font-size:1.1em;\">Try using a dictionary or thesaurus to find words with similar meaning.</span>",
+          "<span style=\"font-size:1.1em;\">and change the rest of the sentence accordingly.</span>",
+          "<span style=\"font-size:1.1em;\">try changing the word class. For example,&nbsp;change a verb into a noun and change the sentence structure.</span>",
+          "<span style=\"font-size:1.1em;\">using the same grammar structures. For example,&nbsp;change active sentences to passives.</span>"
+        ],
+        "type": "array",
+        "updatedFormat": true,
+        "apiVersion": "v2.168.23",
+        "revision": 5,
+        "feedbackAttemptsCount": 1
+      },
+      "questionInfo": {
+        "type": "association",
+        "widget_type": "response",
+        "reference": "a7af2896-7381-44ca-b6f3-361e6a9dfdfd",
+        "data": {
+          "possible_responses": [
+            "<span style=\"font-size:1.1em;\">try changing the word class. For example,&nbsp;change a verb into a noun and change the sentence structure.</span>",
+            "<span style=\"font-size:1.1em;\">and change the rest of the sentence accordingly.</span>",
+            "<span style=\"font-size:1.1em;\">using the same grammar structures. For example,&nbsp;change active sentences to passives.</span>",
+            "<span style=\"font-size:1.1em;\">Try using a dictionary or thesaurus to find words with similar meaning.</span>"
+          ],
+          "stimulus": "<p><span style=\"color:#800080;\"><u><span style=\"font-size:2em;\"><b>Task 5</b></span></u></span></p>\n\n<p><span style=\"font-size:1.6em;\"><img class=\"lrn-image-left\" height=\"145\" src=\"https://assets.learnosity.com/organisations/755/e1b6c728-19de-47fc-b838-a7480e4f4da5.jpg\" width=\"300\" /></span></p>\n\n<p><span style=\"font-size:1.6em;\"><b>Using research in your writing is very important at university. We expect students to paraphrase research to support their arguments.</b></span></p>\n\n<p>&nbsp;</p>\n\n<p>&nbsp;</p>\n\n<p><span style=\"font-size:1.6em;\"></span></p>\n\n<p><span style=\"font-size:1.6em;\"><b> <span style=\"color:#0000ff;\">📈 In order to do this effectively, you will need to use effective '<u>paraphrasing strategies</u>'</span></b></span><span style=\"font-size:2em;\"><b> </b></span></p>\n\n<p>&nbsp;</p>\n\n<p><strong><span style=\"font-size:1.5em;\"></span><span style=\"color:#0000ff;\"><span style=\"font-size:1.5em;\">► </span></span><span style=\"font-size:1.5em;\">Read the sentences below, and match the two parts of the paraphrasing strategy. :</span></strong></p>\n",
+          "stimulus_list": [
+            "<span style=\"font-size:1.1em;\"><span style=\"color:#000000;\"><strong>Underline </strong></span><span style=\"color:#0000ff;\"><strong>key ideas</strong></span><span style=\"color:#000000;\"><strong> and find&nbsp;</strong></span><span style=\"color:#0000ff;\"><strong>synonyms&nbsp;</strong></span><span style=\"color:#000000;\"><strong>for these ideas.</strong></span></span>",
+            "<span style=\"font-size:1.1em;\"><strong>You also could try an <span style=\"color:#0000ff;\">antonym</span></strong></span>",
+            "<span style=\"font-size:1.1em;\"><span style=\"color:#000000;\"><strong>If it’s difficult to change some words,</strong></span></span>",
+            "<span style=\"font-size:1.1em;\"><span style=\"color:#000000;\"><strong>In addition to using synonyms, also </strong></span><span style=\"color:#0000ff;\"><strong>avoid</strong></span></span><span style=\"color:#000000;\"><span style=\"font-size:1.3em;\"></span></span>"
+          ],
+          "type": "association",
+          "validation": {
+            "scoring_type": "partialMatchV2",
+            "valid_response": {
+              "score": 4,
+              "value": [
+                "<span style=\"font-size:1.1em;\">Try using a dictionary or thesaurus to find words with similar meaning.</span>",
+                "<span style=\"font-size:1.1em;\">and change the rest of the sentence accordingly.</span>",
+                "<span style=\"font-size:1.1em;\">try changing the word class. For example,&nbsp;change a verb into a noun and change the sentence structure.</span>",
+                "<span style=\"font-size:1.1em;\">using the same grammar structures. For example,&nbsp;change active sentences to passives.</span>"
+              ]
+            },
+            "rounding": "none"
+          },
+          "instant_feedback": true,
+          "feedback_attempts": 3,
+          "shuffle_options": true
+        },
+        "metadata": {
+          "name": "Match list",
+          "template_reference": "1fa22aac-1f88-47f7-941b-3c77759549e6"
+        }
+      },
+      "feedbackInfo": [
+        null,
+        null
+      ]
+    },
+    {
+      "response_id": "a01f466f-c500-47a5-8846-59d7ab898e3b_c852a633fcedd46d539529581017fcc3",
+      "question_type": "shorttext",
+      "dt_score_updated": "2023-02-23T11:19:47Z",
+      "automarkable": false,
+      "attempted": true,
+      "score": null,
+      "max_score": null,
+      "question_reference": "e62155a0-b43e-4894-8a03-a4f75540a48f",
+      "item_reference": "26754b76-e74f-4125-a02b-5558acba1f1f",
+      "response": {
+        "value": "Every nations has their own power and flaws in soecific sector of technology&science .In standard R&D spendings the world leading nations vary significantly in their reasearch strenghts .",
+        "characterCount": 187,
+        "type": "string",
+        "apiVersion": "v2.168.23",
+        "revision": 60
+      },
+      "questionInfo": {
+        "type": "shorttext",
+        "widget_type": "response",
+        "reference": "e62155a0-b43e-4894-8a03-a4f75540a48f",
+        "data": {
+          "stimulus": "<p><span style=\"font-size:2em;\"><strong><u><span style=\"color:#800080;\">Practice</span></u></strong></span></p>\n\n<p><strong><span style=\"font-size:1.5em;\">Imagine you want to use the following extract from the earlier text. How would you paraphrase it? Use the steps from the previous activity to help and then write your answer into the space below.</span></strong></p>\n\n<p><img class=\"lrn-image-center\" src=\"https://assets.learnosity.com/organisations/755/0dc175af-4f78-42c6-9bff-aed549599d9a.jpg\" width=\"745\" height=\"94\"></p>\n\n<p class=\"text-center\">Reference: Morrison, J. (2009). International Business - Challenges in a Changing World. Basingstoke: Palgrave Macmillan. pp. 442-443</p>\n\n<p>&nbsp;</p>\n\n<p class=\"text-right\"><em><span style=\"color:#ff0000;\">NOTE: There is a 200 character limit, so don't waste words! And remember your citation!</span></em></p>\n\n<p class=\"text-right\">&nbsp;</p>\n\n<p><span style=\"font-size:1.6em;\"><em>Write your answer here 👇</em></span></p>\n",
+          "type": "shorttext",
+          "validation": {
+            "scoring_type": "exactMatch",
+            "valid_response": {
+              "score": 5,
+              "matching_rule": "",
+              "value": ""
+            },
+            "automarkable": false
+          },
+          "max_length": 200
+        },
+        "metadata": {
+          "name": "Short text",
+          "template_reference": "4fe6c726-419c-4aff-b189-4a9756a0ffda"
+        }
+      },
+      "feedbackInfo": [
+        null,
+        null
+      ]
+    },
+    {
+      "response_id": "a01f466f-c500-47a5-8846-59d7ab898e3b_665b9d8464dc6ef8fe88b33257e1406a",
+      "question_type": "rating",
+      "dt_score_updated": "2023-02-23T15:05:51Z",
+      "automarkable": false,
+      "attempted": true,
+      "score": null,
+      "max_score": null,
+      "question_reference": "0ee67026-b2ea-4485-b804-23b0d3bda713",
+      "item_reference": "eada12ca-b5b0-4fdb-b8ef-333475bc5ca7",
+      "response": {
+        "value": "",
+        "type": "numeric",
+        "apiVersion": "v2.168.23",
+        "revision": 1
+      },
+      "questionInfo": {
+        "type": "rating",
+        "widget_type": "response",
+        "reference": "0ee67026-b2ea-4485-b804-23b0d3bda713",
+        "data": {
+          "options": [
+            {
+              "value": "",
+              "label": "😀",
+              "tint": "#B85830",
+              "description": "Did you find this preparation task useful?"
+            },
+            {
+              "value": "",
+              "label": "😐",
+              "tint": "#2979AF",
+              "description": "Was it easy to understand what to do in this preparation task?"
+            },
+            {
+              "value": "",
+              "label": "🙁",
+              "description": "Are you ready to practise more in this week's workshop!!!"
+            }
+          ],
+          "type": "rating",
+          "stimulus": "<h5><font color=\"#008080\"><b>Let us know how you feel about this week's preparation task</b></font></h5>\n\n<p>Do you understand how to refer to your research in your writing?</p>\n",
+          "ui_style": {
+            "fontsize": "xxlarge"
+          }
+        },
+        "metadata": {
+          "name": "Rating",
+          "template_reference": "8e99fa69-b829-4a7d-ae2a-eb935fe3a2c6"
+        }
+      },
+      "feedbackInfo": [
+        null,
+        null
+      ]
+    }
+  ]
+}

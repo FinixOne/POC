@@ -1,0 +1,835 @@
+{
+  "userId": "7ac73bbb-8b39-4edd-b5c8-a121d065693a",
+  "firstName": "Sohta",
+  "lastName": "Kuramochi",
+  "assigmentId": "1ea33586-7368-4c0e-98cc-e58ce8a8a900",
+  "assigmentName": "AEB INDUCTION",
+  "sessionId": "48a15086-edd9-4998-b776-bb14ab338c3a",
+  "email": "kuramochis@coventry.ac.uk",
+  "spaceId": "8e4f138c-2b34-4ada-b275-8b524623bbcd",
+  "spaceName": "AEB for Global Business (top up) (Two Year) (LONU049)",
+  "score": 63,
+  "max_score": 63,
+  "questions": [
+    {
+      "response_id": "48a15086-edd9-4998-b776-bb14ab338c3a_38486cedd7ecede8bf59c467a0674499",
+      "question_type": "clozedropdown",
+      "dt_score_updated": "2023-01-30T20:48:38Z",
+      "automarkable": true,
+      "attempted": true,
+      "score": 3,
+      "max_score": 3,
+      "question_reference": "0c6cc49e-9da6-412b-906e-6cb0e068ebc1",
+      "item_reference": "079d0ff0-1169-4ba6-adb0-43ffff73015f",
+      "response": {
+        "value": [
+          "industry-ready graduates",
+          "learning conditions",
+          "content"
+        ],
+        "type": "array",
+        "apiVersion": "v2.168.23",
+        "revision": 2,
+        "feedbackAttemptsCount": 1
+      },
+      "questionInfo": {
+        "type": "clozedropdown",
+        "widget_type": "response",
+        "reference": "0c6cc49e-9da6-412b-906e-6cb0e068ebc1",
+        "data": {
+          "possible_responses": [
+            [
+              "industry-ready graduates",
+              "content",
+              "learning conditions"
+            ],
+            [
+              "industry-ready graduates",
+              "content",
+              "learning conditions"
+            ],
+            [
+              "industry-ready graduates",
+              "content",
+              "learning conditions"
+            ]
+          ],
+          "response_container": {
+            "pointer": "left"
+          },
+          "stimulus": "<h2><span style=\"color:#0000cd;\"><strong>TASK 1</strong></span></h2>\n\n<h3>Match the word / phrase to its best definition</h3>\n",
+          "template": "<p><strong>1. {{response}} </strong>- <em>students who have developed useful skills that help them to be more employable</em></p>\n\n<p><strong>2. {{response}} </strong>- <em>different factors that make easier / more difficult to learn</em></p>\n\n<p><strong>3. {{response}}</strong> - <em>the topics and assessment on the course</em></p>\n",
+          "type": "clozedropdown",
+          "case_sensitive": true,
+          "validation": {
+            "scoring_type": "exactMatch",
+            "valid_response": {
+              "score": 3,
+              "value": [
+                "industry-ready graduates",
+                "learning conditions",
+                "content"
+              ]
+            }
+          },
+          "feedback_attempts": 1,
+          "instant_feedback": true,
+          "shuffle_options": true
+        },
+        "metadata": {
+          "name": "Cloze with drop down",
+          "template_reference": "2fbba51b-e35e-441f-83c7-2662e2e81fa6"
+        }
+      },
+      "feedbackInfo": [
+        null,
+        null
+      ]
+    },
+    {
+      "response_id": "48a15086-edd9-4998-b776-bb14ab338c3a_17a1d93e9b9b378a39bf8b98064b433c",
+      "question_type": "clozeassociation",
+      "dt_score_updated": "2023-01-30T20:49:36Z",
+      "automarkable": true,
+      "attempted": true,
+      "score": 1,
+      "max_score": 1,
+      "question_reference": "606d43e5-90a0-42e0-b43b-bd807bfb1edb",
+      "item_reference": "079d0ff0-1169-4ba6-adb0-43ffff73015f",
+      "response": {
+        "value": [
+          "<span style=\"font-size:11pt\"><span style=\"font-family:&quot;Calibri&quot;,sans-serif\"><i>industry-ready graduates</i></span></span>",
+          "<span style=\"font-size:11pt\"><span style=\"font-family:&quot;Calibri&quot;,sans-serif\">The <i>content</i></span></span>",
+          "<span style=\"font-size:11pt\"><span style=\"font-family:&quot;Calibri&quot;,sans-serif\"><i>learning conditions</i></span></span>"
+        ],
+        "type": "array",
+        "apiVersion": "v2.168.23",
+        "revision": 2,
+        "feedbackAttemptsCount": 1
+      },
+      "questionInfo": {
+        "type": "clozeassociation",
+        "widget_type": "response",
+        "reference": "606d43e5-90a0-42e0-b43b-bd807bfb1edb",
+        "data": {
+          "possible_responses": [
+            "<span style=\"font-size:11pt\"><span style=\"font-family:&quot;Calibri&quot;,sans-serif\"><i>industry-ready graduates</i></span></span>",
+            "<span style=\"font-size:11pt\"><span style=\"font-family:&quot;Calibri&quot;,sans-serif\">The <i>content</i></span></span>",
+            "<span style=\"font-size:11pt\"><span style=\"font-family:&quot;Calibri&quot;,sans-serif\"><i>learning conditions</i></span></span>"
+          ],
+          "response_container": {
+            "pointer": "left"
+          },
+          "stimulus": "<h2><span style=\"color:#0000cd;\"><strong>TASK 2</strong></span></h2>\n\n<h3>Below is a summary of one of the main goals of our university, use the words from <span style=\"color:#0000cd;\"><strong>TASK 1</strong></span> to complete the text</h3>\n",
+          "template": "<h3><strong><u>What are we trying to achieve?</u></strong></h3>\n\n<p><span style=\"font-size:1.3em;\"><span style=\"font-family:&quot;Calibri&quot;,sans-serif\">Here at Coventry University London, we are focussed on developing {{response}}. {{response}} of our courses and the {{response}} that we try to create are designed to prepare you to be successful in your future professional career. </span></span></p>\n",
+          "type": "clozeassociation",
+          "case_sensitive": true,
+          "validation": {
+            "scoring_type": "exactMatch",
+            "valid_response": {
+              "score": 1,
+              "value": [
+                "<span style=\"font-size:11pt\"><span style=\"font-family:&quot;Calibri&quot;,sans-serif\"><i>industry-ready graduates</i></span></span>",
+                "<span style=\"font-size:11pt\"><span style=\"font-family:&quot;Calibri&quot;,sans-serif\">The <i>content</i></span></span>",
+                "<span style=\"font-size:11pt\"><span style=\"font-family:&quot;Calibri&quot;,sans-serif\"><i>learning conditions</i></span></span>"
+              ]
+            }
+          },
+          "ui_style": {
+            "possibility_list_position": "right"
+          },
+          "feedback_attempts": 1,
+          "instant_feedback": true,
+          "shuffle_options": true
+        },
+        "metadata": {
+          "name": "Cloze with drag & drop",
+          "template_reference": "51a8c1e7-f34f-4faf-b211-da458e891fcb"
+        }
+      },
+      "feedbackInfo": [
+        null,
+        null
+      ]
+    },
+    {
+      "response_id": "48a15086-edd9-4998-b776-bb14ab338c3a_fab248f0dd76a6413f1a1f6739f80273",
+      "question_type": "clozedropdown",
+      "dt_score_updated": "2023-01-30T20:50:33Z",
+      "automarkable": true,
+      "attempted": true,
+      "score": 3,
+      "max_score": 3,
+      "question_reference": "cfd99d01-c572-4093-a6fc-bc2e43a1d3ab",
+      "item_reference": "079d0ff0-1169-4ba6-adb0-43ffff73015f",
+      "response": {
+        "value": [
+          "Attendance",
+          "Preparation",
+          "Professionalism"
+        ],
+        "type": "array",
+        "apiVersion": "v2.168.23",
+        "revision": 3,
+        "feedbackAttemptsCount": 1
+      },
+      "questionInfo": {
+        "type": "clozedropdown",
+        "widget_type": "response",
+        "reference": "cfd99d01-c572-4093-a6fc-bc2e43a1d3ab",
+        "data": {
+          "possible_responses": [
+            [
+              "Attendance",
+              "Preparation",
+              "Professionalism",
+              "Language"
+            ],
+            [
+              "Attendance",
+              "Preparation",
+              "Professionalism",
+              "Language"
+            ],
+            [
+              "Attendance",
+              "Preparation",
+              "Professionalism",
+              "Language"
+            ]
+          ],
+          "response_container": {
+            "pointer": "left"
+          },
+          "stimulus": "<h2><span style=\"color:#0000cd;\"><strong>TASK 3</strong></span></h2>\n\n<h4><strong>Understanding our expectations of student behaviour will help you to learn, develop and succeed on your course. Read the text below and choose the most suitable heading for each section - one option is not needed. </strong></h4>\n",
+          "template": "<p><span style=\"font-size:11pt\"><span style=\"font-family:&quot;Calibri&quot;,sans-serif\">Expectations for the Academic English for Business (AEB) programme are the same as all other modules. In order to create a successful learning conditions there are three important areas you must focus on: </span></span></p>\n\n<p><span style=\"font-size:11pt\"><span style=\"font-family:&quot;Calibri&quot;,sans-serif\"></span></span></p>\n\n<p><span style=\"font-size:11pt\"><span style=\"font-family:&quot;Calibri&quot;,sans-serif\">{{response}}</span></span></p>\n\n<ul>\n\t<li style=\"margin-left:8px\"><span style=\"font-size:11pt\"><span style=\"font-family:&quot;Calibri&quot;,sans-serif\">You must attend all timetabled classes</span></span></li>\n\t<li style=\"margin-left:8px\"><span style=\"font-size:11pt\"><span style=\"font-family:&quot;Calibri&quot;,sans-serif\">If you are late, you may not be allowed to enter the classroom</span></span></li>\n</ul>\n\n<p><span style=\"font-size:11pt\"><span style=\"font-family:&quot;Calibri&quot;,sans-serif\"></span></span></p>\n\n<p><span style=\"font-size:11pt\"><span style=\"font-family:&quot;Calibri&quot;,sans-serif\">{{response}}<b> </b></span></span><br>\n&nbsp;</p>\n\n<ul>\n\t<li style=\"margin-left:8px\"><span style=\"font-size:11pt\"><span style=\"font-family:&quot;Calibri&quot;,sans-serif\">You must develop your independent learning skills and learn to manage your own deadlines and work</span></span></li>\n\t<li style=\"margin-left:8px\"><span style=\"font-size:11pt\"><span style=\"font-family:&quot;Calibri&quot;,sans-serif\">All tasks that you are given (e.g. preparation tasks, reading etc.) must be completed before you attend classes</span></span></li>\n</ul>\n\n<p><span style=\"font-size:11pt\"><span style=\"font-family:&quot;Calibri&quot;,sans-serif\"></span></span></p>\n\n<p><span style=\"font-size:11pt\"><span style=\"font-family:&quot;Calibri&quot;,sans-serif\">{{response}}</span></span></p>\n\n<ul>\n\t<li style=\"margin-left:8px\"><span style=\"font-size:11pt\"><span style=\"font-family:&quot;Calibri&quot;,sans-serif\">Communicate in English during <i>all learning activities</i> to be inclusive of others</span></span></li>\n\t<li style=\"margin-left:8px\"><span style=\"font-size:11pt\"><span style=\"font-family:&quot;Calibri&quot;,sans-serif\">Be engaged during your classes to improve how much you learn</span></span></li>\n\t<li style=\"margin-left:8px\"><span style=\"font-size:11pt\"><span style=\"font-family:&quot;Calibri&quot;,sans-serif\">Ask questions of your teacher when you want to learn more</span></span></li>\n\t<li style=\"margin-left:8px\"><span style=\"font-size:11pt\"><span style=\"font-family:&quot;Calibri&quot;,sans-serif\">Be cooperative and active during group activities</span></span></li>\n</ul>\n",
+          "type": "clozedropdown",
+          "case_sensitive": true,
+          "validation": {
+            "scoring_type": "exactMatch",
+            "valid_response": {
+              "score": 3,
+              "value": [
+                "Attendance",
+                "Preparation",
+                "Professionalism"
+              ]
+            }
+          },
+          "feedback_attempts": 5,
+          "instant_feedback": true,
+          "shuffle_options": true
+        },
+        "metadata": {
+          "name": "Cloze with drop down",
+          "template_reference": "2fbba51b-e35e-441f-83c7-2662e2e81fa6"
+        }
+      },
+      "feedbackInfo": [
+        null,
+        null
+      ]
+    },
+    {
+      "response_id": "48a15086-edd9-4998-b776-bb14ab338c3a_12e0497ee2ab76c5f2b4fbc7ad552963",
+      "question_type": "mcq",
+      "dt_score_updated": "2023-01-30T20:52:13Z",
+      "automarkable": true,
+      "attempted": true,
+      "score": 1,
+      "max_score": 1,
+      "question_reference": "4f92c703-5753-431f-9b06-058a04beec68",
+      "item_reference": "eb05ed04-146a-4d45-82a0-51d00ea84a48",
+      "response": {
+        "value": [
+          "1"
+        ],
+        "type": "array",
+        "apiVersion": "v2.168.23",
+        "revision": 1,
+        "feedbackAttemptsCount": 1
+      },
+      "questionInfo": {
+        "type": "mcq",
+        "widget_type": "response",
+        "reference": "4f92c703-5753-431f-9b06-058a04beec68",
+        "data": {
+          "options": [
+            {
+              "label": "<span style=\"font-size:12pt\"><span style=\"font-family:&quot;Times New Roman&quot;,serif\"><span style=\"font-size:11.0pt\" lang=\"EN-US\"><span style=\"font-family:&quot;Calibri&quot;,sans-serif\">Always Education for Brilliance</span></span></span></span>",
+              "value": "0"
+            },
+            {
+              "label": "<span style=\"font-size:12pt\"><span style=\"font-family:&quot;Times New Roman&quot;,serif\"><span style=\"font-size:11.0pt\" lang=\"EN-US\"></span><span style=\"font-size:11.0pt\" lang=\"EN-US\"><span style=\"font-family:&quot;Calibri&quot;,sans-serif\">Academic English for Business </span></span></span></span>",
+              "value": "1"
+            },
+            {
+              "label": "<span style=\"font-size:12pt\"><span style=\"font-family:&quot;Times New Roman&quot;,serif\"><span style=\"font-size:11.0pt\" lang=\"EN-US\"></span><span style=\"font-size:11.0pt\" lang=\"EN-US\"><span style=\"font-family:&quot;Calibri&quot;,sans-serif\">Academic Education for Business </span></span></span></span>",
+              "value": "2"
+            }
+          ],
+          "stimulus": "<h4 style=\"margin-left: 8px;\"><span style=\"font-size:1.3em;\"><strong><span style=\"font-family:&quot;Times New Roman&quot;,serif\"><span lang=\"EN-US\"></span><span lang=\"EN-US\"><span style=\"font-family:&quot;Calibri&quot;,sans-serif\">1. What do the letters 'AEB' mean? </span></span></span></strong></span></h4>\n",
+          "type": "mcq",
+          "ui_style": {
+            "choice_label": "upper-alpha",
+            "type": "block"
+          },
+          "validation": {
+            "scoring_type": "exactMatch",
+            "valid_response": {
+              "score": 1,
+              "value": [
+                "1"
+              ]
+            }
+          },
+          "instant_feedback": true
+        },
+        "metadata": {
+          "name": "Multiple choice – block layout",
+          "template_reference": "33d53a22-1a59-4a03-9671-7f5104edd62e"
+        }
+      },
+      "feedbackInfo": [
+        null,
+        null
+      ]
+    },
+    {
+      "response_id": "48a15086-edd9-4998-b776-bb14ab338c3a_01686b52f4c2a8f5184b55bcad1f6385",
+      "question_type": "mcq",
+      "dt_score_updated": "2023-01-30T20:52:43Z",
+      "automarkable": true,
+      "attempted": true,
+      "score": 1,
+      "max_score": 1,
+      "question_reference": "71dd414d-2b2e-4350-9833-63301afb2baa",
+      "item_reference": "eb05ed04-146a-4d45-82a0-51d00ea84a48",
+      "response": {
+        "value": [
+          "2"
+        ],
+        "type": "array",
+        "apiVersion": "v2.168.23",
+        "revision": 1,
+        "feedbackAttemptsCount": 2
+      },
+      "questionInfo": {
+        "type": "mcq",
+        "widget_type": "response",
+        "reference": "71dd414d-2b2e-4350-9833-63301afb2baa",
+        "data": {
+          "options": [
+            {
+              "label": "<span style=\"font-size:12pt\"><span style=\"font-family:&quot;Times New Roman&quot;,serif\"><span style=\"font-size:11.0pt\" lang=\"EN-US\"><span style=\"font-family:&quot;Calibri&quot;,sans-serif\">Students who speak English as a first language </span></span></span></span>",
+              "value": "0"
+            },
+            {
+              "label": "<span style=\"font-size:12pt\"><span style=\"font-family:&quot;Times New Roman&quot;,serif\"><span style=\"font-size:11.0pt\" lang=\"EN-US\"><span style=\"font-family:&quot;Calibri&quot;,sans-serif\">Students who do not speak English as a first language</span></span></span></span>",
+              "value": "1"
+            },
+            {
+              "label": "<span style=\"font-size:12pt\"><span style=\"font-family:&quot;Times New Roman&quot;,serif\"><span style=\"font-size:11.0pt\" lang=\"EN-US\"><span style=\"font-family:&quot;Calibri&quot;,sans-serif\">Both native and non-native speakers of English </span></span></span></span>",
+              "value": "2"
+            }
+          ],
+          "stimulus": "<h4 style=\"margin-left: 8px;\"><strong><span style=\"font-size:1.3em;\"><span style=\"font-family:&quot;Times New Roman&quot;,serif\"><span lang=\"EN-US\"><span style=\"font-family:&quot;Calibri&quot;,sans-serif\">2. Who is the course designed for?</span></span></span></span></strong></h4>\n",
+          "type": "mcq",
+          "ui_style": {
+            "choice_label": "upper-alpha",
+            "type": "block"
+          },
+          "validation": {
+            "scoring_type": "exactMatch",
+            "valid_response": {
+              "score": 1,
+              "value": [
+                "2"
+              ]
+            }
+          },
+          "instant_feedback": true
+        },
+        "metadata": {
+          "name": "Multiple choice – block layout",
+          "template_reference": "33d53a22-1a59-4a03-9671-7f5104edd62e"
+        }
+      },
+      "feedbackInfo": [
+        null,
+        null
+      ]
+    },
+    {
+      "response_id": "48a15086-edd9-4998-b776-bb14ab338c3a_2ee144d3f64b828c03295ea398172318",
+      "question_type": "mcq",
+      "dt_score_updated": "2023-01-30T20:52:43Z",
+      "automarkable": true,
+      "attempted": true,
+      "score": 1,
+      "max_score": 1,
+      "question_reference": "6ef4cae5-1ba2-4ac4-a58b-c996f0a6c588",
+      "item_reference": "eb05ed04-146a-4d45-82a0-51d00ea84a48",
+      "response": {
+        "value": [
+          "1"
+        ],
+        "type": "array",
+        "apiVersion": "v2.168.23",
+        "revision": 1,
+        "feedbackAttemptsCount": 1
+      },
+      "questionInfo": {
+        "type": "mcq",
+        "widget_type": "response",
+        "reference": "6ef4cae5-1ba2-4ac4-a58b-c996f0a6c588",
+        "data": {
+          "options": [
+            {
+              "label": "<span style=\"font-size:12pt\"><span style=\"font-family:&quot;Times New Roman&quot;,serif\"><span style=\"font-size:11.0pt\" lang=\"EN-US\"></span><span style=\"font-size:11.0pt\" lang=\"EN-US\"><span style=\"font-family:&quot;Calibri&quot;,sans-serif\">Every day </span></span></span></span>",
+              "value": "0"
+            },
+            {
+              "label": "<span style=\"font-size:12pt\"><span style=\"font-family:&quot;Times New Roman&quot;,serif\"><span style=\"font-size:11.0pt\" lang=\"EN-US\"></span><span style=\"font-size:11.0pt\" lang=\"EN-US\"><span style=\"font-family:&quot;Calibri&quot;,sans-serif\">Once a week </span></span></span></span>",
+              "value": "1"
+            },
+            {
+              "label": "<span style=\"font-size:12pt\"><span style=\"font-family:&quot;Times New Roman&quot;,serif\"><span style=\"font-size:11.0pt\" lang=\"EN-US\"></span><span style=\"font-size:11.0pt\" lang=\"EN-US\"><span style=\"font-family:&quot;Calibri&quot;,sans-serif\">Once a month </span></span></span></span>",
+              "value": "2"
+            },
+            {
+              "label": "Once a term",
+              "value": "3"
+            }
+          ],
+          "stimulus": "<h4 style=\"margin-left: 8px;\"><strong><span style=\"font-size:1.3em;\"><span style=\"font-family:&quot;Times New Roman&quot;,serif\"><span lang=\"EN-US\"><span style=\"font-family:&quot;Calibri&quot;,sans-serif\">3. How often will you attend AEB workshops? </span></span></span></span></strong></h4>\n",
+          "type": "mcq",
+          "ui_style": {
+            "choice_label": "upper-alpha",
+            "type": "block"
+          },
+          "validation": {
+            "scoring_type": "exactMatch",
+            "valid_response": {
+              "score": 1,
+              "value": [
+                "1"
+              ]
+            }
+          },
+          "instant_feedback": true
+        },
+        "metadata": {
+          "name": "Multiple choice – block layout",
+          "template_reference": "33d53a22-1a59-4a03-9671-7f5104edd62e"
+        }
+      },
+      "feedbackInfo": [
+        null,
+        null
+      ]
+    },
+    {
+      "response_id": "48a15086-edd9-4998-b776-bb14ab338c3a_a0ba3b7d1cbe911ddfde2cf1d5d47017",
+      "question_type": "mcq",
+      "dt_score_updated": "2023-01-30T20:52:56Z",
+      "automarkable": true,
+      "attempted": true,
+      "score": 1,
+      "max_score": 1,
+      "question_reference": "47f4dd27-fc35-464e-9e52-1ddc34152104",
+      "item_reference": "eb05ed04-146a-4d45-82a0-51d00ea84a48",
+      "response": {
+        "value": [
+          "3"
+        ],
+        "type": "array",
+        "apiVersion": "v2.168.23",
+        "revision": 2,
+        "feedbackAttemptsCount": 2
+      },
+      "questionInfo": {
+        "type": "mcq",
+        "widget_type": "response",
+        "reference": "47f4dd27-fc35-464e-9e52-1ddc34152104",
+        "data": {
+          "options": [
+            {
+              "label": "<span style=\"font-size:12pt\"><span style=\"font-family:&quot;Times New Roman&quot;,serif\"><span style=\"font-size:11.0pt\" lang=\"EN-US\"></span><span style=\"font-size:11.0pt\" lang=\"EN-US\"><span style=\"font-family:&quot;Calibri&quot;,sans-serif\">To help improve your academic language and skills </span></span></span></span>",
+              "value": "0"
+            },
+            {
+              "label": "<span style=\"font-size:12pt\"><span style=\"font-family:&quot;Times New Roman&quot;,serif\"><span style=\"font-size:11.0pt\" lang=\"EN-US\"></span><span style=\"font-size:11.0pt\" lang=\"EN-US\"><span style=\"font-family:&quot;Calibri&quot;,sans-serif\">To help improve your course grades </span></span></span></span>",
+              "value": "1"
+            },
+            {
+              "label": "<span style=\"font-size:12pt\"><span style=\"font-family:&quot;Times New Roman&quot;,serif\"><span style=\"font-size:11.0pt\" lang=\"EN-US\"></span><span style=\"font-size:11.0pt\" lang=\"EN-US\"><span style=\"font-family:&quot;Calibri&quot;,sans-serif\">To help you understand your coursework </span></span></span></span>",
+              "value": "2"
+            },
+            {
+              "label": "<span style=\"font-size:12pt\"><span style=\"font-family:&quot;Times New Roman&quot;,serif\"><span style=\"font-size:11.0pt\" lang=\"EN-US\"></span><span style=\"font-size:11.0pt\" lang=\"EN-US\"><span style=\"font-family:&quot;Calibri&quot;,sans-serif\">All of the above </span></span></span></span>",
+              "value": "3"
+            }
+          ],
+          "stimulus": "<h4 style=\"margin-left: 8px;\"><strong><span style=\"font-size:1.3em;\"><span style=\"font-family:&quot;Times New Roman&quot;,serif\"><span lang=\"EN-US\"><span style=\"font-family:&quot;Calibri&quot;,sans-serif\">4. What is the purpose of the AEB workshops? </span></span></span></span></strong></h4>\n",
+          "type": "mcq",
+          "ui_style": {
+            "choice_label": "upper-alpha",
+            "type": "block"
+          },
+          "validation": {
+            "scoring_type": "exactMatch",
+            "valid_response": {
+              "score": 1,
+              "value": [
+                "3"
+              ]
+            }
+          },
+          "instant_feedback": true
+        },
+        "metadata": {
+          "name": "Multiple choice – block layout",
+          "template_reference": "33d53a22-1a59-4a03-9671-7f5104edd62e"
+        }
+      },
+      "feedbackInfo": [
+        null,
+        null
+      ]
+    },
+    {
+      "response_id": "48a15086-edd9-4998-b776-bb14ab338c3a_9af0d0e9a33c58dcbd95465656405cf7",
+      "question_type": "mcq",
+      "dt_score_updated": "2023-01-30T20:52:56Z",
+      "automarkable": true,
+      "attempted": true,
+      "score": 1,
+      "max_score": 1,
+      "question_reference": "2917f012-dbc2-4d78-818b-de7254804289",
+      "item_reference": "eb05ed04-146a-4d45-82a0-51d00ea84a48",
+      "response": {
+        "value": [
+          "1"
+        ],
+        "type": "array",
+        "apiVersion": "v2.168.23",
+        "revision": 1
+      },
+      "questionInfo": {
+        "type": "mcq",
+        "widget_type": "response",
+        "reference": "2917f012-dbc2-4d78-818b-de7254804289",
+        "data": {
+          "options": [
+            {
+              "label": "Nothing",
+              "value": "0"
+            },
+            {
+              "label": "<span style=\"font-size:12pt\"><span style=\"font-family:&quot;Times New Roman&quot;,serif\"><span style=\"font-size:11.0pt\" lang=\"EN-US\"></span><span style=\"font-size:11.0pt\" lang=\"EN-US\"><span style=\"font-family:&quot;Calibri&quot;,sans-serif\">Complete a preparation task on Aula </span></span></span></span>",
+              "value": "1"
+            },
+            {
+              "label": "<span style=\"font-size:12pt\"><span style=\"font-family:&quot;Times New Roman&quot;,serif\"><span style=\"font-size:11.0pt\" lang=\"EN-US\"></span><span style=\"font-size:11.0pt\" lang=\"EN-US\"><span style=\"font-family:&quot;Calibri&quot;,sans-serif\">Read articles about your course </span></span></span></span>",
+              "value": "2"
+            }
+          ],
+          "stimulus": "<h4 style=\"margin-left: 8px;\"><strong><span style=\"font-size:1.3em;\"><span style=\"font-family:&quot;Times New Roman&quot;,serif\"><span lang=\"EN-US\"><span style=\"font-family:&quot;Calibri&quot;,sans-serif\">5. What do you need to do before every AEB workshop?</span></span></span></span></strong></h4>\n",
+          "type": "mcq",
+          "ui_style": {
+            "choice_label": "upper-alpha",
+            "type": "block"
+          },
+          "validation": {
+            "scoring_type": "exactMatch",
+            "valid_response": {
+              "score": 1,
+              "value": [
+                "1"
+              ]
+            }
+          },
+          "instant_feedback": true
+        },
+        "metadata": {
+          "name": "Multiple choice – block layout",
+          "template_reference": "33d53a22-1a59-4a03-9671-7f5104edd62e"
+        }
+      },
+      "feedbackInfo": [
+        null,
+        null
+      ]
+    },
+    {
+      "response_id": "48a15086-edd9-4998-b776-bb14ab338c3a_488f0dd196d4b5cc155a1272df945742",
+      "question_type": "mcq",
+      "dt_score_updated": "2023-01-30T20:53:11Z",
+      "automarkable": true,
+      "attempted": true,
+      "score": 1,
+      "max_score": 1,
+      "question_reference": "1a49cc16-1c75-45ee-a33c-cec9ddf3df86",
+      "item_reference": "eb05ed04-146a-4d45-82a0-51d00ea84a48",
+      "response": {
+        "value": [
+          "1"
+        ],
+        "type": "array",
+        "apiVersion": "v2.168.23",
+        "revision": 1,
+        "feedbackAttemptsCount": 1
+      },
+      "questionInfo": {
+        "type": "mcq",
+        "widget_type": "response",
+        "reference": "1a49cc16-1c75-45ee-a33c-cec9ddf3df86",
+        "data": {
+          "options": [
+            {
+              "label": "<span style=\"font-size:12pt\"><span style=\"font-family:&quot;Times New Roman&quot;,serif\"><span style=\"font-size:11.0pt\" lang=\"EN-US\"></span><span style=\"font-size:11.0pt\" lang=\"EN-US\"><span style=\"font-family:&quot;Calibri&quot;,sans-serif\">The sessions are one-hour long </span></span></span></span>",
+              "value": "0"
+            },
+            {
+              "label": "<span style=\"font-size:12pt\"><span style=\"font-family:&quot;Times New Roman&quot;,serif\"><span style=\"font-size:11.0pt\" lang=\"EN-US\"></span><span style=\"font-size:11.0pt\" lang=\"EN-US\"><span style=\"font-family:&quot;Calibri&quot;,sans-serif\">The sessions are every day </span></span></span></span>",
+              "value": "1"
+            },
+            {
+              "label": "<span style=\"font-size:12pt\"><span style=\"font-family:&quot;Times New Roman&quot;,serif\"><span style=\"font-size:11.0pt\" lang=\"EN-US\"></span><span style=\"font-size:11.0pt\" lang=\"EN-US\"><span style=\"font-family:&quot;Calibri&quot;,sans-serif\">There will be 11 weeks of AEB workshops </span></span></span></span>",
+              "value": "2"
+            },
+            {
+              "label": "<span style=\"font-size:12pt\"><span style=\"font-family:&quot;Times New Roman&quot;,serif\"><span style=\"font-size:11.0pt\" lang=\"EN-US\"></span><span style=\"font-size:11.0pt\" lang=\"EN-US\"><span style=\"font-family:&quot;Calibri&quot;,sans-serif\">You must prepare before each session </span></span></span></span>",
+              "value": "3"
+            }
+          ],
+          "stimulus": "<h4 style=\"margin-left: 8px;\"><strong><span style=\"font-size:1.3em;\"><span style=\"font-family:&quot;Times New Roman&quot;,serif\"><span lang=\"EN-US\"><span style=\"font-family:&quot;Calibri&quot;,sans-serif\">6. Which of these statements about the AEB is <span style=\"color:#ff0000;\">false</span>?</span></span></span></span></strong></h4>\n",
+          "type": "mcq",
+          "ui_style": {
+            "choice_label": "upper-alpha",
+            "type": "block"
+          },
+          "validation": {
+            "scoring_type": "exactMatch",
+            "valid_response": {
+              "score": 1,
+              "value": [
+                "1"
+              ]
+            }
+          },
+          "instant_feedback": true
+        },
+        "metadata": {
+          "name": "Multiple choice – block layout",
+          "template_reference": "33d53a22-1a59-4a03-9671-7f5104edd62e"
+        }
+      },
+      "feedbackInfo": [
+        null,
+        null
+      ]
+    },
+    {
+      "response_id": "48a15086-edd9-4998-b776-bb14ab338c3a_a512033f8e96137d5dc4aa6596a6371c",
+      "question_type": "clozetext",
+      "dt_score_updated": "2023-01-30T20:55:44Z",
+      "automarkable": true,
+      "attempted": true,
+      "score": 49,
+      "max_score": 49,
+      "question_reference": "5aacc35e-f292-4928-9676-e808dcf02e5e",
+      "item_reference": "55f41054-bf76-4eb3-9404-cea48fc22549",
+      "response": {
+        "value": [
+          "grades",
+          "11-week",
+          "every",
+          "academic",
+          "Aula",
+          "preparation",
+          "materials"
+        ],
+        "type": "array",
+        "apiVersion": "v2.168.23",
+        "revision": 6,
+        "feedbackAttemptsCount": 1
+      },
+      "questionInfo": {
+        "type": "clozetext",
+        "widget_type": "response",
+        "reference": "5aacc35e-f292-4928-9676-e808dcf02e5e",
+        "data": {
+          "stimulus": "<h2><strong><span style=\"color:#a52a2a;\">REVIEW</span></strong></h2>\n\n<h4>To check your understanding of the AEB programme, <strong>✍ write</strong> the words below into the correct space in the text.</h4>\n\n<p>&nbsp;</p>\n\n<h4><span style=\"color:#ff0000;\"><u><strong>There is one example:</strong></u></span></h4>\n\n<div class=\"text-center\" style=\"margin-left: 48px; text-indent: -0.5in;\"><span style=\"language:en-GB\"><span style=\"unicode-bidi:embed\"><span style=\"vertical-align:baseline\"><span style=\"punctuation-wrap:simple\"><span style=\"font-size:24.0pt\"><span style=\"font-family:+mj-lt\"></span></span><span style=\"font-size:24.0pt\"><span style=\"font-family:Calibri\"><span style=\"color:#b31166\"><span style=\"language:en-GB\">materials</span></span></span><span style=\"font-family:+mj-lt\"> / </span></span><span style=\"font-size:24.0pt\"><span style=\"font-family:Calibri\"><span style=\"color:#b31166\"><span style=\"language:en-GB\">grades</span></span></span><span style=\"font-family:+mj-lt\"> / </span></span><span style=\"font-size:24.0pt\"><span style=\"font-family:Calibri\"><span style=\"color:#b31166\"><span style=\"language:en-GB\">every</span></span></span><span style=\"font-family:+mj-lt\"> / </span></span><span style=\"font-size:24.0pt\"><u><span style=\"color:#ff0000;\"><span style=\"font-family:Calibri\">native</span></span></u><span style=\"font-family:+mj-lt\"> / </span></span><span style=\"font-size:24.0pt\"><span style=\"font-family:Calibri\"><span style=\"color:#b31166\"><span style=\"language:en-GB\">11-week</span></span></span><span style=\"font-family:+mj-lt\"> / </span></span><span style=\"font-size:24.0pt\"><span style=\"font-family:Calibri\"><span style=\"color:#b31166\"><span style=\"language:en-GB\">Aula</span></span></span><span style=\"font-family:+mj-lt\"> / </span></span><span style=\"font-size:24.0pt\"><span style=\"font-family:Calibri\"><span style=\"color:#b31166\"><span style=\"language:en-GB\">preparation</span></span></span><span style=\"font-family:+mj-lt\"> / </span></span><span style=\"font-size:24.0pt\"><span style=\"font-family:Calibri\"><span style=\"color:#b31166\"><span style=\"language:en-GB\">academic</span></span></span></span></span></span></span></span></div>\n\n<div class=\"text-center\" style=\"margin-left: 48px; text-indent: -0.5in;\">&nbsp;</div>\n",
+          "template": "<span style=\"font-size:1.3em;\"><span style=\"unicode-bidi:embed\"><span style=\"vertical-align:baseline\"><span style=\"font-family:&quot;Century Gothic&quot;\"><span style=\"color:#404040\">Academic English for Business (AEB) is a course for both </span></span></span></span></span><span style=\"font-size:1.5em;\"><span style=\"unicode-bidi:embed\"><span style=\"vertical-align:baseline\"><span style=\"font-family:&quot;Century Gothic&quot;\"></span><u><strong><span style=\"color:#ff0000;\">native</span></strong></u></span></span></span><span style=\"font-size:1.3em;\"><span style=\"unicode-bidi:embed\"><span style=\"vertical-align:baseline\"><strong><span style=\"color:#ff0000;\"> </span></strong><u><strong><span style=\"color:#ff0000;\"></span></strong></u><span style=\"font-family:&quot;Century Gothic&quot;\"><span style=\"color:#404040\">and non-native speakers of English and is designed to improve your overall </span></span><span style=\"font-family:&quot;Century Gothic&quot;\"><span style=\"color:#b31166\">{{response}}</span></span><span style=\"font-family:&quot;Century Gothic&quot;\"><span style=\"color:#404040\">. During this </span></span><span style=\"font-family:&quot;Century Gothic&quot;\"><span style=\"color:#404040\">{{response}} course, you will attend a workshop </span></span>{{response}} <span style=\"font-family:&quot;Century Gothic&quot;\"><span style=\"color:#404040\">week and will develop the&nbsp;</span></span>{{response}}<span style=\"font-family:&quot;Century Gothic&quot;\"><span style=\"color:#404040\"> language and skills you need to complete your assignments.&nbsp;</span></span>{{response}}<span style=\"font-family:&quot;Century Gothic&quot;\"><span style=\"color:#404040\"> will be an essential part of your studies as this is where you complete </span></span><span style=\"font-family:&quot;Century Gothic&quot;\"><span style=\"color:#b31166\"></span></span>{{response}}<span style=\"font-family:&quot;Century Gothic&quot;\"><span style=\"color:#b31166\"></span></span><span style=\"font-family:&quot;Century Gothic&quot;\"><span style=\"color:#404040\"> tasks and also find all important updates and </span></span><span style=\"font-family:&quot;Century Gothic&quot;\"><span style=\"color:#b31166\"></span></span>{{response}}<span style=\"font-family:&quot;Century Gothic&quot;\"><span style=\"color:#b31166\"></span></span><span style=\"font-family:&quot;Century Gothic&quot;\"><span style=\"color:#404040\"> (e.g. PowerPoints) for the AEB course. </span></span></span></span></span>",
+          "type": "clozetext",
+          "validation": {
+            "scoring_type": "partialMatch",
+            "valid_response": {
+              "score": 7,
+              "value": [
+                "grades",
+                "11-week",
+                "every",
+                "academic",
+                "Aula",
+                "preparation",
+                "materials"
+              ]
+            }
+          },
+          "instant_feedback": true
+        },
+        "metadata": {
+          "name": "Cloze with text",
+          "template_reference": "457fe101-0667-4a35-b193-b849653acb52"
+        }
+      },
+      "feedbackInfo": [
+        null,
+        null
+      ]
+    },
+    {
+      "response_id": "48a15086-edd9-4998-b776-bb14ab338c3a_14b77e15063660c99e6bf8d651c39bb5",
+      "question_type": "choicematrix",
+      "dt_score_updated": "2023-01-30T20:55:58Z",
+      "automarkable": true,
+      "attempted": true,
+      "score": 1,
+      "max_score": 1,
+      "question_reference": "9983da3a-2b37-49d5-b02d-ce8f6ad722d4",
+      "item_reference": "4375ea61-a01a-4ec8-ac38-d38bdfb7cf55",
+      "response": {
+        "value": [
+          [
+            0
+          ],
+          [
+            0
+          ],
+          [
+            0
+          ],
+          [
+            0
+          ],
+          [
+            0
+          ],
+          [
+            0
+          ]
+        ],
+        "type": "array",
+        "apiVersion": "v2.168.23",
+        "revision": 1
+      },
+      "questionInfo": {
+        "type": "choicematrix",
+        "widget_type": "response",
+        "reference": "9983da3a-2b37-49d5-b02d-ce8f6ad722d4",
+        "data": {
+          "options": [
+            "<span style=\"color:#ff0000;\"><strong>I understand</strong></span>"
+          ],
+          "stems": [
+            "<span style=\"font-size:1.3em;\"><strong>- I must attend all timetabled classes and may not be able to enter if I am late<span style=\"color:#00ff00;\"></span></strong></span>",
+            "<strong><span style=\"font-size:1.3em;\">- I must develop my independent learning skills and manage my own deadlines</span></strong>",
+            "<span style=\"font-size:1.3em;\"><strong>- I must complete all tasks (e.g. assessments &amp; prepartion tasks) to the best of my ability</strong></span>",
+            "<span style=\"font-size:1.3em;\"><strong>- I must be engaged during my studies by asking questions and participating in activities</strong></span>",
+            "<span style=\"font-size:1.3em;\"><strong>- I must be professional during the course to improve how much I learn</strong></span>",
+            "<span style=\"font-size:1.3em;\"><strong>- I should communicate in English during all learning activities</strong></span>"
+          ],
+          "stimulus": "<h2><span style=\"color:#ff0000;\"><strong>COURSE CONTRACT</strong></span></h2>\n\n<h4><strong>Earlier in this task, we talked about the University's main objective of developing industry-ready graduates. </strong></h4>\n\n<h4>&nbsp;</h4>\n\n<h4><strong>❗ <span style=\"color:#4b0082;\">Below are the most important ways that you, as a student, can help yourself to achieve this goal. Please read each point carefully and click '</span><span style=\"color:#ff0000;\">I understand</span><span style=\"color:#4b0082;\">' to confirm. </span></strong></h4>\n\n<p>&nbsp;</p>\n",
+          "type": "choicematrix",
+          "ui_style": {
+            "type": "inline",
+            "horizontal_lines": false
+          },
+          "validation": {
+            "scoring_type": "exactMatch",
+            "valid_response": {
+              "score": 1,
+              "value": [
+                [
+                  0
+                ],
+                [
+                  0
+                ],
+                [
+                  0
+                ],
+                [
+                  0
+                ],
+                [
+                  0
+                ],
+                [
+                  0
+                ]
+              ]
+            }
+          }
+        },
+        "metadata": {
+          "name": "Choice matrix – inline",
+          "template_reference": "f109c77c-390e-4595-93b8-2dbd547251b6"
+        }
+      },
+      "feedbackInfo": [
+        null,
+        null
+      ]
+    },
+    {
+      "response_id": "48a15086-edd9-4998-b776-bb14ab338c3a_931fc40be19d3d19f6bb6e468c6bdfd4",
+      "question_type": "shorttext",
+      "dt_score_updated": "2023-01-30T20:55:58Z",
+      "automarkable": false,
+      "attempted": true,
+      "score": null,
+      "max_score": null,
+      "question_reference": "5356e45c-bab5-4c32-a3c2-86e1a5b48106",
+      "item_reference": "4375ea61-a01a-4ec8-ac38-d38bdfb7cf55",
+      "response": {
+        "value": "Sohta Kuramochi (13091886), 30th January 2023",
+        "characterCount": 45,
+        "type": "string",
+        "apiVersion": "v2.168.23",
+        "revision": 1
+      },
+      "questionInfo": {
+        "type": "shorttext",
+        "widget_type": "response",
+        "reference": "5356e45c-bab5-4c32-a3c2-86e1a5b48106",
+        "data": {
+          "stimulus": "<h4>&nbsp;</h4>\n\n<h4><strong>To complete your AEB induction, please write <span style=\"color:#0000cd;\">your</span>:</strong></h4>\n\n<ol>\n\t<li>\n\t<h4><span style=\"font-size:0.9em;\">full name</span></h4>\n\t</li>\n\t<li>\n\t<h4><span style=\"font-size:0.9em;\">student ID number</span></h4>\n\t</li>\n\t<li>\n\t<h4><span style=\"font-size:0.9em;\">today's date </span></h4>\n\t</li>\n</ol>\n\n<p>&nbsp;</p>\n\n<h4><span style=\"font-size:0.8em;\"><strong>e.g. <span style=\"color:#ff0000;\">James Bond (1007007), 16th September 2022</span></strong></span></h4>\n",
+          "type": "shorttext",
+          "validation": {
+            "scoring_type": "exactMatch",
+            "valid_response": {
+              "score": 1,
+              "matching_rule": "",
+              "value": ""
+            }
+          },
+          "ui_style": {
+            "fontsize": "large"
+          }
+        },
+        "metadata": {
+          "name": "Short text",
+          "template_reference": "4fe6c726-419c-4aff-b189-4a9756a0ffda"
+        }
+      },
+      "feedbackInfo": [
+        null,
+        null
+      ]
+    }
+  ]
+}

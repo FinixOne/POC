@@ -1,0 +1,418 @@
+{
+  "userId": "6c20a1ba-b426-4468-a6f2-c6713c86cedf",
+  "firstName": "Gouri",
+  "lastName": "Sajeev",
+  "assigmentId": "8bfbd086-3f9a-49a4-b7ea-6cb8cfb07d9a",
+  "assigmentName": "Week 2 Quiz",
+  "sessionId": "7d9c3777-ff4f-4e1d-b5c3-c88976735f16",
+  "email": "sajeevg@coventry.ac.uk",
+  "spaceId": "vrgeGStA78",
+  "spaceName": "(Community) MSc Professional Accounting (LONT024 / LONT051)",
+  "score": 1,
+  "max_score": 6,
+  "questions": [
+    {
+      "response_id": "7d9c3777-ff4f-4e1d-b5c3-c88976735f16_0c9c661606cacdad33a0a8f6155d1e3f",
+      "question_type": "mcq",
+      "dt_score_updated": "2022-02-06T20:21:14Z",
+      "automarkable": true,
+      "attempted": true,
+      "score": 0,
+      "max_score": 1,
+      "question_reference": "7eceed07-328b-4244-a6f3-f3a21b6e300b",
+      "item_reference": "948e2005-79d0-42a9-8ae0-fcb7d0cce1d7",
+      "response": {
+        "value": [
+          "2"
+        ],
+        "type": "array",
+        "apiVersion": "v2.168.16",
+        "revision": 1
+      },
+      "questionInfo": {
+        "type": "mcq",
+        "widget_type": "response",
+        "reference": "7eceed07-328b-4244-a6f3-f3a21b6e300b",
+        "data": {
+          "options": [
+            {
+              "label": "A community to ask question and discuss issues",
+              "value": "0"
+            },
+            {
+              "label": "A range of available University Support",
+              "value": "1"
+            },
+            {
+              "label": "Asynchronous material for independent study: pre-recorded videos, activities, essential/recommended reading lists",
+              "value": "2"
+            },
+            {
+              "label": "Information, content and guidance to pass your assessments",
+              "value": "3"
+            }
+          ],
+          "stimulus": "<p>Aula module spaces contain</p>\n\n<p>&nbsp;</p>\n",
+          "type": "mcq",
+          "validation": {
+            "scoring_type": "exactMatch",
+            "valid_response": {
+              "score": 1,
+              "value": [
+                "3",
+                "2",
+                "1",
+                "0"
+              ]
+            }
+          },
+          "ui_style": {
+            "type": "horizontal"
+          },
+          "multiple_responses": true,
+          "shuffle_options": true,
+          "metadata": {
+            "distractor_rationale_response_level": [
+              "vj,v,hjgvhj",
+              "two two two"
+            ]
+          }
+        },
+        "metadata": {
+          "name": "Multiple choice – standard",
+          "template_reference": "9e8149bd-e4d8-4dd6-a751-1a113a4b9163"
+        }
+      },
+      "feedbackInfo": [
+        null,
+        null
+      ]
+    },
+    {
+      "response_id": "7d9c3777-ff4f-4e1d-b5c3-c88976735f16_5e6dddf47ccf32b7818437a25ab9cee8",
+      "question_type": "choicematrix",
+      "dt_score_updated": "2022-02-06T20:21:34Z",
+      "automarkable": true,
+      "attempted": true,
+      "score": 0,
+      "max_score": 1,
+      "question_reference": "90ea7572-9350-4f02-8939-307836ce8423",
+      "item_reference": "948e2005-79d0-42a9-8ae0-fcb7d0cce1d7",
+      "response": {
+        "value": [
+          [
+            0
+          ],
+          [
+            0
+          ],
+          [
+            1
+          ],
+          [
+            0
+          ]
+        ],
+        "type": "array",
+        "apiVersion": "v2.168.16",
+        "revision": 2
+      },
+      "questionInfo": {
+        "type": "choicematrix",
+        "widget_type": "response",
+        "reference": "90ea7572-9350-4f02-8939-307836ce8423",
+        "data": {
+          "options": [
+            "True",
+            "False"
+          ],
+          "stems": [
+            "Student Visa",
+            "Post Study Work visa option e.g PSW/Graduate visa",
+            "student loans",
+            "overall degree classification"
+          ],
+          "stimulus": "Not attending your timetabled classes could impact on your",
+          "type": "choicematrix",
+          "ui_style": {
+            "type": "inline",
+            "horizontal_lines": false
+          },
+          "validation": {
+            "scoring_type": "exactMatch",
+            "valid_response": {
+              "score": 1,
+              "value": [
+                0,
+                0,
+                0,
+                0
+              ]
+            }
+          },
+          "shuffle_options": true
+        },
+        "metadata": {
+          "name": "Choice matrix – inline",
+          "template_reference": "f109c77c-390e-4595-93b8-2dbd547251b6"
+        }
+      },
+      "feedbackInfo": [
+        null,
+        null
+      ]
+    },
+    {
+      "response_id": "7d9c3777-ff4f-4e1d-b5c3-c88976735f16_cab3cc16ee359bac0438645d1449bf01",
+      "question_type": "clozeassociation",
+      "dt_score_updated": "2022-02-06T20:22:04Z",
+      "automarkable": true,
+      "attempted": true,
+      "score": 0,
+      "max_score": 1,
+      "question_reference": "c454e515-1a48-4860-8e0c-9e0472fa4a78",
+      "item_reference": "948e2005-79d0-42a9-8ae0-fcb7d0cce1d7",
+      "response": {
+        "value": [
+          "learning journey",
+          "Go through",
+          "belonging",
+          "Preparing",
+          "Attend",
+          "Engage",
+          "Succeed"
+        ],
+        "type": "array",
+        "apiVersion": "v2.168.16",
+        "revision": 8
+      },
+      "questionInfo": {
+        "type": "clozeassociation",
+        "widget_type": "response",
+        "reference": "c454e515-1a48-4860-8e0c-9e0472fa4a78",
+        "data": {
+          "possible_responses": [
+            "Attend",
+            "Succeed",
+            "Engage",
+            "belonging",
+            "learning journey",
+            "Preparing",
+            "Go through"
+          ],
+          "response_container": {
+            "pointer": "left"
+          },
+          "stimulus": "Drag and drop, to complete the sentences.",
+          "template": "<div class=\"O0\" style=\"margin-left:30px; text-indent:-.31in; text-align:left\">&nbsp;</div>\n\n<div class=\"O0\" style=\"margin-left:30px; text-indent:-.31in; text-align:left\">Attendance is an important part of your&nbsp; &nbsp;{{response}}. Attending your classes provides opportunities for engagement, discussion and feedback at module and course levels.</div>\n\n<p>{{response}}all classes on your timetable.&nbsp; By attending your classes you can build and maintain relationships and a sense of&nbsp; {{response}}. Active engagement helps you to learn.&nbsp; {{response}}for class is fundamental to increase your level of understanding.&nbsp;{{response}}&nbsp; all the asynchronous material on Aula as well as the recommended &amp; essential&nbsp;reading.&nbsp;{{response}}&nbsp;in class by&nbsp;asking questions and acting on feedback. Use all university support available. Aim high and achieve a good classification.&nbsp;&nbsp;{{response}}&nbsp;by submitting and passing at first attempt.&nbsp; The key to success is to focus on goals, hard work and determination.</p>\n",
+          "type": "clozeassociation",
+          "case_sensitive": true,
+          "validation": {
+            "scoring_type": "exactMatch",
+            "valid_response": {
+              "score": 1,
+              "value": [
+                "learning journey",
+                "Attend",
+                "belonging",
+                "Preparing",
+                "Go through",
+                "Engage",
+                "Succeed"
+              ]
+            }
+          },
+          "shuffle_options": true
+        },
+        "metadata": {
+          "name": "Cloze with drag & drop",
+          "template_reference": "51a8c1e7-f34f-4faf-b211-da458e891fcb"
+        }
+      },
+      "feedbackInfo": [
+        null,
+        null
+      ]
+    },
+    {
+      "response_id": "7d9c3777-ff4f-4e1d-b5c3-c88976735f16_00278273e8b6dbee5b2fc10a4fd89865",
+      "question_type": "association",
+      "dt_score_updated": "2022-02-06T20:27:39Z",
+      "automarkable": true,
+      "attempted": true,
+      "score": 1,
+      "max_score": 1,
+      "question_reference": "b5f95fc2-a16d-4aa9-ba67-bc7667f5eb3a",
+      "item_reference": "948e2005-79d0-42a9-8ae0-fcb7d0cce1d7",
+      "response": {
+        "value": [
+          "100 hours of study (timetabled classes and independent self-study)",
+          "300 hours of study (timetabled classes and independent self-study)",
+          "150 hours of study (timetabled classes and independent self-study)",
+          "200 hours of study (timetabled classes and independent self-study)"
+        ],
+        "type": "array",
+        "updatedFormat": true,
+        "apiVersion": "v2.168.16",
+        "revision": 3
+      },
+      "questionInfo": {
+        "type": "association",
+        "widget_type": "response",
+        "reference": "b5f95fc2-a16d-4aa9-ba67-bc7667f5eb3a",
+        "data": {
+          "possible_responses": [
+            "100 hours of study (timetabled classes and independent self-study)",
+            "200 hours of study (timetabled classes and independent self-study)",
+            "300 hours of study (timetabled classes and independent self-study)",
+            "150 hours of study (timetabled classes and independent self-study)"
+          ],
+          "stimulus": "<p>You are expected to attend all your timetabled classes as well as engage in preparation and your private independent study. How much studying are you expected to complete&nbsp;for each module?&nbsp;</p>\n\n<p>Tip: Multiple the total number of credits for the module by 10.</p>\n",
+          "stimulus_list": [
+            "10 credit modules",
+            "30 credit modules",
+            "15 credit modules",
+            "20 credit modules"
+          ],
+          "type": "association",
+          "validation": {
+            "scoring_type": "exactMatch",
+            "valid_response": {
+              "score": 1,
+              "value": [
+                "100 hours of study (timetabled classes and independent self-study)",
+                "300 hours of study (timetabled classes and independent self-study)",
+                "150 hours of study (timetabled classes and independent self-study)",
+                "200 hours of study (timetabled classes and independent self-study)"
+              ]
+            }
+          }
+        },
+        "metadata": {
+          "name": "Match list",
+          "template_reference": "1fa22aac-1f88-47f7-941b-3c77759549e6"
+        }
+      },
+      "feedbackInfo": [
+        null,
+        null
+      ]
+    },
+    {
+      "response_id": "7d9c3777-ff4f-4e1d-b5c3-c88976735f16_1881b140e4414fc2dca0aafe3a07988e",
+      "question_type": "mcq",
+      "dt_score_updated": "2022-02-06T20:27:54Z",
+      "automarkable": true,
+      "attempted": true,
+      "score": 0,
+      "max_score": 1,
+      "question_reference": "1a0a75ef-f26d-46e5-9430-a7e723dd9da8",
+      "item_reference": "948e2005-79d0-42a9-8ae0-fcb7d0cce1d7",
+      "response": {
+        "value": [
+          "0"
+        ],
+        "type": "array",
+        "apiVersion": "v2.168.16",
+        "revision": 1
+      },
+      "questionInfo": {
+        "type": "mcq",
+        "widget_type": "response",
+        "reference": "1a0a75ef-f26d-46e5-9430-a7e723dd9da8",
+        "data": {
+          "options": [
+            {
+              "label": "True",
+              "value": "0"
+            },
+            {
+              "label": "False",
+              "value": "1"
+            }
+          ],
+          "stimulus": "You can use the Aula app (mobile) to view and submit your assignments",
+          "type": "mcq",
+          "ui_style": {
+            "type": "horizontal"
+          },
+          "validation": {
+            "scoring_type": "exactMatch",
+            "valid_response": {
+              "score": 1,
+              "value": [
+                "1"
+              ]
+            }
+          }
+        },
+        "metadata": {
+          "name": "True or false",
+          "template_reference": "3egs0b24-5gs8-49fc-fds9-4a450sdg31ca"
+        }
+      },
+      "feedbackInfo": [
+        null,
+        null
+      ]
+    },
+    {
+      "response_id": "7d9c3777-ff4f-4e1d-b5c3-c88976735f16_5094325efbea04dda84a2acb6f0f2510",
+      "question_type": "mcq",
+      "dt_score_updated": "2022-02-06T20:28:05Z",
+      "automarkable": true,
+      "attempted": true,
+      "score": 0,
+      "max_score": 1,
+      "question_reference": "2c06ae56-208a-46f1-83aa-8e01c9e34e15",
+      "item_reference": "948e2005-79d0-42a9-8ae0-fcb7d0cce1d7",
+      "response": {
+        "value": [
+          "1"
+        ],
+        "type": "array",
+        "apiVersion": "v2.168.16",
+        "revision": 1
+      },
+      "questionInfo": {
+        "type": "mcq",
+        "widget_type": "response",
+        "reference": "2c06ae56-208a-46f1-83aa-8e01c9e34e15",
+        "data": {
+          "options": [
+            {
+              "label": "True",
+              "value": "0"
+            },
+            {
+              "label": "False",
+              "value": "1"
+            }
+          ],
+          "stimulus": "Assignments on Aula can only be viewed using the Aula desktop version or your computer",
+          "type": "mcq",
+          "ui_style": {
+            "type": "horizontal"
+          },
+          "validation": {
+            "scoring_type": "exactMatch",
+            "valid_response": {
+              "score": 1,
+              "value": [
+                "0"
+              ]
+            }
+          }
+        },
+        "metadata": {
+          "name": "True or false",
+          "template_reference": "3egs0b24-5gs8-49fc-fds9-4a450sdg31ca"
+        }
+      },
+      "feedbackInfo": [
+        null,
+        null
+      ]
+    }
+  ]
+}

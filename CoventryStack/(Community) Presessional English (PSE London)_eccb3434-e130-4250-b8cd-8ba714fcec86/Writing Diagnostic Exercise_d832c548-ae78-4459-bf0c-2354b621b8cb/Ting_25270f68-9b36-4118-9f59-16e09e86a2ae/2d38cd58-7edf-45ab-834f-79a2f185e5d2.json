@@ -1,0 +1,87 @@
+{
+  "userId": "25270f68-9b36-4118-9f59-16e09e86a2ae",
+  "firstName": "Ting",
+  "lastName": "HUANG",
+  "assigmentId": "d832c548-ae78-4459-bf0c-2354b621b8cb",
+  "assigmentName": "Writing Diagnostic Exercise",
+  "sessionId": "2d38cd58-7edf-45ab-834f-79a2f185e5d2",
+  "email": "huangt24@coventry.ac.uk",
+  "spaceId": "eccb3434-e130-4250-b8cd-8ba714fcec86",
+  "spaceName": "(Community) Presessional English (PSE London)",
+  "score": 0,
+  "max_score": 40,
+  "questions": [
+    {
+      "response_id": "2d38cd58-7edf-45ab-834f-79a2f185e5d2_29a59873d64e3761ccb0d29ecca16973",
+      "question_type": "longtextV2",
+      "dt_score_updated": "2022-05-30T21:06:31Z",
+      "automarkable": false,
+      "attempted": true,
+      "score": null,
+      "max_score": 40,
+      "question_reference": "8ce3bee1-48e8-4baa-b2e3-5bf8083389e0",
+      "item_reference": "570ff370-fde4-49bc-959d-b91c3099b1d6",
+      "response": {
+        "value": "<p>discuss two most popular means of transportation used by students. Besides，both of them has advantages and disadvantages,I will also talk about my recommendations of them.<br></p><p>Most popular transport<br></p><p>must be bike.There are three kinds of advantages of riding bicycle. Firstly, riding bicycle is good for students' health，young students should do more exercises to grow tall and build up their body. Secondly，it's also good for environment. Tens of thousands of students need go to school every morning during workday in one city. If each of them go to school by bike, which will reduce much more car travel. In that way air pollution of the city will be improved. Thirdly，it can save transport fee by riding bicycle. Parents only need to do is buy a safe and quality bike for their kids.However，it also has three advantages. Firstly, there are no safe place for bikes which may cause thefts. Then parents have to buy a new one for kids. Secondly, riding bicycle is slower than other transports, that will decrease students efficiency. Thirdly, students need to change their clothes after riding bikes, it's a tired thing to ride a long distance and they will sweat a lot.<br><br></p><p>Second Most popular transport<br></p><p>is train.Firstly, it's a good transport for the environment if most students go to school by train, that will reduce carbon emissions from cars.Secondly, the train is the fastest way to go to school except car, that will help students set apart more time to do meaningful things.Thirdly, the train station is near to the student dormitory, so students don't need to walk a long way to the station. It's also more safer for them if they back to dormitory at night. Meanwhile, students go out by train also has three disadvantages. Firstly, it's a bit expensive if students go out by train everyday, if not they can save much more money to do something worth spending money on. Secondly, the train sometimes may be late or cancelled，which may affect students to go to school and it’s not good for their attendance rate. Thirdly, when it comes to rush hour of the traffic, it must be crowded to go to school by train, which may cause security incident such as stampede. <br><br></p><p>Recommendation</p><p>About students using bikes to go to school. I recommend school to build a safe place for bikes，which can prevent students’ bikes from being stolen.Besides, changing room is also essential for students, that will avoid the embarrassed of changing clothes.As for the transport of train, school could start lessons later to avoid rush hour, safety is the most important thing of students.Besides, the school could apply to the government for a preferential policy for students to travel by     train, in that way students are more likely to take a train.<br></p>",
+        "wordCount": 461,
+        "type": "string",
+        "apiVersion": "v2.168.20",
+        "revision": 114
+      },
+      "questionInfo": {
+        "type": "longtextV2",
+        "widget_type": "response",
+        "reference": "8ce3bee1-48e8-4baa-b2e3-5bf8083389e0",
+        "data": {
+          "stimulus": "<h2 id=\"yui_3_17_2_1_1628703407776_1784\"><span style=\"color:#0000ff;\"><b id=\"yui_3_17_2_1_1628703407776_2039\">You are going to write a report for your University. </b></span></h2>\n\n<h4><b>You should…</b></h4>\n\n<ul id=\"yui_3_17_2_1_1628703407776_2050\">\n\t<li><span style=\"font-size:1.3em;\">Write about the&nbsp;TWO&nbsp;most popular means of transportation used by students</span></li>\n\t<li><span style=\"font-size:1.3em;\">Discuss the advantages&nbsp;AND&nbsp;disadvantages</span></li>\n\t<li><span style=\"font-size:1.3em;\">Make some recommendations to the university</span></li>\n</ul>\n\n<h5 id=\"yui_3_17_2_1_1628703407776_2051\">&nbsp;</h5>\n\n<h4 id=\"yui_3_17_2_1_1628703407776_2055\"><b id=\"yui_3_17_2_1_1628703407776_2057\">Analyse the information in the table below:</b></h4>\n\n<p><img height=\"285\" src=\"https://assets.learnosity.com/organisations/755/501dfa12-1cf8-4ced-a6ab-aa6ba44e3379.JPG\" width=\"701\" /></p>\n\n<p><img height=\"259\" src=\"https://assets.learnosity.com/organisations/755/2bc31a90-4e37-4aed-8f9c-b1924cc4ec71.JPG\" width=\"699\" /></p>\n\n<h4>&nbsp;</h4>\n\n<h4><span style=\"color:#0000ff;\"><b>Write your report using&nbsp; ALL&nbsp;the information in the table.</b></span></h4>\n\n<h4><span style=\"color:#ff0000;\"><b><u>Write COMPLETE sentences.&nbsp;Do NOT use bullet points.</u></b></span></h4>\n\n<h4><b style=\"\">Use at least&nbsp;ONE&nbsp;of <u>your own ideas</u>&nbsp;</b><b style=\"\">in the recommendations section.</b></h4>\n\n<h4>&nbsp;</h4>\n\n<h4><b>Follow the&nbsp;report structure&nbsp;you can see below:</b></h4>\n\n<p>&nbsp;</p>\n\n<p><img height=\"523\" src=\"https://assets.learnosity.com/organisations/755/2694fd52-288e-4118-90cd-de27f223d78a.JPG\" width=\"400\" /></p>\n\n<h4>&nbsp;</h4>\n\n<h4><b>Write your report in the box below.&nbsp;Start with:&nbsp;</b></h4>\n\n<p><span style=\"font-size:1.3em;\"><i>The aim of this report is to ...</i></span></p>\n",
+          "type": "longtextV2",
+          "formatting_options": [
+            "bold",
+            "italic",
+            "underline",
+            "|",
+            "unorderedList",
+            "orderedList",
+            "redo"
+          ],
+          "validation": {
+            "max_score": 40
+          }
+        },
+        "metadata": {
+          "name": "Essay with rich text",
+          "template_reference": "1e6039f8-0676-495d-aca9-108710a51ce5"
+        }
+      },
+      "feedbackInfo": [
+        {
+          "id": "0707_25270f68-9b36-4118-9f59-16e09e86a2ae_2d38cd58-7edf-45ab-834f-79a2f185e5d2_20ceae4110206e60a87be53d50c1116a",
+          "user_id": "25270f68-9b36-4118-9f59-16e09e86a2ae",
+          "response_id": "2d38cd58-7edf-45ab-834f-79a2f185e5d2_20ceae4110206e60a87be53d50c1116a",
+          "type": "longtextV2",
+          "question": {
+            "type": "longtextV2",
+            "metadata": {
+              "source": {
+                "organisation_id": 755
+              },
+              "sheet_reference": "default_feedback",
+              "widget_reference": "de082b5f-742a-4ecf-82ca-4dc86e218fec",
+              "valid_response_count": 0
+            },
+            "stimulus": "Written feedback:",
+            "response_id": "2d38cd58-7edf-45ab-834f-79a2f185e5d2_20ceae4110206e60a87be53d50c1116a",
+            "show_word_count": false,
+            "show_word_limit": "off"
+          },
+          "response": null,
+          "creation_date": "2022-05-31 13:07:25",
+          "mod_date": "2022-05-31 13:07:25",
+          "persist_until": "2022-06-01 13:07:25",
+          "saved": false
+        },
+        null
+      ]
+    }
+  ]
+}

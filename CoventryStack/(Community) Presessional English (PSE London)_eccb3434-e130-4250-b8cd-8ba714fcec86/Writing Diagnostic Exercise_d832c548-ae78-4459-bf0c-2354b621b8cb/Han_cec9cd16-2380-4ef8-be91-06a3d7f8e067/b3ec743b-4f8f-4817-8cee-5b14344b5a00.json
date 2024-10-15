@@ -1,0 +1,87 @@
+{
+  "userId": "cec9cd16-2380-4ef8-be91-06a3d7f8e067",
+  "firstName": "Han",
+  "lastName": "Li",
+  "assigmentId": "d832c548-ae78-4459-bf0c-2354b621b8cb",
+  "assigmentName": "Writing Diagnostic Exercise",
+  "sessionId": "b3ec743b-4f8f-4817-8cee-5b14344b5a00",
+  "email": "lih114@coventry.ac.uk",
+  "spaceId": "eccb3434-e130-4250-b8cd-8ba714fcec86",
+  "spaceName": "(Community) Presessional English (PSE London)",
+  "score": 0,
+  "max_score": 40,
+  "questions": [
+    {
+      "response_id": "b3ec743b-4f8f-4817-8cee-5b14344b5a00_29a59873d64e3761ccb0d29ecca16973",
+      "question_type": "longtextV2",
+      "dt_score_updated": "2022-05-31T03:19:13Z",
+      "automarkable": false,
+      "attempted": true,
+      "score": null,
+      "max_score": 40,
+      "question_reference": "8ce3bee1-48e8-4baa-b2e3-5bf8083389e0",
+      "item_reference": "570ff370-fde4-49bc-959d-b91c3099b1d6",
+      "response": {
+        "value": "<p>Introduction</p><p>The aim of the report is to compare the two modes of transportation,bike and train.</p><p>Most popular transport </p><p>One of the most transport is bike.First,bike is a kind of green transportation,we choose bike is good for environment,it can save energy and reduce emissions.Second,cycling more is food for our health,we need to exercise more.Finally,bike is a cheap way to travel, and now many cities have free shared bikes,which can help us save money.</p><p>On the other hand,because of the construction of our city ,we have no safe place for bikes,this will cause us to lose our bikes.And cycling is very slow which may cause us to be late for school,time is precious to students.and more importantly,when the weather is rain,the floor will be dirty,so we must change our clothes after cycling<br></p><p>Second most popular transport</p><p>The second most popular means of transportation is train.As a kind of public transport, train is also good for environment,and train travel faster than bikes.With the development of our city,the stations are constructed more,most of the stations are near our home or school.</p><p>However,the train travel usually comes with expensive tickets,if we travel by train everyday,it will be a big expense.Besides this,train travel has lots of uncertainty,the train sometimes will late or cancelled.And when we meet rush hour,it will be crowded.</p><p>Recommendations</p><p>For bike:government should offer more safe place for bike parking<br></p><p>             And school should change rooms for students</p><p>             And the government should build bike roads ,allow students to cycle on special roads</p><p>For train:To avoid the rush school should start lessons later,students will not be crowded on the train</p><p>             The government should afford the expensive tickets for students</p><p><br></p>",
+        "wordCount": 274,
+        "type": "string",
+        "apiVersion": "v2.168.20",
+        "revision": 80
+      },
+      "questionInfo": {
+        "type": "longtextV2",
+        "widget_type": "response",
+        "reference": "8ce3bee1-48e8-4baa-b2e3-5bf8083389e0",
+        "data": {
+          "stimulus": "<h2 id=\"yui_3_17_2_1_1628703407776_1784\"><span style=\"color:#0000ff;\"><b id=\"yui_3_17_2_1_1628703407776_2039\">You are going to write a report for your University. </b></span></h2>\n\n<h4><b>You should…</b></h4>\n\n<ul id=\"yui_3_17_2_1_1628703407776_2050\">\n\t<li><span style=\"font-size:1.3em;\">Write about the&nbsp;TWO&nbsp;most popular means of transportation used by students</span></li>\n\t<li><span style=\"font-size:1.3em;\">Discuss the advantages&nbsp;AND&nbsp;disadvantages</span></li>\n\t<li><span style=\"font-size:1.3em;\">Make some recommendations to the university</span></li>\n</ul>\n\n<h5 id=\"yui_3_17_2_1_1628703407776_2051\">&nbsp;</h5>\n\n<h4 id=\"yui_3_17_2_1_1628703407776_2055\"><b id=\"yui_3_17_2_1_1628703407776_2057\">Analyse the information in the table below:</b></h4>\n\n<p><img height=\"285\" src=\"https://assets.learnosity.com/organisations/755/501dfa12-1cf8-4ced-a6ab-aa6ba44e3379.JPG\" width=\"701\" /></p>\n\n<p><img height=\"259\" src=\"https://assets.learnosity.com/organisations/755/2bc31a90-4e37-4aed-8f9c-b1924cc4ec71.JPG\" width=\"699\" /></p>\n\n<h4>&nbsp;</h4>\n\n<h4><span style=\"color:#0000ff;\"><b>Write your report using&nbsp; ALL&nbsp;the information in the table.</b></span></h4>\n\n<h4><span style=\"color:#ff0000;\"><b><u>Write COMPLETE sentences.&nbsp;Do NOT use bullet points.</u></b></span></h4>\n\n<h4><b style=\"\">Use at least&nbsp;ONE&nbsp;of <u>your own ideas</u>&nbsp;</b><b style=\"\">in the recommendations section.</b></h4>\n\n<h4>&nbsp;</h4>\n\n<h4><b>Follow the&nbsp;report structure&nbsp;you can see below:</b></h4>\n\n<p>&nbsp;</p>\n\n<p><img height=\"523\" src=\"https://assets.learnosity.com/organisations/755/2694fd52-288e-4118-90cd-de27f223d78a.JPG\" width=\"400\" /></p>\n\n<h4>&nbsp;</h4>\n\n<h4><b>Write your report in the box below.&nbsp;Start with:&nbsp;</b></h4>\n\n<p><span style=\"font-size:1.3em;\"><i>The aim of this report is to ...</i></span></p>\n",
+          "type": "longtextV2",
+          "formatting_options": [
+            "bold",
+            "italic",
+            "underline",
+            "|",
+            "unorderedList",
+            "orderedList",
+            "redo"
+          ],
+          "validation": {
+            "max_score": 40
+          }
+        },
+        "metadata": {
+          "name": "Essay with rich text",
+          "template_reference": "1e6039f8-0676-495d-aca9-108710a51ce5"
+        }
+      },
+      "feedbackInfo": [
+        {
+          "id": "0707_cec9cd16-2380-4ef8-be91-06a3d7f8e067_b3ec743b-4f8f-4817-8cee-5b14344b5a00_6baa4c6cc63a1f40a00bf6f0cac5e814",
+          "user_id": "cec9cd16-2380-4ef8-be91-06a3d7f8e067",
+          "response_id": "b3ec743b-4f8f-4817-8cee-5b14344b5a00_6baa4c6cc63a1f40a00bf6f0cac5e814",
+          "type": "longtextV2",
+          "question": {
+            "type": "longtextV2",
+            "metadata": {
+              "source": {
+                "organisation_id": 755
+              },
+              "sheet_reference": "default_feedback",
+              "widget_reference": "de082b5f-742a-4ecf-82ca-4dc86e218fec",
+              "valid_response_count": 0
+            },
+            "stimulus": "Written feedback:",
+            "response_id": "b3ec743b-4f8f-4817-8cee-5b14344b5a00_6baa4c6cc63a1f40a00bf6f0cac5e814",
+            "show_word_count": false,
+            "show_word_limit": "off"
+          },
+          "response": null,
+          "creation_date": "2022-06-01 13:17:21",
+          "mod_date": "2022-06-01 13:17:21",
+          "persist_until": "2022-06-02 13:17:21",
+          "saved": false
+        },
+        null
+      ]
+    }
+  ]
+}

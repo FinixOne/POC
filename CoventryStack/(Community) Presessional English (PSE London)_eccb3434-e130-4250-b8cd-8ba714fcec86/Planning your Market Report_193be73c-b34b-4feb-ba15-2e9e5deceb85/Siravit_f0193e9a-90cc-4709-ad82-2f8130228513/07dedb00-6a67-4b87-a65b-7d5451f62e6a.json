@@ -1,0 +1,1037 @@
+{
+  "userId": "f0193e9a-90cc-4709-ad82-2f8130228513",
+  "firstName": "Siravit",
+  "lastName": "Prakaiphetkul",
+  "assigmentId": "193be73c-b34b-4feb-ba15-2e9e5deceb85",
+  "assigmentName": "Planning your Market Report",
+  "sessionId": "07dedb00-6a67-4b87-a65b-7d5451f62e6a",
+  "email": "prakaiphes@coventry.ac.uk",
+  "spaceId": "eccb3434-e130-4250-b8cd-8ba714fcec86",
+  "spaceName": "(Community) Presessional English (PSE London)",
+  "score": 37,
+  "max_score": 38,
+  "questions": [
+    {
+      "response_id": "07dedb00-6a67-4b87-a65b-7d5451f62e6a_58deaa543240fb0ac834bb4c1a543b5c",
+      "question_type": "clozedropdown",
+      "dt_score_updated": "2023-07-14T20:33:45Z",
+      "automarkable": true,
+      "attempted": true,
+      "score": 1,
+      "max_score": 1,
+      "question_reference": "34ad01dd-c8e8-41d9-bf0f-d5d3089a1856",
+      "item_reference": "e5be1061-3960-41e6-b296-0070241f773c",
+      "response": {
+        "value": [
+          "B"
+        ],
+        "type": "array",
+        "apiVersion": "v2.177.28",
+        "revision": 1,
+        "feedbackAttemptsCount": 1
+      },
+      "questionInfo": {
+        "type": "clozedropdown",
+        "widget_type": "response",
+        "reference": "34ad01dd-c8e8-41d9-bf0f-d5d3089a1856",
+        "data": {
+          "possible_responses": [
+            [
+              "A",
+              "B"
+            ]
+          ],
+          "response_container": {
+            "pointer": "left"
+          },
+          "stimulus": "<table class=\"table table-condensed table-no-border lrn_width_auto\">\n\t<tbody>\n\t\t<tr>\n\t\t\t<td><img class=\"lrn-image-non-responsive\" height=\"150\" src=\"https://assets.learnosity.com/organisations/755/f8b8195b-b37d-4527-8ff3-511e4cd7c0da.jpg\" width=\"214\" /></td>\n\t\t\t<td><span style=\"font-size:2em;\"><strong>In the PSE, you learned the difference between a <span style=\"color:#0000ff;\">REPORT </span>and an <span style=\"color:#0000ff;\">ESSAY</span>.</strong></span></td>\n\t\t</tr>\n\t</tbody>\n</table>\n\n<h4>&nbsp;</h4>\n\n<h4><strong><span style=\"color:#0000ff;\">► </span>Review the briefs below.</strong></h4>\n\n<h4><strong><span style=\"color:#0000ff;\">► </span>Which one is the <span style=\"color:#0000ff;\">REPORT BRIEF</span> and which one is the<span style=\"color:#0000ff;\">&nbsp;ESSAY BRIEF</span>?</strong></h4>\n\n<p><img height=\"247\" src=\"https://assets.learnosity.com/organisations/755/6ffde6b6-d013-42f4-ac12-9363458f313b.JPG\" width=\"650\" /></p>\n\n<p>&nbsp;</p>\n\n<p>&nbsp;</p>\n",
+          "template": "<p style=\"margin-left: 40px;\"><span style=\"font-size:1.5em;\">{{response}}&nbsp;is a REPORT brief.</span>​​​​​​</p>\n",
+          "type": "clozedropdown",
+          "case_sensitive": true,
+          "validation": {
+            "scoring_type": "exactMatch",
+            "valid_response": {
+              "score": 1,
+              "value": [
+                "B"
+              ]
+            }
+          },
+          "instant_feedback": true
+        },
+        "metadata": {
+          "name": "Cloze with drop down",
+          "template_reference": "2fbba51b-e35e-441f-83c7-2662e2e81fa6"
+        }
+      },
+      "feedbackInfo": [
+        {
+          "id": "0707_f0193e9a-90cc-4709-ad82-2f8130228513_07dedb00-6a67-4b87-a65b-7d5451f62e6a_ddc69b13c0246e773a082f29ef42f78f",
+          "user_id": "f0193e9a-90cc-4709-ad82-2f8130228513",
+          "response_id": "07dedb00-6a67-4b87-a65b-7d5451f62e6a_ddc69b13c0246e773a082f29ef42f78f",
+          "type": "longtextV2",
+          "question": {
+            "type": "longtextV2",
+            "metadata": {
+              "source": {
+                "organisation_id": 755
+              },
+              "sheet_reference": "default_feedback",
+              "widget_reference": "de082b5f-742a-4ecf-82ca-4dc86e218fec",
+              "valid_response_count": 0
+            },
+            "stimulus": "Written feedback:",
+            "response_id": "07dedb00-6a67-4b87-a65b-7d5451f62e6a_ddc69b13c0246e773a082f29ef42f78f",
+            "show_word_count": false,
+            "show_word_limit": "off"
+          },
+          "response": null,
+          "creation_date": "2023-07-17 13:48:59",
+          "mod_date": "2023-07-17 13:48:59",
+          "persist_until": "2023-07-18 13:48:59",
+          "saved": false
+        },
+        {
+          "id": "0707_f0193e9a-90cc-4709-ad82-2f8130228513_07dedb00-6a67-4b87-a65b-7d5451f62e6a_24dc78178e3f017948f5904f27aade31",
+          "user_id": "f0193e9a-90cc-4709-ad82-2f8130228513",
+          "response_id": "07dedb00-6a67-4b87-a65b-7d5451f62e6a_24dc78178e3f017948f5904f27aade31",
+          "type": "audio",
+          "question": {
+            "type": "audio",
+            "metadata": {
+              "source": {
+                "organisation_id": 755
+              },
+              "sheet_reference": "default_feedback",
+              "widget_reference": "b2f049b4-bb33-4542-993d-0645ffedda1a",
+              "valid_response_count": 0
+            },
+            "stimulus": "Audio feedback:",
+            "ui_style": {
+              "type": "button"
+            },
+            "max_length": 600,
+            "response_id": "07dedb00-6a67-4b87-a65b-7d5451f62e6a_24dc78178e3f017948f5904f27aade31"
+          },
+          "response": null,
+          "creation_date": "2023-07-17 13:48:59",
+          "mod_date": "2023-07-17 13:48:59",
+          "persist_until": "2023-07-18 13:48:59",
+          "saved": false
+        }
+      ]
+    },
+    {
+      "response_id": "07dedb00-6a67-4b87-a65b-7d5451f62e6a_b7b81392ba4e142e8d9f6ad3ffef1357",
+      "question_type": "mcq",
+      "dt_score_updated": "2023-07-14T20:33:58Z",
+      "automarkable": true,
+      "attempted": true,
+      "score": 1,
+      "max_score": 2,
+      "question_reference": "6f186294-c28c-4b95-beca-bd9128bd96eb",
+      "item_reference": "e5be1061-3960-41e6-b296-0070241f773c",
+      "response": {
+        "value": [
+          "1"
+        ],
+        "type": "array",
+        "apiVersion": "v2.177.28",
+        "revision": 1,
+        "feedbackAttemptsCount": 1
+      },
+      "questionInfo": {
+        "type": "mcq",
+        "widget_type": "response",
+        "reference": "6f186294-c28c-4b95-beca-bd9128bd96eb",
+        "data": {
+          "multiple_responses": true,
+          "options": [
+            {
+              "label": "<span style=\"font-size:1.3em;\">Because A is an abstract discussion.</span>",
+              "value": "3"
+            },
+            {
+              "label": "<span style=\"font-size:1.3em;\">Because B is an abstract discussion.</span>",
+              "value": "4"
+            },
+            {
+              "label": "<span style=\"font-size:1.3em;\">Because A is used for practical purposes.</span>",
+              "value": "5"
+            },
+            {
+              "label": "<span style=\"font-size:1.3em;\">Because B is used for practical purposes.</span>",
+              "value": "1"
+            }
+          ],
+          "stimulus": "<h2><img height=\"180\" src=\"https://assets.learnosity.com/organisations/755/49c4dc70-7515-493a-830f-9f26b3c00264.jpg\" width=\"380\" /></h2>\n\n<p><strong>(Choose TWO)</strong></p>\n",
+          "type": "mcq",
+          "validation": {
+            "scoring_type": "partialMatchV2",
+            "valid_response": {
+              "score": 2,
+              "value": [
+                "1",
+                "3"
+              ]
+            }
+          },
+          "ui_style": {
+            "type": "horizontal"
+          },
+          "instant_feedback": true
+        },
+        "metadata": {
+          "name": "Multiple choice – multiple response",
+          "template_reference": "908de244-5c71-4c09-b094-7fb49554f2f9"
+        }
+      },
+      "feedbackInfo": [
+        {
+          "id": "0707_f0193e9a-90cc-4709-ad82-2f8130228513_07dedb00-6a67-4b87-a65b-7d5451f62e6a_fbf581ef93e2750d9ae4733aa48d7e57",
+          "user_id": "f0193e9a-90cc-4709-ad82-2f8130228513",
+          "response_id": "07dedb00-6a67-4b87-a65b-7d5451f62e6a_fbf581ef93e2750d9ae4733aa48d7e57",
+          "type": "longtextV2",
+          "question": {
+            "type": "longtextV2",
+            "metadata": {
+              "source": {
+                "organisation_id": 755
+              },
+              "sheet_reference": "default_feedback",
+              "widget_reference": "de082b5f-742a-4ecf-82ca-4dc86e218fec",
+              "valid_response_count": 0
+            },
+            "stimulus": "Written feedback:",
+            "response_id": "07dedb00-6a67-4b87-a65b-7d5451f62e6a_fbf581ef93e2750d9ae4733aa48d7e57",
+            "show_word_count": false,
+            "show_word_limit": "off"
+          },
+          "response": null,
+          "creation_date": "2023-07-17 13:48:59",
+          "mod_date": "2023-07-17 13:48:59",
+          "persist_until": "2023-07-18 13:48:59",
+          "saved": false
+        },
+        {
+          "id": "0707_f0193e9a-90cc-4709-ad82-2f8130228513_07dedb00-6a67-4b87-a65b-7d5451f62e6a_1d8fd3b945bc70bfa4eebbf8394b16ac",
+          "user_id": "f0193e9a-90cc-4709-ad82-2f8130228513",
+          "response_id": "07dedb00-6a67-4b87-a65b-7d5451f62e6a_1d8fd3b945bc70bfa4eebbf8394b16ac",
+          "type": "audio",
+          "question": {
+            "type": "audio",
+            "metadata": {
+              "source": {
+                "organisation_id": 755
+              },
+              "sheet_reference": "default_feedback",
+              "widget_reference": "b2f049b4-bb33-4542-993d-0645ffedda1a",
+              "valid_response_count": 0
+            },
+            "stimulus": "Audio feedback:",
+            "ui_style": {
+              "type": "button"
+            },
+            "max_length": 600,
+            "response_id": "07dedb00-6a67-4b87-a65b-7d5451f62e6a_1d8fd3b945bc70bfa4eebbf8394b16ac"
+          },
+          "response": null,
+          "creation_date": "2023-07-17 13:49:00",
+          "mod_date": "2023-07-17 13:49:00",
+          "persist_until": "2023-07-18 13:49:00",
+          "saved": false
+        }
+      ]
+    },
+    {
+      "response_id": "07dedb00-6a67-4b87-a65b-7d5451f62e6a_9e198122c95b33b64dcb64254fb74e32",
+      "question_type": "association",
+      "dt_score_updated": "2023-07-14T20:34:41Z",
+      "automarkable": true,
+      "attempted": true,
+      "score": 4,
+      "max_score": 4,
+      "question_reference": "626c3eee-9365-4c3b-9396-031d6eeb1f89",
+      "item_reference": "e5be1061-3960-41e6-b296-0070241f773c",
+      "response": {
+        "value": [
+          "<span style=\"font-size:1.3em;\"><strong>Use headings and subheadings&nbsp;</strong></span>",
+          "<span style=\"font-size:1.3em;\"><strong>Use clear language</strong></span>",
+          "<span style=\"font-size:1.3em;\"><strong>Your arguments should be based on research</strong></span>",
+          "<span style=\"font-size:1.3em;\"><strong>You must have evidence to support your claims</strong></span>"
+        ],
+        "type": "array",
+        "updatedFormat": true,
+        "apiVersion": "v2.177.28",
+        "revision": 1,
+        "feedbackAttemptsCount": 2
+      },
+      "questionInfo": {
+        "type": "association",
+        "widget_type": "response",
+        "reference": "626c3eee-9365-4c3b-9396-031d6eeb1f89",
+        "data": {
+          "possible_responses": [
+            "<span style=\"font-size:1.3em;\"><strong>Your arguments should be based on research</strong></span>",
+            "<span style=\"font-size:1.3em;\"><strong>You must have evidence to support your claims</strong></span>",
+            "<span style=\"font-size:1.3em;\"><strong>Use clear language</strong></span>",
+            "<span style=\"font-size:1.3em;\"><strong>Use headings and subheadings&nbsp;</strong></span>"
+          ],
+          "stimulus": "<h2>&nbsp;</h2>\n\n<h2><strong>Here are some characteristics of an <u><span style=\"color:#008000;\">Academic Report</span></u>. </strong></h2>\n\n<h4><strong><span style=\"color:#008000;\">► </span>Match the beginnings and the endings.</strong></h4>\n\n<p><img height=\"100\" src=\"https://assets.learnosity.com/organisations/755/e475f7c1-b123-40e0-8e93-044c2674ab51.jpg\" width=\"302\" /></p>\n\n<p>&nbsp;</p>\n\n<h2>&nbsp;</h2>\n\n<h2><u><span style=\"color:#008000;\"><strong>Reports should&nbsp;be...</strong></span></u></h2>\n",
+          "stimulus_list": [
+            "<span style=\"color:#008000;\"><span style=\"font-size:1.3em;\"><strong>Clearly structured</strong></span></span>",
+            "<span style=\"color:#008000;\"><span style=\"font-size:1.3em;\"><strong>Easy to read</strong></span></span>",
+            "<span style=\"color:#008000;\"><span style=\"font-size:1.3em;\"><strong>Persuasive</strong></span></span>",
+            "<span style=\"color:#008000;\"><span style=\"font-size:1.3em;\"><strong>Reliable</strong></span></span>"
+          ],
+          "type": "association",
+          "validation": {
+            "scoring_type": "partialMatchV2",
+            "valid_response": {
+              "score": 4,
+              "value": [
+                "<span style=\"font-size:1.3em;\"><strong>Use headings and subheadings&nbsp;</strong></span>",
+                "<span style=\"font-size:1.3em;\"><strong>Use clear language</strong></span>",
+                "<span style=\"font-size:1.3em;\"><strong>Your arguments should be based on research</strong></span>",
+                "<span style=\"font-size:1.3em;\"><strong>You must have evidence to support your claims</strong></span>"
+              ]
+            }
+          },
+          "instant_feedback": true
+        },
+        "metadata": {
+          "name": "Match list",
+          "template_reference": "1fa22aac-1f88-47f7-941b-3c77759549e6"
+        }
+      },
+      "feedbackInfo": [
+        {
+          "id": "0707_f0193e9a-90cc-4709-ad82-2f8130228513_07dedb00-6a67-4b87-a65b-7d5451f62e6a_6d78f9f7915f8a2d417eb50542068344",
+          "user_id": "f0193e9a-90cc-4709-ad82-2f8130228513",
+          "response_id": "07dedb00-6a67-4b87-a65b-7d5451f62e6a_6d78f9f7915f8a2d417eb50542068344",
+          "type": "longtextV2",
+          "question": {
+            "type": "longtextV2",
+            "metadata": {
+              "source": {
+                "organisation_id": 755
+              },
+              "sheet_reference": "default_feedback",
+              "widget_reference": "de082b5f-742a-4ecf-82ca-4dc86e218fec",
+              "valid_response_count": 0
+            },
+            "stimulus": "Written feedback:",
+            "response_id": "07dedb00-6a67-4b87-a65b-7d5451f62e6a_6d78f9f7915f8a2d417eb50542068344",
+            "show_word_count": false,
+            "show_word_limit": "off"
+          },
+          "response": null,
+          "creation_date": "2023-07-17 13:49:00",
+          "mod_date": "2023-07-17 13:49:00",
+          "persist_until": "2023-07-18 13:49:00",
+          "saved": false
+        },
+        {
+          "id": "0707_f0193e9a-90cc-4709-ad82-2f8130228513_07dedb00-6a67-4b87-a65b-7d5451f62e6a_77e86c138ac6e59fbfd3cb97835793a4",
+          "user_id": "f0193e9a-90cc-4709-ad82-2f8130228513",
+          "response_id": "07dedb00-6a67-4b87-a65b-7d5451f62e6a_77e86c138ac6e59fbfd3cb97835793a4",
+          "type": "audio",
+          "question": {
+            "type": "audio",
+            "metadata": {
+              "source": {
+                "organisation_id": 755
+              },
+              "sheet_reference": "default_feedback",
+              "widget_reference": "b2f049b4-bb33-4542-993d-0645ffedda1a",
+              "valid_response_count": 0
+            },
+            "stimulus": "Audio feedback:",
+            "ui_style": {
+              "type": "button"
+            },
+            "max_length": 600,
+            "response_id": "07dedb00-6a67-4b87-a65b-7d5451f62e6a_77e86c138ac6e59fbfd3cb97835793a4"
+          },
+          "response": null,
+          "creation_date": "2023-07-17 13:49:00",
+          "mod_date": "2023-07-17 13:49:00",
+          "persist_until": "2023-07-18 13:49:00",
+          "saved": false
+        }
+      ]
+    },
+    {
+      "response_id": "07dedb00-6a67-4b87-a65b-7d5451f62e6a_a51dac9af9b92bffd080c63af5793538",
+      "question_type": "orderlist",
+      "dt_score_updated": "2023-07-14T20:36:07Z",
+      "automarkable": true,
+      "attempted": true,
+      "score": 11,
+      "max_score": 11,
+      "question_reference": "f766f606-3c02-4665-a81b-d1283dc4fc38",
+      "item_reference": "4d645fad-3602-4918-aa0d-c7559d010e60",
+      "response": {
+        "value": [
+          0,
+          1,
+          2,
+          3,
+          4,
+          5,
+          6,
+          7,
+          8,
+          9,
+          10
+        ],
+        "type": "array",
+        "apiVersion": "v2.177.28",
+        "revision": 3,
+        "feedbackAttemptsCount": 4
+      },
+      "questionInfo": {
+        "type": "orderlist",
+        "widget_type": "response",
+        "reference": "f766f606-3c02-4665-a81b-d1283dc4fc38",
+        "data": {
+          "list": [
+            "<span style=\"color:#800080;\"><strong><span style=\"font-size:1.3em;\">Title page</span></strong></span>",
+            "<span style=\"color:#800080;\"><strong><span style=\"font-size:1.3em;\">Executive summary&nbsp;</span></strong></span>",
+            "<span style=\"color:#800080;\"><strong><span style=\"font-size:1.3em;\">Table of contents</span></strong></span>",
+            "<span style=\"color:#0000ff;\"><strong><span style=\"font-size:1.3em;\">Introduction</span></strong></span>",
+            "<span style=\"color:#0000ff;\"><strong><span style=\"font-size:1.3em;\">Research methods</span></strong></span>",
+            "<span style=\"color:#0000ff;\"><strong><span style=\"font-size:1.3em;\">Secondary research&nbsp;</span></strong></span>",
+            "<span style=\"color:#0000ff;\"><strong><span style=\"font-size:1.3em;\">Discussion&nbsp;</span></strong></span>",
+            "<span style=\"color:#008000;\"><strong><span style=\"font-size:1.3em;\">Conclusion&nbsp;</span></strong></span>",
+            "<span style=\"color:#008000;\"><strong><span style=\"font-size:1.3em;\">Recommendations&nbsp;</span></strong></span>",
+            "<span style=\"color:#ff8c00;\"><strong><span style=\"font-size:1.3em;\">Reference list</span></strong></span>",
+            "<span style=\"color:#ff8c00;\"><strong><span style=\"font-size:1.3em;\">Appendices</span></strong></span>"
+          ],
+          "stimulus": "<table class=\"table table-condensed table-bordered lrn_width_auto table-no-border\">\n\t<tbody>\n\t\t<tr>\n\t\t\t<td>\n\t\t\t<p><strong><span style=\"font-size:2em;\">An <span style=\"color:#daa520;\"></span><span style=\"color:#008080;\">Academic Report</span>&nbsp;is made of <u><span style=\"color:#008080;\">different sections</span></u>.</span></strong></p>\n\n\t\t\t<h4><strong><span style=\"color:#008080;\">► </span>Review the report sections below and organize them into the correct order.</strong></h4>\n\t\t\t</td>\n\t\t</tr>\n\t</tbody>\n</table>\n\n<table class=\"table table-condensed table-bordered lrn_width_auto table-no-border\">\n\t<tbody>\n\t\t<tr>\n\t\t\t<td><img height=\"150\" src=\"https://assets.learnosity.com/organisations/755/452b41c6-62e3-42b8-af70-d562a6182456.jpeg\" width=\"153\"></td>\n\t\t</tr>\n\t</tbody>\n</table>\n",
+          "type": "orderlist",
+          "validation": {
+            "scoring_type": "partialMatchV2",
+            "valid_response": {
+              "score": 11,
+              "value": [
+                0,
+                1,
+                2,
+                3,
+                4,
+                5,
+                6,
+                7,
+                8,
+                9,
+                10
+              ]
+            }
+          },
+          "instant_feedback": true,
+          "shuffle_options": true
+        },
+        "metadata": {
+          "name": "Order list",
+          "template_reference": "0c7f68f7-2be6-4ae0-8492-0ab78c8d0010"
+        }
+      },
+      "feedbackInfo": [
+        {
+          "id": "0707_f0193e9a-90cc-4709-ad82-2f8130228513_07dedb00-6a67-4b87-a65b-7d5451f62e6a_a7eb4b36dae480ecb941b5122eea5a14",
+          "user_id": "f0193e9a-90cc-4709-ad82-2f8130228513",
+          "response_id": "07dedb00-6a67-4b87-a65b-7d5451f62e6a_a7eb4b36dae480ecb941b5122eea5a14",
+          "type": "longtextV2",
+          "question": {
+            "type": "longtextV2",
+            "metadata": {
+              "source": {
+                "organisation_id": 755
+              },
+              "sheet_reference": "default_feedback",
+              "widget_reference": "de082b5f-742a-4ecf-82ca-4dc86e218fec",
+              "valid_response_count": 0
+            },
+            "stimulus": "Written feedback:",
+            "response_id": "07dedb00-6a67-4b87-a65b-7d5451f62e6a_a7eb4b36dae480ecb941b5122eea5a14",
+            "show_word_count": false,
+            "show_word_limit": "off"
+          },
+          "response": null,
+          "creation_date": "2023-07-17 13:49:00",
+          "mod_date": "2023-07-17 13:49:00",
+          "persist_until": "2023-07-18 13:49:00",
+          "saved": false
+        },
+        {
+          "id": "0707_f0193e9a-90cc-4709-ad82-2f8130228513_07dedb00-6a67-4b87-a65b-7d5451f62e6a_06e87069a39d4d80dccde680d9cb74bd",
+          "user_id": "f0193e9a-90cc-4709-ad82-2f8130228513",
+          "response_id": "07dedb00-6a67-4b87-a65b-7d5451f62e6a_06e87069a39d4d80dccde680d9cb74bd",
+          "type": "audio",
+          "question": {
+            "type": "audio",
+            "metadata": {
+              "source": {
+                "organisation_id": 755
+              },
+              "sheet_reference": "default_feedback",
+              "widget_reference": "b2f049b4-bb33-4542-993d-0645ffedda1a",
+              "valid_response_count": 0
+            },
+            "stimulus": "Audio feedback:",
+            "ui_style": {
+              "type": "button"
+            },
+            "max_length": 600,
+            "response_id": "07dedb00-6a67-4b87-a65b-7d5451f62e6a_06e87069a39d4d80dccde680d9cb74bd"
+          },
+          "response": null,
+          "creation_date": "2023-07-17 13:49:00",
+          "mod_date": "2023-07-17 13:49:00",
+          "persist_until": "2023-07-18 13:49:00",
+          "saved": false
+        }
+      ]
+    },
+    {
+      "response_id": "07dedb00-6a67-4b87-a65b-7d5451f62e6a_28701143558082ab2215068ecff2a634",
+      "question_type": "clozedropdown",
+      "dt_score_updated": "2023-07-14T20:37:05Z",
+      "automarkable": true,
+      "attempted": true,
+      "score": 6,
+      "max_score": 6,
+      "question_reference": "5d9bdab7-5e68-4734-949d-1733b11df837",
+      "item_reference": "66f4ad07-87a5-4131-8cbd-3eec0733fde2",
+      "response": {
+        "value": [
+          "Title of report, image with citation",
+          "Your name, student ID and date",
+          "Word count and date",
+          "A summary of the whole report",
+          "You should write this section the END of the report",
+          "List of sections and subsections with page numbers"
+        ],
+        "type": "array",
+        "apiVersion": "v2.177.28",
+        "revision": 2,
+        "feedbackAttemptsCount": 2
+      },
+      "questionInfo": {
+        "type": "clozedropdown",
+        "widget_type": "response",
+        "reference": "5d9bdab7-5e68-4734-949d-1733b11df837",
+        "data": {
+          "possible_responses": [
+            [
+              "Title of report, image with citation",
+              "Summary of the content",
+              "Reference list"
+            ],
+            [
+              "Your name, student ID and date",
+              "Your name, email and phone number",
+              "Your name, nationality and address"
+            ],
+            [
+              "Word count and date",
+              "List of sections and subsections with page numbers"
+            ],
+            [
+              "A summary of the whole report",
+              "The purpose and structure of the report"
+            ],
+            [
+              "You should write this section the BEGINNING  of the report",
+              "You should write this section the END of the report"
+            ],
+            [
+              "List of sections and subsections with page numbers",
+              "List of graphs and charts used in the report"
+            ]
+          ],
+          "response_container": {
+            "pointer": "left"
+          },
+          "stimulus": "<table class=\"table table-condensed table-no-border lrn_width_auto\">\n\t<tbody>\n\t\t<tr>\n\t\t\t<td><img class=\"lrn-image-non-responsive lrn-image-left\" height=\"150\" src=\"https://assets.learnosity.com/organisations/755/a90e0f1a-ba28-44d6-a7a8-605966db383b.jpg\" width=\"76\"></td>\n\t\t\t<td>\n\t\t\t<h2><strong>But what should you write about in <u><span style=\"color:#b22222;\">each section</span></u>?</strong></h2>\n\n\t\t\t<h4><strong><span style=\"color:#b22222;\">► </span><span style=\"color:#000000;\">For each report section, c</span><span style=\"color:#b22222;\"></span>hoose from the drop down.</strong></h4>\n\t\t\t</td>\n\t\t</tr>\n\t</tbody>\n</table>\n",
+          "template": "<h4><span style=\"color:#800080;\"><strong>Title page</strong></span></h4>\n\n<ul>\n\t<li><span style=\"color:#800080;\"><span style=\"font-size:1.1em;\">{{response}}</span></span></li>\n\t<li><span style=\"color:#800080;\"><span style=\"font-size:1.1em;\">{{response}}</span></span></li>\n\t<li><span style=\"color:#800080;\"><span style=\"font-size:1.1em;\">{{response}}</span></span></li>\n</ul>\n\n<h4><span style=\"color:#800080;\"><strong>&nbsp;Executive Summary</strong></span></h4>\n\n<ul>\n\t<li><span style=\"color:#800080;\"><span style=\"font-size:1.1em;\">{{response}}</span></span></li>\n\t<li><span style=\"color:#800080;\"><span style=\"font-size:1.1em;\">{{response}}</span></span></li>\n</ul>\n\n<h4><span style=\"color:#800080;\"><strong>&nbsp;Table of contents</strong></span></h4>\n\n<ul>\n\t<li><span style=\"color:#800080;\"><span style=\"font-size:1.1em;\">{{response}}</span></span></li>\n</ul>\n",
+          "type": "clozedropdown",
+          "case_sensitive": true,
+          "validation": {
+            "scoring_type": "partialMatchV2",
+            "valid_response": {
+              "score": 6,
+              "value": [
+                "Title of report, image with citation",
+                "Your name, student ID and date",
+                "Word count and date",
+                "A summary of the whole report",
+                "You should write this section the END of the report",
+                "List of sections and subsections with page numbers"
+              ]
+            }
+          },
+          "instant_feedback": true,
+          "shuffle_options": true
+        },
+        "metadata": {
+          "name": "Cloze with drop down",
+          "template_reference": "2fbba51b-e35e-441f-83c7-2662e2e81fa6"
+        }
+      },
+      "feedbackInfo": [
+        {
+          "id": "0707_f0193e9a-90cc-4709-ad82-2f8130228513_07dedb00-6a67-4b87-a65b-7d5451f62e6a_6e4c53708f7c6a42eaae77c217ddbe79",
+          "user_id": "f0193e9a-90cc-4709-ad82-2f8130228513",
+          "response_id": "07dedb00-6a67-4b87-a65b-7d5451f62e6a_6e4c53708f7c6a42eaae77c217ddbe79",
+          "type": "longtextV2",
+          "question": {
+            "type": "longtextV2",
+            "metadata": {
+              "source": {
+                "organisation_id": 755
+              },
+              "sheet_reference": "default_feedback",
+              "widget_reference": "de082b5f-742a-4ecf-82ca-4dc86e218fec",
+              "valid_response_count": 0
+            },
+            "stimulus": "Written feedback:",
+            "response_id": "07dedb00-6a67-4b87-a65b-7d5451f62e6a_6e4c53708f7c6a42eaae77c217ddbe79",
+            "show_word_count": false,
+            "show_word_limit": "off"
+          },
+          "response": null,
+          "creation_date": "2023-07-17 13:49:00",
+          "mod_date": "2023-07-17 13:49:00",
+          "persist_until": "2023-07-18 13:49:00",
+          "saved": false
+        },
+        {
+          "id": "0707_f0193e9a-90cc-4709-ad82-2f8130228513_07dedb00-6a67-4b87-a65b-7d5451f62e6a_e34ffa6d98d87053dfa5b6f6a470ab5c",
+          "user_id": "f0193e9a-90cc-4709-ad82-2f8130228513",
+          "response_id": "07dedb00-6a67-4b87-a65b-7d5451f62e6a_e34ffa6d98d87053dfa5b6f6a470ab5c",
+          "type": "audio",
+          "question": {
+            "type": "audio",
+            "metadata": {
+              "source": {
+                "organisation_id": 755
+              },
+              "sheet_reference": "default_feedback",
+              "widget_reference": "b2f049b4-bb33-4542-993d-0645ffedda1a",
+              "valid_response_count": 0
+            },
+            "stimulus": "Audio feedback:",
+            "ui_style": {
+              "type": "button"
+            },
+            "max_length": 600,
+            "response_id": "07dedb00-6a67-4b87-a65b-7d5451f62e6a_e34ffa6d98d87053dfa5b6f6a470ab5c"
+          },
+          "response": null,
+          "creation_date": "2023-07-17 13:49:01",
+          "mod_date": "2023-07-17 13:49:01",
+          "persist_until": "2023-07-18 13:49:01",
+          "saved": false
+        }
+      ]
+    },
+    {
+      "response_id": "07dedb00-6a67-4b87-a65b-7d5451f62e6a_6ff63a061ed6f23942c732fd2dbe6a44",
+      "question_type": "clozedropdown",
+      "dt_score_updated": "2023-07-14T20:38:15Z",
+      "automarkable": true,
+      "attempted": true,
+      "score": 9,
+      "max_score": 9,
+      "question_reference": "d7c1fbee-5b57-4300-a05d-b263c94a048d",
+      "item_reference": "66f4ad07-87a5-4131-8cbd-3eec0733fde2",
+      "response": {
+        "value": [
+          "Purpose of the report",
+          "Overview of contents",
+          "Describe and explain how you did your research",
+          "Describe and explain how the data was collected",
+          "Describe and explain graphs and data used in your research",
+          "Analyse quantitative and quantitative data about your topic",
+          "SWOT analysis of your topic",
+          "Explain the significance of the data",
+          "Analysis of issues (reflection about any gaps in research)"
+        ],
+        "type": "array",
+        "apiVersion": "v2.177.28",
+        "revision": 2,
+        "feedbackAttemptsCount": 2
+      },
+      "questionInfo": {
+        "type": "clozedropdown",
+        "widget_type": "response",
+        "reference": "d7c1fbee-5b57-4300-a05d-b263c94a048d",
+        "data": {
+          "possible_responses": [
+            [
+              "Purpose of the report",
+              "What research you did"
+            ],
+            [
+              "Overview of contents",
+              "Make recommendations"
+            ],
+            [
+              "Describe and explain how you did your research",
+              "A list of all the articles you read"
+            ],
+            [
+              "Describe and explain how the data was collected",
+              "Describe and explain graphs used in your research"
+            ],
+            [
+              "Describe and explain graphs and data used in your research",
+              "Explain the significance of the data"
+            ],
+            [
+              "Analyse quantitative and quantitative data about your topic",
+              "Give background information about your topic"
+            ],
+            [
+              "SWOT analysis of your topic",
+              "Market research of your topic"
+            ],
+            [
+              "Explain the significance of the data",
+              "Give a summary of overall conclusions"
+            ],
+            [
+              "Analysis of issues (reflection about any gaps in research)",
+              "Visual representation of the data collected"
+            ]
+          ],
+          "response_container": {
+            "pointer": "left"
+          },
+          "template": "<h4><strong><span style=\"color:#0000ff;\">Introduction</span></strong></h4>\n\n<ul>\n\t<li><span style=\"font-size:1.1em;\">{{response}}</span></li>\n\t<li><span style=\"font-size:1.1em;\">{{response}}</span></li>\n</ul>\n\n<h4><span style=\"color:#0000ff;\"><strong>Research&nbsp;Methods</strong></span></h4>\n\n<ul>\n\t<li><span style=\"font-size:1.1em;\"><span style=\"font-size:1.1em;\">{{response}}</span></span></li>\n\t<li><span style=\"font-size:1.1em;\"><span style=\"font-size:1.1em;\">{{response}}</span></span></li>\n</ul>\n\n<h4><span style=\"color:#0000ff;\"><strong>Secondary Research&nbsp;</strong></span></h4>\n\n<ul>\n\t<li><span style=\"font-size:1.1em;\">{{response}}</span></li>\n\t<li><span style=\"font-size:1.1em;\">{{response}}</span></li>\n\t<li><span style=\"font-size:1.1em;\">{{response}}</span></li>\n</ul>\n\n<h4><span style=\"color:#0000ff;\"><strong>​Discussion</strong></span></h4>\n\n<ul>\n\t<li><span style=\"font-size:1.1em;\">{{response}}</span></li>\n\t<li><span style=\"font-size:1.1em;\">{{response}}</span></li>\n</ul>\n",
+          "type": "clozedropdown",
+          "case_sensitive": true,
+          "validation": {
+            "scoring_type": "partialMatchV2",
+            "valid_response": {
+              "score": 9,
+              "value": [
+                "Purpose of the report",
+                "Overview of contents",
+                "Describe and explain how you did your research",
+                "Describe and explain how the data was collected",
+                "Describe and explain graphs and data used in your research",
+                "Analyse quantitative and quantitative data about your topic",
+                "SWOT analysis of your topic",
+                "Explain the significance of the data",
+                "Analysis of issues (reflection about any gaps in research)"
+              ]
+            }
+          },
+          "instant_feedback": true,
+          "shuffle_options": true
+        },
+        "metadata": {
+          "name": "Cloze with drop down",
+          "template_reference": "2fbba51b-e35e-441f-83c7-2662e2e81fa6"
+        }
+      },
+      "feedbackInfo": [
+        {
+          "id": "0707_f0193e9a-90cc-4709-ad82-2f8130228513_07dedb00-6a67-4b87-a65b-7d5451f62e6a_f6fc2452cb36aa8660491508e76aec82",
+          "user_id": "f0193e9a-90cc-4709-ad82-2f8130228513",
+          "response_id": "07dedb00-6a67-4b87-a65b-7d5451f62e6a_f6fc2452cb36aa8660491508e76aec82",
+          "type": "longtextV2",
+          "question": {
+            "type": "longtextV2",
+            "metadata": {
+              "source": {
+                "organisation_id": 755
+              },
+              "sheet_reference": "default_feedback",
+              "widget_reference": "de082b5f-742a-4ecf-82ca-4dc86e218fec",
+              "valid_response_count": 0
+            },
+            "stimulus": "Written feedback:",
+            "response_id": "07dedb00-6a67-4b87-a65b-7d5451f62e6a_f6fc2452cb36aa8660491508e76aec82",
+            "show_word_count": false,
+            "show_word_limit": "off"
+          },
+          "response": null,
+          "creation_date": "2023-07-17 13:49:01",
+          "mod_date": "2023-07-17 13:49:01",
+          "persist_until": "2023-07-18 13:49:01",
+          "saved": false
+        },
+        {
+          "id": "0707_f0193e9a-90cc-4709-ad82-2f8130228513_07dedb00-6a67-4b87-a65b-7d5451f62e6a_ff83e49177aef445bc8b20f8198a7b38",
+          "user_id": "f0193e9a-90cc-4709-ad82-2f8130228513",
+          "response_id": "07dedb00-6a67-4b87-a65b-7d5451f62e6a_ff83e49177aef445bc8b20f8198a7b38",
+          "type": "audio",
+          "question": {
+            "type": "audio",
+            "metadata": {
+              "source": {
+                "organisation_id": 755
+              },
+              "sheet_reference": "default_feedback",
+              "widget_reference": "b2f049b4-bb33-4542-993d-0645ffedda1a",
+              "valid_response_count": 0
+            },
+            "stimulus": "Audio feedback:",
+            "ui_style": {
+              "type": "button"
+            },
+            "max_length": 600,
+            "response_id": "07dedb00-6a67-4b87-a65b-7d5451f62e6a_ff83e49177aef445bc8b20f8198a7b38"
+          },
+          "response": null,
+          "creation_date": "2023-07-17 13:49:01",
+          "mod_date": "2023-07-17 13:49:01",
+          "persist_until": "2023-07-18 13:49:01",
+          "saved": false
+        }
+      ]
+    },
+    {
+      "response_id": "07dedb00-6a67-4b87-a65b-7d5451f62e6a_fb00e3fb64b3411f9c99eee4b890e369",
+      "question_type": "clozedropdown",
+      "dt_score_updated": "2023-07-14T20:39:27Z",
+      "automarkable": true,
+      "attempted": true,
+      "score": 2,
+      "max_score": 2,
+      "question_reference": "32b54288-9477-4251-b5f6-de149ee0bd59",
+      "item_reference": "66f4ad07-87a5-4131-8cbd-3eec0733fde2",
+      "response": {
+        "value": [
+          "Summarise the findings",
+          "Make recommendations based on the discussion"
+        ],
+        "type": "array",
+        "apiVersion": "v2.177.28",
+        "revision": 2,
+        "feedbackAttemptsCount": 1
+      },
+      "questionInfo": {
+        "type": "clozedropdown",
+        "widget_type": "response",
+        "reference": "32b54288-9477-4251-b5f6-de149ee0bd59",
+        "data": {
+          "possible_responses": [
+            [
+              "Summarise the findings",
+              "Summarise the evidence"
+            ],
+            [
+              "Make recommendations based on the discussion",
+              "Make recommendations based on the conclusions"
+            ]
+          ],
+          "response_container": {
+            "pointer": "left"
+          },
+          "template": "<h4><span style=\"color:#008000;\"><strong>Conclusion</strong></span></h4>\n\n<ul>\n\t<li><span style=\"color:#008000;\"><span style=\"font-size:1.1em;\">{{response}}</span></span></li>\n</ul>\n\n<h4><span style=\"color:#008000;\"><strong>Recommendations</strong></span></h4>\n\n<ul>\n\t<li><span style=\"color:#008000;\"><span style=\"font-size:1.1em;\">{{response}}</span></span></li>\n</ul>\n",
+          "type": "clozedropdown",
+          "case_sensitive": true,
+          "validation": {
+            "scoring_type": "partialMatchV2",
+            "valid_response": {
+              "score": 2,
+              "value": [
+                "Summarise the findings",
+                "Make recommendations based on the discussion"
+              ]
+            }
+          },
+          "instant_feedback": true,
+          "shuffle_options": true
+        },
+        "metadata": {
+          "name": "Cloze with drop down",
+          "template_reference": "2fbba51b-e35e-441f-83c7-2662e2e81fa6"
+        }
+      },
+      "feedbackInfo": [
+        {
+          "id": "0707_f0193e9a-90cc-4709-ad82-2f8130228513_07dedb00-6a67-4b87-a65b-7d5451f62e6a_4f2ecfa93bc0f6e7387bfcbb3b4db510",
+          "user_id": "f0193e9a-90cc-4709-ad82-2f8130228513",
+          "response_id": "07dedb00-6a67-4b87-a65b-7d5451f62e6a_4f2ecfa93bc0f6e7387bfcbb3b4db510",
+          "type": "longtextV2",
+          "question": {
+            "type": "longtextV2",
+            "metadata": {
+              "source": {
+                "organisation_id": 755
+              },
+              "sheet_reference": "default_feedback",
+              "widget_reference": "de082b5f-742a-4ecf-82ca-4dc86e218fec",
+              "valid_response_count": 0
+            },
+            "stimulus": "Written feedback:",
+            "response_id": "07dedb00-6a67-4b87-a65b-7d5451f62e6a_4f2ecfa93bc0f6e7387bfcbb3b4db510",
+            "show_word_count": false,
+            "show_word_limit": "off"
+          },
+          "response": null,
+          "creation_date": "2023-07-17 13:49:01",
+          "mod_date": "2023-07-17 13:49:01",
+          "persist_until": "2023-07-18 13:49:01",
+          "saved": false
+        },
+        {
+          "id": "0707_f0193e9a-90cc-4709-ad82-2f8130228513_07dedb00-6a67-4b87-a65b-7d5451f62e6a_ac1b89e74254d04acf10ff379b1e1dc1",
+          "user_id": "f0193e9a-90cc-4709-ad82-2f8130228513",
+          "response_id": "07dedb00-6a67-4b87-a65b-7d5451f62e6a_ac1b89e74254d04acf10ff379b1e1dc1",
+          "type": "audio",
+          "question": {
+            "type": "audio",
+            "metadata": {
+              "source": {
+                "organisation_id": 755
+              },
+              "sheet_reference": "default_feedback",
+              "widget_reference": "b2f049b4-bb33-4542-993d-0645ffedda1a",
+              "valid_response_count": 0
+            },
+            "stimulus": "Audio feedback:",
+            "ui_style": {
+              "type": "button"
+            },
+            "max_length": 600,
+            "response_id": "07dedb00-6a67-4b87-a65b-7d5451f62e6a_ac1b89e74254d04acf10ff379b1e1dc1"
+          },
+          "response": null,
+          "creation_date": "2023-07-17 13:49:01",
+          "mod_date": "2023-07-17 13:49:01",
+          "persist_until": "2023-07-18 13:49:01",
+          "saved": false
+        }
+      ]
+    },
+    {
+      "response_id": "07dedb00-6a67-4b87-a65b-7d5451f62e6a_7398956bbdea3cfc1a54e37c54e460fd",
+      "question_type": "clozedropdown",
+      "dt_score_updated": "2023-07-14T20:39:42Z",
+      "automarkable": true,
+      "attempted": true,
+      "score": 3,
+      "max_score": 3,
+      "question_reference": "557753c7-dbca-40d8-961f-4c7eda666600",
+      "item_reference": "66f4ad07-87a5-4131-8cbd-3eec0733fde2",
+      "response": {
+        "value": [
+          "List of research used in alphabetical order",
+          "SWOT table",
+          "List of graphs and charts used in the report"
+        ],
+        "type": "array",
+        "apiVersion": "v2.177.28",
+        "revision": 2,
+        "feedbackAttemptsCount": 1
+      },
+      "questionInfo": {
+        "type": "clozedropdown",
+        "widget_type": "response",
+        "reference": "557753c7-dbca-40d8-961f-4c7eda666600",
+        "data": {
+          "possible_responses": [
+            [
+              "List of sections and subsections with page numbers",
+              "List of research used in alphabetical order"
+            ],
+            [
+              "SWOT table",
+              "Market research table"
+            ],
+            [
+              "List of graphs and charts used in the report",
+              "List of sections and subsections with page numbers"
+            ]
+          ],
+          "response_container": {
+            "pointer": "left"
+          },
+          "template": "<h4><span style=\"color:#ff8c00;\"><strong>&nbsp;Reference List</strong></span></h4>\n\n<ul>\n\t<li><span style=\"font-size:1.1em;\">{{response}}</span></li>\n</ul>\n\n<h4><span style=\"color:#ff8c00;\"><strong>Appendices</strong></span></h4>\n\n<ul>\n\t<li><span style=\"font-size:1.1em;\">{{response}}</span></li>\n\t<li><span style=\"font-size:1.1em;\">{{response}}</span></li>\n</ul>\n",
+          "type": "clozedropdown",
+          "case_sensitive": true,
+          "validation": {
+            "scoring_type": "partialMatchV2",
+            "valid_response": {
+              "score": 3,
+              "value": [
+                "List of research used in alphabetical order",
+                "SWOT table",
+                "List of graphs and charts used in the report"
+              ]
+            }
+          },
+          "instant_feedback": true,
+          "shuffle_options": true
+        },
+        "metadata": {
+          "name": "Cloze with drop down",
+          "template_reference": "2fbba51b-e35e-441f-83c7-2662e2e81fa6"
+        }
+      },
+      "feedbackInfo": [
+        {
+          "id": "0707_f0193e9a-90cc-4709-ad82-2f8130228513_07dedb00-6a67-4b87-a65b-7d5451f62e6a_7518b9e2eb117ebe79a930d9a18c0943",
+          "user_id": "f0193e9a-90cc-4709-ad82-2f8130228513",
+          "response_id": "07dedb00-6a67-4b87-a65b-7d5451f62e6a_7518b9e2eb117ebe79a930d9a18c0943",
+          "type": "longtextV2",
+          "question": {
+            "type": "longtextV2",
+            "metadata": {
+              "source": {
+                "organisation_id": 755
+              },
+              "sheet_reference": "default_feedback",
+              "widget_reference": "de082b5f-742a-4ecf-82ca-4dc86e218fec",
+              "valid_response_count": 0
+            },
+            "stimulus": "Written feedback:",
+            "response_id": "07dedb00-6a67-4b87-a65b-7d5451f62e6a_7518b9e2eb117ebe79a930d9a18c0943",
+            "show_word_count": false,
+            "show_word_limit": "off"
+          },
+          "response": null,
+          "creation_date": "2023-07-17 13:49:02",
+          "mod_date": "2023-07-17 13:49:02",
+          "persist_until": "2023-07-18 13:49:02",
+          "saved": false
+        },
+        {
+          "id": "0707_f0193e9a-90cc-4709-ad82-2f8130228513_07dedb00-6a67-4b87-a65b-7d5451f62e6a_37884b818ccdb4951663ecf6dcf648fa",
+          "user_id": "f0193e9a-90cc-4709-ad82-2f8130228513",
+          "response_id": "07dedb00-6a67-4b87-a65b-7d5451f62e6a_37884b818ccdb4951663ecf6dcf648fa",
+          "type": "audio",
+          "question": {
+            "type": "audio",
+            "metadata": {
+              "source": {
+                "organisation_id": 755
+              },
+              "sheet_reference": "default_feedback",
+              "widget_reference": "b2f049b4-bb33-4542-993d-0645ffedda1a",
+              "valid_response_count": 0
+            },
+            "stimulus": "Audio feedback:",
+            "ui_style": {
+              "type": "button"
+            },
+            "max_length": 600,
+            "response_id": "07dedb00-6a67-4b87-a65b-7d5451f62e6a_37884b818ccdb4951663ecf6dcf648fa"
+          },
+          "response": null,
+          "creation_date": "2023-07-17 13:49:02",
+          "mod_date": "2023-07-17 13:49:02",
+          "persist_until": "2023-07-18 13:49:02",
+          "saved": false
+        }
+      ]
+    }
+  ]
+}

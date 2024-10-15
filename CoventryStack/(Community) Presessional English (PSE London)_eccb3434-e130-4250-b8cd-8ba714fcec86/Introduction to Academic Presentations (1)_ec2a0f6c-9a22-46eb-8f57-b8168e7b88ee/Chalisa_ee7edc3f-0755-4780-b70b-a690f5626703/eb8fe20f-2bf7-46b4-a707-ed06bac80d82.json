@@ -1,0 +1,1835 @@
+{
+  "userId": "ee7edc3f-0755-4780-b70b-a690f5626703",
+  "firstName": "Chalisa",
+  "lastName": "Phimonsetthaphan",
+  "assigmentId": "ec2a0f6c-9a22-46eb-8f57-b8168e7b88ee",
+  "assigmentName": "Introduction to Academic Presentations (1)",
+  "sessionId": "eb8fe20f-2bf7-46b4-a707-ed06bac80d82",
+  "email": "phimonsetc@coventry.ac.uk",
+  "spaceId": "eccb3434-e130-4250-b8cd-8ba714fcec86",
+  "spaceName": "(Community) Presessional English (PSE London)",
+  "score": 94,
+  "max_score": 94,
+  "questions": [
+    {
+      "response_id": "eb8fe20f-2bf7-46b4-a707-ed06bac80d82_68b45e728a89b69d3c2f512a82334676",
+      "question_type": "choicematrix",
+      "dt_score_updated": "2022-09-08T13:52:20Z",
+      "automarkable": true,
+      "attempted": true,
+      "score": 10,
+      "max_score": 10,
+      "question_reference": "ce5bcf40-9eba-41ec-a2f7-9875ada92a43",
+      "item_reference": "fffaddbb-85ce-4b5f-8226-b1081c307db5",
+      "response": {
+        "value": [
+          [
+            0
+          ],
+          [
+            0
+          ],
+          [
+            1
+          ],
+          [
+            0
+          ],
+          [
+            0
+          ],
+          [
+            2
+          ],
+          [
+            2
+          ],
+          [
+            1
+          ],
+          [
+            1
+          ],
+          [
+            2
+          ]
+        ],
+        "type": "array",
+        "apiVersion": "v2.168.23",
+        "revision": 2,
+        "feedbackAttemptsCount": 6
+      },
+      "questionInfo": {
+        "type": "choicematrix",
+        "widget_type": "response",
+        "reference": "ce5bcf40-9eba-41ec-a2f7-9875ada92a43",
+        "data": {
+          "options": [
+            "<strong><span style=\"color:#008000;\">This was a good idea</span></strong>",
+            "<span style=\"color:#b22222;\"><strong>This was a bad idea</strong></span>",
+            "<strong><span style=\"color:#0000ff;\">He didn't mention this</span></strong>"
+          ],
+          "stems": [
+            "<strong>1. He studied the subject extensively&nbsp;</strong>",
+            "<strong>2. He made lots of notes</strong>",
+            "<strong>3. He tried to include all his notes in the presentation</strong>",
+            "<strong>4. He practiced with a friend</strong>",
+            "<strong>5. He practiced in front of the mirror</strong>",
+            "<strong>6. He recorded himself with his smartphone</strong>",
+            "<strong>7. He volunteered to present first</strong>",
+            "<strong>8. He had to wait a long time for his turn to present</strong>",
+            "<strong>9. He talked for too long</strong>",
+            "<strong>10. He didn't talk long enough</strong>"
+          ],
+          "stimulus": "<p><strong><span style=\"font-size:2em;\">A student is talking about his experience of making an academic presentation.&nbsp;</span></strong></p>\n\n<p><strong><span style=\"font-size:1.5em;\"></span><span style=\"font-size:1.5em;\"><span style=\"color:#add8e6;\">►</span>&nbsp;</span><span style=\"font-size:1.5em;\">Read the text and answer the questions below.</span></strong></p>\n\n<p><img class=\"lrn-image-non-responsive\" height=\"389\" src=\"https://assets.learnosity.com/organisations/755/ab2f8459-7319-4bbb-b3b0-fcd43eb3cfa1.jpg\" width=\"851\"></p>\n\n<p>&nbsp;</p>\n",
+          "type": "choicematrix",
+          "validation": {
+            "scoring_type": "partialMatchV2",
+            "valid_response": {
+              "score": 10,
+              "value": [
+                [
+                  0
+                ],
+                [
+                  0
+                ],
+                [
+                  1
+                ],
+                [
+                  0
+                ],
+                [
+                  0
+                ],
+                [
+                  2
+                ],
+                [
+                  2
+                ],
+                [
+                  1
+                ],
+                [
+                  1
+                ],
+                [
+                  2
+                ]
+              ]
+            }
+          },
+          "ui_style": {
+            "type": "inline",
+            "horizontal_lines": true
+          },
+          "instant_feedback": true
+        },
+        "metadata": {
+          "name": "Choice matrix – standard",
+          "template_reference": "14b7af71-e146-4747-aae5-ca71618a5038"
+        }
+      },
+      "feedbackInfo": [
+        null,
+        null
+      ]
+    },
+    {
+      "response_id": "eb8fe20f-2bf7-46b4-a707-ed06bac80d82_4d24915c8118299c0c08fd07b016ad5c",
+      "question_type": "clozeassociation",
+      "dt_score_updated": "2022-09-08T13:53:03Z",
+      "automarkable": true,
+      "attempted": true,
+      "score": 6,
+      "max_score": 6,
+      "question_reference": "fd7e8f46-d70f-45f1-aa7d-aa87956fa264",
+      "item_reference": "fffaddbb-85ce-4b5f-8226-b1081c307db5",
+      "response": {
+        "value": [
+          "Don't",
+          "leave",
+          "practice&nbsp;",
+          "until",
+          "the last",
+          "minute"
+        ],
+        "type": "array",
+        "apiVersion": "v2.168.23",
+        "revision": 1,
+        "feedbackAttemptsCount": 1
+      },
+      "questionInfo": {
+        "type": "clozeassociation",
+        "widget_type": "response",
+        "reference": "fd7e8f46-d70f-45f1-aa7d-aa87956fa264",
+        "data": {
+          "possible_responses": [
+            "Don't",
+            "leave",
+            "practice&nbsp;",
+            "until",
+            "the last",
+            "minute"
+          ],
+          "response_container": {
+            "pointer": "left"
+          },
+          "stimulus": "<p><strong><span style=\"font-size:2em;\">Here are some more <span style=\"color:#008000;\">Presentation Tips</span>.&nbsp;</span></strong></p>\n\n<p><strong><span style=\"font-size:1.5em;\"></span><span style=\"color:#008000;\"><span style=\"font-size:1.5em;\">►&nbsp;</span></span><span style=\"font-size:1.5em;\">Order the words to make complete sentences.</span></strong></p>\n\n<p><img class=\"lrn-image-non-responsive\" height=\"228\" src=\"https://assets.learnosity.com/organisations/755/847a0282-19a0-4ad4-b112-b84e78637073.jpg\" width=\"400\"></p>\n",
+          "template": "<strong><span style=\"font-size:1.3em;\">1.&nbsp;</span></strong>{{response}}&nbsp;{{response}}&nbsp;{{response}}&nbsp;{{response}}&nbsp;{{response}}&nbsp;{{response}}<strong><span style=\"font-size:1.3em;\">.&nbsp;</span></strong>",
+          "type": "clozeassociation",
+          "case_sensitive": true,
+          "validation": {
+            "scoring_type": "partialMatchV2",
+            "valid_response": {
+              "score": 6,
+              "value": [
+                "Don't",
+                "leave",
+                "practice&nbsp;",
+                "until",
+                "the last",
+                "minute"
+              ]
+            }
+          },
+          "instant_feedback": true,
+          "shuffle_options": true
+        },
+        "metadata": {
+          "name": "Cloze with drag & drop",
+          "template_reference": "51a8c1e7-f34f-4faf-b211-da458e891fcb"
+        }
+      },
+      "feedbackInfo": [
+        null,
+        null
+      ]
+    },
+    {
+      "response_id": "eb8fe20f-2bf7-46b4-a707-ed06bac80d82_5fc3f7316a9449d2d6b6e1653b811e5c",
+      "question_type": "clozeassociation",
+      "dt_score_updated": "2022-09-08T14:20:44Z",
+      "automarkable": true,
+      "attempted": true,
+      "score": 5,
+      "max_score": 5,
+      "question_reference": "7afa3bba-c7cb-4914-ab3d-7b925d4c19fb",
+      "item_reference": "fffaddbb-85ce-4b5f-8226-b1081c307db5",
+      "response": {
+        "value": [
+          "Try to",
+          "relax",
+          "the night",
+          "before",
+          "the presentation"
+        ],
+        "type": "array",
+        "apiVersion": "v2.168.23",
+        "revision": 1,
+        "feedbackAttemptsCount": 5
+      },
+      "questionInfo": {
+        "type": "clozeassociation",
+        "widget_type": "response",
+        "reference": "7afa3bba-c7cb-4914-ab3d-7b925d4c19fb",
+        "data": {
+          "possible_responses": [
+            "Try to",
+            "relax",
+            "the night",
+            "before",
+            "the presentation"
+          ],
+          "response_container": {
+            "pointer": "left"
+          },
+          "template": "<strong><span style=\"font-size:1.3em;\">2.&nbsp;</span></strong>{{response}}&nbsp;{{response}}&nbsp;{{response}}&nbsp;{{response}}&nbsp;{{response}}<strong><span style=\"font-size:1.3em;\">.&nbsp;</span></strong>",
+          "type": "clozeassociation",
+          "case_sensitive": true,
+          "validation": {
+            "scoring_type": "partialMatchV2",
+            "valid_response": {
+              "score": 5,
+              "value": [
+                "Try to",
+                "relax",
+                "the night",
+                "before",
+                "the presentation"
+              ]
+            }
+          },
+          "instant_feedback": true,
+          "shuffle_options": true
+        },
+        "metadata": {
+          "name": "Cloze with drag & drop",
+          "template_reference": "51a8c1e7-f34f-4faf-b211-da458e891fcb"
+        }
+      },
+      "feedbackInfo": [
+        null,
+        null
+      ]
+    },
+    {
+      "response_id": "eb8fe20f-2bf7-46b4-a707-ed06bac80d82_8c7fb5b68ffe462551f95e9ec81bfd4b",
+      "question_type": "clozeassociation",
+      "dt_score_updated": "2022-09-08T14:20:44Z",
+      "automarkable": true,
+      "attempted": true,
+      "score": 8,
+      "max_score": 8,
+      "question_reference": "0031e3f4-3e72-49aa-8522-ba127a0da980",
+      "item_reference": "fffaddbb-85ce-4b5f-8226-b1081c307db5",
+      "response": {
+        "value": [
+          "Work",
+          "with",
+          "friends",
+          "take",
+          "turns",
+          "videoing",
+          "and reviewing",
+          "your presentations"
+        ],
+        "type": "array",
+        "apiVersion": "v2.168.23",
+        "revision": 1,
+        "feedbackAttemptsCount": 3
+      },
+      "questionInfo": {
+        "type": "clozeassociation",
+        "widget_type": "response",
+        "reference": "0031e3f4-3e72-49aa-8522-ba127a0da980",
+        "data": {
+          "possible_responses": [
+            "Work",
+            "with",
+            "friends",
+            "take",
+            "turns",
+            "videoing",
+            "and reviewing",
+            "your presentations"
+          ],
+          "response_container": {
+            "pointer": "left"
+          },
+          "template": "<strong><span style=\"font-size:1.3em;\">3.&nbsp;</span></strong>{{response}}&nbsp;{{response}}&nbsp;{{response}}&nbsp;<strong><span style=\"font-size:1.3em;\">:</span></strong>&nbsp;{{response}}&nbsp;{{response}}&nbsp;{{response}}&nbsp;{{response}}&nbsp;{{response}}<strong><span style=\"font-size:1.3em;\">.&nbsp;</span></strong>",
+          "type": "clozeassociation",
+          "case_sensitive": true,
+          "validation": {
+            "scoring_type": "partialMatchV2",
+            "valid_response": {
+              "score": 8,
+              "value": [
+                "Work",
+                "with",
+                "friends",
+                "take",
+                "turns",
+                "videoing",
+                "and reviewing",
+                "your presentations"
+              ]
+            }
+          },
+          "instant_feedback": true,
+          "shuffle_options": true
+        },
+        "metadata": {
+          "name": "Cloze with drag & drop",
+          "template_reference": "51a8c1e7-f34f-4faf-b211-da458e891fcb"
+        }
+      },
+      "feedbackInfo": [
+        null,
+        null
+      ]
+    },
+    {
+      "response_id": "eb8fe20f-2bf7-46b4-a707-ed06bac80d82_f18db3a287a496cccdf4271fa0f03702",
+      "question_type": "clozeassociation",
+      "dt_score_updated": "2022-09-08T14:20:44Z",
+      "automarkable": true,
+      "attempted": true,
+      "score": 7,
+      "max_score": 7,
+      "question_reference": "73e7c3f9-562f-4b2f-832c-8d1a744b281d",
+      "item_reference": "fffaddbb-85ce-4b5f-8226-b1081c307db5",
+      "response": {
+        "value": [
+          "Use",
+          "a timer",
+          "to help&nbsp;",
+          "control",
+          "the length",
+          "of your",
+          "presentation"
+        ],
+        "type": "array",
+        "apiVersion": "v2.168.23",
+        "revision": 1,
+        "feedbackAttemptsCount": 2
+      },
+      "questionInfo": {
+        "type": "clozeassociation",
+        "widget_type": "response",
+        "reference": "73e7c3f9-562f-4b2f-832c-8d1a744b281d",
+        "data": {
+          "possible_responses": [
+            "Use",
+            "a timer",
+            "to help&nbsp;",
+            "control",
+            "the length",
+            "of your",
+            "presentation"
+          ],
+          "response_container": {
+            "pointer": "left"
+          },
+          "template": "<strong><span style=\"font-size:1.3em;\">4.&nbsp;</span></strong>{{response}}&nbsp;{{response}}&nbsp;{{response}}&nbsp;{{response}}&nbsp;{{response}}&nbsp;{{response}}&nbsp;{{response}}<strong><span style=\"font-size:1.3em;\">.&nbsp;</span></strong>",
+          "type": "clozeassociation",
+          "case_sensitive": true,
+          "validation": {
+            "scoring_type": "partialMatchV2",
+            "valid_response": {
+              "score": 7,
+              "value": [
+                "Use",
+                "a timer",
+                "to help&nbsp;",
+                "control",
+                "the length",
+                "of your",
+                "presentation"
+              ]
+            }
+          },
+          "instant_feedback": true,
+          "shuffle_options": true
+        },
+        "metadata": {
+          "name": "Cloze with drag & drop",
+          "template_reference": "51a8c1e7-f34f-4faf-b211-da458e891fcb"
+        }
+      },
+      "feedbackInfo": [
+        null,
+        null
+      ]
+    },
+    {
+      "response_id": "eb8fe20f-2bf7-46b4-a707-ed06bac80d82_611d842faa8e348ee8ae5fa001813da8",
+      "question_type": "clozeassociation",
+      "dt_score_updated": "2022-09-08T14:20:44Z",
+      "automarkable": true,
+      "attempted": true,
+      "score": 7,
+      "max_score": 7,
+      "question_reference": "9b634fa9-4884-451a-b813-638f488c09e7",
+      "item_reference": "fffaddbb-85ce-4b5f-8226-b1081c307db5",
+      "response": {
+        "value": [
+          "Volunteer",
+          "to present",
+          "first",
+          "if you&nbsp;",
+          "feel&nbsp;",
+          "nervous",
+          "waiting&nbsp;"
+        ],
+        "type": "array",
+        "apiVersion": "v2.168.23",
+        "revision": 1,
+        "feedbackAttemptsCount": 9
+      },
+      "questionInfo": {
+        "type": "clozeassociation",
+        "widget_type": "response",
+        "reference": "9b634fa9-4884-451a-b813-638f488c09e7",
+        "data": {
+          "possible_responses": [
+            "Volunteer",
+            "to present",
+            "first",
+            "if you&nbsp;",
+            "feel&nbsp;",
+            "nervous",
+            "waiting&nbsp;"
+          ],
+          "response_container": {
+            "pointer": "left"
+          },
+          "template": "<strong><span style=\"font-size:1.3em;\">5.&nbsp;</span></strong>{{response}}&nbsp;{{response}}&nbsp;{{response}}&nbsp;{{response}}&nbsp;{{response}}&nbsp;{{response}}&nbsp;{{response}}<strong><span style=\"font-size:1.3em;\">.&nbsp;</span></strong>",
+          "type": "clozeassociation",
+          "case_sensitive": true,
+          "validation": {
+            "scoring_type": "partialMatchV2",
+            "valid_response": {
+              "score": 7,
+              "value": [
+                "Volunteer",
+                "to present",
+                "first",
+                "if you&nbsp;",
+                "feel&nbsp;",
+                "nervous",
+                "waiting&nbsp;"
+              ]
+            }
+          },
+          "instant_feedback": true,
+          "shuffle_options": true
+        },
+        "metadata": {
+          "name": "Cloze with drag & drop",
+          "template_reference": "51a8c1e7-f34f-4faf-b211-da458e891fcb"
+        }
+      },
+      "feedbackInfo": [
+        null,
+        null
+      ]
+    },
+    {
+      "response_id": "eb8fe20f-2bf7-46b4-a707-ed06bac80d82_f08f006b02187110712054cb5052e277",
+      "question_type": "clozeassociation",
+      "dt_score_updated": "2022-09-08T14:20:44Z",
+      "automarkable": true,
+      "attempted": true,
+      "score": 7,
+      "max_score": 7,
+      "question_reference": "dcb96718-5dbd-42b3-af53-75c63d1f641c",
+      "item_reference": "fffaddbb-85ce-4b5f-8226-b1081c307db5",
+      "response": {
+        "value": [
+          "Ask for",
+          "feedback from",
+          "tutors and",
+          "classmates to",
+          "&nbsp;improve your",
+          "presentation next",
+          "time"
+        ],
+        "type": "array",
+        "apiVersion": "v2.168.23",
+        "revision": 1,
+        "feedbackAttemptsCount": 7
+      },
+      "questionInfo": {
+        "type": "clozeassociation",
+        "widget_type": "response",
+        "reference": "dcb96718-5dbd-42b3-af53-75c63d1f641c",
+        "data": {
+          "possible_responses": [
+            "Ask for",
+            "feedback from",
+            "tutors and",
+            "classmates to",
+            "&nbsp;improve your",
+            "presentation next",
+            "time"
+          ],
+          "response_container": {
+            "pointer": "left"
+          },
+          "template": "<strong><span style=\"font-size:1.3em;\">6.&nbsp;</span></strong>{{response}}&nbsp;{{response}}&nbsp;{{response}}&nbsp;{{response}}&nbsp;{{response}}&nbsp;{{response}}&nbsp;{{response}}<strong><span style=\"font-size:1.3em;\">.&nbsp;</span></strong>",
+          "type": "clozeassociation",
+          "case_sensitive": true,
+          "validation": {
+            "scoring_type": "partialMatchV2",
+            "valid_response": {
+              "score": 7,
+              "value": [
+                "Ask for",
+                "feedback from",
+                "tutors and",
+                "classmates to",
+                "&nbsp;improve your",
+                "presentation next",
+                "time"
+              ]
+            }
+          },
+          "instant_feedback": true,
+          "shuffle_options": true
+        },
+        "metadata": {
+          "name": "Cloze with drag & drop",
+          "template_reference": "51a8c1e7-f34f-4faf-b211-da458e891fcb"
+        }
+      },
+      "feedbackInfo": [
+        null,
+        null
+      ]
+    },
+    {
+      "response_id": "eb8fe20f-2bf7-46b4-a707-ed06bac80d82_90301f60e2ab7ee785d2ed9f725372a7",
+      "question_type": "clozedropdown",
+      "dt_score_updated": "2022-09-08T14:20:44Z",
+      "automarkable": true,
+      "attempted": true,
+      "score": 1,
+      "max_score": 1,
+      "question_reference": "05ec49af-7dc0-40c0-a40a-a63ebc0ac185",
+      "item_reference": "cf65ecbc-1546-4265-b0bb-ce12630fa7eb",
+      "response": {
+        "value": [
+          "Divide the brief into two sections - the topic and the purpose"
+        ],
+        "type": "array",
+        "apiVersion": "v2.168.23",
+        "revision": 1,
+        "feedbackAttemptsCount": 2
+      },
+      "questionInfo": {
+        "type": "clozedropdown",
+        "widget_type": "response",
+        "reference": "05ec49af-7dc0-40c0-a40a-a63ebc0ac185",
+        "data": {
+          "possible_responses": [
+            [
+              "Divide the brief into two sections - the topic and the purpose",
+              "Divide the brief into two sections - the topic and the key words",
+              "Divide the brief into two sections - the topic and the structure"
+            ]
+          ],
+          "response_container": {
+            "pointer": "left"
+          },
+          "stimulus": "<table class=\"table table-condensed table-no-border lrn_width_auto\">\n\t<tbody>\n\t\t<tr>\n\t\t\t<td><img class=\"lrn-image-non-responsive\" height=\"180\" src=\"https://assets.learnosity.com/organisations/755/5fe531f6-a712-42f0-b7e5-47ed78901e49.png\" width=\"100\"></td>\n\t\t\t<td>\n\t\t\t<p><span style=\"font-size:2em;\"><b><span style=\"color:#ff0000;\">Organisation&nbsp;</span>is equally important in&nbsp;presentations&nbsp;and in reports.</b></span></p>\n\n\t\t\t<p id=\"yui_3_17_2_1_1643213367462_215\"><span style=\"font-size:1.5em;\"><b><span style=\"color:#ff0000;\">► </span>Without a&nbsp;logical structure, your audience will struggle to follow your ideas.&nbsp;</b></span></p>\n\n\t\t\t<p>&nbsp;</p>\n\n\t\t\t<p><span style=\"font-size:1.8em;\"><b>In the report writing lesson, Sania shared some advice on&nbsp;<span style=\"color:#ff0000;\">analysing&nbsp;the brief</span>.&nbsp;</b></span></p>\n\n\t\t\t<p><span style=\"font-size:1.5em;\"><b><span style=\"color:#ff0000;\">► </span>Can you remember what it was?&nbsp;</b></span></p>\n\t\t\t</td>\n\t\t</tr>\n\t</tbody>\n</table>\n",
+          "template": "<p><span style=\"font-size:1.3em;\">{{response}}</span></p>\n\n<h5 id=\"yui_3_17_2_1_1643213840814_3330\">(if you want to review Sania's advice, watch the video again&nbsp;- click&nbsp;<a href=\"https://web.microsoftstream.com/video/15097139-f6ac-4fb6-bdd6-8c8ca80a4ed6\" id=\"yui_3_17_2_1_1643213840814_3336\" target=\"_blank\"><u id=\"yui_3_17_2_1_1643213840814_3339\">here</u></a>)</h5>\n",
+          "type": "clozedropdown",
+          "case_sensitive": true,
+          "validation": {
+            "scoring_type": "exactMatch",
+            "valid_response": {
+              "score": 1,
+              "value": [
+                "Divide the brief into two sections - the topic and the purpose"
+              ]
+            }
+          },
+          "instant_feedback": true,
+          "shuffle_options": true
+        },
+        "metadata": {
+          "name": "Cloze with drop down",
+          "template_reference": "2fbba51b-e35e-441f-83c7-2662e2e81fa6"
+        }
+      },
+      "feedbackInfo": [
+        null,
+        null
+      ]
+    },
+    {
+      "response_id": "eb8fe20f-2bf7-46b4-a707-ed06bac80d82_efb149f463c1ec005364cc56fd789ac4",
+      "question_type": "mcq",
+      "dt_score_updated": "2022-09-08T14:20:44Z",
+      "automarkable": true,
+      "attempted": true,
+      "score": 1,
+      "max_score": 1,
+      "question_reference": "818f6250-afde-4134-96ef-14685b94e2a9",
+      "item_reference": "cf65ecbc-1546-4265-b0bb-ce12630fa7eb",
+      "response": {
+        "value": [
+          "2"
+        ],
+        "type": "array",
+        "apiVersion": "v2.168.23",
+        "revision": 1,
+        "feedbackAttemptsCount": 1
+      },
+      "questionInfo": {
+        "type": "mcq",
+        "widget_type": "response",
+        "reference": "818f6250-afde-4134-96ef-14685b94e2a9",
+        "data": {
+          "options": [
+            {
+              "label": "<span style=\"font-size:1.1em;\">The topic is wind power</span>",
+              "value": "0"
+            },
+            {
+              "label": "<span style=\"font-size:1.1em;\">The topic is wind turbines</span>",
+              "value": "1"
+            },
+            {
+              "label": "<span style=\"font-size:1.1em;\">The topic is is wind turbine noise</span>",
+              "value": "2"
+            }
+          ],
+          "stimulus": "<h2>&nbsp;</h2>\n\n\n<img height=\"183\" src=\"https://assets.learnosity.com/organisations/755/5a874a04-944c-4b8c-84d1-c65297dc29cb.jpg\" width=\"350\">\n<p><span style=\"font-size:2em;\"><b>Consider the presentation questions below. What is the&nbsp;<span style=\"color:#0000ff;\">TOPIC&nbsp;</span>of each one?</b></span></p>\n\n<p>&nbsp;</p>\n\n<h5><i>Presentation Brief 1</i></h5>\n\n<div class=\"lrn-well\"><span style=\"font-size:1.3em;\"><b>Discuss solutions to the problem of wind turbine noise.</b></span></div>",
+          "type": "mcq",
+          "ui_style": {
+            "choice_label": "upper-alpha",
+            "type": "block"
+          },
+          "validation": {
+            "scoring_type": "exactMatch",
+            "valid_response": {
+              "score": 1,
+              "value": [
+                "2"
+              ]
+            }
+          },
+          "instant_feedback": true,
+          "shuffle_options": true
+        },
+        "metadata": {
+          "name": "Multiple choice – block layout",
+          "template_reference": "33d53a22-1a59-4a03-9671-7f5104edd62e"
+        }
+      },
+      "feedbackInfo": [
+        null,
+        null
+      ]
+    },
+    {
+      "response_id": "eb8fe20f-2bf7-46b4-a707-ed06bac80d82_c057ad8139318464766ac9381a6d0c43",
+      "question_type": "mcq",
+      "dt_score_updated": "2022-09-08T14:20:44Z",
+      "automarkable": true,
+      "attempted": true,
+      "score": 1,
+      "max_score": 1,
+      "question_reference": "4f7028fc-2733-4848-80d8-86836929626a",
+      "item_reference": "cf65ecbc-1546-4265-b0bb-ce12630fa7eb",
+      "response": {
+        "value": [
+          "0"
+        ],
+        "type": "array",
+        "apiVersion": "v2.168.23",
+        "revision": 1,
+        "feedbackAttemptsCount": 1
+      },
+      "questionInfo": {
+        "type": "mcq",
+        "widget_type": "response",
+        "reference": "4f7028fc-2733-4848-80d8-86836929626a",
+        "data": {
+          "options": [
+            {
+              "label": "<span style=\"font-size:1.1em;\">The topic is how wind power is produced</span>",
+              "value": "0"
+            },
+            {
+              "label": "<span style=\"font-size:1.1em;\">The topic is wind power</span>",
+              "value": "1"
+            },
+            {
+              "label": "<span style=\"font-size:1.1em;\">The topic is the process of wind power</span>",
+              "value": "2"
+            }
+          ],
+          "stimulus": "<h5><i>Presentation Brief 2</i></h5>\n\n<div>\n<div class=\"lrn-well\"><strong><span style=\"font-size:1.3em;\">Describe the process of wind power generation.</span></strong></div>\n</div>\n",
+          "type": "mcq",
+          "ui_style": {
+            "choice_label": "upper-alpha",
+            "type": "block"
+          },
+          "validation": {
+            "scoring_type": "exactMatch",
+            "valid_response": {
+              "score": 1,
+              "value": [
+                "0"
+              ]
+            }
+          },
+          "instant_feedback": true,
+          "shuffle_options": true
+        },
+        "metadata": {
+          "name": "Multiple choice – block layout",
+          "template_reference": "33d53a22-1a59-4a03-9671-7f5104edd62e"
+        }
+      },
+      "feedbackInfo": [
+        null,
+        null
+      ]
+    },
+    {
+      "response_id": "eb8fe20f-2bf7-46b4-a707-ed06bac80d82_1649b274e30f74477007950b2898fcc2",
+      "question_type": "mcq",
+      "dt_score_updated": "2022-09-08T14:20:44Z",
+      "automarkable": true,
+      "attempted": true,
+      "score": 1,
+      "max_score": 1,
+      "question_reference": "2d0ad4ec-ec13-40f2-9645-3f2206843047",
+      "item_reference": "cf65ecbc-1546-4265-b0bb-ce12630fa7eb",
+      "response": {
+        "value": [
+          "0"
+        ],
+        "type": "array",
+        "apiVersion": "v2.168.23",
+        "revision": 1,
+        "feedbackAttemptsCount": 2
+      },
+      "questionInfo": {
+        "type": "mcq",
+        "widget_type": "response",
+        "reference": "2d0ad4ec-ec13-40f2-9645-3f2206843047",
+        "data": {
+          "options": [
+            {
+              "label": "<span style=\"font-size:1.1em;\">The topic is wind turbines</span>",
+              "value": "1"
+            },
+            {
+              "label": "<span style=\"font-size:1.1em;\">The topic is how effective wind turbines are</span>",
+              "value": "2"
+            },
+            {
+              "label": "<span style=\"font-size:1.1em;\">The topic is how effective domestic wind turbines are</span>",
+              "value": "0"
+            }
+          ],
+          "stimulus": "<h5><i>Presentation Brief 3</i></h5>\n\n<div>\n<div class=\"lrn-well\"><strong><span style=\"font-size:1.3em;\">Assess the different viewpoints on the effectiveness of domestic wind turbines.</span><span style=\"font-size:1.3em;\"></span></strong></div>\n</div>\n",
+          "type": "mcq",
+          "ui_style": {
+            "choice_label": "upper-alpha",
+            "type": "block"
+          },
+          "validation": {
+            "scoring_type": "exactMatch",
+            "valid_response": {
+              "score": 1,
+              "value": [
+                "0"
+              ]
+            }
+          },
+          "instant_feedback": true
+        },
+        "metadata": {
+          "name": "Multiple choice – block layout",
+          "template_reference": "33d53a22-1a59-4a03-9671-7f5104edd62e"
+        }
+      },
+      "feedbackInfo": [
+        null,
+        null
+      ]
+    },
+    {
+      "response_id": "eb8fe20f-2bf7-46b4-a707-ed06bac80d82_ece6640c982193529c93c274714bfb75",
+      "question_type": "mcq",
+      "dt_score_updated": "2022-09-08T14:20:44Z",
+      "automarkable": true,
+      "attempted": true,
+      "score": 1,
+      "max_score": 1,
+      "question_reference": "9d8f3da8-3119-4a32-aab4-5dc015523bf3",
+      "item_reference": "cf65ecbc-1546-4265-b0bb-ce12630fa7eb",
+      "response": {
+        "value": [
+          "1"
+        ],
+        "type": "array",
+        "apiVersion": "v2.168.23",
+        "revision": 1,
+        "feedbackAttemptsCount": 2
+      },
+      "questionInfo": {
+        "type": "mcq",
+        "widget_type": "response",
+        "reference": "9d8f3da8-3119-4a32-aab4-5dc015523bf3",
+        "data": {
+          "options": [
+            {
+              "label": "<span style=\"font-size:1.1em;\">The topic is clean energy</span>",
+              "value": "0"
+            },
+            {
+              "label": "<span style=\"font-size:1.1em;\">The topic is wind power</span>",
+              "value": "1"
+            },
+            {
+              "label": "<span style=\"font-size:1.1em;\">The topic is the cost of wind power</span>",
+              "value": "2"
+            }
+          ],
+          "stimulus": "<h5><i>Presentation Brief 4</i></h5>\n\n<div>\n<div class=\"lrn-well\"><strong><span style=\"font-size:1.3em;\">Outline arguments for and against wind energy.</span><span style=\"font-size:1.3em;\"></span><span style=\"font-size:1.3em;\"></span></strong></div>\n</div>\n",
+          "type": "mcq",
+          "ui_style": {
+            "choice_label": "upper-alpha",
+            "type": "block"
+          },
+          "validation": {
+            "scoring_type": "exactMatch",
+            "valid_response": {
+              "score": 1,
+              "value": [
+                "1"
+              ]
+            }
+          },
+          "instant_feedback": true,
+          "shuffle_options": true
+        },
+        "metadata": {
+          "name": "Multiple choice – block layout",
+          "template_reference": "33d53a22-1a59-4a03-9671-7f5104edd62e"
+        }
+      },
+      "feedbackInfo": [
+        null,
+        null
+      ]
+    },
+    {
+      "response_id": "eb8fe20f-2bf7-46b4-a707-ed06bac80d82_2055ab34979d0fa43d5a450976286db5",
+      "question_type": "mcq",
+      "dt_score_updated": "2022-09-08T14:20:44Z",
+      "automarkable": true,
+      "attempted": true,
+      "score": 1,
+      "max_score": 1,
+      "question_reference": "c305616f-e17b-4f5d-99f6-6a6cad7b84ed",
+      "item_reference": "5b523924-e2d6-4840-a89e-8ea9c07a6015",
+      "response": {
+        "value": [
+          "1"
+        ],
+        "type": "array",
+        "apiVersion": "v2.168.23",
+        "revision": 1,
+        "feedbackAttemptsCount": 2
+      },
+      "questionInfo": {
+        "type": "mcq",
+        "widget_type": "response",
+        "reference": "c305616f-e17b-4f5d-99f6-6a6cad7b84ed",
+        "data": {
+          "options": [
+            {
+              "label": "<span style=\"font-size:1.1em;\">To make sure you choose the right key words</span>",
+              "value": "0"
+            },
+            {
+              "label": "<span style=\"font-size:1.1em;\">To make sure you address all parts of the brief</span>",
+              "value": "1"
+            },
+            {
+              "label": "<span style=\"font-size:1.1em;\">To make sure you focus on the main ideas</span>",
+              "value": "2"
+            }
+          ],
+          "stimulus": "<table class=\"table table-condensed table-no-border lrn_width_auto\">\n\t<tbody>\n\t\t<tr>\n\t\t\t<td><img class=\"lrn-image-non-responsive\" height=\"144\" src=\"https://assets.learnosity.com/organisations/755/05aa6487-ab53-4f63-92d8-9d045191abbd.jpg\" width=\"220\" /></td>\n\t\t\t<td>\n\t\t\t<p id=\"yui_3_17_2_1_1643214372008_138\"><span style=\"font-size:2em;\"><b>After you establish the TOPIC of your presentation, you should focus on its <span style=\"color:#8b4513;\">PURPOSE</span>, <span style=\"color:#000000;\"><u>what your lecturer or tutor wants you do in your presentation</u></span></b>.&nbsp;</span></p>\n\t\t\t</td>\n\t\t</tr>\n\t</tbody>\n</table>\n\n<h4>&nbsp;</h4>\n\n<h4><strong><span style=\"color:#8b4513;\">► </span>Why is this important?</strong></h4>\n",
+          "type": "mcq",
+          "ui_style": {
+            "choice_label": "upper-alpha",
+            "type": "block"
+          },
+          "validation": {
+            "scoring_type": "exactMatch",
+            "valid_response": {
+              "score": 1,
+              "value": [
+                "1"
+              ]
+            }
+          },
+          "instant_feedback": true,
+          "shuffle_options": true
+        },
+        "metadata": {
+          "name": "Multiple choice – block layout",
+          "template_reference": "33d53a22-1a59-4a03-9671-7f5104edd62e"
+        }
+      },
+      "feedbackInfo": [
+        null,
+        null
+      ]
+    },
+    {
+      "response_id": "eb8fe20f-2bf7-46b4-a707-ed06bac80d82_441d3d27e312440a55cf0b6c03c0d5d7",
+      "question_type": "clozeassociation",
+      "dt_score_updated": "2022-09-08T14:20:44Z",
+      "automarkable": true,
+      "attempted": true,
+      "score": 4,
+      "max_score": 4,
+      "question_reference": "350f18a5-f66b-4ee0-b534-855e6f9e4e3b",
+      "item_reference": "5b523924-e2d6-4840-a89e-8ea9c07a6015",
+      "response": {
+        "value": [
+          "<b id=\"yui_3_17_2_1_1643214372008_212\">Outline&nbsp;</b>",
+          "<b id=\"yui_3_17_2_1_1643214372008_207\">Describe&nbsp;</b>",
+          "<b id=\"yui_3_17_2_1_1643214372008_211\">Assess&nbsp;</b>",
+          "<b>Dis</b><b id=\"yui_3_17_2_1_1643214372008_200\">cuss&nbsp;</b>"
+        ],
+        "type": "array",
+        "apiVersion": "v2.168.23",
+        "revision": 1,
+        "feedbackAttemptsCount": 5
+      },
+      "questionInfo": {
+        "type": "clozeassociation",
+        "widget_type": "response",
+        "reference": "350f18a5-f66b-4ee0-b534-855e6f9e4e3b",
+        "data": {
+          "possible_responses": [
+            "<b>Dis</b><b id=\"yui_3_17_2_1_1643214372008_200\">cuss&nbsp;</b>",
+            "<b id=\"yui_3_17_2_1_1643214372008_207\">Describe&nbsp;</b>",
+            "<b id=\"yui_3_17_2_1_1643214372008_211\">Assess&nbsp;</b>",
+            "<b id=\"yui_3_17_2_1_1643214372008_212\">Outline&nbsp;</b>"
+          ],
+          "response_container": {
+            "pointer": "left"
+          },
+          "stimulus": "<p>&nbsp;</p>\n\n<p>&nbsp;</p>\n\n\n<img class=\"lrn-image-non-responsive\" height=\"116\" src=\"https://assets.learnosity.com/organisations/755/29e137b0-3f87-4802-822b-ca6e60e34bdd.jpg\" width=\"801\">\n<p><span style=\"font-size:2em;\"><b>Consider the <span style=\"color:#008000;\">presentation questions</span> we saw in the previous exercises.&nbsp;</b></span></p>\n\n<h4>&nbsp;</h4>\n\n<p><span style=\"font-size:1.5em;\"><b><span style=\"color:#008000;\">► </span>The&nbsp;VERBS show what the purpose of the presentation is.</b></span></p>\n\n<p>&nbsp;</p>\n\n<ul>\n\t<li><span style=\"font-size:1.3em;\"><span style=\"color:#008000;\"><u><b>Dis</b></u><b><u>cuss</u>&nbsp;</b></span>solutions to the problem of wind turbine noise.&nbsp;</span></li>\n\t<li><span style=\"font-size:1.3em;\"><b><span style=\"color:#008000;\"><u>Describe</u></span>&nbsp;</b>the process of wind power generation.</span></li>\n\t<li><span style=\"font-size:1.3em;\"><span style=\"color:#008000;\"><b><u>Assess</u>&nbsp;</b></span>the different viewpoints on the effectiveness of domestic wind turbines.</span></li>\n\t<li><span style=\"font-size:1.3em;\"><span style=\"color:#008000;\"><b><u>Outline</u>&nbsp;</b></span>arguments for and against wind energy.</span></li>\n</ul>\n\n<h4>&nbsp;</h4>\n\n<p id=\"yui_3_17_2_1_1643217730429_130\"><span style=\"font-size:1.5em;\"><b><span style=\"color:#008000;\">► </span></b><strong>Match each of the&nbsp;definitions&nbsp;below with the&nbsp;verbs&nbsp;in the presentation brief.</strong></span></p>",
+          "template": "<p style=\"margin-left: 40px;\"><span style=\"font-size:1.3em;\"></span><span style=\"font-size:1em;\">{{response}}</span><span style=\"font-size:1.3em;\">&nbsp;To give a summary of something.</span><br>\n<span style=\"font-size:1em;\">{{response}}</span><span style=\"font-size:1.3em;\">&nbsp;To give a detailed account in words of something.</span><br>\n<span style=\"font-size:1em;\">{{response}}</span><span style=\"font-size:1.3em;\">&nbsp;To say how important, useful or correct something is.</span><br>\n<span style=\"font-size:1em;\">{{response}}</span><span style=\"font-size:1.3em;\">&nbsp;To talk or write about something in detail, taking into account different issues or ideas.</span></p>\n",
+          "type": "clozeassociation",
+          "case_sensitive": true,
+          "validation": {
+            "scoring_type": "partialMatchV2",
+            "valid_response": {
+              "score": 4,
+              "value": [
+                "<b id=\"yui_3_17_2_1_1643214372008_212\">Outline&nbsp;</b>",
+                "<b id=\"yui_3_17_2_1_1643214372008_207\">Describe&nbsp;</b>",
+                "<b id=\"yui_3_17_2_1_1643214372008_211\">Assess&nbsp;</b>",
+                "<b>Dis</b><b id=\"yui_3_17_2_1_1643214372008_200\">cuss&nbsp;</b>"
+              ]
+            }
+          },
+          "instant_feedback": true,
+          "shuffle_options": true
+        },
+        "metadata": {
+          "name": "Cloze with drag & drop",
+          "template_reference": "51a8c1e7-f34f-4faf-b211-da458e891fcb"
+        }
+      },
+      "feedbackInfo": [
+        null,
+        null
+      ]
+    },
+    {
+      "response_id": "eb8fe20f-2bf7-46b4-a707-ed06bac80d82_be4f7bf34d3202e6561b7c47ada54fae",
+      "question_type": "clozedropdown",
+      "dt_score_updated": "2022-09-08T14:20:44Z",
+      "automarkable": true,
+      "attempted": true,
+      "score": 1,
+      "max_score": 1,
+      "question_reference": "d78737a3-6318-4382-bc51-1ce4d1c14e3c",
+      "item_reference": "5b523924-e2d6-4840-a89e-8ea9c07a6015",
+      "response": {
+        "value": [
+          "Describe the process of wind power generation."
+        ],
+        "type": "array",
+        "apiVersion": "v2.168.23",
+        "revision": 1,
+        "feedbackAttemptsCount": 1
+      },
+      "questionInfo": {
+        "type": "clozedropdown",
+        "widget_type": "response",
+        "reference": "d78737a3-6318-4382-bc51-1ce4d1c14e3c",
+        "data": {
+          "possible_responses": [
+            [
+              "Discuss solutions to the problem of wind turbine noise.",
+              "Describe the process of wind power generation.",
+              "Assess different viewpoints on the effectiveness of domestic wind turbines.",
+              "Outline arguments for and against wind energy."
+            ]
+          ],
+          "response_container": {
+            "pointer": "left"
+          },
+          "stimulus": "<p>&nbsp;</p>\n\n<p><span style=\"font-size:2em;\"><b id=\"yui_3_17_2_1_1643215616914_130\">After analysing&nbsp;the brief carefully, it's time to think about the&nbsp;<u><span style=\"color:#daa520;\">CONTENT</span></u><span style=\"color:#ffd700;\">&nbsp;</span>of your presentation and <u><span style=\"color:#daa520;\">how you will organise it</span></u>.</b></span></p>\n\n<p>&nbsp;</p>\n\n\n<img height=\"202\" src=\"https://assets.learnosity.com/organisations/755/10e7a09c-d0d4-4133-887e-b5cb2659c49e.jpg\" width=\"299\">",
+          "template": "<h4>&nbsp;</h4>\n\n<p><span style=\"font-size:1.5em;\"><b><span style=\"color:#daa520;\">► </span>Analyse the <u><span style=\"color:#daa520;\">PRESENTATION PLANS</span></u> below. Match them with the correct presentations <u><span style=\"color:#daa520;\">TOPICS</span></u>.</b></span></p>\n\n<p>&nbsp;</p>\n\n<h4>&nbsp;</h4>\n\n<div class=\"lrn-well\"><span style=\"font-size:1.3em;\"><strong>TOPIC:&nbsp;</strong></span><span style=\"font-size:1.3em;\">{{response}}</span></div>\n\n<table class=\"table table-condensed table-no-border lrn_width_auto\">\n\t<tbody>\n\t\t<tr>\n\t\t\t<td>\n\t\t\t<h5 style=\"margin-left: 40px;\"><strong>PLAN:</strong></h5>\n\t\t\t</td>\n\t\t\t<td>\n\t\t\t<ul id=\"yui_3_17_2_1_1643215616914_132\">\n\t\t\t\t<li><span style=\"font-size:1.1em;\">Introduction</span></li>\n\t\t\t\t<li><span style=\"font-size:1.1em;\">Definition of wind energy</span></li>\n\t\t\t\t<li><span style=\"font-size:1.1em;\">Position of wind turbines</span></li>\n\t\t\t\t<li><span style=\"font-size:1.1em;\">Rotation of turbines</span></li>\n\t\t\t\t<li><span style=\"font-size:1.1em;\">How power is created</span></li>\n\t\t\t\t<li><span style=\"font-size:1.1em;\">How power is stored</span></li>\n\t\t\t\t<li><span style=\"font-size:1.1em;\">Conclusion</span></li>\n\t\t\t</ul>\n\t\t\t</td>\n\t\t</tr>\n\t</tbody>\n</table>\n",
+          "type": "clozedropdown",
+          "case_sensitive": true,
+          "validation": {
+            "scoring_type": "exactMatch",
+            "valid_response": {
+              "score": 1,
+              "value": [
+                "Describe the process of wind power generation."
+              ]
+            }
+          },
+          "instant_feedback": true,
+          "shuffle_options": true
+        },
+        "metadata": {
+          "name": "Cloze with drop down",
+          "template_reference": "2fbba51b-e35e-441f-83c7-2662e2e81fa6"
+        }
+      },
+      "feedbackInfo": [
+        null,
+        null
+      ]
+    },
+    {
+      "response_id": "eb8fe20f-2bf7-46b4-a707-ed06bac80d82_fc94ee27090365ba374ca008ac974b1a",
+      "question_type": "clozedropdown",
+      "dt_score_updated": "2022-09-08T14:20:44Z",
+      "automarkable": true,
+      "attempted": true,
+      "score": 1,
+      "max_score": 1,
+      "question_reference": "71cbe875-10d5-4dcf-afc4-35eeb017d5a6",
+      "item_reference": "5b523924-e2d6-4840-a89e-8ea9c07a6015",
+      "response": {
+        "value": [
+          "Outline arguments for and against wind energy."
+        ],
+        "type": "array",
+        "apiVersion": "v2.168.23",
+        "revision": 1,
+        "feedbackAttemptsCount": 1
+      },
+      "questionInfo": {
+        "type": "clozedropdown",
+        "widget_type": "response",
+        "reference": "71cbe875-10d5-4dcf-afc4-35eeb017d5a6",
+        "data": {
+          "possible_responses": [
+            [
+              "Discuss solutions to the problem of wind turbine noise.",
+              "Describe the process of wind power generation.",
+              "Assess different viewpoints on the effectiveness of domestic wind turbines.",
+              "Outline arguments for and against wind energy."
+            ]
+          ],
+          "response_container": {
+            "pointer": "left"
+          },
+          "template": "<div class=\"lrn-well\"><span style=\"font-size:1.3em;\"><strong>TOPIC:&nbsp;</strong></span><span style=\"font-size:1.3em;\">{{response}}</span></div>\n\n<table class=\"table table-condensed table-no-border lrn_width_auto\">\n\t<tbody>\n\t\t<tr>\n\t\t\t<td>\n\t\t\t<h5 style=\"margin-left: 40px;\"><strong>PLAN:</strong></h5>\n\t\t\t</td>\n\t\t\t<td>\n\t\t\t<ul id=\"yui_3_17_2_1_1643215616914_132\">\n\t\t\t\t<li><span style=\"font-size:1.1em;\"></span><span style=\"font-size:1.1em;\">Introduction</span></li>\n\t\t\t\t<li><span style=\"font-size:1.1em;\">Definition of wind energy</span></li>\n\t\t\t\t<li><span style=\"font-size:1.1em;\">Advantage 1: no waste</span></li>\n\t\t\t\t<li><span style=\"font-size:1.1em;\">Advantage 2: low cost</span></li>\n\t\t\t\t<li><span style=\"font-size:1.1em;\">Advantage 3: renewable</span></li>\n\t\t\t\t<li><span style=\"font-size:1.1em;\">Disadvantage 1: unattractive</span></li>\n\t\t\t\t<li><span style=\"font-size:1.1em;\">Disadvantage 2: not long term</span></li>\n\t\t\t\t<li><span style=\"font-size:1.1em;\">Disadvantage 3: not enough power</span></li>\n\t\t\t\t<li id=\"yui_3_17_2_1_1643215616914_143\"><span style=\"font-size:1.1em;\">Conclusion</span><span style=\"font-size:1.1em;\"></span></li>\n\t\t\t</ul>\n\t\t\t</td>\n\t\t</tr>\n\t</tbody>\n</table>\n\n<h5 style=\"margin-left: 40px;\"><strong><span style=\"font-size:1.1em;\"></span></strong></h5>\n",
+          "type": "clozedropdown",
+          "case_sensitive": true,
+          "validation": {
+            "scoring_type": "exactMatch",
+            "valid_response": {
+              "score": 1,
+              "value": [
+                "Outline arguments for and against wind energy."
+              ]
+            }
+          },
+          "instant_feedback": true,
+          "shuffle_options": true
+        },
+        "metadata": {
+          "name": "Cloze with drop down",
+          "template_reference": "2fbba51b-e35e-441f-83c7-2662e2e81fa6"
+        }
+      },
+      "feedbackInfo": [
+        null,
+        null
+      ]
+    },
+    {
+      "response_id": "eb8fe20f-2bf7-46b4-a707-ed06bac80d82_e80892b93677fbe44f80cf3b5d32ba3e",
+      "question_type": "clozedropdown",
+      "dt_score_updated": "2022-09-08T14:20:44Z",
+      "automarkable": true,
+      "attempted": true,
+      "score": 1,
+      "max_score": 1,
+      "question_reference": "ecc95071-464c-42b7-9506-8306477bfbfe",
+      "item_reference": "5b523924-e2d6-4840-a89e-8ea9c07a6015",
+      "response": {
+        "value": [
+          "Assess different viewpoints on the effectiveness of domestic wind turbines."
+        ],
+        "type": "array",
+        "apiVersion": "v2.168.23",
+        "revision": 1,
+        "feedbackAttemptsCount": 1
+      },
+      "questionInfo": {
+        "type": "clozedropdown",
+        "widget_type": "response",
+        "reference": "ecc95071-464c-42b7-9506-8306477bfbfe",
+        "data": {
+          "possible_responses": [
+            [
+              "Discuss solutions to the problem of wind turbine noise.",
+              "Describe the process of wind power generation.",
+              "Assess different viewpoints on the effectiveness of domestic wind turbines.",
+              "Outline arguments for and against wind energy."
+            ]
+          ],
+          "response_container": {
+            "pointer": "left"
+          },
+          "template": "<div class=\"lrn-well\"><span style=\"font-size:1.3em;\"><strong>TOPIC:&nbsp;</strong></span><span style=\"font-size:1.3em;\">{{response}}</span></div>\n\n<table class=\"table table-condensed table-no-border lrn_width_auto\">\n\t<tbody>\n\t\t<tr>\n\t\t\t<td>\n\t\t\t<h5 style=\"margin-left: 40px;\"><strong>PLAN:</strong></h5>\n\t\t\t</td>\n\t\t\t<td>\n\t\t\t<ul id=\"yui_3_17_2_1_1643215616914_132\">\n\t\t\t\t<li><span style=\"font-size:1.1em;\">Introduction</span></li>\n\t\t\t\t<li><span style=\"font-size:1.1em;\">Turbine manufacturers</span></li>\n\t\t\t\t<li><span style=\"font-size:1.1em;\">Government</span></li>\n\t\t\t\t<li><span style=\"font-size:1.1em;\">Environmental groups</span></li>\n\t\t\t\t<li><span style=\"font-size:1.1em;\">Turbine users</span></li>\n\t\t\t\t<li><span style=\"font-size:1.1em;\">Technology experts</span></li>\n\t\t\t\t<li><span style=\"font-size:1.1em;\">Conclusion</span></li>\n\t\t\t</ul>\n\t\t\t</td>\n\t\t</tr>\n\t</tbody>\n</table>\n",
+          "type": "clozedropdown",
+          "case_sensitive": true,
+          "validation": {
+            "scoring_type": "exactMatch",
+            "valid_response": {
+              "score": 1,
+              "value": [
+                "Assess different viewpoints on the effectiveness of domestic wind turbines."
+              ]
+            }
+          },
+          "instant_feedback": true,
+          "shuffle_options": true
+        },
+        "metadata": {
+          "name": "Cloze with drop down",
+          "template_reference": "2fbba51b-e35e-441f-83c7-2662e2e81fa6"
+        }
+      },
+      "feedbackInfo": [
+        null,
+        null
+      ]
+    },
+    {
+      "response_id": "eb8fe20f-2bf7-46b4-a707-ed06bac80d82_e268c1bb88318fc2b9c28f18ab766d5d",
+      "question_type": "clozedropdown",
+      "dt_score_updated": "2022-09-08T14:20:44Z",
+      "automarkable": true,
+      "attempted": true,
+      "score": 1,
+      "max_score": 1,
+      "question_reference": "e6dd6650-0977-4502-afc1-0b9db1ae1ae7",
+      "item_reference": "5b523924-e2d6-4840-a89e-8ea9c07a6015",
+      "response": {
+        "value": [
+          "Discuss solutions to the problem of wind turbine noise."
+        ],
+        "type": "array",
+        "apiVersion": "v2.168.23",
+        "revision": 1,
+        "feedbackAttemptsCount": 1
+      },
+      "questionInfo": {
+        "type": "clozedropdown",
+        "widget_type": "response",
+        "reference": "e6dd6650-0977-4502-afc1-0b9db1ae1ae7",
+        "data": {
+          "possible_responses": [
+            [
+              "Discuss solutions to the problem of wind turbine noise.",
+              "Describe the process of wind power generation.",
+              "Assess different viewpoints on the effectiveness of domestic wind turbines.",
+              "Outline arguments for and against wind energy."
+            ]
+          ],
+          "response_container": {
+            "pointer": "left"
+          },
+          "template": "<div class=\"lrn-well\"><span style=\"font-size:1.3em;\"><strong>TOPIC:&nbsp;</strong></span><span style=\"font-size:1.3em;\">{{response}}</span></div>\n\n<table class=\"table table-condensed table-no-border lrn_width_auto\">\n\t<tbody>\n\t\t<tr>\n\t\t\t<td>\n\t\t\t<h5 style=\"margin-left: 40px;\"><strong>PLAN:</strong></h5>\n\t\t\t</td>\n\t\t\t<td>\n\t\t\t<ul id=\"yui_3_17_2_1_1643215616914_132\">\n\t\t\t\t<li><span style=\"font-size:1.1em;\"></span><span style=\"font-size:1.1em;\">Introduction</span></li>\n\t\t\t\t<li><span style=\"font-size:1.1em;\">Define wind turbine</span></li>\n\t\t\t\t<li><span style=\"font-size:1.1em;\">Overview the problem</span></li>\n\t\t\t\t<li><span style=\"font-size:1.1em;\">Sources of problem</span></li>\n\t\t\t\t<li><span style=\"font-size:1.1em;\">Complaints about the problem</span></li>\n\t\t\t\t<li><span style=\"font-size:1.1em;\">Solution 1: turbine placement</span></li>\n\t\t\t\t<li><span style=\"font-size:1.1em;\">Solution 2: design improvement</span></li>\n\t\t\t\t<li><span style=\"font-size:1.1em;\">Solution 3: technological improvement</span></li>\n\t\t\t\t<li><span style=\"font-size:1.1em;\">Conclusion</span><span style=\"font-size:1.1em;\"></span></li>\n\t\t\t</ul>\n\t\t\t</td>\n\t\t</tr>\n\t</tbody>\n</table>\n",
+          "type": "clozedropdown",
+          "case_sensitive": true,
+          "validation": {
+            "scoring_type": "exactMatch",
+            "valid_response": {
+              "score": 1,
+              "value": [
+                "Discuss solutions to the problem of wind turbine noise."
+              ]
+            }
+          },
+          "instant_feedback": true,
+          "shuffle_options": true
+        },
+        "metadata": {
+          "name": "Cloze with drop down",
+          "template_reference": "2fbba51b-e35e-441f-83c7-2662e2e81fa6"
+        }
+      },
+      "feedbackInfo": [
+        null,
+        null
+      ]
+    },
+    {
+      "response_id": "eb8fe20f-2bf7-46b4-a707-ed06bac80d82_833176e9bfe24fdeda04d433439a0915",
+      "question_type": "mcq",
+      "dt_score_updated": "2022-09-08T14:20:44Z",
+      "automarkable": true,
+      "attempted": true,
+      "score": 1,
+      "max_score": 1,
+      "question_reference": "45ce1702-d612-4db5-ab44-c42424b01209",
+      "item_reference": "8992f9d2-de72-4580-aa3f-19f5f0a98796",
+      "response": {
+        "value": [
+          "3"
+        ],
+        "type": "array",
+        "apiVersion": "v2.168.23",
+        "revision": 1,
+        "feedbackAttemptsCount": 4
+      },
+      "questionInfo": {
+        "type": "mcq",
+        "widget_type": "response",
+        "reference": "45ce1702-d612-4db5-ab44-c42424b01209",
+        "data": {
+          "options": [
+            {
+              "label": "<span style=\"font-size:1.1em;\">Presentation Brief 1:&nbsp;Discuss&nbsp;<strong>solutions to the problem of&nbsp;wind turbine noise</strong>.</span>",
+              "value": "0"
+            },
+            {
+              "label": "<span style=\"font-size:1.1em;\">Presentation Brief 2:&nbsp;Describe&nbsp;<strong>the process of&nbsp;wind power generation</strong>.</span>",
+              "value": "1"
+            },
+            {
+              "label": "<span style=\"font-size:1.1em;\">Presentation Brief 3:&nbsp;Assess&nbsp;<strong>different viewpoints on the&nbsp;effectiveness of domestic wind turbines</strong>.</span>",
+              "value": "2"
+            },
+            {
+              "label": "<span style=\"font-size:1.1em;\">Presentation Brief 4:&nbsp;Outline&nbsp;<strong>arguments for and against&nbsp;wind energy</strong>.</span>",
+              "value": "3"
+            }
+          ],
+          "stimulus": "<table class=\"table table-condensed table-no-border lrn_width_auto\">\n\t<tbody>\n\t\t<tr>\n\t\t\t<td><strong><span style=\"font-size:2em;\"></span></strong><img class=\"lrn-image-non-responsive\" height=\"121\" src=\"https://assets.learnosity.com/organisations/755/d5696a51-deb4-4a49-a483-27391f9a4e06.jpg\" width=\"120\"><strong><span style=\"font-size:2em;\"></span></strong></td>\n\t\t\t<td>\n\t\t\t<p><strong><span style=\"font-size:2em;\">Get Ready to Listen</span></strong></p>\n\n\t\t\t<h4><span style=\"color:#0000ff;\"><strong>Listen to a student giving one of the presentations.&nbsp;</strong></span></h4>\n\n\t\t\t<h4><strong><span style=\"color:#0000ff;\">► </span>Which presentation brief is it?</strong></h4>\n\t\t\t</td>\n\t\t</tr>\n\t</tbody>\n</table>\n\n<p>&nbsp;</p>\n\n<p><span class=\"learnosity-feature\" data-player=\"button\" data-simplefeature_id=\"4031e621-3d83-4a84-9dbf-90735eb7d950\" data-src=\"https://assets.learnosity.com/organisations/755/343c634e-3ac4-4a45-804b-27d31a0f6076.mp3\" data-type=\"audioplayer\"></span></p>\n",
+          "type": "mcq",
+          "ui_style": {
+            "choice_label": "upper-alpha",
+            "type": "block"
+          },
+          "validation": {
+            "scoring_type": "exactMatch",
+            "valid_response": {
+              "score": 1,
+              "value": [
+                "3"
+              ]
+            }
+          },
+          "instant_feedback": true
+        },
+        "metadata": {
+          "name": "Multiple choice – block layout",
+          "template_reference": "33d53a22-1a59-4a03-9671-7f5104edd62e"
+        }
+      },
+      "feedbackInfo": [
+        null,
+        null
+      ]
+    },
+    {
+      "response_id": "eb8fe20f-2bf7-46b4-a707-ed06bac80d82_68513b15ed8f786325e738129c6e1be5",
+      "question_type": "association",
+      "dt_score_updated": "2022-09-08T14:20:44Z",
+      "automarkable": true,
+      "attempted": true,
+      "score": 6,
+      "max_score": 6,
+      "question_reference": "69592603-a663-4396-aa77-5c8bb9f4d581",
+      "item_reference": "8992f9d2-de72-4580-aa3f-19f5f0a98796",
+      "response": {
+        "value": [
+          "wind energy is clean",
+          "there is no waste produce",
+          "the energy can be safely stored",
+          "the technology behind turbines is cheap",
+          "it's cheaper than other energy sources",
+          "wind energy is renewable"
+        ],
+        "type": "array",
+        "updatedFormat": true,
+        "apiVersion": "v2.168.23",
+        "revision": 1,
+        "feedbackAttemptsCount": 10
+      },
+      "questionInfo": {
+        "type": "association",
+        "widget_type": "response",
+        "reference": "69592603-a663-4396-aa77-5c8bb9f4d581",
+        "data": {
+          "possible_responses": [
+            "the energy can be safely stored",
+            "it's cheaper than other energy sources",
+            "there is no waste produce",
+            "the technology behind turbines is cheap",
+            "wind energy is renewable",
+            "wind energy is clean",
+            "wind energy is more reliable than solar"
+          ],
+          "stimulus": "<h2>&nbsp;</h2>\n\n<p><span style=\"font-size:2em;\"><b>Listen again and put the <span style=\"color:#b22222;\">Main Points</span> of the presentation in the order they are presented.</b></span></p>\n\n<p>&nbsp;</p>\n\n\n<img class=\"lrn-image-non-responsive\" height=\"197\" src=\"https://assets.learnosity.com/organisations/755/3ff4ebff-3745-4a26-a791-648f8d90533a.jpg\" width=\"351\">\n<p>&nbsp;</p>\n\n<p><span style=\"color:#ff0000;\"></span><span style=\"color:#000000;\"><strong>► </strong></span><span style=\"color:#ff0000;\"><strong>NOTE: there are some extra options that you don't need</strong></span></p>",
+          "stimulus_list": [
+            "<span style=\"color:#008000;\"><strong><span style=\"font-size:1.3em;\">Main Advantage 1</span></strong></span>",
+            "<span style=\"color:#008000;\"><strong><span style=\"font-size:1.3em;\">Main Advantage 2</span></strong></span>",
+            "<span style=\"color:#008000;\"><strong><span style=\"font-size:1.3em;\">Main Advantage 3</span></strong></span>",
+            "<span style=\"color:#008000;\"><strong><span style=\"font-size:1.3em;\">Main Advantage 4</span></strong></span>",
+            "<span style=\"color:#008000;\"><strong><span style=\"font-size:1.3em;\">Main Advantage 5</span></strong></span>",
+            "<span style=\"color:#008000;\"><strong><span style=\"font-size:1.3em;\">Main Advantage 6</span></strong></span>"
+          ],
+          "type": "association",
+          "validation": {
+            "scoring_type": "partialMatchV2",
+            "valid_response": {
+              "score": 6,
+              "value": [
+                "wind energy is clean",
+                "there is no waste produce",
+                "the energy can be safely stored",
+                "the technology behind turbines is cheap",
+                "it's cheaper than other energy sources",
+                "wind energy is renewable"
+              ]
+            }
+          },
+          "instant_feedback": true
+        },
+        "metadata": {
+          "name": "Match list",
+          "template_reference": "1fa22aac-1f88-47f7-941b-3c77759549e6"
+        }
+      },
+      "feedbackInfo": [
+        null,
+        null
+      ]
+    },
+    {
+      "response_id": "eb8fe20f-2bf7-46b4-a707-ed06bac80d82_1ef06ace1e51ab6ead8541864a92cae5",
+      "question_type": "association",
+      "dt_score_updated": "2022-09-08T14:20:44Z",
+      "automarkable": true,
+      "attempted": true,
+      "score": 3,
+      "max_score": 3,
+      "question_reference": "c99e9383-121c-43ef-a628-d838a520eec3",
+      "item_reference": "8992f9d2-de72-4580-aa3f-19f5f0a98796",
+      "response": {
+        "value": [
+          "damages the countryside",
+          "wind energy is intermittent",
+          "benefits of wind energy are not proven on the long term"
+        ],
+        "type": "array",
+        "updatedFormat": true,
+        "apiVersion": "v2.168.23",
+        "revision": 1,
+        "feedbackAttemptsCount": 4
+      },
+      "questionInfo": {
+        "type": "association",
+        "widget_type": "response",
+        "reference": "c99e9383-121c-43ef-a628-d838a520eec3",
+        "data": {
+          "possible_responses": [
+            "wind energy is intermittent",
+            "wind energy should not be our only source",
+            "damages the countryside",
+            "benefits of wind energy are not proven on the long term"
+          ],
+          "stimulus_list": [
+            "<span style=\"color:#b22222;\"><strong><span style=\"font-size:1.3em;\">Main Disadvantage&nbsp;</span></strong></span>",
+            "<span style=\"color:#b22222;\"><strong><span style=\"font-size:1.3em;\">Main Disadvantage&nbsp;</span></strong></span>",
+            "<span style=\"color:#b22222;\"><strong><span style=\"font-size:1.3em;\">Main Disadvantage&nbsp;</span></strong></span>"
+          ],
+          "type": "association",
+          "validation": {
+            "scoring_type": "partialMatchV2",
+            "valid_response": {
+              "score": 3,
+              "value": [
+                "damages the countryside",
+                "wind energy is intermittent",
+                "benefits of wind energy are not proven on the long term"
+              ]
+            }
+          },
+          "instant_feedback": true
+        },
+        "metadata": {
+          "name": "Match list",
+          "template_reference": "1fa22aac-1f88-47f7-941b-3c77759549e6"
+        }
+      },
+      "feedbackInfo": [
+        null,
+        null
+      ]
+    },
+    {
+      "response_id": "eb8fe20f-2bf7-46b4-a707-ed06bac80d82_d27c23ef37c31c3fb7226ab87ceb5d97",
+      "question_type": "association",
+      "dt_score_updated": "2022-09-08T14:20:44Z",
+      "automarkable": true,
+      "attempted": true,
+      "score": 1,
+      "max_score": 1,
+      "question_reference": "494c2ede-aa56-4376-8083-efd2fd706c40",
+      "item_reference": "8992f9d2-de72-4580-aa3f-19f5f0a98796",
+      "response": {
+        "value": [
+          "wind energy should not be our only source"
+        ],
+        "type": "array",
+        "updatedFormat": true,
+        "apiVersion": "v2.168.23",
+        "revision": 1,
+        "feedbackAttemptsCount": 1
+      },
+      "questionInfo": {
+        "type": "association",
+        "widget_type": "response",
+        "reference": "494c2ede-aa56-4376-8083-efd2fd706c40",
+        "data": {
+          "possible_responses": [
+            "wind energy should not be our only source",
+            "wind energy has more advantages than disadvantages"
+          ],
+          "stimulus_list": [
+            "<span style=\"color:#0000cd;\"><strong><span style=\"font-size:1.3em;\">Conclusion</span></strong></span>"
+          ],
+          "type": "association",
+          "validation": {
+            "scoring_type": "partialMatchV2",
+            "valid_response": {
+              "score": 1,
+              "value": [
+                "wind energy should not be our only source"
+              ]
+            }
+          },
+          "instant_feedback": true
+        },
+        "metadata": {
+          "name": "Match list",
+          "template_reference": "1fa22aac-1f88-47f7-941b-3c77759549e6"
+        }
+      },
+      "feedbackInfo": [
+        null,
+        null
+      ]
+    },
+    {
+      "response_id": "eb8fe20f-2bf7-46b4-a707-ed06bac80d82_3759408ec114c51edcba213ed801e8fb",
+      "question_type": "tokenhighlight",
+      "dt_score_updated": "2022-09-08T14:21:09Z",
+      "automarkable": true,
+      "attempted": true,
+      "score": 7,
+      "max_score": 7,
+      "question_reference": "9333b29d-0ecf-440b-a0c5-6de8b0b9e812",
+      "item_reference": "fb2d7063-ecb6-4045-886b-70f1b0bcc45c",
+      "response": {
+        "value": [
+          0,
+          3,
+          4,
+          5,
+          8,
+          11,
+          12
+        ],
+        "type": "array",
+        "apiVersion": "v2.168.23",
+        "revision": 1,
+        "feedbackAttemptsCount": 9
+      },
+      "questionInfo": {
+        "type": "tokenhighlight",
+        "widget_type": "response",
+        "reference": "9333b29d-0ecf-440b-a0c5-6de8b0b9e812",
+        "data": {
+          "stimulus": "<table class=\"table table-no-border lrn_width_auto\">\n\t<tbody>\n\t\t<tr>\n\t\t\t<td>\n\t\t\t\n\t\t\t<img class=\"lrn-image-non-responsive\" height=\"242\" src=\"https://assets.learnosity.com/organisations/755/1aa81f72-9cdf-46c2-9148-943458bd639c.jpg\" width=\"220\"></td>\n\t\t\t<td>\n\t\t\t<p><span style=\"font-size:1.5em;\"><strong>You are going to listen to a presentation about...</strong></span></p>\n\n\t\t\t<p><span style=\"color:#008000;\"></span><span style=\"font-size:2em;\"><span style=\"color:#000000;\"><b>►&nbsp;</b></span><span style=\"color:#008000;\"><b>Reducing&nbsp;the impact of&nbsp;household waste&nbsp;on the environment.</b></span></span></p>\n\n\t\t\t<h4 id=\"yui_3_17_2_1_1643282313991_148\">&nbsp;</h4>\n\t\t\t</td>\n\t\t</tr>\n\t</tbody>\n</table>\n\n<p>&nbsp;</p>\n\n<p><span style=\"font-size:2em;\"><b>Before you listen, <span style=\"color:#008000;\">predict </span>some vocabulary you might hear.&nbsp;</b></span></p>\n\n<p><span style=\"color:#000000;\"></span><span style=\"font-size:1.5em;\"><span style=\"color:#008000;\"><b>►&nbsp;</b></span><span style=\"color:#000000;\"><b>Choose&nbsp;<u>SEVEN</u>&nbsp;from the list below (click on the words to select).</b></span></span></p>\n\n<p>&nbsp;</p>\n\n<p><span style=\"color:#ff0000;\"><strong>(Look up these words in your dictionary if you need to)</strong></span></p>",
+          "template": "<p style=\"margin-left: 40px;\"><span style=\"font-size:1.3em;\"><span class=\"lrn_token\">landfill</span> /&nbsp;<span class=\"lrn_token\">solar</span> <span class=\"lrn_token\">power</span> &nbsp;/&nbsp;<span class=\"lrn_token\">consumerism</span> /&nbsp;<span class=\"lrn_token\">biodegradable</span> &nbsp;/&nbsp;<span class=\"lrn_token\">rubbish</span> /&nbsp;<span class=\"lrn_token\">industrial</span> <span class=\"lrn_token\">waste</span> &nbsp;/&nbsp;<span class=\"lrn_token\">recycled</span> /&nbsp;<span class=\"lrn_token\">fossil</span> <span class=\"lrn_token\">fuel</span> /&nbsp;<span class=\"lrn_token\">decompose</span> /&nbsp;<span class=\"lrn_token\">throw_away</span></span></p>\n",
+          "tokenization": "custom",
+          "type": "tokenhighlight",
+          "validation": {
+            "scoring_type": "partialMatchV2",
+            "valid_response": {
+              "score": 7,
+              "value": [
+                0,
+                3,
+                4,
+                5,
+                8,
+                11,
+                12
+              ]
+            }
+          },
+          "instant_feedback": true
+        },
+        "metadata": {
+          "name": "Token highlight",
+          "template_reference": "47f0db98-79e8-4273-946f-90faf4a2ae49"
+        }
+      },
+      "feedbackInfo": [
+        null,
+        null
+      ]
+    },
+    {
+      "response_id": "eb8fe20f-2bf7-46b4-a707-ed06bac80d82_83d897d61f8f204ffb25e84442d50781",
+      "question_type": "mcq",
+      "dt_score_updated": "2022-09-08T14:23:53Z",
+      "automarkable": true,
+      "attempted": true,
+      "score": 1,
+      "max_score": 1,
+      "question_reference": "2c28f809-6080-4690-aab8-ba827aca8be9",
+      "item_reference": "fb2d7063-ecb6-4045-886b-70f1b0bcc45c",
+      "response": {
+        "value": [
+          "0"
+        ],
+        "type": "array",
+        "apiVersion": "v2.168.23",
+        "revision": 1,
+        "feedbackAttemptsCount": 1
+      },
+      "questionInfo": {
+        "type": "mcq",
+        "widget_type": "response",
+        "reference": "2c28f809-6080-4690-aab8-ba827aca8be9",
+        "data": {
+          "options": [
+            {
+              "label": "<span style=\"font-size:1.3em;\">Section by section</span>",
+              "value": "0"
+            },
+            {
+              "label": "<span style=\"font-size:1.3em;\">Parallel&nbsp;</span>",
+              "value": "1"
+            }
+          ],
+          "stimulus": "<h2>&nbsp;</h2>\n\n<p><span style=\"font-size:2em;\"><b id=\"yui_3_17_2_1_1643283941120_4962\">In today's live lesson, your tutor talked about&nbsp;</b><u><span style=\"color:#800080;\"><strong>two ways of organising content</strong></span></u><b>:</b></span></p>\n\n<p>&nbsp;</p>\n\n\n<img height=\"419\" src=\"https://assets.learnosity.com/organisations/755/6c7ab0d9-f150-431c-be30-c1c16c9225e3.jpg\" width=\"750\">\n<p>&nbsp;</p>\n\n<p id=\"yui_3_17_2_1_1643283941120_5118\"><span style=\"font-size:2em;\"><b id=\"yui_3_17_2_1_1643283941120_5119\">Listen to the presentation about <span style=\"color:#800080;\">Household Waste</span>.&nbsp;</b></span></p>\n\n<h4><span class=\"learnosity-feature\" data-player=\"button\" data-simplefeature_id=\"92766175-9e50-44d2-8272-b4814b6611e9\" data-src=\"https://assets.learnosity.com/organisations/755/194a1a05-ec4d-4e6a-81b9-4b73faff6578.mp3\" data-type=\"audioplayer\"></span></h4>\n\n<p id=\"yui_3_17_2_1_1643283941120_5099\"><span style=\"font-size:1.5em;\"><b><span style=\"color:#800080;\">► </span>How does the presenter organise the content?&nbsp;</b></span></p>",
+          "type": "mcq",
+          "ui_style": {
+            "choice_label": "upper-alpha",
+            "type": "block"
+          },
+          "validation": {
+            "scoring_type": "exactMatch",
+            "valid_response": {
+              "score": 1,
+              "value": [
+                "0"
+              ]
+            }
+          },
+          "instant_feedback": true
+        },
+        "metadata": {
+          "name": "Multiple choice – block layout",
+          "template_reference": "33d53a22-1a59-4a03-9671-7f5104edd62e"
+        }
+      },
+      "feedbackInfo": [
+        null,
+        null
+      ]
+    },
+    {
+      "response_id": "eb8fe20f-2bf7-46b4-a707-ed06bac80d82_39f75699c8ab84969267be57d89f7c92",
+      "question_type": "association",
+      "dt_score_updated": "2022-09-08T14:23:53Z",
+      "automarkable": true,
+      "attempted": true,
+      "score": 3,
+      "max_score": 3,
+      "question_reference": "1aa837c3-1bb4-4a12-8286-101e8f78a027",
+      "item_reference": "fb2d7063-ecb6-4045-886b-70f1b0bcc45c",
+      "response": {
+        "value": [
+          "we are throwing away more and there is less space to put it",
+          "landfill sites are coming closer to urban areas",
+          "we throw away a lot of non‐biodegradable waste"
+        ],
+        "type": "array",
+        "updatedFormat": true,
+        "apiVersion": "v2.168.23",
+        "revision": 1,
+        "feedbackAttemptsCount": 4
+      },
+      "questionInfo": {
+        "type": "association",
+        "widget_type": "response",
+        "reference": "1aa837c3-1bb4-4a12-8286-101e8f78a027",
+        "data": {
+          "possible_responses": [
+            "waste products are getting more and more toxic",
+            "landfill sites are coming closer to urban areas",
+            "we throw away a lot of non‐biodegradable waste",
+            "we are throwing away more and there is less space to put it"
+          ],
+          "stimulus": "<h2>&nbsp;</h2>\n\n<p><span style=\"font-size:2em;\"><b>Listen again and put the <span style=\"color:#b22222;\">Main Points</span> of the presentation in the order they are presented.</b></span></p>\n\n<p><img class=\"lrn-image-non-responsive\" height=\"197\" src=\"https://assets.learnosity.com/organisations/755/3ff4ebff-3745-4a26-a791-648f8d90533a.jpg\" width=\"351\"></p>\n\n<p>&nbsp;</p>\n\n<p><span style=\"color:#ff0000;\"></span><span style=\"color:#000000;\"><strong>► </strong></span><span style=\"color:#ff0000;\"><strong>NOTE: there are some extra options that you don't need</strong></span></p>\n",
+          "stimulus_list": [
+            "<span style=\"color:#b22222;\"><strong><span style=\"font-size:1.3em;\">Problem 1</span></strong></span>",
+            "<span style=\"color:#008000;\"><strong><span style=\"font-size:1.3em;\"></span></strong><span style=\"color:#008000;\"><strong><span style=\"font-size:1.3em;\"></span></strong><span style=\"color:#b22222;\"><strong><span style=\"font-size:1.3em;\">Problem 2</span></strong></span><strong><span style=\"font-size:1.3em;\"></span></strong></span><strong><span style=\"font-size:1.3em;\"></span></strong></span>",
+            "<span style=\"color:#008000;\"><strong><span style=\"font-size:1.3em;\"></span></strong><span style=\"color:#008000;\"><strong><span style=\"font-size:1.3em;\"></span></strong><span style=\"color:#b22222;\"><strong><span style=\"font-size:1.3em;\">Problem 3</span></strong></span><strong><span style=\"font-size:1.3em;\"></span></strong></span><strong><span style=\"font-size:1.3em;\"></span></strong></span>"
+          ],
+          "type": "association",
+          "validation": {
+            "scoring_type": "partialMatchV2",
+            "valid_response": {
+              "score": 3,
+              "value": [
+                "we are throwing away more and there is less space to put it",
+                "landfill sites are coming closer to urban areas",
+                "we throw away a lot of non‐biodegradable waste"
+              ]
+            }
+          },
+          "instant_feedback": true
+        },
+        "metadata": {
+          "name": "Match list",
+          "template_reference": "1fa22aac-1f88-47f7-941b-3c77759549e6"
+        }
+      },
+      "feedbackInfo": [
+        null,
+        null
+      ]
+    },
+    {
+      "response_id": "eb8fe20f-2bf7-46b4-a707-ed06bac80d82_7acd4303ecc46e527a6f1ad1ee233e96",
+      "question_type": "association",
+      "dt_score_updated": "2022-09-08T14:23:53Z",
+      "automarkable": true,
+      "attempted": true,
+      "score": 4,
+      "max_score": 4,
+      "question_reference": "eed6cc93-6425-431a-b0ce-571a9ecc4c9d",
+      "item_reference": "fb2d7063-ecb6-4045-886b-70f1b0bcc45c",
+      "response": {
+        "value": [
+          "divide their waste into categories",
+          "reduce non‐biodegradable waste",
+          "use waste as a source of energy",
+          "increase the number of collection and processing facilities"
+        ],
+        "type": "array",
+        "updatedFormat": true,
+        "apiVersion": "v2.168.23",
+        "revision": 1,
+        "feedbackAttemptsCount": 7
+      },
+      "questionInfo": {
+        "type": "association",
+        "widget_type": "response",
+        "reference": "eed6cc93-6425-431a-b0ce-571a9ecc4c9d",
+        "data": {
+          "possible_responses": [
+            "use waste as a source of energy",
+            "use waste to create new products",
+            "reduce non‐biodegradable waste",
+            "increase the number of collection and processing facilities",
+            "divide their waste into categories"
+          ],
+          "stimulus_list": [
+            "<span style=\"color:#008000;\"><strong><span style=\"font-size:1.3em;\">Solution 1</span></strong></span>",
+            "<span style=\"color:#008000;\"><strong><span style=\"font-size:1.3em;\"></span></strong><span style=\"color:#008000;\"><strong><span style=\"font-size:1.3em;\">Solution 2</span></strong></span><strong><span style=\"font-size:1.3em;\"></span></strong></span>",
+            "<span style=\"color:#008000;\"><strong><span style=\"font-size:1.3em;\"></span></strong><span style=\"color:#008000;\"><strong><span style=\"font-size:1.3em;\">Solution 3</span></strong></span><strong><span style=\"font-size:1.3em;\"></span></strong></span>",
+            "<span style=\"color:#008000;\"><strong><span style=\"font-size:1.3em;\"></span></strong><span style=\"color:#008000;\"><strong><span style=\"font-size:1.3em;\">Solution 4</span></strong></span><strong><span style=\"font-size:1.3em;\"></span></strong></span>"
+          ],
+          "type": "association",
+          "validation": {
+            "scoring_type": "partialMatchV2",
+            "valid_response": {
+              "score": 4,
+              "value": [
+                "divide their waste into categories",
+                "reduce non‐biodegradable waste",
+                "use waste as a source of energy",
+                "increase the number of collection and processing facilities"
+              ]
+            }
+          },
+          "instant_feedback": true
+        },
+        "metadata": {
+          "name": "Match list",
+          "template_reference": "1fa22aac-1f88-47f7-941b-3c77759549e6"
+        }
+      },
+      "feedbackInfo": [
+        null,
+        null
+      ]
+    },
+    {
+      "response_id": "eb8fe20f-2bf7-46b4-a707-ed06bac80d82_58ed31a90f701ff29e9eeb60d8c1175a",
+      "question_type": "association",
+      "dt_score_updated": "2022-09-08T14:23:53Z",
+      "automarkable": true,
+      "attempted": true,
+      "score": 4,
+      "max_score": 4,
+      "question_reference": "12fc946c-8915-41b9-8ae1-105664eca8db",
+      "item_reference": "fb2d7063-ecb6-4045-886b-70f1b0bcc45c",
+      "response": {
+        "value": [
+          "the solutions suggested should be used together"
+        ],
+        "type": "array",
+        "updatedFormat": true,
+        "apiVersion": "v2.168.23",
+        "revision": 1,
+        "feedbackAttemptsCount": 1
+      },
+      "questionInfo": {
+        "type": "association",
+        "widget_type": "response",
+        "reference": "12fc946c-8915-41b9-8ae1-105664eca8db",
+        "data": {
+          "possible_responses": [
+            "the solutions suggested should be used together",
+            "the key solution is to invest in recycling"
+          ],
+          "stimulus_list": [
+            "<span style=\"color:#0000ff;\"><strong><span style=\"font-size:1.3em;\">Conclusion</span></strong></span>"
+          ],
+          "type": "association",
+          "validation": {
+            "scoring_type": "partialMatchV2",
+            "valid_response": {
+              "score": 4,
+              "value": [
+                "the solutions suggested should be used together"
+              ]
+            }
+          },
+          "instant_feedback": true,
+          "shuffle_options": true
+        },
+        "metadata": {
+          "name": "Match list",
+          "template_reference": "1fa22aac-1f88-47f7-941b-3c77759549e6"
+        }
+      },
+      "feedbackInfo": [
+        null,
+        null
+      ]
+    }
+  ]
+}

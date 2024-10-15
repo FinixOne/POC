@@ -1,0 +1,50 @@
+{
+  "userId": "86171d70-9e81-4c76-8b5d-5918cbff0b30",
+  "firstName": "Renny David",
+  "lastName": "Kokkan",
+  "assigmentId": "dd19a3f1-e72e-41d7-ba57-d9464f33ff49",
+  "assigmentName": "Final Quiz",
+  "sessionId": "1e5005eb-2956-4063-bb21-79bb47e4265e",
+  "email": "kokkanr@coventry.ac.uk",
+  "spaceId": "4fb344e0-2505-4dbc-9179-c896b74e9fe2",
+  "spaceName": "7000MHR - Leadership in Project Management - 2223JANAPR",
+  "score": 0,
+  "max_score": 0,
+  "questions": [
+    {
+      "response_id": "1e5005eb-2956-4063-bb21-79bb47e4265e_d74b3a6030c83fcf5ee153076270cc28",
+      "question_type": "longtextV2",
+      "dt_score_updated": "2023-03-27T09:16:20Z",
+      "automarkable": false,
+      "attempted": true,
+      "score": null,
+      "max_score": null,
+      "question_reference": "19cfb112-ed0c-48f3-9354-ee3d148b109b",
+      "item_reference": "48b87caa-f852-4992-b089-cc00d5b5a683",
+      "response": {
+        "value": "<p>Change management model is a model wherein you need to interconnect with each other to get things done. It allows you to plan and implement change. It depends on three things: 1 Solidify the change 2.Preparing the change and 3 Implementing the change </p>",
+        "wordCount": 43,
+        "type": "string",
+        "apiVersion": "v2.168.23",
+        "revision": 17
+      },
+      "questionInfo": {
+        "type": "longtextV2",
+        "widget_type": "response",
+        "reference": "19cfb112-ed0c-48f3-9354-ee3d148b109b",
+        "data": {
+          "stimulus": "Can you reflect on any change management model",
+          "type": "longtextV2"
+        },
+        "metadata": {
+          "name": "Essay with rich text",
+          "template_reference": "1e6039f8-0676-495d-aca9-108710a51ce5"
+        }
+      },
+      "feedbackInfo": [
+        null,
+        null
+      ]
+    }
+  ]
+}

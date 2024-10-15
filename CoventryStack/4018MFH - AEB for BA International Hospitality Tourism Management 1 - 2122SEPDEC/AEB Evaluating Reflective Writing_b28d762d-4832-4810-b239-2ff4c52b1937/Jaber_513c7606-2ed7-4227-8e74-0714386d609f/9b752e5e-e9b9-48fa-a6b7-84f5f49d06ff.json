@@ -1,0 +1,236 @@
+{
+  "userId": "513c7606-2ed7-4227-8e74-0714386d609f",
+  "firstName": "Jaber",
+  "lastName": "Hussain",
+  "assigmentId": "b28d762d-4832-4810-b239-2ff4c52b1937",
+  "assigmentName": "AEB Evaluating Reflective Writing",
+  "sessionId": "9b752e5e-e9b9-48fa-a6b7-84f5f49d06ff",
+  "email": "hussainj7@coventry.ac.uk",
+  "spaceId": "9a507ffb-6559-4833-af28-f40266c8e380",
+  "spaceName": "4018MFH - AEB for BA International Hospitality Tourism Management 1 - 2122SEPDEC",
+  "score": 3,
+  "max_score": 3,
+  "questions": [
+    {
+      "response_id": "9b752e5e-e9b9-48fa-a6b7-84f5f49d06ff_3c77f10ffedfda90885f70118d7331a7",
+      "question_type": "association",
+      "dt_score_updated": "2021-12-25T12:51:33Z",
+      "automarkable": true,
+      "attempted": true,
+      "score": 1,
+      "max_score": 1,
+      "question_reference": "24100e77-42a7-4863-8761-c83803f8fdbd",
+      "item_reference": "acc4acad-b853-4b7f-b41d-79ce402f2f0a",
+      "response": {
+        "value": [
+          "What happened?",
+          "Why did it happen?",
+          "What would I do differently in future?"
+        ],
+        "type": "array",
+        "updatedFormat": true,
+        "apiVersion": "v2.168.14",
+        "revision": 3
+      },
+      "questionInfo": {
+        "type": "association",
+        "widget_type": "response",
+        "reference": "24100e77-42a7-4863-8761-c83803f8fdbd",
+        "data": {
+          "possible_responses": [
+            "Why did it happen?",
+            "What happened?",
+            "What would I do differently in future?"
+          ],
+          "stimulus": "<p><strong>Structuring Reflective Writing</strong></p>\n\n<p>Drag the questions into the appropriate sections.</p>\n",
+          "stimulus_list": [
+            "Description",
+            "Analysis",
+            "Outcome"
+          ],
+          "type": "association",
+          "validation": {
+            "scoring_type": "partialMatchV2",
+            "valid_response": {
+              "score": 1,
+              "value": [
+                "What happened?",
+                "Why did it happen?",
+                "What would I do differently in future?"
+              ]
+            }
+          },
+          "instant_feedback": true
+        },
+        "metadata": {
+          "name": "Match list",
+          "template_reference": "1fa22aac-1f88-47f7-941b-3c77759549e6"
+        }
+      },
+      "feedbackInfo": [
+        null,
+        null
+      ]
+    },
+    {
+      "response_id": "9b752e5e-e9b9-48fa-a6b7-84f5f49d06ff_ffc197671880d4ebd4f466789e2efd88",
+      "question_type": "association",
+      "dt_score_updated": "2021-12-25T12:55:16Z",
+      "automarkable": true,
+      "attempted": true,
+      "score": 1,
+      "max_score": 1,
+      "question_reference": "3aa83f0b-9351-41ee-b25f-97cbcf900a53",
+      "item_reference": "acc4acad-b853-4b7f-b41d-79ce402f2f0a",
+      "response": {
+        "value": [
+          "When we began our project, tasks were shared out equally amongst members of my team. However, the tasks were not seen as equally difficult by all team members.&nbsp;As a result, the sense of unfairness made it challenging for us to work together as a team.",
+          "Social interdependence theory recognises a type of group interaction called “positive interdependence” (Johnson &amp; Johnson, 2008), which we did not experience in my group. This put my group at a disadvantage, as many studies show that cooperative learning experiences encourage higher achievement.” (Maughan &amp; Webb, 2010)",
+          "In the end, we managed to complete our project through further negotiation, but to improve the process, we perhaps needed a team leader to help encourage discussion and cooperation when tasks are being shared out. In future group work I would probably suggest this at the beginning of the project."
+        ],
+        "type": "array",
+        "updatedFormat": true,
+        "apiVersion": "v2.168.14",
+        "revision": 9,
+        "feedbackAttemptsCount": 2
+      },
+      "questionInfo": {
+        "type": "association",
+        "widget_type": "response",
+        "reference": "3aa83f0b-9351-41ee-b25f-97cbcf900a53",
+        "data": {
+          "possible_responses": [
+            "Social interdependence theory recognises a type of group interaction called “positive interdependence” (Johnson &amp; Johnson, 2008), which we did not experience in my group. This put my group at a disadvantage, as many studies show that cooperative learning experiences encourage higher achievement.” (Maughan &amp; Webb, 2010)",
+            "In the end, we managed to complete our project through further negotiation, but to improve the process, we perhaps needed a team leader to help encourage discussion and cooperation when tasks are being shared out. In future group work I would probably suggest this at the beginning of the project.",
+            "When we began our project, tasks were shared out equally amongst members of my team. However, the tasks were not seen as equally difficult by all team members.&nbsp;As a result, the sense of unfairness made it challenging for us to work together as a team."
+          ],
+          "stimulus": "<p><strong>Structuring Reflective Writing: an example</strong></p>\n\n<p>Organise the reflective writing according to the structure.</p>\n",
+          "stimulus_list": [
+            "Description",
+            "Analysis",
+            "Outcome"
+          ],
+          "type": "association",
+          "validation": {
+            "scoring_type": "partialMatchV2",
+            "valid_response": {
+              "score": 1,
+              "value": [
+                "When we began our project, tasks were shared out equally amongst members of my team. However, the tasks were not seen as equally difficult by all team members.&nbsp;As a result, the sense of unfairness made it challenging for us to work together as a team.",
+                "Social interdependence theory recognises a type of group interaction called “positive interdependence” (Johnson &amp; Johnson, 2008), which we did not experience in my group. This put my group at a disadvantage, as many studies show that cooperative learning experiences encourage higher achievement.” (Maughan &amp; Webb, 2010)",
+                "In the end, we managed to complete our project through further negotiation, but to improve the process, we perhaps needed a team leader to help encourage discussion and cooperation when tasks are being shared out. In future group work I would probably suggest this at the beginning of the project."
+              ]
+            }
+          },
+          "instant_feedback": true
+        },
+        "metadata": {
+          "name": "Match list",
+          "template_reference": "1fa22aac-1f88-47f7-941b-3c77759549e6"
+        }
+      },
+      "feedbackInfo": [
+        null,
+        null
+      ]
+    },
+    {
+      "response_id": "9b752e5e-e9b9-48fa-a6b7-84f5f49d06ff_ca6572d20589287c3017994fb4168949",
+      "question_type": "choicematrix",
+      "dt_score_updated": "2021-12-25T13:00:59Z",
+      "automarkable": true,
+      "attempted": true,
+      "score": 1,
+      "max_score": 1,
+      "question_reference": "486020d9-4702-4cb3-bb64-6e5fa428e129",
+      "item_reference": "acc4acad-b853-4b7f-b41d-79ce402f2f0a",
+      "response": {
+        "value": [
+          [
+            0
+          ],
+          [
+            0
+          ],
+          [
+            0
+          ],
+          [
+            0
+          ],
+          [
+            0
+          ],
+          [
+            0
+          ]
+        ],
+        "type": "array",
+        "apiVersion": "v2.168.14",
+        "revision": 7,
+        "feedbackAttemptsCount": 2
+      },
+      "questionInfo": {
+        "type": "choicematrix",
+        "widget_type": "response",
+        "reference": "486020d9-4702-4cb3-bb64-6e5fa428e129",
+        "data": {
+          "options": [
+            "Yes",
+            "No"
+          ],
+          "stems": [
+            "Has the author described what happened and how they felt?",
+            "Has the author analysed the situation and considered why things happened?",
+            "Has the author used theory to help them understand their experience?",
+            "Has the author used personal language (e.g. I, my) to help them reflect on their experience?",
+            "Has the author written in a suitably formal academic style?",
+            "Has the author&nbsp;checked their writing for errors (e.g. spelling, punctuation, grammar)?"
+          ],
+          "stimulus": "Read the reflective writing again and answer the questions in the checklist below.",
+          "type": "choicematrix",
+          "ui_style": {
+            "stem_numeration": "upper-alpha",
+            "type": "table",
+            "horizontal_lines": false
+          },
+          "validation": {
+            "scoring_type": "partialMatchV2",
+            "valid_response": {
+              "score": 1,
+              "value": [
+                [
+                  0
+                ],
+                [
+                  0
+                ],
+                [
+                  0
+                ],
+                [
+                  0
+                ],
+                [
+                  0
+                ],
+                [
+                  0
+                ]
+              ]
+            }
+          },
+          "instant_feedback": true
+        },
+        "metadata": {
+          "name": "Choice matrix – labels",
+          "template_reference": "9de82e14-802c-4bea-a635-bf9ad0b622fb"
+        }
+      },
+      "feedbackInfo": [
+        null,
+        null
+      ]
+    }
+  ]
+}

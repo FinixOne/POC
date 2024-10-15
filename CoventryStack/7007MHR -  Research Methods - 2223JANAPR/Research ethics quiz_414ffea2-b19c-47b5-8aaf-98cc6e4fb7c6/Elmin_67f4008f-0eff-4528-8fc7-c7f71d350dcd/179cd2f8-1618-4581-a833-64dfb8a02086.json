@@ -1,0 +1,1483 @@
+{
+  "userId": "67f4008f-0eff-4528-8fc7-c7f71d350dcd",
+  "firstName": "Elmin",
+  "lastName": "Dashdamirli",
+  "assigmentId": "414ffea2-b19c-47b5-8aaf-98cc6e4fb7c6",
+  "assigmentName": "Research ethics quiz",
+  "sessionId": "179cd2f8-1618-4581-a833-64dfb8a02086",
+  "email": "dashdamire@coventry.ac.uk",
+  "spaceId": "471027a0-383f-497c-bcf3-16053161768c",
+  "spaceName": "7007MHR -  Research Methods - 2223JANAPR",
+  "score": 11,
+  "max_score": 21,
+  "questions": [
+    {
+      "response_id": "179cd2f8-1618-4581-a833-64dfb8a02086_d469f07987678b65c7ce8d62f1e5ecc9",
+      "question_type": "mcq",
+      "dt_score_updated": "2023-04-22T09:49:57Z",
+      "automarkable": true,
+      "attempted": true,
+      "score": 0,
+      "max_score": 1,
+      "question_reference": "ea67d521-0920-4af7-acad-114b99a601af",
+      "item_reference": "8ba04bc7-afa3-4eb9-a27c-270e790300c1",
+      "response": {
+        "value": [
+          "3"
+        ],
+        "type": "array",
+        "apiVersion": "v2.168.23",
+        "revision": 5,
+        "feedbackAttemptsCount": 7
+      },
+      "questionInfo": {
+        "type": "mcq",
+        "widget_type": "response",
+        "reference": "ea67d521-0920-4af7-acad-114b99a601af",
+        "data": {
+          "options": [
+            {
+              "label": "JISC online survey (formerly BOS)",
+              "value": "0"
+            },
+            {
+              "label": "Survey Monkey",
+              "value": "1"
+            },
+            {
+              "label": "Google Forms",
+              "value": "2"
+            },
+            {
+              "label": "Any that is agreed by my supervisor",
+              "value": "3"
+            }
+          ],
+          "stimulus": "When setting up an online survey, which software should be&nbsp;used",
+          "type": "mcq",
+          "validation": {
+            "scoring_type": "exactMatch",
+            "valid_response": {
+              "score": 1,
+              "value": [
+                "0"
+              ]
+            }
+          },
+          "ui_style": {
+            "type": "horizontal"
+          },
+          "shuffle_options": true,
+          "instant_feedback": true
+        },
+        "metadata": {
+          "name": "Multiple choice – standard",
+          "template_reference": "9e8149bd-e4d8-4dd6-a751-1a113a4b9163"
+        }
+      },
+      "feedbackInfo": [
+        null,
+        null
+      ]
+    },
+    {
+      "response_id": "179cd2f8-1618-4581-a833-64dfb8a02086_b3e0ff8e63c13298d7bc6c807e39c145",
+      "question_type": "mcq",
+      "dt_score_updated": "2023-04-22T09:39:07Z",
+      "automarkable": true,
+      "attempted": true,
+      "score": 0,
+      "max_score": 1,
+      "question_reference": "9b290445-71e5-4e9c-b466-21c4b7c2f6c8",
+      "item_reference": "05062af5-a62b-407e-a323-32751ba5bc2c",
+      "response": {
+        "value": [
+          "3"
+        ],
+        "type": "array",
+        "apiVersion": "v2.168.23",
+        "revision": 1
+      },
+      "questionInfo": {
+        "type": "mcq",
+        "widget_type": "response",
+        "reference": "9b290445-71e5-4e9c-b466-21c4b7c2f6c8",
+        "data": {
+          "options": [
+            {
+              "label": "Research design",
+              "value": "0"
+            },
+            {
+              "label": "Data storage",
+              "value": "1"
+            },
+            {
+              "label": "Information for participants",
+              "value": "2"
+            },
+            {
+              "label": "Justification for the research",
+              "value": "3"
+            }
+          ],
+          "stimulus": "Which of these are areas where&nbsp;research ethics should be considered?",
+          "type": "mcq",
+          "validation": {
+            "scoring_type": "exactMatch",
+            "valid_response": {
+              "score": 1,
+              "value": [
+                "0",
+                "1",
+                "2",
+                "3"
+              ]
+            }
+          },
+          "ui_style": {
+            "type": "horizontal"
+          },
+          "multiple_responses": true
+        },
+        "metadata": {
+          "name": "Multiple choice – standard",
+          "template_reference": "9e8149bd-e4d8-4dd6-a751-1a113a4b9163"
+        }
+      },
+      "feedbackInfo": [
+        null,
+        null
+      ]
+    },
+    {
+      "response_id": "179cd2f8-1618-4581-a833-64dfb8a02086_5e205f0cbd3f2dc250909f28a803906e",
+      "question_type": "mcq",
+      "dt_score_updated": "2023-04-22T09:39:22Z",
+      "automarkable": true,
+      "attempted": true,
+      "score": 0,
+      "max_score": 1,
+      "question_reference": "ec5c80b3-a705-48c2-a2f8-ca27dc948e01",
+      "item_reference": "b28ffdd4-2072-4a83-a5f5-0bdba6205316",
+      "response": {
+        "value": [
+          "1"
+        ],
+        "type": "array",
+        "apiVersion": "v2.168.23",
+        "revision": 1
+      },
+      "questionInfo": {
+        "type": "mcq",
+        "widget_type": "response",
+        "reference": "ec5c80b3-a705-48c2-a2f8-ca27dc948e01",
+        "data": {
+          "options": [
+            {
+              "label": "True",
+              "value": "0"
+            },
+            {
+              "label": "False",
+              "value": "1"
+            }
+          ],
+          "stimulus": "Ethics approval is required if I am using secondary data sources only?",
+          "type": "mcq",
+          "ui_style": {
+            "type": "horizontal"
+          },
+          "validation": {
+            "scoring_type": "exactMatch",
+            "valid_response": {
+              "score": 1,
+              "value": [
+                "0"
+              ]
+            }
+          }
+        },
+        "metadata": {
+          "name": "Multiple choice – standard",
+          "template_reference": "9e8149bd-e4d8-4dd6-a751-1a113a4b9163"
+        }
+      },
+      "feedbackInfo": [
+        null,
+        null
+      ]
+    },
+    {
+      "response_id": "179cd2f8-1618-4581-a833-64dfb8a02086_aa108ea3fca5693ee76da01cfdcfc9b7",
+      "question_type": "mcq",
+      "dt_score_updated": "2023-04-22T09:39:49Z",
+      "automarkable": true,
+      "attempted": true,
+      "score": 0,
+      "max_score": 1,
+      "question_reference": "a639f771-e1c5-44a4-a1da-c729c8fe7c77",
+      "item_reference": "1d506903-523b-4046-b81c-17e0b34d373d",
+      "response": {
+        "value": [
+          "3"
+        ],
+        "type": "array",
+        "apiVersion": "v2.168.23",
+        "revision": 1
+      },
+      "questionInfo": {
+        "type": "mcq",
+        "widget_type": "response",
+        "reference": "a639f771-e1c5-44a4-a1da-c729c8fe7c77",
+        "data": {
+          "options": [
+            {
+              "label": "Your study must be approved in full the first time you submit to the ethics committee, otherwise you will fail the project",
+              "value": "0"
+            },
+            {
+              "label": "Your must wait for the ethics committee approval before beginning data collection",
+              "value": "1"
+            },
+            {
+              "label": "Pilot work does not need ethical approval",
+              "value": "2"
+            },
+            {
+              "label": "All of the above",
+              "value": "3"
+            }
+          ],
+          "stimulus": "Which of the following corresponds to our advice on ethical approval for your project?",
+          "type": "mcq",
+          "validation": {
+            "scoring_type": "exactMatch",
+            "valid_response": {
+              "score": 1,
+              "value": [
+                "1"
+              ]
+            }
+          },
+          "ui_style": {
+            "type": "horizontal"
+          }
+        },
+        "metadata": {
+          "name": "Multiple choice – standard",
+          "template_reference": "9e8149bd-e4d8-4dd6-a751-1a113a4b9163"
+        }
+      },
+      "feedbackInfo": [
+        null,
+        null
+      ]
+    },
+    {
+      "response_id": "179cd2f8-1618-4581-a833-64dfb8a02086_5f170157a8eb0e2b9a1b480f2a758b95",
+      "question_type": "mcq",
+      "dt_score_updated": "2023-04-22T09:40:33Z",
+      "automarkable": true,
+      "attempted": true,
+      "score": 1,
+      "max_score": 1,
+      "question_reference": "d950a506-c8e1-455b-95d3-ec6e849abe6b",
+      "item_reference": "8a42a143-457e-4269-9770-39469ff9a3f6",
+      "response": {
+        "value": [
+          "0"
+        ],
+        "type": "array",
+        "apiVersion": "v2.168.23",
+        "revision": 1
+      },
+      "questionInfo": {
+        "type": "mcq",
+        "widget_type": "response",
+        "reference": "d950a506-c8e1-455b-95d3-ec6e849abe6b",
+        "data": {
+          "options": [
+            {
+              "label": "It can damage the professional reputation of the researcher and their discipline",
+              "value": "0"
+            },
+            {
+              "label": "It makes it more difficult to gain access to deviant or hidden populations",
+              "value": "1"
+            },
+            {
+              "label": "It means that records of personal data about participants can be made anonymous",
+              "value": "2"
+            },
+            {
+              "label": "None of the above",
+              "value": "3"
+            }
+          ],
+          "stimulus": "Apart from the fact it is \" not a nice thing to do\", what is an important ethical <strong>disadvantage </strong>of deceiving participants?&nbsp;",
+          "type": "mcq",
+          "validation": {
+            "scoring_type": "exactMatch",
+            "valid_response": {
+              "score": 1,
+              "value": [
+                "0"
+              ]
+            }
+          },
+          "ui_style": {
+            "type": "horizontal"
+          }
+        },
+        "metadata": {
+          "name": "Multiple choice – standard",
+          "template_reference": "9e8149bd-e4d8-4dd6-a751-1a113a4b9163"
+        }
+      },
+      "feedbackInfo": [
+        null,
+        null
+      ]
+    },
+    {
+      "response_id": "179cd2f8-1618-4581-a833-64dfb8a02086_1258ef7faf6ac9870288d4e6136fa659",
+      "question_type": "mcq",
+      "dt_score_updated": "2023-04-22T09:41:01Z",
+      "automarkable": true,
+      "attempted": true,
+      "score": 0,
+      "max_score": 1,
+      "question_reference": "c29f9623-f22d-4510-ba73-4b943c3c067e",
+      "item_reference": "a9998792-720d-48f7-bdd6-ac627c98541f",
+      "response": {
+        "value": [
+          "2"
+        ],
+        "type": "array",
+        "apiVersion": "v2.168.23",
+        "revision": 1
+      },
+      "questionInfo": {
+        "type": "mcq",
+        "widget_type": "response",
+        "reference": "c29f9623-f22d-4510-ba73-4b943c3c067e",
+        "data": {
+          "options": [
+            {
+              "label": "Not sharing the information with others",
+              "value": "0"
+            },
+            {
+              "label": "Redacting the names",
+              "value": "1"
+            },
+            {
+              "label": "Protecting a person's identity",
+              "value": "2"
+            },
+            {
+              "label": "Removing contributors identifying details such as name, job title, organisation",
+              "value": "3"
+            }
+          ],
+          "stimulus": "Making data&nbsp;'anonymous' means",
+          "type": "mcq",
+          "validation": {
+            "scoring_type": "exactMatch",
+            "valid_response": {
+              "score": 1,
+              "value": [
+                "3"
+              ]
+            }
+          },
+          "ui_style": {
+            "type": "horizontal"
+          },
+          "shuffle_options": true
+        },
+        "metadata": {
+          "name": "Multiple choice – standard",
+          "template_reference": "9e8149bd-e4d8-4dd6-a751-1a113a4b9163"
+        }
+      },
+      "feedbackInfo": [
+        null,
+        null
+      ]
+    },
+    {
+      "response_id": "179cd2f8-1618-4581-a833-64dfb8a02086_5557fe875a1e7e062ee571c3aba30ad4",
+      "question_type": "mcq",
+      "dt_score_updated": "2023-04-22T09:40:48Z",
+      "automarkable": true,
+      "attempted": true,
+      "score": 0,
+      "max_score": 1,
+      "question_reference": "05ef8b52-5630-439f-9f4f-1345c7a2308c",
+      "item_reference": "959d5848-5e43-4a21-bcf7-6f7ea3bc7687",
+      "response": {
+        "value": [
+          "2"
+        ],
+        "type": "array",
+        "apiVersion": "v2.168.23",
+        "revision": 1
+      },
+      "questionInfo": {
+        "type": "mcq",
+        "widget_type": "response",
+        "reference": "05ef8b52-5630-439f-9f4f-1345c7a2308c",
+        "data": {
+          "options": [
+            {
+              "label": "confidentiality",
+              "value": "0"
+            },
+            {
+              "label": "Informed consent",
+              "value": "1"
+            },
+            {
+              "label": "anonymity",
+              "value": "2"
+            },
+            {
+              "label": "Compensation",
+              "value": "3"
+            }
+          ],
+          "stimulus": "Assuring participants that the data will not be accessible to anyone besides the researcher is",
+          "type": "mcq",
+          "validation": {
+            "scoring_type": "exactMatch",
+            "valid_response": {
+              "score": 1,
+              "value": [
+                "0"
+              ]
+            }
+          },
+          "ui_style": {
+            "type": "horizontal"
+          },
+          "shuffle_options": true
+        },
+        "metadata": {
+          "name": "Multiple choice – standard",
+          "template_reference": "9e8149bd-e4d8-4dd6-a751-1a113a4b9163"
+        }
+      },
+      "feedbackInfo": [
+        null,
+        null
+      ]
+    },
+    {
+      "response_id": "179cd2f8-1618-4581-a833-64dfb8a02086_ed74cde1d35080f7a45429e3bfd9dc5a",
+      "question_type": "mcq",
+      "dt_score_updated": "2023-04-22T09:41:30Z",
+      "automarkable": true,
+      "attempted": true,
+      "score": 1,
+      "max_score": 1,
+      "question_reference": "66416838-8f90-4726-a586-1e0e7db8b375",
+      "item_reference": "addaf917-5018-4739-ae77-7e0f95c54e92",
+      "response": {
+        "value": [
+          "2"
+        ],
+        "type": "array",
+        "apiVersion": "v2.168.23",
+        "revision": 1
+      },
+      "questionInfo": {
+        "type": "mcq",
+        "widget_type": "response",
+        "reference": "66416838-8f90-4726-a586-1e0e7db8b375",
+        "data": {
+          "options": [
+            {
+              "label": "For any reason as long as it is explained to the researcher",
+              "value": "0"
+            },
+            {
+              "label": "For any reason as long as the researcher gives permission to withdraw",
+              "value": "1"
+            },
+            {
+              "label": "For any reason without explanation",
+              "value": "2"
+            }
+          ],
+          "stimulus": "A research participant&nbsp;is allowed to withdraw from a study",
+          "type": "mcq",
+          "validation": {
+            "scoring_type": "exactMatch",
+            "valid_response": {
+              "score": 1,
+              "value": [
+                "2"
+              ]
+            }
+          },
+          "ui_style": {
+            "type": "horizontal"
+          },
+          "shuffle_options": true
+        },
+        "metadata": {
+          "name": "Multiple choice – standard",
+          "template_reference": "9e8149bd-e4d8-4dd6-a751-1a113a4b9163"
+        }
+      },
+      "feedbackInfo": [
+        null,
+        null
+      ]
+    },
+    {
+      "response_id": "179cd2f8-1618-4581-a833-64dfb8a02086_c122c0280e5670a4e70a82f75d3bd025",
+      "question_type": "mcq",
+      "dt_score_updated": "2023-04-22T09:42:11Z",
+      "automarkable": true,
+      "attempted": true,
+      "score": 1,
+      "max_score": 1,
+      "question_reference": "777494b0-5cca-40ea-828f-df015f95df53",
+      "item_reference": "1e1c707e-b551-4eed-ad32-b0b3fcbc6d07",
+      "response": {
+        "value": [
+          "0"
+        ],
+        "type": "array",
+        "apiVersion": "v2.168.23",
+        "revision": 3
+      },
+      "questionInfo": {
+        "type": "mcq",
+        "widget_type": "response",
+        "reference": "777494b0-5cca-40ea-828f-df015f95df53",
+        "data": {
+          "options": [
+            {
+              "label": "[LON] Coventry University London (CULC)",
+              "value": "0"
+            },
+            {
+              "label": "[CUEL] CU - Group (CU London)",
+              "value": "1"
+            },
+            {
+              "label": "[FBL] Faculty of Business and Law",
+              "value": "2"
+            },
+            {
+              "label": "[URC] Research Institute",
+              "value": "3"
+            }
+          ],
+          "stimulus": "When I create my ethics project, which faculty should I choose?",
+          "type": "mcq",
+          "validation": {
+            "scoring_type": "exactMatch",
+            "valid_response": {
+              "score": 1,
+              "value": [
+                "0"
+              ]
+            }
+          },
+          "ui_style": {
+            "type": "horizontal"
+          },
+          "shuffle_options": true
+        },
+        "metadata": {
+          "name": "Multiple choice – standard",
+          "template_reference": "9e8149bd-e4d8-4dd6-a751-1a113a4b9163"
+        }
+      },
+      "feedbackInfo": [
+        null,
+        null
+      ]
+    },
+    {
+      "response_id": "179cd2f8-1618-4581-a833-64dfb8a02086_4fcf313ebd1bacfe725420c45cacfc2b",
+      "question_type": "imageupload",
+      "dt_score_updated": "2023-04-22T09:36:59Z",
+      "automarkable": false,
+      "attempted": false,
+      "score": null,
+      "max_score": null,
+      "question_reference": "7c6b5fc7-a3c2-4e02-b717-ffe679a1eb95",
+      "item_reference": "1e1c707e-b551-4eed-ad32-b0b3fcbc6d07",
+      "response": null,
+      "questionInfo": {
+        "type": "imageupload",
+        "widget_type": "response",
+        "reference": "7c6b5fc7-a3c2-4e02-b717-ffe679a1eb95",
+        "data": {
+          "image": {
+            "source": "https://assets.learnosity.com/organisations/755/01bdd2a9-67b1-43e9-8227-370c79c5cbe6.png",
+            "width": 564,
+            "height": 248
+          },
+          "stimulus": "Faculty registration",
+          "type": "imageupload",
+          "validation": {
+            "scoring_type": "exactMatch",
+            "valid_response": {
+              "score": 1,
+              "value": []
+            }
+          }
+        },
+        "metadata": {
+          "name": "Image annotation upload",
+          "template_reference": "8ff43fa9-804b-42e7-9b3e-3cdd7e3a882b"
+        }
+      },
+      "feedbackInfo": [
+        null,
+        null
+      ]
+    },
+    {
+      "response_id": "179cd2f8-1618-4581-a833-64dfb8a02086_c26270e95a0c1548152e83143ca4c114",
+      "question_type": "mcq",
+      "dt_score_updated": "2023-04-22T09:42:25Z",
+      "automarkable": true,
+      "attempted": true,
+      "score": 1,
+      "max_score": 1,
+      "question_reference": "a5ca44df-68b7-437a-8a55-0ca98ff52506",
+      "item_reference": "d04e59b8-23d4-44bb-ae01-01ff8667a33a",
+      "response": {
+        "value": [
+          "0"
+        ],
+        "type": "array",
+        "apiVersion": "v2.168.23",
+        "revision": 1
+      },
+      "questionInfo": {
+        "type": "mcq",
+        "widget_type": "response",
+        "reference": "a5ca44df-68b7-437a-8a55-0ca98ff52506",
+        "data": {
+          "options": [
+            {
+              "label": "A written agreement to participate in a study knowing all the risk",
+              "value": "0"
+            },
+            {
+              "label": "The right of research participants to be protected from harm",
+              "value": "1"
+            },
+            {
+              "label": "A verbal description of the true nature and purpose of a study",
+              "value": "2"
+            },
+            {
+              "label": "Respecting the privacy of both parties and kepeing details secret",
+              "value": "3"
+            }
+          ],
+          "stimulus": "What is informed consent?",
+          "type": "mcq",
+          "validation": {
+            "scoring_type": "exactMatch",
+            "valid_response": {
+              "score": 1,
+              "value": [
+                "0"
+              ]
+            }
+          },
+          "ui_style": {
+            "type": "horizontal"
+          },
+          "shuffle_options": true
+        },
+        "metadata": {
+          "name": "Multiple choice – standard",
+          "template_reference": "9e8149bd-e4d8-4dd6-a751-1a113a4b9163"
+        }
+      },
+      "feedbackInfo": [
+        null,
+        null
+      ]
+    },
+    {
+      "response_id": "179cd2f8-1618-4581-a833-64dfb8a02086_3308f7cb647e3c1390bc86774cb23183",
+      "question_type": "mcq",
+      "dt_score_updated": "2023-04-22T09:42:40Z",
+      "automarkable": true,
+      "attempted": true,
+      "score": 1,
+      "max_score": 1,
+      "question_reference": "4abc509e-c9c5-49e4-a362-f0eb22d885e9",
+      "item_reference": "0550f953-404f-4257-bdf5-07db052a8d46",
+      "response": {
+        "value": [
+          "0"
+        ],
+        "type": "array",
+        "apiVersion": "v2.168.23",
+        "revision": 1
+      },
+      "questionInfo": {
+        "type": "mcq",
+        "widget_type": "response",
+        "reference": "4abc509e-c9c5-49e4-a362-f0eb22d885e9",
+        "data": {
+          "options": [
+            {
+              "label": "True",
+              "value": "0"
+            },
+            {
+              "label": "False",
+              "value": "1"
+            }
+          ],
+          "stimulus": "An ethical researcher needs to protect the anonymity of individuals in the project&nbsp;",
+          "type": "mcq",
+          "validation": {
+            "scoring_type": "exactMatch",
+            "valid_response": {
+              "score": 1,
+              "value": [
+                "0"
+              ]
+            }
+          },
+          "ui_style": {
+            "type": "horizontal"
+          }
+        },
+        "metadata": {
+          "name": "True or false",
+          "template_reference": "3egs0b24-5gs8-49fc-fds9-4a450sdg31ca"
+        }
+      },
+      "feedbackInfo": [
+        null,
+        null
+      ]
+    },
+    {
+      "response_id": "179cd2f8-1618-4581-a833-64dfb8a02086_5e02407c65c80016b54bed57985b5457",
+      "question_type": "mcq",
+      "dt_score_updated": "2023-04-22T09:43:09Z",
+      "automarkable": true,
+      "attempted": true,
+      "score": 0,
+      "max_score": 1,
+      "question_reference": "ca2dab5f-fa9f-4f90-98ce-37451d4791b7",
+      "item_reference": "0706b3a7-6cfd-4f74-8a2d-dc78dc0870b8",
+      "response": {
+        "value": [
+          "2"
+        ],
+        "type": "array",
+        "apiVersion": "v2.168.23",
+        "revision": 1
+      },
+      "questionInfo": {
+        "type": "mcq",
+        "widget_type": "response",
+        "reference": "ca2dab5f-fa9f-4f90-98ce-37451d4791b7",
+        "data": {
+          "options": [
+            {
+              "label": "Book",
+              "value": "0"
+            },
+            {
+              "label": "Journal",
+              "value": "1"
+            },
+            {
+              "label": "Newspaper",
+              "value": "2"
+            },
+            {
+              "label": "Observation method",
+              "value": "3"
+            }
+          ],
+          "stimulus": "Which of the following is an example of primary data?",
+          "type": "mcq",
+          "validation": {
+            "scoring_type": "exactMatch",
+            "valid_response": {
+              "score": 1,
+              "value": [
+                "3"
+              ]
+            }
+          },
+          "ui_style": {
+            "type": "horizontal"
+          },
+          "multiple_responses": true
+        },
+        "metadata": {
+          "name": "Multiple choice – standard",
+          "template_reference": "9e8149bd-e4d8-4dd6-a751-1a113a4b9163"
+        }
+      },
+      "feedbackInfo": [
+        null,
+        null
+      ]
+    },
+    {
+      "response_id": "179cd2f8-1618-4581-a833-64dfb8a02086_a464ff96e0cc0cc9917b3c03e891c4be",
+      "question_type": "mcq",
+      "dt_score_updated": "2023-04-22T09:43:52Z",
+      "automarkable": true,
+      "attempted": true,
+      "score": 0,
+      "max_score": 1,
+      "question_reference": "e575f9c4-40db-4dc6-b160-66df2f2b4ea9",
+      "item_reference": "499a73e8-30dd-4ae2-9b58-32a9ce96d3ab",
+      "response": {
+        "value": [
+          "0"
+        ],
+        "type": "array",
+        "apiVersion": "v2.168.23",
+        "revision": 2
+      },
+      "questionInfo": {
+        "type": "mcq",
+        "widget_type": "response",
+        "reference": "e575f9c4-40db-4dc6-b160-66df2f2b4ea9",
+        "data": {
+          "options": [
+            {
+              "label": "True",
+              "value": "0"
+            },
+            {
+              "label": "False",
+              "value": "1"
+            }
+          ],
+          "stimulus": "It is unethical to compensate participants for their time in a research study?",
+          "type": "mcq",
+          "ui_style": {
+            "type": "horizontal"
+          },
+          "validation": {
+            "scoring_type": "exactMatch",
+            "valid_response": {
+              "score": 1,
+              "value": [
+                "1"
+              ]
+            }
+          }
+        },
+        "metadata": {
+          "name": "True or false",
+          "template_reference": "3egs0b24-5gs8-49fc-fds9-4a450sdg31ca"
+        }
+      },
+      "feedbackInfo": [
+        null,
+        null
+      ]
+    },
+    {
+      "response_id": "179cd2f8-1618-4581-a833-64dfb8a02086_17ba6dfa5c524604f3988fb7e15c824a",
+      "question_type": "mcq",
+      "dt_score_updated": "2023-04-22T09:44:06Z",
+      "automarkable": true,
+      "attempted": true,
+      "score": 1,
+      "max_score": 1,
+      "question_reference": "24870584-6d62-42af-8ad0-c1cf4d0619c9",
+      "item_reference": "f7701c5d-e0bf-4f64-867a-6b40c8721fa6",
+      "response": {
+        "value": [
+          "1"
+        ],
+        "type": "array",
+        "apiVersion": "v2.168.23",
+        "revision": 1
+      },
+      "questionInfo": {
+        "type": "mcq",
+        "widget_type": "response",
+        "reference": "24870584-6d62-42af-8ad0-c1cf4d0619c9",
+        "data": {
+          "options": [
+            {
+              "label": "True",
+              "value": "0"
+            },
+            {
+              "label": "False",
+              "value": "1"
+            }
+          ],
+          "stimulus": "Data, once analysed, should be discarded immediately",
+          "type": "mcq",
+          "ui_style": {
+            "type": "horizontal"
+          },
+          "validation": {
+            "scoring_type": "exactMatch",
+            "valid_response": {
+              "score": 1,
+              "value": [
+                "1"
+              ]
+            }
+          }
+        },
+        "metadata": {
+          "name": "Multiple choice – standard",
+          "template_reference": "9e8149bd-e4d8-4dd6-a751-1a113a4b9163"
+        }
+      },
+      "feedbackInfo": [
+        null,
+        null
+      ]
+    },
+    {
+      "response_id": "179cd2f8-1618-4581-a833-64dfb8a02086_72faf595e6a5c70350b8d6346aafc579",
+      "question_type": "mcq",
+      "dt_score_updated": "2023-04-22T09:44:21Z",
+      "automarkable": true,
+      "attempted": true,
+      "score": 0,
+      "max_score": 1,
+      "question_reference": "e134e2e8-acf8-44d5-b1d4-4d24e4b3ee48",
+      "item_reference": "df8f5b27-b1ef-4948-a808-996453988355",
+      "response": {
+        "value": [
+          "1"
+        ],
+        "type": "array",
+        "apiVersion": "v2.168.23",
+        "revision": 1
+      },
+      "questionInfo": {
+        "type": "mcq",
+        "widget_type": "response",
+        "reference": "e134e2e8-acf8-44d5-b1d4-4d24e4b3ee48",
+        "data": {
+          "options": [
+            {
+              "label": "<label for=\"0a9a4b99-5e0f-4afd-b4b3-baa5395c624d_1\">A procedure for deciding how to act</label>",
+              "value": "0"
+            },
+            {
+              "label": "The moral principles that govern how researchers should carry out their work",
+              "value": "1"
+            },
+            {
+              "label": "<label for=\"0a9a4b99-5e0f-4afd-b4b3-baa5395c624d_3\">Standards that establish the public's trust of a discipline</label>",
+              "value": "2"
+            },
+            {
+              "label": "The planning, conduct, and reporting of research",
+              "value": "3"
+            }
+          ],
+          "stimulus": "Which of the following is/are the correct definition of 'research ethics'?",
+          "type": "mcq",
+          "validation": {
+            "scoring_type": "exactMatch",
+            "valid_response": {
+              "score": 1,
+              "value": [
+                "0",
+                "1",
+                "2",
+                "3"
+              ]
+            }
+          },
+          "ui_style": {
+            "type": "horizontal"
+          },
+          "multiple_responses": true,
+          "shuffle_options": true
+        },
+        "metadata": {
+          "name": "Multiple choice – standard",
+          "template_reference": "9e8149bd-e4d8-4dd6-a751-1a113a4b9163"
+        }
+      },
+      "feedbackInfo": [
+        null,
+        null
+      ]
+    },
+    {
+      "response_id": "179cd2f8-1618-4581-a833-64dfb8a02086_008b4ad437f6fc257fa1f31426612f19",
+      "question_type": "mcq",
+      "dt_score_updated": "2023-04-22T09:44:21Z",
+      "automarkable": true,
+      "attempted": true,
+      "score": 1,
+      "max_score": 1,
+      "question_reference": "9850e56f-bb6b-496a-814f-b349ab497dad",
+      "item_reference": "10307717-c8de-430c-bfb1-6698bca23037",
+      "response": {
+        "value": [
+          "0"
+        ],
+        "type": "array",
+        "apiVersion": "v2.168.23",
+        "revision": 1
+      },
+      "questionInfo": {
+        "type": "mcq",
+        "widget_type": "response",
+        "reference": "9850e56f-bb6b-496a-814f-b349ab497dad",
+        "data": {
+          "options": [
+            {
+              "label": "True",
+              "value": "0"
+            },
+            {
+              "label": "False",
+              "value": "1"
+            }
+          ],
+          "stimulus": "Obtaining consent is an ongoing process?",
+          "type": "mcq",
+          "ui_style": {
+            "type": "horizontal"
+          },
+          "validation": {
+            "scoring_type": "exactMatch",
+            "valid_response": {
+              "score": 1,
+              "value": [
+                "0"
+              ]
+            }
+          }
+        },
+        "metadata": {
+          "name": "Multiple choice – standard",
+          "template_reference": "9e8149bd-e4d8-4dd6-a751-1a113a4b9163"
+        }
+      },
+      "feedbackInfo": [
+        null,
+        null
+      ]
+    },
+    {
+      "response_id": "179cd2f8-1618-4581-a833-64dfb8a02086_637eb17e9f34985c6cab9ae0f1778b5d",
+      "question_type": "mcq",
+      "dt_score_updated": "2023-04-22T09:44:49Z",
+      "automarkable": true,
+      "attempted": true,
+      "score": 1,
+      "max_score": 1,
+      "question_reference": "bddae7c0-0845-490d-afab-e720432d28ae",
+      "item_reference": "ea499131-3c20-4672-a92c-d967b095f460",
+      "response": {
+        "value": [
+          "3"
+        ],
+        "type": "array",
+        "apiVersion": "v2.168.23",
+        "revision": 1
+      },
+      "questionInfo": {
+        "type": "mcq",
+        "widget_type": "response",
+        "reference": "bddae7c0-0845-490d-afab-e720432d28ae",
+        "data": {
+          "options": [
+            {
+              "label": "Protecting participants from harm",
+              "value": "0"
+            },
+            {
+              "label": "Letting participants know they are able to leave the study at any time",
+              "value": "1"
+            },
+            {
+              "label": "Informing participants of their rewards for cooperation",
+              "value": "2"
+            },
+            {
+              "label": "Informing participants of the true aims of the study",
+              "value": "3"
+            }
+          ],
+          "stimulus": "Informed consent means...",
+          "type": "mcq",
+          "validation": {
+            "scoring_type": "exactMatch",
+            "valid_response": {
+              "score": 1,
+              "value": [
+                "3"
+              ]
+            }
+          },
+          "ui_style": {
+            "type": "horizontal"
+          },
+          "shuffle_options": true
+        },
+        "metadata": {
+          "name": "Multiple choice – standard",
+          "template_reference": "9e8149bd-e4d8-4dd6-a751-1a113a4b9163"
+        }
+      },
+      "feedbackInfo": [
+        null,
+        null
+      ]
+    },
+    {
+      "response_id": "179cd2f8-1618-4581-a833-64dfb8a02086_e2bbbb04c1fb29aa19890bc7fa655ff8",
+      "question_type": "mcq",
+      "dt_score_updated": "2023-04-22T09:46:02Z",
+      "automarkable": false,
+      "attempted": true,
+      "score": null,
+      "max_score": null,
+      "question_reference": "35509ffb-949e-4c80-b18d-e8402818802f",
+      "item_reference": "f3a2cf85-44a8-497d-9882-38b59a899443",
+      "response": {
+        "value": [
+          "1"
+        ],
+        "type": "array",
+        "apiVersion": "v2.168.23",
+        "revision": 1
+      },
+      "questionInfo": {
+        "type": "mcq",
+        "widget_type": "response",
+        "reference": "35509ffb-949e-4c80-b18d-e8402818802f",
+        "data": {
+          "options": [
+            {
+              "label": "You made notes during a focus group and you ask a friend to spell check them",
+              "value": "0"
+            },
+            {
+              "label": "You ask participants to sign a consent form giving permission for their details to be entered into a prize draw",
+              "value": "1"
+            },
+            {
+              "label": "You forgot to inform participants that another researcher will be using their work",
+              "value": "2"
+            },
+            {
+              "label": "You store your research data and statistics on public folder on the local library computer",
+              "value": "3"
+            },
+            {
+              "label": "All of the above",
+              "value": "4"
+            }
+          ],
+          "stimulus": "Confidentiality has NOT been broken in which of the following statements",
+          "type": "mcq",
+          "validation": {
+            "scoring_type": "exactMatch",
+            "valid_response": {
+              "score": 1,
+              "value": []
+            }
+          },
+          "ui_style": {
+            "type": "horizontal"
+          }
+        },
+        "metadata": {
+          "name": "Multiple choice – standard",
+          "template_reference": "9e8149bd-e4d8-4dd6-a751-1a113a4b9163"
+        }
+      },
+      "feedbackInfo": [
+        null,
+        null
+      ]
+    },
+    {
+      "response_id": "179cd2f8-1618-4581-a833-64dfb8a02086_c599bcbf5db6165683d7199f96d819fc",
+      "question_type": "mcq",
+      "dt_score_updated": "2023-04-22T09:46:45Z",
+      "automarkable": true,
+      "attempted": true,
+      "score": 0,
+      "max_score": 1,
+      "question_reference": "8f095364-4e1f-423e-bda9-8fab436956ed",
+      "item_reference": "71141caa-d900-4105-bf64-051a0667a68c",
+      "response": {
+        "value": [
+          "4"
+        ],
+        "type": "array",
+        "apiVersion": "v2.168.23",
+        "revision": 1
+      },
+      "questionInfo": {
+        "type": "mcq",
+        "widget_type": "response",
+        "reference": "8f095364-4e1f-423e-bda9-8fab436956ed",
+        "data": {
+          "options": [
+            {
+              "label": "Google drive",
+              "value": "0"
+            },
+            {
+              "label": "A USB pen",
+              "value": "1"
+            },
+            {
+              "label": "Your password protected personal computer",
+              "value": "2"
+            },
+            {
+              "label": "Your University OneDrive account",
+              "value": "3"
+            },
+            {
+              "label": "None of the above",
+              "value": "4"
+            }
+          ],
+          "stimulus": "Where should you store your sensitive data?",
+          "type": "mcq",
+          "validation": {
+            "scoring_type": "exactMatch",
+            "valid_response": {
+              "score": 1,
+              "value": [
+                "3"
+              ]
+            }
+          },
+          "ui_style": {
+            "type": "horizontal"
+          }
+        },
+        "metadata": {
+          "name": "Multiple choice – standard",
+          "template_reference": "9e8149bd-e4d8-4dd6-a751-1a113a4b9163"
+        }
+      },
+      "feedbackInfo": [
+        null,
+        null
+      ]
+    },
+    {
+      "response_id": "179cd2f8-1618-4581-a833-64dfb8a02086_6c35594e7f9f49d6ec26593f855ff9a4",
+      "question_type": "mcq",
+      "dt_score_updated": "2023-04-22T09:47:14Z",
+      "automarkable": true,
+      "attempted": true,
+      "score": 1,
+      "max_score": 1,
+      "question_reference": "e54ccf99-3f7b-4aa7-95c1-a6b8cef4fe7e",
+      "item_reference": "9903f29e-19da-46d4-99fb-874c4ca6bc46",
+      "response": {
+        "value": [
+          "2"
+        ],
+        "type": "array",
+        "apiVersion": "v2.168.23",
+        "revision": 1
+      },
+      "questionInfo": {
+        "type": "mcq",
+        "widget_type": "response",
+        "reference": "e54ccf99-3f7b-4aa7-95c1-a6b8cef4fe7e",
+        "data": {
+          "options": [
+            {
+              "label": "Sharing information only with those you feel matter",
+              "value": "0"
+            },
+            {
+              "label": "Having locked storage",
+              "value": "1"
+            },
+            {
+              "label": "Protecting data collected",
+              "value": "2"
+            },
+            {
+              "label": "Not identifying participants details",
+              "value": "3"
+            }
+          ],
+          "stimulus": "Confidentiality means",
+          "type": "mcq",
+          "validation": {
+            "scoring_type": "exactMatch",
+            "valid_response": {
+              "score": 1,
+              "value": [
+                "2"
+              ]
+            }
+          },
+          "ui_style": {
+            "type": "horizontal"
+          },
+          "shuffle_options": true
+        },
+        "metadata": {
+          "name": "Multiple choice – standard",
+          "template_reference": "9e8149bd-e4d8-4dd6-a751-1a113a4b9163"
+        }
+      },
+      "feedbackInfo": [
+        null,
+        null
+      ]
+    },
+    {
+      "response_id": "179cd2f8-1618-4581-a833-64dfb8a02086_acb443d96d9021472e778fc3c7e6651e",
+      "question_type": "mcq",
+      "dt_score_updated": "2023-04-22T09:47:29Z",
+      "automarkable": true,
+      "attempted": true,
+      "score": 1,
+      "max_score": 1,
+      "question_reference": "7147d1fe-5d3b-45c1-b610-dfd859b1b26e",
+      "item_reference": "937b6307-6933-4aa4-8e22-97ac3959cac0",
+      "response": {
+        "value": [
+          "1"
+        ],
+        "type": "array",
+        "apiVersion": "v2.168.23",
+        "revision": 1
+      },
+      "questionInfo": {
+        "type": "mcq",
+        "widget_type": "response",
+        "reference": "7147d1fe-5d3b-45c1-b610-dfd859b1b26e",
+        "data": {
+          "options": [
+            {
+              "label": "the data gets shared and used",
+              "value": "0"
+            },
+            {
+              "label": "confidentiality",
+              "value": "1"
+            },
+            {
+              "label": "participants are thanked for the participation",
+              "value": "2"
+            },
+            {
+              "label": "participants get a copy of the study results",
+              "value": "3"
+            }
+          ],
+          "stimulus": "An important aspect of respecting participants rights is ensuring that after data has been collected",
+          "type": "mcq",
+          "validation": {
+            "scoring_type": "exactMatch",
+            "valid_response": {
+              "score": 1,
+              "value": [
+                "1"
+              ]
+            }
+          },
+          "ui_style": {
+            "type": "horizontal"
+          },
+          "shuffle_options": true
+        },
+        "metadata": {
+          "name": "Multiple choice – standard",
+          "template_reference": "9e8149bd-e4d8-4dd6-a751-1a113a4b9163"
+        }
+      },
+      "feedbackInfo": [
+        null,
+        null
+      ]
+    },
+    {
+      "response_id": "179cd2f8-1618-4581-a833-64dfb8a02086_45739704159c8228abbc8a7b1fcbfac2",
+      "question_type": "mcq",
+      "dt_score_updated": "2023-04-22T09:47:43Z",
+      "automarkable": true,
+      "attempted": true,
+      "score": 1,
+      "max_score": 1,
+      "question_reference": "6451ef81-dd56-4321-a92e-043e97093e1d",
+      "item_reference": "4adfeae1-087d-4e3a-89ab-3b153892360e",
+      "response": {
+        "value": [
+          "0"
+        ],
+        "type": "array",
+        "apiVersion": "v2.168.23",
+        "revision": 1
+      },
+      "questionInfo": {
+        "type": "mcq",
+        "widget_type": "response",
+        "reference": "6451ef81-dd56-4321-a92e-043e97093e1d",
+        "data": {
+          "options": [
+            {
+              "label": "True",
+              "value": "0"
+            },
+            {
+              "label": "False",
+              "value": "1"
+            }
+          ],
+          "stimulus": "Researchers should ensure data security so that it is not misused.",
+          "type": "mcq",
+          "ui_style": {
+            "type": "horizontal"
+          },
+          "validation": {
+            "scoring_type": "exactMatch",
+            "valid_response": {
+              "score": 1,
+              "value": [
+                "0"
+              ]
+            }
+          }
+        },
+        "metadata": {
+          "name": "True or false",
+          "template_reference": "3egs0b24-5gs8-49fc-fds9-4a450sdg31ca"
+        }
+      },
+      "feedbackInfo": [
+        null,
+        null
+      ]
+    }
+  ]
+}

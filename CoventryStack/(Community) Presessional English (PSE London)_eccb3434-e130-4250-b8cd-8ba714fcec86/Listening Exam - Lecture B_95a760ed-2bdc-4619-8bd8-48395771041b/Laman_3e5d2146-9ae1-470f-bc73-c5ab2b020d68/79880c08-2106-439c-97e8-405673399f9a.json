@@ -1,0 +1,820 @@
+{
+  "userId": "3e5d2146-9ae1-470f-bc73-c5ab2b020d68",
+  "firstName": "Laman",
+  "lastName": "Isfandiyarli",
+  "assigmentId": "95a760ed-2bdc-4619-8bd8-48395771041b",
+  "assigmentName": "Listening Exam - Lecture B",
+  "sessionId": "79880c08-2106-439c-97e8-405673399f9a",
+  "email": "isfandiyal@coventry.ac.uk",
+  "spaceId": "eccb3434-e130-4250-b8cd-8ba714fcec86",
+  "spaceName": "(Community) Presessional English (PSE London)",
+  "score": 11,
+  "max_score": 21,
+  "questions": [
+    {
+      "response_id": "79880c08-2106-439c-97e8-405673399f9a_39954edbdf2cad6956ef76b70c16dc02",
+      "question_type": "clozedropdown",
+      "dt_score_updated": "2021-12-09T10:24:39Z",
+      "automarkable": true,
+      "attempted": true,
+      "score": 1,
+      "max_score": 1,
+      "question_reference": "a5acbd01-42ee-4571-9562-11c9251b8cf5",
+      "item_reference": "17789ead-6bcd-4dd4-a927-f4edb9b0f2eb",
+      "response": {
+        "value": [
+          "concepts"
+        ],
+        "type": "array",
+        "apiVersion": "v2.168.14",
+        "revision": 1
+      },
+      "questionInfo": {
+        "type": "clozedropdown",
+        "widget_type": "response",
+        "reference": "a5acbd01-42ee-4571-9562-11c9251b8cf5",
+        "data": {
+          "possible_responses": [
+            [
+              "prospects",
+              "concepts",
+              "contacts",
+              "processes"
+            ]
+          ],
+          "response_container": {
+            "pointer": "left"
+          },
+          "stimulus": "<p>&nbsp;</p>\n\n<p><span style=\"font-size:1.6em;\"><span style=\"color:#0000ff;\"><strong>Question 1 - Introduction</strong></span></span></p>\n\n<p><span style=\"font-size:1.3em;\"><strong>What would the lecturer like to achieve in this talk?</strong></span></p>\n\n<ul style=\"margin-left: 40px;\">\n\t<li><em><span style=\"font-size:1.1em;\">Choose <strong>ONE </strong>correct answer for each sentence.</span></em></li>\n</ul>\n",
+          "template": "<span style=\"font-size:1.3em;\"><strong>1.1.</strong></span> Introduce the main&nbsp;{{response}}&nbsp;and frameworks used for the analysis of competitive strategy.",
+          "type": "clozedropdown",
+          "case_sensitive": true,
+          "validation": {
+            "scoring_type": "exactMatch",
+            "valid_response": {
+              "score": 1,
+              "value": [
+                "concepts"
+              ]
+            }
+          },
+          "shuffle_options": true
+        },
+        "metadata": {
+          "name": "Cloze with drop down",
+          "template_reference": "2fbba51b-e35e-441f-83c7-2662e2e81fa6"
+        }
+      },
+      "feedbackInfo": [
+        {
+          "id": "0707_3e5d2146-9ae1-470f-bc73-c5ab2b020d68_79880c08-2106-439c-97e8-405673399f9a_0a87934e6ef0e9483c51d08dc1bc00fc",
+          "user_id": "3e5d2146-9ae1-470f-bc73-c5ab2b020d68",
+          "response_id": "79880c08-2106-439c-97e8-405673399f9a_0a87934e6ef0e9483c51d08dc1bc00fc",
+          "type": "longtextV2",
+          "question": {
+            "type": "longtextV2",
+            "metadata": {
+              "source": {
+                "organisation_id": 755
+              },
+              "sheet_reference": "default_feedback",
+              "widget_reference": "de082b5f-742a-4ecf-82ca-4dc86e218fec",
+              "valid_response_count": 0
+            },
+            "stimulus": "Written feedback:",
+            "response_id": "79880c08-2106-439c-97e8-405673399f9a_0a87934e6ef0e9483c51d08dc1bc00fc",
+            "show_word_count": false,
+            "show_word_limit": "off"
+          },
+          "response": null,
+          "creation_date": "2021-12-09 12:26:50",
+          "mod_date": "2021-12-09 12:26:50",
+          "persist_until": "2021-12-10 12:26:50",
+          "saved": false
+        },
+        null
+      ]
+    },
+    {
+      "response_id": "79880c08-2106-439c-97e8-405673399f9a_97d9c4388042cc86af2cdb03556844da",
+      "question_type": "clozedropdown",
+      "dt_score_updated": "2021-12-09T10:24:49Z",
+      "automarkable": true,
+      "attempted": true,
+      "score": 1,
+      "max_score": 1,
+      "question_reference": "6416bdfd-7ea5-41da-a259-4f65b8cf1d39",
+      "item_reference": "17789ead-6bcd-4dd4-a927-f4edb9b0f2eb",
+      "response": {
+        "value": [
+          "applied"
+        ],
+        "type": "array",
+        "apiVersion": "v2.168.14",
+        "revision": 1
+      },
+      "questionInfo": {
+        "type": "clozedropdown",
+        "widget_type": "response",
+        "reference": "6416bdfd-7ea5-41da-a259-4f65b8cf1d39",
+        "data": {
+          "possible_responses": [
+            [
+              "employed",
+              "implied",
+              "applied",
+              "deployed"
+            ]
+          ],
+          "response_container": {
+            "pointer": "left"
+          },
+          "template": "<span style=\"font-size:1.3em;\"><strong>1.2.</strong></span> How these principles could be&nbsp;{{response}}&nbsp;to help the firm achieve superior performance.",
+          "type": "clozedropdown",
+          "case_sensitive": true,
+          "validation": {
+            "scoring_type": "exactMatch",
+            "valid_response": {
+              "score": 1,
+              "value": [
+                "applied"
+              ]
+            }
+          },
+          "shuffle_options": true
+        },
+        "metadata": {
+          "name": "Cloze with drop down",
+          "template_reference": "2fbba51b-e35e-441f-83c7-2662e2e81fa6"
+        }
+      },
+      "feedbackInfo": [
+        {
+          "id": "0707_3e5d2146-9ae1-470f-bc73-c5ab2b020d68_79880c08-2106-439c-97e8-405673399f9a_af02eaa681f5c6bfba50cf6825f475e6",
+          "user_id": "3e5d2146-9ae1-470f-bc73-c5ab2b020d68",
+          "response_id": "79880c08-2106-439c-97e8-405673399f9a_af02eaa681f5c6bfba50cf6825f475e6",
+          "type": "longtextV2",
+          "question": {
+            "type": "longtextV2",
+            "metadata": {
+              "source": {
+                "organisation_id": 755
+              },
+              "sheet_reference": "default_feedback",
+              "widget_reference": "de082b5f-742a-4ecf-82ca-4dc86e218fec",
+              "valid_response_count": 0
+            },
+            "stimulus": "Written feedback:",
+            "response_id": "79880c08-2106-439c-97e8-405673399f9a_af02eaa681f5c6bfba50cf6825f475e6",
+            "show_word_count": false,
+            "show_word_limit": "off"
+          },
+          "response": null,
+          "creation_date": "2021-12-09 12:26:51",
+          "mod_date": "2021-12-09 12:26:51",
+          "persist_until": "2021-12-10 12:26:51",
+          "saved": false
+        },
+        null
+      ]
+    },
+    {
+      "response_id": "79880c08-2106-439c-97e8-405673399f9a_d87786af7b1930374f24e3e7556aa401",
+      "question_type": "choicematrix",
+      "dt_score_updated": "2021-12-09T10:25:04Z",
+      "automarkable": true,
+      "attempted": true,
+      "score": 0,
+      "max_score": 7,
+      "question_reference": "86e75001-9510-4027-b46d-c30d3135f1b6",
+      "item_reference": "17789ead-6bcd-4dd4-a927-f4edb9b0f2eb",
+      "response": {
+        "value": [
+          [
+            1
+          ],
+          [
+            0
+          ],
+          [
+            0
+          ],
+          [
+            0
+          ],
+          [
+            0
+          ],
+          [
+            1
+          ],
+          [
+            1
+          ]
+        ],
+        "type": "array",
+        "apiVersion": "v2.168.14",
+        "revision": 7
+      },
+      "questionInfo": {
+        "type": "choicematrix",
+        "widget_type": "response",
+        "reference": "86e75001-9510-4027-b46d-c30d3135f1b6",
+        "data": {
+          "options": [
+            "True",
+            "False"
+          ],
+          "stems": [
+            "<span style=\"font-size:1.3em;\"><strong>2.1.</strong></span> The lecturer is trying to explain that competitive strategy and corporate strategy should be same.&nbsp;",
+            "<span style=\"font-size:1.3em;\"><strong>2.2.&nbsp;</strong></span>The purpose of corporate strategy and competitive strategy is to help the firm make money.&nbsp;",
+            "<span style=\"font-size:1.3em;\"><strong>2.3.&nbsp;</strong></span>Industry attractiveness is a key factor for establishing a competitive advantage.&nbsp;",
+            "<span style=\"font-size:1.3em;\"><strong>2.4.&nbsp;</strong></span>Corporate strategy involves defining the scope of the firm to decide which businesses the firm should compete in.",
+            "<span style=\"font-size:1.3em;\"><strong>2.5.</strong></span>&nbsp;The key concern of competitive strategy is how the firm establishes a competitive advantage within its business.",
+            "<span style=\"font-size:1.3em;\"><strong>2.6.</strong></span>&nbsp;In order to establish a competitive advantage, the company should decide the scope of the firm.",
+            "<span style=\"font-size:1.3em;\"><strong>2.7.&nbsp;</strong></span>Competitive strategy is about how the firm should compete within its specific area of business."
+          ],
+          "stimulus": "<p><span style=\"font-size:1.6em;\"><span style=\"color:#0000ff;\"><strong>Question 2 - Corporate Strategy and Competitive Strategy</strong></span></span></p>\n\n<ul>\n\t<li><em><span style=\"font-size:1.1em;\">For each statement, choose <strong>TRUE </strong>or <strong>FALSE</strong>.</span></em></li>\n</ul>\n\n<p>&nbsp;</p>\n",
+          "type": "choicematrix",
+          "ui_style": {
+            "type": "inline",
+            "horizontal_lines": false
+          },
+          "validation": {
+            "scoring_type": "partialMatchV2",
+            "valid_response": {
+              "score": 7,
+              "value": [
+                [
+                  1
+                ],
+                [
+                  0
+                ],
+                [
+                  1
+                ],
+                [
+                  0
+                ],
+                [
+                  0
+                ],
+                [
+                  1
+                ],
+                [
+                  0
+                ]
+              ]
+            }
+          }
+        },
+        "metadata": {
+          "name": "Choice matrix – inline",
+          "template_reference": "f109c77c-390e-4595-93b8-2dbd547251b6"
+        }
+      },
+      "feedbackInfo": [
+        {
+          "id": "0707_3e5d2146-9ae1-470f-bc73-c5ab2b020d68_79880c08-2106-439c-97e8-405673399f9a_29f035e3e21d96960b4b9c7108d2dcdc",
+          "user_id": "3e5d2146-9ae1-470f-bc73-c5ab2b020d68",
+          "response_id": "79880c08-2106-439c-97e8-405673399f9a_29f035e3e21d96960b4b9c7108d2dcdc",
+          "type": "longtextV2",
+          "question": {
+            "type": "longtextV2",
+            "metadata": {
+              "source": {
+                "organisation_id": 755
+              },
+              "sheet_reference": "default_feedback",
+              "widget_reference": "de082b5f-742a-4ecf-82ca-4dc86e218fec",
+              "valid_response_count": 0
+            },
+            "stimulus": "Written feedback:",
+            "response_id": "79880c08-2106-439c-97e8-405673399f9a_29f035e3e21d96960b4b9c7108d2dcdc",
+            "show_word_count": false,
+            "show_word_limit": "off"
+          },
+          "response": null,
+          "creation_date": "2021-12-09 12:26:51",
+          "mod_date": "2021-12-09 12:26:51",
+          "persist_until": "2021-12-10 12:26:51",
+          "saved": false
+        },
+        null
+      ]
+    },
+    {
+      "response_id": "79880c08-2106-439c-97e8-405673399f9a_d217716759397bde7203954223d80e0c",
+      "question_type": "mcq",
+      "dt_score_updated": "2021-12-09T10:26:24Z",
+      "automarkable": true,
+      "attempted": true,
+      "score": 1,
+      "max_score": 2,
+      "question_reference": "4ef7631b-8c6d-4d8b-9dea-4849b7a7ef6f",
+      "item_reference": "17789ead-6bcd-4dd4-a927-f4edb9b0f2eb",
+      "response": {
+        "value": [
+          "3",
+          "2"
+        ],
+        "type": "array",
+        "apiVersion": "v2.168.14",
+        "revision": 3
+      },
+      "questionInfo": {
+        "type": "mcq",
+        "widget_type": "response",
+        "reference": "4ef7631b-8c6d-4d8b-9dea-4849b7a7ef6f",
+        "data": {
+          "multiple_responses": true,
+          "options": [
+            {
+              "label": "The primary focus of competitive strategy is the positioning of the firm.",
+              "value": "0"
+            },
+            {
+              "label": "The primary focus of competitive strategy is the product market scope.",
+              "value": "1"
+            },
+            {
+              "label": "Competition is the basis for competitive advantage.",
+              "value": "2"
+            },
+            {
+              "label": "The positioning of the firm is about competing for the present.",
+              "value": "3"
+            }
+          ],
+          "stimulus": "<p>&nbsp;</p>\n\n<p><span style=\"color:#0000ff;\"><span style=\"font-size:1.6em;\"><strong>Question 3 - Describe Strategy</strong></span></span></p>\n\n<p style=\"margin-left: 40px;\"><span style=\"font-size:1.3em;\"><b>3.1. Strategy as positioning. According to the lecturer...</b></span></p>\n\n<ul style=\"margin-left: 40px;\">\n\t<li><em>Choose <strong>TWO</strong></em></li>\n</ul>\n\n<p>&nbsp;</p>\n",
+          "type": "mcq",
+          "validation": {
+            "scoring_type": "partialMatchV2",
+            "valid_response": {
+              "score": 2,
+              "value": [
+                "0",
+                "3"
+              ]
+            }
+          },
+          "ui_style": {
+            "type": "horizontal"
+          },
+          "shuffle_options": true
+        },
+        "metadata": {
+          "name": "Multiple choice – multiple response",
+          "template_reference": "908de244-5c71-4c09-b094-7fb49554f2f9"
+        }
+      },
+      "feedbackInfo": [
+        {
+          "id": "0707_3e5d2146-9ae1-470f-bc73-c5ab2b020d68_79880c08-2106-439c-97e8-405673399f9a_1aca181d2cbb80b5bd8bb6f97b064053",
+          "user_id": "3e5d2146-9ae1-470f-bc73-c5ab2b020d68",
+          "response_id": "79880c08-2106-439c-97e8-405673399f9a_1aca181d2cbb80b5bd8bb6f97b064053",
+          "type": "longtextV2",
+          "question": {
+            "type": "longtextV2",
+            "metadata": {
+              "source": {
+                "organisation_id": 755
+              },
+              "sheet_reference": "default_feedback",
+              "widget_reference": "de082b5f-742a-4ecf-82ca-4dc86e218fec",
+              "valid_response_count": 0
+            },
+            "stimulus": "Written feedback:",
+            "response_id": "79880c08-2106-439c-97e8-405673399f9a_1aca181d2cbb80b5bd8bb6f97b064053",
+            "show_word_count": false,
+            "show_word_limit": "off"
+          },
+          "response": null,
+          "creation_date": "2021-12-09 12:26:52",
+          "mod_date": "2021-12-09 12:26:52",
+          "persist_until": "2021-12-10 12:26:52",
+          "saved": false
+        },
+        null
+      ]
+    },
+    {
+      "response_id": "79880c08-2106-439c-97e8-405673399f9a_3bf889f42605f12b47a8504901ec543b",
+      "question_type": "mcq",
+      "dt_score_updated": "2021-12-09T10:35:56Z",
+      "automarkable": true,
+      "attempted": true,
+      "score": 1,
+      "max_score": 2,
+      "question_reference": "1dadea2f-9334-4c93-af93-4d6a691d688e",
+      "item_reference": "17789ead-6bcd-4dd4-a927-f4edb9b0f2eb",
+      "response": {
+        "value": [
+          "2",
+          "3"
+        ],
+        "type": "array",
+        "apiVersion": "v2.168.14",
+        "revision": 6
+      },
+      "questionInfo": {
+        "type": "mcq",
+        "widget_type": "response",
+        "reference": "1dadea2f-9334-4c93-af93-4d6a691d688e",
+        "data": {
+          "multiple_responses": true,
+          "options": [
+            {
+              "label": "Competitive strategy also has a dynamic component.",
+              "value": "0"
+            },
+            {
+              "label": "The dynamic component defines the firm’s performance goals.",
+              "value": "1"
+            },
+            {
+              "label": "The dynamic component is future oriented.",
+              "value": "2"
+            },
+            {
+              "label": "The dynamic component prioritises resource allocation.",
+              "value": "3"
+            }
+          ],
+          "stimulus": "<p style=\"margin-left: 40px;\"><span style=\"font-size:1.3em;\"><strong>3.2. Strategy as direction. According to the lecturer...</strong></span></p>\n\n<ul style=\"margin-left: 40px;\">\n\t<li><em><span style=\"font-size:1.1em;\">Choose <strong>TWO</strong></span></em></li>\n</ul>\n\n<p>&nbsp;</p>\n",
+          "type": "mcq",
+          "validation": {
+            "scoring_type": "partialMatchV2",
+            "valid_response": {
+              "score": 2,
+              "value": [
+                "0",
+                "2"
+              ]
+            }
+          },
+          "ui_style": {
+            "type": "horizontal"
+          },
+          "shuffle_options": true
+        },
+        "metadata": {
+          "name": "Multiple choice – multiple response",
+          "template_reference": "908de244-5c71-4c09-b094-7fb49554f2f9"
+        }
+      },
+      "feedbackInfo": [
+        {
+          "id": "0707_3e5d2146-9ae1-470f-bc73-c5ab2b020d68_79880c08-2106-439c-97e8-405673399f9a_1053e4ce43e768c950a4e8ce7d2648be",
+          "user_id": "3e5d2146-9ae1-470f-bc73-c5ab2b020d68",
+          "response_id": "79880c08-2106-439c-97e8-405673399f9a_1053e4ce43e768c950a4e8ce7d2648be",
+          "type": "longtextV2",
+          "question": {
+            "type": "longtextV2",
+            "metadata": {
+              "source": {
+                "organisation_id": 755
+              },
+              "sheet_reference": "default_feedback",
+              "widget_reference": "de082b5f-742a-4ecf-82ca-4dc86e218fec",
+              "valid_response_count": 0
+            },
+            "stimulus": "Written feedback:",
+            "response_id": "79880c08-2106-439c-97e8-405673399f9a_1053e4ce43e768c950a4e8ce7d2648be",
+            "show_word_count": false,
+            "show_word_limit": "off"
+          },
+          "response": null,
+          "creation_date": "2021-12-09 12:26:52",
+          "mod_date": "2021-12-09 12:26:52",
+          "persist_until": "2021-12-10 12:26:52",
+          "saved": false
+        },
+        null
+      ]
+    },
+    {
+      "response_id": "79880c08-2106-439c-97e8-405673399f9a_08aa7de1d2d6c42e05ad861f91f5e2e9",
+      "question_type": "choicematrix",
+      "dt_score_updated": "2021-12-09T10:28:05Z",
+      "automarkable": true,
+      "attempted": true,
+      "score": 4,
+      "max_score": 4,
+      "question_reference": "bcc14740-b83b-46a4-9bfe-90b41b0db71d",
+      "item_reference": "17789ead-6bcd-4dd4-a927-f4edb9b0f2eb",
+      "response": {
+        "value": [
+          [
+            0
+          ],
+          [
+            0
+          ],
+          [
+            1
+          ],
+          [
+            1
+          ],
+          [
+            0
+          ],
+          [
+            1
+          ],
+          [
+            1
+          ],
+          [
+            0
+          ]
+        ],
+        "type": "array",
+        "apiVersion": "v2.168.14",
+        "revision": 4
+      },
+      "questionInfo": {
+        "type": "choicematrix",
+        "widget_type": "response",
+        "reference": "bcc14740-b83b-46a4-9bfe-90b41b0db71d",
+        "data": {
+          "options": [
+            "True",
+            "False"
+          ],
+          "stems": [
+            "<span style=\"font-size:1.3em;\"><strong>4.1. </strong></span>Both companies are leaders in their segment.",
+            "<span style=\"font-size:1.3em;\"><strong>4.2.</strong></span> Harley Davidson is an example of a company which successfully competes for the present.",
+            "<span style=\"font-size:1.3em;\"><strong>4.3.</strong></span>&nbsp;Both companies balance competition in the present and competition for the future.",
+            "<span style=\"font-size:1.3em;\"><strong>4.4.</strong></span>&nbsp;Only Harley Davison balances competition in the present and competition for the future.&nbsp;",
+            "<span style=\"font-size:1.3em;\"><strong>4.5.</strong></span>&nbsp;Only Microsoft balances competition in the present and competition for the future.",
+            "<span style=\"font-size:1.3em;\"><strong>4.6.</strong></span>&nbsp;The lecturer believes that companies should prioritise competing for the present.",
+            "<span style=\"font-size:1.3em;\"><strong>4.7.</strong></span>&nbsp;The lecturer believes that companies should prioritise competing for the future.",
+            "<span style=\"font-size:1.3em;\"><strong>4.8.</strong></span>&nbsp;The balance between positioning and direction presents an organizational challenge for the firm.&nbsp;"
+          ],
+          "stimulus": "<p>&nbsp;</p>\n\n<p><span style=\"color:#0000ff;\"><span style=\"font-size:1.6em;\"><strong>Question 4 - Harley Davidson vs. Microsoft</strong></span></span></p>\n\n<ul style=\"margin-left: 40px;\">\n\t<li><em><span style=\"font-size:1.1em;\">For each statement, choose <strong>TRUE </strong>or <strong>FALSE</strong>. There are <u>FOUR </u><strong>TRUE </strong>statements.</span></em></li>\n</ul>\n\n<p>&nbsp;</p>\n\n<p><strong><span style=\"font-size:1.3em;\">According to the lecturer...</span></strong></p>\n",
+          "type": "choicematrix",
+          "ui_style": {
+            "type": "inline",
+            "horizontal_lines": false
+          },
+          "validation": {
+            "scoring_type": "partialMatchV2",
+            "valid_response": {
+              "score": 4,
+              "value": [
+                [
+                  0
+                ],
+                [
+                  0
+                ],
+                [
+                  1
+                ],
+                [
+                  1
+                ],
+                [
+                  0
+                ],
+                [
+                  1
+                ],
+                [
+                  1
+                ],
+                [
+                  0
+                ]
+              ]
+            }
+          }
+        },
+        "metadata": {
+          "name": "Choice matrix – inline",
+          "template_reference": "f109c77c-390e-4595-93b8-2dbd547251b6"
+        }
+      },
+      "feedbackInfo": [
+        {
+          "id": "0707_3e5d2146-9ae1-470f-bc73-c5ab2b020d68_79880c08-2106-439c-97e8-405673399f9a_602844ea3085d1f5df08bb4d08e9f3c6",
+          "user_id": "3e5d2146-9ae1-470f-bc73-c5ab2b020d68",
+          "response_id": "79880c08-2106-439c-97e8-405673399f9a_602844ea3085d1f5df08bb4d08e9f3c6",
+          "type": "longtextV2",
+          "question": {
+            "type": "longtextV2",
+            "metadata": {
+              "source": {
+                "organisation_id": 755
+              },
+              "sheet_reference": "default_feedback",
+              "widget_reference": "de082b5f-742a-4ecf-82ca-4dc86e218fec",
+              "valid_response_count": 0
+            },
+            "stimulus": "Written feedback:",
+            "response_id": "79880c08-2106-439c-97e8-405673399f9a_602844ea3085d1f5df08bb4d08e9f3c6",
+            "show_word_count": false,
+            "show_word_limit": "off"
+          },
+          "response": null,
+          "creation_date": "2021-12-09 12:26:52",
+          "mod_date": "2021-12-09 12:26:52",
+          "persist_until": "2021-12-10 12:26:52",
+          "saved": false
+        },
+        null
+      ]
+    },
+    {
+      "response_id": "79880c08-2106-439c-97e8-405673399f9a_4a3b9978478fb4647ecb079d3317ff6d",
+      "question_type": "mcq",
+      "dt_score_updated": "2021-12-09T10:28:45Z",
+      "automarkable": true,
+      "attempted": true,
+      "score": 1,
+      "max_score": 2,
+      "question_reference": "178124c5-0b39-4616-9eba-33021d50b87d",
+      "item_reference": "17789ead-6bcd-4dd4-a927-f4edb9b0f2eb",
+      "response": {
+        "value": [
+          "3",
+          "1"
+        ],
+        "type": "array",
+        "apiVersion": "v2.168.14",
+        "revision": 2
+      },
+      "questionInfo": {
+        "type": "mcq",
+        "widget_type": "response",
+        "reference": "178124c5-0b39-4616-9eba-33021d50b87d",
+        "data": {
+          "multiple_responses": true,
+          "options": [
+            {
+              "label": "Competitive strategy can make change more difficult.",
+              "value": "0"
+            },
+            {
+              "label": "If companies try to change part of their strategy, they may lose coherence.",
+              "value": "1"
+            },
+            {
+              "label": "Competitive advantage is achieved when the activity system fits the strategy very closely.",
+              "value": "2"
+            },
+            {
+              "label": "Companies must adapt to the small changes in the market.",
+              "value": "3"
+            }
+          ],
+          "stimulus": "<p>&nbsp;</p>\n\n<p><span style=\"font-size:1.6em;\"><span style=\"color:#0000ff;\"><strong>Question 5 - Competitive Strategy: Other Implications</strong></span></span></p>\n\n<ul style=\"margin-left: 40px;\">\n\t<li><em><span style=\"font-size:1.1em;\">Choose <strong>TWO </strong>correct answers.</span></em></li>\n</ul>\n\n<p>&nbsp;</p>\n\n<p><span style=\"font-size:1.3em;\"><strong>According to the lecturer...</strong></span></p>\n",
+          "type": "mcq",
+          "validation": {
+            "scoring_type": "partialMatchV2",
+            "valid_response": {
+              "score": 2,
+              "value": [
+                "0",
+                "1"
+              ]
+            }
+          },
+          "ui_style": {
+            "type": "horizontal"
+          },
+          "shuffle_options": true
+        },
+        "metadata": {
+          "name": "Multiple choice – multiple response",
+          "template_reference": "908de244-5c71-4c09-b094-7fb49554f2f9"
+        }
+      },
+      "feedbackInfo": [
+        {
+          "id": "0707_3e5d2146-9ae1-470f-bc73-c5ab2b020d68_79880c08-2106-439c-97e8-405673399f9a_da244208aaa3e6d69a9b8e218c4b5641",
+          "user_id": "3e5d2146-9ae1-470f-bc73-c5ab2b020d68",
+          "response_id": "79880c08-2106-439c-97e8-405673399f9a_da244208aaa3e6d69a9b8e218c4b5641",
+          "type": "longtextV2",
+          "question": {
+            "type": "longtextV2",
+            "metadata": {
+              "source": {
+                "organisation_id": 755
+              },
+              "sheet_reference": "default_feedback",
+              "widget_reference": "de082b5f-742a-4ecf-82ca-4dc86e218fec",
+              "valid_response_count": 0
+            },
+            "stimulus": "Written feedback:",
+            "response_id": "79880c08-2106-439c-97e8-405673399f9a_da244208aaa3e6d69a9b8e218c4b5641",
+            "show_word_count": false,
+            "show_word_limit": "off"
+          },
+          "response": null,
+          "creation_date": "2021-12-09 12:26:53",
+          "mod_date": "2021-12-09 12:26:53",
+          "persist_until": "2021-12-10 12:26:53",
+          "saved": false
+        },
+        null
+      ]
+    },
+    {
+      "response_id": "79880c08-2106-439c-97e8-405673399f9a_b74389ab6a6b25d3ea8c594d364bdba1",
+      "question_type": "mcq",
+      "dt_score_updated": "2021-12-09T10:30:30Z",
+      "automarkable": true,
+      "attempted": true,
+      "score": 2,
+      "max_score": 2,
+      "question_reference": "7ca2fc9c-c4fa-4d32-9ce5-dc2e8abda5e3",
+      "item_reference": "17789ead-6bcd-4dd4-a927-f4edb9b0f2eb",
+      "response": {
+        "value": [
+          "2"
+        ],
+        "type": "array",
+        "apiVersion": "v2.168.14",
+        "revision": 2
+      },
+      "questionInfo": {
+        "type": "mcq",
+        "widget_type": "response",
+        "reference": "7ca2fc9c-c4fa-4d32-9ce5-dc2e8abda5e3",
+        "data": {
+          "options": [
+            {
+              "label": "Strategy making is a very complex concept and its value resides in the applications, not the inherent frameworks.",
+              "value": "0"
+            },
+            {
+              "label": "Strategy making is a very complex concept and its value resides in the inherent frameworks, not the practical applications.",
+              "value": "1"
+            },
+            {
+              "label": "Strategy making is based on simple concepts and its value resides in the applications, not the inherent frameworks.",
+              "value": "2"
+            },
+            {
+              "label": "Strategy making is based on simple concepts and its value resides in the inherent frameworks, not the practical applications.",
+              "value": "3"
+            }
+          ],
+          "stimulus": "<p>&nbsp;</p>\n\n<p><span style=\"font-size:1.6em;\"><span style=\"color:#0000ff;\"><strong>Question 6 - Conclusion</strong></span></span></p>\n\n<ul style=\"margin-left: 40px;\">\n\t<li><em><span style=\"font-size:1.1em;\">Choose the best summary of the conclusion.</span></em></li>\n</ul>\n\n<p>&nbsp;</p>\n",
+          "type": "mcq",
+          "validation": {
+            "scoring_type": "exactMatch",
+            "valid_response": {
+              "score": 2,
+              "value": [
+                "2"
+              ]
+            }
+          },
+          "ui_style": {
+            "type": "horizontal"
+          },
+          "shuffle_options": true
+        },
+        "metadata": {
+          "name": "Multiple choice – standard",
+          "template_reference": "9e8149bd-e4d8-4dd6-a751-1a113a4b9163"
+        }
+      },
+      "feedbackInfo": [
+        {
+          "id": "0707_3e5d2146-9ae1-470f-bc73-c5ab2b020d68_79880c08-2106-439c-97e8-405673399f9a_8793ae5f4524c518a289eb5abed62c7b",
+          "user_id": "3e5d2146-9ae1-470f-bc73-c5ab2b020d68",
+          "response_id": "79880c08-2106-439c-97e8-405673399f9a_8793ae5f4524c518a289eb5abed62c7b",
+          "type": "longtextV2",
+          "question": {
+            "type": "longtextV2",
+            "metadata": {
+              "source": {
+                "organisation_id": 755
+              },
+              "sheet_reference": "default_feedback",
+              "widget_reference": "de082b5f-742a-4ecf-82ca-4dc86e218fec",
+              "valid_response_count": 0
+            },
+            "stimulus": "Written feedback:",
+            "response_id": "79880c08-2106-439c-97e8-405673399f9a_8793ae5f4524c518a289eb5abed62c7b",
+            "show_word_count": false,
+            "show_word_limit": "off"
+          },
+          "response": null,
+          "creation_date": "2021-12-09 12:26:53",
+          "mod_date": "2021-12-09 12:26:53",
+          "persist_until": "2021-12-10 12:26:53",
+          "saved": false
+        },
+        null
+      ]
+    }
+  ]
+}

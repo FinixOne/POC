@@ -1,0 +1,500 @@
+{
+  "userId": "94ba4b3e-3daa-4e84-af7a-a02fdd94cf64",
+  "firstName": "Jiaxin",
+  "lastName": "Zhang",
+  "assigmentId": "f5009bf5-5f9b-4337-815a-0e978b63bcbc",
+  "assigmentName": "Introduction to Market Research",
+  "sessionId": "225c414a-0e1e-42e8-a014-3b35a6a51dd3",
+  "email": "zhangj146@coventry.ac.uk",
+  "spaceId": "eccb3434-e130-4250-b8cd-8ba714fcec86",
+  "spaceName": "(Community) Presessional English (PSE London)",
+  "score": 0,
+  "max_score": 14,
+  "questions": [
+    {
+      "response_id": "225c414a-0e1e-42e8-a014-3b35a6a51dd3_8b3a628f0e5d48b446c0d22b619a3105",
+      "question_type": "imageclozeassociationV2",
+      "dt_score_updated": "2022-07-04T07:30:23Z",
+      "automarkable": true,
+      "attempted": true,
+      "score": 0,
+      "max_score": 1,
+      "question_reference": "4f4cd125-6013-4dee-acb1-87522394b439",
+      "item_reference": "198c7904-fac6-4a7e-b072-4a4e01939d30",
+      "response": {
+        "value": [
+          [],
+          [],
+          [],
+          [],
+          [],
+          [],
+          []
+        ],
+        "type": "array",
+        "apiVersion": "v2.168.22",
+        "revision": 1
+      },
+      "questionInfo": {
+        "type": "imageclozeassociationV2",
+        "widget_type": "response",
+        "reference": "4f4cd125-6013-4dee-acb1-87522394b439",
+        "data": {
+          "image": {
+            "src": "https://assets.learnosity.com/organisations/755/e611a56a-ea3f-4c0a-8176-a99abf70dc1d.jpg",
+            "width": 600,
+            "height": 639
+          },
+          "possible_responses": [
+            "<span style=\"color:#008000;\"><strong>PRIMARY RESEARCH</strong></span>",
+            "<span style=\"color:#800080;\"><strong>SECONDARY RESEARCH</strong></span>",
+            "Surveys",
+            "Focus groups",
+            "Newspapers",
+            "Websites",
+            "Government Reports"
+          ],
+          "response_containers": [
+            {
+              "x": 0.33,
+              "y": 41.31,
+              "width": "44.02%",
+              "height": "6.34%",
+              "aria_label": "",
+              "pointer": "undefined"
+            },
+            {
+              "x": 47.5,
+              "y": 41.16,
+              "width": "43.02%",
+              "height": "6.34%",
+              "aria_label": "",
+              "pointer": "undefined"
+            },
+            {
+              "x": 24.83,
+              "y": 67.76,
+              "width": "18.02%",
+              "height": "5.24%",
+              "aria_label": "",
+              "pointer": "undefined"
+            },
+            {
+              "x": 25,
+              "y": 92,
+              "aria_label": "",
+              "width": "17.66%",
+              "height": "6.98%",
+              "pointer": "none"
+            },
+            {
+              "x": 71,
+              "y": 67,
+              "aria_label": "",
+              "width": "16.50%",
+              "height": "5.95%",
+              "pointer": "none"
+            },
+            {
+              "x": 71.17,
+              "y": 92.49,
+              "aria_label": "",
+              "width": "17.00%",
+              "height": "7.51%",
+              "pointer": "none"
+            },
+            {
+              "x": 51,
+              "y": 92.33,
+              "aria_label": "",
+              "width": "15.00%",
+              "height": "6.10%",
+              "pointer": "none"
+            }
+          ],
+          "type": "imageclozeassociationV2",
+          "case_sensitive": true,
+          "validation": {
+            "scoring_type": "exactMatch",
+            "valid_response": {
+              "score": 1,
+              "value": [
+                [
+                  "<span style=\"color:#008000;\"><strong>PRIMARY RESEARCH</strong></span>"
+                ],
+                [
+                  "<span style=\"color:#800080;\"><strong>SECONDARY RESEARCH</strong></span>"
+                ],
+                [
+                  "Surveys"
+                ],
+                [
+                  "Focus groups"
+                ],
+                [
+                  "Newspapers"
+                ],
+                [
+                  "Government Reports"
+                ],
+                [
+                  "Websites"
+                ]
+              ]
+            }
+          }
+        },
+        "metadata": {
+          "name": "Label image with drag & drop",
+          "template_reference": "6e77b403-8f0c-43af-b464-9450e1ac70dc"
+        }
+      },
+      "feedbackInfo": [
+        null,
+        null
+      ]
+    },
+    {
+      "response_id": "225c414a-0e1e-42e8-a014-3b35a6a51dd3_8a64a9e3aed48f993a803ea18b45f218",
+      "question_type": "clozeassociation",
+      "dt_score_updated": "2022-07-04T07:29:22Z",
+      "automarkable": true,
+      "attempted": false,
+      "score": null,
+      "max_score": 8,
+      "question_reference": "e191e5f3-abca-4039-9e2a-d9e2a4e8a52a",
+      "item_reference": "fd288873-d5d2-49b9-a4a1-a30d5913d032",
+      "response": null,
+      "questionInfo": {
+        "type": "clozeassociation",
+        "widget_type": "response",
+        "reference": "e191e5f3-abca-4039-9e2a-d9e2a4e8a52a",
+        "data": {
+          "possible_responses": [
+            "<span style=\"font-size:1em;\">Market research</span>",
+            "<span style=\"font-size:1em;\">Secondary research</span>",
+            "<span style=\"font-size:1em;\">Primary research</span>",
+            "<span style=\"font-size:1em;\">Respondent</span>",
+            "<span style=\"font-size:1em;\">Response rate</span>",
+            "<span style=\"font-size:1em;\">Survey</span>",
+            "<span style=\"font-size:1em;\">Quantitative research</span>",
+            "<span style=\"font-size:1em;\">Qualitative information</span>"
+          ],
+          "response_container": {
+            "pointer": "left"
+          },
+          "stimulus": "<h2><strong><span style=\"color:#008000;\">Here are some key words for Market Research</span></strong></h2>\n\n<p><img height=\"113\" src=\"https://assets.learnosity.com/organisations/755/711154ac-917a-4d9a-96e1-7545fcf4b8a7.jpg\" width=\"398\"></p>\n\n<h4 id=\"yui_3_17_2_1_1634306097061_104\"><strong><span style=\"color:#008000;\">► </span>Drag the words to the correct definitions.</strong></h4>\n",
+          "template": "<ul>\n\t<li><span style=\"font-size:1.1em;\"></span><span style=\"font-size:1em;\">{{response}}</span><span style=\"font-size:1.1em;\">: Gathering<strong> data and information </strong>about <u>consumer needs and preferences</u>.</span></li>\n\t<li><span style=\"font-size:1.1em;\"></span><span style=\"font-size:1em;\">{{response}}</span><span style=\"font-size:1.1em;\">: Research conducted by gathering data <strong>from previously published sources</strong>.</span></li>\n\t<li><span style=\"font-size:1.1em;\"></span><span style=\"font-size:1em;\">{{response}}</span><span style=\"font-size:1.1em;\">: Research conducted by yourself by gathering from <strong>first-hand sources</strong>.</span></li>\n\t<li><span style=\"font-size:1.1em;\"></span><span style=\"font-size:1em;\">{{response}}</span><span style=\"font-size:1.1em;\">: A <strong>person </strong>who takes part in a method of market research.</span></li>\n\t<li><span style=\"font-size:1.1em;\"></span><span style=\"font-size:1em;\">{{response}}</span><span style=\"font-size:1.1em;\">: The <strong>number of respondents</strong> who complete the survey divided by the number of people in the sample.</span></li>\n\t<li><span style=\"font-size:1.1em;\"></span><span style=\"font-size:1em;\">{{response}}</span><span style=\"font-size:1.1em;\">:&nbsp;A method of market research conducted in the form of a <strong>questionnaire</strong>.</span></li>\n\t<li><span style=\"font-size:1.1em;\"></span><span style=\"font-size:1em;\">{{response}}</span><span style=\"font-size:1.1em;\">: <strong>Data </strong>that measures an amount or value. The results are usually <u>numbers or percentages</u>.</span></li>\n\t<li><span style=\"font-size:1.1em;\"></span><span style=\"font-size:1em;\">{{response}}</span><span style=\"font-size:1.1em;\">: Data that records the <strong>attitudes, opinions and feelings</strong> of a respondent.</span></li>\n</ul>\n",
+          "type": "clozeassociation",
+          "case_sensitive": true,
+          "validation": {
+            "scoring_type": "partialMatchV2",
+            "valid_response": {
+              "score": 8,
+              "value": [
+                "<span style=\"font-size:1em;\">Market research</span>",
+                "<span style=\"font-size:1em;\">Secondary research</span>",
+                "<span style=\"font-size:1em;\">Primary research</span>",
+                "<span style=\"font-size:1em;\">Respondent</span>",
+                "<span style=\"font-size:1em;\">Response rate</span>",
+                "<span style=\"font-size:1em;\">Survey</span>",
+                "<span style=\"font-size:1em;\">Quantitative research</span>",
+                "<span style=\"font-size:1em;\">Qualitative information</span>"
+              ]
+            }
+          },
+          "instant_feedback": true,
+          "shuffle_options": true
+        },
+        "metadata": {
+          "name": "Cloze with drag & drop",
+          "template_reference": "51a8c1e7-f34f-4faf-b211-da458e891fcb"
+        }
+      },
+      "feedbackInfo": [
+        null,
+        null
+      ]
+    },
+    {
+      "response_id": "225c414a-0e1e-42e8-a014-3b35a6a51dd3_314cf3a84748eb472405c6e92769ee4f",
+      "question_type": "mcq",
+      "dt_score_updated": "2022-07-04T07:29:22Z",
+      "automarkable": true,
+      "attempted": false,
+      "score": null,
+      "max_score": 1,
+      "question_reference": "8aa6bd75-a277-454c-a7f2-6adb86175aea",
+      "item_reference": "fa128060-e636-4a86-bcf4-7bbfc5b70edf",
+      "response": null,
+      "questionInfo": {
+        "type": "mcq",
+        "widget_type": "response",
+        "reference": "8aa6bd75-a277-454c-a7f2-6adb86175aea",
+        "data": {
+          "options": [
+            {
+              "label": "To identify customer needs",
+              "value": "0"
+            },
+            {
+              "label": "To sell goods and services",
+              "value": "1"
+            },
+            {
+              "label": "To advertise",
+              "value": "2"
+            }
+          ],
+          "stimulus": "<div class=\"lrn-well\"><strong><span style=\"font-size:1.3em;\"><span style=\"line-height:normal\"><span style=\"font-family:Calibri,sans-serif\"><span style=\"color:#231f20\">1 Why do businesses use market research?</span></span></span></span></strong></div>\n",
+          "type": "mcq",
+          "validation": {
+            "scoring_type": "exactMatch",
+            "valid_response": {
+              "score": 1,
+              "value": [
+                "0"
+              ]
+            }
+          },
+          "ui_style": {
+            "type": "horizontal"
+          },
+          "instant_feedback": true
+        },
+        "metadata": {
+          "name": "Multiple choice – standard",
+          "template_reference": "9e8149bd-e4d8-4dd6-a751-1a113a4b9163"
+        }
+      },
+      "feedbackInfo": [
+        null,
+        null
+      ]
+    },
+    {
+      "response_id": "225c414a-0e1e-42e8-a014-3b35a6a51dd3_afdffe9ca8150eaf2ce6006d3a99870e",
+      "question_type": "mcq",
+      "dt_score_updated": "2022-07-04T07:29:22Z",
+      "automarkable": true,
+      "attempted": false,
+      "score": null,
+      "max_score": 1,
+      "question_reference": "fdfcbdf2-9b6d-4521-9446-0bbccd58912b",
+      "item_reference": "fa128060-e636-4a86-bcf4-7bbfc5b70edf",
+      "response": null,
+      "questionInfo": {
+        "type": "mcq",
+        "widget_type": "response",
+        "reference": "fdfcbdf2-9b6d-4521-9446-0bbccd58912b",
+        "data": {
+          "options": [
+            {
+              "label": "Gathering new data",
+              "value": "0"
+            },
+            {
+              "label": "Gathering existing data",
+              "value": "1"
+            },
+            {
+              "label": "Conducting surveys",
+              "value": "2"
+            }
+          ],
+          "stimulus": "<div class=\"lrn-well\"><span style=\"line-height: normal;\"><font color=\"#231f20\" face=\"Calibri, sans-serif\"><span style=\"font-size: 1.3em;\"><b>2 What does </b></span></font><span style=\"color:#000080;\"><font face=\"Calibri, sans-serif\"><span style=\"font-size: 1.3em;\"><b>Secondary </b></span><span style=\"font-size: 18.2px;\"><b>Research</b></span></font></span><font color=\"#231f20\" face=\"Calibri, sans-serif\"><span style=\"font-size: 1.3em;\"><b>&nbsp;(desk research) involve?</b></span></font></span></div>\n",
+          "type": "mcq",
+          "validation": {
+            "scoring_type": "exactMatch",
+            "valid_response": {
+              "score": 1,
+              "value": [
+                "1"
+              ]
+            }
+          },
+          "ui_style": {
+            "type": "horizontal"
+          },
+          "instant_feedback": true
+        },
+        "metadata": {
+          "name": "Multiple choice – standard",
+          "template_reference": "9e8149bd-e4d8-4dd6-a751-1a113a4b9163"
+        }
+      },
+      "feedbackInfo": [
+        null,
+        null
+      ]
+    },
+    {
+      "response_id": "225c414a-0e1e-42e8-a014-3b35a6a51dd3_d4e75b8a76ec310984539c86c6932b95",
+      "question_type": "mcq",
+      "dt_score_updated": "2022-07-04T07:29:22Z",
+      "automarkable": true,
+      "attempted": false,
+      "score": null,
+      "max_score": 1,
+      "question_reference": "f4d0d1e0-7435-469d-aacb-3d6acefacf5b",
+      "item_reference": "fa128060-e636-4a86-bcf4-7bbfc5b70edf",
+      "response": null,
+      "questionInfo": {
+        "type": "mcq",
+        "widget_type": "response",
+        "reference": "f4d0d1e0-7435-469d-aacb-3d6acefacf5b",
+        "data": {
+          "options": [
+            {
+              "label": "Quantitative data",
+              "value": "0"
+            },
+            {
+              "label": "Qualitative data",
+              "value": "1"
+            },
+            {
+              "label": "Segmentation",
+              "value": "2"
+            }
+          ],
+          "stimulus": "<div class=\"lrn-well\"><strong><span style=\"font-size:1.3em;\"><span style=\"line-height:normal\"><span style=\"font-family:Calibri,sans-serif\"><span style=\"color:#231f20\">3 What is information collected about </span><span style=\"color:#000080;\">opinions and views</span><span style=\"color:#231f20\"> called?</span></span></span></span></strong></div>\n",
+          "type": "mcq",
+          "validation": {
+            "scoring_type": "exactMatch",
+            "valid_response": {
+              "score": 1,
+              "value": [
+                "1"
+              ]
+            }
+          },
+          "ui_style": {
+            "type": "horizontal"
+          },
+          "instant_feedback": true
+        },
+        "metadata": {
+          "name": "Multiple choice – standard",
+          "template_reference": "9e8149bd-e4d8-4dd6-a751-1a113a4b9163"
+        }
+      },
+      "feedbackInfo": [
+        null,
+        null
+      ]
+    },
+    {
+      "response_id": "225c414a-0e1e-42e8-a014-3b35a6a51dd3_2b77be448459868fcdbb035a55b6d2f6",
+      "question_type": "mcq",
+      "dt_score_updated": "2022-07-04T07:29:22Z",
+      "automarkable": true,
+      "attempted": false,
+      "score": null,
+      "max_score": 1,
+      "question_reference": "26f44c3a-079f-4aa3-98bf-acbfcf9acbf4",
+      "item_reference": "fa128060-e636-4a86-bcf4-7bbfc5b70edf",
+      "response": null,
+      "questionInfo": {
+        "type": "mcq",
+        "widget_type": "response",
+        "reference": "26f44c3a-079f-4aa3-98bf-acbfcf9acbf4",
+        "data": {
+          "options": [
+            {
+              "label": "Answerables&nbsp;",
+              "value": "0"
+            },
+            {
+              "label": "Students",
+              "value": "1"
+            },
+            {
+              "label": "Respondents",
+              "value": "2"
+            }
+          ],
+          "stimulus": "<div class=\"lrn-well\"><strong><span style=\"font-size:1.3em;\"><span style=\"line-height:normal\"><span style=\"font-family:Calibri,sans-serif\"><span style=\"color:#231f20\">5 What is the word used to describe an </span><span style=\"color:#000080;\">individual who is asked questions </span><span style=\"color:#231f20\">in a survey?</span></span></span></span></strong></div>\n",
+          "type": "mcq",
+          "validation": {
+            "scoring_type": "exactMatch",
+            "valid_response": {
+              "score": 1,
+              "value": [
+                "2"
+              ]
+            }
+          },
+          "ui_style": {
+            "type": "horizontal"
+          },
+          "instant_feedback": true
+        },
+        "metadata": {
+          "name": "Multiple choice – standard",
+          "template_reference": "9e8149bd-e4d8-4dd6-a751-1a113a4b9163"
+        }
+      },
+      "feedbackInfo": [
+        null,
+        null
+      ]
+    },
+    {
+      "response_id": "225c414a-0e1e-42e8-a014-3b35a6a51dd3_15e9f3e7fb528eb96d409555467e9ecb",
+      "question_type": "mcq",
+      "dt_score_updated": "2022-07-04T07:29:22Z",
+      "automarkable": true,
+      "attempted": false,
+      "score": null,
+      "max_score": 1,
+      "question_reference": "c626619c-ace8-469d-b525-f4b17574de7a",
+      "item_reference": "fa128060-e636-4a86-bcf4-7bbfc5b70edf",
+      "response": null,
+      "questionInfo": {
+        "type": "mcq",
+        "widget_type": "response",
+        "reference": "c626619c-ace8-469d-b525-f4b17574de7a",
+        "data": {
+          "options": [
+            {
+              "label": "Internet research",
+              "value": "0"
+            },
+            {
+              "label": "A survey",
+              "value": "1"
+            },
+            {
+              "label": "Company reports",
+              "value": "2"
+            }
+          ],
+          "stimulus": "<div class=\"lrn-well\"><strong><span style=\"font-size:1.3em;\"><span style=\"line-height:normal\"><span style=\"font-family:Calibri,sans-serif\"><span style=\"color:#231f20\">6 Which of the following is an </span><span style=\"color:#000080;\">example of primary research</span><span style=\"color:#231f20\">?</span></span></span></span></strong></div>\n",
+          "type": "mcq",
+          "validation": {
+            "scoring_type": "exactMatch",
+            "valid_response": {
+              "score": 1,
+              "value": [
+                "1"
+              ]
+            }
+          },
+          "ui_style": {
+            "type": "horizontal"
+          },
+          "instant_feedback": true
+        },
+        "metadata": {
+          "name": "Multiple choice – standard",
+          "template_reference": "9e8149bd-e4d8-4dd6-a751-1a113a4b9163"
+        }
+      },
+      "feedbackInfo": [
+        null,
+        null
+      ]
+    }
+  ]
+}

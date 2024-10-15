@@ -1,0 +1,236 @@
+{
+  "userId": "05971f40-dfb6-42d6-a87d-2348b1ac2101",
+  "firstName": "Manish",
+  "lastName": "Gulia",
+  "assigmentId": "83ac51a5-fb83-4bd1-8470-3d88d389179d",
+  "assigmentName": "Reflective Writing 2: Linking to Theory",
+  "sessionId": "25e33db7-59f6-4ee2-8906-31e897791692",
+  "email": "guliam@coventry.ac.uk",
+  "spaceId": "5fe1bafe-2b28-4ea7-aac5-d82115d4cf7f",
+  "spaceName": "4004MHR - AEB for BA Global Business Management 1 - 2122JANAPR",
+  "score": 2,
+  "max_score": 3,
+  "questions": [
+    {
+      "response_id": "25e33db7-59f6-4ee2-8906-31e897791692_0cae10dc376564d398583b0b1445aea7",
+      "question_type": "association",
+      "dt_score_updated": "2022-03-05T13:19:39Z",
+      "automarkable": true,
+      "attempted": true,
+      "score": 1,
+      "max_score": 1,
+      "question_reference": "3a2174d3-d2bc-42af-931c-8b1a9d88c8cc",
+      "item_reference": "20cb10e7-1853-4335-bd17-059c269a6ed8",
+      "response": {
+        "value": [
+          "<span style=\"font-size:1.3em;\">What happened?</span>",
+          "<span style=\"font-size:1.3em;\">Why did it happen?</span>",
+          "<span style=\"font-size:1.3em;\">What would I do differently in future?</span>"
+        ],
+        "type": "array",
+        "updatedFormat": true,
+        "apiVersion": "v2.168.17",
+        "revision": 3,
+        "feedbackAttemptsCount": 1
+      },
+      "questionInfo": {
+        "type": "association",
+        "widget_type": "response",
+        "reference": "3a2174d3-d2bc-42af-931c-8b1a9d88c8cc",
+        "data": {
+          "possible_responses": [
+            "<span style=\"font-size:1.3em;\">Why did it happen?</span>",
+            "<span style=\"font-size:1.3em;\">What happened?</span>",
+            "<span style=\"font-size:1.3em;\">What would I do differently in future?</span>"
+          ],
+          "stimulus": "<p><span style=\"font-size:1.5em;\"><span style=\"color:#800080;\"><strong>TASK 1. Structuring Reflective Writing - Review</strong></span></span></p>\n\n<p><span style=\"font-size:1.5em;\"><span style=\"color:#800080;\">Below are the three stages of reflective writing, and the questions you need to answer in each stage. Drag the questions to match the appropriate stage.</span></span></p>\n",
+          "stimulus_list": [
+            "<span style=\"font-size:1.3em;\">Description</span>",
+            "<span style=\"font-size:1.3em;\">Analysis</span>",
+            "<span style=\"font-size:1.3em;\">Outcome</span>"
+          ],
+          "type": "association",
+          "validation": {
+            "scoring_type": "partialMatchV2",
+            "valid_response": {
+              "score": 1,
+              "value": [
+                "<span style=\"font-size:1.3em;\">What happened?</span>",
+                "<span style=\"font-size:1.3em;\">Why did it happen?</span>",
+                "<span style=\"font-size:1.3em;\">What would I do differently in future?</span>"
+              ]
+            }
+          },
+          "instant_feedback": true
+        },
+        "metadata": {
+          "name": "Match list",
+          "template_reference": "1fa22aac-1f88-47f7-941b-3c77759549e6"
+        }
+      },
+      "feedbackInfo": [
+        null,
+        null
+      ]
+    },
+    {
+      "response_id": "25e33db7-59f6-4ee2-8906-31e897791692_c75c616893ff334c7787d91315a18344",
+      "question_type": "association",
+      "dt_score_updated": "2022-03-05T13:20:44Z",
+      "automarkable": true,
+      "attempted": true,
+      "score": 1,
+      "max_score": 1,
+      "question_reference": "b6ead662-8d36-44c9-94aa-c997e8cc9f42",
+      "item_reference": "20cb10e7-1853-4335-bd17-059c269a6ed8",
+      "response": {
+        "value": [
+          "<span style=\"font-size:1.3em;\">When we began our project, tasks were shared out equally amongst members of my team. However, the tasks were not seen as equally difficult by all team members.&nbsp;As a result, the sense of unfairness made it challenging for us to work together as a team.</span>",
+          "<span style=\"font-size:1.3em;\">Social interdependence theory recognises a type of group interaction called “positive interdependence” (Johnson &amp; Johnson, 2008), which we did not experience in my group. This put my group at a disadvantage, as many studies show that cooperative learning experiences encourage higher achievement.” (Maughan &amp; Webb, 2010)</span>",
+          "<span style=\"font-size:1.3em;\">In the end, we managed to complete our project through further negotiation, but to improve the process, we perhaps needed a team leader to help encourage discussion and cooperation when tasks are being shared out. In future group work I would probably suggest this at the beginning of the project.</span>"
+        ],
+        "type": "array",
+        "updatedFormat": true,
+        "apiVersion": "v2.168.17",
+        "revision": 3
+      },
+      "questionInfo": {
+        "type": "association",
+        "widget_type": "response",
+        "reference": "b6ead662-8d36-44c9-94aa-c997e8cc9f42",
+        "data": {
+          "possible_responses": [
+            "<span style=\"font-size:1.3em;\">Social interdependence theory recognises a type of group interaction called “positive interdependence” (Johnson &amp; Johnson, 2008), which we did not experience in my group. This put my group at a disadvantage, as many studies show that cooperative learning experiences encourage higher achievement.” (Maughan &amp; Webb, 2010)</span>",
+            "<span style=\"font-size:1.3em;\">In the end, we managed to complete our project through further negotiation, but to improve the process, we perhaps needed a team leader to help encourage discussion and cooperation when tasks are being shared out. In future group work I would probably suggest this at the beginning of the project.</span>",
+            "<span style=\"font-size:1.3em;\">When we began our project, tasks were shared out equally amongst members of my team. However, the tasks were not seen as equally difficult by all team members.&nbsp;As a result, the sense of unfairness made it challenging for us to work together as a team.</span>"
+          ],
+          "stimulus": "<p><span style=\"color:#a52a2a;\"><span style=\"font-size:1.5em;\"><strong>TASK 2. Structuring Reflective Writing: an example</strong></span></span></p>\n\n<p><span style=\"color:#a52a2a;\"><span style=\"font-size:1.5em;\">Now organise the pieces of reflective writing below according to the structure.</span></span></p>\n",
+          "stimulus_list": [
+            "<span style=\"font-size:1.3em;\">Description</span>",
+            "<span style=\"font-size:1.3em;\">Analysis</span>",
+            "<span style=\"font-size:1.3em;\">Outcome</span>"
+          ],
+          "type": "association",
+          "validation": {
+            "scoring_type": "partialMatchV2",
+            "valid_response": {
+              "score": 1,
+              "value": [
+                "<span style=\"font-size:1.3em;\">When we began our project, tasks were shared out equally amongst members of my team. However, the tasks were not seen as equally difficult by all team members.&nbsp;As a result, the sense of unfairness made it challenging for us to work together as a team.</span>",
+                "<span style=\"font-size:1.3em;\">Social interdependence theory recognises a type of group interaction called “positive interdependence” (Johnson &amp; Johnson, 2008), which we did not experience in my group. This put my group at a disadvantage, as many studies show that cooperative learning experiences encourage higher achievement.” (Maughan &amp; Webb, 2010)</span>",
+                "<span style=\"font-size:1.3em;\">In the end, we managed to complete our project through further negotiation, but to improve the process, we perhaps needed a team leader to help encourage discussion and cooperation when tasks are being shared out. In future group work I would probably suggest this at the beginning of the project.</span>"
+              ]
+            }
+          },
+          "instant_feedback": true
+        },
+        "metadata": {
+          "name": "Match list",
+          "template_reference": "1fa22aac-1f88-47f7-941b-3c77759549e6"
+        }
+      },
+      "feedbackInfo": [
+        null,
+        null
+      ]
+    },
+    {
+      "response_id": "25e33db7-59f6-4ee2-8906-31e897791692_175bb6f06f3c8bd79c346c0fbd9a9e41",
+      "question_type": "choicematrix",
+      "dt_score_updated": "2022-03-05T13:21:15Z",
+      "automarkable": true,
+      "attempted": true,
+      "score": 0,
+      "max_score": 1,
+      "question_reference": "1c24aa57-9161-41b9-a2b1-1a9c223c8c64",
+      "item_reference": "20cb10e7-1853-4335-bd17-059c269a6ed8",
+      "response": {
+        "value": [
+          [
+            0
+          ],
+          [
+            0
+          ],
+          [
+            0
+          ],
+          [
+            1
+          ],
+          [
+            0
+          ],
+          [
+            1
+          ]
+        ],
+        "type": "array",
+        "apiVersion": "v2.168.17",
+        "revision": 4,
+        "feedbackAttemptsCount": 1
+      },
+      "questionInfo": {
+        "type": "choicematrix",
+        "widget_type": "response",
+        "reference": "1c24aa57-9161-41b9-a2b1-1a9c223c8c64",
+        "data": {
+          "options": [
+            "<span style=\"font-size:1.3em;\">Yes</span>",
+            "<span style=\"font-size:1.3em;\">No</span>"
+          ],
+          "stems": [
+            "<span style=\"font-size:1.3em;\">Has the author described what happened and how they felt?</span>",
+            "<span style=\"font-size:1.3em;\">Has the author analysed the situation and considered why things happened?</span>",
+            "<span style=\"font-size:1.3em;\">Has the author used theory to help them understand their experience?</span>",
+            "<span style=\"font-size:1.3em;\">Has the author used personal language (e.g. I, my) to help them reflect on their experience?</span>",
+            "<span style=\"font-size:1.3em;\">Has the author written in a suitably formal academic style?</span>",
+            "<span style=\"font-size:1.3em;\">Has the author&nbsp;checked their writing for errors (e.g. spelling, punctuation, grammar)?</span>"
+          ],
+          "stimulus": "<span style=\"font-size:1.5em;\"><span style=\"color:#006400;\"><strong>TASK 3. Read the reflective writing again and answer the questions in the checklist below.</strong></span></span>",
+          "type": "choicematrix",
+          "ui_style": {
+            "stem_numeration": "upper-alpha",
+            "type": "table",
+            "horizontal_lines": false
+          },
+          "validation": {
+            "scoring_type": "partialMatchV2",
+            "valid_response": {
+              "score": 1,
+              "value": [
+                [
+                  0
+                ],
+                [
+                  0
+                ],
+                [
+                  0
+                ],
+                [
+                  0
+                ],
+                [
+                  0
+                ],
+                [
+                  0
+                ]
+              ]
+            }
+          },
+          "instant_feedback": true
+        },
+        "metadata": {
+          "name": "Choice matrix – labels",
+          "template_reference": "9de82e14-802c-4bea-a635-bf9ad0b622fb"
+        }
+      },
+      "feedbackInfo": [
+        null,
+        null
+      ]
+    }
+  ]
+}

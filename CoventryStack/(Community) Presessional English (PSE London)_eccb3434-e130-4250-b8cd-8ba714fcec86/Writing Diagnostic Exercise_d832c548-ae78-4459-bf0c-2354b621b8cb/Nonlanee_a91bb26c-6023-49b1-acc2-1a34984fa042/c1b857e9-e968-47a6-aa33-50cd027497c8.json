@@ -1,0 +1,87 @@
+{
+  "userId": "a91bb26c-6023-49b1-acc2-1a34984fa042",
+  "firstName": "Nonlanee",
+  "lastName": "Patarat",
+  "assigmentId": "d832c548-ae78-4459-bf0c-2354b621b8cb",
+  "assigmentName": "Writing Diagnostic Exercise",
+  "sessionId": "c1b857e9-e968-47a6-aa33-50cd027497c8",
+  "email": "pataratn@coventry.ac.uk",
+  "spaceId": "eccb3434-e130-4250-b8cd-8ba714fcec86",
+  "spaceName": "(Community) Presessional English (PSE London)",
+  "score": 0,
+  "max_score": 40,
+  "questions": [
+    {
+      "response_id": "c1b857e9-e968-47a6-aa33-50cd027497c8_29a59873d64e3761ccb0d29ecca16973",
+      "question_type": "longtextV2",
+      "dt_score_updated": "2022-08-24T03:41:23Z",
+      "automarkable": false,
+      "attempted": true,
+      "score": null,
+      "max_score": 40,
+      "question_reference": "8ce3bee1-48e8-4baa-b2e3-5bf8083389e0",
+      "item_reference": "570ff370-fde4-49bc-959d-b91c3099b1d6",
+      "response": {
+        "value": "<p>                            The aim of this report is to going to university on time is the most important thing for students. Overall the most popular transportation that students prefer to use is bike and train ﻿but both have their advantages and disadvantages and need a solution. <br>                           Looking at the information nowadays, people are increasingly concerned about the use of earth's resources. And the most popular transportation for students is the bike because it's can help students to save money as well as good for the environment. But on the other hand, there are still some problems that should be fixed such as there are no safe places for bike or students who live far from school it can be late because the bike is very slow and take so long to ride more over may dirty their clothes. </p><p>                          Moving on to consider second of the most popular is the train. Trian is also good for the environment as well and there are so many stations near in every place and It's very fast, In addition to the expensive tickets students can plan their travel time but sometimes the train was late and didn't come this can be a big problem for students, and other problems in the rush hour crowded apart from students It may cause students to be late and miss their class </p><p>                           In conclusion, Both of these journeys have advantages and disadvantages that needed to be resolved. Suggesting solutions to the problem of bikes is to increase the safety of students such as widening the bike lane this will help create a sense of security for students. In order to increase the comfort of the university, there should be rooms for changing clothes for students and gender-segregated for students' privacy. And suggesting solutions to the problem of the train is the university should modify the schedule to start lessons later to avoid rush hours. to be as flexible and appropriate as possible for students.</p><p>                                 </p><p>            </p><p><br></p>",
+        "wordCount": 324,
+        "type": "string",
+        "apiVersion": "v2.168.23",
+        "revision": 94
+      },
+      "questionInfo": {
+        "type": "longtextV2",
+        "widget_type": "response",
+        "reference": "8ce3bee1-48e8-4baa-b2e3-5bf8083389e0",
+        "data": {
+          "stimulus": "<h2 id=\"yui_3_17_2_1_1628703407776_1784\"><span style=\"color:#0000ff;\"><b id=\"yui_3_17_2_1_1628703407776_2039\">You are going to write a report for your University. </b></span></h2>\n\n<h4><b>You should…</b></h4>\n\n<ul id=\"yui_3_17_2_1_1628703407776_2050\">\n\t<li><span style=\"font-size:1.3em;\">Write about the&nbsp;TWO&nbsp;most popular means of transportation used by students</span></li>\n\t<li><span style=\"font-size:1.3em;\">Discuss the advantages&nbsp;AND&nbsp;disadvantages</span></li>\n\t<li><span style=\"font-size:1.3em;\">Make some recommendations to the university</span></li>\n</ul>\n\n<h5 id=\"yui_3_17_2_1_1628703407776_2051\">&nbsp;</h5>\n\n<h4 id=\"yui_3_17_2_1_1628703407776_2055\"><b id=\"yui_3_17_2_1_1628703407776_2057\">Analyse the information in the table below:</b></h4>\n\n<p><img height=\"285\" src=\"https://assets.learnosity.com/organisations/755/501dfa12-1cf8-4ced-a6ab-aa6ba44e3379.JPG\" width=\"701\" /></p>\n\n<p><img height=\"259\" src=\"https://assets.learnosity.com/organisations/755/2bc31a90-4e37-4aed-8f9c-b1924cc4ec71.JPG\" width=\"699\" /></p>\n\n<h4>&nbsp;</h4>\n\n<h4><span style=\"color:#0000ff;\"><b>Write your report using&nbsp; ALL&nbsp;the information in the table.</b></span></h4>\n\n<h4><span style=\"color:#ff0000;\"><b><u>Write COMPLETE sentences.&nbsp;Do NOT use bullet points.</u></b></span></h4>\n\n<h4><b style=\"\">Use at least&nbsp;ONE&nbsp;of <u>your own ideas</u>&nbsp;</b><b style=\"\">in the recommendations section.</b></h4>\n\n<h4>&nbsp;</h4>\n\n<h4><b>Follow the&nbsp;report structure&nbsp;you can see below:</b></h4>\n\n<p>&nbsp;</p>\n\n<p><img height=\"523\" src=\"https://assets.learnosity.com/organisations/755/2694fd52-288e-4118-90cd-de27f223d78a.JPG\" width=\"400\" /></p>\n\n<h4>&nbsp;</h4>\n\n<h4><b>Write your report in the box below.&nbsp;Start with:&nbsp;</b></h4>\n\n<p><span style=\"font-size:1.3em;\"><i>The aim of this report is to ...</i></span></p>\n",
+          "type": "longtextV2",
+          "formatting_options": [
+            "bold",
+            "italic",
+            "underline",
+            "|",
+            "unorderedList",
+            "orderedList",
+            "redo"
+          ],
+          "validation": {
+            "max_score": 40
+          }
+        },
+        "metadata": {
+          "name": "Essay with rich text",
+          "template_reference": "1e6039f8-0676-495d-aca9-108710a51ce5"
+        }
+      },
+      "feedbackInfo": [
+        {
+          "id": "0707_a91bb26c-6023-49b1-acc2-1a34984fa042_c1b857e9-e968-47a6-aa33-50cd027497c8_28073e0d347fa319b239613d92d574b7",
+          "user_id": "a91bb26c-6023-49b1-acc2-1a34984fa042",
+          "response_id": "c1b857e9-e968-47a6-aa33-50cd027497c8_28073e0d347fa319b239613d92d574b7",
+          "type": "longtextV2",
+          "question": {
+            "type": "longtextV2",
+            "metadata": {
+              "source": {
+                "organisation_id": 755
+              },
+              "sheet_reference": "default_feedback",
+              "widget_reference": "de082b5f-742a-4ecf-82ca-4dc86e218fec",
+              "valid_response_count": 0
+            },
+            "stimulus": "Written feedback:",
+            "response_id": "c1b857e9-e968-47a6-aa33-50cd027497c8_28073e0d347fa319b239613d92d574b7",
+            "show_word_count": false,
+            "show_word_limit": "off"
+          },
+          "response": null,
+          "creation_date": "2022-08-24 10:47:19",
+          "mod_date": "2022-08-24 10:47:19",
+          "persist_until": "2022-08-25 10:47:19",
+          "saved": false
+        },
+        null
+      ]
+    }
+  ]
+}

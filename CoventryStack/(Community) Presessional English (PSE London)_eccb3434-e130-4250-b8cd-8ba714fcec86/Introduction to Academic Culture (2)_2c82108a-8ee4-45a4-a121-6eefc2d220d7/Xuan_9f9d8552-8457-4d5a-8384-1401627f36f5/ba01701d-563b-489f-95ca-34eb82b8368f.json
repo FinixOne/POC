@@ -1,0 +1,709 @@
+{
+  "userId": "9f9d8552-8457-4d5a-8384-1401627f36f5",
+  "firstName": "Xuan",
+  "lastName": "Liu",
+  "assigmentId": "2c82108a-8ee4-45a4-a121-6eefc2d220d7",
+  "assigmentName": "Introduction to Academic Culture (2)",
+  "sessionId": "ba01701d-563b-489f-95ca-34eb82b8368f",
+  "email": "liux144@coventry.ac.uk",
+  "spaceId": "eccb3434-e130-4250-b8cd-8ba714fcec86",
+  "spaceName": "(Community) Presessional English (PSE London)",
+  "score": 42,
+  "max_score": 45,
+  "questions": [
+    {
+      "response_id": "ba01701d-563b-489f-95ca-34eb82b8368f_c19b67b4971c96b8695410c00cf3d758",
+      "question_type": "imageclozeassociationV2",
+      "dt_score_updated": "2022-08-30T13:28:55Z",
+      "automarkable": true,
+      "attempted": true,
+      "score": 16,
+      "max_score": 16,
+      "question_reference": "9673fdcf-f754-4e94-941c-61008d24452d",
+      "item_reference": "86b456e2-a1e3-4ec0-a0dc-1eebf0a4cda9",
+      "response": {
+        "value": [
+          [
+            "Friendly opening (Hi… / Hello…)",
+            "Use first name (Mike)",
+            "Informal vocabulary&nbsp;",
+            "Abbreviations (can U / need 2)",
+            "Contractions (isn’t /aren’t)",
+            "Friendly closing (Bye bye)",
+            "Capital letters for emphasis (REALLY good)",
+            "Direct language (I need…)"
+          ],
+          [
+            "No contractions (is not / are not)",
+            "No abbreviations",
+            "Polite language (Can I please have…)",
+            "No capital letters for emphasis",
+            "Polite closing (Kind regards / Best regards)",
+            "Formal vocabulary",
+            "Polite opening (Dear…)",
+            "Use title and surname (Mr Smith)"
+          ]
+        ],
+        "type": "array",
+        "apiVersion": "v2.168.23",
+        "revision": 14,
+        "feedbackAttemptsCount": 5
+      },
+      "questionInfo": {
+        "type": "imageclozeassociationV2",
+        "widget_type": "response",
+        "reference": "9673fdcf-f754-4e94-941c-61008d24452d",
+        "data": {
+          "image": {
+            "src": "https://assets.learnosity.com/organisations/755/8a149e68-910f-48a1-a0c4-396468637462.png",
+            "width": 820,
+            "height": 308
+          },
+          "possible_responses": [
+            "Polite opening (Dear…)",
+            "Friendly opening (Hi… / Hello…)",
+            "Use title and surname (Mr Smith)",
+            "Use first name (Mike)",
+            "Formal vocabulary",
+            "Abbreviations (can U / need 2)",
+            "Informal vocabulary&nbsp;",
+            "No contractions (is not / are not)",
+            "No capital letters for emphasis",
+            "No abbreviations",
+            "Contractions (isn’t /aren’t)",
+            "Capital letters for emphasis (REALLY good)",
+            "Direct language (I need…)",
+            "Polite language (Can I please have…)",
+            "Polite closing (Kind regards / Best regards)",
+            "Friendly closing (Bye bye)"
+          ],
+          "response_containers": [
+            {
+              "x": 2.56,
+              "y": 21.1,
+              "width": "47.56%",
+              "height": "71.70%",
+              "aria_label": "",
+              "pointer": "undefined"
+            },
+            {
+              "x": 50.37,
+              "y": 21.43,
+              "width": "47.59%",
+              "height": "71.67%",
+              "aria_label": "",
+              "pointer": "undefined"
+            }
+          ],
+          "stimulus": "<p>&nbsp;</p>\n\n\n<img height=\"132\" src=\"https://assets.learnosity.com/organisations/755/b6317dd2-a2fc-481c-bcbd-b2abde1421b3.jpg\" width=\"300\">\n<h2 id=\"yui_3_17_2_1_1641909580650_3663\"><span style=\"color:#0000ff;\"><strong>First impressions&nbsp;are very important.&nbsp;&nbsp;</strong></span></h2>\n\n<h4 id=\"yui_3_17_2_1_1641909580650_3668\"><strong>The language you use in an email is important to ensure you make a good first impression&nbsp;in writing, especially if you are&nbsp;writing to tutors and lecturers for the first time.</strong></h4>\n\n<h4 id=\"yui_3_17_2_1_1641909580650_3693\"><strong><span style=\"color:#0000ff;\">► </span>Complete the table&nbsp; with the phrases below (drag and drop).</strong></h4>\n\n<p>&nbsp;</p>",
+          "type": "imageclozeassociationV2",
+          "case_sensitive": true,
+          "validation": {
+            "scoring_type": "partialMatchV2",
+            "valid_response": {
+              "score": 16,
+              "value": [
+                [
+                  "Friendly opening (Hi… / Hello…)",
+                  "Use first name (Mike)",
+                  "Informal vocabulary&nbsp;",
+                  "Abbreviations (can U / need 2)",
+                  "Contractions (isn’t /aren’t)",
+                  "Direct language (I need…)",
+                  "Capital letters for emphasis (REALLY good)",
+                  "Friendly closing (Bye bye)"
+                ],
+                [
+                  "Polite opening (Dear…)",
+                  "Use title and surname (Mr Smith)",
+                  "Formal vocabulary",
+                  "No abbreviations",
+                  "No contractions (is not / are not)",
+                  "Polite language (Can I please have…)",
+                  "No capital letters for emphasis",
+                  "Polite closing (Kind regards / Best regards)"
+                ]
+              ]
+            }
+          },
+          "max_response_per_zone": 8,
+          "instant_feedback": true
+        },
+        "metadata": {
+          "name": "Label image with drag & drop",
+          "template_reference": "6e77b403-8f0c-43af-b464-9450e1ac70dc"
+        }
+      },
+      "feedbackInfo": [
+        null,
+        null
+      ]
+    },
+    {
+      "response_id": "ba01701d-563b-489f-95ca-34eb82b8368f_2a6b45447a3954cf19d8b2a074e29b78",
+      "question_type": "clozedropdown",
+      "dt_score_updated": "2022-08-30T13:31:33Z",
+      "automarkable": true,
+      "attempted": true,
+      "score": 4,
+      "max_score": 4,
+      "question_reference": "721f0be9-5138-4c22-84c5-60a38bb35641",
+      "item_reference": "1fcc3cdf-c989-4216-824b-74fab765a7b0",
+      "response": {
+        "value": [
+          "longer",
+          "vague",
+          "precise",
+          "formal"
+        ],
+        "type": "array",
+        "apiVersion": "v2.168.23",
+        "revision": 3,
+        "feedbackAttemptsCount": 1
+      },
+      "questionInfo": {
+        "type": "clozedropdown",
+        "widget_type": "response",
+        "reference": "721f0be9-5138-4c22-84c5-60a38bb35641",
+        "data": {
+          "possible_responses": [
+            [
+              "longer",
+              "shorter"
+            ],
+            [
+              "vague",
+              "precise"
+            ],
+            [
+              "vague",
+              "precise"
+            ],
+            [
+              "formal",
+              "informal"
+            ]
+          ],
+          "response_container": {
+            "pointer": "left"
+          },
+          "stimulus": "<img class=\"lrn-image-left\" height=\"92\" src=\"https://assets.learnosity.com/organisations/755/746dbc3f-c489-4141-92a1-53db69de53f8.jpg\" width=\"100\">\n<p><strong><span style=\"font-size:2em;\">In the previous exercise we said that formal emails should use&nbsp;<span style=\"color:#0000ff;\">formal vocabulary</span>.</span></strong></p>\n\n<p><span style=\"font-size:1.5em;\"><strong><span style=\"color:#0000ff;\"><span style=\"font-size:1.3em;\">►&nbsp;</span></span>But what is formal vocabulary?</strong></span></p>\n\n<p>&nbsp;</p>\n\n<h4><strong>Here are&nbsp;THREE tips&nbsp;to identify formal words. </strong></h4>\n\n<h4><strong><span style=\"color:#0000ff;\">►&nbsp;</span>Complete them with words from the drop down.</strong></h4>\n\n<p>&nbsp;</p>",
+          "template": "<h4 style=\"margin-left: 40px;\"><span style=\"color:#0000ff;\"><b><u>1. Formal words are sometimes&nbsp;</u></b>{{response}}&nbsp;<b><u>than&nbsp;informal words.</u></b></span></h4>\n\n<ul>\n\t<li style=\"margin-left: 40px;\"><span style=\"font-size:1.1em;\"><b>Word&nbsp;</b>(informal) - 1 syllable<b>&nbsp;</b></span></li>\n\t<li style=\"margin-left: 40px;\"><span style=\"font-size:1.1em;\"><b>Vocabulary&nbsp;</b>(formal) - 5 syllables</span></li>\n</ul>\n\n<h4 style=\"margin-left: 40px;\"><span style=\"color:#0000ff;\"><b><u>2. Informal words are often </u></b>{{response}}<b><u>, formal words are more </u></b>{{response}}<b><u>.</u></b></span></h4>\n\n<ul>\n\t<li style=\"margin-left: 40px;\"><span style=\"font-size:1.1em;\"><b>Good</b>&nbsp;(informal) - you can use this word to talk about many things: people, places, food, the weather, ...</span></li>\n\t<li style=\"margin-left: 40px;\"><span style=\"font-size:1.1em;\"><b>Delicious&nbsp;</b>(formal) - you can only use this word to talk about food.</span></li>\n</ul>\n\n<h4 style=\"margin-left: 40px;\"><span style=\"color:#0000ff;\"><b><u>3. Look at the word formation.</u></b></span></h4>\n\n<ul>\n\t<li style=\"margin-left: 40px;\"><span style=\"font-size:1.1em;\">Words ending in <strong>-tion, -ment, -sion</strong> are generally {{response}}.</span></li>\n</ul>\n",
+          "type": "clozedropdown",
+          "case_sensitive": true,
+          "validation": {
+            "scoring_type": "partialMatchV2",
+            "valid_response": {
+              "score": 4,
+              "value": [
+                "longer",
+                "vague",
+                "precise",
+                "formal"
+              ]
+            }
+          },
+          "instant_feedback": true,
+          "shuffle_options": true
+        },
+        "metadata": {
+          "name": "Cloze with drop down",
+          "template_reference": "2fbba51b-e35e-441f-83c7-2662e2e81fa6"
+        }
+      },
+      "feedbackInfo": [
+        null,
+        null
+      ]
+    },
+    {
+      "response_id": "ba01701d-563b-489f-95ca-34eb82b8368f_1fdacdff6ff212e768e35274ade73d37",
+      "question_type": "clozedropdown",
+      "dt_score_updated": "2022-08-30T13:33:54Z",
+      "automarkable": true,
+      "attempted": true,
+      "score": 12,
+      "max_score": 14,
+      "question_reference": "6f393e51-a617-47ea-a979-970f67626c09",
+      "item_reference": "1fcc3cdf-c989-4216-824b-74fab765a7b0",
+      "response": {
+        "value": [
+          "Residence",
+          "Buy",
+          "Wealthy",
+          "Place",
+          "Apologise",
+          "Give",
+          "Give",
+          "Require",
+          "Get",
+          "Occupation",
+          "Check",
+          "Demonstrate",
+          "Wrong",
+          "Elderly"
+        ],
+        "type": "array",
+        "apiVersion": "v2.168.23",
+        "revision": 8,
+        "feedbackAttemptsCount": 3
+      },
+      "questionInfo": {
+        "type": "clozedropdown",
+        "widget_type": "response",
+        "reference": "6f393e51-a617-47ea-a979-970f67626c09",
+        "data": {
+          "possible_responses": [
+            [
+              "Residence",
+              "Buy",
+              "Wealthy",
+              "Place",
+              "Apologise",
+              "Give",
+              "Enquire"
+            ],
+            [
+              "Residence",
+              "Buy",
+              "Wealthy",
+              "Place",
+              "Apologise",
+              "Give",
+              "Enquire"
+            ],
+            [
+              "Residence",
+              "Buy",
+              "Wealthy",
+              "Place",
+              "Apologise",
+              "Give",
+              "Enquire"
+            ],
+            [
+              "Residence",
+              "Buy",
+              "Wealthy",
+              "Place",
+              "Apologise",
+              "Give",
+              "Enquire"
+            ],
+            [
+              "Residence",
+              "Buy",
+              "Wealthy",
+              "Place",
+              "Apologise",
+              "Give",
+              "Enquire"
+            ],
+            [
+              "Residence",
+              "Buy",
+              "Wealthy",
+              "Place",
+              "Apologise",
+              "Give",
+              "Enquire"
+            ],
+            [
+              "Residence",
+              "Buy",
+              "Wealthy",
+              "Place",
+              "Apologise",
+              "Give",
+              "Enquire"
+            ],
+            [
+              "Require",
+              "Get",
+              "Occupation",
+              "Check",
+              "Demonstrate",
+              "Wrong",
+              "Elderly"
+            ],
+            [
+              "Require",
+              "Get",
+              "Occupation",
+              "Check",
+              "Demonstrate",
+              "Wrong",
+              "Elderly"
+            ],
+            [
+              "Require",
+              "Get",
+              "Occupation",
+              "Check",
+              "Demonstrate",
+              "Wrong",
+              "Elderly"
+            ],
+            [
+              "Require",
+              "Get",
+              "Occupation",
+              "Check",
+              "Demonstrate",
+              "Wrong",
+              "Elderly"
+            ],
+            [
+              "Require",
+              "Get",
+              "Occupation",
+              "Check",
+              "Demonstrate",
+              "Wrong",
+              "Elderly"
+            ],
+            [
+              "Require",
+              "Get",
+              "Occupation",
+              "Check",
+              "Demonstrate",
+              "Wrong",
+              "Elderly"
+            ],
+            [
+              "Require",
+              "Get",
+              "Occupation",
+              "Check",
+              "Demonstrate",
+              "Wrong",
+              "Elderly"
+            ]
+          ],
+          "response_container": {
+            "pointer": "left"
+          },
+          "stimulus": "<p><span style=\"color:#0000ff;\"><img class=\"lrn-image-left lrn-image-non-responsive\" height=\"92\" src=\"https://assets.learnosity.com/organisations/755/9320305b-6b7c-4bac-a784-e06b954be65e.jpg\" width=\"100\"><span style=\"font-size:2em;\"><b>Practice formal and informal vocabulary.&nbsp;</b></span></span></p>\n\n<h4 id=\"yui_3_17_2_1_1641910185846_131\"><b><span style=\"color:#0000ff;\">►&nbsp;</span>Choose the best option from&nbsp;the drop down.</b></h4>\n\n<p>&nbsp;</p>\n",
+          "template": "<table class=\"table table-condensed table-striped lrn_width_auto\">\n\t<thead>\n\t\t<tr>\n\t\t\t<th scope=\"col\">\n\t\t\t<h4 style=\"margin-left: 40px;\"><strong>Informal Vocabulary&nbsp; &nbsp; &nbsp;</strong></h4>\n\t\t\t</th>\n\t\t\t<th scope=\"col\">\n\t\t\t<h4 style=\"margin-left: 40px;\"><strong>Formal Vocabulary</strong>&nbsp; &nbsp; &nbsp;</h4>\n\t\t\t</th>\n\t\t</tr>\n\t</thead>\n\t<tbody>\n\t\t<tr>\n\t\t\t<td>\n\t\t\t<p style=\"margin-left: 40px;\"><span style=\"font-size:1.3em;\"><strong>House</strong></span></p>\n\t\t\t</td>\n\t\t\t<td>\n\t\t\t<p style=\"margin-left: 40px;\"><strong>{{response}}</strong></p>\n\t\t\t</td>\n\t\t</tr>\n\t\t<tr>\n\t\t\t<td>\n\t\t\t<p style=\"margin-left: 40px;\"><strong>{{response}}</strong></p>\n\t\t\t</td>\n\t\t\t<td>\n\t\t\t<p style=\"margin-left: 40px;\"><span style=\"font-size:1.3em;\"><strong>Purchase</strong></span></p>\n\t\t\t</td>\n\t\t</tr>\n\t\t<tr>\n\t\t\t<td>\n\t\t\t<p style=\"margin-left: 40px;\"><span style=\"font-size:1.3em;\"><strong>Rich</strong></span></p>\n\t\t\t</td>\n\t\t\t<td>\n\t\t\t<p style=\"margin-left: 40px;\"><strong>{{response}}</strong></p>\n\t\t\t</td>\n\t\t</tr>\n\t\t<tr>\n\t\t\t<td>\n\t\t\t<p style=\"margin-left: 40px;\"><strong>{{response}}</strong></p>\n\t\t\t</td>\n\t\t\t<td>\n\t\t\t<p style=\"margin-left: 40px;\"><span style=\"font-size:1.3em;\"><strong>Location</strong></span></p>\n\t\t\t</td>\n\t\t</tr>\n\t\t<tr>\n\t\t\t<td>\n\t\t\t<p style=\"margin-left: 40px;\"><span style=\"font-size:1.3em;\"><strong>Say sorry</strong></span></p>\n\t\t\t</td>\n\t\t\t<td>\n\t\t\t<p style=\"margin-left: 40px;\"><strong>{{response}}</strong></p>\n\t\t\t</td>\n\t\t</tr>\n\t\t<tr>\n\t\t\t<td>\n\t\t\t<p style=\"margin-left: 40px;\"><strong>{{response}}</strong></p>\n\t\t\t</td>\n\t\t\t<td>\n\t\t\t<p style=\"margin-left: 40px;\"><span style=\"font-size:1.3em;\"><strong>Provide</strong></span></p>\n\t\t\t</td>\n\t\t</tr>\n\t\t<tr>\n\t\t\t<td>\n\t\t\t<p style=\"margin-left: 40px;\"><span style=\"font-size:1.3em;\"><strong>Ask (a question)</strong></span></p>\n\t\t\t</td>\n\t\t\t<td>\n\t\t\t<p style=\"margin-left: 40px;\"><strong>{{response}}</strong></p>\n\t\t\t</td>\n\t\t</tr>\n\t\t<tr>\n\t\t\t<td>\n\t\t\t<p style=\"margin-left: 40px;\"><span style=\"font-size:1.3em;\"><strong>Ask (for something)</strong></span></p>\n\t\t\t</td>\n\t\t\t<td>\n\t\t\t<p style=\"margin-left: 40px;\"><strong>{{response}}</strong></p>\n\t\t\t</td>\n\t\t</tr>\n\t\t<tr>\n\t\t\t<td>\n\t\t\t<p style=\"margin-left: 40px;\"><strong>{{response}}</strong></p>\n\t\t\t</td>\n\t\t\t<td>\n\t\t\t<p style=\"margin-left: 40px;\"><span style=\"font-size:1.3em;\"><strong>Receive</strong></span></p>\n\t\t\t</td>\n\t\t</tr>\n\t\t<tr>\n\t\t\t<td>\n\t\t\t<p style=\"margin-left: 40px;\"><span style=\"font-size:1.3em;\"><strong>Job</strong></span></p>\n\t\t\t</td>\n\t\t\t<td>\n\t\t\t<p style=\"margin-left: 40px;\"><strong>{{response}}</strong></p>\n\t\t\t</td>\n\t\t</tr>\n\t\t<tr>\n\t\t\t<td>\n\t\t\t<p style=\"margin-left: 40px;\"><strong>{{response}}</strong></p>\n\t\t\t</td>\n\t\t\t<td>\n\t\t\t<p style=\"margin-left: 40px;\"><span style=\"font-size:1.3em;\"><strong>Verify</strong></span></p>\n\t\t\t</td>\n\t\t</tr>\n\t\t<tr>\n\t\t\t<td>\n\t\t\t<p style=\"margin-left: 40px;\"><span style=\"font-size:1.3em;\"><strong>Show</strong></span></p>\n\t\t\t</td>\n\t\t\t<td>\n\t\t\t<p style=\"margin-left: 40px;\"><strong>{{response}}</strong></p>\n\t\t\t</td>\n\t\t</tr>\n\t\t<tr>\n\t\t\t<td>\n\t\t\t<p style=\"margin-left: 40px;\"><strong>{{response}}</strong></p>\n\t\t\t</td>\n\t\t\t<td>\n\t\t\t<p style=\"margin-left: 40px;\"><span style=\"font-size:1.3em;\"><strong>Incorrect</strong></span></p>\n\t\t\t</td>\n\t\t</tr>\n\t\t<tr>\n\t\t\t<td>\n\t\t\t<p style=\"margin-left: 40px;\"><span style=\"font-size:1.3em;\"><strong>Old</strong></span></p>\n\t\t\t</td>\n\t\t\t<td>\n\t\t\t<p style=\"margin-left: 40px;\"><strong>{{response}}</strong></p>\n\t\t\t</td>\n\t\t</tr>\n\t</tbody>\n</table>\n\n<p>&nbsp;</p>\n",
+          "type": "clozedropdown",
+          "case_sensitive": true,
+          "validation": {
+            "scoring_type": "partialMatchV2",
+            "valid_response": {
+              "score": 14,
+              "value": [
+                "Residence",
+                "Buy",
+                "Buy",
+                "Place",
+                "Apologise",
+                "Give",
+                "Enquire",
+                "Require",
+                "Get",
+                "Occupation",
+                "Check",
+                "Demonstrate",
+                "Wrong",
+                "Elderly"
+              ]
+            }
+          },
+          "instant_feedback": true,
+          "shuffle_options": true
+        },
+        "metadata": {
+          "name": "Cloze with drop down",
+          "template_reference": "2fbba51b-e35e-441f-83c7-2662e2e81fa6"
+        }
+      },
+      "feedbackInfo": [
+        null,
+        null
+      ]
+    },
+    {
+      "response_id": "ba01701d-563b-489f-95ca-34eb82b8368f_1cbf299fa68c410df90b709ce4434cf2",
+      "question_type": "mcq",
+      "dt_score_updated": "2022-08-30T13:35:34Z",
+      "automarkable": true,
+      "attempted": true,
+      "score": 1,
+      "max_score": 1,
+      "question_reference": "c9d44a43-bec1-4250-903e-655bfca76a98",
+      "item_reference": "d6d1e4c7-2781-4a77-a4d7-18154719bd48",
+      "response": {
+        "value": [
+          "0"
+        ],
+        "type": "array",
+        "apiVersion": "v2.168.23",
+        "revision": 1
+      },
+      "questionInfo": {
+        "type": "mcq",
+        "widget_type": "response",
+        "reference": "c9d44a43-bec1-4250-903e-655bfca76a98",
+        "data": {
+          "options": [
+            {
+              "label": "<span style=\"font-size:1.1em;\">Formal</span>",
+              "value": "0"
+            },
+            {
+              "label": "<span style=\"font-size:1.1em;\">Informal</span>",
+              "value": "1"
+            }
+          ],
+          "stimulus": "<table class=\"table table-condensed table-no-border lrn_width_auto\">\n\t<tbody>\n\t\t<tr>\n\t\t\t<td>\n\t\t\t\n\t\t\t<img height=\"123\" src=\"https://assets.learnosity.com/organisations/755/fdabf714-d53a-4864-ab8c-113551a139c6.jpg\" width=\"100\"></td>\n\t\t\t<td>\n\t\t\t<p><span style=\"color:#0000ff;\"><span style=\"font-size:2em;\"><b>Matt's tutor told him he needs to&nbsp;improve his writing.</b></span></span></p>\n\n\t\t\t<p><span style=\"font-size:1.3em;\"><b>He is going to email the writing support teacher,&nbsp;</b><b>Mrs Jenifer Spencer.</b></span></p>\n\n\t\t\t<p><span style=\"font-size:1.3em;\"><b>Do you think his email should be&nbsp;<u>formal</u>&nbsp;or&nbsp;<u>informal</u>?</b></span></p>\n\t\t\t</td>\n\t\t</tr>\n\t</tbody>\n</table>\n\n<p>&nbsp;</p>",
+          "type": "mcq",
+          "ui_style": {
+            "choice_label": "upper-alpha",
+            "type": "block"
+          },
+          "validation": {
+            "scoring_type": "exactMatch",
+            "valid_response": {
+              "score": 1,
+              "value": [
+                "0"
+              ]
+            }
+          },
+          "instant_feedback": true
+        },
+        "metadata": {
+          "name": "Multiple choice – block layout",
+          "template_reference": "33d53a22-1a59-4a03-9671-7f5104edd62e"
+        }
+      },
+      "feedbackInfo": [
+        null,
+        null
+      ]
+    },
+    {
+      "response_id": "ba01701d-563b-489f-95ca-34eb82b8368f_e9d0e7809baa57d2d8f6da677e8d7227",
+      "question_type": "mcq",
+      "dt_score_updated": "2022-08-30T13:36:15Z",
+      "automarkable": true,
+      "attempted": true,
+      "score": 1,
+      "max_score": 1,
+      "question_reference": "138a1a37-167c-495e-94d7-ceb82d7d2ffb",
+      "item_reference": "d6d1e4c7-2781-4a77-a4d7-18154719bd48",
+      "response": {
+        "value": [
+          "1"
+        ],
+        "type": "array",
+        "apiVersion": "v2.168.23",
+        "revision": 1,
+        "feedbackAttemptsCount": 1
+      },
+      "questionInfo": {
+        "type": "mcq",
+        "widget_type": "response",
+        "reference": "138a1a37-167c-495e-94d7-ceb82d7d2ffb",
+        "data": {
+          "options": [
+            {
+              "label": "<span style=\"font-size:1.1em;\">Formal</span>",
+              "value": "0"
+            },
+            {
+              "label": "<span style=\"font-size:1.1em;\">Informal</span>",
+              "value": "1"
+            }
+          ],
+          "stimulus": "<table class=\"table table-condensed table-no-border lrn_width_auto\">\n\t<tbody>\n\t\t<tr>\n\t\t\t<td><img height=\"98\" src=\"https://assets.learnosity.com/organisations/755/45f6d5ad-4fea-4cee-90eb-d31c19806ab9.jpg\" width=\"100\"></td>\n\t\t\t<td>\n\t\t\t<p><span style=\"color:#0000ff;\"><span style=\"font-size:2em;\"><b><b>Read Matt's email below QUICKLY.&nbsp;</b></b></span></span></p>\n\n\t\t\t<p><span style=\"font-size:1.3em;\"><b><b>Is this a&nbsp;<u>formal</u>&nbsp;or an&nbsp;<u>informal</u>&nbsp;email?</b></b></span></p>\n\t\t\t</td>\n\t\t</tr>\n\t</tbody>\n</table>\n\n<p>&nbsp;</p>\n\n<p>&nbsp;</p>\n\n\n<img height=\"335\" src=\"https://assets.learnosity.com/organisations/755/51346184-8d0b-43c2-8f1c-cd8dc054172f.jpg\" width=\"801\">",
+          "type": "mcq",
+          "ui_style": {
+            "choice_label": "upper-alpha",
+            "type": "block"
+          },
+          "validation": {
+            "scoring_type": "exactMatch",
+            "valid_response": {
+              "score": 1,
+              "value": [
+                "1"
+              ]
+            }
+          },
+          "instant_feedback": true
+        },
+        "metadata": {
+          "name": "Multiple choice – block layout",
+          "template_reference": "33d53a22-1a59-4a03-9671-7f5104edd62e"
+        }
+      },
+      "feedbackInfo": [
+        null,
+        null
+      ]
+    },
+    {
+      "response_id": "ba01701d-563b-489f-95ca-34eb82b8368f_8a0abacd4a0433a9ed6573b9a99391a6",
+      "question_type": "mcq",
+      "dt_score_updated": "2022-08-30T13:37:27Z",
+      "automarkable": true,
+      "attempted": true,
+      "score": 3,
+      "max_score": 4,
+      "question_reference": "3e5189a8-9260-4251-a8ba-80ca35f94d3f",
+      "item_reference": "6d90311a-783b-409a-b219-f29c8c0a18af",
+      "response": {
+        "value": [
+          "1",
+          "0",
+          "3",
+          "5"
+        ],
+        "type": "array",
+        "apiVersion": "v2.168.23",
+        "revision": 3
+      },
+      "questionInfo": {
+        "type": "mcq",
+        "widget_type": "response",
+        "reference": "3e5189a8-9260-4251-a8ba-80ca35f94d3f",
+        "data": {
+          "multiple_responses": true,
+          "options": [
+            {
+              "label": "He used a friendly opening and closing",
+              "value": "0"
+            },
+            {
+              "label": "He used the tutor's first name",
+              "value": "1"
+            },
+            {
+              "label": "He used the tutor's surname",
+              "value": "2"
+            },
+            {
+              "label": "He used abbreviations&nbsp;",
+              "value": "3"
+            },
+            {
+              "label": "He used formal language",
+              "value": "4"
+            },
+            {
+              "label": "He used direct language",
+              "value": "5"
+            },
+            {
+              "label": "He used capital letters for emphasis&nbsp;",
+              "value": "6"
+            },
+            {
+              "label": "He used a formal opening and closing",
+              "value": "7"
+            }
+          ],
+          "stimulus": "<table class=\"table table-condensed table-no-border lrn_width_auto\">\n\t<tbody>\n\t\t<tr>\n\t\t\t<td><img height=\"98\" src=\"https://assets.learnosity.com/organisations/755/45f6d5ad-4fea-4cee-90eb-d31c19806ab9.jpg\" width=\"100\"></td>\n\t\t\t<td>\n\t\t\t<p><span style=\"color:#0000ff;\"><span style=\"font-size:2em;\"><b><b>Now read Matt's email again CAREFULLY.&nbsp;</b></b></span></span></p>\n\n\t\t\t<p><span style=\"font-size:1.3em;\"><b><b>What mistakes did he make?</b></b><b><b>&nbsp;</b></b></span></p>\n\t\t\t</td>\n\t\t</tr>\n\t</tbody>\n</table>\n\n<p>&nbsp;</p>\n\n<p><img height=\"335\" src=\"https://assets.learnosity.com/organisations/755/51346184-8d0b-43c2-8f1c-cd8dc054172f.jpg\" width=\"801\"></p>\n\n<h4>&nbsp;</h4>\n\n<h4 id=\"yui_3_17_2_1_1641911824527_126\"><span style=\"color:#ff0000;\"><b><b>Choose FOUR.</b></b></span></h4>\n",
+          "type": "mcq",
+          "validation": {
+            "scoring_type": "partialMatchV2",
+            "valid_response": {
+              "score": 4,
+              "value": [
+                "0",
+                "1",
+                "3",
+                "5",
+                "6"
+              ]
+            }
+          },
+          "ui_style": {
+            "type": "horizontal"
+          },
+          "instant_feedback": true
+        },
+        "metadata": {
+          "name": "Multiple choice – multiple response",
+          "template_reference": "908de244-5c71-4c09-b094-7fb49554f2f9"
+        }
+      },
+      "feedbackInfo": [
+        null,
+        null
+      ]
+    },
+    {
+      "response_id": "ba01701d-563b-489f-95ca-34eb82b8368f_000842d56c5cff2a9afee44ce0cfaf3c",
+      "question_type": "association",
+      "dt_score_updated": "2022-08-30T13:50:03Z",
+      "automarkable": true,
+      "attempted": true,
+      "score": 5,
+      "max_score": 5,
+      "question_reference": "72a3e926-aa2d-47c8-9e33-0567c3c4a058",
+      "item_reference": "b7c32cfb-e713-47a0-9d10-ed67979adc3b",
+      "response": {
+        "value": [
+          "If you don't write anything, the reader has no idea what the email is about, which wastes time.&nbsp;",
+          "Written communication in English is simple and direct and gets to the point quickly&nbsp;",
+          "Some readers may not understand these and they make your text look unprofessional.&nbsp;",
+          "The use of capitals for emphasis looks like SHOUTING.&nbsp;",
+          "Use paragraphs, numbers and bullet points to help organize your message clearly."
+        ],
+        "type": "array",
+        "updatedFormat": true,
+        "apiVersion": "v2.168.23",
+        "revision": 10,
+        "feedbackAttemptsCount": 1
+      },
+      "questionInfo": {
+        "type": "association",
+        "widget_type": "response",
+        "reference": "72a3e926-aa2d-47c8-9e33-0567c3c4a058",
+        "data": {
+          "possible_responses": [
+            "The use of capitals for emphasis looks like SHOUTING.&nbsp;",
+            "If you don't write anything, the reader has no idea what the email is about, which wastes time.&nbsp;",
+            "Written communication in English is simple and direct and gets to the point quickly&nbsp;",
+            "Use paragraphs, numbers and bullet points to help organize your message clearly.",
+            "Some readers may not understand these and they make your text look unprofessional.&nbsp;"
+          ],
+          "stimulus": "<h2><b>Here are some rules for writing formal and professional emails.&nbsp;</b></h2>\n\n<p>&nbsp;</p>\n\n\n<img height=\"96\" src=\"https://assets.learnosity.com/organisations/755/5e14504c-3855-4638-a504-683b27364b19.jpg\" width=\"398\">\n<h4><b><span style=\"color:#696969;\">► </span>Match the rule with the reason (drag and drop).</b></h4>",
+          "stimulus_list": [
+            "<span style=\"color:#0000ff;\"><b>Rule #1: The subject field:&nbsp;</b></span>Write something in the subject field to give the reader an idea of what the e-mail is about, especially when it appears in Inbox.",
+            "<span style=\"color:#0000ff;\"><b><b>Rule #2: Keep it simple:&nbsp;</b></b></span>E-mail messages should be short and simple, with short, simple sentences. Reading a computer screen is much more difficult and tiring than reading a printed paper, and you want your reader to understand your message without getting tired and bored.",
+            "<span style=\"color:#0000ff;\"><b>Rule #3: Keep it formal:&nbsp;</b></span>Be formal, but friendly. You should not use the kind of abbreviations used on social media, e.g.,&nbsp; \"I will C U\" for \"I will see you.\"",
+            "<span style=\"color:#0000ff;\"><b>Rule #4: No capitals:&nbsp;</b></span>Use capitals and lower-case letters correctly. If you want to emphasize, you can use bold, italics or underline.",
+            "<span style=\"color:#0000ff;\"><b>Rule #5: Organise your space:&nbsp;</b></span>Because it is difficult to read on a computer screen, it is important to write short paragraphs with blank lines between them. Make one point in each paragraph."
+          ],
+          "type": "association",
+          "validation": {
+            "scoring_type": "partialMatchV2",
+            "valid_response": {
+              "score": 5,
+              "value": [
+                "If you don't write anything, the reader has no idea what the email is about, which wastes time.&nbsp;",
+                "Written communication in English is simple and direct and gets to the point quickly&nbsp;",
+                "Some readers may not understand these and they make your text look unprofessional.&nbsp;",
+                "The use of capitals for emphasis looks like SHOUTING.&nbsp;",
+                "Use paragraphs, numbers and bullet points to help organize your message clearly."
+              ]
+            }
+          },
+          "instant_feedback": true
+        },
+        "metadata": {
+          "name": "Match list",
+          "template_reference": "1fa22aac-1f88-47f7-941b-3c77759549e6"
+        }
+      },
+      "feedbackInfo": [
+        null,
+        null
+      ]
+    }
+  ]
+}

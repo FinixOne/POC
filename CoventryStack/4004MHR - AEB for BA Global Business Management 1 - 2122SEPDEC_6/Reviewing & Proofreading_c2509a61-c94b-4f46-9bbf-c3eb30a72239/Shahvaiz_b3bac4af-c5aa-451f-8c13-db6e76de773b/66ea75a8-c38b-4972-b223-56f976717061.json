@@ -1,0 +1,267 @@
+{
+  "userId": "b3bac4af-c5aa-451f-8c13-db6e76de773b",
+  "firstName": "Shahvaiz",
+  "lastName": "Shahvaiz",
+  "assigmentId": "c2509a61-c94b-4f46-9bbf-c3eb30a72239",
+  "assigmentName": "Reviewing & Proofreading",
+  "sessionId": "66ea75a8-c38b-4972-b223-56f976717061",
+  "email": "shahvaizs@coventry.ac.uk",
+  "spaceId": "6696ac8d-7f15-4f8b-92c2-76ec41fea413",
+  "spaceName": "4004MHR - AEB for BA Global Business Management 1 - 2122SEPDEC",
+  "score": 0,
+  "max_score": 244,
+  "questions": [
+    {
+      "response_id": "66ea75a8-c38b-4972-b223-56f976717061_0b428287e1607b8cf20992528229cbae",
+      "question_type": "clozedropdown",
+      "dt_score_updated": "2021-12-21T15:25:08Z",
+      "automarkable": true,
+      "attempted": false,
+      "score": null,
+      "max_score": 144,
+      "question_reference": "577e6951-60ee-402e-90db-e25e5f977137",
+      "item_reference": "892b9e86-d0ec-4ed5-80bb-05589c14f20a",
+      "response": null,
+      "questionInfo": {
+        "type": "clozedropdown",
+        "widget_type": "response",
+        "reference": "577e6951-60ee-402e-90db-e25e5f977137",
+        "data": {
+          "possible_responses": [
+            [
+              "word layer",
+              "sentence layer",
+              "paragraph layer",
+              "essay layer"
+            ],
+            [
+              "word layer",
+              "sentence layer",
+              "paragraph layer",
+              "essay layer"
+            ],
+            [
+              "word layer",
+              "sentence layer",
+              "paragraph layer",
+              "essay layer"
+            ],
+            [
+              "word layer",
+              "sentence layer",
+              "paragraph layer",
+              "essay layer"
+            ],
+            [
+              "word layer",
+              "sentence layer",
+              "paragraph layer",
+              "essay layer"
+            ],
+            [
+              "word layer",
+              "sentence layer",
+              "paragraph layer",
+              "essay layer"
+            ],
+            [
+              "word layer",
+              "sentence layer",
+              "paragraph layer",
+              "essay layer"
+            ],
+            [
+              "word layer",
+              "sentence layer",
+              "paragraph layer",
+              "essay layer"
+            ],
+            [
+              "word layer",
+              "sentence layer",
+              "paragraph layer",
+              "essay layer"
+            ],
+            [
+              "word layer",
+              "sentence layer",
+              "paragraph layer",
+              "essay layer"
+            ],
+            [
+              "word layer",
+              "sentence layer",
+              "paragraph layer",
+              "essay layer"
+            ],
+            [
+              "word layer",
+              "sentence layer",
+              "paragraph layer",
+              "essay layer"
+            ]
+          ],
+          "response_container": {
+            "pointer": "left"
+          },
+          "stimulus": "<p><span style=\"font-size:1.3em;\"><span style=\"color:#008000;\"><strong>Exercise 1.</strong></span> <span style=\"color:#008000;\">When we review our writing, there&nbsp;are many aspects to consider. It can help to break down what we review into different levels: <strong>word, sentence, paragraph</strong> and <strong>whole text</strong>. You can then review your work one level at a time, e.g. review for issues with the overall structure &amp; content first (whole text level), then review your assignment for the structure &amp; content of each paragraph (paragraph level) etc. </span></span></p>\n\n<p><span style=\"font-size:1.3em;\"><span style=\"color:#008000;\">Look at the questions below from a reviewing checklist. Decide which level you are reviewing when you ask yourself these questions</span></span></p>\n",
+          "template": "<p><span style=\"font-size:1em;\">1. Are there any unnecessarily large words that impede the flow and clarity of your writing?&nbsp;{{response}}</span></p>\n\n<p><span style=\"font-size:1em;\">2. Does the topic sentence introduce the main point?&nbsp;{{response}}</span></p>\n\n<p><span style=\"font-size:1em;\">3. Is the correct punctuation used?&nbsp;{{response}}</span></p>\n\n<p><span style=\"font-size:1em;\">4. Is the spelling accurate?&nbsp;{{response}}</span></p>\n\n<p><span style=\"font-size:1em;\">5. Does the text respond to the task assigned?&nbsp;{{response}}</span></p>\n\n<p><span style=\"font-size:1em;\">6. Are all the references correctly formatted?&nbsp;{{response}}</span></p>\n\n<p><span style=\"font-size:1em;\">7. Does the evidence (quotes, data, etc.) support the topic sentence and is commented on?&nbsp;{{response}}</span></p>\n\n<p><span style=\"font-size:1em;\">8. Is there variation in the length and structure of your sentences?&nbsp;{{response}}</span></p>\n\n<p><span style=\"font-size:1em;\">9. Are there unnecessarily&nbsp;large words that impeded the flow and clarity of your writing?&nbsp;{{response}}</span></p>\n\n<p><span style=\"font-size:1em;\">10. Is the focus of the paper specific enough?&nbsp;{{response}}</span></p>\n\n<p><span style=\"font-size:1em;\">11. Do the paragraphs flow in a logical and coherent order?&nbsp;{{response}}</span></p>\n\n<p><span style=\"font-size:1em;\">12. Do too many sentences begin with the same word?&nbsp;{{response}}</span></p>\n",
+          "type": "clozedropdown",
+          "case_sensitive": true,
+          "validation": {
+            "scoring_type": "partialMatch",
+            "valid_response": {
+              "score": 12,
+              "value": [
+                "word layer",
+                "paragraph layer",
+                "sentence layer",
+                "word layer",
+                "essay layer",
+                "essay layer",
+                "paragraph layer",
+                "sentence layer",
+                "word layer",
+                "essay layer",
+                "paragraph layer",
+                "sentence layer"
+              ]
+            }
+          }
+        },
+        "metadata": {
+          "name": "Cloze with drop down",
+          "template_reference": "2fbba51b-e35e-441f-83c7-2662e2e81fa6"
+        }
+      },
+      "feedbackInfo": [
+        null,
+        null
+      ]
+    },
+    {
+      "response_id": "66ea75a8-c38b-4972-b223-56f976717061_af9108f816318f6a260d60ae59483a3a",
+      "question_type": "clozedropdown",
+      "dt_score_updated": "2021-12-21T15:25:08Z",
+      "automarkable": true,
+      "attempted": false,
+      "score": null,
+      "max_score": 100,
+      "question_reference": "05d88daf-d336-4b70-8942-27f03ba418f7",
+      "item_reference": "892b9e86-d0ec-4ed5-80bb-05589c14f20a",
+      "response": null,
+      "questionInfo": {
+        "type": "clozedropdown",
+        "widget_type": "response",
+        "reference": "05d88daf-d336-4b70-8942-27f03ba418f7",
+        "data": {
+          "possible_responses": [
+            [
+              "correct",
+              "punctuation problem",
+              "APA style guide problem",
+              "formal style problem",
+              "spelling problem"
+            ],
+            [
+              "correct",
+              "punctuation problem",
+              "APA style guide problem",
+              "formal style problem",
+              "spelling problem"
+            ],
+            [
+              "correct",
+              "punctuation problem",
+              "APA style guide problem",
+              "formal style problem",
+              "spelling problem"
+            ],
+            [
+              "correct",
+              "punctuation problem",
+              "APA style guide problem",
+              "formal style problem",
+              "spelling problem"
+            ],
+            [
+              "correct",
+              "punctuation problem",
+              "APA style guide problem",
+              "formal style problem",
+              "spelling problem"
+            ],
+            [
+              "correct",
+              "punctuation problem",
+              "APA style guide problem",
+              "formal style problem",
+              "spelling problem"
+            ],
+            [
+              "correct",
+              "punctuation problem",
+              "APA style guide problem",
+              "formal style problem",
+              "spelling problem"
+            ],
+            [
+              "correct",
+              "punctuation problem",
+              "APA style guide problem",
+              "formal style problem",
+              "spelling problem"
+            ],
+            [
+              "correct",
+              "punctuation problem",
+              "APA style guide problem",
+              "formal style problem",
+              "spelling problem"
+            ],
+            [
+              "correct",
+              "punctuation problem",
+              "APA style guide problem",
+              "formal style problem",
+              "spelling problem"
+            ]
+          ],
+          "response_container": {
+            "pointer": "left"
+          },
+          "stimulus": "<span style=\"font-size:1.3em;\"><span style=\"color:#0000cd;\"><strong>Exercise 2.</strong> Proofread the sentences below. Decide which are correct and which have a problem</span></span>",
+          "template": "<p>1. The SWOT analysis exposed the weak points of the plan which were many as well as the opportunities the may arise.&nbsp;{{response}}</p>\n\n<p>2. Different management styles may work for various teams, depending on the internal and external factors that affect them.&nbsp;{{response}}</p>\n\n<p>3. Rodrigues, C. (2021). Pre-sessional course methodology - An overview.&nbsp;<em>Journal of English Studies,&nbsp;</em>8 (3)&nbsp;{{response}}</p>\n\n<p>4. Homer (1985) pointed out that the insight in the wildlife in citie, especially the squirrel poulation, should have an impact on design and architecture.&nbsp;{{response}}</p>\n\n<p>5. \"Considering the impact of international students on the English economy, the universities should invest more resources in making education accessible to the students from overseas\" (Delmonego, 2020).&nbsp;{{response}}</p>\n\n<p>6. Lots of students choose to study in London because of its awesome universities and everything is has to offer.&nbsp;{{response}}</p>\n\n<p>7. The idea of including the stakeholders in the decision-making process was supported by&nbsp;Purdon 2018.&nbsp;{{response}}</p>\n\n<p>8. Eluating the process should include reflection and analysis of the stages.&nbsp;{{response}}</p>\n\n<p>9. Considering the pros and cons of the situation the company should think about changing the way of doing things.&nbsp;{{response}}</p>\n\n<p>10. There are several factors to consider market research, opportunities for growth target customer base and competition.&nbsp;{{response}}</p>\n",
+          "type": "clozedropdown",
+          "case_sensitive": true,
+          "validation": {
+            "scoring_type": "partialMatch",
+            "valid_response": {
+              "score": 10,
+              "value": [
+                "punctuation problem",
+                "correct",
+                "APA style guide problem",
+                "spelling problem",
+                "correct",
+                "formal style problem",
+                "APA style guide problem",
+                "spelling problem",
+                "formal style problem",
+                "punctuation problem"
+              ]
+            }
+          }
+        },
+        "metadata": {
+          "name": "Cloze with drop down",
+          "template_reference": "2fbba51b-e35e-441f-83c7-2662e2e81fa6"
+        }
+      },
+      "feedbackInfo": [
+        null,
+        null
+      ]
+    }
+  ]
+}

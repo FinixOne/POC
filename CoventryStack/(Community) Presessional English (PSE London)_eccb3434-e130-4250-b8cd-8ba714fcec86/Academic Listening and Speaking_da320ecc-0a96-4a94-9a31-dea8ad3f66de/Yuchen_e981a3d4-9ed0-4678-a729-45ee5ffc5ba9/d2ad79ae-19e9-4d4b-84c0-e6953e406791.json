@@ -1,0 +1,2612 @@
+{
+  "userId": "e981a3d4-9ed0-4678-a729-45ee5ffc5ba9",
+  "firstName": "Yuchen",
+  "lastName": "Liu",
+  "assigmentId": "da320ecc-0a96-4a94-9a31-dea8ad3f66de",
+  "assigmentName": "Academic Listening and Speaking",
+  "sessionId": "d2ad79ae-19e9-4d4b-84c0-e6953e406791",
+  "email": "liuy310@coventry.ac.uk",
+  "spaceId": "eccb3434-e130-4250-b8cd-8ba714fcec86",
+  "spaceName": "(Community) Presessional English (PSE London)",
+  "score": 26,
+  "max_score": 28,
+  "questions": [
+    {
+      "response_id": "d2ad79ae-19e9-4d4b-84c0-e6953e406791_918cd2a12156715d8f0d8ca20791a297",
+      "question_type": "clozeassociation",
+      "dt_score_updated": "2021-09-30T19:21:50Z",
+      "automarkable": true,
+      "attempted": true,
+      "score": 0,
+      "max_score": 1,
+      "question_reference": "15438a5e-2ac3-404f-9151-d86bb773af2d",
+      "item_reference": "3b8b3247-af23-4ba4-8978-c10d481c3aa1",
+      "response": {
+        "value": [
+          "Look at the course outline to see what’s coming up",
+          "Think about what you’re hearing",
+          "Think about the purpose for listening",
+          "Do you agree?",
+          "Think about what you expect to hear",
+          "What’s the speaker’s opinion?",
+          "Do all reading, tasks or homework set by tutor",
+          "Does your prediction match what the tutor’s saying?",
+          "This helps prepare your mind to understand more",
+          "Don’t give up: remember, it isn’t easy.",
+          "Is it what you expected, or different?"
+        ],
+        "type": "array",
+        "apiVersion": "v2.168.9",
+        "revision": 53,
+        "feedbackAttemptsCount": 40
+      },
+      "questionInfo": {
+        "type": "clozeassociation",
+        "widget_type": "response",
+        "reference": "15438a5e-2ac3-404f-9151-d86bb773af2d",
+        "data": {
+          "response_container": {
+            "pointer": "left"
+          },
+          "stimulus": "<h2 id=\"yui_3_17_2_1_1630578521026_128\"><b id=\"yui_3_17_2_1_1630578521026_127\"><span id=\"yui_3_17_2_1_1630578521026_126\" style=\"background-color: rgb(255, 207, 53);\"></span></b></h2>\n\n<h2><img class=\"lrn-image-left\" height=\"80\" src=\"https://assets.learnosity.com/organisations/755/2e624471-5e1f-459f-8c39-f3ffe582c6c6.jpg\" width=\"80\"><span style=\"color:#ff8c00;\"><strong>Get ready to listen</strong></span></h2>\n\n<h4><strong>Listen to a lecturer talking about effective listening.<br>\nOrganise the advice he gives in the table below (drag and drop).</strong></h4>\n\n<p>&nbsp;</p>\n\n<p><span id=\"yui_3_17_2_1_1630578521026_130\"></span></p>\n\n<ul id=\"yui_3_17_2_1_1630578521026_129\">\n\t<li>\n\t<p><strong><span style=\"font-size:1.3em;\">Follow the order of the ideas in the track.</span></strong></p>\n\t</li>\n\t<li>\n\t<p><strong><span style=\"font-size:1.3em;\">Then&nbsp;listen again&nbsp;to check your answers.</span></strong></p>\n\t</li>\n</ul>\n\n<p>&nbsp;</p>\n\n<p>&nbsp;</p>\n\n<p class=\"text-center\"><span class=\"learnosity-feature\" data-player=\"button\" data-simplefeature_id=\"a7b6a9d7-ffae-495c-bd3a-cbefc2797918\" data-src=\"https://assets.learnosity.com/organisations/755/96d0afa6-c876-4d3d-b44c-3770b4e007fd.mp3\" data-type=\"audioplayer\"></span></p>\n<span></span>",
+          "template": "<table class=\"table\">\n\t<thead>\n\t\t<tr>\n\t\t\t<th class=\"text-center\" scope=\"col\">\n\t\t\t<p><span style=\"font-size:1.3em;\"><span style=\"color:#ffa500;\">Before Listening</span></span></p>\n\t\t\t</th>\n\t\t\t<th class=\"text-center\" scope=\"col\">\n\t\t\t<p><span style=\"font-size:1.3em;\"><span style=\"color:#008000;\">During Listening</span></span></p>\n\t\t\t</th>\n\t\t</tr>\n\t</thead>\n\t<tbody>\n\t\t<tr>\n\t\t\t<td class=\"text-center\">{{response}}</td>\n\t\t\t<td class=\"text-center\">{{response}}</td>\n\t\t</tr>\n\t\t<tr>\n\t\t\t<td class=\"text-center\">{{response}}</td>\n\t\t\t<td class=\"text-center\">{{response}}</td>\n\t\t</tr>\n\t\t<tr>\n\t\t\t<td class=\"text-center\">{{response}}</td>\n\t\t\t<td class=\"text-center\">{{response}}</td>\n\t\t</tr>\n\t\t<tr>\n\t\t\t<td class=\"text-center\">{{response}}</td>\n\t\t\t<td class=\"text-center\">{{response}}</td>\n\t\t</tr>\n\t\t<tr>\n\t\t\t<td class=\"text-center\">{{response}}</td>\n\t\t\t<td class=\"text-center\">{{response}}</td>\n\t\t</tr>\n\t\t<tr>\n\t\t\t<td>&nbsp;</td>\n\t\t\t<td>\n\t\t\t<p>&nbsp;</p>\n\t\t\t</td>\n\t\t</tr>\n\t</tbody>\n</table>\n\n<p id=\"yui_3_17_2_1_1630579549629_3652\" style=\"text-align: left;\"><span id=\"yui_3_17_2_1_1630579549629_3655\" style=\"\"><span id=\"yui_3_17_2_1_1630579549629_3653\" style=\"font-size: 1.1875rem; font-weight: bold;\"><span id=\"yui_3_17_2_1_1630579549629_3651\">Fnally, a</span><span id=\"yui_3_17_2_1_1630579549629_3657\" style=\"color: rgb(239, 69, 64);\"> key factor</span><span id=\"yui_3_17_2_1_1630579549629_3658\" style=\"font-size: 1.1875rem;\"> is {{response}}</span></span></span></p>\n",
+          "type": "clozeassociation",
+          "case_sensitive": true,
+          "validation": {
+            "scoring_type": "partialMatchV2",
+            "valid_response": {
+              "score": 11,
+              "value": [
+                "Look at the course outline to see what’s coming up",
+                "Think about what you’re hearing",
+                "Think about the purpose for listening",
+                "Do you agree?",
+                "Think about what you expect to hear",
+                "What’s the speaker’s opinion?",
+                "Do all reading, tasks or homework set by tutor",
+                "Does your prediction match what the tutor’s saying?",
+                "This helps prepare your mind to understand more",
+                "Is it what you expected, or different?",
+                "Don’t give up: remember, it isn’t easy."
+              ]
+            },
+            "alt_responses": [
+              {
+                "score": 1,
+                "value": [
+                  null,
+                  null,
+                  null,
+                  null,
+                  null,
+                  null,
+                  null,
+                  null,
+                  null,
+                  null,
+                  null
+                ]
+              }
+            ]
+          },
+          "ui_style": {
+            "show_drag_handle": false
+          },
+          "instant_feedback": true,
+          "shuffle_options": true,
+          "possible_responses": [
+            "Look at the course outline to see what’s coming up",
+            "Think about the purpose for listening",
+            "Think about what you expect to hear",
+            "Do all reading, tasks or homework set by tutor",
+            "This helps prepare your mind to understand more",
+            "Think about what you’re hearing",
+            "Do you agree?",
+            "What’s the speaker’s opinion?",
+            "Does your prediction match what the tutor’s saying?",
+            "Is it what you expected, or different?",
+            "Don’t give up: remember, it isn’t easy."
+          ]
+        },
+        "metadata": {
+          "name": "Cloze with drag & drop",
+          "template_reference": "51a8c1e7-f34f-4faf-b211-da458e891fcb"
+        }
+      },
+      "feedbackInfo": [
+        {
+          "id": "0707_e981a3d4-9ed0-4678-a729-45ee5ffc5ba9_d2ad79ae-19e9-4d4b-84c0-e6953e406791_cb4223623f4a51607646b40a0d39501f",
+          "user_id": "e981a3d4-9ed0-4678-a729-45ee5ffc5ba9",
+          "response_id": "d2ad79ae-19e9-4d4b-84c0-e6953e406791_cb4223623f4a51607646b40a0d39501f",
+          "type": "longtextV2",
+          "question": {
+            "type": "longtextV2",
+            "metadata": {
+              "source": {
+                "organisation_id": 755
+              },
+              "sheet_reference": "default_feedback",
+              "widget_reference": "de082b5f-742a-4ecf-82ca-4dc86e218fec",
+              "valid_response_count": 0
+            },
+            "stimulus": "Written feedback:",
+            "response_id": "d2ad79ae-19e9-4d4b-84c0-e6953e406791_cb4223623f4a51607646b40a0d39501f",
+            "show_word_count": false,
+            "show_word_limit": "off"
+          },
+          "response": null,
+          "creation_date": "2021-10-01 08:18:15",
+          "mod_date": "2021-10-01 08:18:15",
+          "persist_until": "2021-10-02 08:18:15",
+          "saved": false
+        },
+        null
+      ]
+    },
+    {
+      "response_id": "d2ad79ae-19e9-4d4b-84c0-e6953e406791_67d1b20aa09dd81b44ee3ed8a57afc87",
+      "question_type": "clozeassociation",
+      "dt_score_updated": "2021-09-30T19:23:10Z",
+      "automarkable": true,
+      "attempted": true,
+      "score": 1,
+      "max_score": 1,
+      "question_reference": "7e85d7e1-740d-4730-af48-212c4dc2b8ff",
+      "item_reference": "abc562f2-1e84-40f3-8fa9-4797337eec76",
+      "response": {
+        "value": [
+          "Make",
+          "sure",
+          "you",
+          "fully",
+          "understand",
+          "the",
+          "topic."
+        ],
+        "type": "array",
+        "apiVersion": "v2.168.9",
+        "revision": 6,
+        "feedbackAttemptsCount": 6
+      },
+      "questionInfo": {
+        "type": "clozeassociation",
+        "widget_type": "response",
+        "reference": "7e85d7e1-740d-4730-af48-212c4dc2b8ff",
+        "data": {
+          "response_container": {
+            "pointer": "left"
+          },
+          "stimulus": "<h2 id=\"yui_3_17_2_1_1630580577606_3328\"><b id=\"yui_3_17_2_1_1630580577606_3330\" style=\"color: rgb(51, 51, 51); font-size: 1.6625rem;\"><span id=\"yui_3_17_2_1_1630580577606_3331\" style=\"background-color: rgb(152, 202, 62); color: rgb(255, 255, 255);\"></span></b><img class=\"lrn-image-left\" height=\"100\" src=\"https://assets.learnosity.com/organisations/755/09538478-5438-4ddd-a0e1-16b53e87a87d.jpg\" width=\"158\"><strong><span style=\"color:#008000;\">Pre-listening Strategies&nbsp;</span></strong></h2>\n\n<h4 id=\"yui_3_17_2_1_1630580577606_3334\"><strong>Here are some pre-listening strategies which you can employ to help you understand lectures better. Organise the words into complete sentences.</strong></h4>\n",
+          "template": "<p>&nbsp;</p>\n\n<p><span style=\"font-size:1em;\">1.&nbsp; {{response}} {{response}} {{response}} {{response}} {{response}} {{response}} {{response}}.</span></p>\n",
+          "type": "clozeassociation",
+          "case_sensitive": true,
+          "validation": {
+            "scoring_type": "exactMatch",
+            "valid_response": {
+              "score": 1,
+              "value": [
+                "Make",
+                "sure",
+                "you",
+                "fully",
+                "understand",
+                "the",
+                "topic."
+              ]
+            }
+          },
+          "instant_feedback": true,
+          "group_possible_responses": true,
+          "shuffle_options": true,
+          "possible_response_groups": [
+            {
+              "responses": [
+                "Make",
+                "sure",
+                "you",
+                "fully",
+                "understand",
+                "the",
+                "topic."
+              ]
+            }
+          ],
+          "possible_responses": []
+        },
+        "metadata": {
+          "name": "Cloze with drag & drop",
+          "template_reference": "51a8c1e7-f34f-4faf-b211-da458e891fcb"
+        }
+      },
+      "feedbackInfo": [
+        {
+          "id": "0707_e981a3d4-9ed0-4678-a729-45ee5ffc5ba9_d2ad79ae-19e9-4d4b-84c0-e6953e406791_fe27d969d09d964e0c3225b90da90ebc",
+          "user_id": "e981a3d4-9ed0-4678-a729-45ee5ffc5ba9",
+          "response_id": "d2ad79ae-19e9-4d4b-84c0-e6953e406791_fe27d969d09d964e0c3225b90da90ebc",
+          "type": "longtextV2",
+          "question": {
+            "type": "longtextV2",
+            "metadata": {
+              "source": {
+                "organisation_id": 755
+              },
+              "sheet_reference": "default_feedback",
+              "widget_reference": "de082b5f-742a-4ecf-82ca-4dc86e218fec",
+              "valid_response_count": 0
+            },
+            "stimulus": "Written feedback:",
+            "response_id": "d2ad79ae-19e9-4d4b-84c0-e6953e406791_fe27d969d09d964e0c3225b90da90ebc",
+            "show_word_count": false,
+            "show_word_limit": "off"
+          },
+          "response": null,
+          "creation_date": "2021-10-01 08:18:15",
+          "mod_date": "2021-10-01 08:18:15",
+          "persist_until": "2021-10-02 08:18:15",
+          "saved": false
+        },
+        null
+      ]
+    },
+    {
+      "response_id": "d2ad79ae-19e9-4d4b-84c0-e6953e406791_93b1f30ae264311878cfb723011faa48",
+      "question_type": "clozeassociation",
+      "dt_score_updated": "2021-09-30T19:24:21Z",
+      "automarkable": true,
+      "attempted": true,
+      "score": 1,
+      "max_score": 1,
+      "question_reference": "bf27782e-ab1d-4746-bf0e-d53cc3a8f9ff",
+      "item_reference": "abc562f2-1e84-40f3-8fa9-4797337eec76",
+      "response": {
+        "value": [
+          "Review&nbsp;",
+          "notes&nbsp;",
+          "from&nbsp;",
+          "previous&nbsp;",
+          "lectures&nbsp;",
+          "to&nbsp;",
+          "prepare."
+        ],
+        "type": "array",
+        "apiVersion": "v2.168.9",
+        "revision": 7,
+        "feedbackAttemptsCount": 4
+      },
+      "questionInfo": {
+        "type": "clozeassociation",
+        "widget_type": "response",
+        "reference": "bf27782e-ab1d-4746-bf0e-d53cc3a8f9ff",
+        "data": {
+          "possible_responses": [
+            "Review&nbsp;",
+            "notes&nbsp;",
+            "from&nbsp;",
+            "previous&nbsp;",
+            "lectures&nbsp;",
+            "to&nbsp;",
+            "prepare."
+          ],
+          "response_container": {
+            "pointer": "left"
+          },
+          "template": "<span style=\"font-size:1em;\">2.&nbsp;{{response}}&nbsp;{{response}}&nbsp;{{response}}&nbsp;{{response}}&nbsp;{{response}}&nbsp;{{response}}&nbsp;{{response}}&nbsp;</span>",
+          "type": "clozeassociation",
+          "case_sensitive": true,
+          "validation": {
+            "scoring_type": "exactMatch",
+            "valid_response": {
+              "score": 1,
+              "value": [
+                "Review&nbsp;",
+                "notes&nbsp;",
+                "from&nbsp;",
+                "previous&nbsp;",
+                "lectures&nbsp;",
+                "to&nbsp;",
+                "prepare."
+              ]
+            }
+          },
+          "instant_feedback": true,
+          "shuffle_options": true
+        },
+        "metadata": {
+          "name": "Cloze with drag & drop",
+          "template_reference": "51a8c1e7-f34f-4faf-b211-da458e891fcb"
+        }
+      },
+      "feedbackInfo": [
+        {
+          "id": "0707_e981a3d4-9ed0-4678-a729-45ee5ffc5ba9_d2ad79ae-19e9-4d4b-84c0-e6953e406791_aef7d5e39c68318227835045210cfad5",
+          "user_id": "e981a3d4-9ed0-4678-a729-45ee5ffc5ba9",
+          "response_id": "d2ad79ae-19e9-4d4b-84c0-e6953e406791_aef7d5e39c68318227835045210cfad5",
+          "type": "longtextV2",
+          "question": {
+            "type": "longtextV2",
+            "metadata": {
+              "source": {
+                "organisation_id": 755
+              },
+              "sheet_reference": "default_feedback",
+              "widget_reference": "de082b5f-742a-4ecf-82ca-4dc86e218fec",
+              "valid_response_count": 0
+            },
+            "stimulus": "Written feedback:",
+            "response_id": "d2ad79ae-19e9-4d4b-84c0-e6953e406791_aef7d5e39c68318227835045210cfad5",
+            "show_word_count": false,
+            "show_word_limit": "off"
+          },
+          "response": null,
+          "creation_date": "2021-10-01 08:18:16",
+          "mod_date": "2021-10-01 08:18:16",
+          "persist_until": "2021-10-02 08:18:16",
+          "saved": false
+        },
+        null
+      ]
+    },
+    {
+      "response_id": "d2ad79ae-19e9-4d4b-84c0-e6953e406791_7422f9394e3df56ba710822537aab190",
+      "question_type": "clozeassociation",
+      "dt_score_updated": "2021-09-30T19:27:41Z",
+      "automarkable": true,
+      "attempted": true,
+      "score": 1,
+      "max_score": 1,
+      "question_reference": "345f0f75-0b0c-4832-8e91-e0c6b7e4e134",
+      "item_reference": "abc562f2-1e84-40f3-8fa9-4797337eec76",
+      "response": {
+        "value": [
+          "Predict",
+          "some",
+          "of",
+          "the topics",
+          "and",
+          "key vocabulary",
+          "you",
+          "might",
+          "hear."
+        ],
+        "type": "array",
+        "apiVersion": "v2.168.9",
+        "revision": 4,
+        "feedbackAttemptsCount": 7
+      },
+      "questionInfo": {
+        "type": "clozeassociation",
+        "widget_type": "response",
+        "reference": "345f0f75-0b0c-4832-8e91-e0c6b7e4e134",
+        "data": {
+          "possible_responses": [
+            "Predict",
+            "some",
+            "of",
+            "the topics",
+            "and",
+            "key vocabulary",
+            "you",
+            "might",
+            "hear."
+          ],
+          "response_container": {
+            "pointer": "left"
+          },
+          "template": "<span style=\"font-size:1em;\">3.&nbsp;{{response}}&nbsp;{{response}}&nbsp;{{response}}&nbsp;{{response}}&nbsp;{{response}}&nbsp;{{response}}&nbsp;{{response}}&nbsp;{{response}}&nbsp;{{response}}&nbsp;</span>",
+          "type": "clozeassociation",
+          "case_sensitive": true,
+          "validation": {
+            "scoring_type": "exactMatch",
+            "valid_response": {
+              "score": 1,
+              "value": [
+                "Predict",
+                "some",
+                "of",
+                "the topics",
+                "and",
+                "key vocabulary",
+                "you",
+                "might",
+                "hear."
+              ]
+            }
+          },
+          "shuffle_options": true,
+          "instant_feedback": true
+        },
+        "metadata": {
+          "name": "Cloze with drag & drop",
+          "template_reference": "51a8c1e7-f34f-4faf-b211-da458e891fcb"
+        }
+      },
+      "feedbackInfo": [
+        {
+          "id": "0707_e981a3d4-9ed0-4678-a729-45ee5ffc5ba9_d2ad79ae-19e9-4d4b-84c0-e6953e406791_1c305bb291d6b74e708b645942ab0912",
+          "user_id": "e981a3d4-9ed0-4678-a729-45ee5ffc5ba9",
+          "response_id": "d2ad79ae-19e9-4d4b-84c0-e6953e406791_1c305bb291d6b74e708b645942ab0912",
+          "type": "longtextV2",
+          "question": {
+            "type": "longtextV2",
+            "metadata": {
+              "source": {
+                "organisation_id": 755
+              },
+              "sheet_reference": "default_feedback",
+              "widget_reference": "de082b5f-742a-4ecf-82ca-4dc86e218fec",
+              "valid_response_count": 0
+            },
+            "stimulus": "Written feedback:",
+            "response_id": "d2ad79ae-19e9-4d4b-84c0-e6953e406791_1c305bb291d6b74e708b645942ab0912",
+            "show_word_count": false,
+            "show_word_limit": "off"
+          },
+          "response": null,
+          "creation_date": "2021-10-01 08:18:16",
+          "mod_date": "2021-10-01 08:18:16",
+          "persist_until": "2021-10-02 08:18:16",
+          "saved": false
+        },
+        null
+      ]
+    },
+    {
+      "response_id": "d2ad79ae-19e9-4d4b-84c0-e6953e406791_3386863929c2bbd36d86dc8ca53d0cf7",
+      "question_type": "clozeassociation",
+      "dt_score_updated": "2021-09-30T19:27:56Z",
+      "automarkable": true,
+      "attempted": true,
+      "score": 1,
+      "max_score": 1,
+      "question_reference": "52def80c-0eea-473a-9e09-92c4d8eb753e",
+      "item_reference": "abc562f2-1e84-40f3-8fa9-4797337eec76",
+      "response": {
+        "value": [
+          "Check the",
+          "pronunciation",
+          "of",
+          "key",
+          "words."
+        ],
+        "type": "array",
+        "apiVersion": "v2.168.9",
+        "revision": 2
+      },
+      "questionInfo": {
+        "type": "clozeassociation",
+        "widget_type": "response",
+        "reference": "52def80c-0eea-473a-9e09-92c4d8eb753e",
+        "data": {
+          "possible_responses": [
+            "Check the",
+            "pronunciation",
+            "of",
+            "key",
+            "words."
+          ],
+          "response_container": {
+            "pointer": "left"
+          },
+          "template": "<span style=\"font-size:1em;\">4.&nbsp;{{response}}&nbsp;{{response}}&nbsp;{{response}}&nbsp;{{response}}&nbsp;{{response}}</span>",
+          "type": "clozeassociation",
+          "case_sensitive": true,
+          "validation": {
+            "scoring_type": "exactMatch",
+            "valid_response": {
+              "score": 1,
+              "value": [
+                "Check the",
+                "pronunciation",
+                "of",
+                "key",
+                "words."
+              ]
+            }
+          },
+          "shuffle_options": true,
+          "instant_feedback": true
+        },
+        "metadata": {
+          "name": "Cloze with drag & drop",
+          "template_reference": "51a8c1e7-f34f-4faf-b211-da458e891fcb"
+        }
+      },
+      "feedbackInfo": [
+        {
+          "id": "0707_e981a3d4-9ed0-4678-a729-45ee5ffc5ba9_d2ad79ae-19e9-4d4b-84c0-e6953e406791_139fb1e9cd06d62e5357b230bba28ead",
+          "user_id": "e981a3d4-9ed0-4678-a729-45ee5ffc5ba9",
+          "response_id": "d2ad79ae-19e9-4d4b-84c0-e6953e406791_139fb1e9cd06d62e5357b230bba28ead",
+          "type": "longtextV2",
+          "question": {
+            "type": "longtextV2",
+            "metadata": {
+              "source": {
+                "organisation_id": 755
+              },
+              "sheet_reference": "default_feedback",
+              "widget_reference": "de082b5f-742a-4ecf-82ca-4dc86e218fec",
+              "valid_response_count": 0
+            },
+            "stimulus": "Written feedback:",
+            "response_id": "d2ad79ae-19e9-4d4b-84c0-e6953e406791_139fb1e9cd06d62e5357b230bba28ead",
+            "show_word_count": false,
+            "show_word_limit": "off"
+          },
+          "response": null,
+          "creation_date": "2021-10-01 08:18:17",
+          "mod_date": "2021-10-01 08:18:17",
+          "persist_until": "2021-10-02 08:18:17",
+          "saved": false
+        },
+        null
+      ]
+    },
+    {
+      "response_id": "d2ad79ae-19e9-4d4b-84c0-e6953e406791_4cfefea7b04470d71e63bd7c8b6836d9",
+      "question_type": "clozeassociation",
+      "dt_score_updated": "2021-09-30T19:28:47Z",
+      "automarkable": true,
+      "attempted": true,
+      "score": 0,
+      "max_score": 1,
+      "question_reference": "b122c72c-8d49-43fb-825f-09e4e918a1a7",
+      "item_reference": "abc562f2-1e84-40f3-8fa9-4797337eec76",
+      "response": {
+        "value": [
+          "Read",
+          "any",
+          "suggested",
+          "material",
+          "by the",
+          "teacher.&nbsp;"
+        ],
+        "type": "array",
+        "apiVersion": "v2.168.9",
+        "revision": 2
+      },
+      "questionInfo": {
+        "type": "clozeassociation",
+        "widget_type": "response",
+        "reference": "b122c72c-8d49-43fb-825f-09e4e918a1a7",
+        "data": {
+          "possible_responses": [
+            "Read",
+            "any",
+            "material",
+            "suggested",
+            "by the",
+            "teacher.&nbsp;"
+          ],
+          "response_container": {
+            "pointer": "left"
+          },
+          "template": "6.&nbsp;{{response}}&nbsp;{{response}}&nbsp;{{response}}&nbsp;{{response}}&nbsp;{{response}}&nbsp;{{response}}",
+          "type": "clozeassociation",
+          "case_sensitive": true,
+          "validation": {
+            "scoring_type": "exactMatch",
+            "valid_response": {
+              "score": 1,
+              "value": [
+                "Read",
+                "any",
+                "material",
+                "suggested",
+                "by the",
+                "teacher.&nbsp;"
+              ]
+            }
+          },
+          "shuffle_options": true
+        },
+        "metadata": {
+          "name": "Cloze with drag & drop",
+          "template_reference": "51a8c1e7-f34f-4faf-b211-da458e891fcb"
+        }
+      },
+      "feedbackInfo": [
+        {
+          "id": "0707_e981a3d4-9ed0-4678-a729-45ee5ffc5ba9_d2ad79ae-19e9-4d4b-84c0-e6953e406791_e7db518fa590ba9aacdedea082b4b277",
+          "user_id": "e981a3d4-9ed0-4678-a729-45ee5ffc5ba9",
+          "response_id": "d2ad79ae-19e9-4d4b-84c0-e6953e406791_e7db518fa590ba9aacdedea082b4b277",
+          "type": "longtextV2",
+          "question": {
+            "type": "longtextV2",
+            "metadata": {
+              "source": {
+                "organisation_id": 755
+              },
+              "sheet_reference": "default_feedback",
+              "widget_reference": "de082b5f-742a-4ecf-82ca-4dc86e218fec",
+              "valid_response_count": 0
+            },
+            "stimulus": "Written feedback:",
+            "response_id": "d2ad79ae-19e9-4d4b-84c0-e6953e406791_e7db518fa590ba9aacdedea082b4b277",
+            "show_word_count": false,
+            "show_word_limit": "off"
+          },
+          "response": null,
+          "creation_date": "2021-10-01 08:18:17",
+          "mod_date": "2021-10-01 08:18:17",
+          "persist_until": "2021-10-02 08:18:17",
+          "saved": false
+        },
+        null
+      ]
+    },
+    {
+      "response_id": "d2ad79ae-19e9-4d4b-84c0-e6953e406791_2ada16bae2ebc92f9784e03954991b6d",
+      "question_type": "clozeassociation",
+      "dt_score_updated": "2021-09-30T19:31:07Z",
+      "automarkable": true,
+      "attempted": true,
+      "score": 1,
+      "max_score": 1,
+      "question_reference": "1b853543-adb7-4c79-b7d2-76560759a948",
+      "item_reference": "abc562f2-1e84-40f3-8fa9-4797337eec76",
+      "response": {
+        "value": [
+          "make",
+          "notes",
+          "leave",
+          "space",
+          "add",
+          "any",
+          "interesting",
+          "points"
+        ],
+        "type": "array",
+        "apiVersion": "v2.168.9",
+        "revision": 6,
+        "feedbackAttemptsCount": 13
+      },
+      "questionInfo": {
+        "type": "clozeassociation",
+        "widget_type": "response",
+        "reference": "1b853543-adb7-4c79-b7d2-76560759a948",
+        "data": {
+          "possible_responses": [
+            "make",
+            "notes",
+            "leave",
+            "space",
+            "add",
+            "any",
+            "interesting",
+            "points"
+          ],
+          "response_container": {
+            "pointer": "left"
+          },
+          "template": "<span style=\"font-size:1em;\">7. When you pre-read,&nbsp;{{response}}&nbsp;{{response}}&nbsp;and&nbsp;{{response}}&nbsp;{{response}}&nbsp;to&nbsp;{{response}}&nbsp;{{response}}&nbsp;{{response}}&nbsp;{{response}}&nbsp;that you hear during the class.</span>",
+          "type": "clozeassociation",
+          "case_sensitive": true,
+          "validation": {
+            "scoring_type": "exactMatch",
+            "valid_response": {
+              "score": 1,
+              "value": [
+                "make",
+                "notes",
+                "leave",
+                "space",
+                "add",
+                "any",
+                "interesting",
+                "points"
+              ]
+            }
+          },
+          "shuffle_options": true,
+          "instant_feedback": true
+        },
+        "metadata": {
+          "name": "Cloze with drag & drop",
+          "template_reference": "51a8c1e7-f34f-4faf-b211-da458e891fcb"
+        }
+      },
+      "feedbackInfo": [
+        {
+          "id": "0707_e981a3d4-9ed0-4678-a729-45ee5ffc5ba9_d2ad79ae-19e9-4d4b-84c0-e6953e406791_d39c0e9f0cbc6e3f77f9291cd3e9cd3d",
+          "user_id": "e981a3d4-9ed0-4678-a729-45ee5ffc5ba9",
+          "response_id": "d2ad79ae-19e9-4d4b-84c0-e6953e406791_d39c0e9f0cbc6e3f77f9291cd3e9cd3d",
+          "type": "longtextV2",
+          "question": {
+            "type": "longtextV2",
+            "metadata": {
+              "source": {
+                "organisation_id": 755
+              },
+              "sheet_reference": "default_feedback",
+              "widget_reference": "de082b5f-742a-4ecf-82ca-4dc86e218fec",
+              "valid_response_count": 0
+            },
+            "stimulus": "Written feedback:",
+            "response_id": "d2ad79ae-19e9-4d4b-84c0-e6953e406791_d39c0e9f0cbc6e3f77f9291cd3e9cd3d",
+            "show_word_count": false,
+            "show_word_limit": "off"
+          },
+          "response": null,
+          "creation_date": "2021-10-01 08:18:17",
+          "mod_date": "2021-10-01 08:18:17",
+          "persist_until": "2021-10-02 08:18:17",
+          "saved": false
+        },
+        null
+      ]
+    },
+    {
+      "response_id": "d2ad79ae-19e9-4d4b-84c0-e6953e406791_37d6bb19b853877305da6a0656123573",
+      "question_type": "clozeassociation",
+      "dt_score_updated": "2021-09-30T19:32:32Z",
+      "automarkable": true,
+      "attempted": true,
+      "score": 1,
+      "max_score": 1,
+      "question_reference": "170f5f73-ee17-46ee-9b4b-c6e183675d5a",
+      "item_reference": "abc562f2-1e84-40f3-8fa9-4797337eec76",
+      "response": {
+        "value": [
+          "When",
+          "you",
+          "arrive,",
+          "sit",
+          "close",
+          "to the",
+          "front",
+          "of the",
+          "class."
+        ],
+        "type": "array",
+        "apiVersion": "v2.168.9",
+        "revision": 4,
+        "feedbackAttemptsCount": 1
+      },
+      "questionInfo": {
+        "type": "clozeassociation",
+        "widget_type": "response",
+        "reference": "170f5f73-ee17-46ee-9b4b-c6e183675d5a",
+        "data": {
+          "possible_responses": [
+            "When",
+            "you",
+            "arrive,",
+            "sit",
+            "close",
+            "to the",
+            "front",
+            "of the",
+            "class."
+          ],
+          "response_container": {
+            "pointer": "left"
+          },
+          "template": "<span style=\"font-size:1em;\">8.&nbsp;{{response}}&nbsp;{{response}}&nbsp;{{response}}&nbsp;{{response}}&nbsp;{{response}}&nbsp;{{response}}&nbsp;{{response}}&nbsp;{{response}}&nbsp;{{response}}</span>",
+          "type": "clozeassociation",
+          "case_sensitive": true,
+          "validation": {
+            "scoring_type": "exactMatch",
+            "valid_response": {
+              "score": 1,
+              "value": [
+                "When",
+                "you",
+                "arrive,",
+                "sit",
+                "close",
+                "to the",
+                "front",
+                "of the",
+                "class."
+              ]
+            }
+          },
+          "shuffle_options": true,
+          "instant_feedback": true
+        },
+        "metadata": {
+          "name": "Cloze with drag & drop",
+          "template_reference": "51a8c1e7-f34f-4faf-b211-da458e891fcb"
+        }
+      },
+      "feedbackInfo": [
+        {
+          "id": "0707_e981a3d4-9ed0-4678-a729-45ee5ffc5ba9_d2ad79ae-19e9-4d4b-84c0-e6953e406791_c21730702e4f0e0935dee0c28c6acc8e",
+          "user_id": "e981a3d4-9ed0-4678-a729-45ee5ffc5ba9",
+          "response_id": "d2ad79ae-19e9-4d4b-84c0-e6953e406791_c21730702e4f0e0935dee0c28c6acc8e",
+          "type": "longtextV2",
+          "question": {
+            "type": "longtextV2",
+            "metadata": {
+              "source": {
+                "organisation_id": 755
+              },
+              "sheet_reference": "default_feedback",
+              "widget_reference": "de082b5f-742a-4ecf-82ca-4dc86e218fec",
+              "valid_response_count": 0
+            },
+            "stimulus": "Written feedback:",
+            "response_id": "d2ad79ae-19e9-4d4b-84c0-e6953e406791_c21730702e4f0e0935dee0c28c6acc8e",
+            "show_word_count": false,
+            "show_word_limit": "off"
+          },
+          "response": null,
+          "creation_date": "2021-10-01 08:18:18",
+          "mod_date": "2021-10-01 08:18:18",
+          "persist_until": "2021-10-02 08:18:18",
+          "saved": false
+        },
+        null
+      ]
+    },
+    {
+      "response_id": "d2ad79ae-19e9-4d4b-84c0-e6953e406791_656a65ca9d43f0b4ea595d8d1008c35b",
+      "question_type": "clozeassociation",
+      "dt_score_updated": "2021-09-30T19:33:07Z",
+      "automarkable": true,
+      "attempted": true,
+      "score": 1,
+      "max_score": 1,
+      "question_reference": "331756cd-3dd7-427a-b5d1-51dbc50dcd93",
+      "item_reference": "abc562f2-1e84-40f3-8fa9-4797337eec76",
+      "response": {
+        "value": [
+          "Turn off",
+          "your",
+          "mobile phone",
+          "at",
+          "the",
+          "start",
+          "of",
+          "the lecture."
+        ],
+        "type": "array",
+        "apiVersion": "v2.168.9",
+        "revision": 2
+      },
+      "questionInfo": {
+        "type": "clozeassociation",
+        "widget_type": "response",
+        "reference": "331756cd-3dd7-427a-b5d1-51dbc50dcd93",
+        "data": {
+          "possible_responses": [
+            "Turn off",
+            "your",
+            "mobile phone",
+            "at",
+            "the",
+            "start",
+            "of",
+            "the lecture."
+          ],
+          "response_container": {
+            "pointer": "left"
+          },
+          "template": "<span style=\"font-size:1em;\">9.&nbsp;{{response}}&nbsp;{{response}}&nbsp;{{response}}&nbsp;{{response}}&nbsp;{{response}}&nbsp;{{response}}&nbsp;{{response}}&nbsp;{{response}}&nbsp;</span>",
+          "type": "clozeassociation",
+          "case_sensitive": true,
+          "validation": {
+            "scoring_type": "exactMatch",
+            "valid_response": {
+              "score": 1,
+              "value": [
+                "Turn off",
+                "your",
+                "mobile phone",
+                "at",
+                "the",
+                "start",
+                "of",
+                "the lecture."
+              ]
+            }
+          },
+          "shuffle_options": true,
+          "instant_feedback": true
+        },
+        "metadata": {
+          "name": "Cloze with drag & drop",
+          "template_reference": "51a8c1e7-f34f-4faf-b211-da458e891fcb"
+        }
+      },
+      "feedbackInfo": [
+        {
+          "id": "0707_e981a3d4-9ed0-4678-a729-45ee5ffc5ba9_d2ad79ae-19e9-4d4b-84c0-e6953e406791_436b36761a0c79ad7ad0e273e7f09138",
+          "user_id": "e981a3d4-9ed0-4678-a729-45ee5ffc5ba9",
+          "response_id": "d2ad79ae-19e9-4d4b-84c0-e6953e406791_436b36761a0c79ad7ad0e273e7f09138",
+          "type": "longtextV2",
+          "question": {
+            "type": "longtextV2",
+            "metadata": {
+              "source": {
+                "organisation_id": 755
+              },
+              "sheet_reference": "default_feedback",
+              "widget_reference": "de082b5f-742a-4ecf-82ca-4dc86e218fec",
+              "valid_response_count": 0
+            },
+            "stimulus": "Written feedback:",
+            "response_id": "d2ad79ae-19e9-4d4b-84c0-e6953e406791_436b36761a0c79ad7ad0e273e7f09138",
+            "show_word_count": false,
+            "show_word_limit": "off"
+          },
+          "response": null,
+          "creation_date": "2021-10-01 08:18:18",
+          "mod_date": "2021-10-01 08:18:18",
+          "persist_until": "2021-10-02 08:18:18",
+          "saved": false
+        },
+        null
+      ]
+    },
+    {
+      "response_id": "d2ad79ae-19e9-4d4b-84c0-e6953e406791_746509f3794c7360cc4b37400355a941",
+      "question_type": "mcq",
+      "dt_score_updated": "2021-09-30T19:33:27Z",
+      "automarkable": true,
+      "attempted": true,
+      "score": 1,
+      "max_score": 1,
+      "question_reference": "0962376b-f15d-45fa-842e-a34f8f1b99dd",
+      "item_reference": "06931194-bc7d-4a9e-b349-712ff7d77602",
+      "response": {
+        "value": [
+          "1"
+        ],
+        "type": "array",
+        "apiVersion": "v2.168.9",
+        "revision": 1
+      },
+      "questionInfo": {
+        "type": "mcq",
+        "widget_type": "response",
+        "reference": "0962376b-f15d-45fa-842e-a34f8f1b99dd",
+        "data": {
+          "options": [
+            {
+              "label": "True",
+              "value": "0"
+            },
+            {
+              "label": "False",
+              "value": "1"
+            }
+          ],
+          "stimulus": "<h4 id=\"yui_3_17_2_1_1630665970857_2110\"><span style=\"color:#ff0000;\"></span></h4>\n<span style=\"color:#ff0000;\"><img class=\"lrn-image-left\" height=\"80\" src=\"https://assets.learnosity.com/organisations/755/a2cb0d85-1392-4b0b-bf8d-fb3901311b47.jpg\" width=\"80\"></span>\n\n<h2><span style=\"color:#ff8c00;\"><strong>Get ready to listen&nbsp;</strong></span></h2>\n\n<h4 id=\"yui_3_17_2_1_1630665970857_2113\"><strong>Listen to a lecturer talking about about&nbsp;the purpose of lectures.</strong></h4>\n\n<p>&nbsp;</p>\n\n<ul>\n\t<li style=\"margin-left: 40px;\"><span style=\"font-size:1.3em;\">Answer the questions while you listen.</span></li>\n\t<li style=\"margin-left: 40px;\"><span style=\"font-size:1.3em;\">Before you start listening read the questions below.</span></li>\n\t<li style=\"margin-left: 40px;\"><span style=\"font-size:1.3em;\">Then listen again to check your answers.</span></li>\n</ul>\n\n<p style=\"margin-left: 40px;\">&nbsp;</p>\n\n<p class=\"text-center\"><span class=\"learnosity-feature\" data-player=\"button\" data-simplefeature_id=\"d083d2bb-5cf7-4c7e-820d-20d726d1e590\" data-src=\"https://assets.learnosity.com/organisations/755/3ad552cc-dad0-45cf-8a29-668035c7b59e.mp3\" data-type=\"audioplayer\"></span></p>\n\n<p>&nbsp;</p>\n\n<p>&nbsp;</p>\n\n<p><span style=\"font-size:1.3em;\"><b id=\"yui_3_17_2_1_1630666186450_191\">1. The lecturers expects you to understand everything about the lecture.</b></span></p>\n",
+          "type": "mcq",
+          "validation": {
+            "scoring_type": "exactMatch",
+            "valid_response": {
+              "score": 1,
+              "value": [
+                "1"
+              ]
+            }
+          },
+          "ui_style": {
+            "type": "horizontal"
+          },
+          "instant_feedback": true
+        },
+        "metadata": {
+          "name": "Multiple choice – standard",
+          "template_reference": "9e8149bd-e4d8-4dd6-a751-1a113a4b9163"
+        }
+      },
+      "feedbackInfo": [
+        {
+          "id": "0707_e981a3d4-9ed0-4678-a729-45ee5ffc5ba9_d2ad79ae-19e9-4d4b-84c0-e6953e406791_4d0fb84b78074f8489e3713054d47517",
+          "user_id": "e981a3d4-9ed0-4678-a729-45ee5ffc5ba9",
+          "response_id": "d2ad79ae-19e9-4d4b-84c0-e6953e406791_4d0fb84b78074f8489e3713054d47517",
+          "type": "longtextV2",
+          "question": {
+            "type": "longtextV2",
+            "metadata": {
+              "source": {
+                "organisation_id": 755
+              },
+              "sheet_reference": "default_feedback",
+              "widget_reference": "de082b5f-742a-4ecf-82ca-4dc86e218fec",
+              "valid_response_count": 0
+            },
+            "stimulus": "Written feedback:",
+            "response_id": "d2ad79ae-19e9-4d4b-84c0-e6953e406791_4d0fb84b78074f8489e3713054d47517",
+            "show_word_count": false,
+            "show_word_limit": "off"
+          },
+          "response": null,
+          "creation_date": "2021-10-01 08:18:19",
+          "mod_date": "2021-10-01 08:18:19",
+          "persist_until": "2021-10-02 08:18:19",
+          "saved": false
+        },
+        null
+      ]
+    },
+    {
+      "response_id": "d2ad79ae-19e9-4d4b-84c0-e6953e406791_cb596e7447099d576fe5a81e03c45a66",
+      "question_type": "clozedropdown",
+      "dt_score_updated": "2021-09-30T19:34:58Z",
+      "automarkable": true,
+      "attempted": true,
+      "score": 1,
+      "max_score": 1,
+      "question_reference": "d4618679-9bd0-41b7-a110-3dd871a85b6e",
+      "item_reference": "06931194-bc7d-4a9e-b349-712ff7d77602",
+      "response": {
+        "value": [
+          "main points"
+        ],
+        "type": "array",
+        "apiVersion": "v2.168.9",
+        "revision": 1,
+        "feedbackAttemptsCount": 1
+      },
+      "questionInfo": {
+        "type": "clozedropdown",
+        "widget_type": "response",
+        "reference": "d4618679-9bd0-41b7-a110-3dd871a85b6e",
+        "data": {
+          "possible_responses": [
+            [
+              "main points",
+              "details"
+            ]
+          ],
+          "response_container": {
+            "pointer": "left"
+          },
+          "template": "<span style=\"font-size:1.3em;\"><strong>2. During the lecture you are expected to get the&nbsp;{{response}}&nbsp;of the topic.</strong></span>",
+          "type": "clozedropdown",
+          "case_sensitive": true,
+          "validation": {
+            "scoring_type": "exactMatch",
+            "valid_response": {
+              "score": 1,
+              "value": [
+                "main points"
+              ]
+            }
+          },
+          "instant_feedback": true
+        },
+        "metadata": {
+          "name": "Cloze with drop down",
+          "template_reference": "2fbba51b-e35e-441f-83c7-2662e2e81fa6"
+        }
+      },
+      "feedbackInfo": [
+        {
+          "id": "0707_e981a3d4-9ed0-4678-a729-45ee5ffc5ba9_d2ad79ae-19e9-4d4b-84c0-e6953e406791_ad51c4a4555329cb6f789059d0604747",
+          "user_id": "e981a3d4-9ed0-4678-a729-45ee5ffc5ba9",
+          "response_id": "d2ad79ae-19e9-4d4b-84c0-e6953e406791_ad51c4a4555329cb6f789059d0604747",
+          "type": "longtextV2",
+          "question": {
+            "type": "longtextV2",
+            "metadata": {
+              "source": {
+                "organisation_id": 755
+              },
+              "sheet_reference": "default_feedback",
+              "widget_reference": "de082b5f-742a-4ecf-82ca-4dc86e218fec",
+              "valid_response_count": 0
+            },
+            "stimulus": "Written feedback:",
+            "response_id": "d2ad79ae-19e9-4d4b-84c0-e6953e406791_ad51c4a4555329cb6f789059d0604747",
+            "show_word_count": false,
+            "show_word_limit": "off"
+          },
+          "response": null,
+          "creation_date": "2021-10-01 08:18:19",
+          "mod_date": "2021-10-01 08:18:19",
+          "persist_until": "2021-10-02 08:18:19",
+          "saved": false
+        },
+        null
+      ]
+    },
+    {
+      "response_id": "d2ad79ae-19e9-4d4b-84c0-e6953e406791_6a5e43572bcd6a900b85a2f5f12bd7a3",
+      "question_type": "clozedropdown",
+      "dt_score_updated": "2021-09-30T19:37:23Z",
+      "automarkable": true,
+      "attempted": true,
+      "score": 1,
+      "max_score": 1,
+      "question_reference": "df1678bc-9ed4-4cb6-8f73-1f72bce0fcf0",
+      "item_reference": "06931194-bc7d-4a9e-b349-712ff7d77602",
+      "response": {
+        "value": [
+          "read"
+        ],
+        "type": "array",
+        "apiVersion": "v2.168.9",
+        "revision": 1
+      },
+      "questionInfo": {
+        "type": "clozedropdown",
+        "widget_type": "response",
+        "reference": "df1678bc-9ed4-4cb6-8f73-1f72bce0fcf0",
+        "data": {
+          "possible_responses": [
+            [
+              "read",
+              "listen"
+            ]
+          ],
+          "response_container": {
+            "pointer": "left"
+          },
+          "template": "<span style=\"font-size:1.3em;\"><strong>3. According to Steven Draper, it's easier to&nbsp;{{response}}.</strong></span>",
+          "type": "clozedropdown",
+          "case_sensitive": true,
+          "validation": {
+            "scoring_type": "exactMatch",
+            "valid_response": {
+              "score": 1,
+              "value": [
+                "read"
+              ]
+            }
+          },
+          "instant_feedback": true
+        },
+        "metadata": {
+          "name": "Cloze with drop down",
+          "template_reference": "2fbba51b-e35e-441f-83c7-2662e2e81fa6"
+        }
+      },
+      "feedbackInfo": [
+        {
+          "id": "0707_e981a3d4-9ed0-4678-a729-45ee5ffc5ba9_d2ad79ae-19e9-4d4b-84c0-e6953e406791_513778ed4092db41f512275d33f826d5",
+          "user_id": "e981a3d4-9ed0-4678-a729-45ee5ffc5ba9",
+          "response_id": "d2ad79ae-19e9-4d4b-84c0-e6953e406791_513778ed4092db41f512275d33f826d5",
+          "type": "longtextV2",
+          "question": {
+            "type": "longtextV2",
+            "metadata": {
+              "source": {
+                "organisation_id": 755
+              },
+              "sheet_reference": "default_feedback",
+              "widget_reference": "de082b5f-742a-4ecf-82ca-4dc86e218fec",
+              "valid_response_count": 0
+            },
+            "stimulus": "Written feedback:",
+            "response_id": "d2ad79ae-19e9-4d4b-84c0-e6953e406791_513778ed4092db41f512275d33f826d5",
+            "show_word_count": false,
+            "show_word_limit": "off"
+          },
+          "response": null,
+          "creation_date": "2021-10-01 08:18:19",
+          "mod_date": "2021-10-01 08:18:19",
+          "persist_until": "2021-10-02 08:18:19",
+          "saved": false
+        },
+        null
+      ]
+    },
+    {
+      "response_id": "d2ad79ae-19e9-4d4b-84c0-e6953e406791_00d68ed227f4e7cc59846a6b8178f508",
+      "question_type": "clozedropdown",
+      "dt_score_updated": "2021-09-30T19:37:33Z",
+      "automarkable": true,
+      "attempted": true,
+      "score": 1,
+      "max_score": 1,
+      "question_reference": "af5d46b2-a9f7-4e12-a189-9907457ce396",
+      "item_reference": "06931194-bc7d-4a9e-b349-712ff7d77602",
+      "response": {
+        "value": [
+          "lecturing"
+        ],
+        "type": "array",
+        "apiVersion": "v2.168.9",
+        "revision": 1,
+        "feedbackAttemptsCount": 1
+      },
+      "questionInfo": {
+        "type": "clozedropdown",
+        "widget_type": "response",
+        "reference": "af5d46b2-a9f7-4e12-a189-9907457ce396",
+        "data": {
+          "possible_responses": [
+            [
+              "lecturing",
+              "writing"
+            ]
+          ],
+          "response_container": {
+            "pointer": "left"
+          },
+          "template": "<span style=\"font-size:1.3em;\"><strong>4. According to Steven Draper, the academic community mostly shares ideas by&nbsp;</strong>{{response}}.</span>",
+          "type": "clozedropdown",
+          "case_sensitive": true,
+          "validation": {
+            "scoring_type": "exactMatch",
+            "valid_response": {
+              "score": 1,
+              "value": [
+                "lecturing"
+              ]
+            }
+          },
+          "instant_feedback": true
+        },
+        "metadata": {
+          "name": "Cloze with drop down",
+          "template_reference": "2fbba51b-e35e-441f-83c7-2662e2e81fa6"
+        }
+      },
+      "feedbackInfo": [
+        {
+          "id": "0707_e981a3d4-9ed0-4678-a729-45ee5ffc5ba9_d2ad79ae-19e9-4d4b-84c0-e6953e406791_ded7f087534cc3cd5e2f1e61496eddf2",
+          "user_id": "e981a3d4-9ed0-4678-a729-45ee5ffc5ba9",
+          "response_id": "d2ad79ae-19e9-4d4b-84c0-e6953e406791_ded7f087534cc3cd5e2f1e61496eddf2",
+          "type": "longtextV2",
+          "question": {
+            "type": "longtextV2",
+            "metadata": {
+              "source": {
+                "organisation_id": 755
+              },
+              "sheet_reference": "default_feedback",
+              "widget_reference": "de082b5f-742a-4ecf-82ca-4dc86e218fec",
+              "valid_response_count": 0
+            },
+            "stimulus": "Written feedback:",
+            "response_id": "d2ad79ae-19e9-4d4b-84c0-e6953e406791_ded7f087534cc3cd5e2f1e61496eddf2",
+            "show_word_count": false,
+            "show_word_limit": "off"
+          },
+          "response": null,
+          "creation_date": "2021-10-01 08:18:20",
+          "mod_date": "2021-10-01 08:18:20",
+          "persist_until": "2021-10-02 08:18:20",
+          "saved": false
+        },
+        null
+      ]
+    },
+    {
+      "response_id": "d2ad79ae-19e9-4d4b-84c0-e6953e406791_15e89be6fe3a9d09f7c16ad225ffbf0d",
+      "question_type": "mcq",
+      "dt_score_updated": "2021-09-30T19:37:48Z",
+      "automarkable": true,
+      "attempted": true,
+      "score": 1,
+      "max_score": 1,
+      "question_reference": "bcee1b86-9fd6-4b40-93d8-4e4bfe22331c",
+      "item_reference": "06931194-bc7d-4a9e-b349-712ff7d77602",
+      "response": {
+        "value": [
+          "0"
+        ],
+        "type": "array",
+        "apiVersion": "v2.168.9",
+        "revision": 1
+      },
+      "questionInfo": {
+        "type": "mcq",
+        "widget_type": "response",
+        "reference": "bcee1b86-9fd6-4b40-93d8-4e4bfe22331c",
+        "data": {
+          "options": [
+            {
+              "label": "a. Reading about it, listening to a lecture about it and then discussing it.",
+              "value": "0"
+            },
+            {
+              "label": "b. Reading about it, discussing it and then listening to a lecture about it.",
+              "value": "1"
+            },
+            {
+              "label": "c. Discussing it, reading about it and then listening to a lecture about it.",
+              "value": "2"
+            }
+          ],
+          "stimulus": "<span style=\"font-size:1.3em;\"><strong>5. According to the lecturer, you process information about a topic by...</strong></span>",
+          "type": "mcq",
+          "validation": {
+            "scoring_type": "exactMatch",
+            "valid_response": {
+              "score": 1,
+              "value": [
+                "0"
+              ]
+            }
+          },
+          "ui_style": {
+            "type": "horizontal"
+          },
+          "instant_feedback": true
+        },
+        "metadata": {
+          "name": "Multiple choice – standard",
+          "template_reference": "9e8149bd-e4d8-4dd6-a751-1a113a4b9163"
+        }
+      },
+      "feedbackInfo": [
+        {
+          "id": "0707_e981a3d4-9ed0-4678-a729-45ee5ffc5ba9_d2ad79ae-19e9-4d4b-84c0-e6953e406791_661d7cd6924927fb77368feb2d9a7b7c",
+          "user_id": "e981a3d4-9ed0-4678-a729-45ee5ffc5ba9",
+          "response_id": "d2ad79ae-19e9-4d4b-84c0-e6953e406791_661d7cd6924927fb77368feb2d9a7b7c",
+          "type": "longtextV2",
+          "question": {
+            "type": "longtextV2",
+            "metadata": {
+              "source": {
+                "organisation_id": 755
+              },
+              "sheet_reference": "default_feedback",
+              "widget_reference": "de082b5f-742a-4ecf-82ca-4dc86e218fec",
+              "valid_response_count": 0
+            },
+            "stimulus": "Written feedback:",
+            "response_id": "d2ad79ae-19e9-4d4b-84c0-e6953e406791_661d7cd6924927fb77368feb2d9a7b7c",
+            "show_word_count": false,
+            "show_word_limit": "off"
+          },
+          "response": null,
+          "creation_date": "2021-10-01 08:18:20",
+          "mod_date": "2021-10-01 08:18:20",
+          "persist_until": "2021-10-02 08:18:20",
+          "saved": false
+        },
+        null
+      ]
+    },
+    {
+      "response_id": "d2ad79ae-19e9-4d4b-84c0-e6953e406791_a47ce27278cc6d33db7c3bdca5bdf7bf",
+      "question_type": "mcq",
+      "dt_score_updated": "2021-09-30T19:38:23Z",
+      "automarkable": true,
+      "attempted": true,
+      "score": 1,
+      "max_score": 1,
+      "question_reference": "21e20396-71e0-4481-98fe-24c7624fe120",
+      "item_reference": "06931194-bc7d-4a9e-b349-712ff7d77602",
+      "response": {
+        "value": [
+          "2"
+        ],
+        "type": "array",
+        "apiVersion": "v2.168.9",
+        "revision": 1
+      },
+      "questionInfo": {
+        "type": "mcq",
+        "widget_type": "response",
+        "reference": "21e20396-71e0-4481-98fe-24c7624fe120",
+        "data": {
+          "options": [
+            {
+              "label": "a. note down everything you hear",
+              "value": "0"
+            },
+            {
+              "label": "b. compare what the lecturer says with the text",
+              "value": "1"
+            },
+            {
+              "label": "c. listen for key points and think about them",
+              "value": "2"
+            }
+          ],
+          "stimulus": "<span style=\"font-size:1.3em;\"><strong>6. During the lecture you should...</strong></span>",
+          "type": "mcq",
+          "validation": {
+            "scoring_type": "exactMatch",
+            "valid_response": {
+              "score": 1,
+              "value": [
+                "2"
+              ]
+            }
+          },
+          "ui_style": {
+            "type": "horizontal"
+          },
+          "instant_feedback": true
+        },
+        "metadata": {
+          "name": "Multiple choice – standard",
+          "template_reference": "9e8149bd-e4d8-4dd6-a751-1a113a4b9163"
+        }
+      },
+      "feedbackInfo": [
+        {
+          "id": "0707_e981a3d4-9ed0-4678-a729-45ee5ffc5ba9_d2ad79ae-19e9-4d4b-84c0-e6953e406791_2f46330a63c464397b50a596efa0e8e3",
+          "user_id": "e981a3d4-9ed0-4678-a729-45ee5ffc5ba9",
+          "response_id": "d2ad79ae-19e9-4d4b-84c0-e6953e406791_2f46330a63c464397b50a596efa0e8e3",
+          "type": "longtextV2",
+          "question": {
+            "type": "longtextV2",
+            "metadata": {
+              "source": {
+                "organisation_id": 755
+              },
+              "sheet_reference": "default_feedback",
+              "widget_reference": "de082b5f-742a-4ecf-82ca-4dc86e218fec",
+              "valid_response_count": 0
+            },
+            "stimulus": "Written feedback:",
+            "response_id": "d2ad79ae-19e9-4d4b-84c0-e6953e406791_2f46330a63c464397b50a596efa0e8e3",
+            "show_word_count": false,
+            "show_word_limit": "off"
+          },
+          "response": null,
+          "creation_date": "2021-10-01 08:18:21",
+          "mod_date": "2021-10-01 08:18:21",
+          "persist_until": "2021-10-02 08:18:21",
+          "saved": false
+        },
+        null
+      ]
+    },
+    {
+      "response_id": "d2ad79ae-19e9-4d4b-84c0-e6953e406791_bfa8240f7ae0f2da50c2a6d1d598d28c",
+      "question_type": "mcq",
+      "dt_score_updated": "2021-09-30T19:39:28Z",
+      "automarkable": true,
+      "attempted": true,
+      "score": 1,
+      "max_score": 1,
+      "question_reference": "30ae1a6d-48a0-44d4-ab4a-4fb1b0c341c3",
+      "item_reference": "06931194-bc7d-4a9e-b349-712ff7d77602",
+      "response": {
+        "value": [
+          "1"
+        ],
+        "type": "array",
+        "apiVersion": "v2.168.9",
+        "revision": 3,
+        "feedbackAttemptsCount": 2
+      },
+      "questionInfo": {
+        "type": "mcq",
+        "widget_type": "response",
+        "reference": "30ae1a6d-48a0-44d4-ab4a-4fb1b0c341c3",
+        "data": {
+          "options": [
+            {
+              "label": "a. Ask the university for permission",
+              "value": "0"
+            },
+            {
+              "label": "b. Ask the lecturer for permission",
+              "value": "1"
+            },
+            {
+              "label": "c. Use your smartphone",
+              "value": "2"
+            }
+          ],
+          "stimulus": "<span style=\"font-size:1.3em;\"><strong>7. What should you do if you want to record a lecture?</strong></span>",
+          "type": "mcq",
+          "validation": {
+            "scoring_type": "exactMatch",
+            "valid_response": {
+              "score": 1,
+              "value": [
+                "1"
+              ]
+            }
+          },
+          "ui_style": {
+            "type": "horizontal"
+          },
+          "instant_feedback": true
+        },
+        "metadata": {
+          "name": "Multiple choice – standard",
+          "template_reference": "9e8149bd-e4d8-4dd6-a751-1a113a4b9163"
+        }
+      },
+      "feedbackInfo": [
+        {
+          "id": "0707_e981a3d4-9ed0-4678-a729-45ee5ffc5ba9_d2ad79ae-19e9-4d4b-84c0-e6953e406791_1e3fc555fc6cbeb696b05227d1f8a1f3",
+          "user_id": "e981a3d4-9ed0-4678-a729-45ee5ffc5ba9",
+          "response_id": "d2ad79ae-19e9-4d4b-84c0-e6953e406791_1e3fc555fc6cbeb696b05227d1f8a1f3",
+          "type": "longtextV2",
+          "question": {
+            "type": "longtextV2",
+            "metadata": {
+              "source": {
+                "organisation_id": 755
+              },
+              "sheet_reference": "default_feedback",
+              "widget_reference": "de082b5f-742a-4ecf-82ca-4dc86e218fec",
+              "valid_response_count": 0
+            },
+            "stimulus": "Written feedback:",
+            "response_id": "d2ad79ae-19e9-4d4b-84c0-e6953e406791_1e3fc555fc6cbeb696b05227d1f8a1f3",
+            "show_word_count": false,
+            "show_word_limit": "off"
+          },
+          "response": null,
+          "creation_date": "2021-10-01 08:18:21",
+          "mod_date": "2021-10-01 08:18:21",
+          "persist_until": "2021-10-02 08:18:21",
+          "saved": false
+        },
+        null
+      ]
+    },
+    {
+      "response_id": "d2ad79ae-19e9-4d4b-84c0-e6953e406791_86b609b2e121e848516e31be8a4f5048",
+      "question_type": "clozedropdown",
+      "dt_score_updated": "2021-09-30T19:40:33Z",
+      "automarkable": true,
+      "attempted": true,
+      "score": 1,
+      "max_score": 1,
+      "question_reference": "725032da-2776-4934-8677-2fb9ac838065",
+      "item_reference": "66f0560c-00be-482c-8357-e6ddc7b8bdc1",
+      "response": {
+        "value": [
+          "the second speaker partly agrees"
+        ],
+        "type": "array",
+        "apiVersion": "v2.168.9",
+        "revision": 2,
+        "feedbackAttemptsCount": 3
+      },
+      "questionInfo": {
+        "type": "clozedropdown",
+        "widget_type": "response",
+        "reference": "725032da-2776-4934-8677-2fb9ac838065",
+        "data": {
+          "possible_responses": [
+            [
+              "the second speaker agrees",
+              "the second speaker disagrees",
+              "the second speaker partly agrees"
+            ]
+          ],
+          "response_container": {
+            "pointer": "left"
+          },
+          "stimulus": "<h4><strong><span style=\"color:#ff0000;\"></span></strong><img class=\"lrn-image-left\" height=\"80\" src=\"https://assets.learnosity.com/organisations/755/c7e32884-96f2-47ee-be29-c7f984243055.jpg\" width=\"80\"><strong><span style=\"color:#ff0000;\"></span></strong></h4>\n\n<h2><strong><span style=\"color:#ff0000;\"></span><span style=\"color:#ff8c00;\">Get Ready to Listen</span><span style=\"color:#ff0000;\">&nbsp;</span></strong></h2>\n\n<h4 id=\"yui_3_17_2_1_1630674764092_3305\" style=\"margin-left: 120px;\"><strong>Two students are discussing the statements from the previous exercise.&nbsp;<br id=\"yui_3_17_2_1_1630674764092_3357\">\nDoes the second speaker agree, disagree or partly agree with each statement?&nbsp;(choose form the drop down)</strong></h4>\n\n<p>&nbsp;</p>\n\n<h5 class=\"text-center\"><span class=\"learnosity-feature\" data-player=\"button\" data-simplefeature_id=\"244bad3c-5512-4f40-9063-993c3d20c43b\" data-src=\"https://assets.learnosity.com/organisations/755/46919d9d-6fb7-4485-8d53-16cc7c058f0c.mp3\" data-type=\"audioplayer\"></span></h5>\n\n<h5>&nbsp;</h5>\n\n<p><span style=\"font-size:1.3em;\"><span style=\"color:#ff8c00;\"><strong>To succeed at university, you need to...</strong></span></span></p>\n",
+          "template": "<p style=\"margin-left: 40px;\"><span style=\"font-size:1.3em;\"><strong>1. Be good at taking exams&nbsp;{{response}}</strong></span></p>\n",
+          "type": "clozedropdown",
+          "case_sensitive": true,
+          "validation": {
+            "scoring_type": "exactMatch",
+            "valid_response": {
+              "score": 1,
+              "value": [
+                "the second speaker partly agrees"
+              ]
+            }
+          },
+          "instant_feedback": true
+        },
+        "metadata": {
+          "name": "Cloze with drop down",
+          "template_reference": "2fbba51b-e35e-441f-83c7-2662e2e81fa6"
+        }
+      },
+      "feedbackInfo": [
+        {
+          "id": "0707_e981a3d4-9ed0-4678-a729-45ee5ffc5ba9_d2ad79ae-19e9-4d4b-84c0-e6953e406791_0d2dd271635bc948be19d49b53a17e4f",
+          "user_id": "e981a3d4-9ed0-4678-a729-45ee5ffc5ba9",
+          "response_id": "d2ad79ae-19e9-4d4b-84c0-e6953e406791_0d2dd271635bc948be19d49b53a17e4f",
+          "type": "longtextV2",
+          "question": {
+            "type": "longtextV2",
+            "metadata": {
+              "source": {
+                "organisation_id": 755
+              },
+              "sheet_reference": "default_feedback",
+              "widget_reference": "de082b5f-742a-4ecf-82ca-4dc86e218fec",
+              "valid_response_count": 0
+            },
+            "stimulus": "Written feedback:",
+            "response_id": "d2ad79ae-19e9-4d4b-84c0-e6953e406791_0d2dd271635bc948be19d49b53a17e4f",
+            "show_word_count": false,
+            "show_word_limit": "off"
+          },
+          "response": null,
+          "creation_date": "2021-10-01 08:18:21",
+          "mod_date": "2021-10-01 08:18:21",
+          "persist_until": "2021-10-02 08:18:21",
+          "saved": false
+        },
+        null
+      ]
+    },
+    {
+      "response_id": "d2ad79ae-19e9-4d4b-84c0-e6953e406791_243a0dc6d7e069d7926070c97fe80b85",
+      "question_type": "clozedropdown",
+      "dt_score_updated": "2021-09-30T19:40:48Z",
+      "automarkable": true,
+      "attempted": true,
+      "score": 1,
+      "max_score": 1,
+      "question_reference": "daea5f81-460f-4455-85cc-de495d78b52b",
+      "item_reference": "66f0560c-00be-482c-8357-e6ddc7b8bdc1",
+      "response": {
+        "value": [
+          "the second speaker partly agrees"
+        ],
+        "type": "array",
+        "apiVersion": "v2.168.9",
+        "revision": 2,
+        "feedbackAttemptsCount": 3
+      },
+      "questionInfo": {
+        "type": "clozedropdown",
+        "widget_type": "response",
+        "reference": "daea5f81-460f-4455-85cc-de495d78b52b",
+        "data": {
+          "possible_responses": [
+            [
+              "the second speaker agrees",
+              "the second speaker disagres",
+              "the second speaker partly agrees"
+            ]
+          ],
+          "response_container": {
+            "pointer": "left"
+          },
+          "template": "<p style=\"margin-left: 40px;\"><span style=\"font-size:1.3em;\"><strong>2. Be a quick reader&nbsp;{{response}}</strong></span></p>\n",
+          "type": "clozedropdown",
+          "case_sensitive": true,
+          "validation": {
+            "scoring_type": "exactMatch",
+            "valid_response": {
+              "score": 1,
+              "value": [
+                "the second speaker partly agrees"
+              ]
+            }
+          },
+          "instant_feedback": true
+        },
+        "metadata": {
+          "name": "Cloze with drop down",
+          "template_reference": "2fbba51b-e35e-441f-83c7-2662e2e81fa6"
+        }
+      },
+      "feedbackInfo": [
+        {
+          "id": "0707_e981a3d4-9ed0-4678-a729-45ee5ffc5ba9_d2ad79ae-19e9-4d4b-84c0-e6953e406791_097a69a46f8d8663524e82e619f78193",
+          "user_id": "e981a3d4-9ed0-4678-a729-45ee5ffc5ba9",
+          "response_id": "d2ad79ae-19e9-4d4b-84c0-e6953e406791_097a69a46f8d8663524e82e619f78193",
+          "type": "longtextV2",
+          "question": {
+            "type": "longtextV2",
+            "metadata": {
+              "source": {
+                "organisation_id": 755
+              },
+              "sheet_reference": "default_feedback",
+              "widget_reference": "de082b5f-742a-4ecf-82ca-4dc86e218fec",
+              "valid_response_count": 0
+            },
+            "stimulus": "Written feedback:",
+            "response_id": "d2ad79ae-19e9-4d4b-84c0-e6953e406791_097a69a46f8d8663524e82e619f78193",
+            "show_word_count": false,
+            "show_word_limit": "off"
+          },
+          "response": null,
+          "creation_date": "2021-10-01 08:18:22",
+          "mod_date": "2021-10-01 08:18:22",
+          "persist_until": "2021-10-02 08:18:22",
+          "saved": false
+        },
+        null
+      ]
+    },
+    {
+      "response_id": "d2ad79ae-19e9-4d4b-84c0-e6953e406791_5f89da816ac85b6a7e5d7a23ddec2e47",
+      "question_type": "clozedropdown",
+      "dt_score_updated": "2021-09-30T19:41:39Z",
+      "automarkable": true,
+      "attempted": true,
+      "score": 1,
+      "max_score": 1,
+      "question_reference": "4e7a7ad2-12c5-45ce-89d0-143dda547db5",
+      "item_reference": "66f0560c-00be-482c-8357-e6ddc7b8bdc1",
+      "response": {
+        "value": [
+          "the second speaker disagrees"
+        ],
+        "type": "array",
+        "apiVersion": "v2.168.9",
+        "revision": 1,
+        "feedbackAttemptsCount": 1
+      },
+      "questionInfo": {
+        "type": "clozedropdown",
+        "widget_type": "response",
+        "reference": "4e7a7ad2-12c5-45ce-89d0-143dda547db5",
+        "data": {
+          "possible_responses": [
+            [
+              "the second speaker agrees",
+              "the second speaker disagrees",
+              "the second speaker partly agrees"
+            ]
+          ],
+          "response_container": {
+            "pointer": "left"
+          },
+          "template": "<p style=\"margin-left: 40px;\"><span style=\"font-size:1.3em;\"><strong>3. Have a good tutor&nbsp;{{response}}</strong></span></p>\n",
+          "type": "clozedropdown",
+          "case_sensitive": true,
+          "validation": {
+            "scoring_type": "exactMatch",
+            "valid_response": {
+              "score": 1,
+              "value": [
+                "the second speaker disagrees"
+              ]
+            }
+          },
+          "instant_feedback": true
+        },
+        "metadata": {
+          "name": "Cloze with drop down",
+          "template_reference": "2fbba51b-e35e-441f-83c7-2662e2e81fa6"
+        }
+      },
+      "feedbackInfo": [
+        {
+          "id": "0707_e981a3d4-9ed0-4678-a729-45ee5ffc5ba9_d2ad79ae-19e9-4d4b-84c0-e6953e406791_cd234ec72863dc372082c4149998b124",
+          "user_id": "e981a3d4-9ed0-4678-a729-45ee5ffc5ba9",
+          "response_id": "d2ad79ae-19e9-4d4b-84c0-e6953e406791_cd234ec72863dc372082c4149998b124",
+          "type": "longtextV2",
+          "question": {
+            "type": "longtextV2",
+            "metadata": {
+              "source": {
+                "organisation_id": 755
+              },
+              "sheet_reference": "default_feedback",
+              "widget_reference": "de082b5f-742a-4ecf-82ca-4dc86e218fec",
+              "valid_response_count": 0
+            },
+            "stimulus": "Written feedback:",
+            "response_id": "d2ad79ae-19e9-4d4b-84c0-e6953e406791_cd234ec72863dc372082c4149998b124",
+            "show_word_count": false,
+            "show_word_limit": "off"
+          },
+          "response": null,
+          "creation_date": "2021-10-01 08:18:22",
+          "mod_date": "2021-10-01 08:18:22",
+          "persist_until": "2021-10-02 08:18:22",
+          "saved": false
+        },
+        null
+      ]
+    },
+    {
+      "response_id": "d2ad79ae-19e9-4d4b-84c0-e6953e406791_5681472d2400ad37a7b299ed9d4f9fdf",
+      "question_type": "clozedropdown",
+      "dt_score_updated": "2021-09-30T19:42:04Z",
+      "automarkable": true,
+      "attempted": true,
+      "score": 1,
+      "max_score": 1,
+      "question_reference": "23bd80ac-8af5-4bbd-b8fa-3f3bf50467c8",
+      "item_reference": "66f0560c-00be-482c-8357-e6ddc7b8bdc1",
+      "response": {
+        "value": [
+          "the second speaker agrees"
+        ],
+        "type": "array",
+        "apiVersion": "v2.168.9",
+        "revision": 1,
+        "feedbackAttemptsCount": 1
+      },
+      "questionInfo": {
+        "type": "clozedropdown",
+        "widget_type": "response",
+        "reference": "23bd80ac-8af5-4bbd-b8fa-3f3bf50467c8",
+        "data": {
+          "possible_responses": [
+            [
+              "the second speaker agrees",
+              "the second speaker disagrees",
+              "the second speaker partly agrees"
+            ]
+          ],
+          "response_container": {
+            "pointer": "left"
+          },
+          "template": "<p style=\"margin-left: 40px;\"><span style=\"font-size:1.3em;\"><strong>4. Manage your time well&nbsp;{{response}}</strong></span></p>\n",
+          "type": "clozedropdown",
+          "case_sensitive": true,
+          "validation": {
+            "scoring_type": "exactMatch",
+            "valid_response": {
+              "score": 1,
+              "value": [
+                "the second speaker agrees"
+              ]
+            }
+          },
+          "instant_feedback": true
+        },
+        "metadata": {
+          "name": "Cloze with drop down",
+          "template_reference": "2fbba51b-e35e-441f-83c7-2662e2e81fa6"
+        }
+      },
+      "feedbackInfo": [
+        {
+          "id": "0707_e981a3d4-9ed0-4678-a729-45ee5ffc5ba9_d2ad79ae-19e9-4d4b-84c0-e6953e406791_2fc3d7767bac54dc672e7f875bf60e03",
+          "user_id": "e981a3d4-9ed0-4678-a729-45ee5ffc5ba9",
+          "response_id": "d2ad79ae-19e9-4d4b-84c0-e6953e406791_2fc3d7767bac54dc672e7f875bf60e03",
+          "type": "longtextV2",
+          "question": {
+            "type": "longtextV2",
+            "metadata": {
+              "source": {
+                "organisation_id": 755
+              },
+              "sheet_reference": "default_feedback",
+              "widget_reference": "de082b5f-742a-4ecf-82ca-4dc86e218fec",
+              "valid_response_count": 0
+            },
+            "stimulus": "Written feedback:",
+            "response_id": "d2ad79ae-19e9-4d4b-84c0-e6953e406791_2fc3d7767bac54dc672e7f875bf60e03",
+            "show_word_count": false,
+            "show_word_limit": "off"
+          },
+          "response": null,
+          "creation_date": "2021-10-01 08:18:23",
+          "mod_date": "2021-10-01 08:18:23",
+          "persist_until": "2021-10-02 08:18:23",
+          "saved": false
+        },
+        null
+      ]
+    },
+    {
+      "response_id": "d2ad79ae-19e9-4d4b-84c0-e6953e406791_8c60b0fe58388584927a6e79d4c85c07",
+      "question_type": "clozedropdown",
+      "dt_score_updated": "2021-09-30T19:42:23Z",
+      "automarkable": true,
+      "attempted": true,
+      "score": 1,
+      "max_score": 1,
+      "question_reference": "95fc24ce-256a-42d4-a996-0645fd1223c8",
+      "item_reference": "66f0560c-00be-482c-8357-e6ddc7b8bdc1",
+      "response": {
+        "value": [
+          "the second speaker agrees"
+        ],
+        "type": "array",
+        "apiVersion": "v2.168.9",
+        "revision": 1,
+        "feedbackAttemptsCount": 1
+      },
+      "questionInfo": {
+        "type": "clozedropdown",
+        "widget_type": "response",
+        "reference": "95fc24ce-256a-42d4-a996-0645fd1223c8",
+        "data": {
+          "possible_responses": [
+            [
+              "the second speaker agrees",
+              "the second speaker disagrees",
+              "the second speaker partly agrees"
+            ]
+          ],
+          "response_container": {
+            "pointer": "left"
+          },
+          "template": "<p style=\"margin-left: 40px;\"><span style=\"font-size:1.3em;\"><strong>5. Understand your own learning style&nbsp;{{response}}</strong></span></p>\n",
+          "type": "clozedropdown",
+          "case_sensitive": true,
+          "validation": {
+            "scoring_type": "exactMatch",
+            "valid_response": {
+              "score": 1,
+              "value": [
+                "the second speaker agrees"
+              ]
+            }
+          },
+          "instant_feedback": true
+        },
+        "metadata": {
+          "name": "Cloze with drop down",
+          "template_reference": "2fbba51b-e35e-441f-83c7-2662e2e81fa6"
+        }
+      },
+      "feedbackInfo": [
+        {
+          "id": "0707_e981a3d4-9ed0-4678-a729-45ee5ffc5ba9_d2ad79ae-19e9-4d4b-84c0-e6953e406791_c7683d7d31e27b57313084a3dd1d0d3a",
+          "user_id": "e981a3d4-9ed0-4678-a729-45ee5ffc5ba9",
+          "response_id": "d2ad79ae-19e9-4d4b-84c0-e6953e406791_c7683d7d31e27b57313084a3dd1d0d3a",
+          "type": "longtextV2",
+          "question": {
+            "type": "longtextV2",
+            "metadata": {
+              "source": {
+                "organisation_id": 755
+              },
+              "sheet_reference": "default_feedback",
+              "widget_reference": "de082b5f-742a-4ecf-82ca-4dc86e218fec",
+              "valid_response_count": 0
+            },
+            "stimulus": "Written feedback:",
+            "response_id": "d2ad79ae-19e9-4d4b-84c0-e6953e406791_c7683d7d31e27b57313084a3dd1d0d3a",
+            "show_word_count": false,
+            "show_word_limit": "off"
+          },
+          "response": null,
+          "creation_date": "2021-10-01 08:18:23",
+          "mod_date": "2021-10-01 08:18:23",
+          "persist_until": "2021-10-02 08:18:23",
+          "saved": false
+        },
+        null
+      ]
+    },
+    {
+      "response_id": "d2ad79ae-19e9-4d4b-84c0-e6953e406791_06aa18fd3dc93da780be5e523ff5aa3e",
+      "question_type": "clozedropdown",
+      "dt_score_updated": "2021-09-30T19:42:44Z",
+      "automarkable": true,
+      "attempted": true,
+      "score": 1,
+      "max_score": 1,
+      "question_reference": "35e521c1-ea78-4558-944c-295ddee56e1f",
+      "item_reference": "66f0560c-00be-482c-8357-e6ddc7b8bdc1",
+      "response": {
+        "value": [
+          "The second speaker disagrees"
+        ],
+        "type": "array",
+        "apiVersion": "v2.168.9",
+        "revision": 2,
+        "feedbackAttemptsCount": 2
+      },
+      "questionInfo": {
+        "type": "clozedropdown",
+        "widget_type": "response",
+        "reference": "35e521c1-ea78-4558-944c-295ddee56e1f",
+        "data": {
+          "possible_responses": [
+            [
+              "The second speaker agrees",
+              "The second speaker disagrees",
+              "The second speaker partly agrees"
+            ]
+          ],
+          "response_container": {
+            "pointer": "left"
+          },
+          "template": "<p style=\"margin-left: 40px;\"><span style=\"font-size:1.3em;\"><strong>6. Have a good memory&nbsp;<strong>{{response}}</strong></strong></span></p>\n",
+          "type": "clozedropdown",
+          "case_sensitive": true,
+          "validation": {
+            "scoring_type": "exactMatch",
+            "valid_response": {
+              "score": 1,
+              "value": [
+                "The second speaker disagrees"
+              ]
+            }
+          },
+          "instant_feedback": true
+        },
+        "metadata": {
+          "name": "Cloze with drop down",
+          "template_reference": "2fbba51b-e35e-441f-83c7-2662e2e81fa6"
+        }
+      },
+      "feedbackInfo": [
+        {
+          "id": "0707_e981a3d4-9ed0-4678-a729-45ee5ffc5ba9_d2ad79ae-19e9-4d4b-84c0-e6953e406791_12c4d923a513037d4a0c808d4592a7a6",
+          "user_id": "e981a3d4-9ed0-4678-a729-45ee5ffc5ba9",
+          "response_id": "d2ad79ae-19e9-4d4b-84c0-e6953e406791_12c4d923a513037d4a0c808d4592a7a6",
+          "type": "longtextV2",
+          "question": {
+            "type": "longtextV2",
+            "metadata": {
+              "source": {
+                "organisation_id": 755
+              },
+              "sheet_reference": "default_feedback",
+              "widget_reference": "de082b5f-742a-4ecf-82ca-4dc86e218fec",
+              "valid_response_count": 0
+            },
+            "stimulus": "Written feedback:",
+            "response_id": "d2ad79ae-19e9-4d4b-84c0-e6953e406791_12c4d923a513037d4a0c808d4592a7a6",
+            "show_word_count": false,
+            "show_word_limit": "off"
+          },
+          "response": null,
+          "creation_date": "2021-10-01 08:18:23",
+          "mod_date": "2021-10-01 08:18:23",
+          "persist_until": "2021-10-02 08:18:23",
+          "saved": false
+        },
+        null
+      ]
+    },
+    {
+      "response_id": "d2ad79ae-19e9-4d4b-84c0-e6953e406791_52fba57f60606c9bd94e2248cb55042e",
+      "question_type": "clozeassociation",
+      "dt_score_updated": "2021-09-30T19:43:44Z",
+      "automarkable": true,
+      "attempted": true,
+      "score": 1,
+      "max_score": 1,
+      "question_reference": "b1a0d5f2-78f2-45e1-ba2d-e9cdc5324b73",
+      "item_reference": "f451c5a8-f8dd-44eb-88e9-e181777efd84",
+      "response": {
+        "value": [
+          "I",
+          "agree",
+          "with",
+          "you",
+          "up",
+          "to",
+          "a",
+          "point."
+        ],
+        "type": "array",
+        "apiVersion": "v2.168.9",
+        "revision": 2,
+        "feedbackAttemptsCount": 1
+      },
+      "questionInfo": {
+        "type": "clozeassociation",
+        "widget_type": "response",
+        "reference": "b1a0d5f2-78f2-45e1-ba2d-e9cdc5324b73",
+        "data": {
+          "possible_responses": [
+            "I",
+            "agree",
+            "with",
+            "you",
+            "up",
+            "to",
+            "a",
+            "point."
+          ],
+          "response_container": {
+            "pointer": "left"
+          },
+          "stimulus": "<h4 id=\"yui_3_17_2_1_1630678592062_3377\"><img class=\"lrn-image-left\" height=\"100\" src=\"https://assets.learnosity.com/organisations/755/c060bfc4-49c9-4e72-8648-b27d097d300e.jpg\" width=\"207\" /><span style=\"color:#008000;\"><strong>Listen again.</strong>&nbsp;</span></h4>\n\n<h5 id=\"yui_3_17_2_1_1630678592062_3380\">Focus on the words the second speaker used to express&nbsp;<span style=\"color:#008000;\"><strong>agreement</strong></span>, &nbsp;<span style=\"color:#ff0000;\"><strong>disagreement </strong></span>and&nbsp; <span style=\"color:#ff8c00;\"><strong>partial agreement</strong></span>.</h5>\n\n<h5 id=\"yui_3_17_2_1_1630678592062_3396\"><u>Put the words below in the correct order.</u></h5>\n\n<p>&nbsp;</p>\n\n<p class=\"text-center\"><span class=\"learnosity-feature\" data-player=\"button\" data-simplefeature_id=\"3d70fefa-487a-436f-b811-ff2ed985d384\" data-src=\"https://assets.learnosity.com/organisations/755/773560bf-e346-4e1d-b176-1de50c46b94a.mp3\" data-type=\"audioplayer\"></span></p>\n",
+          "template": "<strong>1.&nbsp;{{response}}&nbsp;{{response}}&nbsp;{{response}}&nbsp;{{response}}&nbsp;{{response}}&nbsp;{{response}}&nbsp;{{response}}&nbsp;{{response}}</strong>",
+          "type": "clozeassociation",
+          "case_sensitive": true,
+          "validation": {
+            "scoring_type": "exactMatch",
+            "valid_response": {
+              "score": 1,
+              "value": [
+                "I",
+                "agree",
+                "with",
+                "you",
+                "up",
+                "to",
+                "a",
+                "point."
+              ]
+            }
+          },
+          "ui_style": {
+            "show_drag_handle": false
+          },
+          "instant_feedback": true,
+          "shuffle_options": true
+        },
+        "metadata": {
+          "name": "Cloze with drag & drop",
+          "template_reference": "51a8c1e7-f34f-4faf-b211-da458e891fcb"
+        }
+      },
+      "feedbackInfo": [
+        {
+          "id": "0707_e981a3d4-9ed0-4678-a729-45ee5ffc5ba9_d2ad79ae-19e9-4d4b-84c0-e6953e406791_c6694fabfac562591355d3d8353a3f2c",
+          "user_id": "e981a3d4-9ed0-4678-a729-45ee5ffc5ba9",
+          "response_id": "d2ad79ae-19e9-4d4b-84c0-e6953e406791_c6694fabfac562591355d3d8353a3f2c",
+          "type": "longtextV2",
+          "question": {
+            "type": "longtextV2",
+            "metadata": {
+              "source": {
+                "organisation_id": 755
+              },
+              "sheet_reference": "default_feedback",
+              "widget_reference": "de082b5f-742a-4ecf-82ca-4dc86e218fec",
+              "valid_response_count": 0
+            },
+            "stimulus": "Written feedback:",
+            "response_id": "d2ad79ae-19e9-4d4b-84c0-e6953e406791_c6694fabfac562591355d3d8353a3f2c",
+            "show_word_count": false,
+            "show_word_limit": "off"
+          },
+          "response": null,
+          "creation_date": "2021-10-01 08:18:24",
+          "mod_date": "2021-10-01 08:18:24",
+          "persist_until": "2021-10-02 08:18:24",
+          "saved": false
+        },
+        null
+      ]
+    },
+    {
+      "response_id": "d2ad79ae-19e9-4d4b-84c0-e6953e406791_10049a1ca03674790a0178d8772544fa",
+      "question_type": "clozeassociation",
+      "dt_score_updated": "2021-09-30T19:43:49Z",
+      "automarkable": true,
+      "attempted": true,
+      "score": 1,
+      "max_score": 1,
+      "question_reference": "2f36f9f5-2930-4637-98ae-c525172ead12",
+      "item_reference": "f451c5a8-f8dd-44eb-88e9-e181777efd84",
+      "response": {
+        "value": [
+          "Yes,",
+          "that's",
+          "true,",
+          "but..."
+        ],
+        "type": "array",
+        "apiVersion": "v2.168.9",
+        "revision": 1
+      },
+      "questionInfo": {
+        "type": "clozeassociation",
+        "widget_type": "response",
+        "reference": "2f36f9f5-2930-4637-98ae-c525172ead12",
+        "data": {
+          "possible_responses": [
+            "Yes,",
+            "that's",
+            "true,",
+            "but..."
+          ],
+          "response_container": {
+            "pointer": "left"
+          },
+          "template": "<strong>2.&nbsp;{{response}}&nbsp;{{response}}&nbsp;{{response}}&nbsp;{{response}}</strong>​​​​​​​​​​​​​​",
+          "type": "clozeassociation",
+          "case_sensitive": true,
+          "validation": {
+            "scoring_type": "exactMatch",
+            "valid_response": {
+              "score": 1,
+              "value": [
+                "Yes,",
+                "that's",
+                "true,",
+                "but..."
+              ]
+            }
+          },
+          "instant_feedback": true,
+          "shuffle_options": true,
+          "ui_style": {
+            "show_drag_handle": false
+          }
+        },
+        "metadata": {
+          "name": "Cloze with drag & drop",
+          "template_reference": "51a8c1e7-f34f-4faf-b211-da458e891fcb"
+        }
+      },
+      "feedbackInfo": [
+        {
+          "id": "0707_e981a3d4-9ed0-4678-a729-45ee5ffc5ba9_d2ad79ae-19e9-4d4b-84c0-e6953e406791_268d8f80563940c3ac5c9f38d4572962",
+          "user_id": "e981a3d4-9ed0-4678-a729-45ee5ffc5ba9",
+          "response_id": "d2ad79ae-19e9-4d4b-84c0-e6953e406791_268d8f80563940c3ac5c9f38d4572962",
+          "type": "longtextV2",
+          "question": {
+            "type": "longtextV2",
+            "metadata": {
+              "source": {
+                "organisation_id": 755
+              },
+              "sheet_reference": "default_feedback",
+              "widget_reference": "de082b5f-742a-4ecf-82ca-4dc86e218fec",
+              "valid_response_count": 0
+            },
+            "stimulus": "Written feedback:",
+            "response_id": "d2ad79ae-19e9-4d4b-84c0-e6953e406791_268d8f80563940c3ac5c9f38d4572962",
+            "show_word_count": false,
+            "show_word_limit": "off"
+          },
+          "response": null,
+          "creation_date": "2021-10-01 08:18:24",
+          "mod_date": "2021-10-01 08:18:24",
+          "persist_until": "2021-10-02 08:18:24",
+          "saved": false
+        },
+        null
+      ]
+    },
+    {
+      "response_id": "d2ad79ae-19e9-4d4b-84c0-e6953e406791_10bce4e71129e87aa62d2b1133dad2d6",
+      "question_type": "clozeassociation",
+      "dt_score_updated": "2021-09-30T19:44:39Z",
+      "automarkable": true,
+      "attempted": true,
+      "score": 1,
+      "max_score": 1,
+      "question_reference": "96fa84ae-e3c2-4d89-a8e1-cf70669e5cb0",
+      "item_reference": "f451c5a8-f8dd-44eb-88e9-e181777efd84",
+      "response": {
+        "value": [
+          "I'm",
+          "not",
+          "sure",
+          "I",
+          "agree",
+          "with",
+          "you",
+          "there."
+        ],
+        "type": "array",
+        "apiVersion": "v2.168.9",
+        "revision": 2,
+        "feedbackAttemptsCount": 1
+      },
+      "questionInfo": {
+        "type": "clozeassociation",
+        "widget_type": "response",
+        "reference": "96fa84ae-e3c2-4d89-a8e1-cf70669e5cb0",
+        "data": {
+          "possible_responses": [
+            "I'm",
+            "not",
+            "sure",
+            "I",
+            "agree",
+            "with",
+            "you",
+            "there."
+          ],
+          "response_container": {
+            "pointer": "left"
+          },
+          "template": "<strong>3.&nbsp;{{response}}&nbsp;{{response}}&nbsp;{{response}}&nbsp;{{response}}&nbsp;{{response}}&nbsp;{{response}}&nbsp;{{response}}&nbsp;{{response}}</strong>",
+          "type": "clozeassociation",
+          "case_sensitive": true,
+          "validation": {
+            "scoring_type": "exactMatch",
+            "valid_response": {
+              "score": 1,
+              "value": [
+                "I'm",
+                "not",
+                "sure",
+                "I",
+                "agree",
+                "with",
+                "you",
+                "there."
+              ]
+            }
+          },
+          "ui_style": {
+            "show_drag_handle": false
+          },
+          "instant_feedback": true,
+          "shuffle_options": true
+        },
+        "metadata": {
+          "name": "Cloze with drag & drop",
+          "template_reference": "51a8c1e7-f34f-4faf-b211-da458e891fcb"
+        }
+      },
+      "feedbackInfo": [
+        {
+          "id": "0707_e981a3d4-9ed0-4678-a729-45ee5ffc5ba9_d2ad79ae-19e9-4d4b-84c0-e6953e406791_89a4ab179cccae0382d5016eb9093991",
+          "user_id": "e981a3d4-9ed0-4678-a729-45ee5ffc5ba9",
+          "response_id": "d2ad79ae-19e9-4d4b-84c0-e6953e406791_89a4ab179cccae0382d5016eb9093991",
+          "type": "longtextV2",
+          "question": {
+            "type": "longtextV2",
+            "metadata": {
+              "source": {
+                "organisation_id": 755
+              },
+              "sheet_reference": "default_feedback",
+              "widget_reference": "de082b5f-742a-4ecf-82ca-4dc86e218fec",
+              "valid_response_count": 0
+            },
+            "stimulus": "Written feedback:",
+            "response_id": "d2ad79ae-19e9-4d4b-84c0-e6953e406791_89a4ab179cccae0382d5016eb9093991",
+            "show_word_count": false,
+            "show_word_limit": "off"
+          },
+          "response": null,
+          "creation_date": "2021-10-01 08:18:25",
+          "mod_date": "2021-10-01 08:18:25",
+          "persist_until": "2021-10-02 08:18:25",
+          "saved": false
+        },
+        null
+      ]
+    },
+    {
+      "response_id": "d2ad79ae-19e9-4d4b-84c0-e6953e406791_8fc7e8dc15cc8ee11191b5696e56e5c0",
+      "question_type": "clozeassociation",
+      "dt_score_updated": "2021-09-30T19:44:59Z",
+      "automarkable": true,
+      "attempted": true,
+      "score": 1,
+      "max_score": 1,
+      "question_reference": "df6de7b2-e5aa-4aaf-8a78-67bcdb3607f6",
+      "item_reference": "f451c5a8-f8dd-44eb-88e9-e181777efd84",
+      "response": {
+        "value": [
+          "Absolutely,",
+          "I",
+          "totally",
+          "agree."
+        ],
+        "type": "array",
+        "apiVersion": "v2.168.9",
+        "revision": 1,
+        "feedbackAttemptsCount": 2
+      },
+      "questionInfo": {
+        "type": "clozeassociation",
+        "widget_type": "response",
+        "reference": "df6de7b2-e5aa-4aaf-8a78-67bcdb3607f6",
+        "data": {
+          "possible_responses": [
+            "Absolutely,",
+            "I",
+            "totally",
+            "agree."
+          ],
+          "response_container": {
+            "pointer": "left"
+          },
+          "template": "<strong>4.&nbsp;{{response}}&nbsp;{{response}}&nbsp;{{response}}&nbsp;{{response}}</strong>",
+          "type": "clozeassociation",
+          "case_sensitive": true,
+          "validation": {
+            "scoring_type": "exactMatch",
+            "valid_response": {
+              "score": 1,
+              "value": [
+                "Absolutely,",
+                "I",
+                "totally",
+                "agree."
+              ]
+            }
+          },
+          "ui_style": {
+            "show_drag_handle": false
+          },
+          "instant_feedback": true,
+          "shuffle_options": true
+        },
+        "metadata": {
+          "name": "Cloze with drag & drop",
+          "template_reference": "51a8c1e7-f34f-4faf-b211-da458e891fcb"
+        }
+      },
+      "feedbackInfo": [
+        {
+          "id": "0707_e981a3d4-9ed0-4678-a729-45ee5ffc5ba9_d2ad79ae-19e9-4d4b-84c0-e6953e406791_58f4b41f8d016dab80bdfe323770fe86",
+          "user_id": "e981a3d4-9ed0-4678-a729-45ee5ffc5ba9",
+          "response_id": "d2ad79ae-19e9-4d4b-84c0-e6953e406791_58f4b41f8d016dab80bdfe323770fe86",
+          "type": "longtextV2",
+          "question": {
+            "type": "longtextV2",
+            "metadata": {
+              "source": {
+                "organisation_id": 755
+              },
+              "sheet_reference": "default_feedback",
+              "widget_reference": "de082b5f-742a-4ecf-82ca-4dc86e218fec",
+              "valid_response_count": 0
+            },
+            "stimulus": "Written feedback:",
+            "response_id": "d2ad79ae-19e9-4d4b-84c0-e6953e406791_58f4b41f8d016dab80bdfe323770fe86",
+            "show_word_count": false,
+            "show_word_limit": "off"
+          },
+          "response": null,
+          "creation_date": "2021-10-01 08:18:25",
+          "mod_date": "2021-10-01 08:18:25",
+          "persist_until": "2021-10-02 08:18:25",
+          "saved": false
+        },
+        null
+      ]
+    },
+    {
+      "response_id": "d2ad79ae-19e9-4d4b-84c0-e6953e406791_c33fb3e8b4d48628287132198139fb39",
+      "question_type": "clozeassociation",
+      "dt_score_updated": "2021-09-30T19:45:09Z",
+      "automarkable": true,
+      "attempted": true,
+      "score": 1,
+      "max_score": 1,
+      "question_reference": "62aa8adf-f62f-41ee-a220-de6674214cec",
+      "item_reference": "f451c5a8-f8dd-44eb-88e9-e181777efd84",
+      "response": {
+        "value": [
+          "That's",
+          "a",
+          "very",
+          "good",
+          "point."
+        ],
+        "type": "array",
+        "apiVersion": "v2.168.9",
+        "revision": 1,
+        "feedbackAttemptsCount": 1
+      },
+      "questionInfo": {
+        "type": "clozeassociation",
+        "widget_type": "response",
+        "reference": "62aa8adf-f62f-41ee-a220-de6674214cec",
+        "data": {
+          "possible_responses": [
+            "That's",
+            "a",
+            "very",
+            "good",
+            "point."
+          ],
+          "response_container": {
+            "pointer": "left"
+          },
+          "template": "<strong>5.&nbsp;{{response}}&nbsp;{{response}}&nbsp;{{response}}&nbsp;{{response}}&nbsp;{{response}}</strong>",
+          "type": "clozeassociation",
+          "case_sensitive": true,
+          "validation": {
+            "scoring_type": "exactMatch",
+            "valid_response": {
+              "score": 1,
+              "value": [
+                "That's",
+                "a",
+                "very",
+                "good",
+                "point."
+              ]
+            }
+          },
+          "ui_style": {
+            "show_drag_handle": false
+          },
+          "instant_feedback": true,
+          "shuffle_options": true
+        },
+        "metadata": {
+          "name": "Cloze with drag & drop",
+          "template_reference": "51a8c1e7-f34f-4faf-b211-da458e891fcb"
+        }
+      },
+      "feedbackInfo": [
+        {
+          "id": "0707_e981a3d4-9ed0-4678-a729-45ee5ffc5ba9_d2ad79ae-19e9-4d4b-84c0-e6953e406791_8b1eb906cb50034ce047e70d66d9409f",
+          "user_id": "e981a3d4-9ed0-4678-a729-45ee5ffc5ba9",
+          "response_id": "d2ad79ae-19e9-4d4b-84c0-e6953e406791_8b1eb906cb50034ce047e70d66d9409f",
+          "type": "longtextV2",
+          "question": {
+            "type": "longtextV2",
+            "metadata": {
+              "source": {
+                "organisation_id": 755
+              },
+              "sheet_reference": "default_feedback",
+              "widget_reference": "de082b5f-742a-4ecf-82ca-4dc86e218fec",
+              "valid_response_count": 0
+            },
+            "stimulus": "Written feedback:",
+            "response_id": "d2ad79ae-19e9-4d4b-84c0-e6953e406791_8b1eb906cb50034ce047e70d66d9409f",
+            "show_word_count": false,
+            "show_word_limit": "off"
+          },
+          "response": null,
+          "creation_date": "2021-10-01 08:18:25",
+          "mod_date": "2021-10-01 08:18:25",
+          "persist_until": "2021-10-02 08:18:25",
+          "saved": false
+        },
+        null
+      ]
+    },
+    {
+      "response_id": "d2ad79ae-19e9-4d4b-84c0-e6953e406791_736c4a4c83d609d8a2a580d1d3e41678",
+      "question_type": "clozeassociation",
+      "dt_score_updated": "2021-09-30T19:43:29Z",
+      "automarkable": true,
+      "attempted": true,
+      "score": 1,
+      "max_score": 1,
+      "question_reference": "e860bd3c-53d7-4ca0-9fb5-adefffdb05a3",
+      "item_reference": "f451c5a8-f8dd-44eb-88e9-e181777efd84",
+      "response": {
+        "value": [
+          "Hmm...",
+          "Not",
+          "necessarily."
+        ],
+        "type": "array",
+        "apiVersion": "v2.168.9",
+        "revision": 1,
+        "feedbackAttemptsCount": 1
+      },
+      "questionInfo": {
+        "type": "clozeassociation",
+        "widget_type": "response",
+        "reference": "e860bd3c-53d7-4ca0-9fb5-adefffdb05a3",
+        "data": {
+          "possible_responses": [
+            "Hmm...",
+            "Not",
+            "necessarily."
+          ],
+          "response_container": {
+            "pointer": "left"
+          },
+          "template": "<strong>6.&nbsp;{{response}}&nbsp;{{response}}&nbsp;{{response}}</strong>",
+          "type": "clozeassociation",
+          "case_sensitive": true,
+          "validation": {
+            "scoring_type": "exactMatch",
+            "valid_response": {
+              "score": 1,
+              "value": [
+                "Hmm...",
+                "Not",
+                "necessarily."
+              ]
+            }
+          },
+          "ui_style": {
+            "show_drag_handle": false
+          },
+          "instant_feedback": true,
+          "shuffle_options": true
+        },
+        "metadata": {
+          "name": "Cloze with drag & drop",
+          "template_reference": "51a8c1e7-f34f-4faf-b211-da458e891fcb"
+        }
+      },
+      "feedbackInfo": [
+        {
+          "id": "0707_e981a3d4-9ed0-4678-a729-45ee5ffc5ba9_d2ad79ae-19e9-4d4b-84c0-e6953e406791_cd8091fa40d1ffb5a3faf7ff9c8d6c29",
+          "user_id": "e981a3d4-9ed0-4678-a729-45ee5ffc5ba9",
+          "response_id": "d2ad79ae-19e9-4d4b-84c0-e6953e406791_cd8091fa40d1ffb5a3faf7ff9c8d6c29",
+          "type": "longtextV2",
+          "question": {
+            "type": "longtextV2",
+            "metadata": {
+              "source": {
+                "organisation_id": 755
+              },
+              "sheet_reference": "default_feedback",
+              "widget_reference": "de082b5f-742a-4ecf-82ca-4dc86e218fec",
+              "valid_response_count": 0
+            },
+            "stimulus": "Written feedback:",
+            "response_id": "d2ad79ae-19e9-4d4b-84c0-e6953e406791_cd8091fa40d1ffb5a3faf7ff9c8d6c29",
+            "show_word_count": false,
+            "show_word_limit": "off"
+          },
+          "response": null,
+          "creation_date": "2021-10-01 08:18:26",
+          "mod_date": "2021-10-01 08:18:26",
+          "persist_until": "2021-10-02 08:18:26",
+          "saved": false
+        },
+        null
+      ]
+    }
+  ]
+}

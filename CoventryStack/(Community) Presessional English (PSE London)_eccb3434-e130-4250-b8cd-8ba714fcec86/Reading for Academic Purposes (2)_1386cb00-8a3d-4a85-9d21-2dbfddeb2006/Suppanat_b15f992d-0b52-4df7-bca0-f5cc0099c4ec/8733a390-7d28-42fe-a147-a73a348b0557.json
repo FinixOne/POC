@@ -1,0 +1,1226 @@
+{
+  "userId": "b15f992d-0b52-4df7-bca0-f5cc0099c4ec",
+  "firstName": "Suppanat",
+  "lastName": "Thrachoo",
+  "assigmentId": "1386cb00-8a3d-4a85-9d21-2dbfddeb2006",
+  "assigmentName": "Reading for Academic Purposes (2)",
+  "sessionId": "8733a390-7d28-42fe-a147-a73a348b0557",
+  "email": "thrachoos@coventry.ac.uk",
+  "spaceId": "eccb3434-e130-4250-b8cd-8ba714fcec86",
+  "spaceName": "(Community) Presessional English (PSE London)",
+  "score": 47,
+  "max_score": 48,
+  "questions": [
+    {
+      "response_id": "8733a390-7d28-42fe-a147-a73a348b0557_0f5bdd1627ad73c2901426fb65494e9f",
+      "question_type": "clozetext",
+      "dt_score_updated": "2023-10-09T08:32:36Z",
+      "automarkable": true,
+      "attempted": true,
+      "score": 5,
+      "max_score": 5,
+      "question_reference": "82d46123-0659-4dd0-af74-d9caccd96a86",
+      "item_reference": "8f41b203-e16e-4b1e-bb15-b7615d54f752",
+      "response": {
+        "value": [
+          "Survey",
+          "Question",
+          "Read",
+          "Recall",
+          "Review"
+        ],
+        "type": "array",
+        "apiVersion": "v2.177.31",
+        "revision": 3,
+        "feedbackAttemptsCount": 1
+      },
+      "questionInfo": {
+        "type": "clozetext",
+        "widget_type": "response",
+        "reference": "82d46123-0659-4dd0-af74-d9caccd96a86",
+        "data": {
+          "stimulus": "<div class=\"lrn-well\"><span style=\"font-size:1.3em\"><strong>1.&nbsp;What does SQ3R mean?</strong></span></div>\n\n<p><span style=\"font-weight:bold\"><span style=\"color:#ff0000\"></span></span><font color=\"#ff0000\"><b>►</b></font><u><span style=\"color:#ff0000;\"><b>Check your spelling carefully!</b></span></u></p>\n",
+          "template": "<p style=\"margin-left: 40px;\"><span style=\"font-size:1.1em;\">SQ3R stands for&nbsp;</span><span style=\"font-size:1em;\">{{response}}</span><span style=\"font-size:1.1em;\">,&nbsp;</span><span style=\"font-size:1em;\">{{response}}</span><span style=\"font-size:1.1em;\">, </span><span style=\"font-size:1em;\">{{response}}</span><span style=\"font-size:1.1em;\">,&nbsp;</span><span style=\"font-size:1em;\">{{response}}</span><span style=\"font-size:1.1em;\">&nbsp;and&nbsp;</span><span style=\"font-size:1em;\">{{response}}</span><span style=\"font-size:1.1em;\">.</span></p>\n",
+          "type": "clozetext",
+          "validation": {
+            "scoring_type": "partialMatchV2",
+            "valid_response": {
+              "score": 5,
+              "value": [
+                "Survey",
+                "Question",
+                "Read",
+                "Recall",
+                "Review"
+              ]
+            }
+          },
+          "instant_feedback": true
+        },
+        "metadata": {
+          "name": "Cloze with text",
+          "template_reference": "457fe101-0667-4a35-b193-b849653acb52"
+        }
+      },
+      "feedbackInfo": [
+        null,
+        null
+      ]
+    },
+    {
+      "response_id": "8733a390-7d28-42fe-a147-a73a348b0557_cbd54d9494ecb7eb1669836991e99c80",
+      "question_type": "clozedropdown",
+      "dt_score_updated": "2023-10-09T08:35:56Z",
+      "automarkable": true,
+      "attempted": true,
+      "score": 5,
+      "max_score": 5,
+      "question_reference": "597de298-a88e-4077-acc8-78cf98cbe224",
+      "item_reference": "8f41b203-e16e-4b1e-bb15-b7615d54f752",
+      "response": {
+        "value": [
+          "five",
+          "understand",
+          "a specific goal",
+          "writing",
+          "tutorial"
+        ],
+        "type": "array",
+        "apiVersion": "v2.177.31",
+        "revision": 4,
+        "feedbackAttemptsCount": 1
+      },
+      "questionInfo": {
+        "type": "clozedropdown",
+        "widget_type": "response",
+        "reference": "597de298-a88e-4077-acc8-78cf98cbe224",
+        "data": {
+          "possible_responses": [
+            [
+              "three",
+              "four",
+              "five"
+            ],
+            [
+              "understand",
+              "a specific goal",
+              "writing",
+              "tutorial"
+            ],
+            [
+              "understand",
+              "a specific goal",
+              "writing",
+              "tutorial"
+            ],
+            [
+              "understand",
+              "a specific goal",
+              "writing",
+              "tutorial"
+            ],
+            [
+              "understand",
+              "a specific goal",
+              "writing",
+              "tutorial"
+            ]
+          ],
+          "response_container": {
+            "pointer": "left"
+          },
+          "stimulus": "<div class=\"lrn-well\"><strong><span style=\"font-size:1.3em;\">2. Why&nbsp;is the SQ3R system and why is it useful?&nbsp;Complete the summary.</span></strong></div>\n\n<p><font color=\"#ff0000\"><b>► </b></font><b>Read the text carefully!&nbsp;</b><span style=\"font-weight:bold\"><span style=\"color:#ff0000\"><u>You have only ONE 'check answer' attempt</u>!</span></span></p>\n",
+          "template": "<p style=\"margin-left: 40px;\"><span style=\"font-size:1.1em;\"><span style=\"font-family:Calibri\">There are </span></span><span style=\"font-size:1em;\"><span style=\"font-family:Calibri\">{{response}}</span></span><span style=\"font-size:1.1em;\"><span style=\"font-family:Calibri\">&nbsp;steps you should take when reading academically. These steps will help you to </span></span><span style=\"font-size:1em;\"><span style=\"font-family:Calibri\">{{response}}</span></span><span style=\"font-size:1.1em;\"><span style=\"font-family:Calibri\">&nbsp;the text more fully when you need to achieve </span></span><span style=\"font-size:1em;\"><span style=\"font-family:Calibri\">{{response}}</span></span><span style=\"font-size:1.1em;\"><span style=\"font-family:Calibri\"> - such as a </span></span><span style=\"font-size:1em;\"><span style=\"font-family:Calibri\">{{response}}</span></span><span style=\"font-size:1.1em;\"><span style=\"font-family:Calibri\">&nbsp;task or </span></span><span style=\"font-size:1em;\"><span style=\"font-family:Calibri\">{{response}}</span></span><span style=\"font-size:1.1em;\"><span style=\"font-family:Calibri\">&nbsp;preparation.</span></span></p>\n",
+          "type": "clozedropdown",
+          "case_sensitive": true,
+          "validation": {
+            "scoring_type": "partialMatchV2",
+            "valid_response": {
+              "score": 5,
+              "value": [
+                "five",
+                "understand",
+                "a specific goal",
+                "writing",
+                "tutorial"
+              ]
+            }
+          },
+          "feedback_attempts": 1,
+          "instant_feedback": true,
+          "shuffle_options": true
+        },
+        "metadata": {
+          "name": "Cloze with drop down",
+          "template_reference": "2fbba51b-e35e-441f-83c7-2662e2e81fa6"
+        }
+      },
+      "feedbackInfo": [
+        null,
+        null
+      ]
+    },
+    {
+      "response_id": "8733a390-7d28-42fe-a147-a73a348b0557_3b70081892aa6f8b683f4be82148da9d",
+      "question_type": "mcq",
+      "dt_score_updated": "2023-10-09T08:38:48Z",
+      "automarkable": true,
+      "attempted": true,
+      "score": 5,
+      "max_score": 5,
+      "question_reference": "b6b02967-fd8e-4470-a0da-8f3bb92c879f",
+      "item_reference": "8f41b203-e16e-4b1e-bb15-b7615d54f752",
+      "response": {
+        "value": [
+          "4",
+          "9",
+          "5",
+          "8",
+          "7"
+        ],
+        "type": "array",
+        "apiVersion": "v2.177.31",
+        "revision": 4
+      },
+      "questionInfo": {
+        "type": "mcq",
+        "widget_type": "response",
+        "reference": "b6b02967-fd8e-4470-a0da-8f3bb92c879f",
+        "data": {
+          "options": [
+            {
+              "label": "<span style=\"font-size:1.1em;\">The main ideas</span>",
+              "value": "3"
+            },
+            {
+              "label": "<span style=\"font-size: 15.4px;\">The title</span>",
+              "value": "4"
+            },
+            {
+              "label": "<span style=\"font-size:1.1em;\">The headings</span>",
+              "value": "9"
+            },
+            {
+              "label": "<span style=\"font-size:1.1em;\">The vocabulary</span>",
+              "value": "10"
+            },
+            {
+              "label": "<span style=\"font-size:1.1em;\">The visuals</span>",
+              "value": "5"
+            },
+            {
+              "label": "<span style=\"font-size:1.1em;\">The examples</span>",
+              "value": "6"
+            },
+            {
+              "label": "<span style=\"font-size:1.1em;\">The style and type of text</span>",
+              "value": "7"
+            },
+            {
+              "label": "<span style=\"font-size:1.1em;\">The reference list</span>",
+              "value": "8"
+            }
+          ],
+          "stimulus": "<div class=\"lrn-well\"><span style=\"font-size:1.3em;\"></span><strong><span style=\"font-size:1.3em;\">3. What should you look at in the first step?&nbsp;</span></strong><span style=\"font-size:1.3em;\"><strong>Choose <u>FIVE</u>&nbsp;</strong></span></div>\n\n<p><span style=\"font-weight: bold; color: rgb(255, 0, 0);\"></span><font color=\"#ff0000\"><b>► </b></font><b>Read the text carefully!&nbsp;</b><span style=\"font-weight: bold; color: rgb(255, 0, 0);\"><u>You have only ONE 'check answer' attempt</u>!</span></p>\n",
+          "type": "mcq",
+          "ui_style": {
+            "choice_label": "upper-alpha",
+            "type": "block"
+          },
+          "validation": {
+            "scoring_type": "partialMatchV2",
+            "valid_response": {
+              "score": 5,
+              "value": [
+                "4",
+                "5",
+                "7",
+                "8",
+                "9"
+              ]
+            }
+          },
+          "feedback_attempts": 1,
+          "instant_feedback": true,
+          "multiple_responses": true
+        },
+        "metadata": {
+          "name": "Multiple choice – block layout",
+          "template_reference": "33d53a22-1a59-4a03-9671-7f5104edd62e"
+        }
+      },
+      "feedbackInfo": [
+        null,
+        null
+      ]
+    },
+    {
+      "response_id": "8733a390-7d28-42fe-a147-a73a348b0557_63182eff8f9296f1e3c5b44d4923744f",
+      "question_type": "mcq",
+      "dt_score_updated": "2023-10-09T08:40:57Z",
+      "automarkable": true,
+      "attempted": true,
+      "score": 1,
+      "max_score": 1,
+      "question_reference": "9df68508-ce7a-46e3-babf-4d6870bc364b",
+      "item_reference": "8f41b203-e16e-4b1e-bb15-b7615d54f752",
+      "response": {
+        "value": [
+          "4"
+        ],
+        "type": "array",
+        "apiVersion": "v2.177.31",
+        "revision": 1,
+        "feedbackAttemptsCount": 1
+      },
+      "questionInfo": {
+        "type": "mcq",
+        "widget_type": "response",
+        "reference": "9df68508-ce7a-46e3-babf-4d6870bc364b",
+        "data": {
+          "options": [
+            {
+              "label": "<span style=\"font-size:1.1em;\">What are university students’ favourite kind of accommodation?</span>",
+              "value": "3"
+            },
+            {
+              "label": "<span style=\"font-size:1.1em;\">What are university students’ favourite locations for accommodation?</span>",
+              "value": "4"
+            }
+          ],
+          "stimulus": "<div class=\"lrn-well\"><span style=\"font-size:1.3em;\"><strong>4. The text suggests&nbsp;you <u>turn the section headings into questions</u> (line 15). Which question&nbsp;would you write for the headings in the picture?&nbsp;</strong></span></div>\n\n<p><span style=\"font-weight: bold; color: rgb(255, 0, 0);\"></span><font color=\"#ff0000\"><b>► </b></font><b>Read the text carefully!&nbsp;</b><span style=\"font-weight: bold; color: rgb(255, 0, 0);\"><u>You have only ONE 'check answer' attempt</u>!</span></p>\n\n<p>&nbsp;</p>\n\n<p>&nbsp;</p>\n\n\n<img height=\"251\" src=\"https://assets.learnosity.com/organisations/755/06a21b35-b141-406e-94d0-31147640d71c.jpg\" width=\"330\">",
+          "type": "mcq",
+          "ui_style": {
+            "choice_label": "upper-alpha",
+            "type": "block"
+          },
+          "validation": {
+            "scoring_type": "exactMatch",
+            "valid_response": {
+              "score": 1,
+              "value": [
+                "4"
+              ]
+            }
+          },
+          "feedback_attempts": 1,
+          "instant_feedback": true,
+          "shuffle_options": true
+        },
+        "metadata": {
+          "name": "Multiple choice – block layout",
+          "template_reference": "33d53a22-1a59-4a03-9671-7f5104edd62e"
+        }
+      },
+      "feedbackInfo": [
+        null,
+        null
+      ]
+    },
+    {
+      "response_id": "8733a390-7d28-42fe-a147-a73a348b0557_79ade759b5127becc0f2ee10935fbd7b",
+      "question_type": "association",
+      "dt_score_updated": "2023-10-09T08:43:48Z",
+      "automarkable": true,
+      "attempted": true,
+      "score": 3,
+      "max_score": 3,
+      "question_reference": "0c81fec6-5446-4c09-8773-d0bf7d90ccdf",
+      "item_reference": "8f41b203-e16e-4b1e-bb15-b7615d54f752",
+      "response": {
+        "value": [
+          "… gives you a GLOBAL vision of the text.",
+          "… allows you to find SPECIFIC information.",
+          "… allows you to identify the MAIN IDEAS and DETAILS"
+        ],
+        "type": "array",
+        "updatedFormat": true,
+        "apiVersion": "v2.177.31",
+        "revision": 3
+      },
+      "questionInfo": {
+        "type": "association",
+        "widget_type": "response",
+        "reference": "0c81fec6-5446-4c09-8773-d0bf7d90ccdf",
+        "data": {
+          "possible_responses": [
+            "… allows you to identify the MAIN IDEAS and DETAILS",
+            "... develops your VOCABULARY",
+            "... is the MOST IMPORTANT step",
+            "… gives you a GLOBAL vision of the text.",
+            "… allows you to find SPECIFIC information."
+          ],
+          "stimulus": "<div class=\"lrn-well\"><strong><span style=\"font-size:1.3em;\">5. The first R is Read. What are the functions of the different Reading Strategies below?</span></strong></div>\n\n<p><font color=\"#ff0000\"><b>► </b></font><b>Read the text carefully!&nbsp;</b><span style=\"font-weight:bold\"><span style=\"color:#ff0000\"><u>You have only ONE 'check answer' attempt</u>!</span></span></p>\n\n<p><strong><span style=\"font-weight:bold\"><span style=\"color:#ff0000\"></span></span></strong><font color=\"#ff0000\"><b>► </b></font><strong>There are some extra options that you don't need.&nbsp;</strong></p>\n",
+          "stimulus_list": [
+            "<span style=\"color:#0000ff;\"><span style=\"font-size:1.3em;\"><strong>Reading for gist</strong></span></span>",
+            "<span style=\"font-size:1.3em;\"><span style=\"color:#0000ff;\"><strong>Scanning</strong></span></span>",
+            "<span style=\"font-size:1.3em;\"><span style=\"color:#0000ff;\"><strong>Reading intensively</strong></span></span>"
+          ],
+          "type": "association",
+          "validation": {
+            "scoring_type": "partialMatchV2",
+            "valid_response": {
+              "score": 3,
+              "value": [
+                "… gives you a GLOBAL vision of the text.",
+                "… allows you to find SPECIFIC information.",
+                "… allows you to identify the MAIN IDEAS and DETAILS"
+              ]
+            }
+          },
+          "feedback_attempts": 1,
+          "instant_feedback": true
+        },
+        "metadata": {
+          "name": "Match list",
+          "template_reference": "1fa22aac-1f88-47f7-941b-3c77759549e6"
+        }
+      },
+      "feedbackInfo": [
+        null,
+        null
+      ]
+    },
+    {
+      "response_id": "8733a390-7d28-42fe-a147-a73a348b0557_3b0d00afc7405600fb39054dbc19e284",
+      "question_type": "clozedropdown",
+      "dt_score_updated": "2023-10-09T08:46:11Z",
+      "automarkable": true,
+      "attempted": true,
+      "score": 3,
+      "max_score": 3,
+      "question_reference": "a1a2e19d-085e-475a-80a1-47df8ab2d4d2",
+      "item_reference": "8f41b203-e16e-4b1e-bb15-b7615d54f752",
+      "response": {
+        "value": [
+          "Underline",
+          "highlight important sections of",
+          "notes in the margin"
+        ],
+        "type": "array",
+        "apiVersion": "v2.177.31",
+        "revision": 4,
+        "feedbackAttemptsCount": 1
+      },
+      "questionInfo": {
+        "type": "clozedropdown",
+        "widget_type": "response",
+        "reference": "a1a2e19d-085e-475a-80a1-47df8ab2d4d2",
+        "data": {
+          "possible_responses": [
+            [
+              "Underline",
+              "Check your dictionary for"
+            ],
+            [
+              "highlight important sections of",
+              "make notes about"
+            ],
+            [
+              "notes in the margin",
+              "a summary of the text"
+            ]
+          ],
+          "response_container": {
+            "pointer": "left"
+          },
+          "stimulus": "<div class=\"lrn-well\"><strong><span style=\"font-size:1.3em;\"></span><span style=\"font-size:1.3em;\">7. What does the writer suggest you do to help find useful information again?</span></strong><br>\n<strong><span style=\"font-size:1.3em;\"></span></strong></div>\n\n<p><font color=\"#ff0000\"><b>► </b></font><b>Read the text carefully!&nbsp;</b><span style=\"font-weight:bold\"><span style=\"color:#ff0000\"><u>You have only ONE 'check answer' attempt</u>!</span></span></p>\n",
+          "template": "<ol>\n\t<li><span style=\"font-size:1.1em;\">{{response}}&nbsp;key words or phrases</span></li>\n\t<li><span style=\"font-size:1.1em;\">Use different colours to {{response}} the text</span></li>\n\t<li><span style=\"font-size:1.1em;\">Write {{response}}</span></li>\n</ol>\n",
+          "type": "clozedropdown",
+          "case_sensitive": true,
+          "validation": {
+            "scoring_type": "partialMatchV2",
+            "valid_response": {
+              "score": 3,
+              "value": [
+                "Underline",
+                "highlight important sections of",
+                "notes in the margin"
+              ]
+            }
+          },
+          "feedback_attempts": 1,
+          "instant_feedback": true,
+          "shuffle_options": true
+        },
+        "metadata": {
+          "name": "Cloze with drop down",
+          "template_reference": "2fbba51b-e35e-441f-83c7-2662e2e81fa6"
+        }
+      },
+      "feedbackInfo": [
+        null,
+        null
+      ]
+    },
+    {
+      "response_id": "8733a390-7d28-42fe-a147-a73a348b0557_fd7831bf831e7f3cba4ab389e3ef423a",
+      "question_type": "choicematrix",
+      "dt_score_updated": "2023-10-09T08:50:46Z",
+      "automarkable": true,
+      "attempted": true,
+      "score": 5,
+      "max_score": 6,
+      "question_reference": "3329d76f-bc8d-4146-bfbe-2876ea9e9053",
+      "item_reference": "8f41b203-e16e-4b1e-bb15-b7615d54f752",
+      "response": {
+        "value": [
+          [
+            1
+          ],
+          [
+            1
+          ],
+          [
+            0
+          ],
+          [
+            1
+          ],
+          [
+            1
+          ],
+          [
+            0
+          ]
+        ],
+        "type": "array",
+        "apiVersion": "v2.177.31",
+        "revision": 4,
+        "feedbackAttemptsCount": 1
+      },
+      "questionInfo": {
+        "type": "choicematrix",
+        "widget_type": "response",
+        "reference": "3329d76f-bc8d-4146-bfbe-2876ea9e9053",
+        "data": {
+          "options": [
+            "<span style=\"color:#008000;\"><strong>TRUE</strong></span>",
+            "<span style=\"color:#ff0000;\"><strong>FALSE</strong></span>"
+          ],
+          "stems": [
+            "You should start by copying all of the text to a separate page",
+            "Try to remember the exact words in the text",
+            "&nbsp;Cover parts of the texts to try and remember the main points",
+            "This stage helps you check how much you understand",
+            "If you can't remember information, don't worry and move on.",
+            "Recall helps you to paraphrase information into your own words"
+          ],
+          "stimulus": "<div class=\"lrn-well\"><strong><span style=\"font-size:1.3em\">8. </span><span style=\"font-size:1.3em\">The second R is Recall. Are the following statements about this stage <span style=\"color:#008000;\">TRUE</span> or <span style=\"color:#ff0000;\">FALSE</span>?</span><span style=\"font-size:1.3em\"></span><span style=\"font-size:1.3em\"></span></strong></div>\n\n<p><font color=\"#ff0000\"><b>► </b></font><b>Read the text carefully!&nbsp;</b><span style=\"font-weight:bold\"><span style=\"color:#ff0000\"><u>You have only ONE 'check answer' attempt</u>!</span></span></p>\n",
+          "type": "choicematrix",
+          "ui_style": {
+            "stem_numeration": "upper-alpha",
+            "type": "table",
+            "horizontal_lines": false
+          },
+          "validation": {
+            "scoring_type": "partialMatchV2",
+            "valid_response": {
+              "score": 6,
+              "value": [
+                [
+                  1
+                ],
+                [
+                  1
+                ],
+                [
+                  0
+                ],
+                [
+                  0
+                ],
+                [
+                  1
+                ],
+                [
+                  0
+                ]
+              ]
+            }
+          },
+          "feedback_attempts": 1,
+          "instant_feedback": true
+        },
+        "metadata": {
+          "name": "Choice matrix – labels",
+          "template_reference": "9de82e14-802c-4bea-a635-bf9ad0b622fb"
+        }
+      },
+      "feedbackInfo": [
+        null,
+        null
+      ]
+    },
+    {
+      "response_id": "8733a390-7d28-42fe-a147-a73a348b0557_0fa12c441548d9dd17476102d5435f0e",
+      "question_type": "clozeassociation",
+      "dt_score_updated": "2023-10-09T08:51:58Z",
+      "automarkable": true,
+      "attempted": true,
+      "score": 3,
+      "max_score": 3,
+      "question_reference": "e1713241-8fba-443d-8f2d-8e1e4a4ce689",
+      "item_reference": "8f41b203-e16e-4b1e-bb15-b7615d54f752",
+      "response": {
+        "value": [
+          "<span style=\"font-size:1.1em;\">check </span>",
+          "<span style=\"font-size:1.1em;\">notes </span>",
+          "<span style=\"font-size:1.1em;\">written down</span>"
+        ],
+        "type": "array",
+        "apiVersion": "v2.177.31",
+        "revision": 2,
+        "feedbackAttemptsCount": 1
+      },
+      "questionInfo": {
+        "type": "clozeassociation",
+        "widget_type": "response",
+        "reference": "e1713241-8fba-443d-8f2d-8e1e4a4ce689",
+        "data": {
+          "possible_responses": [
+            "<span style=\"font-size:1.1em;\">check </span>",
+            "<span style=\"font-size:1.1em;\">notes </span>",
+            "<span style=\"font-size:1.1em;\">written down</span>",
+            "recall&nbsp;",
+            "answers",
+            "copied"
+          ],
+          "response_container": {
+            "pointer": "left"
+          },
+          "stimulus": "<div class=\"lrn-well\"><span style=\"font-size: 1.3em;\"><b>9. The final R is Review. </b></span><span style=\"font-size: 18.2px;\"><b>Complete</b></span><b style=\"font-size: 1.3em;\">&nbsp;</b><span style=\"font-size: 18.2px;\"><b>the</b></span><b style=\"font-size: 1.3em;\">&nbsp;summary below.</b><br>\n<strong><span style=\"font-size:1.3em\"></span></strong></div>\n\n<p><font color=\"#ff0000\"><b>► </b></font><b>Read the text carefully!&nbsp;</b><span style=\"font-weight:bold\"><span style=\"color:#ff0000\"><u>You have only ONE 'check answer' attempt</u>!</span></span></p>\n\n<p><span style=\"color:#ff0000;\"><font color=\"#ff0000\"><b>► </b></font><strong>There are some extra options that you don't need</strong></span></p>\n",
+          "template": "<p style=\"margin-left: 40px;\"><span style=\"font-size:1.1em;\">You should </span><span style=\"font-size:1em;\">{{response}}</span><span style=\"font-size:1.1em;\">&nbsp;the text again to ensure your </span><span style=\"font-size:1em;\">{{response}}</span><span style=\"font-size:1.1em;\">&nbsp;are correct and that you have </span><span style=\"font-size:1em;\">{{response}}</span><span style=\"font-size:1.1em;\"> all important information.</span></p>\n",
+          "type": "clozeassociation",
+          "case_sensitive": true,
+          "validation": {
+            "scoring_type": "partialMatchV2",
+            "valid_response": {
+              "score": 3,
+              "value": [
+                "<span style=\"font-size:1.1em;\">check </span>",
+                "<span style=\"font-size:1.1em;\">notes </span>",
+                "<span style=\"font-size:1.1em;\">written down</span>"
+              ]
+            }
+          },
+          "feedback_attempts": 1,
+          "instant_feedback": true,
+          "shuffle_options": true
+        },
+        "metadata": {
+          "name": "Cloze with drag & drop",
+          "template_reference": "51a8c1e7-f34f-4faf-b211-da458e891fcb"
+        }
+      },
+      "feedbackInfo": [
+        null,
+        null
+      ]
+    },
+    {
+      "response_id": "8733a390-7d28-42fe-a147-a73a348b0557_d87517ce073376a71e4bf8760e922da7",
+      "question_type": "imageclozeassociationV2",
+      "dt_score_updated": "2023-10-09T08:55:17Z",
+      "automarkable": true,
+      "attempted": true,
+      "score": 11,
+      "max_score": 11,
+      "question_reference": "17df6019-8474-426e-ab30-d2d11506dfda",
+      "item_reference": "5f9d32b9-8164-4681-8725-150062c64f16",
+      "response": {
+        "value": [
+          [
+            "<span style=\"font-size:1.5em;\"><span style=\"color:#000080;\"><strong>SQ3R</strong></span></span>"
+          ],
+          [
+            "<span style=\"color:#0000ff;\"><span style=\"font-size:1.1em;\"><strong>REVIEW</strong></span></span>"
+          ],
+          [
+            "<span style=\"color:#0000ff;\"><span style=\"font-size:1.1em;\"><strong>RECALL</strong></span></span>"
+          ],
+          [
+            "<span style=\"color:#0000ff;\"><span style=\"font-size:1.1em;\"><strong>READ</strong></span></span>"
+          ],
+          [
+            "<span style=\"color:#0000ff;\"><span style=\"font-size:1.1em;\"><strong>QUESTION</strong></span></span>"
+          ],
+          [
+            "<span style=\"color:#0000ff;\"><span style=\"font-size:1.1em;\"><strong>SURVEY</strong></span></span>"
+          ],
+          [
+            "<span style=\"font-size:1.1em;\">section headings</span>"
+          ],
+          [
+            "<span style=\"font-size:1.1em;\">who?</span>"
+          ],
+          [
+            "<span style=\"font-size:1.1em;\">scan</span>"
+          ],
+          [
+            "<span style=\"font-size:1.1em;\">questions</span>"
+          ],
+          [
+            "<span style=\"font-size:1.1em;\">main</span>"
+          ]
+        ],
+        "type": "array",
+        "apiVersion": "v2.177.31",
+        "revision": 6,
+        "feedbackAttemptsCount": 1
+      },
+      "questionInfo": {
+        "type": "imageclozeassociationV2",
+        "widget_type": "response",
+        "reference": "17df6019-8474-426e-ab30-d2d11506dfda",
+        "data": {
+          "image": {
+            "src": "https://assets.learnosity.com/organisations/755/2bdcf893-648e-489d-9d02-f2df07001445.jpg",
+            "width": 899,
+            "height": 570
+          },
+          "possible_responses": [
+            "<span style=\"font-size:1.5em;\"><span style=\"color:#000080;\"><strong>SQ3R</strong></span></span>",
+            "<span style=\"color:#0000ff;\"><span style=\"font-size:1.1em;\"><strong>READ</strong></span></span>",
+            "<span style=\"color:#0000ff;\"><span style=\"font-size:1.1em;\"><strong>SURVEY</strong></span></span>",
+            "<span style=\"color:#0000ff;\"><span style=\"font-size:1.1em;\"><strong>RECALL</strong></span></span>",
+            "<span style=\"color:#0000ff;\"><span style=\"font-size:1.1em;\"><strong>QUESTION</strong></span></span>",
+            "<span style=\"color:#0000ff;\"><span style=\"font-size:1.1em;\"><strong>REVIEW</strong></span></span>",
+            "<span style=\"font-size:1.1em;\">who?</span>",
+            "<span style=\"font-size:1.1em;\">main</span>",
+            "<span style=\"font-size:1.1em;\">section headings</span>",
+            "<span style=\"font-size:1.1em;\">scan</span>",
+            "<span style=\"font-size:1.1em;\">questions</span>"
+          ],
+          "response_containers": [
+            {
+              "x": 43.72,
+              "y": 43.16,
+              "width": "10.28%",
+              "height": "7.10%",
+              "aria_label": "",
+              "pointer": "undefined"
+            },
+            {
+              "x": 15.8,
+              "y": 45.09,
+              "width": "11.28%",
+              "height": "7.27%",
+              "aria_label": "",
+              "pointer": "undefined"
+            },
+            {
+              "x": 28.81,
+              "y": 65.61,
+              "width": "11.95%",
+              "height": "7.45%",
+              "aria_label": "",
+              "pointer": "undefined"
+            },
+            {
+              "x": 57,
+              "y": 63,
+              "aria_label": "",
+              "width": "10.12%",
+              "height": "7.02%",
+              "pointer": "none"
+            },
+            {
+              "x": 71.64,
+              "y": 45.09,
+              "aria_label": "",
+              "width": "11.35%",
+              "height": "7.02%",
+              "pointer": "none"
+            },
+            {
+              "x": 43.83,
+              "y": 20.53,
+              "aria_label": "",
+              "width": "12.90%",
+              "height": "7.19%",
+              "pointer": "none"
+            },
+            {
+              "x": 32.7,
+              "y": 1.75,
+              "aria_label": "",
+              "width": "18.35%",
+              "height": "6.14%",
+              "pointer": "none"
+            },
+            {
+              "x": 83.09,
+              "y": 32.28,
+              "aria_label": "",
+              "width": "11.57%",
+              "height": "6.32%",
+              "pointer": "none"
+            },
+            {
+              "x": 76,
+              "y": 71,
+              "aria_label": "",
+              "width": "18.13%",
+              "height": "6.84%",
+              "pointer": "none"
+            },
+            {
+              "x": 39,
+              "y": 82,
+              "aria_label": "",
+              "width": "15.47%",
+              "height": "6.50%",
+              "pointer": "none"
+            },
+            {
+              "x": 4.12,
+              "y": 70.7,
+              "aria_label": "",
+              "width": "11.12%",
+              "height": "6.49%",
+              "pointer": "none"
+            }
+          ],
+          "stimulus": "<table class=\"table table-condensed table-no-border lrn_width_auto\">\n\t<tbody>\n\t\t<tr>\n\t\t\t<td>\n\t\t\t\n\t\t\t<img height=\"101\" src=\"https://assets.learnosity.com/organisations/755/25789106-8f70-44c5-a066-79afccf8ab30.jpg\" width=\"100\"></td>\n\t\t\t<td>\n\t\t\t<h3 id=\"yui_3_17_2_1_1642764570990_124\"><b><span style=\"color:#800080;\">Mind maps</span> are a very useful&nbsp;tool for <u><span style=\"color:#800080;\">organizing your thoughts</span></u> and <u><span style=\"color:#800080;\">making notes</span></u> on texts.</b></h3>\n\n\t\t\t<h3><b><span style=\"color:#800080;\">►</span> Complete the mind map below.</b></h3>\n\t\t\t</td>\n\t\t</tr>\n\t</tbody>\n</table>\n\n<p>&nbsp;</p>\n\n<h3><span style=\"color:#800080;\"><b><u>Mind map of SQ3R</u>&nbsp;&nbsp;</b></span></h3>\n\n<p><span style=\"color:#ff0000;\"><b><b>(r</b><b>ead the text again if necessary)</b></b></span></p>",
+          "type": "imageclozeassociationV2",
+          "case_sensitive": true,
+          "validation": {
+            "scoring_type": "partialMatchV2",
+            "valid_response": {
+              "score": 11,
+              "value": [
+                [
+                  "<span style=\"font-size:1.5em;\"><span style=\"color:#000080;\"><strong>SQ3R</strong></span></span>"
+                ],
+                [
+                  "<span style=\"color:#0000ff;\"><span style=\"font-size:1.1em;\"><strong>REVIEW</strong></span></span>"
+                ],
+                [
+                  "<span style=\"color:#0000ff;\"><span style=\"font-size:1.1em;\"><strong>RECALL</strong></span></span>"
+                ],
+                [
+                  "<span style=\"color:#0000ff;\"><span style=\"font-size:1.1em;\"><strong>READ</strong></span></span>"
+                ],
+                [
+                  "<span style=\"color:#0000ff;\"><span style=\"font-size:1.1em;\"><strong>QUESTION</strong></span></span>"
+                ],
+                [
+                  "<span style=\"color:#0000ff;\"><span style=\"font-size:1.1em;\"><strong>SURVEY</strong></span></span>"
+                ],
+                [
+                  "<span style=\"font-size:1.1em;\">section headings</span>"
+                ],
+                [
+                  "<span style=\"font-size:1.1em;\">who?</span>"
+                ],
+                [
+                  "<span style=\"font-size:1.1em;\">scan</span>"
+                ],
+                [
+                  "<span style=\"font-size:1.1em;\">questions</span>"
+                ],
+                [
+                  "<span style=\"font-size:1.1em;\">main</span>"
+                ]
+              ]
+            }
+          },
+          "instant_feedback": true,
+          "shuffle_options": true
+        },
+        "metadata": {
+          "name": "Label image with drag & drop",
+          "template_reference": "6e77b403-8f0c-43af-b464-9450e1ac70dc"
+        }
+      },
+      "feedbackInfo": [
+        null,
+        null
+      ]
+    },
+    {
+      "response_id": "8733a390-7d28-42fe-a147-a73a348b0557_b186046577d3fb4097d9a0c39fbf5f41",
+      "question_type": "mcq",
+      "dt_score_updated": "2023-10-09T08:57:10Z",
+      "automarkable": true,
+      "attempted": true,
+      "score": 1,
+      "max_score": 1,
+      "question_reference": "5921bb21-cf31-41cc-b9b8-9847398aee66",
+      "item_reference": "0f25cfe1-a37a-4c90-8189-8333db6dc3a1",
+      "response": {
+        "value": [
+          "2"
+        ],
+        "type": "array",
+        "apiVersion": "v2.177.31",
+        "revision": 1,
+        "feedbackAttemptsCount": 1
+      },
+      "questionInfo": {
+        "type": "mcq",
+        "widget_type": "response",
+        "reference": "5921bb21-cf31-41cc-b9b8-9847398aee66",
+        "data": {
+          "options": [
+            {
+              "label": "<span style=\"font-size:1.1em;\">Dates, statistics and other specific information</span>",
+              "value": "0"
+            },
+            {
+              "label": "<span style=\"font-size:1.1em;\">Anything that sounds interesting</span>",
+              "value": "1"
+            },
+            {
+              "label": "<span style=\"font-size:1.1em;\">The key information, such as main ideas and key words</span>",
+              "value": "2"
+            }
+          ],
+          "stimulus": "<h2>&nbsp;</h2>\n\n<h2><b id=\"yui_3_17_2_1_1642695677449_152\">Let's review some&nbsp;key <u><span style=\"color:#ff8c00;\">summarising skills</span></u>...&nbsp;</b></h2>\n\n<p>&nbsp;</p>\n\n\n<img height=\"150\" src=\"https://assets.learnosity.com/organisations/755/cf54be3d-a7b6-4840-a4a2-64ca48122d5d.jpg\" width=\"200\">\n<p>&nbsp;</p>\n\n<div class=\"lrn-well\"><span style=\"font-size:1.3em;\"><b>1. When summarising a text, what are you looking for?</b></span></div>",
+          "type": "mcq",
+          "ui_style": {
+            "choice_label": "upper-alpha",
+            "type": "block"
+          },
+          "validation": {
+            "scoring_type": "exactMatch",
+            "valid_response": {
+              "score": 1,
+              "value": [
+                "2"
+              ]
+            }
+          },
+          "instant_feedback": true,
+          "shuffle_options": true
+        },
+        "metadata": {
+          "name": "Multiple choice – block layout",
+          "template_reference": "33d53a22-1a59-4a03-9671-7f5104edd62e"
+        }
+      },
+      "feedbackInfo": [
+        null,
+        null
+      ]
+    },
+    {
+      "response_id": "8733a390-7d28-42fe-a147-a73a348b0557_5b48930b6f3f171c763b2f63cd0cc8be",
+      "question_type": "mcq",
+      "dt_score_updated": "2023-10-09T08:56:28Z",
+      "automarkable": true,
+      "attempted": true,
+      "score": 1,
+      "max_score": 1,
+      "question_reference": "b7910036-b3cf-4e4d-8ee3-8225cc920643",
+      "item_reference": "0f25cfe1-a37a-4c90-8189-8333db6dc3a1",
+      "response": {
+        "value": [
+          "2"
+        ],
+        "type": "array",
+        "apiVersion": "v2.177.31",
+        "revision": 1
+      },
+      "questionInfo": {
+        "type": "mcq",
+        "widget_type": "response",
+        "reference": "b7910036-b3cf-4e4d-8ee3-8225cc920643",
+        "data": {
+          "options": [
+            {
+              "label": "<span style=\"font-size:1.1em;\">Usually the final sentence of a paragraph</span>",
+              "value": "0"
+            },
+            {
+              "label": "<span style=\"font-size:1.1em;\">Usually the middle sentences of a paragraph</span>",
+              "value": "1"
+            },
+            {
+              "label": "<span style=\"font-size:1.1em;\">Usually the first sentence of the paragraph</span>",
+              "value": "2"
+            }
+          ],
+          "stimulus": "<div class=\"lrn-well\"><span style=\"font-size:1.3em;\"><b>2. Which sentence in the paragraph gives you the main idea?&nbsp;</b></span></div>\n",
+          "type": "mcq",
+          "ui_style": {
+            "choice_label": "upper-alpha",
+            "type": "block"
+          },
+          "validation": {
+            "scoring_type": "exactMatch",
+            "valid_response": {
+              "score": 1,
+              "value": [
+                "2"
+              ]
+            }
+          },
+          "instant_feedback": true,
+          "shuffle_options": true
+        },
+        "metadata": {
+          "name": "Multiple choice – block layout",
+          "template_reference": "33d53a22-1a59-4a03-9671-7f5104edd62e"
+        }
+      },
+      "feedbackInfo": [
+        null,
+        null
+      ]
+    },
+    {
+      "response_id": "8733a390-7d28-42fe-a147-a73a348b0557_78494d9dd1fcb71a8767af8331c5a2cb",
+      "question_type": "mcq",
+      "dt_score_updated": "2023-10-09T08:57:38Z",
+      "automarkable": true,
+      "attempted": true,
+      "score": 1,
+      "max_score": 1,
+      "question_reference": "a6a62554-2764-4a12-a88c-0b1e956e80a0",
+      "item_reference": "0f25cfe1-a37a-4c90-8189-8333db6dc3a1",
+      "response": {
+        "value": [
+          "2"
+        ],
+        "type": "array",
+        "apiVersion": "v2.177.31",
+        "revision": 2,
+        "feedbackAttemptsCount": 2
+      },
+      "questionInfo": {
+        "type": "mcq",
+        "widget_type": "response",
+        "reference": "a6a62554-2764-4a12-a88c-0b1e956e80a0",
+        "data": {
+          "options": [
+            {
+              "label": "<span style=\"font-size:1.1em;\">In case there is an exam question asking what summarising means</span>",
+              "value": "0"
+            },
+            {
+              "label": "<span style=\"font-size:1.1em;\">You can find the key information of a text quickly</span>",
+              "value": "1"
+            },
+            {
+              "label": "<span style=\"font-size:1.1em;\">You can finish the assignment as quickly as possible</span>",
+              "value": "2"
+            }
+          ],
+          "stimulus": "<div class=\"lrn-well\"><span style=\"font-size:1.3em;\"><b>3. </b><b id=\"yui_3_17_2_1_1642695677449_189\">How can the ability to summarise help you at university?&nbsp;</b></span></div>\n",
+          "type": "mcq",
+          "ui_style": {
+            "choice_label": "upper-alpha",
+            "type": "block"
+          },
+          "validation": {
+            "scoring_type": "exactMatch",
+            "valid_response": {
+              "score": 1,
+              "value": [
+                "2"
+              ]
+            }
+          },
+          "instant_feedback": true,
+          "shuffle_options": true
+        },
+        "metadata": {
+          "name": "Multiple choice – block layout",
+          "template_reference": "33d53a22-1a59-4a03-9671-7f5104edd62e"
+        }
+      },
+      "feedbackInfo": [
+        null,
+        null
+      ]
+    },
+    {
+      "response_id": "8733a390-7d28-42fe-a147-a73a348b0557_b141075654586f3aaf0065f20e02a37d",
+      "question_type": "mcq",
+      "dt_score_updated": "2023-10-09T08:58:21Z",
+      "automarkable": true,
+      "attempted": true,
+      "score": 1,
+      "max_score": 1,
+      "question_reference": "c3ca33c5-7302-4a7f-85dd-0e30e30d024a",
+      "item_reference": "b0b31763-fc20-4490-bfd9-1276ee3e4528",
+      "response": {
+        "value": [
+          "1"
+        ],
+        "type": "array",
+        "apiVersion": "v2.177.31",
+        "revision": 1,
+        "feedbackAttemptsCount": 1
+      },
+      "questionInfo": {
+        "type": "mcq",
+        "widget_type": "response",
+        "reference": "c3ca33c5-7302-4a7f-85dd-0e30e30d024a",
+        "data": {
+          "options": [
+            {
+              "label": "<span style=\"font-size:1.1em;\">Nowadays, people travel.</span>",
+              "value": "0"
+            },
+            {
+              "label": "<span style=\"font-size:1.1em;\">In recent times air travel has become very popular.</span>",
+              "value": "1"
+            }
+          ],
+          "stimulus": "<h2 id=\"yui_3_17_2_1_1642696887559_171\"><b id=\"yui_3_17_2_1_1642696887559_170\">Next, let's&nbsp;<span style=\"color:#ff8c00;\"><u id=\"yui_3_17_2_1_1642696887559_173\">practice summarising</u></span>&nbsp;some sentences...</b></h2>\n\n<p><img height=\"150\" src=\"https://assets.learnosity.com/organisations/755/bffd9b78-7143-4123-9286-747996c68c0a.jpg\" width=\"200\" /></p>\n\n<h4><strong><span style=\"color:#ff8c00;\">► </span>Choose the best summary for the short paragraphs below.</strong></h4>\n\n<p>&nbsp;</p>\n\n<p>&nbsp;</p>\n\n<p id=\"yui_3_17_2_1_1642696887559_167\"><strong><em><span style=\"font-size:1.5em;\">1.&nbsp;One of the most commonly practised activities in modern day society is travelling between two countries on a huge mechanical device, which has two wings, a tail and four engines, for no other purpose than for pleasure.</span></em></strong></p>\n",
+          "type": "mcq",
+          "ui_style": {
+            "choice_label": "upper-alpha",
+            "type": "block"
+          },
+          "validation": {
+            "scoring_type": "partialMatchV2",
+            "valid_response": {
+              "score": 1,
+              "value": [
+                "1"
+              ]
+            }
+          },
+          "instant_feedback": true,
+          "shuffle_options": true
+        },
+        "metadata": {
+          "name": "Multiple choice – block layout",
+          "template_reference": "33d53a22-1a59-4a03-9671-7f5104edd62e"
+        }
+      },
+      "feedbackInfo": [
+        null,
+        null
+      ]
+    },
+    {
+      "response_id": "8733a390-7d28-42fe-a147-a73a348b0557_b1c1ca71d53ba860bafd164849d436b0",
+      "question_type": "mcq",
+      "dt_score_updated": "2023-10-09T08:58:35Z",
+      "automarkable": true,
+      "attempted": true,
+      "score": 1,
+      "max_score": 1,
+      "question_reference": "c04e23e0-ea7d-4096-bdca-f0f3d0ca6bbc",
+      "item_reference": "b0b31763-fc20-4490-bfd9-1276ee3e4528",
+      "response": {
+        "value": [
+          "0"
+        ],
+        "type": "array",
+        "apiVersion": "v2.177.31",
+        "revision": 1,
+        "feedbackAttemptsCount": 1
+      },
+      "questionInfo": {
+        "type": "mcq",
+        "widget_type": "response",
+        "reference": "c04e23e0-ea7d-4096-bdca-f0f3d0ca6bbc",
+        "data": {
+          "options": [
+            {
+              "label": "<span style=\"font-size:1.1em;\">Coffee is gaining popularity.</span>",
+              "value": "0"
+            },
+            {
+              "label": "<span style=\"font-size:1.1em;\">Coffee is dark brown and quite bitter.&nbsp;</span>",
+              "value": "1"
+            }
+          ],
+          "stimulus": "<p>&nbsp;</p>\n\n<p><strong><em><span style=\"font-size:1.3em;\">2.&nbsp;Coffee, made from adding water to ground coca beans, is dark brown in colour, quite bitter to drink and is rapidly becoming the preferred drink of many a person throughout the world.</span></em></strong></p>\n",
+          "type": "mcq",
+          "ui_style": {
+            "choice_label": "upper-alpha",
+            "type": "block"
+          },
+          "validation": {
+            "scoring_type": "exactMatch",
+            "valid_response": {
+              "score": 1,
+              "value": [
+                "0"
+              ]
+            }
+          },
+          "instant_feedback": true,
+          "shuffle_options": true
+        },
+        "metadata": {
+          "name": "Multiple choice – block layout",
+          "template_reference": "33d53a22-1a59-4a03-9671-7f5104edd62e"
+        }
+      },
+      "feedbackInfo": [
+        null,
+        null
+      ]
+    },
+    {
+      "response_id": "8733a390-7d28-42fe-a147-a73a348b0557_7ea88ced1493755e5c2d624b35124f2d",
+      "question_type": "mcq",
+      "dt_score_updated": "2023-10-09T08:59:31Z",
+      "automarkable": true,
+      "attempted": true,
+      "score": 1,
+      "max_score": 1,
+      "question_reference": "e50b65ad-f3e6-469b-ab4f-a75da35ec46c",
+      "item_reference": "b0b31763-fc20-4490-bfd9-1276ee3e4528",
+      "response": {
+        "value": [
+          "0"
+        ],
+        "type": "array",
+        "apiVersion": "v2.177.31",
+        "revision": 1,
+        "feedbackAttemptsCount": 1
+      },
+      "questionInfo": {
+        "type": "mcq",
+        "widget_type": "response",
+        "reference": "e50b65ad-f3e6-469b-ab4f-a75da35ec46c",
+        "data": {
+          "options": [
+            {
+              "label": "<span style=\"font-size:1.1em;\">21st century life is causing global warming to become increasingly serious</span>",
+              "value": "0"
+            },
+            {
+              "label": "<span style=\"font-size:1.1em;\">People are moving more and are using their cars to do this. In addition, they are eating more food and are travelling more. This means that they are causing pollution. Pollution is creating the global warming effect which is slowly becoming a more and more serious problem.</span>",
+              "value": "1"
+            }
+          ],
+          "stimulus": "<p>&nbsp;</p>\n\n<p><strong><span style=\"font-size:1.3em;\"><em>3. Increases in the movement of population, food, and livestock, added to an increase in the use of fossil fuels, an overall increase of pollution from cars, factories and industrial chemicals in addition to a demand for more efficient and cheaper air travel, are creating more extreme problems in the gradual temperature issues related to our planet at the moment.</em></span></strong></p>\n",
+          "type": "mcq",
+          "ui_style": {
+            "choice_label": "upper-alpha",
+            "type": "block"
+          },
+          "validation": {
+            "scoring_type": "exactMatch",
+            "valid_response": {
+              "score": 1,
+              "value": [
+                "0"
+              ]
+            }
+          },
+          "instant_feedback": true,
+          "shuffle_options": true
+        },
+        "metadata": {
+          "name": "Multiple choice – block layout",
+          "template_reference": "33d53a22-1a59-4a03-9671-7f5104edd62e"
+        }
+      },
+      "feedbackInfo": [
+        null,
+        null
+      ]
+    }
+  ]
+}

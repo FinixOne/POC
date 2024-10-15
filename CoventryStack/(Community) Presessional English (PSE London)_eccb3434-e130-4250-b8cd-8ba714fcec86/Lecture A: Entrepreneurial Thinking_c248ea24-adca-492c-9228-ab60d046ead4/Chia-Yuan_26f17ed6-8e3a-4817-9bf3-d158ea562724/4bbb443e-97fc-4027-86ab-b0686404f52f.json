@@ -1,0 +1,617 @@
+{
+  "userId": "26f17ed6-8e3a-4817-9bf3-d158ea562724",
+  "firstName": "Chia-Yuan",
+  "lastName": "Ho",
+  "assigmentId": "c248ea24-adca-492c-9228-ab60d046ead4",
+  "assigmentName": "Lecture A: Entrepreneurial Thinking",
+  "sessionId": "4bbb443e-97fc-4027-86ab-b0686404f52f",
+  "email": "hoc79@coventry.ac.uk",
+  "spaceId": "eccb3434-e130-4250-b8cd-8ba714fcec86",
+  "spaceName": "(Community) Presessional English (PSE London)",
+  "score": 16,
+  "max_score": 23,
+  "questions": [
+    {
+      "response_id": "4bbb443e-97fc-4027-86ab-b0686404f52f_16d49da246840cbb2ba57c19bf59ed38",
+      "question_type": "mcq",
+      "dt_score_updated": "2021-11-30T11:45:32Z",
+      "automarkable": true,
+      "attempted": true,
+      "score": 3,
+      "max_score": 3,
+      "question_reference": "29dc3b09-56ff-47c4-b7d7-1049c3099354",
+      "item_reference": "26bbc47a-dd6d-4cf6-9773-639c05b9eb2a",
+      "response": {
+        "value": [
+          "0",
+          "2",
+          "4"
+        ],
+        "type": "array",
+        "apiVersion": "v2.168.13",
+        "revision": 5
+      },
+      "questionInfo": {
+        "type": "mcq",
+        "widget_type": "response",
+        "reference": "29dc3b09-56ff-47c4-b7d7-1049c3099354",
+        "data": {
+          "multiple_responses": true,
+          "options": [
+            {
+              "label": "<span style=\"font-size:1.1em;\">Differences between entrepreneurs and managers</span>",
+              "value": "0"
+            },
+            {
+              "label": "<span style=\"font-size:1.1em;\">How to become an entrepreneur</span>",
+              "value": "1"
+            },
+            {
+              "label": "<span style=\"font-size:1.1em;\">Why society needs more entrepreneurs</span>",
+              "value": "2"
+            },
+            {
+              "label": "<span style=\"font-size:1.1em;\">The advantages of thinking in an entrepreneurial way</span>",
+              "value": "3"
+            },
+            {
+              "label": "<span style=\"font-size:1.1em;\">Strategies that businesses can follow to be more entrepreneurial</span>",
+              "value": "4"
+            }
+          ],
+          "stimulus": "<h2><span style=\"color:#0000cd;\"><b>Question 1 - Lecture Structure.&nbsp;</b></span></h2>\n\n<h4><b>The lecturer is going to talk about&nbsp;THREE topics.</b></h4>\n\n<h4><b>Tick the THREE topics the lecturer is going to talk about in the list below.</b></h4>\n",
+          "type": "mcq",
+          "validation": {
+            "scoring_type": "partialMatchV2",
+            "valid_response": {
+              "score": 3,
+              "value": [
+                "0",
+                "2",
+                "4"
+              ]
+            }
+          },
+          "ui_style": {
+            "type": "horizontal"
+          }
+        },
+        "metadata": {
+          "name": "Multiple choice – multiple response",
+          "template_reference": "908de244-5c71-4c09-b094-7fb49554f2f9"
+        }
+      },
+      "feedbackInfo": [
+        {
+          "id": "0707_26f17ed6-8e3a-4817-9bf3-d158ea562724_4bbb443e-97fc-4027-86ab-b0686404f52f_76fde8cff9ba55c85d63594074ad7ebe",
+          "user_id": "26f17ed6-8e3a-4817-9bf3-d158ea562724",
+          "response_id": "4bbb443e-97fc-4027-86ab-b0686404f52f_76fde8cff9ba55c85d63594074ad7ebe",
+          "type": "longtextV2",
+          "question": {
+            "type": "longtextV2",
+            "metadata": {
+              "source": {
+                "organisation_id": 755
+              },
+              "sheet_reference": "default_feedback",
+              "widget_reference": "de082b5f-742a-4ecf-82ca-4dc86e218fec",
+              "valid_response_count": 0
+            },
+            "stimulus": "Written feedback:",
+            "response_id": "4bbb443e-97fc-4027-86ab-b0686404f52f_76fde8cff9ba55c85d63594074ad7ebe",
+            "show_word_count": false,
+            "show_word_limit": "off"
+          },
+          "response": null,
+          "creation_date": "2021-12-06 13:40:11",
+          "mod_date": "2021-12-06 13:40:11",
+          "persist_until": "2021-12-07 13:40:11",
+          "saved": false
+        },
+        null
+      ]
+    },
+    {
+      "response_id": "4bbb443e-97fc-4027-86ab-b0686404f52f_eb5b223fd16d75065a65c6e7e88b5764",
+      "question_type": "clozeassociation",
+      "dt_score_updated": "2021-11-30T12:03:30Z",
+      "automarkable": true,
+      "attempted": true,
+      "score": 1,
+      "max_score": 3,
+      "question_reference": "23b7befd-1f4e-456c-9d99-5a759d5f508f",
+      "item_reference": "26bbc47a-dd6d-4cf6-9773-639c05b9eb2a",
+      "response": {
+        "value": [
+          "exercises business judgement",
+          "commercialises new ideas",
+          "creates a business from those opportunities and ideas"
+        ],
+        "type": "array",
+        "apiVersion": "v2.168.13",
+        "revision": 5
+      },
+      "questionInfo": {
+        "type": "clozeassociation",
+        "widget_type": "response",
+        "reference": "23b7befd-1f4e-456c-9d99-5a759d5f508f",
+        "data": {
+          "possible_responses": [
+            "exercises business judgement",
+            "creates a business from those opportunities and ideas",
+            "not an inventor or an&nbsp; innovator",
+            "a person who comes up with smart ideas",
+            "commercialises new ideas",
+            "creates a business for profit"
+          ],
+          "response_container": {
+            "pointer": "left"
+          },
+          "stimulus": "<h2>&nbsp;</h2>\n\n<h2><span style=\"color:#0000cd;\"><b>Question 2 - What is an Entrepreneur?&nbsp;</b></span></h2>\n\n<h4><b>Complete the sentences.&nbsp;Drag and drop from the phrases below.</b></h4>\n",
+          "template": "<p id=\"yui_3_17_2_1_1631707485141_192\" style=\"margin-left: 40px;\"><span style=\"font-size:1.3em;\">Today we define \"entrepreneur\" as someone who&nbsp;</span><span style=\"font-size:0.9em;\">{{response}}</span><span style=\"font-size:1.3em;\"></span></p>\n\n<p id=\"yui_3_17_2_1_1631707485141_194\" style=\"margin-left: 40px;\"><span style=\"font-size:1.3em;\">So the entrepreneur is&nbsp;</span><span style=\"font-size:0.9em;\">{{response}}</span><span style=\"font-size:1.3em;\"></span></p>\n\n<p id=\"yui_3_17_2_1_1631707485141_195\" style=\"margin-left: 40px;\"><span style=\"font-size:1.3em;\">An entrepreneur is a person who&nbsp;</span><span style=\"font-size:0.9em;\">{{response}}</span><span style=\"font-size:1.3em;\"></span></p>\n\n<p>&nbsp;</p>\n",
+          "type": "clozeassociation",
+          "case_sensitive": true,
+          "validation": {
+            "scoring_type": "partialMatchV2",
+            "valid_response": {
+              "score": 3,
+              "value": [
+                "commercialises new ideas",
+                "not an inventor or an&nbsp; innovator",
+                "creates a business from those opportunities and ideas"
+              ]
+            }
+          }
+        },
+        "metadata": {
+          "name": "Cloze with drag & drop",
+          "template_reference": "51a8c1e7-f34f-4faf-b211-da458e891fcb"
+        }
+      },
+      "feedbackInfo": [
+        {
+          "id": "0707_26f17ed6-8e3a-4817-9bf3-d158ea562724_4bbb443e-97fc-4027-86ab-b0686404f52f_c7e4616ab18b02600416c170c8f2397a",
+          "user_id": "26f17ed6-8e3a-4817-9bf3-d158ea562724",
+          "response_id": "4bbb443e-97fc-4027-86ab-b0686404f52f_c7e4616ab18b02600416c170c8f2397a",
+          "type": "longtextV2",
+          "question": {
+            "type": "longtextV2",
+            "metadata": {
+              "source": {
+                "organisation_id": 755
+              },
+              "sheet_reference": "default_feedback",
+              "widget_reference": "de082b5f-742a-4ecf-82ca-4dc86e218fec",
+              "valid_response_count": 0
+            },
+            "stimulus": "Written feedback:",
+            "response_id": "4bbb443e-97fc-4027-86ab-b0686404f52f_c7e4616ab18b02600416c170c8f2397a",
+            "show_word_count": false,
+            "show_word_limit": "off"
+          },
+          "response": null,
+          "creation_date": "2021-12-06 13:40:11",
+          "mod_date": "2021-12-06 13:40:11",
+          "persist_until": "2021-12-07 13:40:11",
+          "saved": false
+        },
+        null
+      ]
+    },
+    {
+      "response_id": "4bbb443e-97fc-4027-86ab-b0686404f52f_860a7b31a67073343067367c1950eaea",
+      "question_type": "mcq",
+      "dt_score_updated": "2021-11-30T11:47:23Z",
+      "automarkable": true,
+      "attempted": true,
+      "score": 1,
+      "max_score": 2,
+      "question_reference": "8d04af3c-086c-4858-8aea-11213d20b800",
+      "item_reference": "26bbc47a-dd6d-4cf6-9773-639c05b9eb2a",
+      "response": {
+        "value": [
+          "0",
+          "2"
+        ],
+        "type": "array",
+        "apiVersion": "v2.168.13",
+        "revision": 3
+      },
+      "questionInfo": {
+        "type": "mcq",
+        "widget_type": "response",
+        "reference": "8d04af3c-086c-4858-8aea-11213d20b800",
+        "data": {
+          "multiple_responses": true,
+          "options": [
+            {
+              "label": "<span style=\"font-size:1.1em;\">He is very successful</span>",
+              "value": "0"
+            },
+            {
+              "label": "<span style=\"font-size:1.1em;\">He is very fun and creative</span>",
+              "value": "1"
+            },
+            {
+              "label": "<span style=\"font-size:1.1em;\">His competition is severe</span>",
+              "value": "2"
+            },
+            {
+              "label": "<span style=\"font-size:1.1em;\">Virgin is as well-known as Coca-Cola</span>",
+              "value": "3"
+            }
+          ],
+          "stimulus": "<h2>&nbsp;</h2>\n\n<h2><span style=\"color:#0000cd;\"><b>Question 3 – Examples of Entrepreneurs.&nbsp;</b></span></h2>\n\n<h4><b>3.1. Richard Branson. According to the lecturer… (choose TWO correct options)</b></h4>\n",
+          "type": "mcq",
+          "validation": {
+            "scoring_type": "partialMatchV2",
+            "valid_response": {
+              "score": 2,
+              "value": [
+                "0",
+                "1"
+              ]
+            }
+          },
+          "ui_style": {
+            "type": "horizontal"
+          }
+        },
+        "metadata": {
+          "name": "Multiple choice – multiple response",
+          "template_reference": "908de244-5c71-4c09-b094-7fb49554f2f9"
+        }
+      },
+      "feedbackInfo": [
+        {
+          "id": "0707_26f17ed6-8e3a-4817-9bf3-d158ea562724_4bbb443e-97fc-4027-86ab-b0686404f52f_e041110d588fe1aaaac4d485971968f0",
+          "user_id": "26f17ed6-8e3a-4817-9bf3-d158ea562724",
+          "response_id": "4bbb443e-97fc-4027-86ab-b0686404f52f_e041110d588fe1aaaac4d485971968f0",
+          "type": "longtextV2",
+          "question": {
+            "type": "longtextV2",
+            "metadata": {
+              "source": {
+                "organisation_id": 755
+              },
+              "sheet_reference": "default_feedback",
+              "widget_reference": "de082b5f-742a-4ecf-82ca-4dc86e218fec",
+              "valid_response_count": 0
+            },
+            "stimulus": "Written feedback:",
+            "response_id": "4bbb443e-97fc-4027-86ab-b0686404f52f_e041110d588fe1aaaac4d485971968f0",
+            "show_word_count": false,
+            "show_word_limit": "off"
+          },
+          "response": null,
+          "creation_date": "2021-12-06 13:40:12",
+          "mod_date": "2021-12-06 13:40:12",
+          "persist_until": "2021-12-07 13:40:12",
+          "saved": false
+        },
+        null
+      ]
+    },
+    {
+      "response_id": "4bbb443e-97fc-4027-86ab-b0686404f52f_90761eeba38864e0edca8f0c75467714",
+      "question_type": "mcq",
+      "dt_score_updated": "2021-11-30T11:49:59Z",
+      "automarkable": true,
+      "attempted": true,
+      "score": 1,
+      "max_score": 2,
+      "question_reference": "303f43b4-9616-41f2-aba9-e6978f1d4367",
+      "item_reference": "26bbc47a-dd6d-4cf6-9773-639c05b9eb2a",
+      "response": {
+        "value": [
+          "1",
+          "2"
+        ],
+        "type": "array",
+        "apiVersion": "v2.168.13",
+        "revision": 3
+      },
+      "questionInfo": {
+        "type": "mcq",
+        "widget_type": "response",
+        "reference": "303f43b4-9616-41f2-aba9-e6978f1d4367",
+        "data": {
+          "multiple_responses": true,
+          "options": [
+            {
+              "label": "<span style=\"font-size:1.1em;\">She’s not as famous as Richard Branson</span>",
+              "value": "0"
+            },
+            {
+              "label": "<span style=\"font-size:1.1em;\">She’s a musician and a dancer</span>",
+              "value": "1"
+            },
+            {
+              "label": "<span style=\"font-size:1.1em;\">Her idea has become global</span>",
+              "value": "2"
+            },
+            {
+              "label": "<span style=\"font-size:1.1em;\">Her ideas didn’t have huge commercial success</span>",
+              "value": "3"
+            }
+          ],
+          "stimulus": "<h4 id=\"yui_3_17_2_1_1631708345125_179\"><b>3.2&nbsp; Maya Doherty. According to the lecturer… (choose TWO correct options)</b></h4>\n",
+          "type": "mcq",
+          "validation": {
+            "scoring_type": "partialMatchV2",
+            "valid_response": {
+              "score": 2,
+              "value": [
+                "0",
+                "2"
+              ]
+            }
+          },
+          "ui_style": {
+            "type": "horizontal"
+          }
+        },
+        "metadata": {
+          "name": "Multiple choice – multiple response",
+          "template_reference": "908de244-5c71-4c09-b094-7fb49554f2f9"
+        }
+      },
+      "feedbackInfo": [
+        {
+          "id": "0707_26f17ed6-8e3a-4817-9bf3-d158ea562724_4bbb443e-97fc-4027-86ab-b0686404f52f_157eff34b560840ebe0520b6d617b402",
+          "user_id": "26f17ed6-8e3a-4817-9bf3-d158ea562724",
+          "response_id": "4bbb443e-97fc-4027-86ab-b0686404f52f_157eff34b560840ebe0520b6d617b402",
+          "type": "longtextV2",
+          "question": {
+            "type": "longtextV2",
+            "metadata": {
+              "source": {
+                "organisation_id": 755
+              },
+              "sheet_reference": "default_feedback",
+              "widget_reference": "de082b5f-742a-4ecf-82ca-4dc86e218fec",
+              "valid_response_count": 0
+            },
+            "stimulus": "Written feedback:",
+            "response_id": "4bbb443e-97fc-4027-86ab-b0686404f52f_157eff34b560840ebe0520b6d617b402",
+            "show_word_count": false,
+            "show_word_limit": "off"
+          },
+          "response": null,
+          "creation_date": "2021-12-06 13:40:12",
+          "mod_date": "2021-12-06 13:40:12",
+          "persist_until": "2021-12-07 13:40:12",
+          "saved": false
+        },
+        null
+      ]
+    },
+    {
+      "response_id": "4bbb443e-97fc-4027-86ab-b0686404f52f_1bb548455dd81fc1b47027bf97e3660a",
+      "question_type": "clozeassociation",
+      "dt_score_updated": "2021-11-30T12:11:44Z",
+      "automarkable": true,
+      "attempted": true,
+      "score": 5,
+      "max_score": 5,
+      "question_reference": "1593b176-255f-4f93-9d19-b831c6da7dd7",
+      "item_reference": "26bbc47a-dd6d-4cf6-9773-639c05b9eb2a",
+      "response": {
+        "value": [
+          "profits",
+          "higher",
+          "opportunities",
+          "return",
+          "financial"
+        ],
+        "type": "array",
+        "apiVersion": "v2.168.13",
+        "revision": 11
+      },
+      "questionInfo": {
+        "type": "clozeassociation",
+        "widget_type": "response",
+        "reference": "1593b176-255f-4f93-9d19-b831c6da7dd7",
+        "data": {
+          "possible_responses": [
+            "profits",
+            "higher",
+            "opportunities",
+            "return",
+            "financial",
+            "better",
+            "disadvantages",
+            "deposit",
+            "substantial",
+            "concern"
+          ],
+          "response_container": {
+            "pointer": "left"
+          },
+          "stimulus": "<h2>&nbsp;</h2>\n\n<h2><span style=\"color:#0000cd;\"><b>Question 4 - New Business Models</b></span></h2>\n\n<h4><b>Complete the summary. Select the correct word from.&nbsp;</b></h4>\n\n<p>&nbsp;</p>\n",
+          "template": "<p style=\"margin-left: 40px;\"><span style=\"font-size:1.3em;\">Entrepreneurs design new business models – the way they make&nbsp;</span><span style=\"font-size:0.9em;\">{{response}}</span><span style=\"font-size:1.3em;\">&nbsp;So in the existing business that they operate, for example the electronic of software sector, they are constantly looking for new ways of finding a&nbsp;</span><span style=\"font-size:0.9em;\">{{response}}</span><span style=\"font-size:1.3em;\">&nbsp; profitability model. So when they are looking for new business&nbsp;</span><span style=\"font-size:0.9em;\">{{response}}</span><span style=\"font-size:1.3em;\">&nbsp;, they want to shift from a 15% profitability model to perhaps 20%. But it’s not all about profit. They might also look for a&nbsp;</span><span style=\"font-size:0.9em;\">{{response}}</span><span style=\"font-size:1.3em;\">&nbsp;on investment and&nbsp;</span><span style=\"font-size:0.9em;\">{{response}}</span><span style=\"font-size:1.3em;\">&nbsp; profitability, however that is measured.</span></p>\n",
+          "type": "clozeassociation",
+          "case_sensitive": true,
+          "validation": {
+            "scoring_type": "partialMatchV2",
+            "valid_response": {
+              "score": 5,
+              "value": [
+                "profits",
+                "higher",
+                "opportunities",
+                "return",
+                "financial"
+              ]
+            }
+          },
+          "shuffle_options": true
+        },
+        "metadata": {
+          "name": "Cloze with drag & drop",
+          "template_reference": "51a8c1e7-f34f-4faf-b211-da458e891fcb"
+        }
+      },
+      "feedbackInfo": [
+        {
+          "id": "0707_26f17ed6-8e3a-4817-9bf3-d158ea562724_4bbb443e-97fc-4027-86ab-b0686404f52f_1cf0d9a84bf58be28c5c52dc089d51d3",
+          "user_id": "26f17ed6-8e3a-4817-9bf3-d158ea562724",
+          "response_id": "4bbb443e-97fc-4027-86ab-b0686404f52f_1cf0d9a84bf58be28c5c52dc089d51d3",
+          "type": "longtextV2",
+          "question": {
+            "type": "longtextV2",
+            "metadata": {
+              "source": {
+                "organisation_id": 755
+              },
+              "sheet_reference": "default_feedback",
+              "widget_reference": "de082b5f-742a-4ecf-82ca-4dc86e218fec",
+              "valid_response_count": 0
+            },
+            "stimulus": "Written feedback:",
+            "response_id": "4bbb443e-97fc-4027-86ab-b0686404f52f_1cf0d9a84bf58be28c5c52dc089d51d3",
+            "show_word_count": false,
+            "show_word_limit": "off"
+          },
+          "response": null,
+          "creation_date": "2021-12-06 13:40:12",
+          "mod_date": "2021-12-06 13:40:12",
+          "persist_until": "2021-12-07 13:40:12",
+          "saved": false
+        },
+        null
+      ]
+    },
+    {
+      "response_id": "4bbb443e-97fc-4027-86ab-b0686404f52f_240af9b5375609717498af15f3e3403c",
+      "question_type": "clozedropdown",
+      "dt_score_updated": "2021-11-30T12:07:41Z",
+      "automarkable": true,
+      "attempted": true,
+      "score": 5,
+      "max_score": 8,
+      "question_reference": "df898b64-29a9-4466-abc9-1001de3f3984",
+      "item_reference": "26bbc47a-dd6d-4cf6-9773-639c05b9eb2a",
+      "response": {
+        "value": [
+          "False",
+          "False",
+          "True",
+          "False",
+          "True",
+          "False",
+          "True",
+          "True"
+        ],
+        "type": "array",
+        "apiVersion": "v2.168.13",
+        "revision": 8
+      },
+      "questionInfo": {
+        "type": "clozedropdown",
+        "widget_type": "response",
+        "reference": "df898b64-29a9-4466-abc9-1001de3f3984",
+        "data": {
+          "possible_responses": [
+            [
+              "True",
+              "False",
+              "Not given"
+            ],
+            [
+              "True",
+              "False",
+              "Not given"
+            ],
+            [
+              "True",
+              "False",
+              "Not given"
+            ],
+            [
+              "True",
+              "False",
+              "Not given"
+            ],
+            [
+              "True",
+              "False",
+              "Not given"
+            ],
+            [
+              "True",
+              "False",
+              "Not given"
+            ],
+            [
+              "True",
+              "False",
+              "Not given"
+            ],
+            [
+              "True",
+              "False",
+              "Not given"
+            ]
+          ],
+          "response_container": {
+            "pointer": "left"
+          },
+          "stimulus": "<h2>&nbsp;</h2>\n\n<h2><span style=\"color:#0000cd;\"><b>Question&nbsp;</b><b>5 – Opportunities with Discipline.&nbsp;</b></span></h2>\n\n<h4><b>For each statement, choose True / False / Not Given from the drop down.</b></h4>\n",
+          "template": "<h5 id=\"yui_3_17_2_1_1631710082997_191\" style=\"margin-left: 40px;\">a)&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Entrepreneurs follow every idea they come up with.&nbsp;{{response}}&nbsp;</h5>\n\n<h5 style=\"margin-left: 40px;\">b)&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Only famous entrepreneurs have nearly unlimited resources.&nbsp;{{response}}&nbsp;</h5>\n\n<h5 style=\"margin-left: 40px;\">c)&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Entrepreneurs are selective in the business they invest in.&nbsp;{{response}}</h5>\n\n<h5 style=\"margin-left: 40px;\">d)&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Entrepreneurs never give up their ideas.<b>&nbsp;</b>{{response}}</h5>\n\n<h5 style=\"margin-left: 40px;\">e)&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Entrepreneurs focus on diversifying the overall strategy for the business.&nbsp;{{response}}</h5>\n\n<h5 style=\"margin-left: 40px;\">f)&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Nokia Corporation don’t have clear divisions within their organisation.&nbsp;{{response}}<b>&nbsp;</b>&nbsp;</h5>\n\n<h5 style=\"margin-left: 40px;\">g)&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Nokia Corporation are successful because of entrepreneurial thinking.&nbsp;{{response}}</h5>\n\n<h5 style=\"margin-left: 40px;\">h)&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Nokia Corporation keep focussed on areas that are of interest to the business.&nbsp;{{response}}</h5>\n",
+          "type": "clozedropdown",
+          "case_sensitive": true,
+          "validation": {
+            "scoring_type": "partialMatchV2",
+            "valid_response": {
+              "score": 8,
+              "value": [
+                "False",
+                "Not given",
+                "True",
+                "False",
+                "False",
+                "False",
+                "False",
+                "True"
+              ]
+            }
+          }
+        },
+        "metadata": {
+          "name": "Cloze with drop down",
+          "template_reference": "2fbba51b-e35e-441f-83c7-2662e2e81fa6"
+        }
+      },
+      "feedbackInfo": [
+        {
+          "id": "0707_26f17ed6-8e3a-4817-9bf3-d158ea562724_4bbb443e-97fc-4027-86ab-b0686404f52f_ec7c470ebd2d21417f53bacbd92b0a83",
+          "user_id": "26f17ed6-8e3a-4817-9bf3-d158ea562724",
+          "response_id": "4bbb443e-97fc-4027-86ab-b0686404f52f_ec7c470ebd2d21417f53bacbd92b0a83",
+          "type": "longtextV2",
+          "question": {
+            "type": "longtextV2",
+            "metadata": {
+              "source": {
+                "organisation_id": 755
+              },
+              "sheet_reference": "default_feedback",
+              "widget_reference": "de082b5f-742a-4ecf-82ca-4dc86e218fec",
+              "valid_response_count": 0
+            },
+            "stimulus": "Written feedback:",
+            "response_id": "4bbb443e-97fc-4027-86ab-b0686404f52f_ec7c470ebd2d21417f53bacbd92b0a83",
+            "show_word_count": false,
+            "show_word_limit": "off"
+          },
+          "response": null,
+          "creation_date": "2021-12-06 13:40:13",
+          "mod_date": "2021-12-06 13:40:13",
+          "persist_until": "2021-12-07 13:40:13",
+          "saved": false
+        },
+        null
+      ]
+    }
+  ]
+}

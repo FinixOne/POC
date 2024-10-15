@@ -1,0 +1,2014 @@
+{
+  "userId": "9af8e627-6116-4d11-9526-1978275086ca",
+  "firstName": "Yuhang",
+  "lastName": "Yang",
+  "assigmentId": "d7da02bd-8583-48a9-9cf7-5c6dcc3706f7",
+  "assigmentName": "Reflective Writing",
+  "sessionId": "6c3c0e48-0629-4c82-b2a3-7a6f8d4bfecd",
+  "email": "yangy159@coventry.ac.uk",
+  "spaceId": "eccb3434-e130-4250-b8cd-8ba714fcec86",
+  "spaceName": "(Community) Presessional English (PSE London)",
+  "score": 31,
+  "max_score": 55,
+  "questions": [
+    {
+      "response_id": "6c3c0e48-0629-4c82-b2a3-7a6f8d4bfecd_617dfcedf648387101672a27e49e9403",
+      "question_type": "choicematrix",
+      "dt_score_updated": "2022-11-02T08:24:03Z",
+      "automarkable": true,
+      "attempted": true,
+      "score": 1,
+      "max_score": 6,
+      "question_reference": "615fc23c-213a-4370-996e-df678c5eb744",
+      "item_reference": "dc7c4dde-2f02-47e5-99aa-4f0cc69e478e",
+      "response": {
+        "value": [
+          [
+            1
+          ],
+          [
+            0
+          ],
+          [
+            0
+          ],
+          [
+            1
+          ],
+          [
+            0
+          ],
+          [
+            0
+          ]
+        ],
+        "type": "array",
+        "apiVersion": "v2.168.23",
+        "revision": 3
+      },
+      "questionInfo": {
+        "type": "choicematrix",
+        "widget_type": "response",
+        "reference": "615fc23c-213a-4370-996e-df678c5eb744",
+        "data": {
+          "options": [
+            "<span style=\"color:#0000ff;\"><strong>Reflective Writing</strong></span>",
+            "<span style=\"color:#008000;\"><strong>General Academic Writing</strong></span>"
+          ],
+          "stems": [
+            "Mainly talks about your personal experiences",
+            "Includes a lot of research and references",
+            "Includes more facts",
+            "Includes more opinions",
+            "Includes personal language&nbsp;(I / me / we ...)",
+            "Does NOT use personal language (I / me / we ...)"
+          ],
+          "stimulus": "<h2><img height=\"168\" src=\"https://assets.learnosity.com/organisations/755/95d8f5d3-bbf0-4b10-a64e-66a6c7e078f7.png\" width=\"449\"></h2>\n\n<h2><strong>Let's start by comparing <span style=\"color:#0000cd;\">Reflective Writing</span> with other kinds of<span style=\"color:#008000;\"> Academic Writing</span>...</strong></h2>\n\n<ul>\n\t<li>\n\t<h4>Analyse&nbsp;the table below and decide if the statements describe<span style=\"color:#0000ff;\"> Reflective Writing</span> or <span style=\"color:#008000;\">General Academic Writing</span></h4>\n\t</li>\n</ul>\n\n<p>&nbsp;</p>\n",
+          "type": "choicematrix",
+          "validation": {
+            "scoring_type": "partialMatchV2",
+            "valid_response": {
+              "score": 6,
+              "value": [
+                [
+                  0
+                ],
+                [
+                  1
+                ],
+                [
+                  1
+                ],
+                [
+                  0
+                ],
+                [
+                  0
+                ],
+                [
+                  1
+                ]
+              ]
+            }
+          },
+          "ui_style": {
+            "type": "table",
+            "horizontal_lines": false
+          },
+          "instant_feedback": true,
+          "feedback_attempts": 4
+        },
+        "metadata": {
+          "name": "Choice matrix – standard",
+          "template_reference": "14b7af71-e146-4747-aae5-ca71618a5038"
+        }
+      },
+      "feedbackInfo": [
+        {
+          "id": "0707_9af8e627-6116-4d11-9526-1978275086ca_6c3c0e48-0629-4c82-b2a3-7a6f8d4bfecd_3606ed9b572710e9b7aec7a5a51e5ba0",
+          "user_id": "9af8e627-6116-4d11-9526-1978275086ca",
+          "response_id": "6c3c0e48-0629-4c82-b2a3-7a6f8d4bfecd_3606ed9b572710e9b7aec7a5a51e5ba0",
+          "type": "longtextV2",
+          "question": {
+            "type": "longtextV2",
+            "metadata": {
+              "source": {
+                "organisation_id": 755
+              },
+              "sheet_reference": "default_feedback",
+              "widget_reference": "de082b5f-742a-4ecf-82ca-4dc86e218fec",
+              "valid_response_count": 0
+            },
+            "stimulus": "Written feedback:",
+            "response_id": "6c3c0e48-0629-4c82-b2a3-7a6f8d4bfecd_3606ed9b572710e9b7aec7a5a51e5ba0",
+            "show_word_count": false,
+            "show_word_limit": "off"
+          },
+          "response": null,
+          "creation_date": "2023-06-02 11:06:50",
+          "mod_date": "2023-06-02 11:06:50",
+          "persist_until": "2023-06-03 11:06:50",
+          "saved": false
+        },
+        {
+          "id": "0707_9af8e627-6116-4d11-9526-1978275086ca_6c3c0e48-0629-4c82-b2a3-7a6f8d4bfecd_c34ac73a1a371a76839681c46f8f5a4a",
+          "user_id": "9af8e627-6116-4d11-9526-1978275086ca",
+          "response_id": "6c3c0e48-0629-4c82-b2a3-7a6f8d4bfecd_c34ac73a1a371a76839681c46f8f5a4a",
+          "type": "audio",
+          "question": {
+            "type": "audio",
+            "metadata": {
+              "source": {
+                "organisation_id": 755
+              },
+              "sheet_reference": "default_feedback",
+              "widget_reference": "b2f049b4-bb33-4542-993d-0645ffedda1a",
+              "valid_response_count": 0
+            },
+            "stimulus": "Audio feedback:",
+            "ui_style": {
+              "type": "button"
+            },
+            "max_length": 600,
+            "response_id": "6c3c0e48-0629-4c82-b2a3-7a6f8d4bfecd_c34ac73a1a371a76839681c46f8f5a4a"
+          },
+          "response": null,
+          "creation_date": "2023-06-02 11:06:50",
+          "mod_date": "2023-06-02 11:06:50",
+          "persist_until": "2023-06-03 11:06:50",
+          "saved": false
+        }
+      ]
+    },
+    {
+      "response_id": "6c3c0e48-0629-4c82-b2a3-7a6f8d4bfecd_9a6d814e59656ceb8721261643bdd39d",
+      "question_type": "clozeassociation",
+      "dt_score_updated": "2022-11-02T08:25:42Z",
+      "automarkable": true,
+      "attempted": true,
+      "score": 3,
+      "max_score": 3,
+      "question_reference": "ffe1db86-c579-4ebf-ac93-1f714c1c2777",
+      "item_reference": "dc7c4dde-2f02-47e5-99aa-4f0cc69e478e",
+      "response": {
+        "value": [
+          "Description",
+          "Interpretation",
+          "Outcome"
+        ],
+        "type": "array",
+        "apiVersion": "v2.168.23",
+        "revision": 2,
+        "feedbackAttemptsCount": 1
+      },
+      "questionInfo": {
+        "type": "clozeassociation",
+        "widget_type": "response",
+        "reference": "ffe1db86-c579-4ebf-ac93-1f714c1c2777",
+        "data": {
+          "possible_responses": [
+            "Description",
+            "Interpretation",
+            "Outcome"
+          ],
+          "response_container": {
+            "pointer": "left"
+          },
+          "stimulus": "<h3>&nbsp;</h3>\n\n<p>&nbsp;</p>\n\n<h3><img height=\"186\" src=\"https://assets.learnosity.com/organisations/755/740e2abc-7cf7-488a-8c96-db0c4a97a601.png\" width=\"450\"></h3>\n\n<h2><strong>In today's lesson you talked about the <span style=\"color:#0000ff;\">stages </span>of reflective writing.</strong></h2>\n\n<ul>\n\t<li>\n\t<h4>Match the definition&nbsp;with the stages below.</h4>\n\t</li>\n</ul>\n\n<p>&nbsp;</p>\n",
+          "template": "<p><span style=\"color:#ff8c00;\"><strong><span style=\"font-size:1.3em;\">1. Looking back at something</span></strong></span></p>\n\n<ul>\n\t<li><span style=\"font-size:1.1em;\">Think about what you are discussing: what happened? How&nbsp;did it happen? </span></li>\n\t<li><span style=\"font-size:1.1em;\">This stage is the&nbsp;</span>{{response}}</li>\n</ul>\n\n<p><span style=\"color:#008000;\"><strong><span style=\"font-size:1.3em;\">2. Analysing the event or idea</span></strong></span></p>\n\n<ul>\n\t<li><span style=\"font-size:1.1em;\">What’s the most important / interesting / useful parts of the project or event? Can it be explained (e.g. with theory)? </span></li>\n\t<li><span style=\"font-size:1.1em;\">This stage is the&nbsp;{{response}}</span></li>\n</ul>\n\n<p><span style=\"color:#800080;\"><span style=\"font-size:1.3em;\"><strong>3. Carefully consider the results</strong></span></span></p>\n\n<ul>\n\t<li><span style=\"font-size:1.1em;\">What did you learn from this? What does this mean for your future approach? </span></li>\n\t<li><span style=\"font-size:1.1em;\">This stage is the&nbsp;{{response}}</span></li>\n</ul>\n",
+          "type": "clozeassociation",
+          "case_sensitive": true,
+          "validation": {
+            "scoring_type": "partialMatchV2",
+            "valid_response": {
+              "score": 3,
+              "value": [
+                "Description",
+                "Interpretation",
+                "Outcome"
+              ]
+            }
+          },
+          "instant_feedback": true,
+          "shuffle_options": true,
+          "feedback_attempts": 4
+        },
+        "metadata": {
+          "name": "Cloze with drag & drop",
+          "template_reference": "51a8c1e7-f34f-4faf-b211-da458e891fcb"
+        }
+      },
+      "feedbackInfo": [
+        {
+          "id": "0707_9af8e627-6116-4d11-9526-1978275086ca_6c3c0e48-0629-4c82-b2a3-7a6f8d4bfecd_6908e2f854052125ca5e8bd81ce3d39b",
+          "user_id": "9af8e627-6116-4d11-9526-1978275086ca",
+          "response_id": "6c3c0e48-0629-4c82-b2a3-7a6f8d4bfecd_6908e2f854052125ca5e8bd81ce3d39b",
+          "type": "longtextV2",
+          "question": {
+            "type": "longtextV2",
+            "metadata": {
+              "source": {
+                "organisation_id": 755
+              },
+              "sheet_reference": "default_feedback",
+              "widget_reference": "de082b5f-742a-4ecf-82ca-4dc86e218fec",
+              "valid_response_count": 0
+            },
+            "stimulus": "Written feedback:",
+            "response_id": "6c3c0e48-0629-4c82-b2a3-7a6f8d4bfecd_6908e2f854052125ca5e8bd81ce3d39b",
+            "show_word_count": false,
+            "show_word_limit": "off"
+          },
+          "response": null,
+          "creation_date": "2023-06-02 11:06:50",
+          "mod_date": "2023-06-02 11:06:50",
+          "persist_until": "2023-06-03 11:06:50",
+          "saved": false
+        },
+        {
+          "id": "0707_9af8e627-6116-4d11-9526-1978275086ca_6c3c0e48-0629-4c82-b2a3-7a6f8d4bfecd_ed94ed258c74db11bf6c2e40c2d04b67",
+          "user_id": "9af8e627-6116-4d11-9526-1978275086ca",
+          "response_id": "6c3c0e48-0629-4c82-b2a3-7a6f8d4bfecd_ed94ed258c74db11bf6c2e40c2d04b67",
+          "type": "audio",
+          "question": {
+            "type": "audio",
+            "metadata": {
+              "source": {
+                "organisation_id": 755
+              },
+              "sheet_reference": "default_feedback",
+              "widget_reference": "b2f049b4-bb33-4542-993d-0645ffedda1a",
+              "valid_response_count": 0
+            },
+            "stimulus": "Audio feedback:",
+            "ui_style": {
+              "type": "button"
+            },
+            "max_length": 600,
+            "response_id": "6c3c0e48-0629-4c82-b2a3-7a6f8d4bfecd_ed94ed258c74db11bf6c2e40c2d04b67"
+          },
+          "response": null,
+          "creation_date": "2023-06-02 11:06:50",
+          "mod_date": "2023-06-02 11:06:50",
+          "persist_until": "2023-06-03 11:06:50",
+          "saved": false
+        }
+      ]
+    },
+    {
+      "response_id": "6c3c0e48-0629-4c82-b2a3-7a6f8d4bfecd_5ae386a610fd080f733b5f16fce7987e",
+      "question_type": "clozedropdown",
+      "dt_score_updated": "2022-11-02T08:28:18Z",
+      "automarkable": true,
+      "attempted": true,
+      "score": 1,
+      "max_score": 1,
+      "question_reference": "c74823f9-0abe-46d1-a60f-5db792c018a8",
+      "item_reference": "af852348-61f6-4b42-9e66-bcc4f08d4897",
+      "response": {
+        "value": [
+          "short",
+          "factual",
+          "direct",
+          "past simple",
+          "shortest",
+          "only one main idea",
+          "get to the point"
+        ],
+        "type": "array",
+        "apiVersion": "v2.168.23",
+        "revision": 6,
+        "feedbackAttemptsCount": 1
+      },
+      "questionInfo": {
+        "type": "clozedropdown",
+        "widget_type": "response",
+        "reference": "c74823f9-0abe-46d1-a60f-5db792c018a8",
+        "data": {
+          "possible_responses": [
+            [
+              "short",
+              "long"
+            ],
+            [
+              "factual",
+              "opinion-based"
+            ],
+            [
+              "direct",
+              "subjective"
+            ],
+            [
+              "past simple",
+              "present simple"
+            ],
+            [
+              "shortest",
+              "longest"
+            ],
+            [
+              "only one main idea",
+              "several main ideas"
+            ],
+            [
+              "get to the point",
+              "talk for long time"
+            ]
+          ],
+          "response_container": {
+            "pointer": "left"
+          },
+          "stimulus": "<h2>&nbsp;</h2>\n\n<h2>&nbsp;</h2>\n\n\n<img height=\"200\" src=\"https://assets.learnosity.com/organisations/755/3d151491-3585-41bf-ae7b-504470cd76f7.png\" width=\"435\">\n<h2><strong>How to write the&nbsp;<span style=\"color:#ff8c00;\">description </span>stage.</strong></h2>\n\n<ul>\n\t<li>\n\t<h4>Choose the correct word to complete the paragraph.</h4>\n\t</li>\n</ul>",
+          "template": "<p><span style=\"font-size:1.3em;\">When writing the <span style=\"color:#ff8c00;\"><strong><u>description</u> </strong></span>section of your reflective writing task you must keep your point&nbsp;</span><span style=\"font-size:1em;\">{{response}}</span><span style=\"font-size:1.3em;\">,&nbsp;&nbsp;</span><span style=\"font-size:1em;\">{{response}}</span><span style=\"font-size:1.3em;\">&nbsp;and&nbsp;</span><span style=\"font-size:1em;\">{{response}}</span><span style=\"font-size:1.3em;\">.<br>\nYou should also describe events or actions that happened using verbs in the&nbsp;</span><span style=\"font-size:1em;\">{{response}}</span><span style=\"font-size:1.3em;\">. </span></p>\n\n<p><span style=\"font-size:1.3em;\">As this section is the&nbsp;</span><span style=\"font-size:1em;\">{{response}}</span><span style=\"font-size:1.3em;\">&nbsp;section, you should describe&nbsp;</span><span style=\"font-size:1em;\">{{response}}</span><span style=\"font-size:1.3em;\">&nbsp;to make sure that&nbsp;you&nbsp;</span><span style=\"font-size:1em;\">{{response}}</span><span style=\"font-size:1.3em;\">!</span></p>\n",
+          "type": "clozedropdown",
+          "case_sensitive": true,
+          "validation": {
+            "scoring_type": "exactMatch",
+            "valid_response": {
+              "score": 1,
+              "value": [
+                "short",
+                "factual",
+                "direct",
+                "past simple",
+                "shortest",
+                "only one main idea",
+                "get to the point"
+              ]
+            }
+          },
+          "feedback_attempts": 4,
+          "instant_feedback": true
+        },
+        "metadata": {
+          "name": "Cloze with drop down",
+          "template_reference": "2fbba51b-e35e-441f-83c7-2662e2e81fa6"
+        }
+      },
+      "feedbackInfo": [
+        {
+          "id": "0707_9af8e627-6116-4d11-9526-1978275086ca_6c3c0e48-0629-4c82-b2a3-7a6f8d4bfecd_6233823ca9911707c519bb66d8f895a8",
+          "user_id": "9af8e627-6116-4d11-9526-1978275086ca",
+          "response_id": "6c3c0e48-0629-4c82-b2a3-7a6f8d4bfecd_6233823ca9911707c519bb66d8f895a8",
+          "type": "longtextV2",
+          "question": {
+            "type": "longtextV2",
+            "metadata": {
+              "source": {
+                "organisation_id": 755
+              },
+              "sheet_reference": "default_feedback",
+              "widget_reference": "de082b5f-742a-4ecf-82ca-4dc86e218fec",
+              "valid_response_count": 0
+            },
+            "stimulus": "Written feedback:",
+            "response_id": "6c3c0e48-0629-4c82-b2a3-7a6f8d4bfecd_6233823ca9911707c519bb66d8f895a8",
+            "show_word_count": false,
+            "show_word_limit": "off"
+          },
+          "response": null,
+          "creation_date": "2023-06-02 11:06:51",
+          "mod_date": "2023-06-02 11:06:51",
+          "persist_until": "2023-06-03 11:06:51",
+          "saved": false
+        },
+        {
+          "id": "0707_9af8e627-6116-4d11-9526-1978275086ca_6c3c0e48-0629-4c82-b2a3-7a6f8d4bfecd_182062976d8cfc67ecfbe8f630a8db44",
+          "user_id": "9af8e627-6116-4d11-9526-1978275086ca",
+          "response_id": "6c3c0e48-0629-4c82-b2a3-7a6f8d4bfecd_182062976d8cfc67ecfbe8f630a8db44",
+          "type": "audio",
+          "question": {
+            "type": "audio",
+            "metadata": {
+              "source": {
+                "organisation_id": 755
+              },
+              "sheet_reference": "default_feedback",
+              "widget_reference": "b2f049b4-bb33-4542-993d-0645ffedda1a",
+              "valid_response_count": 0
+            },
+            "stimulus": "Audio feedback:",
+            "ui_style": {
+              "type": "button"
+            },
+            "max_length": 600,
+            "response_id": "6c3c0e48-0629-4c82-b2a3-7a6f8d4bfecd_182062976d8cfc67ecfbe8f630a8db44"
+          },
+          "response": null,
+          "creation_date": "2023-06-02 11:06:51",
+          "mod_date": "2023-06-02 11:06:51",
+          "persist_until": "2023-06-03 11:06:51",
+          "saved": false
+        }
+      ]
+    },
+    {
+      "response_id": "6c3c0e48-0629-4c82-b2a3-7a6f8d4bfecd_49a93cb1351323da07e172e9910c28ce",
+      "question_type": "clozetext",
+      "dt_score_updated": "2022-11-02T08:32:22Z",
+      "automarkable": true,
+      "attempted": true,
+      "score": 4,
+      "max_score": 5,
+      "question_reference": "0739711f-17a9-4b22-9d21-c12aa523a4a2",
+      "item_reference": "af852348-61f6-4b42-9e66-bcc4f08d4897",
+      "response": {
+        "value": [
+          "spent",
+          "found",
+          "resulted",
+          "completed",
+          "benefitted"
+        ],
+        "type": "array",
+        "apiVersion": "v2.168.23",
+        "revision": 5,
+        "feedbackAttemptsCount": 4
+      },
+      "questionInfo": {
+        "type": "clozetext",
+        "widget_type": "response",
+        "reference": "0739711f-17a9-4b22-9d21-c12aa523a4a2",
+        "data": {
+          "stimulus": "<h2>&nbsp;</h2>\n\n<h2>&nbsp;</h2>\n\n\n<img class=\"lrn-image-left\" height=\"150\" src=\"https://assets.learnosity.com/organisations/755/f8f0d362-573e-4409-a08b-473cde25f5e2.png\" width=\"300\">\n<h2><span style=\"color:#ff8c00;\"><b>PAST SIMPLE</b></span></h2>\n\n<h4>Read the examples of&nbsp;<span style=\"color:#ff8c00;\"><b>descriptive&nbsp;</b></span>sentences below.<br>\nComplete with a verb in the past simple.&nbsp;</h4>\n\n<p>&nbsp;</p>",
+          "template": "<p>1. This week I&nbsp;{{response}}&nbsp;(SPEND) a long time completing my To Do list.</p>\n\n<p>2. I &nbsp;{{response}}&nbsp;(FIND) the reflective writing task challenging this week.</p>\n\n<p>3. The most important learning&nbsp;{{response}}&nbsp;(RESULT) from Tuesday’s reading task</p>\n\n<p>4. I&nbsp;{{response}}&nbsp;(COMPLETE) this week’s portfolio effectively and therefore would score it 8/10</p>\n\n<p>5. I&nbsp;{{response}}&nbsp;(BENEFIT) most from planning my tasks much more carefully this week.</p>\n",
+          "type": "clozetext",
+          "validation": {
+            "scoring_type": "partialMatchV2",
+            "valid_response": {
+              "score": 5,
+              "value": [
+                "spent",
+                "found",
+                "resulted",
+                "completed",
+                "benefited"
+              ]
+            }
+          },
+          "feedback_attempts": 4,
+          "instant_feedback": true
+        },
+        "metadata": {
+          "name": "Cloze with text",
+          "template_reference": "457fe101-0667-4a35-b193-b849653acb52"
+        }
+      },
+      "feedbackInfo": [
+        {
+          "id": "0707_9af8e627-6116-4d11-9526-1978275086ca_6c3c0e48-0629-4c82-b2a3-7a6f8d4bfecd_050ae1b8896e337122b287b40ab57e91",
+          "user_id": "9af8e627-6116-4d11-9526-1978275086ca",
+          "response_id": "6c3c0e48-0629-4c82-b2a3-7a6f8d4bfecd_050ae1b8896e337122b287b40ab57e91",
+          "type": "longtextV2",
+          "question": {
+            "type": "longtextV2",
+            "metadata": {
+              "source": {
+                "organisation_id": 755
+              },
+              "sheet_reference": "default_feedback",
+              "widget_reference": "de082b5f-742a-4ecf-82ca-4dc86e218fec",
+              "valid_response_count": 0
+            },
+            "stimulus": "Written feedback:",
+            "response_id": "6c3c0e48-0629-4c82-b2a3-7a6f8d4bfecd_050ae1b8896e337122b287b40ab57e91",
+            "show_word_count": false,
+            "show_word_limit": "off"
+          },
+          "response": null,
+          "creation_date": "2023-06-02 11:06:51",
+          "mod_date": "2023-06-02 11:06:51",
+          "persist_until": "2023-06-03 11:06:51",
+          "saved": false
+        },
+        {
+          "id": "0707_9af8e627-6116-4d11-9526-1978275086ca_6c3c0e48-0629-4c82-b2a3-7a6f8d4bfecd_b498e218f696913498bc14884d41482f",
+          "user_id": "9af8e627-6116-4d11-9526-1978275086ca",
+          "response_id": "6c3c0e48-0629-4c82-b2a3-7a6f8d4bfecd_b498e218f696913498bc14884d41482f",
+          "type": "audio",
+          "question": {
+            "type": "audio",
+            "metadata": {
+              "source": {
+                "organisation_id": 755
+              },
+              "sheet_reference": "default_feedback",
+              "widget_reference": "b2f049b4-bb33-4542-993d-0645ffedda1a",
+              "valid_response_count": 0
+            },
+            "stimulus": "Audio feedback:",
+            "ui_style": {
+              "type": "button"
+            },
+            "max_length": 600,
+            "response_id": "6c3c0e48-0629-4c82-b2a3-7a6f8d4bfecd_b498e218f696913498bc14884d41482f"
+          },
+          "response": null,
+          "creation_date": "2023-06-02 11:06:51",
+          "mod_date": "2023-06-02 11:06:51",
+          "persist_until": "2023-06-03 11:06:51",
+          "saved": false
+        }
+      ]
+    },
+    {
+      "response_id": "6c3c0e48-0629-4c82-b2a3-7a6f8d4bfecd_6d051146fef41dd5482ee3877e2181bb",
+      "question_type": "choicematrix",
+      "dt_score_updated": "2022-11-02T08:34:57Z",
+      "automarkable": true,
+      "attempted": true,
+      "score": 5,
+      "max_score": 5,
+      "question_reference": "fcd9c752-58c5-47aa-b18b-0b980b671571",
+      "item_reference": "0a83d4c3-4f35-49d7-9978-e5fc7531ff92",
+      "response": {
+        "value": [
+          [
+            0
+          ],
+          [
+            1
+          ],
+          [
+            1
+          ],
+          [
+            0
+          ],
+          [
+            1
+          ]
+        ],
+        "type": "array",
+        "apiVersion": "v2.168.23",
+        "revision": 2,
+        "feedbackAttemptsCount": 3
+      },
+      "questionInfo": {
+        "type": "choicematrix",
+        "widget_type": "response",
+        "reference": "fcd9c752-58c5-47aa-b18b-0b980b671571",
+        "data": {
+          "options": [
+            "<span style=\"color:#006400;\"><strong>True</strong></span>",
+            "<span style=\"color:#ff0000;\"><strong>False</strong></span>"
+          ],
+          "stems": [
+            "An interpretation is a possible reason why something happened&nbsp;",
+            "There is only one interpretation why something happened&nbsp;",
+            "The interpretation stage is shorter than the description stage&nbsp;",
+            "You can use examples to support your reasons&nbsp;",
+            "You should only use provide one interpretation when reflecting&nbsp;"
+          ],
+          "stimulus": "<h2>&nbsp;</h2>\n\n<h2><img height=\"200\" src=\"https://assets.learnosity.com/organisations/755/d50fb1e8-f867-47fd-9d3d-55968d191e13.png\" width=\"434\"></h2>\n\n<h2><strong>How to write the&nbsp;<span style=\"color:#008000;\">interpretation </span>stage.</strong></h2>\n\n<ul>\n\t<li>\n\t<h4>Read the following statements about the&nbsp;interpretation&nbsp;stage and decide if they are&nbsp;True&nbsp;or&nbsp;False.</h4>\n\t</li>\n</ul>\n\n<p>&nbsp;</p>\n\n<h4><img height=\"119\" src=\"https://assets.learnosity.com/organisations/755/0b0a9dc4-d017-4da8-b403-895c85ced376.png\" width=\"199\"></h4>\n",
+          "type": "choicematrix",
+          "validation": {
+            "scoring_type": "partialMatchV2",
+            "valid_response": {
+              "score": 5,
+              "value": [
+                [
+                  0
+                ],
+                [
+                  1
+                ],
+                [
+                  1
+                ],
+                [
+                  0
+                ],
+                [
+                  1
+                ]
+              ]
+            }
+          },
+          "ui_style": {
+            "type": "table",
+            "horizontal_lines": false
+          },
+          "feedback_attempts": 4,
+          "instant_feedback": true
+        },
+        "metadata": {
+          "name": "Choice matrix – standard",
+          "template_reference": "14b7af71-e146-4747-aae5-ca71618a5038"
+        }
+      },
+      "feedbackInfo": [
+        {
+          "id": "0707_9af8e627-6116-4d11-9526-1978275086ca_6c3c0e48-0629-4c82-b2a3-7a6f8d4bfecd_91c20501f5eb0f2aefb7099939f9c09f",
+          "user_id": "9af8e627-6116-4d11-9526-1978275086ca",
+          "response_id": "6c3c0e48-0629-4c82-b2a3-7a6f8d4bfecd_91c20501f5eb0f2aefb7099939f9c09f",
+          "type": "longtextV2",
+          "question": {
+            "type": "longtextV2",
+            "metadata": {
+              "source": {
+                "organisation_id": 755
+              },
+              "sheet_reference": "default_feedback",
+              "widget_reference": "de082b5f-742a-4ecf-82ca-4dc86e218fec",
+              "valid_response_count": 0
+            },
+            "stimulus": "Written feedback:",
+            "response_id": "6c3c0e48-0629-4c82-b2a3-7a6f8d4bfecd_91c20501f5eb0f2aefb7099939f9c09f",
+            "show_word_count": false,
+            "show_word_limit": "off"
+          },
+          "response": null,
+          "creation_date": "2023-06-02 11:06:51",
+          "mod_date": "2023-06-02 11:06:51",
+          "persist_until": "2023-06-03 11:06:51",
+          "saved": false
+        },
+        {
+          "id": "0707_9af8e627-6116-4d11-9526-1978275086ca_6c3c0e48-0629-4c82-b2a3-7a6f8d4bfecd_be2d04dc7610e40e5407f2e4eab6ebab",
+          "user_id": "9af8e627-6116-4d11-9526-1978275086ca",
+          "response_id": "6c3c0e48-0629-4c82-b2a3-7a6f8d4bfecd_be2d04dc7610e40e5407f2e4eab6ebab",
+          "type": "audio",
+          "question": {
+            "type": "audio",
+            "metadata": {
+              "source": {
+                "organisation_id": 755
+              },
+              "sheet_reference": "default_feedback",
+              "widget_reference": "b2f049b4-bb33-4542-993d-0645ffedda1a",
+              "valid_response_count": 0
+            },
+            "stimulus": "Audio feedback:",
+            "ui_style": {
+              "type": "button"
+            },
+            "max_length": 600,
+            "response_id": "6c3c0e48-0629-4c82-b2a3-7a6f8d4bfecd_be2d04dc7610e40e5407f2e4eab6ebab"
+          },
+          "response": null,
+          "creation_date": "2023-06-02 11:06:52",
+          "mod_date": "2023-06-02 11:06:52",
+          "persist_until": "2023-06-03 11:06:52",
+          "saved": false
+        }
+      ]
+    },
+    {
+      "response_id": "6c3c0e48-0629-4c82-b2a3-7a6f8d4bfecd_cc6efd34f815eafaf83179bed14f3150",
+      "question_type": "clozedropdown",
+      "dt_score_updated": "2022-11-02T08:35:40Z",
+      "automarkable": true,
+      "attempted": true,
+      "score": 5,
+      "max_score": 6,
+      "question_reference": "0863e993-e252-4f49-b244-c025378732bf",
+      "item_reference": "0a83d4c3-4f35-49d7-9978-e5fc7531ff92",
+      "response": {
+        "value": [
+          "an EXPLANATION",
+          "an EXAMPLE",
+          "a COMPARISON",
+          "an EXPLANATION",
+          "an EXAMPLE",
+          "an EXPLANATION"
+        ],
+        "type": "array",
+        "apiVersion": "v2.168.23",
+        "revision": 2,
+        "feedbackAttemptsCount": 4
+      },
+      "questionInfo": {
+        "type": "clozedropdown",
+        "widget_type": "response",
+        "reference": "0863e993-e252-4f49-b244-c025378732bf",
+        "data": {
+          "possible_responses": [
+            [
+              "an EXAMPLE",
+              "an EXPLANATION",
+              "a COMPARISON"
+            ],
+            [
+              "an EXAMPLE",
+              "an EXPLANATION",
+              "a COMPARISON"
+            ],
+            [
+              "an EXAMPLE",
+              "an EXPLANATION",
+              "a COMPARISON"
+            ],
+            [
+              "an EXAMPLE",
+              "an EXPLANATION",
+              "a COMPARISON"
+            ],
+            [
+              "an EXAMPLE",
+              "an EXPLANATION",
+              "a COMPARISON"
+            ],
+            [
+              "an EXAMPLE",
+              "an EXPLANATION",
+              "a COMPARISON"
+            ]
+          ],
+          "response_container": {
+            "pointer": "left"
+          },
+          "stimulus": "<h2>&nbsp;</h2>\n\n<h2><span style=\"color:#008000;\"><strong>Types of Interpretation</strong></span></h2>\n\n<p>&nbsp;</p>\n\n\n<img height=\"187\" src=\"https://assets.learnosity.com/organisations/755/4beedde1-c8a8-457e-8776-f163a57c20e2.png\" width=\"350\">\n<p>&nbsp;</p>\n\n<ul>\n\t<li>\n\t<h4>In the video you learned that there are different ways to&nbsp;interpret&nbsp;information: you can give an <span style=\"color:#008000;\"><strong>example</strong></span>, an <span style=\"color:#008000;\"><strong>explanation </strong></span>or make a <span style=\"color:#008000;\"><strong>comparison</strong></span>.</h4>\n\t</li>\n\t<li>\n\t<h4>Consider the sentences below: is it and&nbsp;<span style=\"color:#008000;\"><strong>example</strong></span>, an <span style=\"color:#008000;\"><strong>explanation </strong></span>or a <span style=\"color:#008000;\"><strong>comparison</strong></span>?<span style=\"color:#800080;\"></span></h4>\n\t</li>\n</ul>",
+          "template": "<blockquote>\n<p><span style=\"font-size:1.1em;\"></span><span style=\"font-size:1.3em;\"><em>The tasks I completed on Tuesday&nbsp;were useful because I learned a lot about writing structure as well as grammar.</em> </span><br>\n<span style=\"font-size:1.1em;\">This is&nbsp;{{response}}.</span><span style=\"font-size:1.1em;\"></span><span style=\"font-size:1.3em;\"></span></p>\n</blockquote>\n\n<blockquote>\n<p><span style=\"font-size:1.3em;\"><em>A few issues affected my time management. For example, I spent a long time looking materials.&nbsp;</em></span><span style=\"font-size:1.1em;\"><em> </em><br>\nThis is&nbsp;{{response}}</span></p>\n</blockquote>\n\n<blockquote>\n<p><span style=\"font-size:1.1em;\"></span><span style=\"font-size:1.3em;\"><em>The Q&amp;A part of a presentation is similar to a seminar discussion.&nbsp;</em></span><br>\n<span style=\"font-size:1.1em;\">This is&nbsp;{{response}}</span></p>\n</blockquote>\n\n<blockquote>\n<p><span style=\"font-size:1.1em;\"></span><span style=\"font-size:1.3em;\"><em>Previously, I felt that the present perfect was difficult but after this week's tasks I think&nbsp;it's&nbsp;much easier now.&nbsp;</em></span><br>\n<span style=\"font-size:1.1em;\">This is&nbsp;{{response}}</span><span style=\"font-size:1.3em;\"></span></p>\n</blockquote>\n\n<blockquote>\n<p><span style=\"font-size:1.3em;\"><em>The most useful learning this week was the vocabulary. For instance, Task 3 helped me with word formation. &nbsp;</em></span><br>\n<span style=\"font-size:1.1em;\">This is&nbsp;{{response}}</span><em><span style=\"font-size:1.3em;\"></span></em></p>\n</blockquote>\n\n<blockquote>\n<p><em><span style=\"font-size:1.3em;\">One reason for finding the lecture difficult could be that there was a lot of unfamiliar vocabulary and that more it challenging. &nbsp;</span></em><br>\n<span style=\"font-size:1.1em;\">This is&nbsp;{{response}}</span></p>\n</blockquote>\n",
+          "type": "clozedropdown",
+          "case_sensitive": true,
+          "validation": {
+            "scoring_type": "partialMatchV2",
+            "valid_response": {
+              "score": 6,
+              "value": [
+                "an EXPLANATION",
+                "an EXAMPLE",
+                "a COMPARISON",
+                "a COMPARISON",
+                "an EXAMPLE",
+                "an EXPLANATION"
+              ]
+            }
+          },
+          "feedback_attempts": 4,
+          "instant_feedback": true
+        },
+        "metadata": {
+          "name": "Cloze with drop down",
+          "template_reference": "2fbba51b-e35e-441f-83c7-2662e2e81fa6"
+        }
+      },
+      "feedbackInfo": [
+        {
+          "id": "0707_9af8e627-6116-4d11-9526-1978275086ca_6c3c0e48-0629-4c82-b2a3-7a6f8d4bfecd_59a5f5a4aec872aba1407a50077f76a6",
+          "user_id": "9af8e627-6116-4d11-9526-1978275086ca",
+          "response_id": "6c3c0e48-0629-4c82-b2a3-7a6f8d4bfecd_59a5f5a4aec872aba1407a50077f76a6",
+          "type": "longtextV2",
+          "question": {
+            "type": "longtextV2",
+            "metadata": {
+              "source": {
+                "organisation_id": 755
+              },
+              "sheet_reference": "default_feedback",
+              "widget_reference": "de082b5f-742a-4ecf-82ca-4dc86e218fec",
+              "valid_response_count": 0
+            },
+            "stimulus": "Written feedback:",
+            "response_id": "6c3c0e48-0629-4c82-b2a3-7a6f8d4bfecd_59a5f5a4aec872aba1407a50077f76a6",
+            "show_word_count": false,
+            "show_word_limit": "off"
+          },
+          "response": null,
+          "creation_date": "2023-06-02 11:06:52",
+          "mod_date": "2023-06-02 11:06:52",
+          "persist_until": "2023-06-03 11:06:52",
+          "saved": false
+        },
+        {
+          "id": "0707_9af8e627-6116-4d11-9526-1978275086ca_6c3c0e48-0629-4c82-b2a3-7a6f8d4bfecd_e16e513951278349514a32242a5cc9cd",
+          "user_id": "9af8e627-6116-4d11-9526-1978275086ca",
+          "response_id": "6c3c0e48-0629-4c82-b2a3-7a6f8d4bfecd_e16e513951278349514a32242a5cc9cd",
+          "type": "audio",
+          "question": {
+            "type": "audio",
+            "metadata": {
+              "source": {
+                "organisation_id": 755
+              },
+              "sheet_reference": "default_feedback",
+              "widget_reference": "b2f049b4-bb33-4542-993d-0645ffedda1a",
+              "valid_response_count": 0
+            },
+            "stimulus": "Audio feedback:",
+            "ui_style": {
+              "type": "button"
+            },
+            "max_length": 600,
+            "response_id": "6c3c0e48-0629-4c82-b2a3-7a6f8d4bfecd_e16e513951278349514a32242a5cc9cd"
+          },
+          "response": null,
+          "creation_date": "2023-06-02 11:06:52",
+          "mod_date": "2023-06-02 11:06:52",
+          "persist_until": "2023-06-03 11:06:52",
+          "saved": false
+        }
+      ]
+    },
+    {
+      "response_id": "6c3c0e48-0629-4c82-b2a3-7a6f8d4bfecd_304bedde9125b5546347a1999b2d268f",
+      "question_type": "clozeassociation",
+      "dt_score_updated": "2022-11-02T08:37:20Z",
+      "automarkable": true,
+      "attempted": true,
+      "score": 6,
+      "max_score": 6,
+      "question_reference": "26122fa9-f8cc-4908-8a82-33b069862331",
+      "item_reference": "580b1db7-22d9-4145-91dd-4c4d74552fe3",
+      "response": {
+        "value": [
+          "final",
+          "two",
+          "evaluate",
+          "understanding",
+          "improve",
+          "when"
+        ],
+        "type": "array",
+        "apiVersion": "v2.168.23",
+        "revision": 3,
+        "feedbackAttemptsCount": 3
+      },
+      "questionInfo": {
+        "type": "clozeassociation",
+        "widget_type": "response",
+        "reference": "26122fa9-f8cc-4908-8a82-33b069862331",
+        "data": {
+          "possible_responses": [
+            "final",
+            "two",
+            "improve",
+            "evaluate",
+            "when",
+            "understanding"
+          ],
+          "response_container": {
+            "pointer": "left"
+          },
+          "template": "<h2>&nbsp;</h2>\n\n<h2>&nbsp;</h2>\n\n\n<img height=\"200\" src=\"https://assets.learnosity.com/organisations/755/77600dee-0a7d-4398-805e-5e1fe05f74e7.png\" width=\"407\">\n<h2><strong>How to write the&nbsp;<span style=\"color:#800080;\">outcome </span>stage.</strong></h2>\n\n<ul>\n\t<li>\n\t<h4>Choose the correct word to complete the paragraph.</h4>\n\t</li>\n</ul>\n\n<p>&nbsp;</p>\n\n<p><span style=\"font-size:1.1em;\">The outcome is the {{response}}&nbsp;stage of reflective writing. There are {{response}}&nbsp;things that you should do in this stage – <strong>evaluate what you did</strong> and<strong> look to the future</strong>. </span></p>\n\n<p><span style=\"font-size:1.1em;\">When you&nbsp;{{response}}, discuss<strong> what was good or bad about what happened</strong>. In addition, explain how your {{response}}&nbsp;has changed (if at all). </span></p>\n\n<p><span style=\"font-size:1.1em;\">When <strong>looking to the future</strong>, describe how you could&nbsp;{{response}} &nbsp;next time and also explain {{response}}&nbsp;you might use what you have learned.</span></p>",
+          "type": "clozeassociation",
+          "case_sensitive": true,
+          "validation": {
+            "scoring_type": "partialMatchV2",
+            "valid_response": {
+              "score": 6,
+              "value": [
+                "final",
+                "two",
+                "evaluate",
+                "understanding",
+                "improve",
+                "when"
+              ]
+            }
+          },
+          "feedback_attempts": 4,
+          "instant_feedback": true,
+          "shuffle_options": true
+        },
+        "metadata": {
+          "name": "Cloze with drag & drop",
+          "template_reference": "51a8c1e7-f34f-4faf-b211-da458e891fcb"
+        }
+      },
+      "feedbackInfo": [
+        {
+          "id": "0707_9af8e627-6116-4d11-9526-1978275086ca_6c3c0e48-0629-4c82-b2a3-7a6f8d4bfecd_54b9de05dcdfdf37d98cd44bbf17cae2",
+          "user_id": "9af8e627-6116-4d11-9526-1978275086ca",
+          "response_id": "6c3c0e48-0629-4c82-b2a3-7a6f8d4bfecd_54b9de05dcdfdf37d98cd44bbf17cae2",
+          "type": "longtextV2",
+          "question": {
+            "type": "longtextV2",
+            "metadata": {
+              "source": {
+                "organisation_id": 755
+              },
+              "sheet_reference": "default_feedback",
+              "widget_reference": "de082b5f-742a-4ecf-82ca-4dc86e218fec",
+              "valid_response_count": 0
+            },
+            "stimulus": "Written feedback:",
+            "response_id": "6c3c0e48-0629-4c82-b2a3-7a6f8d4bfecd_54b9de05dcdfdf37d98cd44bbf17cae2",
+            "show_word_count": false,
+            "show_word_limit": "off"
+          },
+          "response": null,
+          "creation_date": "2023-06-02 11:06:52",
+          "mod_date": "2023-06-02 11:06:52",
+          "persist_until": "2023-06-03 11:06:52",
+          "saved": false
+        },
+        {
+          "id": "0707_9af8e627-6116-4d11-9526-1978275086ca_6c3c0e48-0629-4c82-b2a3-7a6f8d4bfecd_455fa159c366ccb85a4a4d63e95f0dfe",
+          "user_id": "9af8e627-6116-4d11-9526-1978275086ca",
+          "response_id": "6c3c0e48-0629-4c82-b2a3-7a6f8d4bfecd_455fa159c366ccb85a4a4d63e95f0dfe",
+          "type": "audio",
+          "question": {
+            "type": "audio",
+            "metadata": {
+              "source": {
+                "organisation_id": 755
+              },
+              "sheet_reference": "default_feedback",
+              "widget_reference": "b2f049b4-bb33-4542-993d-0645ffedda1a",
+              "valid_response_count": 0
+            },
+            "stimulus": "Audio feedback:",
+            "ui_style": {
+              "type": "button"
+            },
+            "max_length": 600,
+            "response_id": "6c3c0e48-0629-4c82-b2a3-7a6f8d4bfecd_455fa159c366ccb85a4a4d63e95f0dfe"
+          },
+          "response": null,
+          "creation_date": "2023-06-02 11:06:52",
+          "mod_date": "2023-06-02 11:06:52",
+          "persist_until": "2023-06-03 11:06:52",
+          "saved": false
+        }
+      ]
+    },
+    {
+      "response_id": "6c3c0e48-0629-4c82-b2a3-7a6f8d4bfecd_02e83d32515a868c7db2f2a61b360b6c",
+      "question_type": "clozeassociation",
+      "dt_score_updated": "2022-11-02T08:37:49Z",
+      "automarkable": true,
+      "attempted": true,
+      "score": 0,
+      "max_score": 1,
+      "question_reference": "041c8361-ac0c-4483-9a6c-2ce72158f605",
+      "item_reference": "580b1db7-22d9-4145-91dd-4c4d74552fe3",
+      "response": {
+        "value": [
+          "I have",
+          "my skills",
+          "in",
+          "developed",
+          "significantly"
+        ],
+        "type": "array",
+        "apiVersion": "v2.168.23",
+        "revision": 3,
+        "feedbackAttemptsCount": 4
+      },
+      "questionInfo": {
+        "type": "clozeassociation",
+        "widget_type": "response",
+        "reference": "041c8361-ac0c-4483-9a6c-2ce72158f605",
+        "data": {
+          "possible_responses": [
+            "I have",
+            "significantly",
+            "developed",
+            "my skills",
+            "in"
+          ],
+          "response_container": {
+            "pointer": "left"
+          },
+          "stimulus": "<h2><span style=\"color:#800080;\"><strong>Useful Language</strong></span></h2>\n\n<ul>\n\t<li>\n\t<h4>Here are some useful sentence starters to write the <span style=\"color:#008080;\"></span><span style=\"color:#800080;\"><strong>outcome</strong></span><span style=\"color:#008080;\"><strong> </strong></span>stage. Put the words in the correct order.</h4>\n\t</li>\n</ul>\n\n<p><img height=\"60\" src=\"https://assets.learnosity.com/organisations/755/a24cb16e-8803-454f-8006-f3d0b69c1d15.jpg\" width=\"245\"></p>\n\n<p>&nbsp;</p>\n",
+          "template": "<span style=\"font-size:1.3em;\">1.&nbsp;{{response}}&nbsp;{{response}}&nbsp;{{response}}&nbsp;{{response}}&nbsp;{{response}}&nbsp;...</span>",
+          "type": "clozeassociation",
+          "case_sensitive": true,
+          "validation": {
+            "scoring_type": "exactMatch",
+            "valid_response": {
+              "score": 1,
+              "value": [
+                "I have",
+                "significantly",
+                "developed",
+                "my skills",
+                "in"
+              ]
+            }
+          },
+          "feedback_attempts": 4,
+          "instant_feedback": true,
+          "shuffle_options": true
+        },
+        "metadata": {
+          "name": "Cloze with drag & drop",
+          "template_reference": "51a8c1e7-f34f-4faf-b211-da458e891fcb"
+        }
+      },
+      "feedbackInfo": [
+        {
+          "id": "0707_9af8e627-6116-4d11-9526-1978275086ca_6c3c0e48-0629-4c82-b2a3-7a6f8d4bfecd_a528414583077b19775f10502d9bab41",
+          "user_id": "9af8e627-6116-4d11-9526-1978275086ca",
+          "response_id": "6c3c0e48-0629-4c82-b2a3-7a6f8d4bfecd_a528414583077b19775f10502d9bab41",
+          "type": "longtextV2",
+          "question": {
+            "type": "longtextV2",
+            "metadata": {
+              "source": {
+                "organisation_id": 755
+              },
+              "sheet_reference": "default_feedback",
+              "widget_reference": "de082b5f-742a-4ecf-82ca-4dc86e218fec",
+              "valid_response_count": 0
+            },
+            "stimulus": "Written feedback:",
+            "response_id": "6c3c0e48-0629-4c82-b2a3-7a6f8d4bfecd_a528414583077b19775f10502d9bab41",
+            "show_word_count": false,
+            "show_word_limit": "off"
+          },
+          "response": null,
+          "creation_date": "2023-06-02 11:06:52",
+          "mod_date": "2023-06-02 11:06:52",
+          "persist_until": "2023-06-03 11:06:52",
+          "saved": false
+        },
+        {
+          "id": "0707_9af8e627-6116-4d11-9526-1978275086ca_6c3c0e48-0629-4c82-b2a3-7a6f8d4bfecd_6ab4e74579fa7066c0e02334dedd3248",
+          "user_id": "9af8e627-6116-4d11-9526-1978275086ca",
+          "response_id": "6c3c0e48-0629-4c82-b2a3-7a6f8d4bfecd_6ab4e74579fa7066c0e02334dedd3248",
+          "type": "audio",
+          "question": {
+            "type": "audio",
+            "metadata": {
+              "source": {
+                "organisation_id": 755
+              },
+              "sheet_reference": "default_feedback",
+              "widget_reference": "b2f049b4-bb33-4542-993d-0645ffedda1a",
+              "valid_response_count": 0
+            },
+            "stimulus": "Audio feedback:",
+            "ui_style": {
+              "type": "button"
+            },
+            "max_length": 600,
+            "response_id": "6c3c0e48-0629-4c82-b2a3-7a6f8d4bfecd_6ab4e74579fa7066c0e02334dedd3248"
+          },
+          "response": null,
+          "creation_date": "2023-06-02 11:06:53",
+          "mod_date": "2023-06-02 11:06:53",
+          "persist_until": "2023-06-03 11:06:53",
+          "saved": false
+        }
+      ]
+    },
+    {
+      "response_id": "6c3c0e48-0629-4c82-b2a3-7a6f8d4bfecd_aedd10ab1c301ea7916fe65a92f3af03",
+      "question_type": "clozeassociation",
+      "dt_score_updated": "2022-11-02T08:40:13Z",
+      "automarkable": true,
+      "attempted": true,
+      "score": 1,
+      "max_score": 1,
+      "question_reference": "7935ce2f-4f17-493e-9217-0cf45773398b",
+      "item_reference": "580b1db7-22d9-4145-91dd-4c4d74552fe3",
+      "response": {
+        "value": [
+          "However",
+          "I have not",
+          "improved",
+          "my understanding",
+          "of this issue"
+        ],
+        "type": "array",
+        "apiVersion": "v2.168.23",
+        "revision": 5,
+        "feedbackAttemptsCount": 3
+      },
+      "questionInfo": {
+        "type": "clozeassociation",
+        "widget_type": "response",
+        "reference": "7935ce2f-4f17-493e-9217-0cf45773398b",
+        "data": {
+          "possible_responses": [
+            "However",
+            "I have not",
+            "improved",
+            "my understanding",
+            "of this issue"
+          ],
+          "response_container": {
+            "pointer": "left"
+          },
+          "template": "<span style=\"font-size:1.3em;\">2.&nbsp;{{response}},&nbsp;{{response}}&nbsp;{{response}}&nbsp;{{response}}&nbsp;{{response}}.</span>",
+          "type": "clozeassociation",
+          "case_sensitive": true,
+          "validation": {
+            "scoring_type": "exactMatch",
+            "valid_response": {
+              "score": 1,
+              "value": [
+                "However",
+                "I have not",
+                "improved",
+                "my understanding",
+                "of this issue"
+              ]
+            }
+          },
+          "feedback_attempts": 4,
+          "instant_feedback": true,
+          "shuffle_options": true
+        },
+        "metadata": {
+          "name": "Cloze with drag & drop",
+          "template_reference": "51a8c1e7-f34f-4faf-b211-da458e891fcb"
+        }
+      },
+      "feedbackInfo": [
+        {
+          "id": "0707_9af8e627-6116-4d11-9526-1978275086ca_6c3c0e48-0629-4c82-b2a3-7a6f8d4bfecd_986a8a71edc296a3e751c2783da25b2c",
+          "user_id": "9af8e627-6116-4d11-9526-1978275086ca",
+          "response_id": "6c3c0e48-0629-4c82-b2a3-7a6f8d4bfecd_986a8a71edc296a3e751c2783da25b2c",
+          "type": "longtextV2",
+          "question": {
+            "type": "longtextV2",
+            "metadata": {
+              "source": {
+                "organisation_id": 755
+              },
+              "sheet_reference": "default_feedback",
+              "widget_reference": "de082b5f-742a-4ecf-82ca-4dc86e218fec",
+              "valid_response_count": 0
+            },
+            "stimulus": "Written feedback:",
+            "response_id": "6c3c0e48-0629-4c82-b2a3-7a6f8d4bfecd_986a8a71edc296a3e751c2783da25b2c",
+            "show_word_count": false,
+            "show_word_limit": "off"
+          },
+          "response": null,
+          "creation_date": "2023-06-02 11:06:53",
+          "mod_date": "2023-06-02 11:06:53",
+          "persist_until": "2023-06-03 11:06:53",
+          "saved": false
+        },
+        {
+          "id": "0707_9af8e627-6116-4d11-9526-1978275086ca_6c3c0e48-0629-4c82-b2a3-7a6f8d4bfecd_713ad54c49ded25842fe27e06271f136",
+          "user_id": "9af8e627-6116-4d11-9526-1978275086ca",
+          "response_id": "6c3c0e48-0629-4c82-b2a3-7a6f8d4bfecd_713ad54c49ded25842fe27e06271f136",
+          "type": "audio",
+          "question": {
+            "type": "audio",
+            "metadata": {
+              "source": {
+                "organisation_id": 755
+              },
+              "sheet_reference": "default_feedback",
+              "widget_reference": "b2f049b4-bb33-4542-993d-0645ffedda1a",
+              "valid_response_count": 0
+            },
+            "stimulus": "Audio feedback:",
+            "ui_style": {
+              "type": "button"
+            },
+            "max_length": 600,
+            "response_id": "6c3c0e48-0629-4c82-b2a3-7a6f8d4bfecd_713ad54c49ded25842fe27e06271f136"
+          },
+          "response": null,
+          "creation_date": "2023-06-02 11:06:53",
+          "mod_date": "2023-06-02 11:06:53",
+          "persist_until": "2023-06-03 11:06:53",
+          "saved": false
+        }
+      ]
+    },
+    {
+      "response_id": "6c3c0e48-0629-4c82-b2a3-7a6f8d4bfecd_1ee72666038aee06b736b788ff387093",
+      "question_type": "clozeassociation",
+      "dt_score_updated": "2022-11-02T08:40:41Z",
+      "automarkable": true,
+      "attempted": true,
+      "score": 1,
+      "max_score": 1,
+      "question_reference": "92ea402a-b8c1-483d-8b6d-f55be7e33348",
+      "item_reference": "580b1db7-22d9-4145-91dd-4c4d74552fe3",
+      "response": {
+        "value": [
+          "These&nbsp;",
+          "skills",
+          "could",
+          "be",
+          "useful",
+          "when",
+          "I complete",
+          "future tasks"
+        ],
+        "type": "array",
+        "apiVersion": "v2.168.23",
+        "revision": 1,
+        "feedbackAttemptsCount": 1
+      },
+      "questionInfo": {
+        "type": "clozeassociation",
+        "widget_type": "response",
+        "reference": "92ea402a-b8c1-483d-8b6d-f55be7e33348",
+        "data": {
+          "possible_responses": [
+            "These&nbsp;",
+            "skills",
+            "could",
+            "be",
+            "useful",
+            "when",
+            "I complete",
+            "future tasks"
+          ],
+          "response_container": {
+            "pointer": "left"
+          },
+          "template": "<span style=\"font-size:1.3em;\">3.&nbsp;{{response}}&nbsp;{{response}}&nbsp;{{response}}&nbsp;{{response}}&nbsp;{{response}}&nbsp;{{response}}&nbsp;{{response}}&nbsp;{{response}}.</span>",
+          "type": "clozeassociation",
+          "case_sensitive": true,
+          "validation": {
+            "scoring_type": "exactMatch",
+            "valid_response": {
+              "score": 1,
+              "value": [
+                "These&nbsp;",
+                "skills",
+                "could",
+                "be",
+                "useful",
+                "when",
+                "I complete",
+                "future tasks"
+              ]
+            }
+          },
+          "feedback_attempts": 4,
+          "instant_feedback": true,
+          "shuffle_options": true
+        },
+        "metadata": {
+          "name": "Cloze with drag & drop",
+          "template_reference": "51a8c1e7-f34f-4faf-b211-da458e891fcb"
+        }
+      },
+      "feedbackInfo": [
+        {
+          "id": "0707_9af8e627-6116-4d11-9526-1978275086ca_6c3c0e48-0629-4c82-b2a3-7a6f8d4bfecd_463fc4d4faad4524665b5bf5441c951a",
+          "user_id": "9af8e627-6116-4d11-9526-1978275086ca",
+          "response_id": "6c3c0e48-0629-4c82-b2a3-7a6f8d4bfecd_463fc4d4faad4524665b5bf5441c951a",
+          "type": "longtextV2",
+          "question": {
+            "type": "longtextV2",
+            "metadata": {
+              "source": {
+                "organisation_id": 755
+              },
+              "sheet_reference": "default_feedback",
+              "widget_reference": "de082b5f-742a-4ecf-82ca-4dc86e218fec",
+              "valid_response_count": 0
+            },
+            "stimulus": "Written feedback:",
+            "response_id": "6c3c0e48-0629-4c82-b2a3-7a6f8d4bfecd_463fc4d4faad4524665b5bf5441c951a",
+            "show_word_count": false,
+            "show_word_limit": "off"
+          },
+          "response": null,
+          "creation_date": "2023-06-02 11:06:53",
+          "mod_date": "2023-06-02 11:06:53",
+          "persist_until": "2023-06-03 11:06:53",
+          "saved": false
+        },
+        {
+          "id": "0707_9af8e627-6116-4d11-9526-1978275086ca_6c3c0e48-0629-4c82-b2a3-7a6f8d4bfecd_3bf19d1c207dd6b980193137802d353d",
+          "user_id": "9af8e627-6116-4d11-9526-1978275086ca",
+          "response_id": "6c3c0e48-0629-4c82-b2a3-7a6f8d4bfecd_3bf19d1c207dd6b980193137802d353d",
+          "type": "audio",
+          "question": {
+            "type": "audio",
+            "metadata": {
+              "source": {
+                "organisation_id": 755
+              },
+              "sheet_reference": "default_feedback",
+              "widget_reference": "b2f049b4-bb33-4542-993d-0645ffedda1a",
+              "valid_response_count": 0
+            },
+            "stimulus": "Audio feedback:",
+            "ui_style": {
+              "type": "button"
+            },
+            "max_length": 600,
+            "response_id": "6c3c0e48-0629-4c82-b2a3-7a6f8d4bfecd_3bf19d1c207dd6b980193137802d353d"
+          },
+          "response": null,
+          "creation_date": "2023-06-02 11:06:53",
+          "mod_date": "2023-06-02 11:06:53",
+          "persist_until": "2023-06-03 11:06:53",
+          "saved": false
+        }
+      ]
+    },
+    {
+      "response_id": "6c3c0e48-0629-4c82-b2a3-7a6f8d4bfecd_168b6e989bb9a69133f87abad8660f3f",
+      "question_type": "clozeassociation",
+      "dt_score_updated": "2022-11-02T08:41:24Z",
+      "automarkable": true,
+      "attempted": true,
+      "score": 1,
+      "max_score": 1,
+      "question_reference": "5590c293-d95a-4676-bb1f-479dafdae59a",
+      "item_reference": "580b1db7-22d9-4145-91dd-4c4d74552fe3",
+      "response": {
+        "value": [
+          "As a",
+          "next&nbsp;",
+          "step",
+          "I need&nbsp;",
+          "to&nbsp;"
+        ],
+        "type": "array",
+        "apiVersion": "v2.168.23",
+        "revision": 1,
+        "feedbackAttemptsCount": 4
+      },
+      "questionInfo": {
+        "type": "clozeassociation",
+        "widget_type": "response",
+        "reference": "5590c293-d95a-4676-bb1f-479dafdae59a",
+        "data": {
+          "possible_responses": [
+            "As a",
+            "next&nbsp;",
+            "step",
+            "I need&nbsp;",
+            "to&nbsp;"
+          ],
+          "response_container": {
+            "pointer": "left"
+          },
+          "template": "<span style=\"font-size:1.3em;\">4.&nbsp;{{response}}&nbsp;{{response}}&nbsp;{{response}},&nbsp;{{response}}&nbsp;{{response}}&nbsp;...</span>",
+          "type": "clozeassociation",
+          "case_sensitive": true,
+          "validation": {
+            "scoring_type": "exactMatch",
+            "valid_response": {
+              "score": 1,
+              "value": [
+                "As a",
+                "next&nbsp;",
+                "step",
+                "I need&nbsp;",
+                "to&nbsp;"
+              ]
+            }
+          },
+          "feedback_attempts": 4,
+          "instant_feedback": true,
+          "shuffle_options": true
+        },
+        "metadata": {
+          "name": "Cloze with drag & drop",
+          "template_reference": "51a8c1e7-f34f-4faf-b211-da458e891fcb"
+        }
+      },
+      "feedbackInfo": [
+        {
+          "id": "0707_9af8e627-6116-4d11-9526-1978275086ca_6c3c0e48-0629-4c82-b2a3-7a6f8d4bfecd_fee30e1ace986b313a4203799e57936c",
+          "user_id": "9af8e627-6116-4d11-9526-1978275086ca",
+          "response_id": "6c3c0e48-0629-4c82-b2a3-7a6f8d4bfecd_fee30e1ace986b313a4203799e57936c",
+          "type": "longtextV2",
+          "question": {
+            "type": "longtextV2",
+            "metadata": {
+              "source": {
+                "organisation_id": 755
+              },
+              "sheet_reference": "default_feedback",
+              "widget_reference": "de082b5f-742a-4ecf-82ca-4dc86e218fec",
+              "valid_response_count": 0
+            },
+            "stimulus": "Written feedback:",
+            "response_id": "6c3c0e48-0629-4c82-b2a3-7a6f8d4bfecd_fee30e1ace986b313a4203799e57936c",
+            "show_word_count": false,
+            "show_word_limit": "off"
+          },
+          "response": null,
+          "creation_date": "2023-06-02 11:06:54",
+          "mod_date": "2023-06-02 11:06:54",
+          "persist_until": "2023-06-03 11:06:54",
+          "saved": false
+        },
+        {
+          "id": "0707_9af8e627-6116-4d11-9526-1978275086ca_6c3c0e48-0629-4c82-b2a3-7a6f8d4bfecd_db2a617c1b7b58779ad2a46a7f79009e",
+          "user_id": "9af8e627-6116-4d11-9526-1978275086ca",
+          "response_id": "6c3c0e48-0629-4c82-b2a3-7a6f8d4bfecd_db2a617c1b7b58779ad2a46a7f79009e",
+          "type": "audio",
+          "question": {
+            "type": "audio",
+            "metadata": {
+              "source": {
+                "organisation_id": 755
+              },
+              "sheet_reference": "default_feedback",
+              "widget_reference": "b2f049b4-bb33-4542-993d-0645ffedda1a",
+              "valid_response_count": 0
+            },
+            "stimulus": "Audio feedback:",
+            "ui_style": {
+              "type": "button"
+            },
+            "max_length": 600,
+            "response_id": "6c3c0e48-0629-4c82-b2a3-7a6f8d4bfecd_db2a617c1b7b58779ad2a46a7f79009e"
+          },
+          "response": null,
+          "creation_date": "2023-06-02 11:06:54",
+          "mod_date": "2023-06-02 11:06:54",
+          "persist_until": "2023-06-03 11:06:54",
+          "saved": false
+        }
+      ]
+    },
+    {
+      "response_id": "6c3c0e48-0629-4c82-b2a3-7a6f8d4bfecd_0c51c555272418d2adf61ce74ee38388",
+      "question_type": "clozeassociation",
+      "dt_score_updated": "2022-11-02T08:41:53Z",
+      "automarkable": true,
+      "attempted": true,
+      "score": 1,
+      "max_score": 1,
+      "question_reference": "9bd02bc9-846a-456c-974e-3c6d1f021038",
+      "item_reference": "580b1db7-22d9-4145-91dd-4c4d74552fe3",
+      "response": {
+        "value": [
+          "As a&nbsp;",
+          "result",
+          "it could",
+          "also&nbsp;",
+          "help&nbsp;",
+          "with"
+        ],
+        "type": "array",
+        "apiVersion": "v2.168.23",
+        "revision": 1,
+        "feedbackAttemptsCount": 4
+      },
+      "questionInfo": {
+        "type": "clozeassociation",
+        "widget_type": "response",
+        "reference": "9bd02bc9-846a-456c-974e-3c6d1f021038",
+        "data": {
+          "possible_responses": [
+            "As a&nbsp;",
+            "result",
+            "it could",
+            "also&nbsp;",
+            "help&nbsp;",
+            "with"
+          ],
+          "response_container": {
+            "pointer": "left"
+          },
+          "template": "<span style=\"font-size:1.3em;\">5.&nbsp;{{response}}&nbsp;{{response}},&nbsp;{{response}}{{response}}{{response}}{{response}}&nbsp;...</span>",
+          "type": "clozeassociation",
+          "case_sensitive": true,
+          "validation": {
+            "scoring_type": "exactMatch",
+            "valid_response": {
+              "score": 1,
+              "value": [
+                "As a&nbsp;",
+                "result",
+                "it could",
+                "also&nbsp;",
+                "help&nbsp;",
+                "with"
+              ]
+            }
+          },
+          "feedback_attempts": 4,
+          "instant_feedback": true,
+          "shuffle_options": true
+        },
+        "metadata": {
+          "name": "Cloze with drag & drop",
+          "template_reference": "51a8c1e7-f34f-4faf-b211-da458e891fcb"
+        }
+      },
+      "feedbackInfo": [
+        {
+          "id": "0707_9af8e627-6116-4d11-9526-1978275086ca_6c3c0e48-0629-4c82-b2a3-7a6f8d4bfecd_aa4df41625eafb1f36eee5434e5b1060",
+          "user_id": "9af8e627-6116-4d11-9526-1978275086ca",
+          "response_id": "6c3c0e48-0629-4c82-b2a3-7a6f8d4bfecd_aa4df41625eafb1f36eee5434e5b1060",
+          "type": "longtextV2",
+          "question": {
+            "type": "longtextV2",
+            "metadata": {
+              "source": {
+                "organisation_id": 755
+              },
+              "sheet_reference": "default_feedback",
+              "widget_reference": "de082b5f-742a-4ecf-82ca-4dc86e218fec",
+              "valid_response_count": 0
+            },
+            "stimulus": "Written feedback:",
+            "response_id": "6c3c0e48-0629-4c82-b2a3-7a6f8d4bfecd_aa4df41625eafb1f36eee5434e5b1060",
+            "show_word_count": false,
+            "show_word_limit": "off"
+          },
+          "response": null,
+          "creation_date": "2023-06-02 11:06:54",
+          "mod_date": "2023-06-02 11:06:54",
+          "persist_until": "2023-06-03 11:06:54",
+          "saved": false
+        },
+        {
+          "id": "0707_9af8e627-6116-4d11-9526-1978275086ca_6c3c0e48-0629-4c82-b2a3-7a6f8d4bfecd_752ecefcb94892b72bb3355dbf1f56a4",
+          "user_id": "9af8e627-6116-4d11-9526-1978275086ca",
+          "response_id": "6c3c0e48-0629-4c82-b2a3-7a6f8d4bfecd_752ecefcb94892b72bb3355dbf1f56a4",
+          "type": "audio",
+          "question": {
+            "type": "audio",
+            "metadata": {
+              "source": {
+                "organisation_id": 755
+              },
+              "sheet_reference": "default_feedback",
+              "widget_reference": "b2f049b4-bb33-4542-993d-0645ffedda1a",
+              "valid_response_count": 0
+            },
+            "stimulus": "Audio feedback:",
+            "ui_style": {
+              "type": "button"
+            },
+            "max_length": 600,
+            "response_id": "6c3c0e48-0629-4c82-b2a3-7a6f8d4bfecd_752ecefcb94892b72bb3355dbf1f56a4"
+          },
+          "response": null,
+          "creation_date": "2023-06-02 11:06:54",
+          "mod_date": "2023-06-02 11:06:54",
+          "persist_until": "2023-06-03 11:06:54",
+          "saved": false
+        }
+      ]
+    },
+    {
+      "response_id": "6c3c0e48-0629-4c82-b2a3-7a6f8d4bfecd_85fb83b643e7bc96abffc9fff3aee3d4",
+      "question_type": "orderlist",
+      "dt_score_updated": "2022-11-02T08:43:05Z",
+      "automarkable": true,
+      "attempted": true,
+      "score": 2,
+      "max_score": 15,
+      "question_reference": "9f4e06f8-c28c-4ddc-8a7e-b40422eb66ee",
+      "item_reference": "1e244013-e280-47b1-a91e-75c212e3e97a",
+      "response": {
+        "value": [
+          2,
+          5,
+          1,
+          3,
+          0,
+          4
+        ],
+        "type": "array",
+        "apiVersion": "v2.168.23",
+        "revision": 5,
+        "feedbackAttemptsCount": 4
+      },
+      "questionInfo": {
+        "type": "orderlist",
+        "widget_type": "response",
+        "reference": "9f4e06f8-c28c-4ddc-8a7e-b40422eb66ee",
+        "data": {
+          "list": [
+            "<span style=\"font-size:1.1em;\"><span style=\"font-family:Calibri\">Specific tasks were shared out amongst members of my team. Initially, however, the tasks were&nbsp;</span><span style=\"font-family:Calibri\">not seen as equally difficult by all team members.</span></span>",
+            "<span style=\"font-size:1.1em;\"><span style=\"font-family:Calibri\">Cooperation between group members was&nbsp;</span><span style=\"font-family:Calibri\">at risk because of this perception of unfairness.</span></span>",
+            "<span style=\"font-size:1.1em;\"><span style=\"font-family:Calibri\">Social interdependence theory recognises a&nbsp;</span><span style=\"font-family:Calibri\">type of group interaction called 'positive interdependence' , meaning cooperation (</span><span style=\"font-family:Calibri\">Maughan &amp; Webb, 2001), and many studies have demonstrated that&nbsp;</span><span style=\"font-family:Calibri\">\"cooperative learning experiences encourage higher achievement\" (Maughan &amp; Webb, 2001)</span></span>",
+            "<span style=\"font-size:1.1em;\"><span style=\"font-family:Calibri\">Ultimately, our group achieved a successful outcome, but to improve the process, we perhaps&nbsp;</span><span style=\"font-family:Calibri\">needed a chairperson to help encourage cooperation when tasks were being shared out. </span></span>",
+            "<span style=\"font-size:1.1em;\"><span style=\"font-family:Calibri\">In&nbsp;</span><span style=\"font-family:Calibri\">future group work, on the course and at work, I would probably suggest this.</span></span>",
+            "<p lang=\"en-US\"><span style=\"font-size:11.0pt\"><span style=\"font-family:Calibri\">References:</span></span></p>\n\n<p lang=\"en-US\"><span style=\"font-size:11.0pt\"><span style=\"font-family:Calibri\">Maughan, C. and&nbsp;Webb, J. (2001).<em> Small group learning and assessment.</em>&nbsp;</span></span><span style=\"font-size:11.0pt\"><span style=\"font-family:Calibri\"><a href=\"http://www.ukcle.ac.uk/resources/temp/assessment.html\">www.ukcle.ac.uk/resources/temp/assessment.html</a></span></span></p>\n"
+          ],
+          "stimulus": "<p>&nbsp;</p>\n\n\n<img class=\"lrn-image-left\" height=\"100\" src=\"https://assets.learnosity.com/organisations/755/0758e57e-19e6-4f14-857f-5874aa997a44.jpeg\" width=\"102\">\n<h2><span style=\"color:#008080;\"><strong>A Reflective Text</strong></span></h2>\n\n<h4>Below you can see an example of a reflective text - but <strong>the sentences are all mixed up</strong>.</h4>\n\n<h4><strong>Organise the sentences in&nbsp;the correct order.</strong></h4>\n\n<p>&nbsp;</p>",
+          "type": "orderlist",
+          "validation": {
+            "scoring_type": "partialMatchV2",
+            "valid_response": {
+              "score": 15,
+              "value": [
+                0,
+                1,
+                2,
+                3,
+                4,
+                5
+              ]
+            }
+          },
+          "feedback_attempts": 4,
+          "instant_feedback": true,
+          "shuffle_options": true
+        },
+        "metadata": {
+          "name": "Order list",
+          "template_reference": "0c7f68f7-2be6-4ae0-8492-0ab78c8d0010"
+        }
+      },
+      "feedbackInfo": [
+        {
+          "id": "0707_9af8e627-6116-4d11-9526-1978275086ca_6c3c0e48-0629-4c82-b2a3-7a6f8d4bfecd_d184b46a4836ddbf2b36614a5e69d73d",
+          "user_id": "9af8e627-6116-4d11-9526-1978275086ca",
+          "response_id": "6c3c0e48-0629-4c82-b2a3-7a6f8d4bfecd_d184b46a4836ddbf2b36614a5e69d73d",
+          "type": "longtextV2",
+          "question": {
+            "type": "longtextV2",
+            "metadata": {
+              "source": {
+                "organisation_id": 755
+              },
+              "sheet_reference": "default_feedback",
+              "widget_reference": "de082b5f-742a-4ecf-82ca-4dc86e218fec",
+              "valid_response_count": 0
+            },
+            "stimulus": "Written feedback:",
+            "response_id": "6c3c0e48-0629-4c82-b2a3-7a6f8d4bfecd_d184b46a4836ddbf2b36614a5e69d73d",
+            "show_word_count": false,
+            "show_word_limit": "off"
+          },
+          "response": null,
+          "creation_date": "2023-06-02 11:06:54",
+          "mod_date": "2023-06-02 11:06:54",
+          "persist_until": "2023-06-03 11:06:54",
+          "saved": false
+        },
+        {
+          "id": "0707_9af8e627-6116-4d11-9526-1978275086ca_6c3c0e48-0629-4c82-b2a3-7a6f8d4bfecd_ee165f0aef0b05b16bde9e3fc387306a",
+          "user_id": "9af8e627-6116-4d11-9526-1978275086ca",
+          "response_id": "6c3c0e48-0629-4c82-b2a3-7a6f8d4bfecd_ee165f0aef0b05b16bde9e3fc387306a",
+          "type": "audio",
+          "question": {
+            "type": "audio",
+            "metadata": {
+              "source": {
+                "organisation_id": 755
+              },
+              "sheet_reference": "default_feedback",
+              "widget_reference": "b2f049b4-bb33-4542-993d-0645ffedda1a",
+              "valid_response_count": 0
+            },
+            "stimulus": "Audio feedback:",
+            "ui_style": {
+              "type": "button"
+            },
+            "max_length": 600,
+            "response_id": "6c3c0e48-0629-4c82-b2a3-7a6f8d4bfecd_ee165f0aef0b05b16bde9e3fc387306a"
+          },
+          "response": null,
+          "creation_date": "2023-06-02 11:06:55",
+          "mod_date": "2023-06-02 11:06:55",
+          "persist_until": "2023-06-03 11:06:55",
+          "saved": false
+        }
+      ]
+    },
+    {
+      "response_id": "6c3c0e48-0629-4c82-b2a3-7a6f8d4bfecd_9f053723c08ec6b1ed543220109bd977",
+      "question_type": "tokenhighlight",
+      "dt_score_updated": "2022-11-02T08:43:34Z",
+      "automarkable": true,
+      "attempted": true,
+      "score": 0,
+      "max_score": 1,
+      "question_reference": "9327e268-47e9-4a1a-bf7b-5356ab02c8ea",
+      "item_reference": "7b7958ee-5f85-4b5d-aeef-ae9dfaa2fb39",
+      "response": {
+        "value": [
+          1,
+          2,
+          3,
+          4,
+          5,
+          6,
+          8,
+          11,
+          12,
+          13,
+          15
+        ],
+        "type": "array",
+        "apiVersion": "v2.168.23",
+        "revision": 2
+      },
+      "questionInfo": {
+        "type": "tokenhighlight",
+        "widget_type": "response",
+        "reference": "9327e268-47e9-4a1a-bf7b-5356ab02c8ea",
+        "data": {
+          "stimulus": "<h2><b>In this part of the lesson, we are going to identify the <span style=\"color:#0000ff;\"></span><span style=\"color:#008080;\">different&nbsp;stages of reflective writing</span><span style=\"color:#0000ff;\"> </span>in a text.&nbsp;</b></h2>\n\n<h4>&nbsp;</h4>\n\n<ul>\n\t<li>\n\t<h4>The first stage is the <span style=\"color:#ff8c00;\"><strong>DESCRIPTION</strong></span>.&nbsp;</h4>\n\t</li>\n\t<li>\n\t<h4>Click on the sentences in the text below that are part of the <span style=\"color:#ff8c00;\"><strong>DESCRIPTION</strong></span>.</h4>\n\t</li>\n</ul>\n\n<p>&nbsp;</p>\n\n<p><img height=\"200\" src=\"https://assets.learnosity.com/organisations/755/03973c87-78fe-40b5-b415-0b6bab54e9e7.png\" width=\"434\"></p>\n",
+          "template": "<p><span class=\"lrn_token\"><span></span></span><span style=\"font-size:1.3em;\"><span class=\"lrn_token\">Specific tasks were shared out amongst members of my team.</span> <span class=\"lrn_token\">Initially, however, the tasks were not seen as equally difficult by all team members.</span> <span class=\"lrn_token\">Cooperation between group members was at risk because of this perception of unfairness.</span> <span class=\"lrn_token\">Social interdependence theory recognises type of group interaction called 'positive interdependence' , meaning cooperation (Maughan and Webb, 2001), and many studies have demonstrated that \"cooperative learning experiences encourage higher achievement\" (Maughan and Webb, 2001).</span> <span class=\"lrn_token\">Ultimately, our group achieved a successful outcome, but to improve the process, we perhaps needed a chairperson to help encourage cooperation when tasks were being shared out.</span> <span class=\"lrn_token\">In future group work, on the course and at work, I would probably suggest this.</span></span></p>\n\n<p><span style=\"font-size:1em;\"><span class=\"lrn_token\">Reference</span></span><br>\n<span style=\"font-size:1em;\"><span class=\"lrn_token\">Maughan, C.</span> , &amp; <span class=\"lrn_token\">Webb, J.</span> (<span class=\"lrn_token\">2001).</span> <span class=\"lrn_token\"><em>Small group learning and assessment</em>.</span>&nbsp;<span class=\"lrn_token\">www.</span><span class=\"lrn_token\">ukcle.</span><span class=\"lrn_token\">ac.</span><span class=\"lrn_token\">uk/resources/temp/assessment.</span><span class=\"lrn_token\">html</span></span><span class=\"lrn_token\"><span></span><span></span></span></p>\n",
+          "tokenization": "custom",
+          "type": "tokenhighlight",
+          "validation": {
+            "scoring_type": "exactMatch",
+            "valid_response": {
+              "score": 1,
+              "value": [
+                1,
+                2
+              ]
+            }
+          },
+          "feedback_attempts": 4,
+          "instant_feedback": true
+        },
+        "metadata": {
+          "name": "Token highlight",
+          "template_reference": "47f0db98-79e8-4273-946f-90faf4a2ae49"
+        }
+      },
+      "feedbackInfo": [
+        {
+          "id": "0707_9af8e627-6116-4d11-9526-1978275086ca_6c3c0e48-0629-4c82-b2a3-7a6f8d4bfecd_af17e539f853770aaac6f184c6ceaa73",
+          "user_id": "9af8e627-6116-4d11-9526-1978275086ca",
+          "response_id": "6c3c0e48-0629-4c82-b2a3-7a6f8d4bfecd_af17e539f853770aaac6f184c6ceaa73",
+          "type": "longtextV2",
+          "question": {
+            "type": "longtextV2",
+            "metadata": {
+              "source": {
+                "organisation_id": 755
+              },
+              "sheet_reference": "default_feedback",
+              "widget_reference": "de082b5f-742a-4ecf-82ca-4dc86e218fec",
+              "valid_response_count": 0
+            },
+            "stimulus": "Written feedback:",
+            "response_id": "6c3c0e48-0629-4c82-b2a3-7a6f8d4bfecd_af17e539f853770aaac6f184c6ceaa73",
+            "show_word_count": false,
+            "show_word_limit": "off"
+          },
+          "response": null,
+          "creation_date": "2023-06-02 11:06:55",
+          "mod_date": "2023-06-02 11:06:55",
+          "persist_until": "2023-06-03 11:06:55",
+          "saved": false
+        },
+        {
+          "id": "0707_9af8e627-6116-4d11-9526-1978275086ca_6c3c0e48-0629-4c82-b2a3-7a6f8d4bfecd_489f92b56c6a9d69461bf8fac51a17dc",
+          "user_id": "9af8e627-6116-4d11-9526-1978275086ca",
+          "response_id": "6c3c0e48-0629-4c82-b2a3-7a6f8d4bfecd_489f92b56c6a9d69461bf8fac51a17dc",
+          "type": "audio",
+          "question": {
+            "type": "audio",
+            "metadata": {
+              "source": {
+                "organisation_id": 755
+              },
+              "sheet_reference": "default_feedback",
+              "widget_reference": "b2f049b4-bb33-4542-993d-0645ffedda1a",
+              "valid_response_count": 0
+            },
+            "stimulus": "Audio feedback:",
+            "ui_style": {
+              "type": "button"
+            },
+            "max_length": 600,
+            "response_id": "6c3c0e48-0629-4c82-b2a3-7a6f8d4bfecd_489f92b56c6a9d69461bf8fac51a17dc"
+          },
+          "response": null,
+          "creation_date": "2023-06-02 11:06:55",
+          "mod_date": "2023-06-02 11:06:55",
+          "persist_until": "2023-06-03 11:06:55",
+          "saved": false
+        }
+      ]
+    },
+    {
+      "response_id": "6c3c0e48-0629-4c82-b2a3-7a6f8d4bfecd_3eee08be1b175c7531f5fa45d1f97035",
+      "question_type": "tokenhighlight",
+      "dt_score_updated": "2022-11-02T08:44:03Z",
+      "automarkable": true,
+      "attempted": true,
+      "score": 0,
+      "max_score": 1,
+      "question_reference": "cc29f1ff-c53d-47dd-b88c-dc69ddf1f040",
+      "item_reference": "7b7958ee-5f85-4b5d-aeef-ae9dfaa2fb39",
+      "response": {
+        "value": [
+          0,
+          2,
+          3,
+          4,
+          5,
+          7,
+          10,
+          11,
+          14,
+          15
+        ],
+        "type": "array",
+        "apiVersion": "v2.168.23",
+        "revision": 1,
+        "feedbackAttemptsCount": 1
+      },
+      "questionInfo": {
+        "type": "tokenhighlight",
+        "widget_type": "response",
+        "reference": "cc29f1ff-c53d-47dd-b88c-dc69ddf1f040",
+        "data": {
+          "stimulus": "<h4>&nbsp;</h4>\n\n<ul>\n\t<li>\n\t<h4>The next stage is the <span style=\"color:#008000;\"><strong>INTERPRETATION</strong></span>.&nbsp;</h4>\n\t</li>\n\t<li>\n\t<h4>Click on the sentences in the text below that are part of the <span style=\"color:#008000;\"><strong>INTERPRETATION</strong></span>.</h4>\n\t</li>\n</ul>\n\n<p><img height=\"200\" src=\"https://assets.learnosity.com/organisations/755/8a10112a-c35c-4229-8df8-3f37174f008f.png\" width=\"434\"></p>\n",
+          "template": "<p><span style=\"font-size:1.3em;\"><span class=\"lrn_token\">Specific tasks were shared out amongst members of my team.</span> <span class=\"lrn_token\">Initially, however, the tasks were not seen as equally difficult by all team members.</span> <span class=\"lrn_token\">Cooperation between group members was at risk because of this perception of unfairness.</span> <span class=\"lrn_token\">Social interdependence theory recognises type of group interaction called 'positive interdependence' , meaning cooperation (Maughan and Webb, 2001), and many studies have demonstrated that \"cooperative learning experiences encourage higher achievement\" (Maughan and Webb, 2001).</span> <span class=\"lrn_token\">Ultimately, our group achieved a successful outcome, but to improve the process, we perhaps needed a chairperson to help encourage cooperation when tasks were being shared out.</span> <span class=\"lrn_token\">In future group work, on the course and at work, I would probably suggest this.</span></span></p>\n\n<p><span style=\"font-size:1em;\"><span class=\"lrn_token\">Reference</span></span><br>\n<span style=\"font-size:1em;\"><span class=\"lrn_token\">Maughan, C.</span> , &amp; <span class=\"lrn_token\">Webb, J.</span> (<span class=\"lrn_token\">2001).</span> <span class=\"lrn_token\"><em>Small group learning and assessment</em>.</span>&nbsp;<span class=\"lrn_token\">www.</span><span class=\"lrn_token\">ukcle.</span><span class=\"lrn_token\">ac.</span><span class=\"lrn_token\">uk/resources/temp/assessment.</span><span class=\"lrn_token\">html</span></span></p>\n",
+          "tokenization": "custom",
+          "type": "tokenhighlight",
+          "validation": {
+            "scoring_type": "exactMatch",
+            "valid_response": {
+              "score": 1,
+              "value": [
+                2,
+                3
+              ]
+            }
+          },
+          "feedback_attempts": 4,
+          "instant_feedback": true
+        },
+        "metadata": {
+          "name": "Token highlight",
+          "template_reference": "47f0db98-79e8-4273-946f-90faf4a2ae49"
+        }
+      },
+      "feedbackInfo": [
+        {
+          "id": "0707_9af8e627-6116-4d11-9526-1978275086ca_6c3c0e48-0629-4c82-b2a3-7a6f8d4bfecd_3e5bb508125bd040132161d1418d452a",
+          "user_id": "9af8e627-6116-4d11-9526-1978275086ca",
+          "response_id": "6c3c0e48-0629-4c82-b2a3-7a6f8d4bfecd_3e5bb508125bd040132161d1418d452a",
+          "type": "longtextV2",
+          "question": {
+            "type": "longtextV2",
+            "metadata": {
+              "source": {
+                "organisation_id": 755
+              },
+              "sheet_reference": "default_feedback",
+              "widget_reference": "de082b5f-742a-4ecf-82ca-4dc86e218fec",
+              "valid_response_count": 0
+            },
+            "stimulus": "Written feedback:",
+            "response_id": "6c3c0e48-0629-4c82-b2a3-7a6f8d4bfecd_3e5bb508125bd040132161d1418d452a",
+            "show_word_count": false,
+            "show_word_limit": "off"
+          },
+          "response": null,
+          "creation_date": "2023-06-02 11:06:55",
+          "mod_date": "2023-06-02 11:06:55",
+          "persist_until": "2023-06-03 11:06:55",
+          "saved": false
+        },
+        {
+          "id": "0707_9af8e627-6116-4d11-9526-1978275086ca_6c3c0e48-0629-4c82-b2a3-7a6f8d4bfecd_95f048781ca5bfc8b6d1c35b581fbf81",
+          "user_id": "9af8e627-6116-4d11-9526-1978275086ca",
+          "response_id": "6c3c0e48-0629-4c82-b2a3-7a6f8d4bfecd_95f048781ca5bfc8b6d1c35b581fbf81",
+          "type": "audio",
+          "question": {
+            "type": "audio",
+            "metadata": {
+              "source": {
+                "organisation_id": 755
+              },
+              "sheet_reference": "default_feedback",
+              "widget_reference": "b2f049b4-bb33-4542-993d-0645ffedda1a",
+              "valid_response_count": 0
+            },
+            "stimulus": "Audio feedback:",
+            "ui_style": {
+              "type": "button"
+            },
+            "max_length": 600,
+            "response_id": "6c3c0e48-0629-4c82-b2a3-7a6f8d4bfecd_95f048781ca5bfc8b6d1c35b581fbf81"
+          },
+          "response": null,
+          "creation_date": "2023-06-02 11:06:55",
+          "mod_date": "2023-06-02 11:06:55",
+          "persist_until": "2023-06-03 11:06:55",
+          "saved": false
+        }
+      ]
+    },
+    {
+      "response_id": "6c3c0e48-0629-4c82-b2a3-7a6f8d4bfecd_58329b401196f0345d9dde26446ed927",
+      "question_type": "tokenhighlight",
+      "dt_score_updated": "2022-11-02T08:44:17Z",
+      "automarkable": true,
+      "attempted": true,
+      "score": 0,
+      "max_score": 1,
+      "question_reference": "c36e5e15-f613-4f17-a3a4-24697bd13904",
+      "item_reference": "7b7958ee-5f85-4b5d-aeef-ae9dfaa2fb39",
+      "response": {
+        "value": [
+          1,
+          2,
+          3,
+          4,
+          5,
+          7,
+          10,
+          14
+        ],
+        "type": "array",
+        "apiVersion": "v2.168.23",
+        "revision": 1,
+        "feedbackAttemptsCount": 4
+      },
+      "questionInfo": {
+        "type": "tokenhighlight",
+        "widget_type": "response",
+        "reference": "c36e5e15-f613-4f17-a3a4-24697bd13904",
+        "data": {
+          "stimulus": "<h4>&nbsp;</h4>\n\n<ul>\n\t<li>\n\t<h4>The final stage is the <span style=\"color:#800080;\"><strong>OUTCOME</strong></span>.&nbsp;</h4>\n\t</li>\n\t<li>\n\t<h4>Click on the sentences in the text below that are part of the <span style=\"color:#800080;\"><strong>OUTCOME</strong></span>.</h4>\n\t</li>\n</ul>\n\n<p><img height=\"200\" src=\"https://assets.learnosity.com/organisations/755/ae75e42f-236d-44a4-8079-fb7990b76d4c.png\" width=\"406\"></p>\n",
+          "template": "<p><span style=\"font-size:1.3em;\"><span class=\"lrn_token\">Specific tasks were shared out amongst members of my team.</span> <span class=\"lrn_token\">Initially, however, the tasks were not seen as equally difficult by all team members.</span> <span class=\"lrn_token\">Cooperation between group members was at risk because of this perception of unfairness.</span> <span class=\"lrn_token\">Social interdependence theory recognises type of group interaction called 'positive interdependence' , meaning cooperation (Maughan and Webb, 2001), and many studies have demonstrated that \"cooperative learning experiences encourage higher achievement\" (Maughan and Webb, 2001).</span> <span class=\"lrn_token\">Ultimately, our group achieved a successful outcome, but to improve the process, we perhaps needed a chairperson to help encourage cooperation when tasks were being shared out.</span> <span class=\"lrn_token\">In future group work, on the course and at work, I would probably suggest this.</span></span></p>\n\n<p><span style=\"font-size:1em;\"><span class=\"lrn_token\">Reference</span></span><br>\n<span style=\"font-size:1em;\"><span class=\"lrn_token\">Maughan, C.</span> , &amp; <span class=\"lrn_token\">Webb, J.</span> (<span class=\"lrn_token\">2001).</span> <span class=\"lrn_token\"><em>Small group learning and assessment</em>.</span>&nbsp;<span class=\"lrn_token\">www.</span><span class=\"lrn_token\">ukcle.</span><span class=\"lrn_token\">ac.</span><span class=\"lrn_token\">uk/resources/temp/assessment.</span><span class=\"lrn_token\">html</span></span></p>\n",
+          "tokenization": "custom",
+          "type": "tokenhighlight",
+          "validation": {
+            "scoring_type": "exactMatch",
+            "valid_response": {
+              "score": 1,
+              "value": [
+                4,
+                5
+              ]
+            }
+          },
+          "feedback_attempts": 4,
+          "instant_feedback": true
+        },
+        "metadata": {
+          "name": "Token highlight",
+          "template_reference": "47f0db98-79e8-4273-946f-90faf4a2ae49"
+        }
+      },
+      "feedbackInfo": [
+        {
+          "id": "0707_9af8e627-6116-4d11-9526-1978275086ca_6c3c0e48-0629-4c82-b2a3-7a6f8d4bfecd_4e54d625ec467edd5cff7da0e7e5e9a1",
+          "user_id": "9af8e627-6116-4d11-9526-1978275086ca",
+          "response_id": "6c3c0e48-0629-4c82-b2a3-7a6f8d4bfecd_4e54d625ec467edd5cff7da0e7e5e9a1",
+          "type": "longtextV2",
+          "question": {
+            "type": "longtextV2",
+            "metadata": {
+              "source": {
+                "organisation_id": 755
+              },
+              "sheet_reference": "default_feedback",
+              "widget_reference": "de082b5f-742a-4ecf-82ca-4dc86e218fec",
+              "valid_response_count": 0
+            },
+            "stimulus": "Written feedback:",
+            "response_id": "6c3c0e48-0629-4c82-b2a3-7a6f8d4bfecd_4e54d625ec467edd5cff7da0e7e5e9a1",
+            "show_word_count": false,
+            "show_word_limit": "off"
+          },
+          "response": null,
+          "creation_date": "2023-06-02 11:06:55",
+          "mod_date": "2023-06-02 11:06:55",
+          "persist_until": "2023-06-03 11:06:55",
+          "saved": false
+        },
+        {
+          "id": "0707_9af8e627-6116-4d11-9526-1978275086ca_6c3c0e48-0629-4c82-b2a3-7a6f8d4bfecd_2671a11f6ff4c115b507f6e2a3fd0c92",
+          "user_id": "9af8e627-6116-4d11-9526-1978275086ca",
+          "response_id": "6c3c0e48-0629-4c82-b2a3-7a6f8d4bfecd_2671a11f6ff4c115b507f6e2a3fd0c92",
+          "type": "audio",
+          "question": {
+            "type": "audio",
+            "metadata": {
+              "source": {
+                "organisation_id": 755
+              },
+              "sheet_reference": "default_feedback",
+              "widget_reference": "b2f049b4-bb33-4542-993d-0645ffedda1a",
+              "valid_response_count": 0
+            },
+            "stimulus": "Audio feedback:",
+            "ui_style": {
+              "type": "button"
+            },
+            "max_length": 600,
+            "response_id": "6c3c0e48-0629-4c82-b2a3-7a6f8d4bfecd_2671a11f6ff4c115b507f6e2a3fd0c92"
+          },
+          "response": null,
+          "creation_date": "2023-06-02 11:06:56",
+          "mod_date": "2023-06-02 11:06:56",
+          "persist_until": "2023-06-03 11:06:56",
+          "saved": false
+        }
+      ]
+    }
+  ]
+}

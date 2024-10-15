@@ -1,0 +1,1381 @@
+{
+  "userId": "cec9cd16-2380-4ef8-be91-06a3d7f8e067",
+  "firstName": "Han",
+  "lastName": "Li",
+  "assigmentId": "a1d11187-88ff-4769-a088-5aa6aad54ac0",
+  "assigmentName": "Academic Presentations (3)",
+  "sessionId": "c7143d58-4632-4cee-84c0-ce265ee889e4",
+  "email": "lih114@coventry.ac.uk",
+  "spaceId": "eccb3434-e130-4250-b8cd-8ba714fcec86",
+  "spaceName": "(Community) Presessional English (PSE London)",
+  "score": 29,
+  "max_score": 29,
+  "questions": [
+    {
+      "response_id": "c7143d58-4632-4cee-84c0-ce265ee889e4_da900a86de5c5fd2bcb03376a48b713f",
+      "question_type": "mcq",
+      "dt_score_updated": "2022-07-26T18:46:12Z",
+      "automarkable": true,
+      "attempted": true,
+      "score": 1,
+      "max_score": 1,
+      "question_reference": "e9a046ed-dd2f-441b-ac86-5fb5070a3400",
+      "item_reference": "eada57d1-3206-44cd-93a6-ade4fef6759f",
+      "response": {
+        "value": [
+          "1"
+        ],
+        "type": "array",
+        "apiVersion": "v2.168.23",
+        "revision": 1,
+        "feedbackAttemptsCount": 1
+      },
+      "questionInfo": {
+        "type": "mcq",
+        "widget_type": "response",
+        "reference": "e9a046ed-dd2f-441b-ac86-5fb5070a3400",
+        "data": {
+          "options": [
+            {
+              "label": "<span style=\"font-size:1.3em;\">Just keep talking after the time is finished</span>",
+              "value": "2"
+            },
+            {
+              "label": "<span style=\"font-size:1.3em;\">Skip the conclusion</span>",
+              "value": "0"
+            },
+            {
+              "label": "<span style=\"font-size:1.3em;\">Skip the last main point and move on to the conclusion</span>",
+              "value": "1"
+            }
+          ],
+          "stimulus": "<h2><b>What do you think you should do if you are&nbsp;<u><span style=\"color:#ff0000;\">running out of time</span></u>?</b></h2>\n\n<p><img height=\"184\" src=\"https://assets.learnosity.com/organisations/755/125931fa-21ea-4a94-887d-fb403c24b09b.png\" width=\"190\"></p>\n",
+          "type": "mcq",
+          "ui_style": {
+            "choice_label": "upper-alpha",
+            "type": "block"
+          },
+          "validation": {
+            "scoring_type": "exactMatch",
+            "valid_response": {
+              "score": 1,
+              "value": [
+                "1"
+              ]
+            }
+          },
+          "instant_feedback": true
+        },
+        "metadata": {
+          "name": "Multiple choice – block layout",
+          "template_reference": "33d53a22-1a59-4a03-9671-7f5104edd62e"
+        }
+      },
+      "feedbackInfo": [
+        null,
+        null
+      ]
+    },
+    {
+      "response_id": "c7143d58-4632-4cee-84c0-ce265ee889e4_45b9f93f005c129f8ef88e304d210844",
+      "question_type": "association",
+      "dt_score_updated": "2022-07-26T18:46:27Z",
+      "automarkable": true,
+      "attempted": true,
+      "score": 3,
+      "max_score": 3,
+      "question_reference": "c64e639f-edbb-4f8c-80bd-1afe724b787b",
+      "item_reference": "eada57d1-3206-44cd-93a6-ade4fef6759f",
+      "response": {
+        "value": [
+          "<span style=\"font-size:1.3em;\"><strong>Signal</strong></span>",
+          "<span style=\"font-size:1.3em;\"><strong>Summary</strong></span>",
+          "<span style=\"font-size:1.3em;\"><strong>Conclusion</strong></span>",
+          "<span style=\"font-size:1.3em;\"><strong>Closing remarks</strong></span>"
+        ],
+        "type": "array",
+        "updatedFormat": true,
+        "apiVersion": "v2.168.23",
+        "revision": 1,
+        "feedbackAttemptsCount": 1
+      },
+      "questionInfo": {
+        "type": "association",
+        "widget_type": "response",
+        "reference": "c64e639f-edbb-4f8c-80bd-1afe724b787b",
+        "data": {
+          "possible_responses": [
+            "<span style=\"font-size:1.3em;\"><strong>Conclusion</strong></span>",
+            "<span style=\"font-size:1.3em;\"><strong>Signal</strong></span>",
+            "<span style=\"font-size:1.3em;\"><strong>Summary</strong></span>",
+            "<span style=\"font-size:1.3em;\"><strong>Closing remarks</strong></span>"
+          ],
+          "stimulus": "<h2><img height=\"156\" src=\"https://assets.learnosity.com/organisations/755/e5847f1e-062c-4f1b-8516-2d9b0aab5170.jpg\" width=\"180\" /></h2>\n\n<h2><b>In your live lessons, you have considered the&nbsp;<u><span style=\"color:#000080;\">FOUR parts</span></u>&nbsp;of a conclusion.</b></h2>\n\n<p><span style=\"font-size:1.5em;\"><b><span style=\"color:#000080;\">► </span>What are they?</b></span></p>\n\n<p>&nbsp;</p>\n",
+          "stimulus_list": [
+            "<font color=\"#000080\"><span style=\"font-size: 18.2px;\"><b>Part 1</b></span></font>",
+            "<span style=\"color:#000080;\"><span style=\"font-size:1.3em;\"><strong>Part 2</strong></span></span>",
+            "<span style=\"color:#000080;\"><span style=\"font-size:1.3em;\"><strong>Part 3</strong></span></span>",
+            "<span style=\"color:#000080;\"><span style=\"font-size:1.3em;\"><strong>Part 4</strong></span></span>"
+          ],
+          "type": "association",
+          "validation": {
+            "scoring_type": "partialMatchV2",
+            "valid_response": {
+              "score": 3,
+              "value": [
+                "<span style=\"font-size:1.3em;\"><strong>Signal</strong></span>",
+                "<span style=\"font-size:1.3em;\"><strong>Summary</strong></span>",
+                "<span style=\"font-size:1.3em;\"><strong>Conclusion</strong></span>",
+                "<span style=\"font-size:1.3em;\"><strong>Closing remarks</strong></span>"
+              ]
+            }
+          },
+          "instant_feedback": true
+        },
+        "metadata": {
+          "name": "Match list",
+          "template_reference": "1fa22aac-1f88-47f7-941b-3c77759549e6"
+        }
+      },
+      "feedbackInfo": [
+        null,
+        null
+      ]
+    },
+    {
+      "response_id": "c7143d58-4632-4cee-84c0-ce265ee889e4_2493611de3ad2d42181dd369ff3f28b3",
+      "question_type": "mcq",
+      "dt_score_updated": "2022-07-26T18:46:41Z",
+      "automarkable": true,
+      "attempted": true,
+      "score": 1,
+      "max_score": 1,
+      "question_reference": "1759c3ff-bd41-4452-ac18-d6c82e88a8eb",
+      "item_reference": "038a2626-e9ee-4cab-a510-dca15fda5893",
+      "response": {
+        "value": [
+          "1"
+        ],
+        "type": "array",
+        "apiVersion": "v2.168.23",
+        "revision": 1,
+        "feedbackAttemptsCount": 2
+      },
+      "questionInfo": {
+        "type": "mcq",
+        "widget_type": "response",
+        "reference": "1759c3ff-bd41-4452-ac18-d6c82e88a8eb",
+        "data": {
+          "options": [
+            {
+              "label": "<span style=\"font-size:1.3em;\">You ask the audience if they have any questions.</span>",
+              "value": "0"
+            },
+            {
+              "label": "<span style=\"font-size:1.3em;\">You inform the audience you are going to finish.</span>",
+              "value": "1"
+            },
+            {
+              "label": "<span style=\"font-size:1.3em;\">You summarise the main points.</span>",
+              "value": "2"
+            },
+            {
+              "label": "<span style=\"font-size:1.3em;\">You tell the audience the most important point of ALL the presentation</span>",
+              "value": "3"
+            }
+          ],
+          "stimulus": "<h2><b>The&nbsp;<u><span style=\"color:#0000ff;\">first part</span></u>&nbsp;of the conclusion is the&nbsp;<span style=\"color:#0000ff;\">SIGNAL</span>. </b></h2>\n\n<p><img height=\"223\" src=\"https://assets.learnosity.com/organisations/755/0d0a1463-24c8-4504-a81e-8f4bdd419db6.png\" width=\"400\"></p>\n\n<h4><b><span style=\"color:#0000ff;\">&nbsp;</span></b></h4>\n\n<h4><b><span style=\"color:#0000ff;\"></span><span style=\"color:#0000ff;\">►</span><span style=\"color:#0000ff;\"></span>What happens in this part?</b></h4>\n",
+          "type": "mcq",
+          "ui_style": {
+            "choice_label": "upper-alpha",
+            "type": "block"
+          },
+          "validation": {
+            "scoring_type": "exactMatch",
+            "valid_response": {
+              "score": 1,
+              "value": [
+                "1"
+              ]
+            }
+          },
+          "instant_feedback": true,
+          "shuffle_options": true
+        },
+        "metadata": {
+          "name": "Multiple choice – block layout",
+          "template_reference": "33d53a22-1a59-4a03-9671-7f5104edd62e"
+        }
+      },
+      "feedbackInfo": [
+        null,
+        null
+      ]
+    },
+    {
+      "response_id": "c7143d58-4632-4cee-84c0-ce265ee889e4_fc04e46752a1cb78a8328458c293bdd9",
+      "question_type": "clozeassociation",
+      "dt_score_updated": "2022-07-26T18:47:55Z",
+      "automarkable": true,
+      "attempted": true,
+      "score": 1,
+      "max_score": 1,
+      "question_reference": "f59a03c0-ce18-4378-8a0e-4742e4be296c",
+      "item_reference": "038a2626-e9ee-4cab-a510-dca15fda5893",
+      "response": {
+        "value": [
+          "This",
+          "brings",
+          "me",
+          "to the",
+          "end of",
+          "my&nbsp;",
+          "presentation"
+        ],
+        "type": "array",
+        "apiVersion": "v2.168.23",
+        "revision": 2,
+        "feedbackAttemptsCount": 2
+      },
+      "questionInfo": {
+        "type": "clozeassociation",
+        "widget_type": "response",
+        "reference": "f59a03c0-ce18-4378-8a0e-4742e4be296c",
+        "data": {
+          "possible_responses": [
+            "This",
+            "brings",
+            "me",
+            "to the",
+            "end of",
+            "my&nbsp;",
+            "presentation"
+          ],
+          "response_container": {
+            "pointer": "left"
+          },
+          "stimulus": "<p>&nbsp;</p>\n\n<table class=\"table table-condensed table-no-border lrn_width_auto\">\n\t<tbody>\n\t\t<tr>\n\t\t\t<td><img height=\"130\" src=\"https://assets.learnosity.com/organisations/755/9ead565d-c9d5-443e-b772-d534baf4af7d.png\" width=\"150\"></td>\n\t\t\t<td>\n\t\t\t<h2><b><b>Here are some useful&nbsp;<u><span style=\"color:#0000ff;\">signposting phrases</span></u>&nbsp;for this part.</b></b></h2>\n\n\t\t\t<h4><b>Organise the words into a correct sentence.</b></h4>\n\t\t\t</td>\n\t\t</tr>\n\t</tbody>\n</table>\n\n<p>&nbsp;</p>\n",
+          "template": "<p style=\"margin-left: 40px;\"><strong><span style=\"font-size:1.3em;\">1.</span></strong>&nbsp;{{response}}&nbsp;{{response}}&nbsp;{{response}}&nbsp;{{response}}&nbsp;{{response}}&nbsp;{{response}}&nbsp;{{response}}.</p>\n",
+          "type": "clozeassociation",
+          "case_sensitive": true,
+          "validation": {
+            "scoring_type": "exactMatch",
+            "valid_response": {
+              "score": 1,
+              "value": [
+                "This",
+                "brings",
+                "me",
+                "to the",
+                "end of",
+                "my&nbsp;",
+                "presentation"
+              ]
+            }
+          },
+          "instant_feedback": true,
+          "shuffle_options": true
+        },
+        "metadata": {
+          "name": "Cloze with drag & drop",
+          "template_reference": "51a8c1e7-f34f-4faf-b211-da458e891fcb"
+        }
+      },
+      "feedbackInfo": [
+        null,
+        null
+      ]
+    },
+    {
+      "response_id": "c7143d58-4632-4cee-84c0-ce265ee889e4_53365e8f771b5c8843bcbc413a5126d4",
+      "question_type": "clozeassociation",
+      "dt_score_updated": "2022-07-26T18:48:51Z",
+      "automarkable": true,
+      "attempted": true,
+      "score": 1,
+      "max_score": 1,
+      "question_reference": "b55396a7-ce67-40aa-9f75-9a74f5451070",
+      "item_reference": "038a2626-e9ee-4cab-a510-dca15fda5893",
+      "response": {
+        "value": [
+          "Well,",
+          "that is all",
+          "I wanted",
+          "to&nbsp;",
+          "cover",
+          "in this",
+          "presentation.&nbsp;"
+        ],
+        "type": "array",
+        "apiVersion": "v2.168.23",
+        "revision": 2,
+        "feedbackAttemptsCount": 3
+      },
+      "questionInfo": {
+        "type": "clozeassociation",
+        "widget_type": "response",
+        "reference": "b55396a7-ce67-40aa-9f75-9a74f5451070",
+        "data": {
+          "possible_responses": [
+            "Well,",
+            "that is all",
+            "I wanted",
+            "to&nbsp;",
+            "cover",
+            "in this",
+            "presentation.&nbsp;"
+          ],
+          "response_container": {
+            "pointer": "left"
+          },
+          "template": "<p style=\"margin-left: 40px;\"><strong><span style=\"font-size:1.3em;\">2.&nbsp;</span></strong>{{response}}&nbsp;{{response}}&nbsp;{{response}}&nbsp;{{response}}&nbsp;{{response}}&nbsp;{{response}}&nbsp;{{response}}.</p>\n",
+          "type": "clozeassociation",
+          "case_sensitive": true,
+          "validation": {
+            "scoring_type": "exactMatch",
+            "valid_response": {
+              "score": 1,
+              "value": [
+                "Well,",
+                "that is all",
+                "I wanted",
+                "to&nbsp;",
+                "cover",
+                "in this",
+                "presentation.&nbsp;"
+              ]
+            }
+          },
+          "instant_feedback": true,
+          "shuffle_options": true
+        },
+        "metadata": {
+          "name": "Cloze with drag & drop",
+          "template_reference": "51a8c1e7-f34f-4faf-b211-da458e891fcb"
+        }
+      },
+      "feedbackInfo": [
+        null,
+        null
+      ]
+    },
+    {
+      "response_id": "c7143d58-4632-4cee-84c0-ce265ee889e4_fe1fbd2ed932bd0db13e47c4373b1622",
+      "question_type": "clozeassociation",
+      "dt_score_updated": "2022-07-26T18:49:19Z",
+      "automarkable": true,
+      "attempted": true,
+      "score": 1,
+      "max_score": 1,
+      "question_reference": "312d191b-3c40-4d61-8ef2-2535cd76ae03",
+      "item_reference": "038a2626-e9ee-4cab-a510-dca15fda5893",
+      "response": {
+        "value": [
+          "I",
+          "have",
+          "now come",
+          "to the&nbsp;",
+          "end of&nbsp;",
+          "my",
+          "presentation.&nbsp;"
+        ],
+        "type": "array",
+        "apiVersion": "v2.168.23",
+        "revision": 1,
+        "feedbackAttemptsCount": 2
+      },
+      "questionInfo": {
+        "type": "clozeassociation",
+        "widget_type": "response",
+        "reference": "312d191b-3c40-4d61-8ef2-2535cd76ae03",
+        "data": {
+          "possible_responses": [
+            "I",
+            "have",
+            "now come",
+            "to the&nbsp;",
+            "end of&nbsp;",
+            "my",
+            "presentation.&nbsp;"
+          ],
+          "response_container": {
+            "pointer": "left"
+          },
+          "template": "<p style=\"margin-left: 40px;\"><strong><span style=\"font-size:1.3em;\">3.&nbsp;</span></strong>{{response}}&nbsp;{{response}}&nbsp;{{response}}&nbsp;{{response}}&nbsp;{{response}}&nbsp;{{response}}&nbsp;{{response}}.</p>\n",
+          "type": "clozeassociation",
+          "case_sensitive": true,
+          "validation": {
+            "scoring_type": "exactMatch",
+            "valid_response": {
+              "score": 1,
+              "value": [
+                "I",
+                "have",
+                "now come",
+                "to the&nbsp;",
+                "end of&nbsp;",
+                "my",
+                "presentation.&nbsp;"
+              ]
+            }
+          },
+          "instant_feedback": true,
+          "shuffle_options": true
+        },
+        "metadata": {
+          "name": "Cloze with drag & drop",
+          "template_reference": "51a8c1e7-f34f-4faf-b211-da458e891fcb"
+        }
+      },
+      "feedbackInfo": [
+        null,
+        null
+      ]
+    },
+    {
+      "response_id": "c7143d58-4632-4cee-84c0-ce265ee889e4_5e9e10eedaf7167f82d249d26c4565f0",
+      "question_type": "mcq",
+      "dt_score_updated": "2022-07-26T18:49:19Z",
+      "automarkable": true,
+      "attempted": true,
+      "score": 1,
+      "max_score": 1,
+      "question_reference": "5ccfc0c2-d809-4ee6-bc75-e94284ff95d6",
+      "item_reference": "3d28fa05-2bde-431b-b2c1-a6c6a50ee710",
+      "response": {
+        "value": [
+          "2"
+        ],
+        "type": "array",
+        "apiVersion": "v2.168.23",
+        "revision": 1,
+        "feedbackAttemptsCount": 1
+      },
+      "questionInfo": {
+        "type": "mcq",
+        "widget_type": "response",
+        "reference": "5ccfc0c2-d809-4ee6-bc75-e94284ff95d6",
+        "data": {
+          "options": [
+            {
+              "label": "<span style=\"font-size:1.3em;\">You ask the audience if they have any questions.</span>",
+              "value": "0"
+            },
+            {
+              "label": "<span style=\"font-size:1.3em;\">You inform the audience you are going to finish.</span>",
+              "value": "1"
+            },
+            {
+              "label": "<span style=\"font-size:1.3em;\">You summarise the main points.</span>",
+              "value": "2"
+            },
+            {
+              "label": "<span style=\"font-size:1.3em;\">You tell the audience the most important point of ALL the presentation</span>",
+              "value": "3"
+            }
+          ],
+          "stimulus": "<h2><b>The&nbsp;<u><span style=\"color:#0000ff;\">second part</span></u>&nbsp;of the conclusion is the&nbsp;<span style=\"color:#0000ff;\">SUMMARY</span>. </b></h2>\n\n<p><img height=\"223\" src=\"https://assets.learnosity.com/organisations/755/84c73ed5-111d-48e2-9952-a3e0bf9a1ab3.png\" width=\"400\"></p>\n\n<h4><b><span style=\"color:#0000ff;\">&nbsp;</span></b></h4>\n\n<h4><b><span style=\"color:#0000ff;\"></span><span style=\"color:#0000ff;\">►</span><span style=\"color:#0000ff;\"></span>What happens in this part?</b></h4>\n",
+          "type": "mcq",
+          "ui_style": {
+            "choice_label": "upper-alpha",
+            "type": "block"
+          },
+          "validation": {
+            "scoring_type": "exactMatch",
+            "valid_response": {
+              "score": 1,
+              "value": [
+                "2"
+              ]
+            }
+          },
+          "instant_feedback": true,
+          "shuffle_options": true
+        },
+        "metadata": {
+          "name": "Multiple choice – block layout",
+          "template_reference": "33d53a22-1a59-4a03-9671-7f5104edd62e"
+        }
+      },
+      "feedbackInfo": [
+        null,
+        null
+      ]
+    },
+    {
+      "response_id": "c7143d58-4632-4cee-84c0-ce265ee889e4_dbc63e7d6f6db8e88df446edd8bd882a",
+      "question_type": "clozeassociation",
+      "dt_score_updated": "2022-07-26T18:50:43Z",
+      "automarkable": true,
+      "attempted": true,
+      "score": 1,
+      "max_score": 1,
+      "question_reference": "0e51bdd7-9755-4b93-b3ee-e3694ae8fa4d",
+      "item_reference": "3d28fa05-2bde-431b-b2c1-a6c6a50ee710",
+      "response": {
+        "value": [
+          "Let",
+          "me",
+          "summarise",
+          "what",
+          "we've",
+          "looked",
+          "at"
+        ],
+        "type": "array",
+        "apiVersion": "v2.168.23",
+        "revision": 2,
+        "feedbackAttemptsCount": 2
+      },
+      "questionInfo": {
+        "type": "clozeassociation",
+        "widget_type": "response",
+        "reference": "0e51bdd7-9755-4b93-b3ee-e3694ae8fa4d",
+        "data": {
+          "possible_responses": [
+            "Let",
+            "me",
+            "what",
+            "we've",
+            "looked",
+            "at",
+            "summarise"
+          ],
+          "response_container": {
+            "pointer": "left"
+          },
+          "stimulus": "<p>&nbsp;</p>\n\n<table class=\"table table-condensed table-no-border lrn_width_auto\">\n\t<tbody>\n\t\t<tr>\n\t\t\t<td><img height=\"130\" src=\"https://assets.learnosity.com/organisations/755/9ead565d-c9d5-443e-b772-d534baf4af7d.png\" width=\"150\"></td>\n\t\t\t<td>\n\t\t\t<h2><b><b>Here are some useful&nbsp;<u><span style=\"color:#0000ff;\">signposting phrases</span></u>&nbsp;for this part.</b></b></h2>\n\n\t\t\t<h4><b>Organise the words into a correct sentence.</b></h4>\n\t\t\t</td>\n\t\t</tr>\n\t</tbody>\n</table>\n\n<p>&nbsp;</p>\n",
+          "template": "<p style=\"margin-left: 40px;\"><strong><span style=\"font-size:1.3em;\">1.</span></strong>&nbsp;{{response}}&nbsp;{{response}}&nbsp;{{response}}&nbsp;{{response}}&nbsp;{{response}}&nbsp;{{response}}&nbsp;{{response}}.</p>\n",
+          "type": "clozeassociation",
+          "case_sensitive": true,
+          "validation": {
+            "scoring_type": "exactMatch",
+            "valid_response": {
+              "score": 1,
+              "value": [
+                "Let",
+                "me",
+                "summarise",
+                "what",
+                "we've",
+                "looked",
+                "at"
+              ]
+            }
+          },
+          "instant_feedback": true,
+          "shuffle_options": true
+        },
+        "metadata": {
+          "name": "Cloze with drag & drop",
+          "template_reference": "51a8c1e7-f34f-4faf-b211-da458e891fcb"
+        }
+      },
+      "feedbackInfo": [
+        null,
+        null
+      ]
+    },
+    {
+      "response_id": "c7143d58-4632-4cee-84c0-ce265ee889e4_44a1cf07914f903d7944a1ae4b9f0acb",
+      "question_type": "clozeassociation",
+      "dt_score_updated": "2022-07-26T18:50:57Z",
+      "automarkable": true,
+      "attempted": true,
+      "score": 1,
+      "max_score": 1,
+      "question_reference": "ebe70648-8382-4e2f-9c0b-8fa579ccd958",
+      "item_reference": "3d28fa05-2bde-431b-b2c1-a6c6a50ee710",
+      "response": {
+        "value": [
+          "I'll briefly",
+          "summarise",
+          "the&nbsp;",
+          "main",
+          "points"
+        ],
+        "type": "array",
+        "apiVersion": "v2.168.23",
+        "revision": 1,
+        "feedbackAttemptsCount": 1
+      },
+      "questionInfo": {
+        "type": "clozeassociation",
+        "widget_type": "response",
+        "reference": "ebe70648-8382-4e2f-9c0b-8fa579ccd958",
+        "data": {
+          "possible_responses": [
+            "I'll briefly",
+            "summarise",
+            "the&nbsp;",
+            "main",
+            "points"
+          ],
+          "response_container": {
+            "pointer": "left"
+          },
+          "template": "<p style=\"margin-left: 40px;\"><strong><span style=\"font-size:1.3em;\">2.&nbsp;</span></strong>{{response}}&nbsp;{{response}}&nbsp;{{response}}&nbsp;{{response}}&nbsp;{{response}}.</p>\n",
+          "type": "clozeassociation",
+          "case_sensitive": true,
+          "validation": {
+            "scoring_type": "exactMatch",
+            "valid_response": {
+              "score": 1,
+              "value": [
+                "I'll briefly",
+                "summarise",
+                "the&nbsp;",
+                "main",
+                "points"
+              ]
+            }
+          },
+          "instant_feedback": true,
+          "shuffle_options": true
+        },
+        "metadata": {
+          "name": "Cloze with drag & drop",
+          "template_reference": "51a8c1e7-f34f-4faf-b211-da458e891fcb"
+        }
+      },
+      "feedbackInfo": [
+        null,
+        null
+      ]
+    },
+    {
+      "response_id": "c7143d58-4632-4cee-84c0-ce265ee889e4_f23bef1325ebcf2ac7afaa179522def8",
+      "question_type": "clozeassociation",
+      "dt_score_updated": "2022-07-26T18:51:40Z",
+      "automarkable": true,
+      "attempted": true,
+      "score": 1,
+      "max_score": 1,
+      "question_reference": "fd0ca385-2b1c-4057-a00a-349d690cbe02",
+      "item_reference": "3d28fa05-2bde-431b-b2c1-a6c6a50ee710",
+      "response": {
+        "value": [
+          "I'd like to",
+          "summarise",
+          "the",
+          "main",
+          "points",
+          "of my",
+          "presentation.&nbsp;"
+        ],
+        "type": "array",
+        "apiVersion": "v2.168.23",
+        "revision": 1,
+        "feedbackAttemptsCount": 1
+      },
+      "questionInfo": {
+        "type": "clozeassociation",
+        "widget_type": "response",
+        "reference": "fd0ca385-2b1c-4057-a00a-349d690cbe02",
+        "data": {
+          "possible_responses": [
+            "I'd like to",
+            "summarise",
+            "the",
+            "main",
+            "points",
+            "of my",
+            "presentation.&nbsp;"
+          ],
+          "response_container": {
+            "pointer": "left"
+          },
+          "template": "<p style=\"margin-left: 40px;\"><strong><span style=\"font-size:1.3em;\">3.&nbsp;</span></strong>{{response}}&nbsp;{{response}}&nbsp;{{response}}&nbsp;{{response}}&nbsp;{{response}}&nbsp;{{response}}&nbsp;{{response}}.</p>\n",
+          "type": "clozeassociation",
+          "case_sensitive": true,
+          "validation": {
+            "scoring_type": "exactMatch",
+            "valid_response": {
+              "score": 1,
+              "value": [
+                "I'd like to",
+                "summarise",
+                "the",
+                "main",
+                "points",
+                "of my",
+                "presentation.&nbsp;"
+              ]
+            }
+          },
+          "instant_feedback": true,
+          "shuffle_options": true
+        },
+        "metadata": {
+          "name": "Cloze with drag & drop",
+          "template_reference": "51a8c1e7-f34f-4faf-b211-da458e891fcb"
+        }
+      },
+      "feedbackInfo": [
+        null,
+        null
+      ]
+    },
+    {
+      "response_id": "c7143d58-4632-4cee-84c0-ce265ee889e4_18eb6133603db7ab9fc47f28ce656ee7",
+      "question_type": "clozedropdown",
+      "dt_score_updated": "2022-07-26T18:51:54Z",
+      "automarkable": true,
+      "attempted": true,
+      "score": 5,
+      "max_score": 5,
+      "question_reference": "9c81c3f2-b454-4f24-853b-52ddcee4fd43",
+      "item_reference": "3d28fa05-2bde-431b-b2c1-a6c6a50ee710",
+      "response": {
+        "value": [
+          "have started",
+          "have seen",
+          "have also considered",
+          "have evaluated",
+          "have spoken"
+        ],
+        "type": "array",
+        "apiVersion": "v2.168.23",
+        "revision": 1
+      },
+      "questionInfo": {
+        "type": "clozedropdown",
+        "widget_type": "response",
+        "reference": "9c81c3f2-b454-4f24-853b-52ddcee4fd43",
+        "data": {
+          "possible_responses": [
+            [
+              "have started",
+              "have starting"
+            ],
+            [
+              "have seen",
+              "have saw"
+            ],
+            [
+              "have also considered",
+              "also have considered"
+            ],
+            [
+              "have evaluated",
+              "have evaluate"
+            ],
+            [
+              "have spoken",
+              "have spoke"
+            ]
+          ],
+          "response_container": {
+            "pointer": "left"
+          },
+          "stimulus": "<h2>&nbsp;</h2>\n\n<h2><b>First, let's consider the <span style=\"color:#0000ff;\">GRAMMAR </span>used in this section.</b></h2>\n\n<p><img height=\"154\" src=\"https://assets.learnosity.com/organisations/755/d5da0d2e-3369-44f5-9658-e0ff6c4e0ca4.png\" width=\"308\" /></p>\n\n<p><span style=\"font-size:1.5em;\"><b><span style=\"color:#0000cd;\">► </span>Choose the correct option from the drop down.</b></span></p>\n",
+          "template": "<ul>\n\t<li><em><span style=\"font-size:1.3em;\">I </span></em>{{response}}<em><span style=\"font-size:1.3em;\"> my presentation with an analysis of…</span></em></li>\n\t<li><em><span style=\"font-size:1.3em;\">We </span></em>{{response}}<em><span style=\"font-size:1.3em;\">&nbsp;that…</span></em></li>\n\t<li><em><span style=\"font-size:1.3em;\">Then, I </span></em>{{response}}<em><span style=\"font-size:1.3em;\"> &nbsp;the importance of…</span></em></li>\n\t<li><em><span style=\"font-size:1.3em;\">After that, I </span></em>{{response}}<em><span style=\"font-size:1.3em;\"> the benefits of….</span></em></li>\n\t<li><em><span style=\"font-size:1.3em;\">In the final part of the presentation, I </span></em>{{response}}<em><span style=\"font-size:1.3em;\"> about…</span></em></li>\n</ul>\n",
+          "type": "clozedropdown",
+          "case_sensitive": true,
+          "validation": {
+            "scoring_type": "partialMatchV2",
+            "valid_response": {
+              "score": 5,
+              "value": [
+                "have started",
+                "have seen",
+                "have also considered",
+                "have evaluated",
+                "have spoken"
+              ]
+            }
+          },
+          "instant_feedback": true,
+          "shuffle_options": true
+        },
+        "metadata": {
+          "name": "Cloze with drop down",
+          "template_reference": "2fbba51b-e35e-441f-83c7-2662e2e81fa6"
+        }
+      },
+      "feedbackInfo": [
+        null,
+        null
+      ]
+    },
+    {
+      "response_id": "c7143d58-4632-4cee-84c0-ce265ee889e4_64f461d56749f9edc2dfa6dff9888eea",
+      "question_type": "clozedropdown",
+      "dt_score_updated": "2022-07-26T18:53:19Z",
+      "automarkable": true,
+      "attempted": true,
+      "score": 1,
+      "max_score": 1,
+      "question_reference": "b96edfc5-4f05-4644-9f6b-11ff8dfb9ecb",
+      "item_reference": "3d28fa05-2bde-431b-b2c1-a6c6a50ee710",
+      "response": {
+        "value": [
+          "In the beginning of my presentation",
+          "I have considered how we can expand to Europe",
+          "Next, I have evaluated the most",
+          "suitable marketing tools for this purpose",
+          "I’ve also considered issues",
+          "of staffing and employment",
+          "The final part of my presentation was",
+          "about the best areas for our premises"
+        ],
+        "type": "array",
+        "apiVersion": "v2.168.23",
+        "revision": 4,
+        "feedbackAttemptsCount": 1
+      },
+      "questionInfo": {
+        "type": "clozedropdown",
+        "widget_type": "response",
+        "reference": "b96edfc5-4f05-4644-9f6b-11ff8dfb9ecb",
+        "data": {
+          "possible_responses": [
+            [
+              "In the beginning of my presentation",
+              "Next, I have evaluated the most",
+              "I’ve also considered issues",
+              "The final part of my presentation was"
+            ],
+            [
+              "I have considered how we can expand to Europe",
+              "suitable marketing tools for this purpose",
+              "of staffing and employment",
+              "about the best areas for our premises"
+            ],
+            [
+              "In the beginning of my presentation",
+              "Next, I have evaluated the most",
+              "I’ve also considered issues",
+              "The final part of my presentation was"
+            ],
+            [
+              "I have considered how we can expand to Europe",
+              "suitable marketing tools for this purpose",
+              "of staffing and employment",
+              "about the best areas for our premises"
+            ],
+            [
+              "In the beginning of my presentation",
+              "Next, I have evaluated the most",
+              "I’ve also considered issues",
+              "The final part of my presentation was"
+            ],
+            [
+              "I have considered how we can expand to Europe",
+              "suitable marketing tools for this purpose",
+              "of staffing and employment",
+              "about the best areas for our premises"
+            ],
+            [
+              "In the beginning of my presentation",
+              "Next, I have evaluated the most",
+              "I’ve also considered issues",
+              "The final part of my presentation was"
+            ],
+            [
+              "I have considered how we can expand to Europe",
+              "suitable marketing tools for this purpose",
+              "of staffing and employment",
+              "about the best areas for our premises"
+            ]
+          ],
+          "response_container": {
+            "pointer": "left"
+          },
+          "stimulus": "<h2><b>And now, let's focus on the <span style=\"color:#008000;\">CONTENT</span>.&nbsp;</b></h2>\n\n<p><img height=\"138\" src=\"https://assets.learnosity.com/organisations/755/5bbca19e-a56c-482f-89b5-848ec8f27fa2.png\" width=\"310\" /></p>\n\n<p><span style=\"font-size:1.5em;\"><b><span style=\"color:#008000;\">► </span>As we have mentioned in the presentation above, the&nbsp;<i>content&nbsp;</i>of this section is similar to the overview, but&nbsp;you&nbsp;should <span style=\"color:#ff0000;\">NOT</span> use the same words - you should&nbsp;<span style=\"color:#008000;\">PARAPHRASE</span>!</b></span></p>\n\n<p>&nbsp;</p>\n\n<p>&nbsp;</p>\n\n<p><span style=\"font-size:1.8em;\"><b>Here are some phrases from the <span style=\"color:#800080;\">Overview </span>and the <span style=\"color:#008000;\">Summary</span>.&nbsp;</b></span></p>\n\n<p><span style=\"font-size:1.5em;\"><b><span style=\"color:#008000;\">► </span>Choose the best way to paraphrase each of the points.</b></span></p>\n\n<p>&nbsp;</p>\n",
+          "template": "<p><strong><span style=\"font-size:1.3em;\">Example 1:&nbsp;</span></strong></p>\n\n<p style=\"margin-left: 40px;\"><strong><span style=\"font-size:1.3em;\"><span style=\"color:#800080;\">►</span></span><span style=\"font-size:1.3em;\"><span style=\"color:#800080;\">&nbsp;Overview</span>: <em>In the first part of my presentation, I will focus on the expansion of our business to the European market.</em><br>\n<span style=\"color:#008000;\"></span></span><span style=\"font-size:1.3em;\"><span style=\"color:#008000;\">►&nbsp;</span></span><span style=\"font-size:1.3em;\"><span style=\"color:#008000;\">Summary</span>: </span></strong>{{response}}<strong><span style=\"font-size:1.3em;\"><em>, </em></span></strong>{{response}}<strong><span style=\"font-size:1.3em;\"><em>.</em></span></strong></p>\n\n<p><strong><span style=\"font-size:1.3em;\">Example 2:&nbsp;</span><span style=\"font-size:1.3em;\">&nbsp;</span></strong></p>\n\n<p style=\"margin-left: 40px;\"><strong><span style=\"font-size:1.3em;\"><span style=\"color:#800080;\">►</span></span><span style=\"font-size:1.3em;\"><span style=\"color:#800080;\">&nbsp;Overview</span></span><span style=\"font-size:1.3em;\">: <em>Then, in the second part, I'm going to analyse the best international marketing tools.</em></span><br>\n<span style=\"font-size:1.3em;\"><span style=\"color:#008000;\">►&nbsp;</span></span><span style=\"font-size:1.3em;\"><span style=\"color:#008000;\">Summary</span></span><span style=\"font-size:1.3em;\">: </span></strong>{{response}}<strong><span style=\"font-size:1.3em;\"><em> </em></span></strong>{{response}}<strong><span style=\"font-size:1.3em;\"><em>.</em></span></strong></p>\n\n<p><strong><span style=\"font-size:1.3em;\"></span><span style=\"font-size:1.3em;\">Example 3:&nbsp;</span></strong></p>\n\n<p style=\"margin-left: 40px;\"><strong><span style=\"font-size:1.3em;\"><span style=\"color:#800080;\">►</span></span><span style=\"font-size:1.3em;\"><span style=\"color:#800080;\">&nbsp;Overview</span></span><span style=\"font-size:1.3em;\">: <em>After that, I’d like to propose some recruitment options for our new workforce.</em></span><br>\n<span style=\"font-size:1.3em;\"><span style=\"color:#008000;\">►&nbsp;</span></span><span style=\"font-size:1.3em;\"><span style=\"color:#008000;\">Summary</span></span><span style=\"font-size:1.3em;\">: </span></strong>{{response}}<strong><span style=\"font-size:1.3em;\"><em> </em></span></strong>{{response}}<strong><span style=\"font-size:1.3em;\"><em>.</em></span></strong><strong><span style=\"font-size:1.3em;\"></span></strong></p>\n\n<p><strong><span style=\"font-size:1.3em;\"></span><span style=\"font-size:1.3em;\">Example 4:</span></strong></p>\n\n<p style=\"margin-left: 40px;\"><strong><span style=\"font-size:1.3em;\"><span style=\"color:#800080;\">►</span></span><span style=\"font-size:1.3em;\"><span style=\"color:#800080;\">&nbsp;Overview</span></span><span style=\"font-size:1.3em;\">: <em>And to finish off, I’ll be looking at strategic locations for our new offices.</em></span><br>\n<span style=\"font-size:1.3em;\"><span style=\"color:#008000;\">►&nbsp;</span></span><span style=\"font-size:1.3em;\"><span style=\"color:#008000;\">Summary</span></span><span style=\"font-size:1.3em;\">: </span></strong>{{response}}<strong><span style=\"font-size:1.3em;\"><em> </em></span></strong>{{response}}<strong><span style=\"font-size:1.3em;\"><em>.</em></span></strong></p>\n",
+          "type": "clozedropdown",
+          "case_sensitive": true,
+          "validation": {
+            "scoring_type": "partialMatchV2",
+            "valid_response": {
+              "score": 1,
+              "value": [
+                "In the beginning of my presentation",
+                "I have considered how we can expand to Europe",
+                "Next, I have evaluated the most",
+                "suitable marketing tools for this purpose",
+                "I’ve also considered issues",
+                "of staffing and employment",
+                "The final part of my presentation was",
+                "about the best areas for our premises"
+              ]
+            }
+          },
+          "shuffle_options": true,
+          "instant_feedback": true
+        },
+        "metadata": {
+          "name": "Cloze with drop down",
+          "template_reference": "2fbba51b-e35e-441f-83c7-2662e2e81fa6"
+        }
+      },
+      "feedbackInfo": [
+        null,
+        null
+      ]
+    },
+    {
+      "response_id": "c7143d58-4632-4cee-84c0-ce265ee889e4_9e5f7a2d9e91f21ab224bdfee150b8a5",
+      "question_type": "mcq",
+      "dt_score_updated": "2022-07-26T18:54:14Z",
+      "automarkable": true,
+      "attempted": true,
+      "score": 1,
+      "max_score": 1,
+      "question_reference": "09261314-bd40-4ecd-80c6-f6491a670b9b",
+      "item_reference": "8899560f-39ac-4ecb-a58d-f14600b9faf6",
+      "response": {
+        "value": [
+          "3"
+        ],
+        "type": "array",
+        "apiVersion": "v2.168.23",
+        "revision": 1,
+        "feedbackAttemptsCount": 1
+      },
+      "questionInfo": {
+        "type": "mcq",
+        "widget_type": "response",
+        "reference": "09261314-bd40-4ecd-80c6-f6491a670b9b",
+        "data": {
+          "options": [
+            {
+              "label": "<span style=\"font-size:1.3em;\">You ask the audience if they have any questions.</span>",
+              "value": "0"
+            },
+            {
+              "label": "<span style=\"font-size:1.3em;\">You inform the audience you are going to finish.</span>",
+              "value": "1"
+            },
+            {
+              "label": "<span style=\"font-size:1.3em;\">You summarise the main points.</span>",
+              "value": "2"
+            },
+            {
+              "label": "<span style=\"font-size:1.3em;\">You tell the audience the most important point of ALL the presentation</span>",
+              "value": "3"
+            }
+          ],
+          "stimulus": "<h2><b>The&nbsp;<u><span style=\"color:#0000ff;\">third&nbsp;part</span></u>&nbsp;of the conclusion is the&nbsp;<span style=\"color:#0000ff;\">CONCLUSION</span>. </b></h2>\n\n<p><img height=\"222\" src=\"https://assets.learnosity.com/organisations/755/60ad04b9-88af-4331-a915-1dca24923513.png\" width=\"399\" /></p>\n\n<h4><b><span style=\"color:#0000ff;\">&nbsp;</span></b></h4>\n\n<p><span style=\"font-size:1.5em;\"><b><span style=\"color:#0000ff;\"></span><span style=\"color:#0000ff;\">►</span><span style=\"color:#0000ff;\"></span>What happens in this part?</b></span></p>\n",
+          "type": "mcq",
+          "ui_style": {
+            "choice_label": "upper-alpha",
+            "type": "block"
+          },
+          "validation": {
+            "scoring_type": "exactMatch",
+            "valid_response": {
+              "score": 1,
+              "value": [
+                "3"
+              ]
+            }
+          },
+          "instant_feedback": true,
+          "shuffle_options": true
+        },
+        "metadata": {
+          "name": "Multiple choice – block layout",
+          "template_reference": "33d53a22-1a59-4a03-9671-7f5104edd62e"
+        }
+      },
+      "feedbackInfo": [
+        null,
+        null
+      ]
+    },
+    {
+      "response_id": "c7143d58-4632-4cee-84c0-ce265ee889e4_42e691213fd1c9de42cb7e6ec98bc8f2",
+      "question_type": "clozedropdown",
+      "dt_score_updated": "2022-07-26T18:55:12Z",
+      "automarkable": true,
+      "attempted": true,
+      "score": 6,
+      "max_score": 6,
+      "question_reference": "68d334b4-6f02-4f54-8b27-f20121db2ad7",
+      "item_reference": "8899560f-39ac-4ecb-a58d-f14600b9faf6",
+      "response": {
+        "value": [
+          "personal opinion",
+          "recommendation or suggestion",
+          "One or two",
+          "more slowly",
+          "shorter",
+          "stress"
+        ],
+        "type": "array",
+        "apiVersion": "v2.168.23",
+        "revision": 3,
+        "feedbackAttemptsCount": 2
+      },
+      "questionInfo": {
+        "type": "clozedropdown",
+        "widget_type": "response",
+        "reference": "68d334b4-6f02-4f54-8b27-f20121db2ad7",
+        "data": {
+          "possible_responses": [
+            [
+              "personal opinion",
+              "recommendation or suggestion",
+              "One or two",
+              "more slowly",
+              "shorter",
+              "stress"
+            ],
+            [
+              "personal opinion",
+              "recommendation or suggestion",
+              "One or two",
+              "more slowly",
+              "shorter",
+              "stress"
+            ],
+            [
+              "personal opinion",
+              "recommendation or suggestion",
+              "One or two",
+              "more slowly",
+              "shorter",
+              "stress"
+            ],
+            [
+              "personal opinion",
+              "recommendation or suggestion",
+              "One or two",
+              "more slowly",
+              "shorter",
+              "stress"
+            ],
+            [
+              "personal opinion",
+              "recommendation or suggestion",
+              "One or two",
+              "more slowly",
+              "shorter",
+              "stress"
+            ],
+            [
+              "personal opinion",
+              "recommendation or suggestion",
+              "One or two",
+              "more slowly",
+              "shorter",
+              "stress"
+            ]
+          ],
+          "response_container": {
+            "pointer": "left"
+          },
+          "stimulus": "<h2><b>You must&nbsp;<u><span style=\"color:#daa520;\">decide for yourself</span></u>&nbsp;what the most important point is, based on your presentation.</b></h2>\n\n<p><img height=\"127\" src=\"https://assets.learnosity.com/organisations/755/3db34112-68e1-4cc4-87a7-48bf09367244.png\" width=\"399\"></p>\n\n<h4>&nbsp;</h4>\n\n<p id=\"yui_3_17_2_1_1636988991631_251\"><span style=\"font-size:1.5em;\"><b><span style=\"color:#daa520;\">► </span>Some&nbsp;ADVICE&nbsp;for this section:</b></span></p>\n",
+          "template": "<ul>\n\t<li><span style=\"font-size:1.3em;\">Give your </span>{{response}}&nbsp;<span style=\"font-size:1.3em;\">on the topic.</span></li>\n\t<li><span style=\"font-size:1.3em;\">Make a </span>{{response}}<span style=\"font-size:1.3em;\">.</span></li>\n\t<li>{{response}}<span style=\"font-size:1.3em;\"> sentences will be enough for this.</span></li>\n\t<li><span style=\"font-size:1.3em;\">Speak </span>{{response}}<span style=\"font-size:1.3em;\">, use </span>{{response}}&nbsp;<span style=\"font-size:1.3em;\">phrases and </span>{{response}}&nbsp;<span style=\"font-size:1.3em;\">key words.</span></li>\n</ul>\n",
+          "type": "clozedropdown",
+          "case_sensitive": true,
+          "validation": {
+            "scoring_type": "partialMatchV2",
+            "valid_response": {
+              "score": 6,
+              "value": [
+                "personal opinion",
+                "recommendation or suggestion",
+                "One or two",
+                "more slowly",
+                "shorter",
+                "stress"
+              ]
+            }
+          },
+          "instant_feedback": true,
+          "shuffle_options": true
+        },
+        "metadata": {
+          "name": "Cloze with drop down",
+          "template_reference": "2fbba51b-e35e-441f-83c7-2662e2e81fa6"
+        }
+      },
+      "feedbackInfo": [
+        null,
+        null
+      ]
+    },
+    {
+      "response_id": "c7143d58-4632-4cee-84c0-ce265ee889e4_b4fad98f7608e59dffa589b1a5c21b90",
+      "question_type": "mcq",
+      "dt_score_updated": "2022-07-26T18:55:12Z",
+      "automarkable": true,
+      "attempted": true,
+      "score": 1,
+      "max_score": 1,
+      "question_reference": "e6c14631-53db-4f72-873e-4414c0c883e3",
+      "item_reference": "8899560f-39ac-4ecb-a58d-f14600b9faf6",
+      "response": {
+        "value": [
+          "0"
+        ],
+        "type": "array",
+        "apiVersion": "v2.168.23",
+        "revision": 1
+      },
+      "questionInfo": {
+        "type": "mcq",
+        "widget_type": "response",
+        "reference": "e6c14631-53db-4f72-873e-4414c0c883e3",
+        "data": {
+          "options": [
+            {
+              "label": "<span style=\"font-size:1.3em;\">You ask the audience if they have any questions.</span>",
+              "value": "0"
+            },
+            {
+              "label": "<span style=\"font-size:1.3em;\">You inform the audience you are going to finish.</span>",
+              "value": "1"
+            },
+            {
+              "label": "<span style=\"font-size:1.3em;\">You summarise the main points.</span>",
+              "value": "2"
+            },
+            {
+              "label": "<span style=\"font-size:1.3em;\">You tell the audience the most important point of ALL the presentation</span>",
+              "value": "3"
+            }
+          ],
+          "stimulus": "<h2><b>The&nbsp;<u><span style=\"color:#0000ff;\">final part</span></u>&nbsp;of the conclusion is the&nbsp;<span style=\"color:#0000ff;\">CLOSING REMARKS</span>. </b></h2>\n\n<p><img height=\"222\" src=\"https://assets.learnosity.com/organisations/755/b82baf4a-a771-4501-acc3-936db8b66583.png\" width=\"400\" /></p>\n\n<h4><b><span style=\"color:#0000ff;\">&nbsp;</span></b></h4>\n\n<p><span style=\"font-size:1.5em;\"><b><span style=\"color:#0000ff;\"></span><span style=\"color:#0000ff;\">►</span><span style=\"color:#0000ff;\"></span>What happens in this part?</b></span></p>\n",
+          "type": "mcq",
+          "ui_style": {
+            "choice_label": "upper-alpha",
+            "type": "block"
+          },
+          "validation": {
+            "scoring_type": "exactMatch",
+            "valid_response": {
+              "score": 1,
+              "value": [
+                "0"
+              ]
+            }
+          },
+          "instant_feedback": true,
+          "shuffle_options": true
+        },
+        "metadata": {
+          "name": "Multiple choice – block layout",
+          "template_reference": "33d53a22-1a59-4a03-9671-7f5104edd62e"
+        }
+      },
+      "feedbackInfo": [
+        null,
+        null
+      ]
+    },
+    {
+      "response_id": "c7143d58-4632-4cee-84c0-ce265ee889e4_9661dea6a74a1477eb98d1b838165123",
+      "question_type": "clozeassociation",
+      "dt_score_updated": "2022-07-26T18:55:39Z",
+      "automarkable": true,
+      "attempted": true,
+      "score": 1,
+      "max_score": 1,
+      "question_reference": "f85102d2-348a-427a-a447-cfbe7e18831f",
+      "item_reference": "8899560f-39ac-4ecb-a58d-f14600b9faf6",
+      "response": {
+        "value": [
+          "Thank you",
+          "for listening",
+          "do you",
+          "have any",
+          "questions?"
+        ],
+        "type": "array",
+        "apiVersion": "v2.168.23",
+        "revision": 1,
+        "feedbackAttemptsCount": 1
+      },
+      "questionInfo": {
+        "type": "clozeassociation",
+        "widget_type": "response",
+        "reference": "f85102d2-348a-427a-a447-cfbe7e18831f",
+        "data": {
+          "possible_responses": [
+            "Thank you",
+            "for listening",
+            "do you",
+            "have any",
+            "questions?"
+          ],
+          "response_container": {
+            "pointer": "left"
+          },
+          "stimulus": "<p>&nbsp;</p>\n\n<table class=\"table table-condensed table-no-border lrn_width_auto\">\n\t<tbody>\n\t\t<tr>\n\t\t\t<td><img height=\"130\" src=\"https://assets.learnosity.com/organisations/755/9ead565d-c9d5-443e-b772-d534baf4af7d.png\" width=\"150\" /></td>\n\t\t\t<td>\n\t\t\t<h2><b><b>Here are some useful&nbsp;<u><span style=\"color:#0000ff;\">signposting phrases</span></u>&nbsp;for this part.</b></b></h2>\n\n\t\t\t<p><span style=\"font-size:1.5em;\"><b><span style=\"color:#0000ff;\">► </span>Organise the words into a correct sentence.</b></span></p>\n\t\t\t</td>\n\t\t</tr>\n\t</tbody>\n</table>\n\n<p>&nbsp;</p>\n",
+          "template": "<p style=\"margin-left: 40px;\"><strong><span style=\"font-size:1.3em;\">1.</span></strong>&nbsp;{{response}}&nbsp;{{response}}<strong><span style=\"font-size:1.3em;\">,</span></strong>&nbsp;{{response}}&nbsp;{{response}}&nbsp;{{response}}.</p>\n",
+          "type": "clozeassociation",
+          "case_sensitive": true,
+          "validation": {
+            "scoring_type": "exactMatch",
+            "valid_response": {
+              "score": 1,
+              "value": [
+                "Thank you",
+                "for listening",
+                "do you",
+                "have any",
+                "questions?"
+              ]
+            }
+          },
+          "instant_feedback": true,
+          "shuffle_options": true
+        },
+        "metadata": {
+          "name": "Cloze with drag & drop",
+          "template_reference": "51a8c1e7-f34f-4faf-b211-da458e891fcb"
+        }
+      },
+      "feedbackInfo": [
+        null,
+        null
+      ]
+    },
+    {
+      "response_id": "c7143d58-4632-4cee-84c0-ce265ee889e4_f8313ec6c1cd673e27cd3af42157eea2",
+      "question_type": "clozeassociation",
+      "dt_score_updated": "2022-07-26T18:56:23Z",
+      "automarkable": true,
+      "attempted": true,
+      "score": 1,
+      "max_score": 1,
+      "question_reference": "324ee5c7-b706-4a99-8c15-38f87f0224c0",
+      "item_reference": "8899560f-39ac-4ecb-a58d-f14600b9faf6",
+      "response": {
+        "value": [
+          "Thank you",
+          "for your",
+          "attention.&nbsp;",
+          "If you have",
+          "any questions",
+          "I can answer",
+          "them now"
+        ],
+        "type": "array",
+        "apiVersion": "v2.168.23",
+        "revision": 1,
+        "feedbackAttemptsCount": 1
+      },
+      "questionInfo": {
+        "type": "clozeassociation",
+        "widget_type": "response",
+        "reference": "324ee5c7-b706-4a99-8c15-38f87f0224c0",
+        "data": {
+          "possible_responses": [
+            "Thank you",
+            "for your",
+            "attention.&nbsp;",
+            "If you have",
+            "any questions",
+            "I can answer",
+            "them now"
+          ],
+          "response_container": {
+            "pointer": "left"
+          },
+          "stimulus": "<p>&nbsp;</p>\n\n<p>&nbsp;</p>\n",
+          "template": "<p style=\"margin-left: 40px;\"><strong><span style=\"font-size:1.3em;\">2.</span></strong>&nbsp;{{response}}&nbsp;{{response}}&nbsp;{{response}}&nbsp;{{response}}&nbsp;{{response}}&nbsp;{{response}}&nbsp;{{response}}.</p>\n",
+          "type": "clozeassociation",
+          "case_sensitive": true,
+          "validation": {
+            "scoring_type": "exactMatch",
+            "valid_response": {
+              "score": 1,
+              "value": [
+                "Thank you",
+                "for your",
+                "attention.&nbsp;",
+                "If you have",
+                "any questions",
+                "I can answer",
+                "them now"
+              ]
+            }
+          },
+          "instant_feedback": true,
+          "shuffle_options": true
+        },
+        "metadata": {
+          "name": "Cloze with drag & drop",
+          "template_reference": "51a8c1e7-f34f-4faf-b211-da458e891fcb"
+        }
+      },
+      "feedbackInfo": [
+        null,
+        null
+      ]
+    },
+    {
+      "response_id": "c7143d58-4632-4cee-84c0-ce265ee889e4_9eb6758097554e03c908f87dd31bb5da",
+      "question_type": "clozeassociation",
+      "dt_score_updated": "2022-07-26T18:56:23Z",
+      "automarkable": true,
+      "attempted": true,
+      "score": 1,
+      "max_score": 1,
+      "question_reference": "e144d64c-691a-4f7b-ac7d-92a7e37b4e1b",
+      "item_reference": "8899560f-39ac-4ecb-a58d-f14600b9faf6",
+      "response": {
+        "value": [
+          "Thank you",
+          "for listening.",
+          "I'd be happy",
+          "to answer",
+          "any questions now"
+        ],
+        "type": "array",
+        "apiVersion": "v2.168.23",
+        "revision": 1,
+        "feedbackAttemptsCount": 1
+      },
+      "questionInfo": {
+        "type": "clozeassociation",
+        "widget_type": "response",
+        "reference": "e144d64c-691a-4f7b-ac7d-92a7e37b4e1b",
+        "data": {
+          "possible_responses": [
+            "Thank you",
+            "for listening.",
+            "I'd be happy",
+            "to answer",
+            "any questions now"
+          ],
+          "response_container": {
+            "pointer": "left"
+          },
+          "stimulus": "<p>&nbsp;</p>\n\n<p>&nbsp;</p>\n",
+          "template": "<p style=\"margin-left: 40px;\"><strong><span style=\"font-size:1.3em;\">3.</span></strong>&nbsp;{{response}}&nbsp;{{response}}&nbsp;{{response}}&nbsp;{{response}}&nbsp;{{response}}.</p>\n",
+          "type": "clozeassociation",
+          "case_sensitive": true,
+          "validation": {
+            "scoring_type": "exactMatch",
+            "valid_response": {
+              "score": 1,
+              "value": [
+                "Thank you",
+                "for listening.",
+                "I'd be happy",
+                "to answer",
+                "any questions now"
+              ]
+            }
+          },
+          "instant_feedback": true,
+          "shuffle_options": true
+        },
+        "metadata": {
+          "name": "Cloze with drag & drop",
+          "template_reference": "51a8c1e7-f34f-4faf-b211-da458e891fcb"
+        }
+      },
+      "feedbackInfo": [
+        null,
+        null
+      ]
+    }
+  ]
+}

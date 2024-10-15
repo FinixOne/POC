@@ -1,0 +1,1325 @@
+{
+  "userId": "3e5d2146-9ae1-470f-bc73-c5ab2b020d68",
+  "firstName": "Laman",
+  "lastName": "Isfandiyarli",
+  "assigmentId": "865da63c-c6e2-43b6-8b54-91381f11efb5",
+  "assigmentName": "Timed Reading 2",
+  "sessionId": "0959e935-90c4-4803-bfa7-59fd9a19a9f7",
+  "email": "isfandiyal@coventry.ac.uk",
+  "spaceId": "eccb3434-e130-4250-b8cd-8ba714fcec86",
+  "spaceName": "(Community) Presessional English (PSE London)",
+  "score": 14,
+  "max_score": 19,
+  "questions": [
+    {
+      "response_id": "0959e935-90c4-4803-bfa7-59fd9a19a9f7_fe44b4c022cc327d8d1ce578a77e56fd",
+      "question_type": "mcq",
+      "dt_score_updated": "2021-11-26T09:26:06Z",
+      "automarkable": true,
+      "attempted": true,
+      "score": 0,
+      "max_score": 2,
+      "question_reference": "124a58ce-2bc8-4102-bbbe-a5e642ac55b7",
+      "item_reference": "18d46591-d2d2-4129-b318-7d3248d040b1",
+      "response": {
+        "value": [
+          "0"
+        ],
+        "type": "array",
+        "apiVersion": "v2.168.13",
+        "revision": 1
+      },
+      "questionInfo": {
+        "type": "mcq",
+        "widget_type": "response",
+        "reference": "124a58ce-2bc8-4102-bbbe-a5e642ac55b7",
+        "data": {
+          "options": [
+            {
+              "label": "<span style=\"font-size:1.3em;\">Leadership is difficult to define but is easy to identify when people experience it.</span>",
+              "value": "0"
+            },
+            {
+              "label": "<span style=\"font-size:1.3em;\">Leadership is more difficult to identify and define than management.</span>",
+              "value": "1"
+            },
+            {
+              "label": "<span style=\"font-size:1.3em;\">The most important aspect of leadership is the relationship between leaders and their followers.</span>",
+              "value": "2"
+            }
+          ],
+          "stimulus": "<h2>&nbsp;</h2>\n\n<h2><span style=\"color:#0000ff;\"><b>Task 1 - Section Summaries</b></span></h2>\n\n<h3>&nbsp;</h3>\n\n<h3><b>1.1. Read Section 1 again and choose the best summary: a, b or c.</b></h3>\n",
+          "type": "mcq",
+          "validation": {
+            "scoring_type": "exactMatch",
+            "valid_response": {
+              "score": 2,
+              "value": [
+                "2"
+              ]
+            }
+          },
+          "ui_style": {
+            "type": "horizontal"
+          }
+        },
+        "metadata": {
+          "name": "Multiple choice – standard",
+          "template_reference": "9e8149bd-e4d8-4dd6-a751-1a113a4b9163"
+        }
+      },
+      "feedbackInfo": [
+        {
+          "id": "0707_3e5d2146-9ae1-470f-bc73-c5ab2b020d68_0959e935-90c4-4803-bfa7-59fd9a19a9f7_3438bc54f0d91a3cc75fe14ff5d7a0cb",
+          "user_id": "3e5d2146-9ae1-470f-bc73-c5ab2b020d68",
+          "response_id": "0959e935-90c4-4803-bfa7-59fd9a19a9f7_3438bc54f0d91a3cc75fe14ff5d7a0cb",
+          "type": "longtextV2",
+          "question": {
+            "type": "longtextV2",
+            "metadata": {
+              "source": {
+                "organisation_id": 755
+              },
+              "sheet_reference": "default_feedback",
+              "widget_reference": "de082b5f-742a-4ecf-82ca-4dc86e218fec",
+              "valid_response_count": 0
+            },
+            "stimulus": "Written feedback:",
+            "response_id": "0959e935-90c4-4803-bfa7-59fd9a19a9f7_3438bc54f0d91a3cc75fe14ff5d7a0cb",
+            "show_word_count": false,
+            "show_word_limit": "off"
+          },
+          "response": null,
+          "creation_date": "2021-11-26 10:06:14",
+          "mod_date": "2021-11-26 10:06:14",
+          "persist_until": "2021-11-27 10:06:14",
+          "saved": false
+        },
+        null
+      ]
+    },
+    {
+      "response_id": "0959e935-90c4-4803-bfa7-59fd9a19a9f7_aa09a4042aaccf352a1ade87b912bd95",
+      "question_type": "mcq",
+      "dt_score_updated": "2021-11-26T09:32:36Z",
+      "automarkable": true,
+      "attempted": true,
+      "score": 2,
+      "max_score": 2,
+      "question_reference": "fd058725-04e3-4074-a1b5-0c36d546d222",
+      "item_reference": "18d46591-d2d2-4129-b318-7d3248d040b1",
+      "response": {
+        "value": [
+          "1"
+        ],
+        "type": "array",
+        "apiVersion": "v2.168.13",
+        "revision": 1
+      },
+      "questionInfo": {
+        "type": "mcq",
+        "widget_type": "response",
+        "reference": "fd058725-04e3-4074-a1b5-0c36d546d222",
+        "data": {
+          "options": [
+            {
+              "label": "<span style=\"font-size:1.3em;\">Most people in management and leadership positions will have to direct people from time to time.</span>",
+              "value": "0"
+            },
+            {
+              "label": "<span style=\"font-size:1.3em;\">Leadership inspires people to go above and beyond in their normal roles and responsibilities.</span>",
+              "value": "1"
+            },
+            {
+              "label": "<span style=\"font-size:1.3em;\">Leadership inspires people to go above and beyond in their normal roles and responsibilities.</span>",
+              "value": "2"
+            }
+          ],
+          "stimulus": "<h3><b>1.2. Read Section 3&nbsp;again and choose the best summary: a, b or c.</b></h3>\n",
+          "type": "mcq",
+          "validation": {
+            "scoring_type": "exactMatch",
+            "valid_response": {
+              "score": 2,
+              "value": [
+                "1"
+              ]
+            }
+          },
+          "ui_style": {
+            "type": "horizontal"
+          }
+        },
+        "metadata": {
+          "name": "Multiple choice – standard",
+          "template_reference": "9e8149bd-e4d8-4dd6-a751-1a113a4b9163"
+        }
+      },
+      "feedbackInfo": [
+        {
+          "id": "0707_3e5d2146-9ae1-470f-bc73-c5ab2b020d68_0959e935-90c4-4803-bfa7-59fd9a19a9f7_33450c8ea9f46c61a012dc5e522c8777",
+          "user_id": "3e5d2146-9ae1-470f-bc73-c5ab2b020d68",
+          "response_id": "0959e935-90c4-4803-bfa7-59fd9a19a9f7_33450c8ea9f46c61a012dc5e522c8777",
+          "type": "longtextV2",
+          "question": {
+            "type": "longtextV2",
+            "metadata": {
+              "source": {
+                "organisation_id": 755
+              },
+              "sheet_reference": "default_feedback",
+              "widget_reference": "de082b5f-742a-4ecf-82ca-4dc86e218fec",
+              "valid_response_count": 0
+            },
+            "stimulus": "Written feedback:",
+            "response_id": "0959e935-90c4-4803-bfa7-59fd9a19a9f7_33450c8ea9f46c61a012dc5e522c8777",
+            "show_word_count": false,
+            "show_word_limit": "off"
+          },
+          "response": null,
+          "creation_date": "2021-11-26 10:06:14",
+          "mod_date": "2021-11-26 10:06:14",
+          "persist_until": "2021-11-27 10:06:14",
+          "saved": false
+        },
+        null
+      ]
+    },
+    {
+      "response_id": "0959e935-90c4-4803-bfa7-59fd9a19a9f7_1d71e4b32fb9ae51df5ac251cc598bd9",
+      "question_type": "mcq",
+      "dt_score_updated": "2021-11-26T09:33:16Z",
+      "automarkable": true,
+      "attempted": true,
+      "score": 2,
+      "max_score": 2,
+      "question_reference": "c65874ac-39a0-4102-9c8f-b4b874533c1a",
+      "item_reference": "18d46591-d2d2-4129-b318-7d3248d040b1",
+      "response": {
+        "value": [
+          "0"
+        ],
+        "type": "array",
+        "apiVersion": "v2.168.13",
+        "revision": 1
+      },
+      "questionInfo": {
+        "type": "mcq",
+        "widget_type": "response",
+        "reference": "c65874ac-39a0-4102-9c8f-b4b874533c1a",
+        "data": {
+          "options": [
+            {
+              "label": "<span style=\"font-size:1.3em;\">They create their own followers.</span>",
+              "value": "0"
+            },
+            {
+              "label": "<span style=\"font-size:1.3em;\">They point people in the right direction.</span>",
+              "value": "1"
+            },
+            {
+              "label": "<span style=\"font-size:1.3em;\">They organise and coordinate creative activity.</span>",
+              "value": "2"
+            },
+            {
+              "label": "<span style=\"font-size:1.3em;\">They have responsibility for people.</span>",
+              "value": "3"
+            }
+          ],
+          "stimulus": "<h2>&nbsp;</h2>\n\n<h2><span style=\"color:#0000ff;\"><b>Task 2 - Main Ideas and Supporting Points</b></span></h2>\n\n<h3>&nbsp;</h3>\n\n<h3><b>2.1. </b><strong>According to the text, what is the most important characteristic of leaders?</strong></h3>\n",
+          "type": "mcq",
+          "validation": {
+            "scoring_type": "exactMatch",
+            "valid_response": {
+              "score": 2,
+              "value": [
+                "0"
+              ]
+            }
+          },
+          "ui_style": {
+            "type": "horizontal"
+          }
+        },
+        "metadata": {
+          "name": "Multiple choice – standard",
+          "template_reference": "9e8149bd-e4d8-4dd6-a751-1a113a4b9163"
+        }
+      },
+      "feedbackInfo": [
+        {
+          "id": "0707_3e5d2146-9ae1-470f-bc73-c5ab2b020d68_0959e935-90c4-4803-bfa7-59fd9a19a9f7_54f8d7aa99f2259d6c5e3268b21f7032",
+          "user_id": "3e5d2146-9ae1-470f-bc73-c5ab2b020d68",
+          "response_id": "0959e935-90c4-4803-bfa7-59fd9a19a9f7_54f8d7aa99f2259d6c5e3268b21f7032",
+          "type": "longtextV2",
+          "question": {
+            "type": "longtextV2",
+            "metadata": {
+              "source": {
+                "organisation_id": 755
+              },
+              "sheet_reference": "default_feedback",
+              "widget_reference": "de082b5f-742a-4ecf-82ca-4dc86e218fec",
+              "valid_response_count": 0
+            },
+            "stimulus": "Written feedback:",
+            "response_id": "0959e935-90c4-4803-bfa7-59fd9a19a9f7_54f8d7aa99f2259d6c5e3268b21f7032",
+            "show_word_count": false,
+            "show_word_limit": "off"
+          },
+          "response": null,
+          "creation_date": "2021-11-26 10:06:15",
+          "mod_date": "2021-11-26 10:06:15",
+          "persist_until": "2021-11-27 10:06:15",
+          "saved": false
+        },
+        null
+      ]
+    },
+    {
+      "response_id": "0959e935-90c4-4803-bfa7-59fd9a19a9f7_38ff057e24341669494dc494a5b481e5",
+      "question_type": "mcq",
+      "dt_score_updated": "2021-11-26T09:33:51Z",
+      "automarkable": true,
+      "attempted": true,
+      "score": 2,
+      "max_score": 2,
+      "question_reference": "9ab8eda5-fa54-4304-8a0e-177903e0a82d",
+      "item_reference": "18d46591-d2d2-4129-b318-7d3248d040b1",
+      "response": {
+        "value": [
+          "2"
+        ],
+        "type": "array",
+        "apiVersion": "v2.168.13",
+        "revision": 1
+      },
+      "questionInfo": {
+        "type": "mcq",
+        "widget_type": "response",
+        "reference": "9ab8eda5-fa54-4304-8a0e-177903e0a82d",
+        "data": {
+          "options": [
+            {
+              "label": "<span style=\"font-size:1.3em;\">A commanding personality</span>",
+              "value": "0"
+            },
+            {
+              "label": "<span style=\"font-size:1.3em;\">Planning skills</span>",
+              "value": "1"
+            },
+            {
+              "label": "<span style=\"font-size:1.3em;\">A sense of direction</span>",
+              "value": "2"
+            },
+            {
+              "label": "<span style=\"font-size:1.3em;\">All of the above</span>",
+              "value": "3"
+            }
+          ],
+          "stimulus": "<h3><strong>2.1. According to the text,&nbsp;an effective leader needs...</strong></h3>\n",
+          "type": "mcq",
+          "validation": {
+            "scoring_type": "exactMatch",
+            "valid_response": {
+              "score": 2,
+              "value": [
+                "2"
+              ]
+            }
+          },
+          "ui_style": {
+            "type": "horizontal"
+          }
+        },
+        "metadata": {
+          "name": "Multiple choice – standard",
+          "template_reference": "9e8149bd-e4d8-4dd6-a751-1a113a4b9163"
+        }
+      },
+      "feedbackInfo": [
+        {
+          "id": "0707_3e5d2146-9ae1-470f-bc73-c5ab2b020d68_0959e935-90c4-4803-bfa7-59fd9a19a9f7_2ff70dc4bdc60842c1e425fdfc9aed60",
+          "user_id": "3e5d2146-9ae1-470f-bc73-c5ab2b020d68",
+          "response_id": "0959e935-90c4-4803-bfa7-59fd9a19a9f7_2ff70dc4bdc60842c1e425fdfc9aed60",
+          "type": "longtextV2",
+          "question": {
+            "type": "longtextV2",
+            "metadata": {
+              "source": {
+                "organisation_id": 755
+              },
+              "sheet_reference": "default_feedback",
+              "widget_reference": "de082b5f-742a-4ecf-82ca-4dc86e218fec",
+              "valid_response_count": 0
+            },
+            "stimulus": "Written feedback:",
+            "response_id": "0959e935-90c4-4803-bfa7-59fd9a19a9f7_2ff70dc4bdc60842c1e425fdfc9aed60",
+            "show_word_count": false,
+            "show_word_limit": "off"
+          },
+          "response": null,
+          "creation_date": "2021-11-26 10:06:15",
+          "mod_date": "2021-11-26 10:06:15",
+          "persist_until": "2021-11-27 10:06:15",
+          "saved": false
+        },
+        null
+      ]
+    },
+    {
+      "response_id": "0959e935-90c4-4803-bfa7-59fd9a19a9f7_38adcdd8bb94e702eb98cbd329b1c897",
+      "question_type": "mcq",
+      "dt_score_updated": "2021-11-26T09:37:22Z",
+      "automarkable": true,
+      "attempted": true,
+      "score": 1,
+      "max_score": 1,
+      "question_reference": "0dba7b94-7d86-45b1-b91c-2a150be2aa78",
+      "item_reference": "18d46591-d2d2-4129-b318-7d3248d040b1",
+      "response": {
+        "value": [
+          "0"
+        ],
+        "type": "array",
+        "apiVersion": "v2.168.13",
+        "revision": 1
+      },
+      "questionInfo": {
+        "type": "mcq",
+        "widget_type": "response",
+        "reference": "0dba7b94-7d86-45b1-b91c-2a150be2aa78",
+        "data": {
+          "options": [
+            {
+              "label": "True",
+              "value": "0"
+            },
+            {
+              "label": "False",
+              "value": "1"
+            }
+          ],
+          "stimulus": "<h2>&nbsp;</h2>\n\n<h2><span style=\"color:#0000ff;\"><strong>Task 3 - True / False and Justify</strong></span></h2>\n\n<h3><b>Use the information in the text&nbsp;to decide if the sentences are TRUE or FALSE.&nbsp;<br />\nJustify your answer with a sentence from text B.</b></h3>\n\n<p>&nbsp;</p>\n\n<p><img height=\"43\" src=\"https://assets.learnosity.com/organisations/755/013e2036-4c28-4a8c-aefd-9da628462200.png\" width=\"901\" /></p>\n",
+          "type": "mcq",
+          "ui_style": {
+            "type": "horizontal"
+          },
+          "validation": {
+            "scoring_type": "exactMatch",
+            "valid_response": {
+              "score": 1,
+              "value": [
+                "0"
+              ]
+            }
+          }
+        },
+        "metadata": {
+          "name": "True or false",
+          "template_reference": "3egs0b24-5gs8-49fc-fds9-4a450sdg31ca"
+        }
+      },
+      "feedbackInfo": [
+        {
+          "id": "0707_3e5d2146-9ae1-470f-bc73-c5ab2b020d68_0959e935-90c4-4803-bfa7-59fd9a19a9f7_16d725d0b4ff40b54506e43ee9544990",
+          "user_id": "3e5d2146-9ae1-470f-bc73-c5ab2b020d68",
+          "response_id": "0959e935-90c4-4803-bfa7-59fd9a19a9f7_16d725d0b4ff40b54506e43ee9544990",
+          "type": "longtextV2",
+          "question": {
+            "type": "longtextV2",
+            "metadata": {
+              "source": {
+                "organisation_id": 755
+              },
+              "sheet_reference": "default_feedback",
+              "widget_reference": "de082b5f-742a-4ecf-82ca-4dc86e218fec",
+              "valid_response_count": 0
+            },
+            "stimulus": "Written feedback:",
+            "response_id": "0959e935-90c4-4803-bfa7-59fd9a19a9f7_16d725d0b4ff40b54506e43ee9544990",
+            "show_word_count": false,
+            "show_word_limit": "off"
+          },
+          "response": null,
+          "creation_date": "2021-11-26 10:06:15",
+          "mod_date": "2021-11-26 10:06:15",
+          "persist_until": "2021-11-27 10:06:15",
+          "saved": false
+        },
+        null
+      ]
+    },
+    {
+      "response_id": "0959e935-90c4-4803-bfa7-59fd9a19a9f7_25bdfc82f25fb1ef30b4b54f055427be",
+      "question_type": "plaintext",
+      "dt_score_updated": "2021-11-26T09:38:57Z",
+      "automarkable": false,
+      "attempted": true,
+      "score": null,
+      "max_score": 1,
+      "question_reference": "21bc59ec-ce23-4d5e-9c98-a5a92f44cf10",
+      "item_reference": "18d46591-d2d2-4129-b318-7d3248d040b1",
+      "response": {
+        "value": "Leaders need followers, and one definition of leadership is that leaders are people who inspire others to follow.",
+        "wordCount": 18,
+        "type": "string",
+        "apiVersion": "v2.168.13",
+        "revision": 5
+      },
+      "questionInfo": {
+        "type": "plaintext",
+        "widget_type": "response",
+        "reference": "21bc59ec-ce23-4d5e-9c98-a5a92f44cf10",
+        "data": {
+          "stimulus": "<span style=\"font-size:1.5em;\">Justify your answer with a sentence from the text.</span>",
+          "spellcheck": true,
+          "type": "plaintext",
+          "metadata": {
+            "sample_answer": "<p id=\"yui_3_17_2_1_1636644342480_1894\"><span style=\"font-size:1.3em;\">It is above all about the&nbsp;<b><i>relationship&nbsp;</i></b>between the leader and those people being led</span></p>\n\n<p><span style=\"font-size:1.3em;\">or</span><span style=\"font-size:1.3em;\"></span></p>\n\n<p><span style=\"font-size:1.3em;\">Leadership is something that people see or experience, personally</span></p>\n"
+          },
+          "max_length": 200,
+          "show_word_limit": "on-limit",
+          "validation": {
+            "max_score": 1
+          }
+        },
+        "metadata": {
+          "name": "Essay with plain text",
+          "template_reference": "0f559437-5072-475e-830d-1fa9d2f6bb0d"
+        }
+      },
+      "feedbackInfo": [
+        {
+          "id": "0707_3e5d2146-9ae1-470f-bc73-c5ab2b020d68_0959e935-90c4-4803-bfa7-59fd9a19a9f7_76055ad49997d252318c52bd7e3ce59d",
+          "user_id": "3e5d2146-9ae1-470f-bc73-c5ab2b020d68",
+          "response_id": "0959e935-90c4-4803-bfa7-59fd9a19a9f7_76055ad49997d252318c52bd7e3ce59d",
+          "type": "longtextV2",
+          "question": {
+            "type": "longtextV2",
+            "metadata": {
+              "source": {
+                "organisation_id": 755
+              },
+              "sheet_reference": "default_feedback",
+              "widget_reference": "de082b5f-742a-4ecf-82ca-4dc86e218fec",
+              "valid_response_count": 0
+            },
+            "stimulus": "Written feedback:",
+            "response_id": "0959e935-90c4-4803-bfa7-59fd9a19a9f7_76055ad49997d252318c52bd7e3ce59d",
+            "show_word_count": false,
+            "show_word_limit": "off"
+          },
+          "response": null,
+          "creation_date": "2021-11-26 10:06:16",
+          "mod_date": "2021-11-26 10:06:16",
+          "persist_until": "2021-11-27 10:06:16",
+          "saved": false
+        },
+        null
+      ]
+    },
+    {
+      "response_id": "0959e935-90c4-4803-bfa7-59fd9a19a9f7_9c6cd133ff028db9234e4c72c0ef3fb2",
+      "question_type": "mcq",
+      "dt_score_updated": "2021-11-26T09:41:38Z",
+      "automarkable": true,
+      "attempted": true,
+      "score": 1,
+      "max_score": 1,
+      "question_reference": "16080075-8d23-4836-834c-b0361eaca958",
+      "item_reference": "18d46591-d2d2-4129-b318-7d3248d040b1",
+      "response": {
+        "value": [
+          "0"
+        ],
+        "type": "array",
+        "apiVersion": "v2.168.13",
+        "revision": 1
+      },
+      "questionInfo": {
+        "type": "mcq",
+        "widget_type": "response",
+        "reference": "16080075-8d23-4836-834c-b0361eaca958",
+        "data": {
+          "options": [
+            {
+              "label": "True",
+              "value": "0"
+            },
+            {
+              "label": "False",
+              "value": "1"
+            }
+          ],
+          "stimulus": "<img height=\"41\" src=\"https://assets.learnosity.com/organisations/755/abfd7574-7065-4355-b661-4deff61fd4f0.png\" width=\"895\">",
+          "type": "mcq",
+          "ui_style": {
+            "type": "horizontal"
+          },
+          "validation": {
+            "scoring_type": "exactMatch",
+            "valid_response": {
+              "score": 1,
+              "value": [
+                "0"
+              ]
+            }
+          }
+        },
+        "metadata": {
+          "name": "True or false",
+          "template_reference": "3egs0b24-5gs8-49fc-fds9-4a450sdg31ca"
+        }
+      },
+      "feedbackInfo": [
+        {
+          "id": "0707_3e5d2146-9ae1-470f-bc73-c5ab2b020d68_0959e935-90c4-4803-bfa7-59fd9a19a9f7_749435a857079db38e41cd4cff3fe6a2",
+          "user_id": "3e5d2146-9ae1-470f-bc73-c5ab2b020d68",
+          "response_id": "0959e935-90c4-4803-bfa7-59fd9a19a9f7_749435a857079db38e41cd4cff3fe6a2",
+          "type": "longtextV2",
+          "question": {
+            "type": "longtextV2",
+            "metadata": {
+              "source": {
+                "organisation_id": 755
+              },
+              "sheet_reference": "default_feedback",
+              "widget_reference": "de082b5f-742a-4ecf-82ca-4dc86e218fec",
+              "valid_response_count": 0
+            },
+            "stimulus": "Written feedback:",
+            "response_id": "0959e935-90c4-4803-bfa7-59fd9a19a9f7_749435a857079db38e41cd4cff3fe6a2",
+            "show_word_count": false,
+            "show_word_limit": "off"
+          },
+          "response": null,
+          "creation_date": "2021-11-26 10:06:16",
+          "mod_date": "2021-11-26 10:06:16",
+          "persist_until": "2021-11-27 10:06:16",
+          "saved": false
+        },
+        null
+      ]
+    },
+    {
+      "response_id": "0959e935-90c4-4803-bfa7-59fd9a19a9f7_0fd72a0cef4a86b0e09effd8cf17509e",
+      "question_type": "plaintext",
+      "dt_score_updated": "2021-11-26T09:42:23Z",
+      "automarkable": false,
+      "attempted": true,
+      "score": null,
+      "max_score": 1,
+      "question_reference": "1d659ea0-9972-45e5-90a1-a20f13580514",
+      "item_reference": "18d46591-d2d2-4129-b318-7d3248d040b1",
+      "response": {
+        "value": "This definition of leadership implies a degree of volunteerism in \"followership\" ; it is not enough for leaders to say \"im going that way and you must  follow\" even if they have a commanding personality.",
+        "wordCount": 35,
+        "type": "string",
+        "apiVersion": "v2.168.13",
+        "revision": 7
+      },
+      "questionInfo": {
+        "type": "plaintext",
+        "widget_type": "response",
+        "reference": "1d659ea0-9972-45e5-90a1-a20f13580514",
+        "data": {
+          "stimulus": "<span style=\"font-size:1.5em;\">Justify your answer with a sentence from the text.</span>",
+          "spellcheck": true,
+          "type": "plaintext",
+          "metadata": {
+            "sample_answer": "<p id=\"yui_3_17_2_1_1636644442098_1895\"><span style=\"font-size:1.3em;\"><i>it is<b>&nbsp;not enough</b>&nbsp;for leaders to say “l am going that way and you must follow” (line 22/23)</i></span></p>\n\n<p><span style=\"font-size:1.3em;\"><i>or</i></span></p>\n\n<p><span style=\"font-size:1.3em;\"><i>Leaders need followers, and one definition of leadership is that leaders are people who inspire others to follow</i></span></p>\n"
+          },
+          "max_length": 200,
+          "show_word_limit": "on-limit",
+          "validation": {
+            "max_score": 1
+          }
+        },
+        "metadata": {
+          "name": "Essay with plain text",
+          "template_reference": "0f559437-5072-475e-830d-1fa9d2f6bb0d"
+        }
+      },
+      "feedbackInfo": [
+        {
+          "id": "0707_3e5d2146-9ae1-470f-bc73-c5ab2b020d68_0959e935-90c4-4803-bfa7-59fd9a19a9f7_63ded15a52bfbde3ffc919de7faa2475",
+          "user_id": "3e5d2146-9ae1-470f-bc73-c5ab2b020d68",
+          "response_id": "0959e935-90c4-4803-bfa7-59fd9a19a9f7_63ded15a52bfbde3ffc919de7faa2475",
+          "type": "longtextV2",
+          "question": {
+            "type": "longtextV2",
+            "metadata": {
+              "source": {
+                "organisation_id": 755
+              },
+              "sheet_reference": "default_feedback",
+              "widget_reference": "de082b5f-742a-4ecf-82ca-4dc86e218fec",
+              "valid_response_count": 0
+            },
+            "stimulus": "Written feedback:",
+            "response_id": "0959e935-90c4-4803-bfa7-59fd9a19a9f7_63ded15a52bfbde3ffc919de7faa2475",
+            "show_word_count": false,
+            "show_word_limit": "off"
+          },
+          "response": null,
+          "creation_date": "2021-11-26 10:06:17",
+          "mod_date": "2021-11-26 10:06:17",
+          "persist_until": "2021-11-27 10:06:17",
+          "saved": false
+        },
+        null
+      ]
+    },
+    {
+      "response_id": "0959e935-90c4-4803-bfa7-59fd9a19a9f7_eafbf38202f1af477220aca94d6e2f7f",
+      "question_type": "mcq",
+      "dt_score_updated": "2021-11-26T09:45:34Z",
+      "automarkable": true,
+      "attempted": true,
+      "score": 1,
+      "max_score": 1,
+      "question_reference": "65a7be39-4a86-421a-9bc3-d7c58286a082",
+      "item_reference": "18d46591-d2d2-4129-b318-7d3248d040b1",
+      "response": {
+        "value": [
+          "1"
+        ],
+        "type": "array",
+        "apiVersion": "v2.168.13",
+        "revision": 1
+      },
+      "questionInfo": {
+        "type": "mcq",
+        "widget_type": "response",
+        "reference": "65a7be39-4a86-421a-9bc3-d7c58286a082",
+        "data": {
+          "options": [
+            {
+              "label": "True",
+              "value": "0"
+            },
+            {
+              "label": "False",
+              "value": "1"
+            }
+          ],
+          "stimulus": "<img height=\"59\" src=\"https://assets.learnosity.com/organisations/755/3d6e3809-36dc-4f9f-af0d-1ed849b49e7b.png\" width=\"893\">",
+          "type": "mcq",
+          "ui_style": {
+            "type": "horizontal"
+          },
+          "validation": {
+            "scoring_type": "exactMatch",
+            "valid_response": {
+              "score": 1,
+              "value": [
+                "1"
+              ]
+            }
+          }
+        },
+        "metadata": {
+          "name": "True or false",
+          "template_reference": "3egs0b24-5gs8-49fc-fds9-4a450sdg31ca"
+        }
+      },
+      "feedbackInfo": [
+        {
+          "id": "0707_3e5d2146-9ae1-470f-bc73-c5ab2b020d68_0959e935-90c4-4803-bfa7-59fd9a19a9f7_9eb4b076347a6bceeca41c02baf8831d",
+          "user_id": "3e5d2146-9ae1-470f-bc73-c5ab2b020d68",
+          "response_id": "0959e935-90c4-4803-bfa7-59fd9a19a9f7_9eb4b076347a6bceeca41c02baf8831d",
+          "type": "longtextV2",
+          "question": {
+            "type": "longtextV2",
+            "metadata": {
+              "source": {
+                "organisation_id": 755
+              },
+              "sheet_reference": "default_feedback",
+              "widget_reference": "de082b5f-742a-4ecf-82ca-4dc86e218fec",
+              "valid_response_count": 0
+            },
+            "stimulus": "Written feedback:",
+            "response_id": "0959e935-90c4-4803-bfa7-59fd9a19a9f7_9eb4b076347a6bceeca41c02baf8831d",
+            "show_word_count": false,
+            "show_word_limit": "off"
+          },
+          "response": null,
+          "creation_date": "2021-11-26 10:06:17",
+          "mod_date": "2021-11-26 10:06:17",
+          "persist_until": "2021-11-27 10:06:17",
+          "saved": false
+        },
+        null
+      ]
+    },
+    {
+      "response_id": "0959e935-90c4-4803-bfa7-59fd9a19a9f7_9196e804517f0d2c8fc2546a18a686d3",
+      "question_type": "plaintext",
+      "dt_score_updated": "2021-11-26T09:46:19Z",
+      "automarkable": false,
+      "attempted": true,
+      "score": null,
+      "max_score": 1,
+      "question_reference": "687f1340-3f01-4321-8807-8ffb0d0b903c",
+      "item_reference": "18d46591-d2d2-4129-b318-7d3248d040b1",
+      "response": {
+        "value": "However, when people are being asked to put in the extra that is needed to get the job done well, or when they are being asked to do something above and beyond their normal role and responsibility, it is then that leadership becomes essential.",
+        "wordCount": 44,
+        "type": "string",
+        "apiVersion": "v2.168.13",
+        "revision": 6
+      },
+      "questionInfo": {
+        "type": "plaintext",
+        "widget_type": "response",
+        "reference": "687f1340-3f01-4321-8807-8ffb0d0b903c",
+        "data": {
+          "stimulus": "<span style=\"font-size:1.5em;\">Justify your answer with a sentence from the text.</span>",
+          "spellcheck": true,
+          "type": "plaintext",
+          "metadata": {
+            "sample_answer": "<span style=\"font-size:1.3em;\"><i id=\"yui_3_17_2_1_1636644582585_1887\">when are they are being asked to do something&nbsp;<b id=\"yui_3_17_2_1_1636644582585_1892\">above and beyond their</b>&nbsp;normal role and responsibility</i></span>"
+          },
+          "max_length": 200,
+          "show_word_limit": "on-limit",
+          "validation": {
+            "max_score": 1
+          }
+        },
+        "metadata": {
+          "name": "Essay with plain text",
+          "template_reference": "0f559437-5072-475e-830d-1fa9d2f6bb0d"
+        }
+      },
+      "feedbackInfo": [
+        {
+          "id": "0707_3e5d2146-9ae1-470f-bc73-c5ab2b020d68_0959e935-90c4-4803-bfa7-59fd9a19a9f7_b9b1f410ef387d897db40794989936bc",
+          "user_id": "3e5d2146-9ae1-470f-bc73-c5ab2b020d68",
+          "response_id": "0959e935-90c4-4803-bfa7-59fd9a19a9f7_b9b1f410ef387d897db40794989936bc",
+          "type": "longtextV2",
+          "question": {
+            "type": "longtextV2",
+            "metadata": {
+              "source": {
+                "organisation_id": 755
+              },
+              "sheet_reference": "default_feedback",
+              "widget_reference": "de082b5f-742a-4ecf-82ca-4dc86e218fec",
+              "valid_response_count": 0
+            },
+            "stimulus": "Written feedback:",
+            "response_id": "0959e935-90c4-4803-bfa7-59fd9a19a9f7_b9b1f410ef387d897db40794989936bc",
+            "show_word_count": false,
+            "show_word_limit": "off"
+          },
+          "response": null,
+          "creation_date": "2021-11-26 10:06:17",
+          "mod_date": "2021-11-26 10:06:17",
+          "persist_until": "2021-11-27 10:06:17",
+          "saved": false
+        },
+        null
+      ]
+    },
+    {
+      "response_id": "0959e935-90c4-4803-bfa7-59fd9a19a9f7_9e387dab40c5f0c9af21a6330302e488",
+      "question_type": "mcq",
+      "dt_score_updated": "2021-11-26T09:48:34Z",
+      "automarkable": true,
+      "attempted": true,
+      "score": 1,
+      "max_score": 1,
+      "question_reference": "6cfcfd96-0f1f-47ff-93a9-7315327eb6f8",
+      "item_reference": "18d46591-d2d2-4129-b318-7d3248d040b1",
+      "response": {
+        "value": [
+          "2"
+        ],
+        "type": "array",
+        "apiVersion": "v2.168.13",
+        "revision": 1
+      },
+      "questionInfo": {
+        "type": "mcq",
+        "widget_type": "response",
+        "reference": "6cfcfd96-0f1f-47ff-93a9-7315327eb6f8",
+        "data": {
+          "options": [
+            {
+              "label": "optional",
+              "value": "0"
+            },
+            {
+              "label": "incomplete",
+              "value": "1"
+            },
+            {
+              "label": "designed",
+              "value": "2"
+            },
+            {
+              "label": "difficult&nbsp;",
+              "value": "3"
+            }
+          ],
+          "stimulus": "<p>&nbsp;</p>\n\n<h3><span style=\"color:#0000ff;\"><b>Task 4 - Vocabulary. Choose the best synonym for&nbsp;the&nbsp;<u>underlined</u>&nbsp;word.</b></span></h3>\n\n<p><img height=\"51\" src=\"https://assets.learnosity.com/organisations/755/0ec0e397-7385-4aa5-9afb-518059ba2366.png\" width=\"905\" /></p>\n",
+          "type": "mcq",
+          "validation": {
+            "scoring_type": "exactMatch",
+            "valid_response": {
+              "score": 1,
+              "value": [
+                "2"
+              ]
+            }
+          },
+          "ui_style": {
+            "type": "horizontal"
+          }
+        },
+        "metadata": {
+          "name": "Multiple choice – standard",
+          "template_reference": "9e8149bd-e4d8-4dd6-a751-1a113a4b9163"
+        }
+      },
+      "feedbackInfo": [
+        {
+          "id": "0707_3e5d2146-9ae1-470f-bc73-c5ab2b020d68_0959e935-90c4-4803-bfa7-59fd9a19a9f7_197130f05edfcc2e88fbf07c3276b5ac",
+          "user_id": "3e5d2146-9ae1-470f-bc73-c5ab2b020d68",
+          "response_id": "0959e935-90c4-4803-bfa7-59fd9a19a9f7_197130f05edfcc2e88fbf07c3276b5ac",
+          "type": "longtextV2",
+          "question": {
+            "type": "longtextV2",
+            "metadata": {
+              "source": {
+                "organisation_id": 755
+              },
+              "sheet_reference": "default_feedback",
+              "widget_reference": "de082b5f-742a-4ecf-82ca-4dc86e218fec",
+              "valid_response_count": 0
+            },
+            "stimulus": "Written feedback:",
+            "response_id": "0959e935-90c4-4803-bfa7-59fd9a19a9f7_197130f05edfcc2e88fbf07c3276b5ac",
+            "show_word_count": false,
+            "show_word_limit": "off"
+          },
+          "response": null,
+          "creation_date": "2021-11-26 10:06:18",
+          "mod_date": "2021-11-26 10:06:18",
+          "persist_until": "2021-11-27 10:06:18",
+          "saved": false
+        },
+        null
+      ]
+    },
+    {
+      "response_id": "0959e935-90c4-4803-bfa7-59fd9a19a9f7_f54bc8e98a75e3572a4b7652449d2fd6",
+      "question_type": "mcq",
+      "dt_score_updated": "2021-11-26T09:48:44Z",
+      "automarkable": false,
+      "attempted": true,
+      "score": null,
+      "max_score": null,
+      "question_reference": "23d36c1a-7c28-4ad5-9461-099d2e55290f",
+      "item_reference": "18d46591-d2d2-4129-b318-7d3248d040b1",
+      "response": {
+        "value": [
+          "3"
+        ],
+        "type": "array",
+        "apiVersion": "v2.168.13",
+        "revision": 1
+      },
+      "questionInfo": {
+        "type": "mcq",
+        "widget_type": "response",
+        "reference": "23d36c1a-7c28-4ad5-9461-099d2e55290f",
+        "data": {
+          "options": [
+            {
+              "label": "perspective",
+              "value": "0"
+            },
+            {
+              "label": "options",
+              "value": "1"
+            },
+            {
+              "label": "aims",
+              "value": "2"
+            },
+            {
+              "label": "direction",
+              "value": "3"
+            }
+          ],
+          "stimulus": "<img height=\"45\" src=\"https://assets.learnosity.com/organisations/755/4f8866a4-2fc0-4509-828d-fe3390aef65a.png\" width=\"897\">",
+          "type": "mcq",
+          "validation": {
+            "scoring_type": "exactMatch",
+            "valid_response": {
+              "score": 1,
+              "value": [
+                "3"
+              ]
+            }
+          },
+          "ui_style": {
+            "type": "horizontal"
+          }
+        },
+        "metadata": {
+          "name": "Multiple choice – standard",
+          "template_reference": "9e8149bd-e4d8-4dd6-a751-1a113a4b9163"
+        }
+      },
+      "feedbackInfo": [
+        {
+          "id": "0707_3e5d2146-9ae1-470f-bc73-c5ab2b020d68_0959e935-90c4-4803-bfa7-59fd9a19a9f7_a1f319ff845c213256dc74b98fa36566",
+          "user_id": "3e5d2146-9ae1-470f-bc73-c5ab2b020d68",
+          "response_id": "0959e935-90c4-4803-bfa7-59fd9a19a9f7_a1f319ff845c213256dc74b98fa36566",
+          "type": "longtextV2",
+          "question": {
+            "type": "longtextV2",
+            "metadata": {
+              "source": {
+                "organisation_id": 755
+              },
+              "sheet_reference": "default_feedback",
+              "widget_reference": "de082b5f-742a-4ecf-82ca-4dc86e218fec",
+              "valid_response_count": 0
+            },
+            "stimulus": "Written feedback:",
+            "response_id": "0959e935-90c4-4803-bfa7-59fd9a19a9f7_a1f319ff845c213256dc74b98fa36566",
+            "show_word_count": false,
+            "show_word_limit": "off"
+          },
+          "response": null,
+          "creation_date": "2021-11-26 10:06:18",
+          "mod_date": "2021-11-26 10:06:18",
+          "persist_until": "2021-11-27 10:06:18",
+          "saved": false
+        },
+        null
+      ]
+    },
+    {
+      "response_id": "0959e935-90c4-4803-bfa7-59fd9a19a9f7_177bdd75e81c6ffbe919feed440dcf1c",
+      "question_type": "mcq",
+      "dt_score_updated": "2021-11-26T09:48:49Z",
+      "automarkable": true,
+      "attempted": true,
+      "score": 1,
+      "max_score": 1,
+      "question_reference": "a8bf56dc-8f86-4162-9a01-7a039a202a38",
+      "item_reference": "18d46591-d2d2-4129-b318-7d3248d040b1",
+      "response": {
+        "value": [
+          "0"
+        ],
+        "type": "array",
+        "apiVersion": "v2.168.13",
+        "revision": 1
+      },
+      "questionInfo": {
+        "type": "mcq",
+        "widget_type": "response",
+        "reference": "a8bf56dc-8f86-4162-9a01-7a039a202a38",
+        "data": {
+          "options": [
+            {
+              "label": "important",
+              "value": "0"
+            },
+            {
+              "label": "hidden",
+              "value": "1"
+            },
+            {
+              "label": "strange",
+              "value": "2"
+            },
+            {
+              "label": "secondary",
+              "value": "3"
+            }
+          ],
+          "stimulus": "<img height=\"43\" src=\"https://assets.learnosity.com/organisations/755/6a99fc35-3639-48dd-9ec2-ec4e8a32b4a9.png\" width=\"897\">",
+          "type": "mcq",
+          "validation": {
+            "scoring_type": "exactMatch",
+            "valid_response": {
+              "score": 1,
+              "value": [
+                "0"
+              ]
+            }
+          },
+          "ui_style": {
+            "type": "horizontal"
+          }
+        },
+        "metadata": {
+          "name": "Multiple choice – standard",
+          "template_reference": "9e8149bd-e4d8-4dd6-a751-1a113a4b9163"
+        }
+      },
+      "feedbackInfo": [
+        {
+          "id": "0707_3e5d2146-9ae1-470f-bc73-c5ab2b020d68_0959e935-90c4-4803-bfa7-59fd9a19a9f7_99942e6ef5f7c270e1018568ae3d66bb",
+          "user_id": "3e5d2146-9ae1-470f-bc73-c5ab2b020d68",
+          "response_id": "0959e935-90c4-4803-bfa7-59fd9a19a9f7_99942e6ef5f7c270e1018568ae3d66bb",
+          "type": "longtextV2",
+          "question": {
+            "type": "longtextV2",
+            "metadata": {
+              "source": {
+                "organisation_id": 755
+              },
+              "sheet_reference": "default_feedback",
+              "widget_reference": "de082b5f-742a-4ecf-82ca-4dc86e218fec",
+              "valid_response_count": 0
+            },
+            "stimulus": "Written feedback:",
+            "response_id": "0959e935-90c4-4803-bfa7-59fd9a19a9f7_99942e6ef5f7c270e1018568ae3d66bb",
+            "show_word_count": false,
+            "show_word_limit": "off"
+          },
+          "response": null,
+          "creation_date": "2021-11-26 10:06:19",
+          "mod_date": "2021-11-26 10:06:19",
+          "persist_until": "2021-11-27 10:06:19",
+          "saved": false
+        },
+        null
+      ]
+    },
+    {
+      "response_id": "0959e935-90c4-4803-bfa7-59fd9a19a9f7_dd94d67d1ea5ffa09974deb1032e9584",
+      "question_type": "shorttext",
+      "dt_score_updated": "2021-11-26T09:48:59Z",
+      "automarkable": true,
+      "attempted": true,
+      "score": 1,
+      "max_score": 1,
+      "question_reference": "15ed345c-c2e7-4031-8cc0-3e026eb5716b",
+      "item_reference": "18d46591-d2d2-4129-b318-7d3248d040b1",
+      "response": {
+        "value": "Leadership",
+        "characterCount": 10,
+        "type": "string",
+        "apiVersion": "v2.168.13",
+        "revision": 1
+      },
+      "questionInfo": {
+        "type": "shorttext",
+        "widget_type": "response",
+        "reference": "15ed345c-c2e7-4031-8cc0-3e026eb5716b",
+        "data": {
+          "stimulus": "<h3><b>Task 5 - Referring Words - What do the&nbsp;highlighted&nbsp;words refer to?</b></h3>\n\n<p><img height=\"44\" src=\"https://assets.learnosity.com/organisations/755/ee09d55a-991f-4baf-bd1a-29f82ed0785a.png\" width=\"899\"></p>\n",
+          "type": "shorttext",
+          "validation": {
+            "scoring_type": "exactMatch",
+            "valid_response": {
+              "score": 1,
+              "matching_rule": "contains",
+              "value": "leadership"
+            },
+            "automarkable": false,
+            "alt_responses": [
+              {
+                "score": 1,
+                "value": ""
+              }
+            ],
+            "max_score": 1
+          },
+          "metadata": {
+            "sample_answer": "leadership"
+          }
+        },
+        "metadata": {
+          "name": "Short text",
+          "template_reference": "4fe6c726-419c-4aff-b189-4a9756a0ffda"
+        }
+      },
+      "feedbackInfo": [
+        {
+          "id": "0707_3e5d2146-9ae1-470f-bc73-c5ab2b020d68_0959e935-90c4-4803-bfa7-59fd9a19a9f7_27eef75be894221d1a84ea2e969ebae3",
+          "user_id": "3e5d2146-9ae1-470f-bc73-c5ab2b020d68",
+          "response_id": "0959e935-90c4-4803-bfa7-59fd9a19a9f7_27eef75be894221d1a84ea2e969ebae3",
+          "type": "longtextV2",
+          "question": {
+            "type": "longtextV2",
+            "metadata": {
+              "source": {
+                "organisation_id": 755
+              },
+              "sheet_reference": "default_feedback",
+              "widget_reference": "de082b5f-742a-4ecf-82ca-4dc86e218fec",
+              "valid_response_count": 0
+            },
+            "stimulus": "Written feedback:",
+            "response_id": "0959e935-90c4-4803-bfa7-59fd9a19a9f7_27eef75be894221d1a84ea2e969ebae3",
+            "show_word_count": false,
+            "show_word_limit": "off"
+          },
+          "response": null,
+          "creation_date": "2021-11-26 10:06:19",
+          "mod_date": "2021-11-26 10:06:19",
+          "persist_until": "2021-11-27 10:06:19",
+          "saved": false
+        },
+        null
+      ]
+    },
+    {
+      "response_id": "0959e935-90c4-4803-bfa7-59fd9a19a9f7_9b726dfeef7017f97ee77480e5d7617f",
+      "question_type": "shorttext",
+      "dt_score_updated": "2021-11-26T09:49:09Z",
+      "automarkable": true,
+      "attempted": true,
+      "score": 1,
+      "max_score": 1,
+      "question_reference": "77d88f0c-8fa4-4543-afb8-3df9ac352bac",
+      "item_reference": "18d46591-d2d2-4129-b318-7d3248d040b1",
+      "response": {
+        "value": "creative managers",
+        "characterCount": 17,
+        "type": "string",
+        "apiVersion": "v2.168.13",
+        "revision": 1
+      },
+      "questionInfo": {
+        "type": "shorttext",
+        "widget_type": "response",
+        "reference": "77d88f0c-8fa4-4543-afb8-3df9ac352bac",
+        "data": {
+          "stimulus": "<p>&nbsp;</p>\n\n<p><img height=\"37\" src=\"https://assets.learnosity.com/organisations/755/16284848-64b8-4fff-944f-325bd5a51c56.png\" width=\"890\"></p>\n",
+          "type": "shorttext",
+          "validation": {
+            "scoring_type": "exactMatch",
+            "valid_response": {
+              "score": 1,
+              "matching_rule": "contains",
+              "value": "creative managers"
+            },
+            "automarkable": false,
+            "max_score": 1
+          },
+          "metadata": {
+            "sample_answer": "creative managers"
+          }
+        },
+        "metadata": {
+          "name": "Short text",
+          "template_reference": "4fe6c726-419c-4aff-b189-4a9756a0ffda"
+        }
+      },
+      "feedbackInfo": [
+        {
+          "id": "0707_3e5d2146-9ae1-470f-bc73-c5ab2b020d68_0959e935-90c4-4803-bfa7-59fd9a19a9f7_e1c338ffe4311133136c9424eba7363a",
+          "user_id": "3e5d2146-9ae1-470f-bc73-c5ab2b020d68",
+          "response_id": "0959e935-90c4-4803-bfa7-59fd9a19a9f7_e1c338ffe4311133136c9424eba7363a",
+          "type": "longtextV2",
+          "question": {
+            "type": "longtextV2",
+            "metadata": {
+              "source": {
+                "organisation_id": 755
+              },
+              "sheet_reference": "default_feedback",
+              "widget_reference": "de082b5f-742a-4ecf-82ca-4dc86e218fec",
+              "valid_response_count": 0
+            },
+            "stimulus": "Written feedback:",
+            "response_id": "0959e935-90c4-4803-bfa7-59fd9a19a9f7_e1c338ffe4311133136c9424eba7363a",
+            "show_word_count": false,
+            "show_word_limit": "off"
+          },
+          "response": null,
+          "creation_date": "2021-11-26 10:06:19",
+          "mod_date": "2021-11-26 10:06:19",
+          "persist_until": "2021-11-27 10:06:19",
+          "saved": false
+        },
+        null
+      ]
+    },
+    {
+      "response_id": "0959e935-90c4-4803-bfa7-59fd9a19a9f7_245cfb96e1f73cd96b637fcf2ce2be1e",
+      "question_type": "shorttext",
+      "dt_score_updated": "2021-11-26T09:49:40Z",
+      "automarkable": true,
+      "attempted": true,
+      "score": 1,
+      "max_score": 1,
+      "question_reference": "6df420fe-fedd-4ac9-b55d-242bfccb3e03",
+      "item_reference": "18d46591-d2d2-4129-b318-7d3248d040b1",
+      "response": {
+        "value": "going somewhere",
+        "characterCount": 15,
+        "type": "string",
+        "apiVersion": "v2.168.13",
+        "revision": 1
+      },
+      "questionInfo": {
+        "type": "shorttext",
+        "widget_type": "response",
+        "reference": "6df420fe-fedd-4ac9-b55d-242bfccb3e03",
+        "data": {
+          "stimulus": "<p>&nbsp;</p>\n\n<p><img height=\"41\" src=\"https://assets.learnosity.com/organisations/755/fba7eef3-d1f8-45ee-9207-d3f600953e03.png\" width=\"905\"></p>\n",
+          "type": "shorttext",
+          "validation": {
+            "scoring_type": "exactMatch",
+            "valid_response": {
+              "score": 1,
+              "matching_rule": "contains",
+              "value": "going somewhere"
+            },
+            "automarkable": false,
+            "max_score": 1
+          },
+          "metadata": {
+            "sample_answer": "going somewhere"
+          }
+        },
+        "metadata": {
+          "name": "Short text",
+          "template_reference": "4fe6c726-419c-4aff-b189-4a9756a0ffda"
+        }
+      },
+      "feedbackInfo": [
+        {
+          "id": "0707_3e5d2146-9ae1-470f-bc73-c5ab2b020d68_0959e935-90c4-4803-bfa7-59fd9a19a9f7_0f0e244b2c54b2b378d7d867fdd79136",
+          "user_id": "3e5d2146-9ae1-470f-bc73-c5ab2b020d68",
+          "response_id": "0959e935-90c4-4803-bfa7-59fd9a19a9f7_0f0e244b2c54b2b378d7d867fdd79136",
+          "type": "longtextV2",
+          "question": {
+            "type": "longtextV2",
+            "metadata": {
+              "source": {
+                "organisation_id": 755
+              },
+              "sheet_reference": "default_feedback",
+              "widget_reference": "de082b5f-742a-4ecf-82ca-4dc86e218fec",
+              "valid_response_count": 0
+            },
+            "stimulus": "Written feedback:",
+            "response_id": "0959e935-90c4-4803-bfa7-59fd9a19a9f7_0f0e244b2c54b2b378d7d867fdd79136",
+            "show_word_count": false,
+            "show_word_limit": "off"
+          },
+          "response": null,
+          "creation_date": "2021-11-26 10:06:20",
+          "mod_date": "2021-11-26 10:06:20",
+          "persist_until": "2021-11-27 10:06:20",
+          "saved": false
+        },
+        null
+      ]
+    }
+  ]
+}

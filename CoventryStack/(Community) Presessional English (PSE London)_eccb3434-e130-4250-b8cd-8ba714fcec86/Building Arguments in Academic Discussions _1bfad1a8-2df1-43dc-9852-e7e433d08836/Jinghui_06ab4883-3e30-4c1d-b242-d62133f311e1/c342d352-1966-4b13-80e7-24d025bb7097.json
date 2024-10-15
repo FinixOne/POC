@@ -1,0 +1,1167 @@
+{
+  "userId": "06ab4883-3e30-4c1d-b242-d62133f311e1",
+  "firstName": "Jinghui",
+  "lastName": "Yu",
+  "assigmentId": "1bfad1a8-2df1-43dc-9852-e7e433d08836",
+  "assigmentName": "Building Arguments in Academic Discussions ",
+  "sessionId": "c342d352-1966-4b13-80e7-24d025bb7097",
+  "email": "yuj71@coventry.ac.uk",
+  "spaceId": "eccb3434-e130-4250-b8cd-8ba714fcec86",
+  "spaceName": "(Community) Presessional English (PSE London)",
+  "score": 26,
+  "max_score": 30,
+  "questions": [
+    {
+      "response_id": "c342d352-1966-4b13-80e7-24d025bb7097_f957dcd5b4a412ea36f8b7abec6e12b1",
+      "question_type": "choicematrix",
+      "dt_score_updated": "2023-10-23T08:27:25Z",
+      "automarkable": false,
+      "attempted": true,
+      "score": null,
+      "max_score": null,
+      "question_reference": "426f1d0c-3e18-4a7e-a48c-1844419c21fe",
+      "item_reference": "9e801e47-abd3-4751-be4d-124a1000cb2c",
+      "response": {
+        "value": [
+          [
+            0
+          ],
+          [
+            1
+          ],
+          [
+            0
+          ]
+        ],
+        "type": "array",
+        "apiVersion": "v2.192.16",
+        "revision": 1
+      },
+      "questionInfo": {
+        "type": "choicematrix",
+        "widget_type": "response",
+        "reference": "426f1d0c-3e18-4a7e-a48c-1844419c21fe",
+        "data": {
+          "options": [
+            "<span style=\"color:#008000;\"><strong>FOR (agree with the topic)</strong></span>",
+            "<span style=\"color:#ff0000;\"><strong>AGAINST (disagree with the topic)</strong></span>"
+          ],
+          "stems": [
+            "<strong><span style=\"font-size:1.3em;\">Rachel</span></strong>",
+            "<strong><span style=\"font-size:1.3em;\">Sean</span></strong>",
+            "<span style=\"font-size:1.3em;\"><strong>Sania</strong></span>"
+          ],
+          "stimulus": "<table class=\"table table-condensed table-no-border\">\n\t<tbody>\n\t\t<tr>\n\t\t\t<td><img class=\"lrn-image-left lrn-image-non-responsive\" height=\"157\" src=\"https://assets.learnosity.com/organisations/755/6374f4f8-d6b0-4d63-b58f-2dafe6de0c52.jpg\" width=\"100\"></td>\n\t\t\t<td>\n\t\t\t<p id=\"yui_3_17_2_1_1634201472259_121\"><span style=\"color:#ff8c00;\"><strong><span style=\"font-size:2em;\">Seminar Discussion - Identifying Viewpoints</span></strong></span></p>\n\n\t\t\t<h4><strong>Listen to Rachel (speaker A), Sania (speaker B) and Sean (speaker C) discussing the seminar topic \"Gender Equality in the Workplace is Achievable\"</strong></h4>\n\n\t\t\t<p>&nbsp;</p>\n\t\t\t</td>\n\t\t</tr>\n\t</tbody>\n</table>\n\n<h2 id=\"yui_3_17_2_1_1634201472259_121\"><span class=\"learnosity-feature\" data-player_type=\"hosted-video\" data-simplefeature_id=\"ceb5fb49-4cbc-4ee6-9a5f-293c9eceb30b\" data-src=\"https://assets.learnosity.com/organisations/755/b523f6bd-c793-486a-910a-523d8a807019.mp4\" data-type=\"videoplayer\"></span></h2>\n\n<h4>&nbsp;</h4>\n\n<h4><strong><span style=\"color:#ff8c00;\">►</span> For each speaker, decide whether they are mainly <u><span style=\"color:#008000;\">FOR the topic (they agree with it)</span></u> or <u><span style=\"color:#ff0000;\">AGAINST (they disagree with it)</span></u>.</strong></h4>\n\n<p>&nbsp;</p>\n",
+          "type": "choicematrix",
+          "ui_style": {
+            "stem_numeration": "upper-alpha",
+            "type": "table",
+            "horizontal_lines": false
+          },
+          "validation": {
+            "scoring_type": "partialMatchV2",
+            "valid_response": {
+              "score": 3,
+              "value": [
+                null,
+                null,
+                null
+              ]
+            }
+          },
+          "instant_feedback": true
+        },
+        "metadata": {
+          "name": "Choice matrix – labels",
+          "template_reference": "9de82e14-802c-4bea-a635-bf9ad0b622fb"
+        }
+      },
+      "feedbackInfo": [
+        null,
+        null
+      ]
+    },
+    {
+      "response_id": "c342d352-1966-4b13-80e7-24d025bb7097_9a77b56aff3b3b39ade8c4bf6da606fb",
+      "question_type": "clozedropdown",
+      "dt_score_updated": "2023-10-23T08:27:25Z",
+      "automarkable": true,
+      "attempted": true,
+      "score": 2,
+      "max_score": 2,
+      "question_reference": "35f30db0-111e-4a0a-b5af-d57bfc70f197",
+      "item_reference": "9e801e47-abd3-4751-be4d-124a1000cb2c",
+      "response": {
+        "value": [
+          "evidence",
+          "more persuasive"
+        ],
+        "type": "array",
+        "apiVersion": "v2.192.16",
+        "revision": 1,
+        "feedbackAttemptsCount": 1
+      },
+      "questionInfo": {
+        "type": "clozedropdown",
+        "widget_type": "response",
+        "reference": "35f30db0-111e-4a0a-b5af-d57bfc70f197",
+        "data": {
+          "possible_responses": [
+            [
+              "evidence",
+              "plagiarism"
+            ],
+            [
+              "more persuasive",
+              "longer"
+            ]
+          ],
+          "response_container": {
+            "pointer": "left"
+          },
+          "template": "<p>&nbsp;</p>\n<img class=\"lrn-image-left\" height=\"131\" src=\"https://assets.learnosity.com/organisations/755/cfd2dafc-9d96-49af-a1d8-5288ad0d20ae.jpg\" width=\"200\"><b style=\"color: rgb(139, 69, 19); font-size: 2em; font-family: &quot;Helvetica Neue&quot;, Helvetica, Arial, sans-serif;\">Identifying Evidence&nbsp;</b>\n\n<h4><b><span style=\"color:#8b4513;\">►</span> In an academic discussion you need to <u><span style=\"color:#8b4513;\">support your arguments with </span></u></b>{{response}}<b><u><span style=\"color:#8b4513;\"></span></u> from suitable sources. This makes your argument&nbsp;<u><span style=\"color:#8b4513;\"></span></u></b>{{response}}&nbsp;<b>and more academic.</b></h4>\n\n<p>&nbsp;</p>\n",
+          "type": "clozedropdown",
+          "case_sensitive": true,
+          "validation": {
+            "scoring_type": "partialMatchV2",
+            "valid_response": {
+              "score": 2,
+              "value": [
+                "evidence",
+                "more persuasive"
+              ]
+            }
+          },
+          "instant_feedback": true,
+          "shuffle_options": true
+        },
+        "metadata": {
+          "name": "Cloze with drop down",
+          "template_reference": "2fbba51b-e35e-441f-83c7-2662e2e81fa6"
+        }
+      },
+      "feedbackInfo": [
+        null,
+        null
+      ]
+    },
+    {
+      "response_id": "c342d352-1966-4b13-80e7-24d025bb7097_104346400561d55cb3f453e86a3f8acd",
+      "question_type": "choicematrix",
+      "dt_score_updated": "2023-10-23T08:30:43Z",
+      "automarkable": true,
+      "attempted": true,
+      "score": 0,
+      "max_score": 1,
+      "question_reference": "f003b720-0629-4c7a-b200-df7b31fb08a6",
+      "item_reference": "9e801e47-abd3-4751-be4d-124a1000cb2c",
+      "response": {
+        "value": [
+          [
+            2
+          ],
+          [
+            0
+          ],
+          [
+            0
+          ],
+          [
+            1
+          ],
+          [
+            0
+          ],
+          [
+            1
+          ],
+          [
+            2
+          ],
+          [
+            2
+          ],
+          [
+            0
+          ],
+          [
+            0
+          ],
+          [
+            0
+          ],
+          [
+            1
+          ],
+          [
+            2
+          ]
+        ],
+        "type": "array",
+        "apiVersion": "v2.192.16",
+        "revision": 2,
+        "feedbackAttemptsCount": 6
+      },
+      "questionInfo": {
+        "type": "choicematrix",
+        "widget_type": "response",
+        "reference": "f003b720-0629-4c7a-b200-df7b31fb08a6",
+        "data": {
+          "options": [
+            "Evidence from source",
+            "Evaluation based on evidence",
+            "No evidence given"
+          ],
+          "stems": [
+            "<span style=\"font-size:1.1em;\"><strong>Someone has to stay at home to look after the children</strong></span>",
+            "<span style=\"font-size:1.1em;\"><strong>A scheme in Germany offers parents two thirds of their salary for up to 14 months, if they take time off work to look after a baby – and it is open to mothers or fathers</strong></span>",
+            "<span style=\"font-size:1.1em;\"><strong>A lot of people don’t like the policy because it's paid for by employers and employees</strong></span>",
+            "<span style=\"font-size:1.1em;\"><strong>The benefits outweigh the disadvantages</strong></span>",
+            "<span style=\"font-size:1.1em;\"><strong>All members of the family benefit from fathers being able to share in childcare</strong></span>",
+            "<span style=\"font-size:1.1em;\"><strong>We’re looking at a better work-life balance for men and women and then deciding between childcare and career doesn’t depend on gender</strong></span>",
+            "<span style=\"font-size:1.1em;\"><strong>Women still hold fewer higher positions. This is even in careers, like teaching, where there are more women overall</strong></span>",
+            "<span style=\"font-size:1.1em;\"><strong>Men are just more ambitious</strong></span>",
+            "<span style=\"font-size:1.1em;\"><strong>The main problem is stereotyping and a lack of good female role models. It says that even when they are children, women start to believe that they can’t behave in certain ways, or choose certain subjects at school.</strong></span>",
+            "<span style=\"font-size:1.1em;\"><strong>If they were more aware of positive examples, of women succeeding in traditionally male-dominated careers, this could give women the confidence to challenge stereotypes</strong></span>",
+            "<span style=\"font-size:1.1em;\"><strong>A lot of women actually have to work harder than men to achieve the same position</strong></span>",
+            "<span style=\"font-size:1.1em;\"><strong>In these cases, the women are clearly very ambitious and very capable</strong></span>",
+            "<span style=\"font-size:1.1em;\"><strong>The system can be the issue (sexism in institutions) not differences in individual attitude or ability</strong></span>"
+          ],
+          "stimulus": "<p><strong style=\"color: inherit; font-family: &quot;Helvetica Neue&quot;, Helvetica, Arial, sans-serif; font-size: 1.43em;\"><span style=\"color:#8b4513;\">►</span> In the&nbsp;discussion above the participants referred to the texts 'Parental Leave' and 'Still Hitting the Ceiling', which you studied in your previous online lesson.&nbsp;</strong></p>\n\n<p>&nbsp;</p>\n\n<h4><strong>Read the arguments below - they were used in the discussion above.</strong></h4>\n\n<h4><strong>For each argument, decide if they were...</strong></h4>\n\n<h5 style=\"margin-left: 40px;\"><strong><span style=\"color:#008000;\">► Based on evidence&nbsp;from sources&nbsp;</span>(the participant gives information from a cited source)&nbsp;</strong></h5>\n\n<h5 style=\"margin-left: 40px;\"><strong><span style=\"color:#008000;\">► Evaluation based on evidence</span>&nbsp;(the participant gives their opinion based on cited evidence)</strong></h5>\n\n<h5 style=\"margin-left: 40px;\"><strong><span style=\"color:#ff0000;\">► No evidence</span> (the participant does not cite a source to support what they are saying)&nbsp;&nbsp;&nbsp; &nbsp;&nbsp;</strong></h5>\n\n<p>&nbsp;</p>\n\n<p><u><span style=\"color:#0000ff;\"><strong>(watch the video again to check!)</strong></span></u></p>\n",
+          "type": "choicematrix",
+          "ui_style": {
+            "type": "inline",
+            "horizontal_lines": false
+          },
+          "validation": {
+            "scoring_type": "partialMatchV2",
+            "valid_response": {
+              "score": 1,
+              "value": [
+                [
+                  2
+                ],
+                [
+                  0
+                ],
+                [
+                  0
+                ],
+                [
+                  1
+                ],
+                [
+                  0
+                ],
+                [
+                  1
+                ],
+                [
+                  0
+                ],
+                [
+                  2
+                ],
+                [
+                  0
+                ],
+                [
+                  0
+                ],
+                [
+                  0
+                ],
+                [
+                  1
+                ],
+                [
+                  1
+                ]
+              ]
+            }
+          },
+          "instant_feedback": true
+        },
+        "metadata": {
+          "name": "Choice matrix – inline",
+          "template_reference": "f109c77c-390e-4595-93b8-2dbd547251b6"
+        }
+      },
+      "feedbackInfo": [
+        null,
+        null
+      ]
+    },
+    {
+      "response_id": "c342d352-1966-4b13-80e7-24d025bb7097_31141e0b6d82c2250efe033f35ea699c",
+      "question_type": "clozedropdown",
+      "dt_score_updated": "2023-10-23T08:33:05Z",
+      "automarkable": true,
+      "attempted": true,
+      "score": 1,
+      "max_score": 1,
+      "question_reference": "622db195-5c3c-4e0e-b13c-2c1af1456a06",
+      "item_reference": "e9eada57-98d8-4a6b-bdd4-b0123d687825",
+      "response": {
+        "value": [
+          "using your own words"
+        ],
+        "type": "array",
+        "apiVersion": "v2.192.16",
+        "revision": 1,
+        "feedbackAttemptsCount": 1
+      },
+      "questionInfo": {
+        "type": "clozedropdown",
+        "widget_type": "response",
+        "reference": "622db195-5c3c-4e0e-b13c-2c1af1456a06",
+        "data": {
+          "possible_responses": [
+            [
+              "using your own words",
+              "using the exact words in the source"
+            ]
+          ],
+          "response_container": {
+            "pointer": "left"
+          },
+          "stimulus": "<table class=\"table table-condensed table-no-border lrn_width_auto\">\n\t<tbody>\n\t\t<tr>\n\t\t\t<td><img class=\"lrn-image-non-responsive\" height=\"130\" src=\"https://assets.learnosity.com/organisations/755/82946611-8f44-4a4d-a110-57bbbd8757b6.png\" width=\"130\"></td>\n\t\t\t<td>\n\t\t\t<h2><span style=\"color:#0000cd;\"><b>Paraphrasing in Speaking&nbsp;</b></span></h2>\n\n\t\t\t<h4><b>When speakers use evidence from sources in a seminar discussion or a presentation, they need to&nbsp;<u><span style=\"color:#0000cd;\">paraphrase</span></u>&nbsp;key ideas.&nbsp;</b></h4>\n\t\t\t</td>\n\t\t</tr>\n\t</tbody>\n</table>\n\n<h4>&nbsp;</h4>\n",
+          "template": "<span style=\"font-size:1.3em;\"><b><span style=\"color:#0000cd;\">► </span>This means&nbsp;</b>{{response}}<b>&nbsp;to express the ideas in the texts you read when you are researching for your assignments.</b></span>",
+          "type": "clozedropdown",
+          "case_sensitive": true,
+          "validation": {
+            "scoring_type": "exactMatch",
+            "valid_response": {
+              "score": 1,
+              "value": [
+                "using your own words"
+              ]
+            }
+          },
+          "instant_feedback": true
+        },
+        "metadata": {
+          "name": "Cloze with drop down",
+          "template_reference": "2fbba51b-e35e-441f-83c7-2662e2e81fa6"
+        }
+      },
+      "feedbackInfo": [
+        null,
+        null
+      ]
+    },
+    {
+      "response_id": "c342d352-1966-4b13-80e7-24d025bb7097_522a79dae82407f703ba16159bd49d1e",
+      "question_type": "mcq",
+      "dt_score_updated": "2023-10-23T08:33:19Z",
+      "automarkable": true,
+      "attempted": true,
+      "score": 0,
+      "max_score": 1,
+      "question_reference": "8ef567cf-ec4b-455d-ada7-c74a4c8b6c49",
+      "item_reference": "e9eada57-98d8-4a6b-bdd4-b0123d687825",
+      "response": {
+        "value": [
+          "1",
+          "0"
+        ],
+        "type": "array",
+        "apiVersion": "v2.192.16",
+        "revision": 1,
+        "feedbackAttemptsCount": 1
+      },
+      "questionInfo": {
+        "type": "mcq",
+        "widget_type": "response",
+        "reference": "8ef567cf-ec4b-455d-ada7-c74a4c8b6c49",
+        "data": {
+          "multiple_responses": true,
+          "options": [
+            {
+              "label": "<span style=\"font-size:1.1em;\">it shows you understand the source.</span>",
+              "value": "1"
+            },
+            {
+              "label": "<span style=\"font-size:1.1em;\">it helps the speaker to avoid plagiarism.</span>",
+              "value": "0"
+            },
+            {
+              "label": "<span style=\"font-size:1.1em;\">it helps other participants to understand the key ideas so they can respond and continue the discussion.</span>",
+              "value": "2"
+            },
+            {
+              "label": "<span style=\"font-size:1.1em;\">your tutor likes it.</span>",
+              "value": "3"
+            },
+            {
+              "label": "<span style=\"font-size:1.1em;\">it makes you sound smart and intelligent.</span>",
+              "value": "4"
+            }
+          ],
+          "stimulus": "<div class=\"lrn-well\"><strong><span style=\"font-size:1.3em;\">This is important because...</span></strong></div>\n\n<p style=\"margin-left: 40px;\"><span style=\"color:#0000cd;\"><strong>(choose THREE)&nbsp;</strong></span></p>\n",
+          "type": "mcq",
+          "validation": {
+            "scoring_type": "partialMatchV2",
+            "valid_response": {
+              "score": 1,
+              "value": [
+                "1",
+                "0",
+                "2"
+              ]
+            }
+          },
+          "ui_style": {
+            "type": "horizontal"
+          },
+          "instant_feedback": true,
+          "shuffle_options": true
+        },
+        "metadata": {
+          "name": "Multiple choice – multiple response",
+          "template_reference": "908de244-5c71-4c09-b094-7fb49554f2f9"
+        }
+      },
+      "feedbackInfo": [
+        null,
+        null
+      ]
+    },
+    {
+      "response_id": "c342d352-1966-4b13-80e7-24d025bb7097_412dc8f79a5ec13653e82b6af0d1343a",
+      "question_type": "association",
+      "dt_score_updated": "2023-10-23T08:34:03Z",
+      "automarkable": true,
+      "attempted": true,
+      "score": 5,
+      "max_score": 5,
+      "question_reference": "48d130e6-6e36-4926-a456-7d2c7ca8fb67",
+      "item_reference": "e9eada57-98d8-4a6b-bdd4-b0123d687825",
+      "response": {
+        "value": [
+          "<span style=\"font-size:1.1em;\"><span style=\"color:#008000;\"><strong>Paraphrase E</strong></span></span>",
+          "<span style=\"font-size:1.1em;\"><span style=\"color:#008000;\"><strong>Paraphrase D</strong></span></span>",
+          "<span style=\"font-size:1.1em;\"><span style=\"color:#008000;\"><strong>Paraphrase B</strong></span></span>",
+          "<span style=\"font-size:1.1em;\"><span style=\"color:#008000;\"><strong>Paraphrase A</strong></span></span>",
+          "<span style=\"font-size:1.1em;\"><span style=\"color:#008000;\"><strong>Paraphrase C</strong></span></span>"
+        ],
+        "type": "array",
+        "updatedFormat": true,
+        "apiVersion": "v2.192.16",
+        "revision": 1,
+        "feedbackAttemptsCount": 4
+      },
+      "questionInfo": {
+        "type": "association",
+        "widget_type": "response",
+        "reference": "48d130e6-6e36-4926-a456-7d2c7ca8fb67",
+        "data": {
+          "possible_responses": [
+            "<span style=\"font-size:1.1em;\"><span style=\"color:#008000;\"><strong>Paraphrase A</strong></span></span>",
+            "<span style=\"font-size:1.1em;\"><span style=\"color:#008000;\"><strong>Paraphrase B</strong></span></span>",
+            "<span style=\"font-size:1.1em;\"><span style=\"color:#008000;\"><strong>Paraphrase C</strong></span></span>",
+            "<span style=\"font-size:1.1em;\"><span style=\"color:#008000;\"><strong>Paraphrase D</strong></span></span>",
+            "<span style=\"font-size:1.1em;\"><span style=\"color:#008000;\"><strong>Paraphrase E</strong></span></span>"
+          ],
+          "stimulus": "<p>&nbsp;</p>\n\n<table class=\"table table-condensed lrn_width_auto table-no-border\">\n\t<tbody>\n\t\t<tr>\n\t\t\t<td><img class=\"lrn-image-non-responsive\" height=\"180\" src=\"https://assets.learnosity.com/organisations/755/e83a0ac8-1629-47fb-a650-6d09d1c48fd7.jpg\" width=\"200\"></td>\n\t\t\t<td>\n\t\t\t<h2><strong>In the next activity, you are going to practise expressing the <u><span style=\"color:#008000;\">same idea in different words</span></u>.</strong></h2>\n\n\t\t\t<h4><strong><span style=\"color:#008000;\">► </span>Below are some <span style=\"color:#0000ff;\">extracts </span>from the discussion and some <span style=\"color:#008000;\">paraphrases</span>. Read them carefully.</strong></h4>\n\n\t\t\t<h4><strong><span style=\"color:#008000;\">► </span>Match each <span style=\"color:#0000ff;\">extract </span>with the correct <span style=\"color:#008000;\">paraphrase</span>.</strong></h4>\n\t\t\t</td>\n\t\t</tr>\n\t</tbody>\n</table>\n\n<p>&nbsp;</p>\n\n<table class=\"table table-condensed table-striped lrn_width_auto\">\n\t<tbody>\n\t\t<tr>\n\t\t\t<td>\n\t\t\t<h4 class=\"text-center\"><span style=\"color:#0000ff;\"><strong>Extracts</strong></span></h4>\n\t\t\t</td>\n\t\t</tr>\n\t\t<tr>\n\t\t\t<td>\n\t\t\t<ul>\n\t\t\t\t<li><span style=\"font-size:1.1em;\"><span style=\"color:#0000ff;\"><strong>Extract 1</strong></span> - In 2007, Germany improved its parental leave policy to give new parents two-thirds of their salary for up to 12 months or up to 14 months, if at least two months of the 'Babypause' is taken by the father</span></li>\n\t\t\t\t<li><span style=\"font-size:1.1em;\"><span style=\"color:#0000ff;\"><strong>Extract 2</strong></span> - The scheme is not without its critics in Germany - particularly with regard to the costs of the policy, which is largely funded by social insurance</span></li>\n\t\t\t\t<li><span style=\"font-size:1.1em;\"><span style=\"color:#0000ff;\"><strong>Extract 3</strong></span> - The benefits of father-friendly policies are numerous. Fathers are better able to spend time with their children. Children benefit from increased parental time. Mothers are better able to achieve a balance between home life and work.</span></li>\n\t\t\t\t<li><span style=\"font-size:1.1em;\"><span style=\"color:#0000ff;\"><strong>Extract 4</strong></span> - Children as young as five already have stereotypical beliefs about what constitutes men's and women's work. It is clear that the home and school environments influence not only young girls' vision of their role in society, but also their assertiveness and willingness to undertake experimentation, self-motivated exploration and risk-taking... These factors influence girls' choice of subjects at school...</span></li>\n\t\t\t\t<li><span style=\"font-size:1.1em;\"><span style=\"color:#0000ff;\"><strong>Extract 5</strong></span> - They often find they have to work harder and be better qualified than their male counterparts in order to be selected for or promoted to high positions... Seniority in academic positions for women tends to require more items of merit...&nbsp;</span></li>\n\t\t\t</ul>\n\t\t\t</td>\n\t\t</tr>\n\t\t<tr>\n\t\t\t<td>\n\t\t\t<h4 class=\"text-center\"><span style=\"color:#008000;\"><strong>Paraphrases&nbsp;</strong></span></h4>\n\t\t\t</td>\n\t\t</tr>\n\t\t<tr>\n\t\t\t<td>\n\t\t\t<ul>\n\t\t\t\t<li><span style=\"font-size:1.1em;\"><strong><span style=\"color:#008000;\">Paraphrase A</span> </strong>&nbsp;- Even when they are children, women start to believe that they can’t behave in certain ways, or choose certain subjects at school (ESRC, 2010).&nbsp;</span></li>\n\t\t\t\t<li><span style=\"font-size:1.1em;\"><span style=\"color:#008000;\"><strong>Paraphrase B</strong></span> &nbsp;- All members of the family benefit from fathers being able to share in childcare (ESRC, 2010).</span></li>\n\t\t\t\t<li><span style=\"font-size:1.1em;\"><span style=\"color:#008000;\"><strong>Paraphrase C</strong> </span>&nbsp;- A lot of women actually work harder than men and have to achieve more to reach the same position (ESRC, 2010).</span></li>\n\t\t\t\t<li><span style=\"font-size:1.1em;\"><span style=\"color:#008000;\"><strong>Paraphrase D</strong></span> &nbsp;- Some people don’t like the policy because it is paid for by employers and employees (ESRC, 2010).</span></li>\n\t\t\t\t<li><span style=\"font-size:1.1em;\"><span style=\"color:#008000;\"><strong>Paraphrase E</strong></span> &nbsp;- A scheme in Germany, which offers parents two thirds of their salary for up to 14 months, if they take time off work to look after a baby and that is open to mothers or fathers (ESRC, 2010).</span></li>\n\t\t\t</ul>\n\t\t\t</td>\n\t\t</tr>\n\t</tbody>\n</table>\n",
+          "stimulus_list": [
+            "<span style=\"color:#0000ff;\"><span style=\"font-size:1.1em;\"><strong>Extract 1</strong></span></span>",
+            "<strong><span style=\"font-size:1.1em;\"><span style=\"color:#0000ff;\">Extract 2</span></span></strong>",
+            "<span style=\"font-size:1.1em;\"><strong><span style=\"color:#0000ff;\">Extract 3</span></strong></span>",
+            "<span style=\"font-size:1.1em;\"><span style=\"color:#0000ff;\"><strong>Extract 4</strong></span></span>",
+            "<span style=\"font-size:1.1em;\"><span style=\"color:#0000ff;\"><strong>Extract 5</strong></span></span>"
+          ],
+          "type": "association",
+          "validation": {
+            "scoring_type": "partialMatchV2",
+            "valid_response": {
+              "score": 5,
+              "value": [
+                "<span style=\"font-size:1.1em;\"><span style=\"color:#008000;\"><strong>Paraphrase E</strong></span></span>",
+                "<span style=\"font-size:1.1em;\"><span style=\"color:#008000;\"><strong>Paraphrase D</strong></span></span>",
+                "<span style=\"font-size:1.1em;\"><span style=\"color:#008000;\"><strong>Paraphrase B</strong></span></span>",
+                "<span style=\"font-size:1.1em;\"><span style=\"color:#008000;\"><strong>Paraphrase A</strong></span></span>",
+                "<span style=\"font-size:1.1em;\"><span style=\"color:#008000;\"><strong>Paraphrase C</strong></span></span>"
+              ]
+            }
+          },
+          "instant_feedback": true
+        },
+        "metadata": {
+          "name": "Match list",
+          "template_reference": "1fa22aac-1f88-47f7-941b-3c77759549e6"
+        }
+      },
+      "feedbackInfo": [
+        null,
+        null
+      ]
+    },
+    {
+      "response_id": "c342d352-1966-4b13-80e7-24d025bb7097_dfe62eb362574eead6e904aa3edd37c4",
+      "question_type": "clozedropdown",
+      "dt_score_updated": "2023-10-23T08:34:46Z",
+      "automarkable": true,
+      "attempted": true,
+      "score": 1,
+      "max_score": 1,
+      "question_reference": "8c41adfb-463e-4ae7-b0ed-bae5c6e5a63d",
+      "item_reference": "4d5ed3f8-1380-47a9-9f87-b5abecb7a605",
+      "response": {
+        "value": [
+          "Authority",
+          "Academic Integrity",
+          "Further Research",
+          "Author's name",
+          "Title of work",
+          "Place of publication",
+          "Date of publication"
+        ],
+        "type": "array",
+        "apiVersion": "v2.192.16",
+        "revision": 2,
+        "feedbackAttemptsCount": 2
+      },
+      "questionInfo": {
+        "type": "clozedropdown",
+        "widget_type": "response",
+        "reference": "8c41adfb-463e-4ae7-b0ed-bae5c6e5a63d",
+        "data": {
+          "possible_responses": [
+            [
+              "Academic Integrity",
+              "Further Research",
+              "Authority"
+            ],
+            [
+              "Academic Integrity",
+              "Further Research",
+              "Authority"
+            ],
+            [
+              "Academic Integrity",
+              "Further Research",
+              "Authority"
+            ],
+            [
+              "Author's name",
+              "Title of work",
+              "Place of publication",
+              "Date of publication"
+            ],
+            [
+              "Author's name",
+              "Title of work",
+              "Place of publication",
+              "Date of publication"
+            ],
+            [
+              "Author's name",
+              "Title of work",
+              "Place of publication",
+              "Date of publication"
+            ],
+            [
+              "Author's name",
+              "Title of work",
+              "Place of publication",
+              "Date of publication"
+            ]
+          ],
+          "response_container": {
+            "pointer": "left"
+          },
+          "stimulus": "<table class=\"table table-condensed table-no-border lrn_width_auto\">\n\t<tbody>\n\t\t<tr>\n\t\t\t<td><img class=\"lrn-image-non-responsive\" height=\"169\" src=\"https://assets.learnosity.com/organisations/755/2ae4ffea-e7f3-4dbe-8cec-ae082abe8b71.png\" width=\"200\"></td>\n\t\t\t<td>\n\t\t\t<p><span style=\"font-size:2em;\"><span style=\"color:#008080;\"><strong>Verbal Citations</strong></span></span></p>\n\n\t\t\t<h4><strong>In order to avoid plagiarism, you also&nbsp;need to use <span style=\"color:#008080;\">verbal citations</span> in seminar discussions and presentations.&nbsp;</strong></h4>\n\n\t\t\t<h4 id=\"yui_3_17_2_1_1634208271042_115\"><strong>Complete the following bullet points describing <u><span style=\"color:#008080;\">WHY</span></u> you need citations and <u><span style=\"color:#008080;\">HOW</span></u> to do them!</strong></h4>\n\t\t\t</td>\n\t\t</tr>\n\t</tbody>\n</table>\n\n<p>&nbsp;</p>\n",
+          "template": "<h3><strong><span style=\"color:#008080;\"><span id=\"cke_bm_5312S\" style=\"display: none;\">&nbsp;</span>WHY </span>do you need to use Verbal Citations?</strong></h3>\n\n<h4><strong><span style=\"color:#008080;\">► </span>THREE reasons:</strong></h4>\n\n<ul>\n\t<li><span style=\"font-size:1em;\">{{response}}</span><span style=\"font-size:1.1em;\"><strong>: your argument will be more persuasive (and academic) if you refer to reliable sources in your speaking.</strong></span></li>\n\t<li><span style=\"font-size:1.1em;\"></span><span style=\"font-size:1em;\">{{response}}</span><span style=\"font-size:1.1em;\"><strong>: you should always acknowledge where your ideas come. If you do not do this, you are 'stealing' ideas (plagiarism).</strong></span></li>\n\t<li><span style=\"font-size:1.1em;\"></span><span style=\"font-size:1em;\">{{response}}</span><span style=\"font-size:1.1em;\"><strong>: your audience will know where they can find more information, if they wish to research any of the ideas you discuss.</strong></span></li>\n</ul>\n\n<h4>&nbsp;</h4>\n\n<h3><strong><span style=\"color:#008080;\">HOW&nbsp;</span>do you Cite Verbally?</strong></h3>\n\n<h4><strong><span style=\"color:#008080;\">► </span>Include information about your source:</strong></h4>\n\n<ul>\n\t<li><span style=\"font-size:1.1em;\"></span><span style=\"font-size:1em;\">{{response}}</span><span style=\"font-size:1.1em;\"><strong>:&nbsp;whose ideas are you citing?</strong></span></li>\n\t<li><span style=\"font-size:1.1em;\"></span><span style=\"font-size:1em;\">{{response}}</span><span style=\"font-size:1.1em;\"><strong>:&nbsp;where can we find these ideas?</strong></span></li>\n\t<li><span style=\"font-size:1.1em;\"></span><span style=\"font-size:1em;\">{{response}}</span><span style=\"font-size:1.1em;\"><strong>:&nbsp;were the ideas published in a reliable source?</strong></span></li>\n\t<li><span style=\"font-size:1.1em;\"></span><span style=\"font-size:1em;\">{{response}}</span><span style=\"font-size:1.1em;\"><strong>:&nbsp;are the ideas up-to-date?</strong></span></li>\n</ul>\n\n<p>&nbsp;</p>\n",
+          "type": "clozedropdown",
+          "case_sensitive": true,
+          "validation": {
+            "scoring_type": "partialMatchV2",
+            "valid_response": {
+              "score": 1,
+              "value": [
+                "Authority",
+                "Academic Integrity",
+                "Further Research",
+                "Author's name",
+                "Title of work",
+                "Place of publication",
+                "Date of publication"
+              ]
+            }
+          },
+          "instant_feedback": true,
+          "shuffle_options": true
+        },
+        "metadata": {
+          "name": "Cloze with drop down",
+          "template_reference": "2fbba51b-e35e-441f-83c7-2662e2e81fa6"
+        }
+      },
+      "feedbackInfo": [
+        null,
+        null
+      ]
+    },
+    {
+      "response_id": "c342d352-1966-4b13-80e7-24d025bb7097_b9dbc0d720f28aadabc8513e66bc82c5",
+      "question_type": "imageclozeassociationV2",
+      "dt_score_updated": "2023-10-23T08:35:15Z",
+      "automarkable": true,
+      "attempted": true,
+      "score": 4,
+      "max_score": 4,
+      "question_reference": "138ec658-5556-4c54-916f-0fb38c37352f",
+      "item_reference": "4d5ed3f8-1380-47a9-9f87-b5abecb7a605",
+      "response": {
+        "value": [
+          [
+            "<span style=\"font-size:1.1em;\">Author's name</span>"
+          ],
+          [
+            "<span style=\"font-size:1.1em;\">Date of publication</span>"
+          ],
+          [
+            "P<span style=\"font-size:1.1em;\">lace of publication</span>"
+          ],
+          [
+            "<span style=\"font-size:1.1em;\">Title of work</span>"
+          ]
+        ],
+        "type": "array",
+        "apiVersion": "v2.192.16",
+        "revision": 1,
+        "feedbackAttemptsCount": 1
+      },
+      "questionInfo": {
+        "type": "imageclozeassociationV2",
+        "widget_type": "response",
+        "reference": "138ec658-5556-4c54-916f-0fb38c37352f",
+        "data": {
+          "image": {
+            "src": "https://assets.learnosity.com/organisations/755/37a6097e-dab8-4df7-86c8-c1079cdef5a8.jpg",
+            "width": 900,
+            "height": 405
+          },
+          "possible_responses": [
+            "<span style=\"font-size:1.1em;\">Author's name</span>",
+            "<span style=\"font-size:1.1em;\">Date of publication</span>",
+            "<span style=\"font-size:1.1em;\">Title of work</span>",
+            "P<span style=\"font-size:1.1em;\">lace of publication</span>"
+          ],
+          "response_containers": [
+            {
+              "x": 12.22,
+              "y": 4.94,
+              "width": "17.41%",
+              "height": "9.36%",
+              "aria_label": "",
+              "pointer": "undefined"
+            },
+            {
+              "x": 2.56,
+              "y": 18.02,
+              "width": "10.52%",
+              "height": "12.57%",
+              "aria_label": "",
+              "pointer": "undefined"
+            },
+            {
+              "x": 48.22,
+              "y": 76.54,
+              "width": "22.08%",
+              "height": "9.11%",
+              "aria_label": "",
+              "pointer": "undefined"
+            },
+            {
+              "x": 77.22,
+              "y": 20.74,
+              "aria_label": "",
+              "width": "21.00%",
+              "height": "9.88%",
+              "pointer": "none"
+            }
+          ],
+          "stimulus": "<h2>&nbsp;</h2>\n\n<h2><span style=\"color:#0000cd;\"><b>Verbal Citations - an example</b></span></h2>\n\n<p><img height=\"85\" src=\"https://assets.learnosity.com/organisations/755/cd11b0da-02e2-4a60-9f4f-467ae76934d2.jpg\" width=\"349\"></p>\n\n<h4><strong><span style=\"color:#0000cd;\">►</span> Look at this example of a verbal citation. </strong></h4>\n\n<h4><strong><span style=\"color:#0000cd;\">►&nbsp;</span>Identify the different types of information provided by the speaker.</strong></h4>\n\n<p>&nbsp;</p>\n",
+          "type": "imageclozeassociationV2",
+          "case_sensitive": true,
+          "validation": {
+            "scoring_type": "partialMatchV2",
+            "valid_response": {
+              "score": 4,
+              "value": [
+                [
+                  "<span style=\"font-size:1.1em;\">Author's name</span>"
+                ],
+                [
+                  "<span style=\"font-size:1.1em;\">Date of publication</span>"
+                ],
+                [
+                  "P<span style=\"font-size:1.1em;\">lace of publication</span>"
+                ],
+                [
+                  "<span style=\"font-size:1.1em;\">Title of work</span>"
+                ]
+              ]
+            }
+          },
+          "instant_feedback": true,
+          "shuffle_options": true,
+          "ui_style": {
+            "show_drag_handle": true
+          }
+        },
+        "metadata": {
+          "name": "Label image with drag & drop",
+          "template_reference": "6e77b403-8f0c-43af-b464-9450e1ac70dc"
+        }
+      },
+      "feedbackInfo": [
+        null,
+        null
+      ]
+    },
+    {
+      "response_id": "c342d352-1966-4b13-80e7-24d025bb7097_8ecf2de714353f6c13adbc3cc42aa4db",
+      "question_type": "clozeassociation",
+      "dt_score_updated": "2023-10-23T08:35:43Z",
+      "automarkable": true,
+      "attempted": true,
+      "score": 1,
+      "max_score": 1,
+      "question_reference": "1a4fcf84-d7f9-4d2c-add7-d6252bb33755",
+      "item_reference": "4d5ed3f8-1380-47a9-9f87-b5abecb7a605",
+      "response": {
+        "value": [
+          "According to",
+          "the statistics",
+          "the equality campaigner",
+          "Fawcett",
+          "in 2020"
+        ],
+        "type": "array",
+        "apiVersion": "v2.192.16",
+        "revision": 1,
+        "feedbackAttemptsCount": 2
+      },
+      "questionInfo": {
+        "type": "clozeassociation",
+        "widget_type": "response",
+        "reference": "1a4fcf84-d7f9-4d2c-add7-d6252bb33755",
+        "data": {
+          "possible_responses": [
+            "According to",
+            "the statistics",
+            "the equality campaigner",
+            "Fawcett",
+            "in 2020"
+          ],
+          "response_container": {
+            "pointer": "left"
+          },
+          "stimulus": "<h2>&nbsp;</h2>\n\n<h2><strong><span style=\"color:#008080;\">Verbal Citations&nbsp;</span></strong></h2>\n\n<p><img height=\"119\" src=\"https://assets.learnosity.com/organisations/755/a5986cc7-641f-42a5-9ef0-ade652e799eb.jpg\" width=\"501\"></p>\n\n<h4><strong>Below are&nbsp;three examples&nbsp;of verbal citations from the seminar discussion on Equal Opportunities.</strong></h4>\n\n<h4><strong>Complete the examples by putting the words in the correct order.</strong></h4>\n\n<p>&nbsp;</p>\n",
+          "template": "<p style=\"margin-left: 40px;\">{{response}}&nbsp;{{response}}<span style=\"font-size:1.1em;\">&nbsp;</span><span style=\"font-size:1.3em;\">produced by</span><span style=\"font-size:1.1em;\"></span>&nbsp;{{response}}&nbsp;{{response}}&nbsp;{{response}}<span style=\"font-size:1.1em;\"></span><span style=\"font-size:1.5em;\">,</span><span style=\"font-size:1.1em;\">&nbsp;</span><span style=\"font-size:1.3em;\">women still hold less of the higher positions.</span><span style=\"font-size:1.1em;\"></span></p>\n",
+          "type": "clozeassociation",
+          "case_sensitive": true,
+          "validation": {
+            "scoring_type": "exactMatch",
+            "valid_response": {
+              "score": 1,
+              "value": [
+                "According to",
+                "the statistics",
+                "the equality campaigner",
+                "Fawcett",
+                "in 2020"
+              ]
+            }
+          },
+          "instant_feedback": true,
+          "shuffle_options": true
+        },
+        "metadata": {
+          "name": "Cloze with drag & drop",
+          "template_reference": "51a8c1e7-f34f-4faf-b211-da458e891fcb"
+        }
+      },
+      "feedbackInfo": [
+        null,
+        null
+      ]
+    },
+    {
+      "response_id": "c342d352-1966-4b13-80e7-24d025bb7097_be53538a8a248ab46f38560f5c56edd9",
+      "question_type": "clozeassociation",
+      "dt_score_updated": "2023-10-23T08:36:26Z",
+      "automarkable": true,
+      "attempted": true,
+      "score": 1,
+      "max_score": 1,
+      "question_reference": "d56c8dec-f3f5-4c01-a5f4-629cfad1541b",
+      "item_reference": "4d5ed3f8-1380-47a9-9f87-b5abecb7a605",
+      "response": {
+        "value": [
+          "2010",
+          "European Social and Research Council",
+          "article",
+          "<em>‘Helping fathers stay at home is key to equality’</em>",
+          "describes"
+        ],
+        "type": "array",
+        "apiVersion": "v2.192.16",
+        "revision": 1,
+        "feedbackAttemptsCount": 3
+      },
+      "questionInfo": {
+        "type": "clozeassociation",
+        "widget_type": "response",
+        "reference": "d56c8dec-f3f5-4c01-a5f4-629cfad1541b",
+        "data": {
+          "possible_responses": [
+            "2010",
+            "European Social and Research Council",
+            "article",
+            "<em>‘Helping fathers stay at home is key to equality’</em>",
+            "describes"
+          ],
+          "response_container": {
+            "pointer": "left"
+          },
+          "template": "<p style=\"margin-left: 40px;\"><span style=\"font-size:1.1em;\"></span><span style=\"font-size:1.3em;\">The</span><span style=\"font-size:1.1em;\">&nbsp;</span>{{response}}&nbsp;{{response}}&nbsp;{{response}}&nbsp;{{response}}&nbsp;{{response}}&nbsp;<span style=\"font-size:1.3em;\">a scheme in Germany, which offers parents two thirds of their salary for up to 14 months, if they take time off work to look after a baby – and that is open to mothers or fathers.</span></p>\n",
+          "type": "clozeassociation",
+          "case_sensitive": true,
+          "validation": {
+            "scoring_type": "exactMatch",
+            "valid_response": {
+              "score": 1,
+              "value": [
+                "2010",
+                "European Social and Research Council",
+                "article",
+                "<em>‘Helping fathers stay at home is key to equality’</em>",
+                "describes"
+              ]
+            }
+          },
+          "instant_feedback": true,
+          "shuffle_options": true
+        },
+        "metadata": {
+          "name": "Cloze with drag & drop",
+          "template_reference": "51a8c1e7-f34f-4faf-b211-da458e891fcb"
+        }
+      },
+      "feedbackInfo": [
+        null,
+        null
+      ]
+    },
+    {
+      "response_id": "c342d352-1966-4b13-80e7-24d025bb7097_e48f2b34935ddab7006bcfc0c30ac112",
+      "question_type": "clozeassociation",
+      "dt_score_updated": "2023-10-23T08:37:08Z",
+      "automarkable": true,
+      "attempted": true,
+      "score": 1,
+      "max_score": 1,
+      "question_reference": "c8852597-a79f-4751-af37-594976f98cd0",
+      "item_reference": "4d5ed3f8-1380-47a9-9f87-b5abecb7a605",
+      "response": {
+        "value": [
+          "Sonia Gurjao",
+          "a lecturer in construction&nbsp;",
+          "at Reading University",
+          "observes",
+          "in her 2006 article",
+          "<em>‘Inclusivity: women in the construction workforce’</em>"
+        ],
+        "type": "array",
+        "apiVersion": "v2.192.16",
+        "revision": 2,
+        "feedbackAttemptsCount": 8
+      },
+      "questionInfo": {
+        "type": "clozeassociation",
+        "widget_type": "response",
+        "reference": "c8852597-a79f-4751-af37-594976f98cd0",
+        "data": {
+          "possible_responses": [
+            "Sonia Gurjao",
+            "a lecturer in construction&nbsp;",
+            "at Reading University",
+            "observes",
+            "in her 2006 article",
+            "<em>‘Inclusivity: women in the construction workforce’</em>"
+          ],
+          "response_container": {
+            "pointer": "left"
+          },
+          "template": "{{response}}<span style=\"font-size:1.5em;\">&nbsp;,</span>&nbsp;{{response}}&nbsp;<span style=\"font-size:1.1em;\">{{response}}</span><span style=\"font-size:1.5em;\">&nbsp;,</span><span style=\"font-size:1.1em;\"></span>&nbsp;{{response}}{{response}}{{response}}<span style=\"font-size:1.1em;\">&nbsp;</span><span style=\"font-size:1.3em;\">that&nbsp;many girls are not even informed about career opportunities in construction when they are at school.</span><span style=\"font-size:1.1em;\"></span>",
+          "type": "clozeassociation",
+          "case_sensitive": true,
+          "validation": {
+            "scoring_type": "exactMatch",
+            "valid_response": {
+              "score": 1,
+              "value": [
+                "Sonia Gurjao",
+                "a lecturer in construction&nbsp;",
+                "at Reading University",
+                "observes",
+                "in her 2006 article",
+                "<em>‘Inclusivity: women in the construction workforce’</em>"
+              ]
+            }
+          },
+          "instant_feedback": true,
+          "shuffle_options": true
+        },
+        "metadata": {
+          "name": "Cloze with drag & drop",
+          "template_reference": "51a8c1e7-f34f-4faf-b211-da458e891fcb"
+        }
+      },
+      "feedbackInfo": [
+        null,
+        null
+      ]
+    },
+    {
+      "response_id": "c342d352-1966-4b13-80e7-24d025bb7097_7c95e3fb8eb007591eafe85c03c8b496",
+      "question_type": "imageclozeassociationV2",
+      "dt_score_updated": "2023-10-23T08:40:29Z",
+      "automarkable": true,
+      "attempted": true,
+      "score": 10,
+      "max_score": 12,
+      "question_reference": "01fbe60f-0699-4225-8b44-d43635af30bc",
+      "item_reference": "b1a21785-9a34-4f88-b52a-07b4ab4d9b57",
+      "response": {
+        "value": [
+          [
+            "Childcare is important"
+          ],
+          [
+            "Either parent can do it, if both parents can receive government support"
+          ],
+          [
+            "Benefits are more important"
+          ],
+          [
+            "There are a lot of benefits"
+          ],
+          [
+            "Government support can help"
+          ],
+          [
+            "Cost is an important factor"
+          ],
+          [
+            "Cost can be a problem"
+          ],
+          [
+            "Benefits are for ALL the family"
+          ],
+          [
+            "Women are not in low positions because they lack ambition"
+          ],
+          [
+            "Sexism is also an issue"
+          ],
+          [
+            "Women are not in low positions because they lack ambition and stereotyping is an issue"
+          ],
+          [
+            "There are fewer women in higher positions because of stereotyping and lack of role‑models"
+          ]
+        ],
+        "type": "array",
+        "apiVersion": "v2.192.16",
+        "revision": 4,
+        "feedbackAttemptsCount": 28
+      },
+      "questionInfo": {
+        "type": "imageclozeassociationV2",
+        "widget_type": "response",
+        "reference": "01fbe60f-0699-4225-8b44-d43635af30bc",
+        "data": {
+          "image": {
+            "src": "https://assets.learnosity.com/organisations/755/b072aa4f-8378-4a12-bb00-36527a31ecda.jpg",
+            "width": 901,
+            "height": 479
+          },
+          "possible_responses": [
+            "Childcare is important",
+            "Either parent can do it, if both parents can receive government support",
+            "Government support can help",
+            "Cost can be a problem",
+            "Cost is an important factor",
+            "Benefits are more important",
+            "There are a lot of benefits",
+            "Benefits are for ALL the family",
+            "Women are not in low positions because they lack ambition",
+            "There are fewer women in higher positions because of stereotyping and lack of role‑models",
+            "Women are not in low positions because they lack ambition and stereotyping is an issue",
+            "Sexism is also an issue"
+          ],
+          "response_containers": [
+            {
+              "x": 1,
+              "y": 31,
+              "width": "15.96%",
+              "height": "14.10%",
+              "aria_label": "",
+              "pointer": "undefined"
+            },
+            {
+              "x": 1,
+              "y": 57,
+              "width": "16.08%",
+              "height": "14.10%",
+              "aria_label": "",
+              "pointer": "undefined"
+            },
+            {
+              "x": 1,
+              "y": 83,
+              "width": "15.85%",
+              "height": "14.10%",
+              "aria_label": "",
+              "pointer": "undefined"
+            },
+            {
+              "x": 25,
+              "y": 6,
+              "aria_label": "",
+              "width": "16.11%",
+              "height": "13.54%",
+              "pointer": "none"
+            },
+            {
+              "x": 25,
+              "y": 32,
+              "aria_label": "",
+              "width": "16.11%",
+              "height": "13.13%",
+              "pointer": "none"
+            },
+            {
+              "x": 25,
+              "y": 58,
+              "aria_label": "",
+              "width": "16.11%",
+              "height": "13.33%",
+              "pointer": "none"
+            },
+            {
+              "x": 26,
+              "y": 83,
+              "aria_label": "",
+              "width": "15.67%",
+              "height": "13.33%",
+              "pointer": "none"
+            },
+            {
+              "x": 54,
+              "y": 6,
+              "aria_label": "",
+              "width": "16.11%",
+              "height": "13.75%",
+              "pointer": "none"
+            },
+            {
+              "x": 54,
+              "y": 83,
+              "aria_label": "",
+              "width": "16.00%",
+              "height": "13.33%",
+              "pointer": "none"
+            },
+            {
+              "x": 82,
+              "y": 31,
+              "aria_label": "",
+              "width": "16.00%",
+              "height": "12.50%",
+              "pointer": "none"
+            },
+            {
+              "x": 82,
+              "y": 57,
+              "aria_label": "",
+              "width": "16.00%",
+              "height": "13.13%",
+              "pointer": "none"
+            },
+            {
+              "x": 82,
+              "y": 83,
+              "aria_label": "",
+              "width": "16.11%",
+              "height": "13.13%",
+              "pointer": "none"
+            }
+          ],
+          "stimulus": "<h2>&nbsp;</h2>\n\n<h2><strong>Think about how the participants <span style=\"color:#ff8c00;\">BUILT </span>on each other's ideas in the discussion you watched.</strong></h2>\n\n<p><img height=\"173\" src=\"https://assets.learnosity.com/organisations/755/730fef17-0d79-45cb-bd5e-773df1daf173.jpg\" width=\"250\" /></p>\n\n<h4><strong><span style=\"color:#ff8c00;\">► </span>Complete the diagram with the main ideas as they appeared in the discussion.</strong></h4>\n\n<h4><strong><span style=\"color:#ff8c00;\">► </span>Watch the discussion video again if you want to recap!</strong></h4>\n\n<p>&nbsp;</p>\n",
+          "type": "imageclozeassociationV2",
+          "case_sensitive": true,
+          "validation": {
+            "scoring_type": "partialMatchV2",
+            "valid_response": {
+              "score": 12,
+              "value": [
+                [
+                  "Childcare is important"
+                ],
+                [
+                  "Either parent can do it, if both parents can receive government support"
+                ],
+                [
+                  "Government support can help"
+                ],
+                [
+                  "There are a lot of benefits"
+                ],
+                [
+                  "Benefits are more important"
+                ],
+                [
+                  "Cost is an important factor"
+                ],
+                [
+                  "Cost can be a problem"
+                ],
+                [
+                  "Benefits are for ALL the family"
+                ],
+                [
+                  "Women are not in low positions because they lack ambition"
+                ],
+                [
+                  "Sexism is also an issue"
+                ],
+                [
+                  "Women are not in low positions because they lack ambition and stereotyping is an issue"
+                ],
+                [
+                  "There are fewer women in higher positions because of stereotyping and lack of role‑models"
+                ]
+              ]
+            }
+          },
+          "instant_feedback": true,
+          "shuffle_options": true
+        },
+        "metadata": {
+          "name": "Label image with drag & drop",
+          "template_reference": "6e77b403-8f0c-43af-b464-9450e1ac70dc"
+        }
+      },
+      "feedbackInfo": [
+        null,
+        null
+      ]
+    }
+  ]
+}

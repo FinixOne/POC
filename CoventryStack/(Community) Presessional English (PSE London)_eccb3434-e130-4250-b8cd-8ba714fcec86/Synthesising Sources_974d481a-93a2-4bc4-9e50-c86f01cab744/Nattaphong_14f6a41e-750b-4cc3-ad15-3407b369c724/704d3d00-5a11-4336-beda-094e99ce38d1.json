@@ -1,0 +1,1225 @@
+{
+  "userId": "14f6a41e-750b-4cc3-ad15-3407b369c724",
+  "firstName": "Nattaphong",
+  "lastName": "Phiphatanaphong",
+  "assigmentId": "974d481a-93a2-4bc4-9e50-c86f01cab744",
+  "assigmentName": "Synthesising Sources",
+  "sessionId": "704d3d00-5a11-4336-beda-094e99ce38d1",
+  "email": "phiphatann@coventry.ac.uk",
+  "spaceId": "eccb3434-e130-4250-b8cd-8ba714fcec86",
+  "spaceName": "(Community) Presessional English (PSE London)",
+  "score": 25,
+  "max_score": 25,
+  "questions": [
+    {
+      "response_id": "704d3d00-5a11-4336-beda-094e99ce38d1_d8567c7f8e20329bdf20ead1dc5969f6",
+      "question_type": "imageclozeassociationV2",
+      "dt_score_updated": "2023-12-01T14:50:57Z",
+      "automarkable": true,
+      "attempted": true,
+      "score": 2,
+      "max_score": 2,
+      "question_reference": "e14eeb77-b5ff-4ae0-92b8-2ac8bd5c244d",
+      "item_reference": "ac27cd49-ae8e-4e98-9553-6fd2b877de65",
+      "response": {
+        "value": [
+          [
+            "Read the section title"
+          ],
+          [
+            "Read the section highlights"
+          ]
+        ],
+        "type": "array",
+        "apiVersion": "v2.192.18",
+        "revision": 7,
+        "feedbackAttemptsCount": 10
+      },
+      "questionInfo": {
+        "type": "imageclozeassociationV2",
+        "widget_type": "response",
+        "reference": "e14eeb77-b5ff-4ae0-92b8-2ac8bd5c244d",
+        "data": {
+          "image": {
+            "src": "https://assets.learnosity.com/organisations/755/c244e30e-5f88-4d8d-b948-79b87ad5de32.jpg",
+            "width": 601,
+            "height": 419
+          },
+          "possible_responses": [
+            "Read the section title",
+            "Read the section highlights",
+            "Analyse the graphs",
+            "Check other visuals apart from graphs",
+            "Read the larger quotes",
+            "You don't need to read the whole text now"
+          ],
+          "response_containers": [
+            {
+              "x": 21.13,
+              "y": 3.58,
+              "width": "37.50%",
+              "height": "8.76%",
+              "aria_label": "",
+              "pointer": "undefined"
+            },
+            {
+              "x": 53.08,
+              "y": 57.04,
+              "width": "25.69%",
+              "height": "15.92%",
+              "aria_label": "",
+              "pointer": "undefined"
+            }
+          ],
+          "stimulus": "<p><span style=\"font-size:1.8em;\"><strong>In this part of the lesson, you will&nbsp;</strong><strong>consider the <span style=\"color:#008000;\">different sections of the report</span> and decide...</strong></span></p>\n\n<p><span style=\"font-size:1.8em;\"></span></p>\n\n<ol>\n\t<li><span style=\"font-size:1.8em;\"></span><span style=\"font-size:1.5em;\"><strong><span style=\"color:#008000;\">how relevant</span> each section is</strong></span><span style=\"font-size:1.8em;\"><strong> </strong></span><br />\n\t<span style=\"font-size:1.3em;\">&nbsp; &nbsp;<strong>... and...</strong></span><span style=\"font-size:1.8em;\"></span></li>\n\t<li><span style=\"font-size:1.5em;\"><strong><span style=\"color:#008000;\">how you will read it</span> (quickly or carefully).</strong></span></li>\n</ol>\n\n<p>&nbsp;</p>\n\n<p><span style=\"font-size:2em;\"><span style=\"font-family:Calibri\"><span style=\"font-weight:bold\">... But <span style=\"color:#008000;\">how </span>will you decide?</span></span></span></p>\n\n<p><img height=\"171\" src=\"https://assets.learnosity.com/organisations/755/94524a11-9f28-4897-9958-94d54aa94031.jpg\" width=\"200\" /></p>\n\n<p><strong><span style=\"font-size:1.5em;\">💡 Before reading the report, consider<span style=\"color:#008000;\"> extra textual features</span>:</span></strong></p>\n",
+          "type": "imageclozeassociationV2",
+          "case_sensitive": true,
+          "validation": {
+            "scoring_type": "partialMatchV2",
+            "valid_response": {
+              "score": 2,
+              "value": [
+                [
+                  "Read the section title"
+                ],
+                [
+                  "Read the section highlights"
+                ]
+              ]
+            }
+          },
+          "instant_feedback": true,
+          "shuffle_options": true
+        },
+        "metadata": {
+          "name": "Label image with drag & drop",
+          "template_reference": "6e77b403-8f0c-43af-b464-9450e1ac70dc"
+        }
+      },
+      "feedbackInfo": [
+        null,
+        null
+      ]
+    },
+    {
+      "response_id": "704d3d00-5a11-4336-beda-094e99ce38d1_97fdd17333dbef69d478439cae6e3336",
+      "question_type": "imageclozeassociationV2",
+      "dt_score_updated": "2023-12-01T14:52:10Z",
+      "automarkable": true,
+      "attempted": true,
+      "score": 1,
+      "max_score": 1,
+      "question_reference": "0be1a1a6-c4f8-486c-9277-eab48ea6b157",
+      "item_reference": "ac27cd49-ae8e-4e98-9553-6fd2b877de65",
+      "response": {
+        "value": [
+          [
+            "Analyse the graphs"
+          ]
+        ],
+        "type": "array",
+        "apiVersion": "v2.192.18",
+        "revision": 3,
+        "feedbackAttemptsCount": 3
+      },
+      "questionInfo": {
+        "type": "imageclozeassociationV2",
+        "widget_type": "response",
+        "reference": "0be1a1a6-c4f8-486c-9277-eab48ea6b157",
+        "data": {
+          "image": {
+            "src": "https://assets.learnosity.com/organisations/755/1d31409f-d58c-40ec-93de-21470bb350ff.jpg",
+            "width": 600,
+            "height": 419
+          },
+          "possible_responses": [
+            "Read the section title",
+            "Read the section highlights",
+            "Analyse the graphs",
+            "Check other visuals apart from graphs",
+            "Read the larger quotes",
+            "You don't need to read the whole text now"
+          ],
+          "response_containers": [
+            {
+              "x": 9.43,
+              "y": 10.67,
+              "width": "26.79%",
+              "height": "9.26%",
+              "aria_label": "",
+              "pointer": "undefined"
+            }
+          ],
+          "type": "imageclozeassociationV2",
+          "case_sensitive": true,
+          "validation": {
+            "scoring_type": "partialMatchV2",
+            "valid_response": {
+              "score": 1,
+              "value": [
+                [
+                  "Analyse the graphs"
+                ]
+              ]
+            }
+          },
+          "instant_feedback": true,
+          "shuffle_options": true
+        },
+        "metadata": {
+          "name": "Label image with drag & drop",
+          "template_reference": "6e77b403-8f0c-43af-b464-9450e1ac70dc"
+        }
+      },
+      "feedbackInfo": [
+        null,
+        null
+      ]
+    },
+    {
+      "response_id": "704d3d00-5a11-4336-beda-094e99ce38d1_135c8987c585e0ced789448b23093df5",
+      "question_type": "imageclozeassociationV2",
+      "dt_score_updated": "2023-12-01T14:52:53Z",
+      "automarkable": true,
+      "attempted": true,
+      "score": 1,
+      "max_score": 1,
+      "question_reference": "d7131bee-b301-48d9-a36c-d5e883a2a427",
+      "item_reference": "ac27cd49-ae8e-4e98-9553-6fd2b877de65",
+      "response": {
+        "value": [
+          [
+            "Check other visuals apart from graphs"
+          ]
+        ],
+        "type": "array",
+        "apiVersion": "v2.192.18",
+        "revision": 2,
+        "feedbackAttemptsCount": 2
+      },
+      "questionInfo": {
+        "type": "imageclozeassociationV2",
+        "widget_type": "response",
+        "reference": "d7131bee-b301-48d9-a36c-d5e883a2a427",
+        "data": {
+          "image": {
+            "src": "https://assets.learnosity.com/organisations/755/1ead89ed-4f35-471e-8c14-983dab55de33.jpg",
+            "width": 600,
+            "height": 418
+          },
+          "possible_responses": [
+            "Read the section title",
+            "Read the section highlights",
+            "Analyse the graphs",
+            "Check other visuals apart from graphs",
+            "Read the larger quotes",
+            "You don't need to read the whole text now"
+          ],
+          "response_containers": [
+            {
+              "x": 49,
+              "y": 9,
+              "width": "38.46%",
+              "height": "14.76%",
+              "aria_label": "",
+              "pointer": "undefined"
+            }
+          ],
+          "type": "imageclozeassociationV2",
+          "case_sensitive": true,
+          "validation": {
+            "scoring_type": "partialMatchV2",
+            "valid_response": {
+              "score": 1,
+              "value": [
+                [
+                  "Check other visuals apart from graphs"
+                ]
+              ]
+            }
+          },
+          "instant_feedback": true,
+          "shuffle_options": true
+        },
+        "metadata": {
+          "name": "Label image with drag & drop",
+          "template_reference": "6e77b403-8f0c-43af-b464-9450e1ac70dc"
+        }
+      },
+      "feedbackInfo": [
+        null,
+        null
+      ]
+    },
+    {
+      "response_id": "704d3d00-5a11-4336-beda-094e99ce38d1_2dce5f698ded37f6f92c6e653d6a17cd",
+      "question_type": "imageclozeassociationV2",
+      "dt_score_updated": "2023-12-01T14:53:21Z",
+      "automarkable": true,
+      "attempted": true,
+      "score": 1,
+      "max_score": 1,
+      "question_reference": "7e972f6e-6fbe-48c5-8388-5587d96a8323",
+      "item_reference": "ac27cd49-ae8e-4e98-9553-6fd2b877de65",
+      "response": {
+        "value": [
+          [
+            "Read the larger quotes"
+          ],
+          [
+            "You don't need to read the whole text now"
+          ]
+        ],
+        "type": "array",
+        "apiVersion": "v2.192.18",
+        "revision": 1,
+        "feedbackAttemptsCount": 3
+      },
+      "questionInfo": {
+        "type": "imageclozeassociationV2",
+        "widget_type": "response",
+        "reference": "7e972f6e-6fbe-48c5-8388-5587d96a8323",
+        "data": {
+          "image": {
+            "src": "https://assets.learnosity.com/organisations/755/53b8e18e-70a2-471b-80a1-d62b3d171f7b.jpg",
+            "width": 600,
+            "height": 418
+          },
+          "possible_responses": [
+            "Read the section title",
+            "Read the section highlights",
+            "Analyse the graphs",
+            "Check other visuals apart from graphs",
+            "Read the larger quotes",
+            "You don't need to read the whole text now"
+          ],
+          "response_containers": [
+            {
+              "x": 58.5,
+              "y": 33.25,
+              "width": "32.63%",
+              "height": "10.21%",
+              "aria_label": "",
+              "pointer": "undefined"
+            },
+            {
+              "x": 42,
+              "y": 6,
+              "aria_label": "",
+              "width": "44.83%",
+              "height": "13.64%",
+              "pointer": "none"
+            }
+          ],
+          "type": "imageclozeassociationV2",
+          "case_sensitive": true,
+          "validation": {
+            "scoring_type": "partialMatchV2",
+            "valid_response": {
+              "score": 1,
+              "value": [
+                [
+                  "Read the larger quotes"
+                ],
+                [
+                  "You don't need to read the whole text now"
+                ]
+              ]
+            }
+          },
+          "instant_feedback": true,
+          "shuffle_options": true
+        },
+        "metadata": {
+          "name": "Label image with drag & drop",
+          "template_reference": "6e77b403-8f0c-43af-b464-9450e1ac70dc"
+        }
+      },
+      "feedbackInfo": [
+        null,
+        null
+      ]
+    },
+    {
+      "response_id": "704d3d00-5a11-4336-beda-094e99ce38d1_2d8ef79c45d707cd0bcea09cb6302397",
+      "question_type": "mcq",
+      "dt_score_updated": "2023-12-01T14:59:59Z",
+      "automarkable": true,
+      "attempted": true,
+      "score": 1,
+      "max_score": 1,
+      "question_reference": "bf23038d-710b-4244-866e-9c966e1919f5",
+      "item_reference": "905369df-0209-47a2-8a29-c24256f0d641",
+      "response": {
+        "value": [
+          "3"
+        ],
+        "type": "array",
+        "apiVersion": "v2.192.18",
+        "revision": 2,
+        "feedbackAttemptsCount": 1
+      },
+      "questionInfo": {
+        "type": "mcq",
+        "widget_type": "response",
+        "reference": "bf23038d-710b-4244-866e-9c966e1919f5",
+        "data": {
+          "options": [
+            {
+              "label": "Yes, because it's about international students profile.",
+              "value": "0"
+            },
+            {
+              "label": "Yes, because it's about the decision-making process",
+              "value": "1"
+            },
+            {
+              "label": "Yes, because it's about international students coming to the UK.",
+              "value": "2"
+            },
+            {
+              "label": "No, because it's not specifically about Coventry university.",
+              "value": "3"
+            },
+            {
+              "label": "No, because it's just about Nigeria, Pakistan, Hong Kong, and the US.",
+              "value": "4"
+            },
+            {
+              "label": "No, because it's not about the decision-making process.",
+              "value": "5"
+            }
+          ],
+          "stimulus": "<p><span style=\"color:#800080;\"><strong><span style=\"font-size:2em;\">Look at Section 1: Who are the International students who apply to the UK?</span></strong></span></p>\n\n<p><img height=\"211\" src=\"https://assets.learnosity.com/organisations/755/d6971b7e-8d65-46ab-a497-e04a78119094.jpg\" width=\"300\" /></p>\n\n<p><strong><span style=\"font-size:1.5em;\"></span><span style=\"color:#800080;\"><span style=\"font-size:1.5em;\">►&nbsp;</span></span><span style=\"font-size:1.5em;\">Is this section directly relevant to your report?</span></strong></p>\n\n<p>&nbsp;</p>\n\n<p><u><span style=\"color:#ff0000;\"></span><span style=\"color:#ff0000;\"><strong>Think carefully - you only have TWO check answer attempts!</strong></span><span style=\"color:#ff0000;\"></span></u></p>\n",
+          "type": "mcq",
+          "ui_style": {
+            "choice_label": "upper-alpha",
+            "type": "block"
+          },
+          "validation": {
+            "scoring_type": "exactMatch",
+            "valid_response": {
+              "score": 1,
+              "value": [
+                "3"
+              ]
+            }
+          },
+          "feedback_attempts": 2,
+          "instant_feedback": true
+        },
+        "metadata": {
+          "name": "Multiple choice – block layout",
+          "template_reference": "33d53a22-1a59-4a03-9671-7f5104edd62e"
+        }
+      },
+      "feedbackInfo": [
+        null,
+        null
+      ]
+    },
+    {
+      "response_id": "704d3d00-5a11-4336-beda-094e99ce38d1_24771a0c7922604b35e53e68fad89970",
+      "question_type": "mcq",
+      "dt_score_updated": "2023-12-01T15:00:43Z",
+      "automarkable": true,
+      "attempted": true,
+      "score": 1,
+      "max_score": 1,
+      "question_reference": "bd677117-f40f-485a-a5e0-d97a410e18b1",
+      "item_reference": "905369df-0209-47a2-8a29-c24256f0d641",
+      "response": {
+        "value": [
+          "1"
+        ],
+        "type": "array",
+        "apiVersion": "v2.192.18",
+        "revision": 2,
+        "feedbackAttemptsCount": 2
+      },
+      "questionInfo": {
+        "type": "mcq",
+        "widget_type": "response",
+        "reference": "bd677117-f40f-485a-a5e0-d97a410e18b1",
+        "data": {
+          "options": [
+            {
+              "label": "I will read it carefully to understand <strong>all the details.</strong>",
+              "value": "0"
+            },
+            {
+              "label": "I will read it quickly just to get the <strong>main ideas</strong>.",
+              "value": "1"
+            },
+            {
+              "label": "I will <strong>not read</strong> this section at all.",
+              "value": "2"
+            }
+          ],
+          "stimulus": "<div class=\"lrn-well\"><strong><span style=\"font-size:1.3em;\">How should you read this section?</span></strong></div>\n",
+          "type": "mcq",
+          "validation": {
+            "scoring_type": "exactMatch",
+            "valid_response": {
+              "score": 1,
+              "value": [
+                "1"
+              ]
+            }
+          },
+          "ui_style": {
+            "type": "horizontal"
+          },
+          "instant_feedback": true
+        },
+        "metadata": {
+          "name": "Multiple choice – standard",
+          "template_reference": "9e8149bd-e4d8-4dd6-a751-1a113a4b9163"
+        }
+      },
+      "feedbackInfo": [
+        null,
+        null
+      ]
+    },
+    {
+      "response_id": "704d3d00-5a11-4336-beda-094e99ce38d1_1bfdba9465d6ab0f52c4f99f6e82d114",
+      "question_type": "mcq",
+      "dt_score_updated": "2023-12-01T15:00:58Z",
+      "automarkable": true,
+      "attempted": true,
+      "score": 1,
+      "max_score": 1,
+      "question_reference": "07c0b4bb-1a21-4d52-b9c0-be5da1fa244c",
+      "item_reference": "905369df-0209-47a2-8a29-c24256f0d641",
+      "response": {
+        "value": [
+          "1"
+        ],
+        "type": "array",
+        "apiVersion": "v2.192.18",
+        "revision": 1,
+        "feedbackAttemptsCount": 1
+      },
+      "questionInfo": {
+        "type": "mcq",
+        "widget_type": "response",
+        "reference": "07c0b4bb-1a21-4d52-b9c0-be5da1fa244c",
+        "data": {
+          "options": [
+            {
+              "label": "Yes, because it's about international students profile.",
+              "value": "0"
+            },
+            {
+              "label": "Yes, because it's about the decision-making process.",
+              "value": "1"
+            },
+            {
+              "label": "Yes, because it's about international students coming to the UK.",
+              "value": "2"
+            },
+            {
+              "label": "No, because it's not specifically about Coventry university.",
+              "value": "3"
+            },
+            {
+              "label": "No, because it's just about Nigeria, Pakistan, Hong Kong, and the US.",
+              "value": "4"
+            },
+            {
+              "label": "No, because it's not about the decision-making process.",
+              "value": "5"
+            }
+          ],
+          "stimulus": "<p><span style=\"color:#0000ff;\"><strong><span style=\"font-size:2em;\">Look at Secti</span></strong></span><span style=\"color:#0000ff;\"><strong><span style=\"font-size:2em;\">on 2:</span><span style=\"font-size:2em;\"> What does decision-making look like for international students?</span></strong></span><span style=\"color:#0000ff;\"></span></p>\n\n<p><img height=\"213\" src=\"https://assets.learnosity.com/organisations/755/a654f549-0a8d-494a-8aef-b1cee8380e4e.jpg\" width=\"301\" /></p>\n\n<p><strong><span style=\"font-size:1.5em;\"></span><span style=\"color:#0000ff;\"><span style=\"font-size:1.5em;\">►&nbsp;</span></span><span style=\"font-size:1.5em;\">Is this section directly relevant to your report?</span></strong></p>\n\n<p>&nbsp;</p>\n\n<p><u><span style=\"color:#ff0000;\"><strong>Think carefully - you only have TWO check answer attempts!</strong></span></u></p>\n",
+          "type": "mcq",
+          "ui_style": {
+            "choice_label": "upper-alpha",
+            "type": "block"
+          },
+          "validation": {
+            "scoring_type": "exactMatch",
+            "valid_response": {
+              "score": 1,
+              "value": [
+                "1"
+              ]
+            }
+          },
+          "feedback_attempts": 2,
+          "instant_feedback": true
+        },
+        "metadata": {
+          "name": "Multiple choice – block layout",
+          "template_reference": "33d53a22-1a59-4a03-9671-7f5104edd62e"
+        }
+      },
+      "feedbackInfo": [
+        null,
+        null
+      ]
+    },
+    {
+      "response_id": "704d3d00-5a11-4336-beda-094e99ce38d1_23b456d35ea2d339e098dc377a5e1619",
+      "question_type": "mcq",
+      "dt_score_updated": "2023-12-01T15:01:40Z",
+      "automarkable": true,
+      "attempted": true,
+      "score": 1,
+      "max_score": 1,
+      "question_reference": "378bebc9-9c22-40e0-9139-e7e9786f37f0",
+      "item_reference": "905369df-0209-47a2-8a29-c24256f0d641",
+      "response": {
+        "value": [
+          "0"
+        ],
+        "type": "array",
+        "apiVersion": "v2.192.18",
+        "revision": 1,
+        "feedbackAttemptsCount": 1
+      },
+      "questionInfo": {
+        "type": "mcq",
+        "widget_type": "response",
+        "reference": "378bebc9-9c22-40e0-9139-e7e9786f37f0",
+        "data": {
+          "options": [
+            {
+              "label": "I will read it carefully to understand <strong>all the details.</strong>",
+              "value": "0"
+            },
+            {
+              "label": "I will read it quickly just to get the <strong>main ideas</strong>.",
+              "value": "1"
+            },
+            {
+              "label": "I will <strong>not read</strong> this section at all.",
+              "value": "2"
+            }
+          ],
+          "stimulus": "<div class=\"lrn-well\"><strong><span style=\"font-size:1.3em;\">How should you read this section?</span></strong></div>\n",
+          "type": "mcq",
+          "validation": {
+            "scoring_type": "exactMatch",
+            "valid_response": {
+              "score": 1,
+              "value": [
+                "0"
+              ]
+            }
+          },
+          "ui_style": {
+            "type": "horizontal"
+          },
+          "instant_feedback": true
+        },
+        "metadata": {
+          "name": "Multiple choice – standard",
+          "template_reference": "9e8149bd-e4d8-4dd6-a751-1a113a4b9163"
+        }
+      },
+      "feedbackInfo": [
+        null,
+        null
+      ]
+    },
+    {
+      "response_id": "704d3d00-5a11-4336-beda-094e99ce38d1_36739e72d3b11f139059c856dc991a41",
+      "question_type": "mcq",
+      "dt_score_updated": "2023-12-01T15:02:24Z",
+      "automarkable": true,
+      "attempted": true,
+      "score": 1,
+      "max_score": 1,
+      "question_reference": "ba0ac8a6-c37b-420c-a1ff-baac8ab8a563",
+      "item_reference": "905369df-0209-47a2-8a29-c24256f0d641",
+      "response": {
+        "value": [
+          "1"
+        ],
+        "type": "array",
+        "apiVersion": "v2.192.18",
+        "revision": 2,
+        "feedbackAttemptsCount": 2
+      },
+      "questionInfo": {
+        "type": "mcq",
+        "widget_type": "response",
+        "reference": "ba0ac8a6-c37b-420c-a1ff-baac8ab8a563",
+        "data": {
+          "options": [
+            {
+              "label": "Yes, because it's about international students profile.",
+              "value": "0"
+            },
+            {
+              "label": "Yes, because it's about the decision-making process.",
+              "value": "1"
+            },
+            {
+              "label": "Yes, because it's about international students coming to the UK.",
+              "value": "2"
+            },
+            {
+              "label": "No, because it's not specifically about Coventry university.",
+              "value": "3"
+            },
+            {
+              "label": "No, because it's just about Nigeria, Pakistan, Hong Kong, and the US.",
+              "value": "4"
+            },
+            {
+              "label": "No, because it's not about the decision-making process.",
+              "value": "5"
+            }
+          ],
+          "stimulus": "<p><span style=\"color:#008000;\"><strong><span style=\"font-size:2em;\">Look at Secti</span><span style=\"font-size:2em;\">on 3:</span><span style=\"font-size:2em;\"> </span><span style=\"font-size:2em;\">What, and who drives international students to study across borders</span><span style=\"font-size:2em;\">?</span></strong></span></p>\n\n<p><img height=\"214\" src=\"https://assets.learnosity.com/organisations/755/b876d0da-fbe7-47ec-9e82-50613d99da26.jpg\" width=\"300\" /></p>\n\n<p><strong><span style=\"font-size:1.5em;\"></span><span style=\"color:#008000;\"><span style=\"font-size:1.5em;\">►&nbsp;</span></span><span style=\"font-size:1.5em;\">Is this section directly relevant to your report?</span></strong></p>\n\n<p>&nbsp;</p>\n\n<p><u><span style=\"color:#ff0000;\"></span><span style=\"color:#ff0000;\"><strong>Think carefully - you only have TWO check answer attempts!</strong></span><span style=\"color:#ff0000;\"></span></u></p>\n",
+          "type": "mcq",
+          "ui_style": {
+            "choice_label": "upper-alpha",
+            "type": "block"
+          },
+          "validation": {
+            "scoring_type": "exactMatch",
+            "valid_response": {
+              "score": 1,
+              "value": [
+                "1"
+              ]
+            }
+          },
+          "feedback_attempts": 2,
+          "instant_feedback": true
+        },
+        "metadata": {
+          "name": "Multiple choice – block layout",
+          "template_reference": "33d53a22-1a59-4a03-9671-7f5104edd62e"
+        }
+      },
+      "feedbackInfo": [
+        null,
+        null
+      ]
+    },
+    {
+      "response_id": "704d3d00-5a11-4336-beda-094e99ce38d1_e55418c8a6d71bb7cfc74fef0660c5b0",
+      "question_type": "mcq",
+      "dt_score_updated": "2023-12-01T15:02:24Z",
+      "automarkable": true,
+      "attempted": true,
+      "score": 1,
+      "max_score": 1,
+      "question_reference": "b1bc8603-afdd-43e1-a4b8-c0f5dd84a021",
+      "item_reference": "905369df-0209-47a2-8a29-c24256f0d641",
+      "response": {
+        "value": [
+          "0"
+        ],
+        "type": "array",
+        "apiVersion": "v2.192.18",
+        "revision": 1,
+        "feedbackAttemptsCount": 1
+      },
+      "questionInfo": {
+        "type": "mcq",
+        "widget_type": "response",
+        "reference": "b1bc8603-afdd-43e1-a4b8-c0f5dd84a021",
+        "data": {
+          "options": [
+            {
+              "label": "I will read it carefully to understand <strong>all the details.</strong>",
+              "value": "0"
+            },
+            {
+              "label": "I will read it quickly just to get the <strong>main ideas</strong>.",
+              "value": "1"
+            },
+            {
+              "label": "I will <strong>not read</strong> this section at all.",
+              "value": "2"
+            }
+          ],
+          "stimulus": "<div class=\"lrn-well\"><strong><span style=\"font-size:1.3em;\">How should you read this section?</span></strong></div>\n",
+          "type": "mcq",
+          "validation": {
+            "scoring_type": "exactMatch",
+            "valid_response": {
+              "score": 1,
+              "value": [
+                "0"
+              ]
+            }
+          },
+          "ui_style": {
+            "type": "horizontal"
+          },
+          "instant_feedback": true
+        },
+        "metadata": {
+          "name": "Multiple choice – standard",
+          "template_reference": "9e8149bd-e4d8-4dd6-a751-1a113a4b9163"
+        }
+      },
+      "feedbackInfo": [
+        null,
+        null
+      ]
+    },
+    {
+      "response_id": "704d3d00-5a11-4336-beda-094e99ce38d1_e637ed583cd6e65ea1b3d6c00048b459",
+      "question_type": "mcq",
+      "dt_score_updated": "2023-12-01T15:02:38Z",
+      "automarkable": true,
+      "attempted": true,
+      "score": 1,
+      "max_score": 1,
+      "question_reference": "758f1171-48cc-4575-b51d-0724708d18e3",
+      "item_reference": "905369df-0209-47a2-8a29-c24256f0d641",
+      "response": {
+        "value": [
+          "5"
+        ],
+        "type": "array",
+        "apiVersion": "v2.192.18",
+        "revision": 1,
+        "feedbackAttemptsCount": 1
+      },
+      "questionInfo": {
+        "type": "mcq",
+        "widget_type": "response",
+        "reference": "758f1171-48cc-4575-b51d-0724708d18e3",
+        "data": {
+          "options": [
+            {
+              "label": "Yes, because it's about international students profile.",
+              "value": "0"
+            },
+            {
+              "label": "Yes, because it's about the decision-making process.",
+              "value": "1"
+            },
+            {
+              "label": "Yes, because it's about international students coming to the UK.",
+              "value": "2"
+            },
+            {
+              "label": "No, because it's not specifically about Coventry university.",
+              "value": "3"
+            },
+            {
+              "label": "No, because it's just about Nigeria, Pakistan, Hong Kong, and the US.",
+              "value": "4"
+            },
+            {
+              "label": "No, because it's not about the decision-making process.",
+              "value": "5"
+            }
+          ],
+          "stimulus": "<p><span style=\"color:#008080;\"><strong><span style=\"font-size:2em;\">Look at Secti</span><span style=\"font-size:2em;\">on 4</span><span style=\"font-size:2em;\">: What can we learn about this cohort to promote diversity in our classrooms across the world</span><span style=\"font-size:2em;\">?</span></strong></span></p>\n\n<p><img height=\"210\" src=\"https://assets.learnosity.com/organisations/755/46f57483-9fca-4a05-bd61-abfdf3d00350.jpg\" width=\"300\" /></p>\n\n<p><strong><span style=\"font-size:1.5em;\"></span><span style=\"color:#008000;\"><span style=\"font-size:1.5em;\"></span></span><span style=\"color:#008080;\"><span style=\"font-size:1.5em;\">►</span></span><span style=\"color:#008000;\"><span style=\"font-size:1.5em;\">&nbsp;</span></span><span style=\"font-size:1.5em;\">Is this section directly relevant to your report?</span></strong></p>\n\n<p>&nbsp;</p>\n\n<p><u><span style=\"color:#ff0000;\"></span><span style=\"color:#ff0000;\"><strong>Think carefully - you only have TWO check answer attempts!</strong></span><span style=\"color:#ff0000;\"></span></u></p>\n",
+          "type": "mcq",
+          "ui_style": {
+            "choice_label": "upper-alpha",
+            "type": "block"
+          },
+          "validation": {
+            "scoring_type": "exactMatch",
+            "valid_response": {
+              "score": 1,
+              "value": [
+                "5"
+              ]
+            }
+          },
+          "feedback_attempts": 2,
+          "instant_feedback": true
+        },
+        "metadata": {
+          "name": "Multiple choice – block layout",
+          "template_reference": "33d53a22-1a59-4a03-9671-7f5104edd62e"
+        }
+      },
+      "feedbackInfo": [
+        null,
+        null
+      ]
+    },
+    {
+      "response_id": "704d3d00-5a11-4336-beda-094e99ce38d1_aa6d81fcbc74a53546276f1e1afc0b66",
+      "question_type": "mcq",
+      "dt_score_updated": "2023-12-01T15:02:52Z",
+      "automarkable": true,
+      "attempted": true,
+      "score": 1,
+      "max_score": 1,
+      "question_reference": "d5ab7e10-fdab-4305-88ed-519e3e51f380",
+      "item_reference": "905369df-0209-47a2-8a29-c24256f0d641",
+      "response": {
+        "value": [
+          "1"
+        ],
+        "type": "array",
+        "apiVersion": "v2.192.18",
+        "revision": 1,
+        "feedbackAttemptsCount": 2
+      },
+      "questionInfo": {
+        "type": "mcq",
+        "widget_type": "response",
+        "reference": "d5ab7e10-fdab-4305-88ed-519e3e51f380",
+        "data": {
+          "options": [
+            {
+              "label": "I will read it carefully to understand <strong>all the details.</strong>",
+              "value": "0"
+            },
+            {
+              "label": "I will read it quickly just to get the <strong>main ideas</strong>.",
+              "value": "1"
+            },
+            {
+              "label": "I will <strong>not read</strong> this section at all.",
+              "value": "2"
+            }
+          ],
+          "stimulus": "<div class=\"lrn-well\"><strong><span style=\"font-size:1.3em;\">How should you read this section?</span></strong></div>\n",
+          "type": "mcq",
+          "validation": {
+            "scoring_type": "exactMatch",
+            "valid_response": {
+              "score": 1,
+              "value": [
+                "1"
+              ]
+            }
+          },
+          "ui_style": {
+            "type": "horizontal"
+          },
+          "instant_feedback": true
+        },
+        "metadata": {
+          "name": "Multiple choice – standard",
+          "template_reference": "9e8149bd-e4d8-4dd6-a751-1a113a4b9163"
+        }
+      },
+      "feedbackInfo": [
+        null,
+        null
+      ]
+    },
+    {
+      "response_id": "704d3d00-5a11-4336-beda-094e99ce38d1_1214387517ad9fb65fe5e10e390df8fa",
+      "question_type": "tokenhighlight",
+      "dt_score_updated": "2023-12-01T15:06:55Z",
+      "automarkable": true,
+      "attempted": true,
+      "score": 1,
+      "max_score": 1,
+      "question_reference": "73cbffce-cff2-4abf-976f-957ef23da2d6",
+      "item_reference": "475069a0-6377-4fb7-9961-ee9e9f9f56f0",
+      "response": {
+        "value": [
+          0
+        ],
+        "type": "array",
+        "apiVersion": "v2.192.18",
+        "revision": 2,
+        "feedbackAttemptsCount": 1
+      },
+      "questionInfo": {
+        "type": "tokenhighlight",
+        "widget_type": "response",
+        "reference": "73cbffce-cff2-4abf-976f-957ef23da2d6",
+        "data": {
+          "stimulus": "<div class=\"lrn-well\"><strong><span style=\"font-size:1.3em;\">1. In the paragraph below, identify the <span style=\"color:#0000ff;\">topic sentence</span> (click on the sentence)</span></strong></div>\n\n<p><span style=\"color:#000000;\"><strong>►&nbsp;</strong></span><u><span style=\"color:#ff0000;\"><strong>Read carefully, you only have one check answer attempt!</strong></span></u></p>\n",
+          "template": "<span class=\"lrn_token\"><span style=\"font-size:1.5em;\">Maintaining student attention in the classroom is a key issue for most university teachers.</span></span> <span class=\"lrn_token\"><span style=\"font-size:1.5em;\"></span><span style=\"font-size:1.5em;\">Students</span> <span style=\"font-size:1.5em;\"></span><span style=\"font-size:1.5em;\">need</span> <span style=\"font-size:1.5em;\"></span><span style=\"font-size:1.5em;\">stimulation</span> <span style=\"font-size:1.5em;\"></span><span style=\"font-size:1.5em;\">if</span> <span style=\"font-size:1.5em;\"></span><span style=\"font-size:1.5em;\">they</span> <span style=\"font-size:1.5em;\"></span><span style=\"font-size:1.5em;\">are</span> <span style=\"font-size:1.5em;\"></span><span style=\"font-size:1.5em;\">to</span> <span style=\"font-size:1.5em;\"></span><span style=\"font-size:1.5em;\">grow</span> <span style=\"font-size:1.5em;\"></span><span style=\"font-size:1.5em;\">as</span> <span style=\"font-size:1.5em;\"></span><span style=\"font-size:1.5em;\">learners.</span></span> <span class=\"lrn_token\"><span style=\"font-size:1.5em;\"></span><span style=\"font-size:1.5em;\">Sharpe</span> <span style=\"font-size:1.5em;\"></span><span style=\"font-size:1.5em;\">(</span><span style=\"font-size:1.5em;\">2022)</span> <span style=\"font-size:1.5em;\"></span><span style=\"font-size:1.5em;\">observed</span> <span style=\"font-size:1.5em;\"></span><span style=\"font-size:1.5em;\">an</span> <span style=\"font-size:1.5em;\"></span><span style=\"font-size:1.5em;\">increase</span> <span style=\"font-size:1.5em;\"></span><span style=\"font-size:1.5em;\">in</span> <span style=\"font-size:1.5em;\"></span><span style=\"font-size:1.5em;\">students’</span> <span style=\"font-size:1.5em;\"></span><span style=\"font-size:1.5em;\">ability</span> <span style=\"font-size:1.5em;\"></span><span style=\"font-size:1.5em;\">to</span> <span style=\"font-size:1.5em;\"></span><span style=\"font-size:1.5em;\">focus</span> <span style=\"font-size:1.5em;\"></span><span style=\"font-size:1.5em;\">after</span> <span style=\"font-size:1.5em;\"></span><span style=\"font-size:1.5em;\">they</span> <span style=\"font-size:1.5em;\"></span><span style=\"font-size:1.5em;\">had</span> <span style=\"font-size:1.5em;\"></span><span style=\"font-size:1.5em;\">a</span> <span style=\"font-size:1.5em;\"></span><span style=\"font-size:1.5em;\">break.</span></span> <span class=\"lrn_token\"><span style=\"font-size:1.5em;\"></span><span style=\"font-size:1.5em;\">Similarly</span><span style=\"font-size:1.5em;\">,</span> <span style=\"font-size:1.5em;\"></span><span style=\"font-size:1.5em;\">Barnes</span> <span style=\"font-size:1.5em;\"></span><span style=\"font-size:1.5em;\">(</span><span style=\"font-size:1.5em;\">2021)</span> <span style=\"font-size:1.5em;\"></span><span style=\"font-size:1.5em;\">discovered</span> <span style=\"font-size:1.5em;\"></span><span style=\"font-size:1.5em;\">that</span> <span style=\"font-size:1.5em;\"></span><span style=\"font-size:1.5em;\">students</span> <span style=\"font-size:1.5em;\"></span><span style=\"font-size:1.5em;\">stayed</span> <span style=\"font-size:1.5em;\"></span><span style=\"font-size:1.5em;\">focused</span> <span style=\"font-size:1.5em;\"></span><span style=\"font-size:1.5em;\">on</span> <span style=\"font-size:1.5em;\"></span><span style=\"font-size:1.5em;\">materials</span> <span style=\"font-size:1.5em;\"></span><span style=\"font-size:1.5em;\">if</span> <span style=\"font-size:1.5em;\"></span><span style=\"font-size:1.5em;\">they</span> <span style=\"font-size:1.5em;\"></span><span style=\"font-size:1.5em;\">worked</span> <span style=\"font-size:1.5em;\"></span><span style=\"font-size:1.5em;\">together.</span></span> <span class=\"lrn_token\"><span style=\"font-size:1.5em;\"></span><span style=\"font-size:1.5em;\">In</span> <span style=\"font-size:1.5em;\"></span><span style=\"font-size:1.5em;\">sum</span><span style=\"font-size:1.5em;\">,</span> <span style=\"font-size:1.5em;\"></span><span style=\"font-size:1.5em;\">both</span> <span style=\"font-size:1.5em;\"></span><span style=\"font-size:1.5em;\">methods</span> <span style=\"font-size:1.5em;\"></span><span style=\"font-size:1.5em;\">help</span> <span style=\"font-size:1.5em;\"></span><span style=\"font-size:1.5em;\">students</span> <span style=\"font-size:1.5em;\"></span><span style=\"font-size:1.5em;\">to</span> <span style=\"font-size:1.5em;\"></span><span style=\"font-size:1.5em;\">give</span> <span style=\"font-size:1.5em;\"></span><span style=\"font-size:1.5em;\">their</span> <span style=\"font-size:1.5em;\"></span><span style=\"font-size:1.5em;\">full</span> <span style=\"font-size:1.5em;\"></span><span style=\"font-size:1.5em;\">attention</span> <span style=\"font-size:1.5em;\"></span><span style=\"font-size:1.5em;\">to</span> <span style=\"font-size:1.5em;\"></span><span style=\"font-size:1.5em;\">their</span> <span style=\"font-size:1.5em;\"></span><span style=\"font-size:1.5em;\">studies.</span></span> <span class=\"lrn_token\"><span style=\"font-size:1.5em;\"></span><span style=\"font-size:1.5em;\">Thus</span><span style=\"font-size:1.5em;\">,</span> <span style=\"font-size:1.5em;\"></span><span style=\"font-size:1.5em;\">student</span> <span style=\"font-size:1.5em;\"></span><span style=\"font-size:1.5em;\">stimulation</span> <span style=\"font-size:1.5em;\"></span><span style=\"font-size:1.5em;\">seems</span> <span style=\"font-size:1.5em;\"></span><span style=\"font-size:1.5em;\">vital</span> <span style=\"font-size:1.5em;\"></span><span style=\"font-size:1.5em;\">for</span> <span style=\"font-size:1.5em;\"></span><span style=\"font-size:1.5em;\">academic</span> <span style=\"font-size:1.5em;\"></span><span style=\"font-size:1.5em;\">progress.</span></span>",
+          "tokenization": "custom",
+          "type": "tokenhighlight",
+          "validation": {
+            "scoring_type": "exactMatch",
+            "valid_response": {
+              "score": 1,
+              "value": [
+                0
+              ]
+            }
+          },
+          "instant_feedback": true
+        },
+        "metadata": {
+          "name": "Token highlight",
+          "template_reference": "47f0db98-79e8-4273-946f-90faf4a2ae49"
+        }
+      },
+      "feedbackInfo": [
+        null,
+        null
+      ]
+    },
+    {
+      "response_id": "704d3d00-5a11-4336-beda-094e99ce38d1_54cdfe70c27055b9e75ce8c73dfac831",
+      "question_type": "tokenhighlight",
+      "dt_score_updated": "2023-12-01T15:06:55Z",
+      "automarkable": true,
+      "attempted": true,
+      "score": 1,
+      "max_score": 1,
+      "question_reference": "1ec97c6c-dbf4-4e69-8afc-e7273057fc94",
+      "item_reference": "475069a0-6377-4fb7-9961-ee9e9f9f56f0",
+      "response": {
+        "value": [
+          1
+        ],
+        "type": "array",
+        "apiVersion": "v2.192.18",
+        "revision": 2,
+        "feedbackAttemptsCount": 1
+      },
+      "questionInfo": {
+        "type": "tokenhighlight",
+        "widget_type": "response",
+        "reference": "1ec97c6c-dbf4-4e69-8afc-e7273057fc94",
+        "data": {
+          "stimulus": "<div class=\"lrn-well\"><strong><span style=\"font-size:1.3em;\">2. Next, identify the <span style=\"color:#0000ff;\">reason</span> (click on the sentence)</span></strong></div>\n\n<p><span style=\"color:#000000;\"><strong>►&nbsp;</strong></span><u><span style=\"color:#ff0000;\"><strong>Read carefully, you only have one check answer attempt!</strong></span></u></p>\n",
+          "template": "<span class=\"lrn_token\"><span style=\"font-size:1.5em;\">Maintaining student attention in the classroom is a key issue for most university teachers.</span></span> <span class=\"lrn_token\"><span style=\"font-size:1.5em;\"></span><span style=\"font-size:1.5em;\">Students</span> <span style=\"font-size:1.5em;\"></span><span style=\"font-size:1.5em;\">need</span> <span style=\"font-size:1.5em;\"></span><span style=\"font-size:1.5em;\">stimulation</span> <span style=\"font-size:1.5em;\"></span><span style=\"font-size:1.5em;\">if</span> <span style=\"font-size:1.5em;\"></span><span style=\"font-size:1.5em;\">they</span> <span style=\"font-size:1.5em;\"></span><span style=\"font-size:1.5em;\">are</span> <span style=\"font-size:1.5em;\"></span><span style=\"font-size:1.5em;\">to</span> <span style=\"font-size:1.5em;\"></span><span style=\"font-size:1.5em;\">grow</span> <span style=\"font-size:1.5em;\"></span><span style=\"font-size:1.5em;\">as</span> <span style=\"font-size:1.5em;\"></span><span style=\"font-size:1.5em;\">learners.</span></span> <span class=\"lrn_token\"><span style=\"font-size:1.5em;\"></span><span style=\"font-size:1.5em;\">Sharpe</span> <span style=\"font-size:1.5em;\"></span><span style=\"font-size:1.5em;\">(</span><span style=\"font-size:1.5em;\">2022)</span> <span style=\"font-size:1.5em;\"></span><span style=\"font-size:1.5em;\">observed</span> <span style=\"font-size:1.5em;\"></span><span style=\"font-size:1.5em;\">an</span> <span style=\"font-size:1.5em;\"></span><span style=\"font-size:1.5em;\">increase</span> <span style=\"font-size:1.5em;\"></span><span style=\"font-size:1.5em;\">in</span> <span style=\"font-size:1.5em;\"></span><span style=\"font-size:1.5em;\">students’</span> <span style=\"font-size:1.5em;\"></span><span style=\"font-size:1.5em;\">ability</span> <span style=\"font-size:1.5em;\"></span><span style=\"font-size:1.5em;\">to</span> <span style=\"font-size:1.5em;\"></span><span style=\"font-size:1.5em;\">focus</span> <span style=\"font-size:1.5em;\"></span><span style=\"font-size:1.5em;\">after</span> <span style=\"font-size:1.5em;\"></span><span style=\"font-size:1.5em;\">they</span> <span style=\"font-size:1.5em;\"></span><span style=\"font-size:1.5em;\">had</span> <span style=\"font-size:1.5em;\"></span><span style=\"font-size:1.5em;\">a</span> <span style=\"font-size:1.5em;\"></span><span style=\"font-size:1.5em;\">break.</span></span> <span class=\"lrn_token\"><span style=\"font-size:1.5em;\"></span><span style=\"font-size:1.5em;\">Similarly</span><span style=\"font-size:1.5em;\">,</span> <span style=\"font-size:1.5em;\"></span><span style=\"font-size:1.5em;\">Barnes</span> <span style=\"font-size:1.5em;\"></span><span style=\"font-size:1.5em;\">(</span><span style=\"font-size:1.5em;\">2021)</span> <span style=\"font-size:1.5em;\"></span><span style=\"font-size:1.5em;\">discovered</span> <span style=\"font-size:1.5em;\"></span><span style=\"font-size:1.5em;\">that</span> <span style=\"font-size:1.5em;\"></span><span style=\"font-size:1.5em;\">students</span> <span style=\"font-size:1.5em;\"></span><span style=\"font-size:1.5em;\">stayed</span> <span style=\"font-size:1.5em;\"></span><span style=\"font-size:1.5em;\">focused</span> <span style=\"font-size:1.5em;\"></span><span style=\"font-size:1.5em;\">on</span> <span style=\"font-size:1.5em;\"></span><span style=\"font-size:1.5em;\">materials</span> <span style=\"font-size:1.5em;\"></span><span style=\"font-size:1.5em;\">if</span> <span style=\"font-size:1.5em;\"></span><span style=\"font-size:1.5em;\">they</span> <span style=\"font-size:1.5em;\"></span><span style=\"font-size:1.5em;\">worked</span> <span style=\"font-size:1.5em;\"></span><span style=\"font-size:1.5em;\">together.</span></span> <span class=\"lrn_token\"><span style=\"font-size:1.5em;\"></span><span style=\"font-size:1.5em;\">In</span> <span style=\"font-size:1.5em;\"></span><span style=\"font-size:1.5em;\">sum</span><span style=\"font-size:1.5em;\">,</span> <span style=\"font-size:1.5em;\"></span><span style=\"font-size:1.5em;\">both</span> <span style=\"font-size:1.5em;\"></span><span style=\"font-size:1.5em;\">methods</span> <span style=\"font-size:1.5em;\"></span><span style=\"font-size:1.5em;\">help</span> <span style=\"font-size:1.5em;\"></span><span style=\"font-size:1.5em;\">students</span> <span style=\"font-size:1.5em;\"></span><span style=\"font-size:1.5em;\">to</span> <span style=\"font-size:1.5em;\"></span><span style=\"font-size:1.5em;\">give</span> <span style=\"font-size:1.5em;\"></span><span style=\"font-size:1.5em;\">their</span> <span style=\"font-size:1.5em;\"></span><span style=\"font-size:1.5em;\">full</span> <span style=\"font-size:1.5em;\"></span><span style=\"font-size:1.5em;\">attention</span> <span style=\"font-size:1.5em;\"></span><span style=\"font-size:1.5em;\">to</span> <span style=\"font-size:1.5em;\"></span><span style=\"font-size:1.5em;\">their</span> <span style=\"font-size:1.5em;\"></span><span style=\"font-size:1.5em;\">studies.</span></span> <span class=\"lrn_token\"><span style=\"font-size:1.5em;\"></span><span style=\"font-size:1.5em;\">Thus</span><span style=\"font-size:1.5em;\">,</span> <span style=\"font-size:1.5em;\"></span><span style=\"font-size:1.5em;\">student</span> <span style=\"font-size:1.5em;\"></span><span style=\"font-size:1.5em;\">stimulation</span> <span style=\"font-size:1.5em;\"></span><span style=\"font-size:1.5em;\">seems</span> <span style=\"font-size:1.5em;\"></span><span style=\"font-size:1.5em;\">vital</span> <span style=\"font-size:1.5em;\"></span><span style=\"font-size:1.5em;\">for</span> <span style=\"font-size:1.5em;\"></span><span style=\"font-size:1.5em;\">academic</span> <span style=\"font-size:1.5em;\"></span><span style=\"font-size:1.5em;\">progress.</span></span>",
+          "tokenization": "custom",
+          "type": "tokenhighlight",
+          "validation": {
+            "scoring_type": "exactMatch",
+            "valid_response": {
+              "score": 1,
+              "value": [
+                1
+              ]
+            }
+          },
+          "instant_feedback": true
+        },
+        "metadata": {
+          "name": "Token highlight",
+          "template_reference": "47f0db98-79e8-4273-946f-90faf4a2ae49"
+        }
+      },
+      "feedbackInfo": [
+        null,
+        null
+      ]
+    },
+    {
+      "response_id": "704d3d00-5a11-4336-beda-094e99ce38d1_d55ebd1497b12edf2fe7bbd66e3fd1e5",
+      "question_type": "tokenhighlight",
+      "dt_score_updated": "2023-12-01T15:05:58Z",
+      "automarkable": true,
+      "attempted": true,
+      "score": 2,
+      "max_score": 2,
+      "question_reference": "18b70545-cb9d-4d15-81ac-7ef20738e8d1",
+      "item_reference": "475069a0-6377-4fb7-9961-ee9e9f9f56f0",
+      "response": {
+        "value": [
+          2,
+          3
+        ],
+        "type": "array",
+        "apiVersion": "v2.192.18",
+        "revision": 2,
+        "feedbackAttemptsCount": 1
+      },
+      "questionInfo": {
+        "type": "tokenhighlight",
+        "widget_type": "response",
+        "reference": "18b70545-cb9d-4d15-81ac-7ef20738e8d1",
+        "data": {
+          "stimulus": "<div class=\"lrn-well\"><strong><span style=\"font-size:1.3em;\">3. Next, identify the <font color=\"#0000ff\">evidence&nbsp;</font>(<u>two</u> sentences)</span></strong></div>\n\n<p><span style=\"color:#000000;\"><strong>►&nbsp;</strong></span><u><span style=\"color:#ff0000;\"><strong>Read carefully, you only have one check answer attempt!</strong></span></u></p>\n",
+          "template": "<span class=\"lrn_token\"><span style=\"font-size:1.5em;\">Maintaining student attention in the classroom is a key issue for most university teachers.</span></span> <span class=\"lrn_token\"><span style=\"font-size:1.5em;\"></span><span style=\"font-size:1.5em;\">Students</span> <span style=\"font-size:1.5em;\"></span><span style=\"font-size:1.5em;\">need</span> <span style=\"font-size:1.5em;\"></span><span style=\"font-size:1.5em;\">stimulation</span> <span style=\"font-size:1.5em;\"></span><span style=\"font-size:1.5em;\">if</span> <span style=\"font-size:1.5em;\"></span><span style=\"font-size:1.5em;\">they</span> <span style=\"font-size:1.5em;\"></span><span style=\"font-size:1.5em;\">are</span> <span style=\"font-size:1.5em;\"></span><span style=\"font-size:1.5em;\">to</span> <span style=\"font-size:1.5em;\"></span><span style=\"font-size:1.5em;\">grow</span> <span style=\"font-size:1.5em;\"></span><span style=\"font-size:1.5em;\">as</span> <span style=\"font-size:1.5em;\"></span><span style=\"font-size:1.5em;\">learners.</span></span> <span class=\"lrn_token\"><span style=\"font-size:1.5em;\"></span><span style=\"font-size:1.5em;\">Sharpe</span> <span style=\"font-size:1.5em;\"></span><span style=\"font-size:1.5em;\">(</span><span style=\"font-size:1.5em;\">2022)</span> <span style=\"font-size:1.5em;\"></span><span style=\"font-size:1.5em;\">observed</span> <span style=\"font-size:1.5em;\"></span><span style=\"font-size:1.5em;\">an</span> <span style=\"font-size:1.5em;\"></span><span style=\"font-size:1.5em;\">increase</span> <span style=\"font-size:1.5em;\"></span><span style=\"font-size:1.5em;\">in</span> <span style=\"font-size:1.5em;\"></span><span style=\"font-size:1.5em;\">students’</span> <span style=\"font-size:1.5em;\"></span><span style=\"font-size:1.5em;\">ability</span> <span style=\"font-size:1.5em;\"></span><span style=\"font-size:1.5em;\">to</span> <span style=\"font-size:1.5em;\"></span><span style=\"font-size:1.5em;\">focus</span> <span style=\"font-size:1.5em;\"></span><span style=\"font-size:1.5em;\">after</span> <span style=\"font-size:1.5em;\"></span><span style=\"font-size:1.5em;\">they</span> <span style=\"font-size:1.5em;\"></span><span style=\"font-size:1.5em;\">had</span> <span style=\"font-size:1.5em;\"></span><span style=\"font-size:1.5em;\">a</span> <span style=\"font-size:1.5em;\"></span><span style=\"font-size:1.5em;\">break.</span></span> <span class=\"lrn_token\"><span style=\"font-size:1.5em;\"></span><span style=\"font-size:1.5em;\">Similarly</span><span style=\"font-size:1.5em;\">,</span> <span style=\"font-size:1.5em;\"></span><span style=\"font-size:1.5em;\">Barnes</span> <span style=\"font-size:1.5em;\"></span><span style=\"font-size:1.5em;\">(</span><span style=\"font-size:1.5em;\">2021)</span> <span style=\"font-size:1.5em;\"></span><span style=\"font-size:1.5em;\">discovered</span> <span style=\"font-size:1.5em;\"></span><span style=\"font-size:1.5em;\">that</span> <span style=\"font-size:1.5em;\"></span><span style=\"font-size:1.5em;\">students</span> <span style=\"font-size:1.5em;\"></span><span style=\"font-size:1.5em;\">stayed</span> <span style=\"font-size:1.5em;\"></span><span style=\"font-size:1.5em;\">focused</span> <span style=\"font-size:1.5em;\"></span><span style=\"font-size:1.5em;\">on</span> <span style=\"font-size:1.5em;\"></span><span style=\"font-size:1.5em;\">materials</span> <span style=\"font-size:1.5em;\"></span><span style=\"font-size:1.5em;\">if</span> <span style=\"font-size:1.5em;\"></span><span style=\"font-size:1.5em;\">they</span> <span style=\"font-size:1.5em;\"></span><span style=\"font-size:1.5em;\">worked</span> <span style=\"font-size:1.5em;\"></span><span style=\"font-size:1.5em;\">together.</span></span> <span class=\"lrn_token\"><span style=\"font-size:1.5em;\"></span><span style=\"font-size:1.5em;\">In</span> <span style=\"font-size:1.5em;\"></span><span style=\"font-size:1.5em;\">sum</span><span style=\"font-size:1.5em;\">,</span> <span style=\"font-size:1.5em;\"></span><span style=\"font-size:1.5em;\">both</span> <span style=\"font-size:1.5em;\"></span><span style=\"font-size:1.5em;\">methods</span> <span style=\"font-size:1.5em;\"></span><span style=\"font-size:1.5em;\">help</span> <span style=\"font-size:1.5em;\"></span><span style=\"font-size:1.5em;\">students</span> <span style=\"font-size:1.5em;\"></span><span style=\"font-size:1.5em;\">to</span> <span style=\"font-size:1.5em;\"></span><span style=\"font-size:1.5em;\">give</span> <span style=\"font-size:1.5em;\"></span><span style=\"font-size:1.5em;\">their</span> <span style=\"font-size:1.5em;\"></span><span style=\"font-size:1.5em;\">full</span> <span style=\"font-size:1.5em;\"></span><span style=\"font-size:1.5em;\">attention</span> <span style=\"font-size:1.5em;\"></span><span style=\"font-size:1.5em;\">to</span> <span style=\"font-size:1.5em;\"></span><span style=\"font-size:1.5em;\">their</span> <span style=\"font-size:1.5em;\"></span><span style=\"font-size:1.5em;\">studies.</span></span> <span class=\"lrn_token\"><span style=\"font-size:1.5em;\"></span><span style=\"font-size:1.5em;\">Thus</span><span style=\"font-size:1.5em;\">,</span> <span style=\"font-size:1.5em;\"></span><span style=\"font-size:1.5em;\">student</span> <span style=\"font-size:1.5em;\"></span><span style=\"font-size:1.5em;\">stimulation</span> <span style=\"font-size:1.5em;\"></span><span style=\"font-size:1.5em;\">seems</span> <span style=\"font-size:1.5em;\"></span><span style=\"font-size:1.5em;\">vital</span> <span style=\"font-size:1.5em;\"></span><span style=\"font-size:1.5em;\">for</span> <span style=\"font-size:1.5em;\"></span><span style=\"font-size:1.5em;\">academic</span> <span style=\"font-size:1.5em;\"></span><span style=\"font-size:1.5em;\">progress.</span></span>",
+          "tokenization": "custom",
+          "type": "tokenhighlight",
+          "validation": {
+            "scoring_type": "exactMatch",
+            "valid_response": {
+              "score": 2,
+              "value": [
+                2,
+                3
+              ]
+            }
+          },
+          "instant_feedback": true
+        },
+        "metadata": {
+          "name": "Token highlight",
+          "template_reference": "47f0db98-79e8-4273-946f-90faf4a2ae49"
+        }
+      },
+      "feedbackInfo": [
+        null,
+        null
+      ]
+    },
+    {
+      "response_id": "704d3d00-5a11-4336-beda-094e99ce38d1_af3321f4aaa40a4ac620b6eecddcf0f6",
+      "question_type": "tokenhighlight",
+      "dt_score_updated": "2023-12-01T15:06:55Z",
+      "automarkable": true,
+      "attempted": true,
+      "score": 1,
+      "max_score": 1,
+      "question_reference": "3b425bbf-592c-4a1a-9545-7e9158216181",
+      "item_reference": "475069a0-6377-4fb7-9961-ee9e9f9f56f0",
+      "response": {
+        "value": [
+          4
+        ],
+        "type": "array",
+        "apiVersion": "v2.192.18",
+        "revision": 2,
+        "feedbackAttemptsCount": 1
+      },
+      "questionInfo": {
+        "type": "tokenhighlight",
+        "widget_type": "response",
+        "reference": "3b425bbf-592c-4a1a-9545-7e9158216181",
+        "data": {
+          "stimulus": "<div class=\"lrn-well\"><strong><span style=\"font-size:1.3em;\">4. Next, identify the <font color=\"#0000ff\">analysis&nbsp;</font>(click on the sentence)</span></strong></div>\n\n<p><span style=\"color:#000000;\"><strong>►&nbsp;</strong></span><u><span style=\"color:#ff0000;\"><strong>Read carefully, you only have one check answer attempt!</strong></span></u></p>\n",
+          "template": "<span class=\"lrn_token\"><span style=\"font-size:1.5em;\">Maintaining student attention in the classroom is a key issue for most university teachers.</span></span> <span class=\"lrn_token\"><span style=\"font-size:1.5em;\"></span><span style=\"font-size:1.5em;\">Students</span> <span style=\"font-size:1.5em;\"></span><span style=\"font-size:1.5em;\">need</span> <span style=\"font-size:1.5em;\"></span><span style=\"font-size:1.5em;\">stimulation</span> <span style=\"font-size:1.5em;\"></span><span style=\"font-size:1.5em;\">if</span> <span style=\"font-size:1.5em;\"></span><span style=\"font-size:1.5em;\">they</span> <span style=\"font-size:1.5em;\"></span><span style=\"font-size:1.5em;\">are</span> <span style=\"font-size:1.5em;\"></span><span style=\"font-size:1.5em;\">to</span> <span style=\"font-size:1.5em;\"></span><span style=\"font-size:1.5em;\">grow</span> <span style=\"font-size:1.5em;\"></span><span style=\"font-size:1.5em;\">as</span> <span style=\"font-size:1.5em;\"></span><span style=\"font-size:1.5em;\">learners.</span></span> <span class=\"lrn_token\"><span style=\"font-size:1.5em;\"></span><span style=\"font-size:1.5em;\">Sharpe</span> <span style=\"font-size:1.5em;\"></span><span style=\"font-size:1.5em;\">(</span><span style=\"font-size:1.5em;\">2022)</span> <span style=\"font-size:1.5em;\"></span><span style=\"font-size:1.5em;\">observed</span> <span style=\"font-size:1.5em;\"></span><span style=\"font-size:1.5em;\">an</span> <span style=\"font-size:1.5em;\"></span><span style=\"font-size:1.5em;\">increase</span> <span style=\"font-size:1.5em;\"></span><span style=\"font-size:1.5em;\">in</span> <span style=\"font-size:1.5em;\"></span><span style=\"font-size:1.5em;\">students’</span> <span style=\"font-size:1.5em;\"></span><span style=\"font-size:1.5em;\">ability</span> <span style=\"font-size:1.5em;\"></span><span style=\"font-size:1.5em;\">to</span> <span style=\"font-size:1.5em;\"></span><span style=\"font-size:1.5em;\">focus</span> <span style=\"font-size:1.5em;\"></span><span style=\"font-size:1.5em;\">after</span> <span style=\"font-size:1.5em;\"></span><span style=\"font-size:1.5em;\">they</span> <span style=\"font-size:1.5em;\"></span><span style=\"font-size:1.5em;\">had</span> <span style=\"font-size:1.5em;\"></span><span style=\"font-size:1.5em;\">a</span> <span style=\"font-size:1.5em;\"></span><span style=\"font-size:1.5em;\">break.</span></span> <span class=\"lrn_token\"><span style=\"font-size:1.5em;\"></span><span style=\"font-size:1.5em;\">Similarly</span><span style=\"font-size:1.5em;\">,</span> <span style=\"font-size:1.5em;\"></span><span style=\"font-size:1.5em;\">Barnes</span> <span style=\"font-size:1.5em;\"></span><span style=\"font-size:1.5em;\">(</span><span style=\"font-size:1.5em;\">2021)</span> <span style=\"font-size:1.5em;\"></span><span style=\"font-size:1.5em;\">discovered</span> <span style=\"font-size:1.5em;\"></span><span style=\"font-size:1.5em;\">that</span> <span style=\"font-size:1.5em;\"></span><span style=\"font-size:1.5em;\">students</span> <span style=\"font-size:1.5em;\"></span><span style=\"font-size:1.5em;\">stayed</span> <span style=\"font-size:1.5em;\"></span><span style=\"font-size:1.5em;\">focused</span> <span style=\"font-size:1.5em;\"></span><span style=\"font-size:1.5em;\">on</span> <span style=\"font-size:1.5em;\"></span><span style=\"font-size:1.5em;\">materials</span> <span style=\"font-size:1.5em;\"></span><span style=\"font-size:1.5em;\">if</span> <span style=\"font-size:1.5em;\"></span><span style=\"font-size:1.5em;\">they</span> <span style=\"font-size:1.5em;\"></span><span style=\"font-size:1.5em;\">worked</span> <span style=\"font-size:1.5em;\"></span><span style=\"font-size:1.5em;\">together.</span></span> <span class=\"lrn_token\"><span style=\"font-size:1.5em;\"></span><span style=\"font-size:1.5em;\">In</span> <span style=\"font-size:1.5em;\"></span><span style=\"font-size:1.5em;\">sum</span><span style=\"font-size:1.5em;\">,</span> <span style=\"font-size:1.5em;\"></span><span style=\"font-size:1.5em;\">both</span> <span style=\"font-size:1.5em;\"></span><span style=\"font-size:1.5em;\">methods</span> <span style=\"font-size:1.5em;\"></span><span style=\"font-size:1.5em;\">help</span> <span style=\"font-size:1.5em;\"></span><span style=\"font-size:1.5em;\">students</span> <span style=\"font-size:1.5em;\"></span><span style=\"font-size:1.5em;\">to</span> <span style=\"font-size:1.5em;\"></span><span style=\"font-size:1.5em;\">give</span> <span style=\"font-size:1.5em;\"></span><span style=\"font-size:1.5em;\">their</span> <span style=\"font-size:1.5em;\"></span><span style=\"font-size:1.5em;\">full</span> <span style=\"font-size:1.5em;\"></span><span style=\"font-size:1.5em;\">attention</span> <span style=\"font-size:1.5em;\"></span><span style=\"font-size:1.5em;\">to</span> <span style=\"font-size:1.5em;\"></span><span style=\"font-size:1.5em;\">their</span> <span style=\"font-size:1.5em;\"></span><span style=\"font-size:1.5em;\">studies.</span></span> <span class=\"lrn_token\"><span style=\"font-size:1.5em;\"></span><span style=\"font-size:1.5em;\">Thus</span><span style=\"font-size:1.5em;\">,</span> <span style=\"font-size:1.5em;\"></span><span style=\"font-size:1.5em;\">student</span> <span style=\"font-size:1.5em;\"></span><span style=\"font-size:1.5em;\">stimulation</span> <span style=\"font-size:1.5em;\"></span><span style=\"font-size:1.5em;\">seems</span> <span style=\"font-size:1.5em;\"></span><span style=\"font-size:1.5em;\">vital</span> <span style=\"font-size:1.5em;\"></span><span style=\"font-size:1.5em;\">for</span> <span style=\"font-size:1.5em;\"></span><span style=\"font-size:1.5em;\">academic</span> <span style=\"font-size:1.5em;\"></span><span style=\"font-size:1.5em;\">progress.</span></span>",
+          "tokenization": "custom",
+          "type": "tokenhighlight",
+          "validation": {
+            "scoring_type": "exactMatch",
+            "valid_response": {
+              "score": 1,
+              "value": [
+                4
+              ]
+            }
+          },
+          "instant_feedback": true
+        },
+        "metadata": {
+          "name": "Token highlight",
+          "template_reference": "47f0db98-79e8-4273-946f-90faf4a2ae49"
+        }
+      },
+      "feedbackInfo": [
+        null,
+        null
+      ]
+    },
+    {
+      "response_id": "704d3d00-5a11-4336-beda-094e99ce38d1_145f4d96e29ebf815b5e891dac272889",
+      "question_type": "tokenhighlight",
+      "dt_score_updated": "2023-12-01T15:06:55Z",
+      "automarkable": true,
+      "attempted": true,
+      "score": 1,
+      "max_score": 1,
+      "question_reference": "c42b189c-9e73-4e7c-87dd-b3c93402ca9f",
+      "item_reference": "475069a0-6377-4fb7-9961-ee9e9f9f56f0",
+      "response": {
+        "value": [
+          5
+        ],
+        "type": "array",
+        "apiVersion": "v2.192.18",
+        "revision": 1,
+        "feedbackAttemptsCount": 1
+      },
+      "questionInfo": {
+        "type": "tokenhighlight",
+        "widget_type": "response",
+        "reference": "c42b189c-9e73-4e7c-87dd-b3c93402ca9f",
+        "data": {
+          "stimulus": "<div class=\"lrn-well\"><strong><span style=\"font-size:1.3em;\">5. Finally, identify the <font color=\"#0000ff\">concluding comment&nbsp;</font>(click on the sentence)</span></strong></div>\n\n<p><span style=\"color:#000000;\"><strong>►&nbsp;</strong></span><u><span style=\"color:#ff0000;\"><strong>Read carefully, you only have one check answer attempt!</strong></span></u></p>\n",
+          "template": "<span class=\"lrn_token\"><span style=\"font-size:1.5em;\">Maintaining student attention in the classroom is a key issue for most university teachers.</span></span> <span class=\"lrn_token\"><span style=\"font-size:1.5em;\"></span><span style=\"font-size:1.5em;\">Students</span> <span style=\"font-size:1.5em;\"></span><span style=\"font-size:1.5em;\">need</span> <span style=\"font-size:1.5em;\"></span><span style=\"font-size:1.5em;\">stimulation</span> <span style=\"font-size:1.5em;\"></span><span style=\"font-size:1.5em;\">if</span> <span style=\"font-size:1.5em;\"></span><span style=\"font-size:1.5em;\">they</span> <span style=\"font-size:1.5em;\"></span><span style=\"font-size:1.5em;\">are</span> <span style=\"font-size:1.5em;\"></span><span style=\"font-size:1.5em;\">to</span> <span style=\"font-size:1.5em;\"></span><span style=\"font-size:1.5em;\">grow</span> <span style=\"font-size:1.5em;\"></span><span style=\"font-size:1.5em;\">as</span> <span style=\"font-size:1.5em;\"></span><span style=\"font-size:1.5em;\">learners.</span></span> <span class=\"lrn_token\"><span style=\"font-size:1.5em;\"></span><span style=\"font-size:1.5em;\">Sharpe</span> <span style=\"font-size:1.5em;\"></span><span style=\"font-size:1.5em;\">(</span><span style=\"font-size:1.5em;\">2022)</span> <span style=\"font-size:1.5em;\"></span><span style=\"font-size:1.5em;\">observed</span> <span style=\"font-size:1.5em;\"></span><span style=\"font-size:1.5em;\">an</span> <span style=\"font-size:1.5em;\"></span><span style=\"font-size:1.5em;\">increase</span> <span style=\"font-size:1.5em;\"></span><span style=\"font-size:1.5em;\">in</span> <span style=\"font-size:1.5em;\"></span><span style=\"font-size:1.5em;\">students’</span> <span style=\"font-size:1.5em;\"></span><span style=\"font-size:1.5em;\">ability</span> <span style=\"font-size:1.5em;\"></span><span style=\"font-size:1.5em;\">to</span> <span style=\"font-size:1.5em;\"></span><span style=\"font-size:1.5em;\">focus</span> <span style=\"font-size:1.5em;\"></span><span style=\"font-size:1.5em;\">after</span> <span style=\"font-size:1.5em;\"></span><span style=\"font-size:1.5em;\">they</span> <span style=\"font-size:1.5em;\"></span><span style=\"font-size:1.5em;\">had</span> <span style=\"font-size:1.5em;\"></span><span style=\"font-size:1.5em;\">a</span> <span style=\"font-size:1.5em;\"></span><span style=\"font-size:1.5em;\">break.</span></span> <span class=\"lrn_token\"><span style=\"font-size:1.5em;\"></span><span style=\"font-size:1.5em;\">Similarly</span><span style=\"font-size:1.5em;\">,</span> <span style=\"font-size:1.5em;\"></span><span style=\"font-size:1.5em;\">Barnes</span> <span style=\"font-size:1.5em;\"></span><span style=\"font-size:1.5em;\">(</span><span style=\"font-size:1.5em;\">2021)</span> <span style=\"font-size:1.5em;\"></span><span style=\"font-size:1.5em;\">discovered</span> <span style=\"font-size:1.5em;\"></span><span style=\"font-size:1.5em;\">that</span> <span style=\"font-size:1.5em;\"></span><span style=\"font-size:1.5em;\">students</span> <span style=\"font-size:1.5em;\"></span><span style=\"font-size:1.5em;\">stayed</span> <span style=\"font-size:1.5em;\"></span><span style=\"font-size:1.5em;\">focused</span> <span style=\"font-size:1.5em;\"></span><span style=\"font-size:1.5em;\">on</span> <span style=\"font-size:1.5em;\"></span><span style=\"font-size:1.5em;\">materials</span> <span style=\"font-size:1.5em;\"></span><span style=\"font-size:1.5em;\">if</span> <span style=\"font-size:1.5em;\"></span><span style=\"font-size:1.5em;\">they</span> <span style=\"font-size:1.5em;\"></span><span style=\"font-size:1.5em;\">worked</span> <span style=\"font-size:1.5em;\"></span><span style=\"font-size:1.5em;\">together.</span></span> <span class=\"lrn_token\"><span style=\"font-size:1.5em;\"></span><span style=\"font-size:1.5em;\">In</span> <span style=\"font-size:1.5em;\"></span><span style=\"font-size:1.5em;\">sum</span><span style=\"font-size:1.5em;\">,</span> <span style=\"font-size:1.5em;\"></span><span style=\"font-size:1.5em;\">both</span> <span style=\"font-size:1.5em;\"></span><span style=\"font-size:1.5em;\">methods</span> <span style=\"font-size:1.5em;\"></span><span style=\"font-size:1.5em;\">help</span> <span style=\"font-size:1.5em;\"></span><span style=\"font-size:1.5em;\">students</span> <span style=\"font-size:1.5em;\"></span><span style=\"font-size:1.5em;\">to</span> <span style=\"font-size:1.5em;\"></span><span style=\"font-size:1.5em;\">give</span> <span style=\"font-size:1.5em;\"></span><span style=\"font-size:1.5em;\">their</span> <span style=\"font-size:1.5em;\"></span><span style=\"font-size:1.5em;\">full</span> <span style=\"font-size:1.5em;\"></span><span style=\"font-size:1.5em;\">attention</span> <span style=\"font-size:1.5em;\"></span><span style=\"font-size:1.5em;\">to</span> <span style=\"font-size:1.5em;\"></span><span style=\"font-size:1.5em;\">their</span> <span style=\"font-size:1.5em;\"></span><span style=\"font-size:1.5em;\">studies.</span></span> <span class=\"lrn_token\"><span style=\"font-size:1.5em;\"></span><span style=\"font-size:1.5em;\">Thus</span><span style=\"font-size:1.5em;\">,</span> <span style=\"font-size:1.5em;\"></span><span style=\"font-size:1.5em;\">student</span> <span style=\"font-size:1.5em;\"></span><span style=\"font-size:1.5em;\">stimulation</span> <span style=\"font-size:1.5em;\"></span><span style=\"font-size:1.5em;\">seems</span> <span style=\"font-size:1.5em;\"></span><span style=\"font-size:1.5em;\">vital</span> <span style=\"font-size:1.5em;\"></span><span style=\"font-size:1.5em;\">for</span> <span style=\"font-size:1.5em;\"></span><span style=\"font-size:1.5em;\">academic</span> <span style=\"font-size:1.5em;\"></span><span style=\"font-size:1.5em;\">progress.</span></span>",
+          "tokenization": "custom",
+          "type": "tokenhighlight",
+          "validation": {
+            "scoring_type": "exactMatch",
+            "valid_response": {
+              "score": 1,
+              "value": [
+                5
+              ]
+            }
+          },
+          "instant_feedback": true
+        },
+        "metadata": {
+          "name": "Token highlight",
+          "template_reference": "47f0db98-79e8-4273-946f-90faf4a2ae49"
+        }
+      },
+      "feedbackInfo": [
+        null,
+        null
+      ]
+    },
+    {
+      "response_id": "704d3d00-5a11-4336-beda-094e99ce38d1_703924f7dbe0b53f11153acae4416946",
+      "question_type": "orderlist",
+      "dt_score_updated": "2023-12-01T15:09:31Z",
+      "automarkable": true,
+      "attempted": true,
+      "score": 6,
+      "max_score": 6,
+      "question_reference": "485b226e-b28a-4ca4-bf2e-e7b4e70e02b8",
+      "item_reference": "475069a0-6377-4fb7-9961-ee9e9f9f56f0",
+      "response": {
+        "value": [
+          2,
+          5,
+          1,
+          3,
+          0,
+          4
+        ],
+        "type": "array",
+        "apiVersion": "v2.192.18",
+        "revision": 5,
+        "feedbackAttemptsCount": 3
+      },
+      "questionInfo": {
+        "type": "orderlist",
+        "widget_type": "response",
+        "reference": "485b226e-b28a-4ca4-bf2e-e7b4e70e02b8",
+        "data": {
+          "list": [
+            "Both sources indicate that wind energy is a smart financial choice.",
+            "Ellsmoor (2019) points out that ‘onshore wind and solar PV power are now, frequently, less expensive than any fossil-fuel option, without financial assistance’",
+            "There are two main advantages of wind energy.",
+            "Also, according to Morris (2022), when fuel is converted to electricity, wind energy is 1,164% more efficient than coal which is only 23% efficient.",
+            "Wind energy offers a cost-effective, renewable resource which can power communities and bring revenue to the region or country.",
+            "Using&nbsp; wind energy is no longer just an ethical decision, it is also the most profitable one."
+          ],
+          "stimulus": "<p><strong><span style=\"font-size:2em;\">Now, consider the paragraph below. It contains all the elements, but they are not in a logical order.</span></strong></p>\n\n<p><img height=\"98\" src=\"https://assets.learnosity.com/organisations/755/a1cbb907-a2be-4680-bf8d-984e922995e0.jpeg\" width=\"100\"></p>\n\n<p><span style=\"font-weight: bold; font-size: 2em;\"><span style=\"color:#008000;\"></span></span><span style=\"font-size:1.5em;\"><span style=\"font-weight: bold;\"><span style=\"color:#008000;\">► </span>O</span><b>rganise the </b><font color=\"#008000\"><b>topic sentence, reason, evidence, analysis&nbsp;and concluding comments&nbsp;</b></font><b>&nbsp;in a logical order.</b></span></p>\n",
+          "type": "orderlist",
+          "validation": {
+            "scoring_type": "exactMatch",
+            "valid_response": {
+              "score": 6,
+              "value": [
+                2,
+                5,
+                1,
+                3,
+                0,
+                4
+              ]
+            }
+          },
+          "instant_feedback": true,
+          "shuffle_options": true
+        },
+        "metadata": {
+          "name": "Order list",
+          "template_reference": "0c7f68f7-2be6-4ae0-8492-0ab78c8d0010"
+        }
+      },
+      "feedbackInfo": [
+        null,
+        null
+      ]
+    }
+  ]
+}

@@ -1,0 +1,366 @@
+{
+  "userId": "51e62456-e6cb-4033-b148-1f3026959557",
+  "firstName": "Akine",
+  "lastName": "Matsumoto",
+  "assigmentId": "7e1dabaf-9bed-43ca-bb98-54f002e24dca",
+  "assigmentName": "AEB Sept 2022 THE WRITING PROCESS GM",
+  "sessionId": "5cfcff19-a047-4f7f-b14f-87b41e0be812",
+  "email": "matsumotoa@coventry.ac.uk",
+  "spaceId": "085bd94e-283f-4148-8142-827a1e7fe9cc",
+  "spaceName": "4022MFH - AEB for BSc Global Marketing 1 - 2223SEPDEC",
+  "score": 100,
+  "max_score": 158,
+  "questions": [
+    {
+      "response_id": "5cfcff19-a047-4f7f-b14f-87b41e0be812_a54d6e837f0c26e6ea1de13759852245",
+      "question_type": "association",
+      "dt_score_updated": "2022-11-13T16:44:10Z",
+      "automarkable": true,
+      "attempted": true,
+      "score": 25,
+      "max_score": 25,
+      "question_reference": "bb0f1990-084d-4cf4-9015-b797f4a45a24",
+      "item_reference": "5d53b1ec-cdbc-4fbc-9cd0-fd89912c6bb7",
+      "response": {
+        "value": [
+          "Reflecting on the work so that changes might be made",
+          "Carefully evaluating the work to find mistakes and make corrections",
+          "Making the work available for others (e.g. uploading to AULA)",
+          "The thinking, planning and research stage",
+          "When you begin to write"
+        ],
+        "type": "array",
+        "updatedFormat": true,
+        "apiVersion": "v2.168.23",
+        "revision": 2,
+        "feedbackAttemptsCount": 1
+      },
+      "questionInfo": {
+        "type": "association",
+        "widget_type": "response",
+        "reference": "bb0f1990-084d-4cf4-9015-b797f4a45a24",
+        "data": {
+          "possible_responses": [
+            "The thinking, planning and research stage",
+            "When you begin to write",
+            "Making the work available for others (e.g. uploading to AULA)",
+            "Reflecting on the work so that changes might be made",
+            "Carefully evaluating the work to find mistakes and make corrections"
+          ],
+          "stimulus": "<h5><span style=\"color:#0000ff;\"><strong>TASK 1: THE STAGES OF THE WRITING PROCESS: DEFINITIONS</strong></span></h5>\n\n<p>Below are the main stages of the writing process. Match the definition with the stage.</p>\n",
+          "stimulus_list": [
+            "<span style=\"color:#ff8c00;\"><strong><span style=\"font-size:1.6em;\">Revising</span></strong></span>",
+            "<span style=\"color:#800080;\"><strong><span style=\"font-size:1.6em;\">Proofreading</span></strong></span>",
+            "<span style=\"color:#008080;\"><strong><span style=\"font-size:1.6em;\">Publishing</span></strong></span>",
+            "<span style=\"color:#006400;\"><strong><span style=\"font-size:1.6em;\">Pre-writing</span></strong></span>",
+            "<span style=\"color:#8b4513;\"><strong><span style=\"font-size:1.6em;\">Drafting</span></strong></span>"
+          ],
+          "type": "association",
+          "validation": {
+            "scoring_type": "partialMatch",
+            "valid_response": {
+              "score": 5,
+              "value": [
+                "Reflecting on the work so that changes might be made",
+                "Carefully evaluating the work to find mistakes and make corrections",
+                "Making the work available for others (e.g. uploading to AULA)",
+                "The thinking, planning and research stage",
+                "When you begin to write"
+              ]
+            }
+          },
+          "feedback_attempts": 3,
+          "instant_feedback": true,
+          "shuffle_options": true
+        },
+        "metadata": {
+          "name": "Match list",
+          "template_reference": "1fa22aac-1f88-47f7-941b-3c77759549e6"
+        }
+      },
+      "feedbackInfo": [
+        null,
+        null
+      ]
+    },
+    {
+      "response_id": "5cfcff19-a047-4f7f-b14f-87b41e0be812_c76d6e22e4ab32eb994c858d51c6391c",
+      "question_type": "orderlist",
+      "dt_score_updated": "2022-11-13T16:44:38Z",
+      "automarkable": true,
+      "attempted": true,
+      "score": 3,
+      "max_score": 5,
+      "question_reference": "99a55710-8a22-4419-afdc-458cca300c0b",
+      "item_reference": "5d53b1ec-cdbc-4fbc-9cd0-fd89912c6bb7",
+      "response": {
+        "value": [
+          2,
+          3,
+          1,
+          4,
+          0
+        ],
+        "type": "array",
+        "apiVersion": "v2.168.23",
+        "revision": 2
+      },
+      "questionInfo": {
+        "type": "orderlist",
+        "widget_type": "response",
+        "reference": "99a55710-8a22-4419-afdc-458cca300c0b",
+        "data": {
+          "list": [
+            "<span style=\"color:#40e0d0;\"><strong><span style=\"font-size:1.6em;\">Publishing</span></strong></span>",
+            "<span style=\"color:#00ff00;\"><strong><span style=\"font-size:1.6em;\">Revising</span></strong></span>",
+            "<span style=\"color:#ee82ee;\"><strong><span style=\"font-size:1.6em;\">Drafting</span></strong></span>",
+            "<span style=\"color:#daa520;\"><strong><span style=\"font-size:1.6em;\">Pre-writing</span></strong></span>",
+            "<span style=\"color:#ff0000;\"><strong><span style=\"font-size:1.6em;\">Proofreading</span></strong></span>"
+          ],
+          "stimulus": "<h5><span style=\"color:#8b4513;\"><strong>TASK 2: THE STAGES OF THE WRITING PROCESS - ORDER</strong></span></h5>\n\n<p>Now, can you put each of the stages of the writing process into the order in which you should complete them?</p>\n",
+          "type": "orderlist",
+          "validation": {
+            "scoring_type": "partialMatchV2",
+            "valid_response": {
+              "score": 5,
+              "value": [
+                3,
+                2,
+                1,
+                4,
+                0
+              ]
+            },
+            "rounding": "none"
+          },
+          "feedback_attempts": 3,
+          "shuffle_options": true
+        },
+        "metadata": {
+          "name": "Order list",
+          "template_reference": "0c7f68f7-2be6-4ae0-8492-0ab78c8d0010"
+        }
+      },
+      "feedbackInfo": [
+        null,
+        null
+      ]
+    },
+    {
+      "response_id": "5cfcff19-a047-4f7f-b14f-87b41e0be812_695c95180d709778ac7d3977d70dee7a",
+      "question_type": "association",
+      "dt_score_updated": "2022-11-13T16:47:56Z",
+      "automarkable": true,
+      "attempted": true,
+      "score": 64,
+      "max_score": 64,
+      "question_reference": "006d8bbb-b9af-40c7-b531-2d1547139164",
+      "item_reference": "6252f9ae-bf06-4eae-b3f3-3e669d06c38f",
+      "response": {
+        "value": [
+          "This is where you put any raw (unprocessed) data, &nbsp;survey results, extra graphs, maps, diagrams etc. that are either too large, or not important enough to include in your main discussion.",
+          "This is a summary of the report as a whole. It also often provides implications for the future or some suggestions based on the findings.",
+          "This is a short summary of the full report &nbsp;designed to give busy 'executives' a quick overview of the key points. It is similar to an abstract, which is found in general academic papers.",
+          "This section talks about the wider context of the report. It provides the background information and outlines the report's structure.",
+          "This is a full list of all the books, websites, journals etc that you have referred to in your report.&nbsp; These resources are the places where you found evidence for your ideas and arguments.",
+          "This where you discuss your process and gathering of data. Usually it includes the method you used to find the information needed. Then you describe what was done with the data found.",
+          "This is a list of all parts of the report, organised by headings and page numbers. &nbsp;It helps the reader quickly see what is included in the report and how to find it.",
+          "This part includes the basic information about the report such as the title and the author."
+        ],
+        "type": "array",
+        "updatedFormat": true,
+        "apiVersion": "v2.168.23",
+        "revision": 8
+      },
+      "questionInfo": {
+        "type": "association",
+        "widget_type": "response",
+        "reference": "006d8bbb-b9af-40c7-b531-2d1547139164",
+        "data": {
+          "possible_responses": [
+            "This is a short summary of the full report &nbsp;designed to give busy 'executives' a quick overview of the key points. It is similar to an abstract, which is found in general academic papers.",
+            "This is where you put any raw (unprocessed) data, &nbsp;survey results, extra graphs, maps, diagrams etc. that are either too large, or not important enough to include in your main discussion.",
+            "This where you discuss your process and gathering of data. Usually it includes the method you used to find the information needed. Then you describe what was done with the data found.",
+            "This is a summary of the report as a whole. It also often provides implications for the future or some suggestions based on the findings.",
+            "This is a full list of all the books, websites, journals etc that you have referred to in your report.&nbsp; These resources are the places where you found evidence for your ideas and arguments.",
+            "This is a list of all parts of the report, organised by headings and page numbers. &nbsp;It helps the reader quickly see what is included in the report and how to find it.",
+            "This part includes the basic information about the report such as the title and the author.",
+            "This section talks about the wider context of the report. It provides the background information and outlines the report's structure."
+          ],
+          "stimulus": "<p><span style=\"font-size:1.5em;\"><span style=\"color:#0000ff;\"><strong>TASK 3: SECTIONS FOUND IN ACADEMIC REPORTS</strong></span></span></p>\n\n<p><strong><span style=\"font-size:1.3em;\">Match each part of the report with its appropriate description</span></strong></p>\n",
+          "stimulus_list": [
+            "Appendix",
+            "Conclusion",
+            "Executive Summary",
+            "Introduction",
+            "Reference List",
+            "Research and Analysis",
+            "Table of Contents",
+            "Title Page"
+          ],
+          "type": "association",
+          "validation": {
+            "scoring_type": "partialMatch",
+            "valid_response": {
+              "score": 8,
+              "value": [
+                "This is where you put any raw (unprocessed) data, &nbsp;survey results, extra graphs, maps, diagrams etc. that are either too large, or not important enough to include in your main discussion.",
+                "This is a summary of the report as a whole. It also often provides implications for the future or some suggestions based on the findings.",
+                "This is a short summary of the full report &nbsp;designed to give busy 'executives' a quick overview of the key points. It is similar to an abstract, which is found in general academic papers.",
+                "This section talks about the wider context of the report. It provides the background information and outlines the report's structure.",
+                "This is a full list of all the books, websites, journals etc that you have referred to in your report.&nbsp; These resources are the places where you found evidence for your ideas and arguments.",
+                "This where you discuss your process and gathering of data. Usually it includes the method you used to find the information needed. Then you describe what was done with the data found.",
+                "This is a list of all parts of the report, organised by headings and page numbers. &nbsp;It helps the reader quickly see what is included in the report and how to find it.",
+                "This part includes the basic information about the report such as the title and the author."
+              ]
+            }
+          },
+          "shuffle_options": true,
+          "feedback_attempts": 3
+        },
+        "metadata": {
+          "name": "Match list",
+          "template_reference": "1fa22aac-1f88-47f7-941b-3c77759549e6"
+        }
+      },
+      "feedbackInfo": [
+        null,
+        null
+      ]
+    },
+    {
+      "response_id": "5cfcff19-a047-4f7f-b14f-87b41e0be812_086a7f7eb09a56d5d4a8c39faf3fdb64",
+      "question_type": "sortlist",
+      "dt_score_updated": "2022-11-13T16:49:08Z",
+      "automarkable": true,
+      "attempted": true,
+      "score": 8,
+      "max_score": 64,
+      "question_reference": "8a458a63-0173-4e32-b2ae-aba5c12607a4",
+      "item_reference": "6252f9ae-bf06-4eae-b3f3-3e669d06c38f",
+      "response": {
+        "value": [
+          null,
+          null,
+          7,
+          2,
+          0,
+          3,
+          null,
+          null
+        ],
+        "source": [
+          6,
+          5,
+          null,
+          null,
+          null,
+          null,
+          4,
+          1
+        ],
+        "type": "array",
+        "apiVersion": "v2.168.23",
+        "revision": 2
+      },
+      "questionInfo": {
+        "type": "sortlist",
+        "widget_type": "response",
+        "reference": "8a458a63-0173-4e32-b2ae-aba5c12607a4",
+        "data": {
+          "list": [
+            "Executive Summary",
+            "Appendix",
+            "Research and Analysis",
+            "Conclusion",
+            "Reference List",
+            "Table of Contents",
+            "Title Page",
+            "Introduction"
+          ],
+          "stimulus": "<p><span style=\"font-size:1.5em;\"><span style=\"color:#008000;\"><strong>TASK 4: TYPICAL ORDER OF REPORT SECTIONS</strong></span></span></p>\n\n<p><span style=\"font-size:1.3em;\"><strong>Can you order the different parts below in the order you think they should appear?</strong></span></p>\n",
+          "type": "sortlist",
+          "validation": {
+            "scoring_type": "partialMatch",
+            "valid_response": {
+              "score": 8,
+              "value": [
+                6,
+                0,
+                5,
+                7,
+                2,
+                3,
+                4,
+                1
+              ]
+            }
+          },
+          "shuffle_options": true,
+          "feedback_attempts": 3
+        },
+        "metadata": {
+          "name": "Sort list",
+          "template_reference": "63891006-450a-4ffe-9876-74d62efa0152"
+        }
+      },
+      "feedbackInfo": [
+        null,
+        null
+      ]
+    },
+    {
+      "response_id": "5cfcff19-a047-4f7f-b14f-87b41e0be812_0bd4905a95299a553b55778a968c081d",
+      "question_type": "rating",
+      "dt_score_updated": "2022-11-13T16:49:14Z",
+      "automarkable": false,
+      "attempted": true,
+      "score": null,
+      "max_score": null,
+      "question_reference": "1b5c2001-064f-4836-b3da-6ff4d7f3f05f",
+      "item_reference": "9253ddae-a71c-4ad8-9558-387462c1d185",
+      "response": {
+        "value": "",
+        "type": "numeric",
+        "apiVersion": "v2.168.23",
+        "revision": 1
+      },
+      "questionInfo": {
+        "type": "rating",
+        "widget_type": "response",
+        "reference": "1b5c2001-064f-4836-b3da-6ff4d7f3f05f",
+        "data": {
+          "options": [
+            {
+              "value": "",
+              "label": "😀",
+              "tint": "#B85830"
+            },
+            {
+              "value": "",
+              "label": "😐",
+              "tint": "#2979AF"
+            },
+            {
+              "value": "",
+              "label": "🙁"
+            }
+          ],
+          "type": "rating",
+          "stimulus": "<p class=\"text-center\">Do you feel better prepared to start working on your written assessments?</p>\n",
+          "ui_style": {
+            "fontsize": "xxlarge"
+          }
+        },
+        "metadata": {
+          "name": "Rating",
+          "template_reference": "8e99fa69-b829-4a7d-ae2a-eb935fe3a2c6"
+        }
+      },
+      "feedbackInfo": [
+        null,
+        null
+      ]
+    }
+  ]
+}

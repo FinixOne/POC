@@ -1,0 +1,465 @@
+{
+  "userId": "5687f661-fa94-4924-bffb-9e2affb5d55c",
+  "firstName": "Afran Salim",
+  "lastName": "Uday",
+  "assigmentId": "d82d49d6-d38d-4cb0-acc6-66033c2573f0",
+  "assigmentName": "Academic Writing Style",
+  "sessionId": "5e745e4a-ed28-4dd8-8481-b03c69f6250e",
+  "email": "udaya2@coventry.ac.uk",
+  "spaceId": "7015b313-7011-4a41-8e9e-02af381b6dc3",
+  "spaceName": "AEB for Financial Economics and Banking (LONU045)",
+  "score": 166,
+  "max_score": 228,
+  "questions": [
+    {
+      "response_id": "5e745e4a-ed28-4dd8-8481-b03c69f6250e_6d19527bdbb1453e2305932bd8da2a58",
+      "question_type": "clozedropdown",
+      "dt_score_updated": "2023-02-08T23:02:39Z",
+      "automarkable": true,
+      "attempted": true,
+      "score": 7,
+      "max_score": 9,
+      "question_reference": "1930d3b4-e612-45a2-b110-85bfe78dfaf5",
+      "item_reference": "25ad9a9c-f462-4fd9-87ad-20c1d54f43f5",
+      "response": {
+        "value": [
+          "BE CONCISE",
+          "concise",
+          "BE FORMAL",
+          "colloquial",
+          "BE COHERENT",
+          "coherent",
+          "BE OBJECTIVE",
+          "concise",
+          "coherent"
+        ],
+        "type": "array",
+        "apiVersion": "v2.168.23",
+        "revision": 14,
+        "feedbackAttemptsCount": 3
+      },
+      "questionInfo": {
+        "type": "clozedropdown",
+        "widget_type": "response",
+        "reference": "1930d3b4-e612-45a2-b110-85bfe78dfaf5",
+        "data": {
+          "possible_responses": [
+            [
+              "BE CONCISE",
+              "BE FORMAL",
+              "BE COHERENT",
+              "BE OBJECTIVE"
+            ],
+            [
+              "concise",
+              "colloquial",
+              "coherent",
+              "objective",
+              "cautious"
+            ],
+            [
+              "BE CONCISE",
+              "BE FORMAL",
+              "BE COHERENT",
+              "BE OBJECTIVE"
+            ],
+            [
+              "concise",
+              "colloquial",
+              "coherent",
+              "objective",
+              "cautious"
+            ],
+            [
+              "BE CONCISE",
+              "BE FORMAL",
+              "BE COHERENT",
+              "BE OBJECTIVE"
+            ],
+            [
+              "colloquial",
+              "coherent",
+              "concise",
+              "objective",
+              "cautious"
+            ],
+            [
+              "BE CONCISE",
+              "BE FORMAL",
+              "BE COHERENT",
+              "BE OBJECTIVE"
+            ],
+            [
+              "concise",
+              "coherent",
+              "colloquial",
+              "objective",
+              "cautious"
+            ],
+            [
+              "concise",
+              "coherent",
+              "colloquial",
+              "objective",
+              "cautious"
+            ]
+          ],
+          "response_container": {
+            "pointer": "left"
+          },
+          "stimulus": "<h4><span style=\"color:#8b4513;\"><strong>Task 1: Academic Style Basics</strong></span></h4>\n\n<p><span style=\"font-size:1.3em;\"><strong>Choose the correct answer to complete the rules for good academic style</strong></span></p>\n",
+          "template": "<p><span style=\"font-size:1.1em;\"><span id=\"cke_bm_3166S\" style=\"display: none;\"><span id=\"cke_bm_7898S\" style=\"display: none;\">&nbsp;</span>&nbsp;</span> <span id=\"cke_bm_3120S\" style=\"display: none;\">&nbsp;</span><strong>{{response}}</strong><span id=\"cke_bm_3166E\" style=\"display: none;\">&nbsp;</span></span></p>\n\n<p><span style=\"font-size:1.1em;\">One of the most important objectives of good academic style&nbsp;to keep your writing clear and <span id=\"cke_bm_3166S\" style=\"display: none;\">&nbsp;</span> <span id=\"cke_bm_3120S\" style=\"display: none;\">&nbsp;</span>{{response}}<span id=\"cke_bm_3166E\" style=\"display: none;\">&nbsp;</span>. This means getting your ideas across in a comprehensible form, without using unnecessary words. You should also avoid using unnecessary information.&nbsp;Good critical writing means knowing what to keep and what to cut out. You have a limited number of words for your assessments - Use them well!</span></p>\n\n<p><span style=\"font-size:1.1em;\"></span></p>\n\n<p><span style=\"font-size:1.1em;\"><span id=\"cke_bm_3166S\" style=\"display: none;\"><span id=\"cke_bm_7898S\" style=\"display: none;\">&nbsp;</span>&nbsp;</span> <span id=\"cke_bm_3120S\" style=\"display: none;\">&nbsp;</span><strong>{{response}}</strong><span id=\"cke_bm_3166E\" style=\"display: none;\">&nbsp;</span></span></p>\n\n<p><span style=\"font-size:1.1em;\">A wide range of vocabulary is important, but you not all words are suitable for academic writing. For example, in reports and essays it is important&nbsp;to avoid informal language, especially <span id=\"cke_bm_3600S\" style=\"display: none;\">&nbsp;</span> <span id=\"cke_bm_3166S\" style=\"display: none;\">&nbsp;</span> <span id=\"cke_bm_3120S\" style=\"display: none;\">&nbsp;</span>{{response}}<span id=\"cke_bm_3166E\" style=\"display: none;\">&nbsp;</span> expressions and slang. Academic writing also requires standard spelling and full forms (e.g \"do not\" should be used in place of \"don't\").</span></p>\n\n<p><span style=\"font-size:1.1em;\"></span></p>\n\n<p><span style=\"font-size:1.1em;\"><span id=\"cke_bm_3166S\" style=\"display: none;\"><span id=\"cke_bm_7898S\" style=\"display: none;\">&nbsp;</span>&nbsp;</span> <span id=\"cke_bm_3120S\" style=\"display: none;\">&nbsp;</span><strong>{{response}}</strong><span id=\"cke_bm_3166E\" style=\"display: none;\">&nbsp;</span></span></p>\n\n<p><span style=\"font-size:1.1em;\">In your writing you need to have a clear argument, which develops logically. To&nbsp;develop a&nbsp;{{response}}&nbsp;argument, where ideas connect and build on each other, structure is important. Focus on how your sentences are arranged in each paragraph, how paragraphs link to each other, and how the different sections of your reports and essays are organised. Does the organisation or your writing help the reader follow your ideas?</span></p>\n\n<p><span style=\"font-size:1.1em;\"></span></p>\n\n<p><span style=\"font-size:1.1em;\"><span id=\"cke_bm_3166S\" style=\"display: none;\"><span id=\"cke_bm_7898S\" style=\"display: none;\">&nbsp;</span>&nbsp;</span> <span id=\"cke_bm_3120S\" style=\"display: none;\">&nbsp;</span><strong>{{response}}</strong><span id=\"cke_bm_3166E\" style=\"display: none;\">&nbsp;</span></span></p>\n\n<p><span style=\"font-size:1.1em;\">Finally, academic writing must be&nbsp;{{response}}&nbsp;and based on evidence. In order for your ideas to be taken seriously, you need to show that they are supported by experts and serious research.&nbsp;However, as different viewpoints exist, it is also important to be <span id=\"cke_bm_9423S\" style=\"display: none;\">&nbsp;</span> <span id=\"cke_bm_3600S\" style=\"display: none;\">&nbsp;</span> <span id=\"cke_bm_3166S\" style=\"display: none;\">&nbsp;</span> <span id=\"cke_bm_3120S\" style=\"display: none;\">&nbsp;</span>{{response}}<span id=\"cke_bm_3166E\" style=\"display: none;\">&nbsp;</span> when presenting ideas.&nbsp;</span></p>\n",
+          "type": "clozedropdown",
+          "case_sensitive": true,
+          "validation": {
+            "scoring_type": "partialMatchV2",
+            "valid_response": {
+              "score": 9,
+              "value": [
+                "BE CONCISE",
+                "concise",
+                "BE FORMAL",
+                "colloquial",
+                "BE COHERENT",
+                "coherent",
+                "BE OBJECTIVE",
+                "objective",
+                "cautious"
+              ]
+            },
+            "rounding": "none"
+          },
+          "instant_feedback": true,
+          "shuffle_options": true,
+          "feedback_attempts": 3
+        },
+        "metadata": {
+          "name": "Cloze with drop down",
+          "template_reference": "2fbba51b-e35e-441f-83c7-2662e2e81fa6"
+        }
+      },
+      "feedbackInfo": [
+        null,
+        null
+      ]
+    },
+    {
+      "response_id": "5e745e4a-ed28-4dd8-8481-b03c69f6250e_d01c15f768c60f1fe0fca1827e8f829d",
+      "question_type": "classification",
+      "dt_score_updated": "2023-02-08T23:07:25Z",
+      "automarkable": true,
+      "attempted": true,
+      "score": 15,
+      "max_score": 75,
+      "question_reference": "6fc2c1c8-7181-4ba1-8ce1-9ad027d2c0c8",
+      "item_reference": "25ad9a9c-f462-4fd9-87ad-20c1d54f43f5",
+      "response": {
+        "value": [
+          [
+            0,
+            1,
+            2,
+            6
+          ],
+          [
+            14,
+            11,
+            13
+          ],
+          [
+            4,
+            3,
+            5
+          ],
+          [
+            12,
+            10,
+            9
+          ],
+          [
+            8,
+            7
+          ]
+        ],
+        "type": "array",
+        "apiVersion": "v2.168.23",
+        "revision": 19,
+        "feedbackAttemptsCount": 3
+      },
+      "questionInfo": {
+        "type": "classification",
+        "widget_type": "response",
+        "reference": "6fc2c1c8-7181-4ba1-8ce1-9ad027d2c0c8",
+        "data": {
+          "possible_responses": [
+            "<span style=\"font-size:1em;\">avoid contracted forms (e.g. use replace <em>don't</em> with <em>do not</em>)</span>",
+            "avoid slang and colloquial language",
+            "avoid abbreviations",
+            "avoid personal language",
+            "avoid generalisations",
+            "avoid emotional language",
+            "use qualifying language when appropriate (e.g. MANY businesses have issues with, NOT business have issues with)",
+            "use&nbsp; accurate language and sentence structure to express your ideas clearly",
+            "use connecting words and phrases to show links between sentences/paragraphs",
+            "avoid exclamation marks !, (parentheses), - hyphens &amp; unnecessary CAPITALISATION",
+            "avoid repetition",
+            "replace wordy phrases (e.g. due to NOT due to the fact that)",
+            "only include what is needed for the task",
+            "use hedging language (e.g. This COULD be due to, It is POSSIBLE/PROBABLE that) if there is any doubt",
+            "base statements on evidence"
+          ],
+          "type": "classification",
+          "ui_style": {
+            "column_count": 5,
+            "column_titles": [
+              "FORMALITY (4)",
+              "OBJECTIVITY (3)",
+              "CAUTION (3)",
+              "CONCISION (3)",
+              "COHERENCE &amp; COHESION (2)"
+            ]
+          },
+          "validation": {
+            "scoring_type": "partialMatch",
+            "valid_response": {
+              "score": 15,
+              "value": [
+                [
+                  0,
+                  1,
+                  2,
+                  9
+                ],
+                [
+                  3,
+                  5,
+                  14
+                ],
+                [
+                  4,
+                  6,
+                  13
+                ],
+                [
+                  10,
+                  11,
+                  12
+                ],
+                [
+                  7,
+                  8
+                ]
+              ]
+            }
+          },
+          "instant_feedback": true,
+          "shuffle_options": true,
+          "stimulus": "<p><span style=\"font-size:1.5em;\"><strong><span style=\"color:#008080;\">Task 2:&nbsp;Five criteria of academic writing style</span></strong></span></p>\n\n<p><span style=\"font-size:1.3em;\"><strong>Drag and drop each rule into the appropriate column.</strong></span></p>\n",
+          "feedback_attempts": 3
+        },
+        "metadata": {
+          "name": "Classification",
+          "template_reference": "ef2648de-f826-4674-b17d-71e71889d8e6"
+        }
+      },
+      "feedbackInfo": [
+        null,
+        null
+      ]
+    },
+    {
+      "response_id": "5e745e4a-ed28-4dd8-8481-b03c69f6250e_001d12f917f7460c603f90d3b0b0dc42",
+      "question_type": "choicematrix",
+      "dt_score_updated": "2023-02-08T22:54:05Z",
+      "automarkable": true,
+      "attempted": true,
+      "score": 144,
+      "max_score": 144,
+      "question_reference": "3bf3ed7e-2ef3-4991-a4da-f93a008b2a07",
+      "item_reference": "41d9f185-fab6-464c-af5b-8b79eba5b334",
+      "response": {
+        "value": [
+          [
+            0
+          ],
+          [
+            1
+          ],
+          [
+            1
+          ],
+          [
+            0
+          ],
+          [
+            1
+          ],
+          [
+            0
+          ],
+          [
+            1
+          ],
+          [
+            0
+          ],
+          [
+            0
+          ],
+          [
+            1
+          ],
+          [
+            1
+          ],
+          [
+            0
+          ]
+        ],
+        "type": "array",
+        "apiVersion": "v2.168.23",
+        "revision": 4,
+        "feedbackAttemptsCount": 1
+      },
+      "questionInfo": {
+        "type": "choicematrix",
+        "widget_type": "response",
+        "reference": "3bf3ed7e-2ef3-4991-a4da-f93a008b2a07",
+        "data": {
+          "options": [
+            "Good Academic Style",
+            "Too Informal"
+          ],
+          "stems": [
+            "<span style=\"color:#800000;\">Starbucks is well-known for its commitment to Corporate Social Responsibility (CSR).</span>",
+            "<span style=\"color:#800000;\">Starbucks takes CSR&nbsp;really seriously. It’s famous for&nbsp;it, actually.&nbsp;</span>",
+            "<span style=\"color:#2f4f4f;\">It’s totally committed to being green&nbsp;and making sure everyone’s OK in the local area.</span>",
+            "<span style=\"color:#2f4f4f;\">The company has pledged to protect the environment and support local communities.</span>",
+            "<span style=\"color:#0000cd;\">It says in the report they did last year on global&nbsp;social impact that its already kept a lot of the CSR promises they made when they started, like getting&nbsp;all their coffee from ethical sources and getting lots of farmers all over the world to plant 100 million&nbsp;trees by 2025 (and they even&nbsp;gave&nbsp;them the trees too!).</span>",
+            "<span style=\"color:#0000ff;\">According to their 2021 annual report, they are currently achieving the majority of their core CSR goals, such as ethical sourcing of coffee, and a commitment to supporting their farmers in planting 100 million trees by 2025 (Starbucks, 2021).</span>",
+            "<span style=\"color:#ff0000;\">And they’ve started doing this thing called&nbsp;green building in all their stores AND doing stuff like organising millions of hours community service.&nbsp;They’ve even got this amazing college programme for the people who work for them.&nbsp;</span>",
+            "<span style=\"color:#ff0000;\">In addition, they have introduced 'green building' to their stores, which ensures building design contributes to low environment impact and better employee experience. Employee initiatives also include encouraging company-wide participation in community service and support for college attendance.</span>",
+            "<span style=\"color:#008000;\">Starbucks' example appears to show that an effective CSR policy, not only benefits the larger community, but also enhances company reputation and success.</span>",
+            "<span style=\"color:#008000;\">Obviously, if all&nbsp;companies did this sort of thing, the world would be a far better place, and, in my opinion, it’s clearly&nbsp;not doing Starbucks any harm&nbsp;</span>",
+            "<span style=\"color:#696969;\">- so why don’t a few other companies take a leaf out of their book?</span>",
+            "<span style=\"color:#696969;\">For this reason, it could be worthwhile for other companies to consider adopting similar policies in future.</span>"
+          ],
+          "stimulus": "<h4><span style=\"color:#008000;\"><strong>Task 3: Good &amp; Bad Academic Style</strong></span></h4>\n\n<p><span style=\"font-size: 18.2px;\"><b>Below are sentences from a paragraph on Corporate Social Responsibility. Decide which sentences are examples of good academic style, and which are too informal</b></span></p>\n",
+          "type": "choicematrix",
+          "ui_style": {
+            "stem_numeration": "upper-alpha",
+            "type": "table",
+            "horizontal_lines": true
+          },
+          "validation": {
+            "scoring_type": "partialMatch",
+            "valid_response": {
+              "score": 12,
+              "value": [
+                [
+                  0
+                ],
+                [
+                  1
+                ],
+                [
+                  1
+                ],
+                [
+                  0
+                ],
+                [
+                  1
+                ],
+                [
+                  0
+                ],
+                [
+                  1
+                ],
+                [
+                  0
+                ],
+                [
+                  0
+                ],
+                [
+                  1
+                ],
+                [
+                  1
+                ],
+                [
+                  0
+                ]
+              ]
+            }
+          },
+          "feedback_attempts": 3,
+          "instant_feedback": true
+        },
+        "metadata": {
+          "name": "Choice matrix – labels",
+          "template_reference": "9de82e14-802c-4bea-a635-bf9ad0b622fb"
+        }
+      },
+      "feedbackInfo": [
+        null,
+        null
+      ]
+    },
+    {
+      "response_id": "5e745e4a-ed28-4dd8-8481-b03c69f6250e_8ccfd1a7b1a00f74f578d49dff035f54",
+      "question_type": "rating",
+      "dt_score_updated": "2023-02-08T22:52:39Z",
+      "automarkable": false,
+      "attempted": true,
+      "score": null,
+      "max_score": null,
+      "question_reference": "44a977d0-2ef6-47db-94e4-47310791d485",
+      "item_reference": "e9a61820-fd5b-4e41-9bce-eaf248d08c29",
+      "response": {
+        "value": "",
+        "type": "numeric",
+        "apiVersion": "v2.168.23",
+        "revision": 2
+      },
+      "questionInfo": {
+        "type": "rating",
+        "widget_type": "response",
+        "reference": "44a977d0-2ef6-47db-94e4-47310791d485",
+        "data": {
+          "options": [
+            {
+              "value": "",
+              "label": "😀",
+              "tint": "#B85830"
+            },
+            {
+              "value": "",
+              "label": "😐",
+              "tint": "#2979AF"
+            },
+            {
+              "value": "",
+              "label": "🙁"
+            }
+          ],
+          "type": "rating",
+          "stimulus": "<p class=\"text-center\">Do you feel confident about using an appropriately academic style in your writing?</p>\n",
+          "ui_style": {
+            "fontsize": "xxlarge"
+          }
+        },
+        "metadata": {
+          "name": "Rating",
+          "template_reference": "8e99fa69-b829-4a7d-ae2a-eb935fe3a2c6"
+        }
+      },
+      "feedbackInfo": [
+        null,
+        null
+      ]
+    }
+  ]
+}

@@ -1,0 +1,481 @@
+{
+  "userId": "acf89fab-779f-4d3b-bc03-8256c4feba6f",
+  "firstName": "Ammar",
+  "lastName": "Ahmad",
+  "assigmentId": "13321f78-c335-4093-8922-efc229135166",
+  "assigmentName": "Clarity in Writing",
+  "sessionId": "95ca1bf9-cc01-4336-8cdd-7cb3b07d6c74",
+  "email": "ahmada61@coventry.ac.uk",
+  "spaceId": "cf728fcc-1858-4502-a187-7ffa6f65ef7f",
+  "spaceName": "4009AFE - AEB for BA International Finance and Accounting 1 - 2122JANAPR",
+  "score": 13,
+  "max_score": 27,
+  "questions": [
+    {
+      "response_id": "95ca1bf9-cc01-4336-8cdd-7cb3b07d6c74_8b975c3f2da6f4cf33ab0e780f45fd8c",
+      "question_type": "clozedropdown",
+      "dt_score_updated": "2022-02-13T09:58:26Z",
+      "automarkable": false,
+      "attempted": true,
+      "score": null,
+      "max_score": null,
+      "question_reference": "59fcc0f1-0491-4e89-9f15-e4400a39a422",
+      "item_reference": "3df95dcf-bec1-4217-8ec4-024bdd8cbc18",
+      "response": {
+        "value": [
+          "COHESION",
+          "COHESION",
+          "COHERENT",
+          "COHERENT"
+        ],
+        "type": "array",
+        "apiVersion": "v2.168.16",
+        "revision": 2
+      },
+      "questionInfo": {
+        "type": "clozedropdown",
+        "widget_type": "response",
+        "reference": "59fcc0f1-0491-4e89-9f15-e4400a39a422",
+        "data": {
+          "possible_responses": [
+            [
+              "COHESIVE",
+              "COHESION",
+              "COHERENT",
+              "COHERENCE"
+            ],
+            [
+              "COHESIVE",
+              "COHESION",
+              "COHERENT",
+              "COHERENCE"
+            ],
+            [
+              "COHESIVE",
+              "COHESION",
+              "COHERENT",
+              "COHERENCE"
+            ],
+            [
+              "COHESIVE",
+              "COHESION",
+              "COHERENT",
+              "COHERENCE"
+            ]
+          ],
+          "response_container": {
+            "pointer": "left"
+          },
+          "stimulus": "<h5><span style=\"color:#8b4513;\"><strong>TASK 1</strong></span></h5>\n\n<h5><span style=\"color:#8b4513;\"><strong>Complete the following definitions by choosing the correct options from the drop-down menu</strong></span></h5>\n",
+          "template": "<p><span style=\"font-size:1.1em;\">{{response}}&nbsp;is a micro&nbsp;skill. In a {{response}}&nbsp;text, the writer uses a range of structures to link words, sentences and ideas together.</span></p>\n\n<p><span style=\"font-size:1.1em;\">{{response}}&nbsp;is a macro skill. If a text is {{response}}, the reader can easily understand it and see the logical development of ideas.</span></p>\n",
+          "type": "clozedropdown",
+          "case_sensitive": true,
+          "validation": {
+            "scoring_type": "partialMatchV2",
+            "valid_response": {
+              "score": 1,
+              "value": [
+                "COHESION",
+                "COHESIVE",
+                "COHERENCE",
+                "COHERENT"
+              ]
+            }
+          },
+          "instant_feedback": true,
+          "shuffle_options": true
+        },
+        "metadata": {
+          "name": "Cloze with drop down",
+          "template_reference": "2fbba51b-e35e-441f-83c7-2662e2e81fa6"
+        }
+      },
+      "feedbackInfo": [
+        {
+          "id": "0707_acf89fab-779f-4d3b-bc03-8256c4feba6f_95ca1bf9-cc01-4336-8cdd-7cb3b07d6c74_e59da639129f5f1200e99a6e47e2571b",
+          "user_id": "acf89fab-779f-4d3b-bc03-8256c4feba6f",
+          "response_id": "95ca1bf9-cc01-4336-8cdd-7cb3b07d6c74_e59da639129f5f1200e99a6e47e2571b",
+          "type": "longtextV2",
+          "question": {
+            "type": "longtextV2",
+            "metadata": {
+              "source": {
+                "organisation_id": 755
+              },
+              "sheet_reference": "default_feedback",
+              "widget_reference": "de082b5f-742a-4ecf-82ca-4dc86e218fec",
+              "valid_response_count": 0
+            },
+            "stimulus": "Written feedback:",
+            "response_id": "95ca1bf9-cc01-4336-8cdd-7cb3b07d6c74_e59da639129f5f1200e99a6e47e2571b",
+            "show_word_count": false,
+            "show_word_limit": "off"
+          },
+          "response": null,
+          "creation_date": "2022-02-14 11:34:43",
+          "mod_date": "2022-02-14 11:34:43",
+          "persist_until": "2022-02-15 11:34:43",
+          "saved": false
+        },
+        null
+      ]
+    },
+    {
+      "response_id": "95ca1bf9-cc01-4336-8cdd-7cb3b07d6c74_e604acd007cc211887956f2a320765bf",
+      "question_type": "association",
+      "dt_score_updated": "2022-02-13T10:02:33Z",
+      "automarkable": true,
+      "attempted": true,
+      "score": 0,
+      "max_score": 1,
+      "question_reference": "23e7f70e-c09f-453f-9553-272df32311ae",
+      "item_reference": "3df95dcf-bec1-4217-8ec4-024bdd8cbc18",
+      "response": {
+        "value": [
+          "<span style=\"font-size:1.5em;\">Ellipsis</span>",
+          "<span style=\"font-size:1.5em;\">Transition Signal</span>",
+          "<span style=\"font-size:1.5em;\">Reference Word</span>",
+          "<span style=\"font-size:1.5em;\">Substitution</span>",
+          "<span style=\"font-size:1.5em;\">Repeated Word/Idea</span>"
+        ],
+        "type": "array",
+        "updatedFormat": true,
+        "apiVersion": "v2.168.16",
+        "revision": 5
+      },
+      "questionInfo": {
+        "type": "association",
+        "widget_type": "response",
+        "reference": "23e7f70e-c09f-453f-9553-272df32311ae",
+        "data": {
+          "possible_responses": [
+            "<span style=\"font-size:1.5em;\">Ellipsis</span>",
+            "<span style=\"font-size:1.5em;\">Transition Signal</span>",
+            "<span style=\"font-size:1.5em;\">Reference Word</span>",
+            "<span style=\"font-size:1.5em;\">Substitution</span>",
+            "<span style=\"font-size:1.5em;\">Repeated Word/Idea</span>"
+          ],
+          "stimulus": "<h5><span style=\"color:#ff8c00;\"><strong>TASK 2</strong></span></h5>\n\n<h5><span style=\"color:#ff8c00;\"><strong>Look at the cohesive devices in </strong></span><span style=\"color:#ff0000;\"><strong>RED</strong></span><span style=\"color:#ff8c00;\"><strong>, and match these to the correct term</strong></span></h5>\n",
+          "stimulus_list": [
+            "<span style=\"font-size:1.1em;\">Academic writing can be challenging at first. <strong><span style=\"color:#ff0000;\">However</span></strong>, it becomes easier with practice</span>",
+            "<span style=\"font-size:1.1em;\">Although finding time to develop academic writing skills is vital, <span style=\"color:#ff0000;\"><strong>this </strong></span>can be challenging for busy students</span>",
+            "<span style=\"font-size:1.1em;\">All students know that avoiding plagiarism is important, but <span style=\"color:#ff0000;\"><strong>doing so</strong></span> can be difficult.</span>",
+            "<span style=\"font-size:1.1em;\">The best writers read their writing to check for clarity. However, <span style=\"color:#ff0000;\"><strong>many do not</strong></span>.</span>",
+            "<span style=\"font-size:1.1em;\">Generally, essays do not use <span style=\"color:#ff0000;\"><strong>headings</strong></span>, but <span style=\"color:#ff0000;\"><strong>clear section headings</strong></span> are a key feature of reports.</span>"
+          ],
+          "type": "association",
+          "validation": {
+            "scoring_type": "partialMatchV2",
+            "valid_response": {
+              "score": 1,
+              "value": [
+                "<span style=\"font-size:1.5em;\">Transition Signal</span>",
+                "<span style=\"font-size:1.5em;\">Reference Word</span>",
+                "<span style=\"font-size:1.5em;\">Substitution</span>",
+                "<span style=\"font-size:1.5em;\">Ellipsis</span>",
+                "<span style=\"font-size:1.5em;\">Repeated Word/Idea</span>"
+              ]
+            }
+          },
+          "shuffle_options": true,
+          "instant_feedback": true
+        },
+        "metadata": {
+          "name": "Match list",
+          "template_reference": "1fa22aac-1f88-47f7-941b-3c77759549e6"
+        }
+      },
+      "feedbackInfo": [
+        {
+          "id": "0707_acf89fab-779f-4d3b-bc03-8256c4feba6f_95ca1bf9-cc01-4336-8cdd-7cb3b07d6c74_bf798f0a2c6d5cc73076a25d64c159ef",
+          "user_id": "acf89fab-779f-4d3b-bc03-8256c4feba6f",
+          "response_id": "95ca1bf9-cc01-4336-8cdd-7cb3b07d6c74_bf798f0a2c6d5cc73076a25d64c159ef",
+          "type": "longtextV2",
+          "question": {
+            "type": "longtextV2",
+            "metadata": {
+              "source": {
+                "organisation_id": 755
+              },
+              "sheet_reference": "default_feedback",
+              "widget_reference": "de082b5f-742a-4ecf-82ca-4dc86e218fec",
+              "valid_response_count": 0
+            },
+            "stimulus": "Written feedback:",
+            "response_id": "95ca1bf9-cc01-4336-8cdd-7cb3b07d6c74_bf798f0a2c6d5cc73076a25d64c159ef",
+            "show_word_count": false,
+            "show_word_limit": "off"
+          },
+          "response": null,
+          "creation_date": "2022-02-14 11:34:44",
+          "mod_date": "2022-02-14 11:34:44",
+          "persist_until": "2022-02-15 11:34:44",
+          "saved": false
+        },
+        null
+      ]
+    },
+    {
+      "response_id": "95ca1bf9-cc01-4336-8cdd-7cb3b07d6c74_be14f3f4e16d9a0f041fd3c1f401147a",
+      "question_type": "choicematrix",
+      "dt_score_updated": "2022-02-13T10:10:26Z",
+      "automarkable": true,
+      "attempted": true,
+      "score": 13,
+      "max_score": 26,
+      "question_reference": "acbdee02-57db-4bbe-ab86-d6b854e1e36f",
+      "item_reference": "3df95dcf-bec1-4217-8ec4-024bdd8cbc18",
+      "response": {
+        "value": [
+          [
+            0
+          ],
+          [
+            0
+          ],
+          [
+            0
+          ],
+          [
+            0
+          ],
+          [
+            0
+          ],
+          [
+            0
+          ],
+          [
+            0
+          ],
+          [
+            0
+          ],
+          [
+            0
+          ],
+          [
+            0
+          ],
+          [
+            0
+          ],
+          [
+            0
+          ],
+          [
+            0
+          ],
+          [
+            0
+          ],
+          [
+            0
+          ],
+          [
+            0
+          ],
+          [
+            0
+          ],
+          [
+            0
+          ],
+          [
+            0
+          ],
+          [
+            0
+          ],
+          [
+            1
+          ],
+          [
+            1
+          ],
+          [
+            0
+          ],
+          [
+            0
+          ],
+          [
+            0
+          ],
+          [
+            0
+          ]
+        ],
+        "type": "array",
+        "apiVersion": "v2.168.16",
+        "revision": 14,
+        "feedbackAttemptsCount": 1
+      },
+      "questionInfo": {
+        "type": "choicematrix",
+        "widget_type": "response",
+        "reference": "acbdee02-57db-4bbe-ab86-d6b854e1e36f",
+        "data": {
+          "options": [
+            "Correct",
+            "Incorrect"
+          ],
+          "stems": [
+            "<span style=\"font-size:1.1em;\"><strong>1a)</strong> Poor paraphrasing can have a negative affect on your grades.</span>",
+            "<span style=\"font-size:1.1em;\"><strong>1b)</strong> Poor paraphrasing can have a negative effect on your grades.</span>",
+            "<span style=\"font-size:1.1em;\"><strong>2a) </strong>After writing the first draft of your report, it is important to review and improve it.</span>",
+            "<span style=\"font-size:1.1em;\"><strong>2b)</strong> After writing the first draft of your report it is important to review and improve it.</span>",
+            "<span style=\"font-size:1.1em;\"><strong>3a)</strong> Purdon (2021) emphasises the importance of accurate citation as a means of \"leaving an information trail\", which the reader can follow.</span>",
+            "<span style=\"font-size:1.1em;\"><strong>3b)</strong> Purdon (2021, p.21) emphasises the importance of accurate citation as a means of \"leaving an information trail\", which the reader can follow.</span>",
+            "<span style=\"font-size:1.1em;\"><strong>4a)</strong> Formal vocabulary is an important feature of academic writing, which causes problems for many students.</span>",
+            "<span style=\"font-size:1.1em;\"><strong>4b)</strong> Formal vocabulary is an important feature of academic writing, and causes problems for many students.</span>",
+            "<span style=\"font-size:1.1em;\"><strong>5a) </strong>A paragraph is difficult to read if it's structure is unclear.</span>",
+            "<span style=\"font-size:1.1em;\"><strong>5b)</strong> A paragraph is difficult to read if its structure is unclear,</span>",
+            "<span style=\"font-size:1.1em;\"><strong>6a)</strong> Businesses often fail because they fail to identify new trends early enough (Bobbin, 2018).</span>",
+            "<span style=\"font-size:1.1em;\"><strong>6b)</strong> Businesses often fail because they fail to identify new trends early enough. (Bobbin, 2018)</span>",
+            "<span style=\"font-size:1.1em;\"><strong>7a)</strong> The purpose of a report must be clear to the reader, it should therefore be made clear in the introduction.</span>",
+            "<span style=\"font-size:1.1em;\"><strong>7b)</strong> The purpose of a report must be clear to the reader. It should therefore be made clear in the introduction.</span>",
+            "<span style=\"font-size:1.1em;\"><strong>8a)</strong> A strong conclusion. This is important as it will focus the audience on your key message.</span>",
+            "<span style=\"font-size:1.1em;\"><strong>8b) </strong>A strong conclusion is important as it will focus the audience on your key message.</span>",
+            "<span style=\"font-size:1.1em;\"><strong>9a)</strong> Presentation slides, which should be used to help the audience, can often distract them from the speaker</span>",
+            "<span style=\"font-size:1.1em;\"><strong>9b)</strong> Presentation slides which should be used to help the audience, can often distract them from the speaker</span>",
+            "<span style=\"font-size:1.1em;\"><strong>10a)</strong> Sentences which include informal language are not acceptable in academic writing</span>",
+            "<span style=\"font-size:1.1em;\"><strong>10b)</strong> Sentences, which include informal language, are not acceptable in academic writing</span>",
+            "<span style=\"font-size:1.1em;\"><strong>11a)</strong> The lectures are extremely useful, but not necessary.</span>",
+            "<span style=\"font-size:1.1em;\"><strong>11b)</strong> The lectures are extremely useful. But not necessary.</span>",
+            "<span style=\"font-size:1.1em;\"><strong>12a)</strong> Parker &amp; Bowles (2018) suggest that emotional appeals are more effective than rational ones.</span>",
+            "<span style=\"font-size:1.1em;\"><strong>12b)</strong> Parker &amp; Bowles (2018) suggests that emotional appeals are more effective than rational ones.</span>",
+            "<span style=\"font-size:1.1em;\"><strong>13a) </strong>Recent studies have shown that customer loyalty has improved where businesses have remained in touch during the pandemic and providing updates (Giles &amp; Mortimer, 2020).</span>",
+            "<span style=\"font-size:1.1em;\"><strong>13b)</strong> Recent studies have shown that customer loyalty has improved where businesses have remained in touch during the pandemic and provided updates (Giles &amp; Mortimer, 2020).</span>"
+          ],
+          "stimulus": "<p><span style=\"color:#800080;\"><strong><span style=\"font-size:1.3em;\">TASK 3</span></strong></span></p>\n\n<p><span style=\"color:#800080;\"><strong><span style=\"font-size:1.3em;\">Each of the pairs of sentences below contains a typical error found in student writing. Look at the sentence pairs below and decide which one is CORRECT and which is INCORRECT.</span></strong></span></p>\n\n<p><span style=\"color:#800080;\"><strong><span style=\"font-size:1.3em;\"> Make a note of any errors which you might check for when you proofread your own writing!</span></strong></span></p>\n",
+          "type": "choicematrix",
+          "validation": {
+            "scoring_type": "partialMatchV2",
+            "valid_response": {
+              "score": 26,
+              "value": [
+                [
+                  1
+                ],
+                [
+                  0
+                ],
+                [
+                  0
+                ],
+                [
+                  1
+                ],
+                [
+                  1
+                ],
+                [
+                  0
+                ],
+                [
+                  1
+                ],
+                [
+                  0
+                ],
+                [
+                  1
+                ],
+                [
+                  0
+                ],
+                [
+                  0
+                ],
+                [
+                  1
+                ],
+                [
+                  1
+                ],
+                [
+                  0
+                ],
+                [
+                  1
+                ],
+                [
+                  0
+                ],
+                [
+                  0
+                ],
+                [
+                  1
+                ],
+                [
+                  0
+                ],
+                [
+                  1
+                ],
+                [
+                  0
+                ],
+                [
+                  1
+                ],
+                [
+                  0
+                ],
+                [
+                  1
+                ],
+                [
+                  1
+                ],
+                [
+                  0
+                ]
+              ]
+            }
+          },
+          "ui_style": {
+            "type": "table",
+            "horizontal_lines": false
+          },
+          "instant_feedback": true
+        },
+        "metadata": {
+          "name": "Choice matrix – standard",
+          "template_reference": "14b7af71-e146-4747-aae5-ca71618a5038"
+        }
+      },
+      "feedbackInfo": [
+        {
+          "id": "0707_acf89fab-779f-4d3b-bc03-8256c4feba6f_95ca1bf9-cc01-4336-8cdd-7cb3b07d6c74_efc85a94115f583611187cd3ebaf6986",
+          "user_id": "acf89fab-779f-4d3b-bc03-8256c4feba6f",
+          "response_id": "95ca1bf9-cc01-4336-8cdd-7cb3b07d6c74_efc85a94115f583611187cd3ebaf6986",
+          "type": "longtextV2",
+          "question": {
+            "type": "longtextV2",
+            "metadata": {
+              "source": {
+                "organisation_id": 755
+              },
+              "sheet_reference": "default_feedback",
+              "widget_reference": "de082b5f-742a-4ecf-82ca-4dc86e218fec",
+              "valid_response_count": 0
+            },
+            "stimulus": "Written feedback:",
+            "response_id": "95ca1bf9-cc01-4336-8cdd-7cb3b07d6c74_efc85a94115f583611187cd3ebaf6986",
+            "show_word_count": false,
+            "show_word_limit": "off"
+          },
+          "response": null,
+          "creation_date": "2022-02-14 11:34:44",
+          "mod_date": "2022-02-14 11:34:44",
+          "persist_until": "2022-02-15 11:34:44",
+          "saved": false
+        },
+        null
+      ]
+    }
+  ]
+}

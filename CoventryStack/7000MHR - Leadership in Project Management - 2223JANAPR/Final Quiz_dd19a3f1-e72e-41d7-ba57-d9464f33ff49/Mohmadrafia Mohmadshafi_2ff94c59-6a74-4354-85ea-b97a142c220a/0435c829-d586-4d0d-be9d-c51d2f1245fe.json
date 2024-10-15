@@ -1,0 +1,50 @@
+{
+  "userId": "2ff94c59-6a74-4354-85ea-b97a142c220a",
+  "firstName": "Mohmadrafia Mohmadshafi",
+  "lastName": "Khimani",
+  "assigmentId": "dd19a3f1-e72e-41d7-ba57-d9464f33ff49",
+  "assigmentName": "Final Quiz",
+  "sessionId": "0435c829-d586-4d0d-be9d-c51d2f1245fe",
+  "email": "khimanim2@coventry.ac.uk",
+  "spaceId": "4fb344e0-2505-4dbc-9179-c896b74e9fe2",
+  "spaceName": "7000MHR - Leadership in Project Management - 2223JANAPR",
+  "score": 0,
+  "max_score": 0,
+  "questions": [
+    {
+      "response_id": "0435c829-d586-4d0d-be9d-c51d2f1245fe_d74b3a6030c83fcf5ee153076270cc28",
+      "question_type": "longtextV2",
+      "dt_score_updated": "2023-03-27T11:09:16Z",
+      "automarkable": false,
+      "attempted": true,
+      "score": null,
+      "max_score": null,
+      "question_reference": "19cfb112-ed0c-48f3-9354-ee3d148b109b",
+      "item_reference": "48b87caa-f852-4992-b089-cc00d5b5a683",
+      "response": {
+        "value": "<p>Lewins Model of change , also known as \" Unfreeze - Change- reFreez \" model. This model is made of three stages that discribes the process of implementing change in an organisation, developed by psychologist Kurt Lewin in 1940. It is still widely used today. This model provides a simple yet effective framework for managing change in organizations by breaking down the process to three stages and execute it effectively.</p>",
+        "wordCount": 66,
+        "type": "string",
+        "apiVersion": "v2.168.23",
+        "revision": 15
+      },
+      "questionInfo": {
+        "type": "longtextV2",
+        "widget_type": "response",
+        "reference": "19cfb112-ed0c-48f3-9354-ee3d148b109b",
+        "data": {
+          "stimulus": "Can you reflect on any change management model",
+          "type": "longtextV2"
+        },
+        "metadata": {
+          "name": "Essay with rich text",
+          "template_reference": "1e6039f8-0676-495d-aca9-108710a51ce5"
+        }
+      },
+      "feedbackInfo": [
+        null,
+        null
+      ]
+    }
+  ]
+}

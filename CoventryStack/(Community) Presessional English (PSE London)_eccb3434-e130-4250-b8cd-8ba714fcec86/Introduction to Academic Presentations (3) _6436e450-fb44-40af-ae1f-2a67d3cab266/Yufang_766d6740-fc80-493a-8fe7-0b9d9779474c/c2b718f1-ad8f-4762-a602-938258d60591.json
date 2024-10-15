@@ -1,0 +1,1023 @@
+{
+  "userId": "766d6740-fc80-493a-8fe7-0b9d9779474c",
+  "firstName": "Yufang",
+  "lastName": "Zheng",
+  "assigmentId": "6436e450-fb44-40af-ae1f-2a67d3cab266",
+  "assigmentName": "Introduction to Academic Presentations (3) ",
+  "sessionId": "c2b718f1-ad8f-4762-a602-938258d60591",
+  "email": "zhengy60@coventry.ac.uk",
+  "spaceId": "eccb3434-e130-4250-b8cd-8ba714fcec86",
+  "spaceName": "(Community) Presessional English (PSE London)",
+  "score": 18,
+  "max_score": 46,
+  "questions": [
+    {
+      "response_id": "c2b718f1-ad8f-4762-a602-938258d60591_f9b68ef20db5caa2e3094abf2543ff4c",
+      "question_type": "mcq",
+      "dt_score_updated": "2022-12-04T15:14:32Z",
+      "automarkable": true,
+      "attempted": true,
+      "score": 1,
+      "max_score": 1,
+      "question_reference": "80610720-91c8-4840-9104-196200f38fbf",
+      "item_reference": "43de509a-2fd6-429d-a694-cb5b04223341",
+      "response": {
+        "value": [
+          "2"
+        ],
+        "type": "array",
+        "apiVersion": "v2.193.0",
+        "revision": 1,
+        "feedbackAttemptsCount": 2
+      },
+      "questionInfo": {
+        "type": "mcq",
+        "widget_type": "response",
+        "reference": "80610720-91c8-4840-9104-196200f38fbf",
+        "data": {
+          "options": [
+            {
+              "label": "<span style=\"font-size:1.1em;\">Skip the conclusion.</span>",
+              "value": "1"
+            },
+            {
+              "label": "<span style=\"font-size:1.1em;\">Skip the last main point and move on to the conclusion.</span>",
+              "value": "2"
+            },
+            {
+              "label": "<span style=\"font-size:1.1em;\">Keep talking after the time is over.</span>",
+              "value": "3"
+            }
+          ],
+          "stimulus": "<p><span style=\"font-size:2em;\"><b>The first stage of today's lesson focuses on the...</b></span></p>\n\n<p>&nbsp;</p>\n\n\n<img height=\"187\" src=\"https://assets.learnosity.com/organisations/755/4cf613c9-0aac-49ac-a04f-957bbc81bb85.jpg\" width=\"350\">\n<p>&nbsp;</p>\n\n<p><span style=\"font-size:1.5em;\"><span style=\"color:#ff0000;\">►</span>&nbsp;<b>What should the presenter do if they are&nbsp;running out of time?</b></span></p>",
+          "type": "mcq",
+          "ui_style": {
+            "choice_label": "upper-alpha",
+            "type": "block"
+          },
+          "validation": {
+            "scoring_type": "exactMatch",
+            "valid_response": {
+              "score": 1,
+              "value": [
+                "2"
+              ]
+            }
+          },
+          "instant_feedback": true,
+          "shuffle_options": true
+        },
+        "metadata": {
+          "name": "Multiple choice – block layout",
+          "template_reference": "33d53a22-1a59-4a03-9671-7f5104edd62e"
+        }
+      },
+      "feedbackInfo": [
+        null,
+        null
+      ]
+    },
+    {
+      "response_id": "c2b718f1-ad8f-4762-a602-938258d60591_06c80a83b0a37978b92a86876afcb707",
+      "question_type": "clozetext",
+      "dt_score_updated": "2022-11-22T15:28:44Z",
+      "automarkable": true,
+      "attempted": false,
+      "score": null,
+      "max_score": 10,
+      "question_reference": "cdf8d709-8426-44da-aea2-263978b93bc5",
+      "item_reference": "43de509a-2fd6-429d-a694-cb5b04223341",
+      "response": null,
+      "questionInfo": {
+        "type": "clozetext",
+        "widget_type": "response",
+        "reference": "cdf8d709-8426-44da-aea2-263978b93bc5",
+        "data": {
+          "stimulus": "<p id=\"yui_3_17_2_1_1645715984539_179\"><span style=\"font-size:2em;\"><b>Listen to a student <span style=\"color:#008000;\"><u>concluding</u> </span>his presentation.&nbsp;</b></span></p>\n\n<p><span style=\"font-size:2em;\"></span></p>\n<span style=\"font-size:2em;\"></span>\n\n\n<span style=\"font-size:2em;\"><img height=\"213\" src=\"https://assets.learnosity.com/organisations/755/44895a44-b418-446b-985d-cfe2d39def2b.jpg\" width=\"200\"></span><br>\n<span style=\"font-size:1.5em;\"><b><span style=\"color:#008000;\"></span></b></span>\n\n<p>&nbsp;</p>\n\n<p><span class=\"learnosity-feature\" data-player=\"button\" data-simplefeature_id=\"acc8d2c9-e394-4260-b052-df2210b44d66\" data-src=\"https://assets.learnosity.com/organisations/755/9c5602d7-a7d5-4cda-a478-02714db519dc.mp3\" data-type=\"audioplayer\"></span></p>\n\n<p><span style=\"font-size:1.5em;\"><b><span style=\"color:#008000;\">► </span>Complete the spaces with the words you hear.</b></span></p>\n\n<p>&nbsp;</p>",
+          "template": "<p style=\"margin-left: 40px;\"><span style=\"font-size:1.1em;\">Well, </span><span style=\"font-size:1em;\">{{response}}</span><span style=\"font-size:1.1em;\">&nbsp;I think that the problem of waste disposal is a threat not only to our environment, but also the social well-being of people whose homes are located near landfill sites. </span><span style=\"font-size:1em;\">{{response}}</span><span style=\"font-size:1.1em;\">&nbsp;I suggest that the solutions proposed should be used in conjunction with each other; </span><span style=\"font-size:1em;\">{{response}}</span><span style=\"font-size:1.1em;\">, a combination of a number of different solutions is likely to be most successful. </span><span style=\"font-size:1em;\">{{response}}</span><span style=\"font-size:1.1em;\"> reminding everyone that the problem of waste disposal is only going to become greater as more and more countries industrialize and adopt consumer lifestyles. This is not what we want for our future.</span><br>\n<span style=\"font-size:1em;\">{{response}}</span><span style=\"font-size: 15.4px;\">,&nbsp;&nbsp;please feel free to ask.</span></p>\n\n<p>&nbsp;</p>\n\n<p><span style=\"color:#ff0000;\"><strong>(check your spelling carefully!)</strong></span><br>\n&nbsp;</p>\n",
+          "type": "clozetext",
+          "validation": {
+            "scoring_type": "exactMatch",
+            "valid_response": {
+              "score": 10,
+              "value": [
+                "As I have tried to explain this morning",
+                "In the light of what we have seen",
+                "in other words",
+                "I would like to finish by",
+                "If there are any questions"
+              ]
+            }
+          },
+          "instant_feedback": true,
+          "max_length": 40,
+          "spellcheck": true
+        },
+        "metadata": {
+          "name": "Cloze with text",
+          "template_reference": "457fe101-0667-4a35-b193-b849653acb52"
+        }
+      },
+      "feedbackInfo": [
+        null,
+        null
+      ]
+    },
+    {
+      "response_id": "c2b718f1-ad8f-4762-a602-938258d60591_e8fa12d64d307ff7885689ee062f9789",
+      "question_type": "mcq",
+      "dt_score_updated": "2022-12-04T15:15:57Z",
+      "automarkable": true,
+      "attempted": true,
+      "score": 1,
+      "max_score": 1,
+      "question_reference": "f4cb3601-430a-486d-842d-a5501862164d",
+      "item_reference": "43de509a-2fd6-429d-a694-cb5b04223341",
+      "response": {
+        "value": [
+          "3"
+        ],
+        "type": "array",
+        "apiVersion": "v2.193.0",
+        "revision": 1,
+        "feedbackAttemptsCount": 1
+      },
+      "questionInfo": {
+        "type": "mcq",
+        "widget_type": "response",
+        "reference": "f4cb3601-430a-486d-842d-a5501862164d",
+        "data": {
+          "options": [
+            {
+              "label": "<span style=\"font-size:1.1em;\">My presentation is finished.</span>",
+              "value": "1"
+            },
+            {
+              "label": "<span style=\"font-size:1.1em;\">I'm going to say my conclusion now.</span>",
+              "value": "2"
+            },
+            {
+              "label": "<span style=\"font-size:1.1em;\">This brings me to the end of my presentation.</span>",
+              "value": "3"
+            },
+            {
+              "label": "<span style=\"font-size:1.1em;\">I have nothing more to say.</span>",
+              "value": "4"
+            }
+          ],
+          "stimulus": "<p><span style=\"font-size:2em;\"><b>In the conclusion above, the presenter didn't&nbsp;<span style=\"color:#ff0000;\">SIGNAL&nbsp;</span>the conclusion.</b></span></p>\n\n<p>&nbsp;</p>\n\n\n<img height=\"338\" src=\"https://assets.learnosity.com/organisations/755/29724e81-b066-4990-8f70-eef462ee84cb.jpg\" width=\"600\">\n<p><strong><span style=\"font-size:1.5em;\"></span><span style=\"color:#ff0000;\"><span style=\"font-size:1.5em;\">►&nbsp;</span></span><span style=\"font-size:1.5em;\">In other words,&nbsp;<u><i>he didn't tell the audience he was going to conclude</i></u>.</span></strong></p>\n\n<p>&nbsp;</p>\n\n<div class=\"lrn-well\"><span style=\"font-size:1.3em;\"><b>What would be the best sentence to&nbsp;<u><span style=\"color:#ff0000;\">SIGNAL</span></u>&nbsp;the conclusion?</b></span></div>\n\n<p><span style=\"font-size:1.1em;\"><b>Choose from the options below:</b></span></p>",
+          "type": "mcq",
+          "ui_style": {
+            "choice_label": "upper-alpha",
+            "type": "block"
+          },
+          "validation": {
+            "scoring_type": "exactMatch",
+            "valid_response": {
+              "score": 1,
+              "value": [
+                "3"
+              ]
+            }
+          },
+          "instant_feedback": true,
+          "shuffle_options": true
+        },
+        "metadata": {
+          "name": "Multiple choice – block layout",
+          "template_reference": "33d53a22-1a59-4a03-9671-7f5104edd62e"
+        }
+      },
+      "feedbackInfo": [
+        null,
+        null
+      ]
+    },
+    {
+      "response_id": "c2b718f1-ad8f-4762-a602-938258d60591_c55f4ef0d068e95c1f0c9346de2dab28",
+      "question_type": "clozeassociation",
+      "dt_score_updated": "2022-12-04T15:16:26Z",
+      "automarkable": true,
+      "attempted": true,
+      "score": 3,
+      "max_score": 3,
+      "question_reference": "302fc68f-ca02-4330-a9dc-296f43501db3",
+      "item_reference": "43de509a-2fd6-429d-a694-cb5b04223341",
+      "response": {
+        "value": [
+          "we have seen today, …&nbsp;",
+          "to go over the main points.",
+          "me recap the key ideas."
+        ],
+        "type": "array",
+        "apiVersion": "v2.193.0",
+        "revision": 2,
+        "feedbackAttemptsCount": 1
+      },
+      "questionInfo": {
+        "type": "clozeassociation",
+        "widget_type": "response",
+        "reference": "302fc68f-ca02-4330-a9dc-296f43501db3",
+        "data": {
+          "possible_responses": [
+            "we have seen today, …&nbsp;",
+            "to go over the main points.",
+            "me recap the key ideas."
+          ],
+          "response_container": {
+            "pointer": "left"
+          },
+          "stimulus": "<p><span style=\"font-size:2em;\"><b>Here are some&nbsp;<u><span style=\"color:#008080;\">USEFUL PHRASES</span></u>&nbsp;for each section of the conclusion.&nbsp;</b></span></p>\n\n<p>&nbsp;</p>\n\n\n<img height=\"119\" src=\"https://assets.learnosity.com/organisations/755/209ad5b0-753c-497b-a45c-43b685a042b5.jpg\" width=\"500\">\n<p><span style=\"font-size:1.5em;\"><b><span style=\"color:#008080;\">►</span> Complete them with the words below.</b></span></p>\n\n<p>&nbsp;</p>\n\n<p><u><span style=\"color:#008080;\"><span style=\"font-size:1.5em;\"><b><i>Remind the audience of the main points</i></b></span></span></u></p>",
+          "template": "<ul>\n\t<li><span style=\"font-size:1.3em;\">As </span><span style=\"font-size:1em;\">{{response}}</span><span style=\"font-size:1.3em;\"></span></li>\n\t<li><span style=\"font-size:1.3em;\">I’d like </span><span style=\"font-size:1em;\">{{response}}</span><span style=\"font-size:1.3em;\"></span></li>\n\t<li><span style=\"font-size:1.3em;\">Let </span><span style=\"font-size:1em;\">{{response}}</span><span style=\"font-size:1.3em;\"></span></li>\n</ul>\n",
+          "type": "clozeassociation",
+          "case_sensitive": true,
+          "validation": {
+            "scoring_type": "partialMatchV2",
+            "valid_response": {
+              "score": 3,
+              "value": [
+                "we have seen today, …&nbsp;",
+                "to go over the main points.",
+                "me recap the key ideas."
+              ]
+            }
+          },
+          "ui_style": {
+            "possibility_list_position": "right"
+          },
+          "instant_feedback": true,
+          "shuffle_options": true
+        },
+        "metadata": {
+          "name": "Cloze with drag & drop",
+          "template_reference": "51a8c1e7-f34f-4faf-b211-da458e891fcb"
+        }
+      },
+      "feedbackInfo": [
+        null,
+        null
+      ]
+    },
+    {
+      "response_id": "c2b718f1-ad8f-4762-a602-938258d60591_7a28c02a042aed1e8c7204e657da816f",
+      "question_type": "clozeassociation",
+      "dt_score_updated": "2022-12-04T15:16:55Z",
+      "automarkable": true,
+      "attempted": true,
+      "score": 3,
+      "max_score": 3,
+      "question_reference": "c8577641-5fd7-4810-a41d-866e1df3a0bc",
+      "item_reference": "43de509a-2fd6-429d-a694-cb5b04223341",
+      "response": {
+        "value": [
+          "conclusion, I would like to say…",
+          "final recommendation is …",
+          "sum up, I’d like to suggest…"
+        ],
+        "type": "array",
+        "apiVersion": "v2.193.0",
+        "revision": 1,
+        "feedbackAttemptsCount": 1
+      },
+      "questionInfo": {
+        "type": "clozeassociation",
+        "widget_type": "response",
+        "reference": "c8577641-5fd7-4810-a41d-866e1df3a0bc",
+        "data": {
+          "possible_responses": [
+            "conclusion, I would like to say…",
+            "final recommendation is …",
+            "sum up, I’d like to suggest…"
+          ],
+          "response_container": {
+            "pointer": "left"
+          },
+          "stimulus": "<u><i style=\"\"><b style=\"color: rgb(0, 128, 128); font-size: 1.5em;\">Make a </b><font color=\"#008080\"><span style=\"font-size: 21px;\"><b>recommendation</b></span></font><b style=\"color: rgb(0, 128, 128); font-size: 1.5em;\">&nbsp;/ Conclude</b></i></u><u><span style=\"color:#008080;\"><span style=\"font-size:1.5em;\"></span></span></u>",
+          "template": "<ul>\n\t<li><span style=\"font-size:1.3em;\">In&nbsp;</span><span style=\"font-size:1em;\">{{response}}</span><span style=\"font-size:1.3em;\"></span></li>\n\t<li><span style=\"font-size:1.3em;\">My&nbsp;</span><span style=\"font-size:1em;\">{{response}}</span><span style=\"font-size:1.3em;\"></span></li>\n\t<li><span style=\"font-size:1.3em;\">To&nbsp;</span><span style=\"font-size:1em;\">{{response}}</span><span style=\"font-size:1.3em;\"></span></li>\n</ul>\n",
+          "type": "clozeassociation",
+          "case_sensitive": true,
+          "validation": {
+            "scoring_type": "partialMatchV2",
+            "valid_response": {
+              "score": 3,
+              "value": [
+                "conclusion, I would like to say…",
+                "final recommendation is …",
+                "sum up, I’d like to suggest…"
+              ]
+            }
+          },
+          "ui_style": {
+            "possibility_list_position": "right"
+          },
+          "instant_feedback": true,
+          "shuffle_options": true
+        },
+        "metadata": {
+          "name": "Cloze with drag & drop",
+          "template_reference": "51a8c1e7-f34f-4faf-b211-da458e891fcb"
+        }
+      },
+      "feedbackInfo": [
+        null,
+        null
+      ]
+    },
+    {
+      "response_id": "c2b718f1-ad8f-4762-a602-938258d60591_04ca00a917a58cd06d2a7d57938aba8f",
+      "question_type": "clozeassociation",
+      "dt_score_updated": "2022-12-04T15:17:22Z",
+      "automarkable": true,
+      "attempted": true,
+      "score": 3,
+      "max_score": 3,
+      "question_reference": "e65c9af4-9c7b-4120-ad78-9c789c87bc71",
+      "item_reference": "43de509a-2fd6-429d-a694-cb5b04223341",
+      "response": {
+        "value": [
+          "happy to answer any questions now.",
+          "anyone have any questions?",
+          "feel free to ask any questions."
+        ],
+        "type": "array",
+        "apiVersion": "v2.193.0",
+        "revision": 1,
+        "feedbackAttemptsCount": 1
+      },
+      "questionInfo": {
+        "type": "clozeassociation",
+        "widget_type": "response",
+        "reference": "e65c9af4-9c7b-4120-ad78-9c789c87bc71",
+        "data": {
+          "possible_responses": [
+            "happy to answer any questions now.",
+            "anyone have any questions?",
+            "feel free to ask any questions."
+          ],
+          "response_container": {
+            "pointer": "left"
+          },
+          "stimulus": "<u><i style=\"\"><b style=\"color: rgb(0, 128, 128); font-size: 1.5em;\">Give the opportunity to ask questions</b></i></u>",
+          "template": "<ul>\n\t<li><span style=\"font-size:1.3em;\">I'd be&nbsp;</span><span style=\"font-size:1em;\">{{response}}</span><span style=\"font-size:1.3em;\"></span></li>\n\t<li><span style=\"font-size:1.3em;\">Does&nbsp;</span><span style=\"font-size:1em;\">{{response}}</span><span style=\"font-size:1.3em;\"></span></li>\n\t<li><span style=\"font-size:1.3em;\">Please&nbsp;</span><span style=\"font-size:1em;\">{{response}}</span><span style=\"font-size:1.3em;\"></span></li>\n</ul>\n",
+          "type": "clozeassociation",
+          "case_sensitive": true,
+          "validation": {
+            "scoring_type": "partialMatchV2",
+            "valid_response": {
+              "score": 3,
+              "value": [
+                "happy to answer any questions now.",
+                "anyone have any questions?",
+                "feel free to ask any questions."
+              ]
+            }
+          },
+          "ui_style": {
+            "possibility_list_position": "right"
+          },
+          "instant_feedback": true,
+          "shuffle_options": true
+        },
+        "metadata": {
+          "name": "Cloze with drag & drop",
+          "template_reference": "51a8c1e7-f34f-4faf-b211-da458e891fcb"
+        }
+      },
+      "feedbackInfo": [
+        null,
+        null
+      ]
+    },
+    {
+      "response_id": "c2b718f1-ad8f-4762-a602-938258d60591_ddbffa5189f87af902b31b66e58f7711",
+      "question_type": "association",
+      "dt_score_updated": "2022-12-04T15:42:32Z",
+      "automarkable": true,
+      "attempted": true,
+      "score": 5,
+      "max_score": 5,
+      "question_reference": "739ce6ac-898b-46f7-87ee-05aaab52fe9d",
+      "item_reference": "592c650d-df57-424f-93d8-be6d57e51192",
+      "response": {
+        "value": [
+          "Announce the visual",
+          "Say what the visual shows",
+          "Give an general view of the information",
+          "Highlight the interesting / relevant points",
+          "Summarise the main point"
+        ],
+        "type": "array",
+        "updatedFormat": true,
+        "apiVersion": "v2.193.0",
+        "revision": 1,
+        "feedbackAttemptsCount": 2
+      },
+      "questionInfo": {
+        "type": "association",
+        "widget_type": "response",
+        "reference": "739ce6ac-898b-46f7-87ee-05aaab52fe9d",
+        "data": {
+          "possible_responses": [
+            "Highlight the interesting / relevant points",
+            "Summarise the main point",
+            "Say what the visual shows",
+            "Give an general view of the information",
+            "Announce the visual"
+          ],
+          "stimulus": "<table class=\"table table-condensed table-no-border lrn_width_auto\">\n\t<tbody>\n\t\t<tr>\n\t\t\t<td>\n\t\t\t\n\t\t\t<img class=\"lrn-image-non-responsive\" height=\"163\" src=\"https://assets.learnosity.com/organisations/755/10b46245-084a-47b4-bfa1-72e40fa708a3.jpg\" width=\"250\"></td>\n\t\t\t<td>\n\t\t\t<p><span style=\"color:#ff0000;\"><span style=\"font-size:2em;\"><b>Using visual aids during a presentation.</b></span></span></p>\n\n\t\t\t<p><span style=\"font-size:1.5em;\"><b id=\"yui_3_17_2_1_1645718257341_136\">In today's lesson, you learned about different types of visual aids.<br>\n\t\t\tIn this part of the lesson, we will focus on how to use them effectively&nbsp;<span style=\"color:#ff0000;\">during</span>&nbsp;the presentation.&nbsp; &nbsp;</b><b>&nbsp;</b></span></p>\n\t\t\t</td>\n\t\t</tr>\n\t</tbody>\n</table>\n\n<p>&nbsp;</p>\n\n<p><span style=\"font-size:1.5em;\"><b>When you want your audience to focus on your PPT slide, make sure to&nbsp;<span style=\"color:#ff0000;\">explain</span>&nbsp;what the visual is showing.&nbsp;&nbsp;</b></span></p>\n\n<p><span style=\"font-size:1.5em;\"><b><span style=\"color:#ff0000;\">► </span>Follow the steps below:</b></span></p>\n\n<p><span style=\"font-size:1.1em;\">(organise them in the correct order)</span></p>",
+          "stimulus_list": [
+            "<span style=\"color:#0000ff;\"><strong><span style=\"font-size:1.3em;\">Step 1</span></strong></span>",
+            "<span style=\"color:#0000ff;\"><strong><span style=\"font-size:1.3em;\">Step 2</span></strong></span>",
+            "<span style=\"color:#0000ff;\"><strong><span style=\"font-size:1.3em;\">Step 3</span></strong></span>",
+            "<span style=\"color:#0000ff;\"><strong><span style=\"font-size:1.3em;\">Step 4</span></strong></span>",
+            "<span style=\"color:#0000ff;\"><strong><span style=\"font-size:1.3em;\">Step 5</span></strong></span>"
+          ],
+          "type": "association",
+          "validation": {
+            "scoring_type": "partialMatchV2",
+            "valid_response": {
+              "score": 5,
+              "value": [
+                "Announce the visual",
+                "Say what the visual shows",
+                "Give an general view of the information",
+                "Highlight the interesting / relevant points",
+                "Summarise the main point"
+              ]
+            }
+          },
+          "instant_feedback": true
+        },
+        "metadata": {
+          "name": "Match list",
+          "template_reference": "1fa22aac-1f88-47f7-941b-3c77759549e6"
+        }
+      },
+      "feedbackInfo": [
+        null,
+        null
+      ]
+    },
+    {
+      "response_id": "c2b718f1-ad8f-4762-a602-938258d60591_e8f267d7cb10f44e9eca4f4de0cdf70a",
+      "question_type": "clozeassociation",
+      "dt_score_updated": "2022-12-04T15:53:28Z",
+      "automarkable": true,
+      "attempted": true,
+      "score": 1,
+      "max_score": 1,
+      "question_reference": "f4eab03d-f8ab-4278-9ca7-21a62894e83d",
+      "item_reference": "592c650d-df57-424f-93d8-be6d57e51192",
+      "response": {
+        "value": [
+          "Let's have a&nbsp;",
+          "look at this",
+          "graph showing",
+          "which countries",
+          "produce the&nbsp;",
+          "most wind power"
+        ],
+        "type": "array",
+        "apiVersion": "v2.193.0",
+        "revision": 2,
+        "feedbackAttemptsCount": 1
+      },
+      "questionInfo": {
+        "type": "clozeassociation",
+        "widget_type": "response",
+        "reference": "f4eab03d-f8ab-4278-9ca7-21a62894e83d",
+        "data": {
+          "possible_responses": [
+            "Let's have a&nbsp;",
+            "look at this",
+            "graph showing",
+            "which countries",
+            "produce the&nbsp;",
+            "most wind power"
+          ],
+          "response_container": {
+            "pointer": "left"
+          },
+          "stimulus": "<p><span style=\"font-size:2em;\"><b>Now, let's see how to effectively present a&nbsp;</b></span><span style=\"font-size: 28px;\"><b>graph.</b></span></p>\n\n<p><span style=\"font-size:1.5em;\"><b><span style=\"color:#0000ff;\">► </span>A student is presenting the chart below:</b></span></p>\n\n<p>&nbsp;</p>\n\n\n<img class=\"lrn-image-non-responsive\" height=\"310\" src=\"https://assets.learnosity.com/organisations/755/c45d9e72-01b0-460f-81e5-59732f50c5d9.jpg\" width=\"450\">\n<p>&nbsp;</p>\n\n<p id=\"yui_3_17_2_1_1645784025126_3497\"><br>\n<span style=\"font-size:1.5em;\"><b>Put the phrases in the correct order.</b></span></p>",
+          "template": "<p><span style=\"color:#0000cd;\"><strong><span style=\"font-size:1.3em;\"><i id=\"yui_3_17_2_1_1645784025126_3525\">Step 1: Announce the visual</i>.</span></strong></span></p>\n\n<p style=\"margin-left: 40px;\">{{response}}&nbsp;{{response}}&nbsp;{{response}}&nbsp;{{response}}&nbsp;{{response}}&nbsp;{{response}}.&nbsp;</p>\n",
+          "type": "clozeassociation",
+          "case_sensitive": true,
+          "validation": {
+            "scoring_type": "exactMatch",
+            "valid_response": {
+              "score": 1,
+              "value": [
+                "Let's have a&nbsp;",
+                "look at this",
+                "graph showing",
+                "which countries",
+                "produce the&nbsp;",
+                "most wind power"
+              ]
+            }
+          },
+          "instant_feedback": true,
+          "shuffle_options": true
+        },
+        "metadata": {
+          "name": "Cloze with drag & drop",
+          "template_reference": "51a8c1e7-f34f-4faf-b211-da458e891fcb"
+        }
+      },
+      "feedbackInfo": [
+        null,
+        null
+      ]
+    },
+    {
+      "response_id": "c2b718f1-ad8f-4762-a602-938258d60591_d49ed94c2d70cd1d807586ebc9821940",
+      "question_type": "clozeassociation",
+      "dt_score_updated": "2022-12-04T15:54:12Z",
+      "automarkable": true,
+      "attempted": true,
+      "score": 1,
+      "max_score": 1,
+      "question_reference": "69625730-c99c-4fb6-aec3-3117f927d050",
+      "item_reference": "592c650d-df57-424f-93d8-be6d57e51192",
+      "response": {
+        "value": [
+          "As you can",
+          "see, it gives&nbsp;",
+          "an overview of the",
+          "top-ten countries",
+          "of wind-generated",
+          "power in both",
+          "2008 and 2009"
+        ],
+        "type": "array",
+        "apiVersion": "v2.193.0",
+        "revision": 3,
+        "feedbackAttemptsCount": 1
+      },
+      "questionInfo": {
+        "type": "clozeassociation",
+        "widget_type": "response",
+        "reference": "69625730-c99c-4fb6-aec3-3117f927d050",
+        "data": {
+          "possible_responses": [
+            "As you can",
+            "see, it gives&nbsp;",
+            "an overview of the",
+            "top-ten countries",
+            "of wind-generated",
+            "power in both",
+            "2008 and 2009"
+          ],
+          "response_container": {
+            "pointer": "left"
+          },
+          "template": "<p><span style=\"color:#0000cd;\"><strong><span style=\"font-size:1.3em;\"><i id=\"yui_3_17_2_1_1645784025126_3525\">Step 2: Say what the&nbsp;visual shows</i>.</span></strong></span></p>\n\n<p style=\"margin-left: 40px;\">{{response}}&nbsp;{{response}}&nbsp;{{response}}&nbsp;{{response}}&nbsp;{{response}}&nbsp;{{response}}&nbsp;{{response}}.&nbsp;</p>\n",
+          "type": "clozeassociation",
+          "case_sensitive": true,
+          "validation": {
+            "scoring_type": "exactMatch",
+            "valid_response": {
+              "score": 1,
+              "value": [
+                "As you can",
+                "see, it gives&nbsp;",
+                "an overview of the",
+                "top-ten countries",
+                "of wind-generated",
+                "power in both",
+                "2008 and 2009"
+              ]
+            }
+          },
+          "instant_feedback": true,
+          "shuffle_options": true
+        },
+        "metadata": {
+          "name": "Cloze with drag & drop",
+          "template_reference": "51a8c1e7-f34f-4faf-b211-da458e891fcb"
+        }
+      },
+      "feedbackInfo": [
+        null,
+        null
+      ]
+    },
+    {
+      "response_id": "c2b718f1-ad8f-4762-a602-938258d60591_52582ac3bdf5af5642367a9d31d5bda8",
+      "question_type": "clozeassociation",
+      "dt_score_updated": "2022-12-05T05:37:49Z",
+      "automarkable": true,
+      "attempted": true,
+      "score": 0,
+      "max_score": 1,
+      "question_reference": "d63c338d-6981-4897-9984-104a245c4003",
+      "item_reference": "592c650d-df57-424f-93d8-be6d57e51192",
+      "response": {
+        "value": [
+          "This clearly shows&nbsp;",
+          "produced around",
+          null,
+          null,
+          null,
+          null,
+          null,
+          null,
+          null,
+          null,
+          null,
+          null
+        ],
+        "type": "array",
+        "apiVersion": "v2.193.0",
+        "revision": 2,
+        "feedbackAttemptsCount": 2
+      },
+      "questionInfo": {
+        "type": "clozeassociation",
+        "widget_type": "response",
+        "reference": "d63c338d-6981-4897-9984-104a245c4003",
+        "data": {
+          "possible_responses": [
+            "This clearly shows&nbsp;",
+            "that the USA is&nbsp;",
+            "by far the",
+            "largest producer",
+            "At 35,000 megawatts per&nbsp;",
+            "year in 2009 this is",
+            "over 10,000 times higher",
+            "than their nearest&nbsp;",
+            "rivals, China and",
+            "Germany, who both",
+            "produced around",
+            "25,000 megawatts"
+          ],
+          "response_container": {
+            "pointer": "left"
+          },
+          "template": "<p><span style=\"color:#0000cd;\"><strong><span style=\"font-size:1.3em;\"><i id=\"yui_3_17_2_1_1645784025126_3525\">Step 2: Say what the&nbsp;visual shows</i>.</span></strong></span></p>\n\n<p style=\"margin-left: 40px;\">{{response}}&nbsp;{{response}}&nbsp;{{response}}&nbsp;{{response}}<span style=\"font-size:1.6em;\">.&nbsp;</span>{{response}}&nbsp;{{response}}&nbsp;{{response}}&nbsp;{{response}}&nbsp;{{response}}&nbsp;{{response}}&nbsp;{{response}}&nbsp;{{response}}.&nbsp;</p>\n",
+          "type": "clozeassociation",
+          "case_sensitive": true,
+          "validation": {
+            "scoring_type": "exactMatch",
+            "valid_response": {
+              "score": 1,
+              "value": [
+                "This clearly shows&nbsp;",
+                "that the USA is&nbsp;",
+                "by far the",
+                "largest producer",
+                "At 35,000 megawatts per&nbsp;",
+                "year in 2009 this is",
+                "over 10,000 times higher",
+                "than their nearest&nbsp;",
+                "rivals, China and",
+                "Germany, who both",
+                "produced around",
+                "25,000 megawatts"
+              ]
+            }
+          },
+          "instant_feedback": true,
+          "shuffle_options": true
+        },
+        "metadata": {
+          "name": "Cloze with drag & drop",
+          "template_reference": "51a8c1e7-f34f-4faf-b211-da458e891fcb"
+        }
+      },
+      "feedbackInfo": [
+        null,
+        null
+      ]
+    },
+    {
+      "response_id": "c2b718f1-ad8f-4762-a602-938258d60591_060f10fe8cecda25c2f1fb8d12d59ab8",
+      "question_type": "clozeassociation",
+      "dt_score_updated": "2022-12-05T05:41:08Z",
+      "automarkable": true,
+      "attempted": true,
+      "score": 0,
+      "max_score": 1,
+      "question_reference": "406c695e-57bd-4fd3-aadf-4a87e0d3a117",
+      "item_reference": "592c650d-df57-424f-93d8-be6d57e51192",
+      "response": {
+        "value": [
+          "Interestingly, although",
+          null,
+          null,
+          null,
+          null,
+          null,
+          null,
+          null,
+          null,
+          null,
+          null
+        ],
+        "type": "array",
+        "apiVersion": "v2.193.0",
+        "revision": 1
+      },
+      "questionInfo": {
+        "type": "clozeassociation",
+        "widget_type": "response",
+        "reference": "406c695e-57bd-4fd3-aadf-4a87e0d3a117",
+        "data": {
+          "possible_responses": [
+            "Interestingly, although",
+            "both countries had more",
+            "or less the same",
+            "production, this wasn't",
+            "the case a year earlier",
+            "China had the",
+            "fastest growth",
+            "in this year,",
+            "almost doubling",
+            "its wind generation",
+            "production in one year"
+          ],
+          "response_container": {
+            "pointer": "left"
+          },
+          "template": "<p><i id=\"yui_3_17_2_1_1645784025126_3525\" style=\"\"><span style=\"color: rgb(0, 0, 205); font-size: 1.3em;\"><b>Step 4: Highlight some </b></span><font color=\"#0000cd\"><span style=\"font-size: 18.2px;\"><b>interesting</b></span></font><span style=\"color: rgb(0, 0, 205); font-size: 1.3em;\"><b>&nbsp;/ relevant points</b></span></i><span style=\"color: rgb(0, 0, 205); font-size: 1.3em;\"><b>.</b></span></p>\n\n<p style=\"margin-left: 40px;\">{{response}}&nbsp;{{response}}&nbsp;{{response}}&nbsp;{{response}}<span style=\"font-size:1.6em;\">&nbsp;</span>{{response}}<span style=\"font-size:1.6em;\">.&nbsp;&nbsp;</span>{{response}}&nbsp;{{response}}&nbsp;{{response}}&nbsp;{{response}}&nbsp;{{response}}&nbsp;{{response}}.&nbsp;</p>\n",
+          "type": "clozeassociation",
+          "case_sensitive": true,
+          "validation": {
+            "scoring_type": "exactMatch",
+            "valid_response": {
+              "score": 1,
+              "value": [
+                "Interestingly, although",
+                "both countries had more",
+                "or less the same",
+                "production, this wasn't",
+                "the case a year earlier",
+                "China had the",
+                "fastest growth",
+                "in this year,",
+                "almost doubling",
+                "its wind generation",
+                "production in one year"
+              ]
+            }
+          },
+          "instant_feedback": true,
+          "shuffle_options": true
+        },
+        "metadata": {
+          "name": "Cloze with drag & drop",
+          "template_reference": "51a8c1e7-f34f-4faf-b211-da458e891fcb"
+        }
+      },
+      "feedbackInfo": [
+        null,
+        null
+      ]
+    },
+    {
+      "response_id": "c2b718f1-ad8f-4762-a602-938258d60591_985dad60e6757eb990a1be255b559059",
+      "question_type": "clozeassociation",
+      "dt_score_updated": "2022-12-05T05:42:06Z",
+      "automarkable": true,
+      "attempted": true,
+      "score": 0,
+      "max_score": 1,
+      "question_reference": "5d7e4e84-cc94-4848-90b7-f7d6f4f75c63",
+      "item_reference": "592c650d-df57-424f-93d8-be6d57e51192",
+      "response": {
+        "value": [
+          "So what this&nbsp;",
+          "wind power",
+          null,
+          null,
+          null,
+          null,
+          null,
+          null,
+          null
+        ],
+        "type": "array",
+        "apiVersion": "v2.193.0",
+        "revision": 3,
+        "feedbackAttemptsCount": 2
+      },
+      "questionInfo": {
+        "type": "clozeassociation",
+        "widget_type": "response",
+        "reference": "5d7e4e84-cc94-4848-90b7-f7d6f4f75c63",
+        "data": {
+          "possible_responses": [
+            "So what this&nbsp;",
+            "suggests is that&nbsp;",
+            "only five countries",
+            "(the USA, China,&nbsp;",
+            "Germany, Spain and India)",
+            "were responsible for",
+            "a huge&nbsp; proportion",
+            "of the word's",
+            "wind power"
+          ],
+          "response_container": {
+            "pointer": "left"
+          },
+          "template": "<p><span style=\"color:#0000cd;\"><strong><span style=\"font-size:1.3em;\"><i id=\"yui_3_17_2_1_1645784025126_3525\">Step 5: Summarise the main point</i>.</span></strong></span></p>\n\n<p style=\"margin-left: 40px;\">{{response}}&nbsp;{{response}}&nbsp;{{response}}&nbsp;{{response}}&nbsp;{{response}}&nbsp;{{response}}&nbsp;{{response}}&nbsp;{{response}}&nbsp;{{response}}.&nbsp;</p>\n",
+          "type": "clozeassociation",
+          "case_sensitive": true,
+          "validation": {
+            "scoring_type": "exactMatch",
+            "valid_response": {
+              "score": 1,
+              "value": [
+                "So what this&nbsp;",
+                "suggests is that&nbsp;",
+                "only five countries",
+                "(the USA, China,&nbsp;",
+                "Germany, Spain and India)",
+                "were responsible for",
+                "a huge&nbsp; proportion",
+                "of the word's",
+                "wind power"
+              ]
+            }
+          },
+          "instant_feedback": true,
+          "shuffle_options": true
+        },
+        "metadata": {
+          "name": "Cloze with drag & drop",
+          "template_reference": "51a8c1e7-f34f-4faf-b211-da458e891fcb"
+        }
+      },
+      "feedbackInfo": [
+        null,
+        null
+      ]
+    },
+    {
+      "response_id": "c2b718f1-ad8f-4762-a602-938258d60591_5420f373df34a9e4d8ce404ed6e0f7c7",
+      "question_type": "clozedropdown",
+      "dt_score_updated": "2022-11-22T15:28:44Z",
+      "automarkable": true,
+      "attempted": false,
+      "score": null,
+      "max_score": 15,
+      "question_reference": "3ff8f94f-04f8-4280-80dd-434bf678c51e",
+      "item_reference": "3d8b6fda-c57b-493a-8e42-1765bb2f3668",
+      "response": null,
+      "questionInfo": {
+        "type": "clozedropdown",
+        "widget_type": "response",
+        "reference": "3ff8f94f-04f8-4280-80dd-434bf678c51e",
+        "data": {
+          "possible_responses": [
+            [
+              "Let’s have a look at the sales figures in more detail.",
+              "Here are the sales figures for the UK market between 2015 and 2018.",
+              "The most noticeable trend is that sales are falling.",
+              "Sales have decreased especially in the first quarter of 2018.",
+              "This figures suggest we need to act quickly."
+            ],
+            [
+              "Let's look at the statistics.",
+              "The table shows the percentage of investment over the last 3 years.",
+              "In general, the numbers have increased.",
+              "There is a large difference between the two main investors.",
+              "The statistics demonstrate that investment has increased overall."
+            ],
+            [
+              "Let’s have a look at a diagram of the project.",
+              "The diagram shows how wind turbines work.",
+              "Overall, this is a simple process.",
+              "The diagram shows that there are three main problems.",
+              "This means that these problems are easy to fix."
+            ],
+            [
+              "Let’s have a look at the sales figures in more detail.",
+              "Here are the sales figures for the UK market between 2015 and 2018.",
+              "The most noticeable trend is that sales are falling.",
+              "Sales have decreased especially in the first quarter of 2018.",
+              "This figures suggest we need to act quickly."
+            ],
+            [
+              "Let's look at the statistics.",
+              "The table shows the percentage of investment over the last 3 years.",
+              "In general, the numbers have increased.",
+              "There is a large difference between the two main investors.",
+              "The statistics demonstrate that investment has increased overall."
+            ],
+            [
+              "Let’s have a look at a diagram of the project.",
+              "The diagram shows how wind turbines work.",
+              "Overall, this is a simple process.",
+              "The diagram shows that there are three main problems.",
+              "This means that these problems are easy to fix."
+            ],
+            [
+              "Let’s have a look at the sales figures in more detail.",
+              "Here are the sales figures for the UK market between 2015 and 2018.",
+              "The most noticeable trend is that sales are falling.",
+              "Sales have decreased especially in the first quarter of 2018.",
+              "This figures suggest we need to act quickly."
+            ],
+            [
+              "Let's look at the statistics.",
+              "The table shows the percentage of investment over the last 3 years.",
+              "In general, the numbers have increased.",
+              "There is a large difference between the two main investors.",
+              "The statistics demonstrate that investment has increased overall."
+            ],
+            [
+              "Let’s have a look at a diagram of the project.",
+              "The diagram shows how wind turbines work.",
+              "Overall, this is a simple process.",
+              "The diagram shows that there are three main problems.",
+              "This means that these problems are easy to fix."
+            ],
+            [
+              "Let’s have a look at the sales figures in more detail.",
+              "Here are the sales figures for the UK market between 2015 and 2018.",
+              "The most noticeable trend is that sales are falling.",
+              "Sales have decreased especially in the first quarter of 2018.",
+              "This figures suggest we need to act quickly."
+            ],
+            [
+              "Let's look at the statistics.",
+              "The table shows the percentage of investment over the last 3 years.",
+              "In general, the numbers have increased.",
+              "There is a large difference between the two main investors.",
+              "The statistics demonstrate that investment has increased overall."
+            ],
+            [
+              "Let’s have a look at a diagram of the project.",
+              "The diagram shows how wind turbines work.",
+              "Overall, this is a simple process.",
+              "The diagram shows that there are three main problems.",
+              "This means that these problems are easy to fix."
+            ],
+            [
+              "Let’s have a look at the sales figures in more detail.",
+              "Here are the sales figures for the UK market between 2015 and 2018.",
+              "The most noticeable trend is that sales are falling.",
+              "Sales have decreased especially in the first quarter of 2018.",
+              "This figures suggest we need to act quickly."
+            ],
+            [
+              "Let's look at the statistics.",
+              "The table shows the percentage of investment over the last 3 years.",
+              "In general, the numbers have increased.",
+              "There is a large difference between the two main investors.",
+              "The statistics demonstrate that investment has increased overall."
+            ],
+            [
+              "Let’s have a look at a diagram of the project.",
+              "The diagram shows how wind turbines work.",
+              "Overall, this is a simple process.",
+              "The diagram shows that there are three main problems.",
+              "This means that these problems are easy to fix."
+            ]
+          ],
+          "response_container": {
+            "pointer": "left"
+          },
+          "stimulus": "<p><span style=\"font-size:2em;\"><b id=\"yui_3_17_2_1_1645719730079_120\">Here are some&nbsp;<u><span style=\"color:#008080;\">useful phrases</span></u>&nbsp;for each of the steps in the previous exercise.</b></span></p>\n\n<p><img class=\"lrn-image-non-responsive\" height=\"119\" src=\"https://assets.learnosity.com/organisations/755/21e97383-0a78-44cd-89cd-37fd486cc942.jpg\" width=\"500\"></p>\n\n<p>&nbsp;</p>\n",
+          "template": "<p id=\"yui_3_17_2_1_1645719730079_129\"><u><span style=\"font-size:1.3em;\"><span style=\"color:#008080;\"><b id=\"yui_3_17_2_1_1645719730079_131\">Step 1.&nbsp;&nbsp;Announce the visual</b></span></span></u></p>\n\n<p style=\"margin-left: 40px;\"><span style=\"font-size:1em;\">{{response}}</span><span style=\"font-size:1em;\"></span></p>\n\n<p style=\"margin-left: 40px;\"><span style=\"font-size:1em;\">{{response}}</span></p>\n\n<p style=\"margin-left: 40px;\"><span style=\"font-size:1em;\">{{response}}</span></p>\n\n<p><u><span style=\"font-size:1.3em;\"><span style=\"color:#008080;\"><b>Step 2.&nbsp;&nbsp;</b><b>Say what the visual shows</b></span></span></u></p>\n\n<p style=\"margin-left: 40px;\"><span style=\"font-size:1em;\">{{response}}</span></p>\n\n<p style=\"margin-left: 40px;\"><span style=\"font-size:1em;\">{{response}}</span></p>\n\n<p style=\"margin-left: 40px;\"><span style=\"font-size:1em;\">{{response}}</span></p>\n\n<p><u><span style=\"font-size:1.3em;\"><span style=\"color:#008080;\"><b>Step 3.&nbsp;&nbsp;</b><b>Give an general view of the information</b></span></span></u></p>\n\n<p style=\"margin-left: 40px;\">{{response}}<span style=\"font-size:1em;\"></span></p>\n\n<p style=\"margin-left: 40px;\"><span style=\"font-size:1em;\">{{response}}</span></p>\n\n<p style=\"margin-left: 40px;\"><span style=\"font-size:1em;\">{{response}}</span></p>\n\n<p><u><span style=\"font-size:1.3em;\"><span style=\"color:#008080;\"><b>Step 4.&nbsp;&nbsp;</b><b>Highlight the interesting / relevant points</b></span></span></u></p>\n\n<p style=\"margin-left: 40px;\"><span style=\"font-size:1em;\">{{response}}</span></p>\n\n<p style=\"margin-left: 40px;\"><span style=\"font-size:1em;\">{{response}}</span></p>\n\n<p style=\"margin-left: 40px;\"><span style=\"font-size:1em;\">{{response}}</span></p>\n\n<p><u><span style=\"color:#008080;\"><span style=\"font-size:1.3em;\"><b>Step 5.&nbsp;Summarise the main point</b></span></span></u></p>\n\n<p style=\"margin-left: 40px;\"><span style=\"font-size:1em;\">{{response}}</span></p>\n\n<p style=\"margin-left: 40px;\"><span style=\"font-size:1em;\">{{response}}</span></p>\n\n<p style=\"margin-left: 40px;\"><span style=\"font-size:1em;\">{{response}}</span></p>\n",
+          "type": "clozedropdown",
+          "case_sensitive": true,
+          "validation": {
+            "scoring_type": "partialMatchV2",
+            "valid_response": {
+              "score": 15,
+              "value": [
+                "Let’s have a look at the sales figures in more detail.",
+                "Let's look at the statistics.",
+                "Let’s have a look at a diagram of the project.",
+                "Here are the sales figures for the UK market between 2015 and 2018.",
+                "The table shows the percentage of investment over the last 3 years.",
+                "The diagram shows how wind turbines work.",
+                "The most noticeable trend is that sales are falling.",
+                "In general, the numbers have increased.",
+                "Overall, this is a simple process.",
+                "Sales have decreased especially in the first quarter of 2018.",
+                "There is a large difference between the two main investors.",
+                "The diagram shows that there are three main problems.",
+                "This figures suggest we need to act quickly.",
+                "The statistics demonstrate that investment has increased overall.",
+                "This means that these problems are easy to fix."
+              ]
+            }
+          },
+          "instant_feedback": true,
+          "shuffle_options": true
+        },
+        "metadata": {
+          "name": "Cloze with drop down",
+          "template_reference": "2fbba51b-e35e-441f-83c7-2662e2e81fa6"
+        }
+      },
+      "feedbackInfo": [
+        null,
+        null
+      ]
+    }
+  ]
+}

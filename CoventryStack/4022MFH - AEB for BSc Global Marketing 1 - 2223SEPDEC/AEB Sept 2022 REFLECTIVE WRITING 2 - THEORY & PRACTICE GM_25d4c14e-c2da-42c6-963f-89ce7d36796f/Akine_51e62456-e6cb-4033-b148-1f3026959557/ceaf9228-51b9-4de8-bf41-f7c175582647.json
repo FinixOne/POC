@@ -1,0 +1,667 @@
+{
+  "userId": "51e62456-e6cb-4033-b148-1f3026959557",
+  "firstName": "Akine",
+  "lastName": "Matsumoto",
+  "assigmentId": "25d4c14e-c2da-42c6-963f-89ce7d36796f",
+  "assigmentName": "AEB Sept 2022 REFLECTIVE WRITING 2 - THEORY & PRACTICE GM",
+  "sessionId": "ceaf9228-51b9-4de8-bf41-f7c175582647",
+  "email": "matsumotoa@coventry.ac.uk",
+  "spaceId": "085bd94e-283f-4148-8142-827a1e7fe9cc",
+  "spaceName": "4022MFH - AEB for BSc Global Marketing 1 - 2223SEPDEC",
+  "score": 21,
+  "max_score": 21,
+  "questions": [
+    {
+      "response_id": "ceaf9228-51b9-4de8-bf41-f7c175582647_b65becdd1671614c5b9bf81bf94a7051",
+      "question_type": "association",
+      "dt_score_updated": "2022-10-22T14:20:55Z",
+      "automarkable": true,
+      "attempted": true,
+      "score": 1,
+      "max_score": 1,
+      "question_reference": "b38b44a9-06df-43e5-9e11-c24ef4dad802",
+      "item_reference": "01860812-3e70-4adc-87bb-bb30d296ca3a",
+      "response": {
+        "value": [
+          "<span style=\"font-size:1.3em;\">What happened?</span>",
+          "<span style=\"font-size:1.3em;\">Why did it happen?</span>",
+          "<span style=\"font-size:1.3em;\">What would I do differently in future?</span>"
+        ],
+        "type": "array",
+        "updatedFormat": true,
+        "apiVersion": "v2.168.23",
+        "revision": 1
+      },
+      "questionInfo": {
+        "type": "association",
+        "widget_type": "response",
+        "reference": "b38b44a9-06df-43e5-9e11-c24ef4dad802",
+        "data": {
+          "possible_responses": [
+            "<span style=\"font-size:1.3em;\">Why did it happen?</span>",
+            "<span style=\"font-size:1.3em;\">What happened?</span>",
+            "<span style=\"font-size:1.3em;\">What would I do differently in future?</span>"
+          ],
+          "stimulus": "<p><span style=\"font-size:1.5em;\"><span style=\"color:#800080;\"><strong>TASK 1: Structuring Reflective Writing - Review</strong></span></span></p>\n\n<p><strong><span style=\"font-size:1.3em;\">Below are the three stages of reflective writing, and the questions you need to answer in each stage. Drag the questions to match the appropriate stage.</span></strong></p>\n",
+          "stimulus_list": [
+            "<span style=\"font-size:1.3em;\">Description</span>",
+            "<span style=\"font-size:1.3em;\">Analysis</span>",
+            "<span style=\"font-size:1.3em;\">Outcome</span>"
+          ],
+          "type": "association",
+          "validation": {
+            "scoring_type": "partialMatchV2",
+            "valid_response": {
+              "score": 1,
+              "value": [
+                "<span style=\"font-size:1.3em;\">What happened?</span>",
+                "<span style=\"font-size:1.3em;\">Why did it happen?</span>",
+                "<span style=\"font-size:1.3em;\">What would I do differently in future?</span>"
+              ]
+            }
+          },
+          "instant_feedback": true
+        },
+        "metadata": {
+          "name": "Match list",
+          "template_reference": "1fa22aac-1f88-47f7-941b-3c77759549e6"
+        }
+      },
+      "feedbackInfo": [
+        null,
+        null
+      ]
+    },
+    {
+      "response_id": "ceaf9228-51b9-4de8-bf41-f7c175582647_b6781812420a32a0fc1e705c861f958a",
+      "question_type": "association",
+      "dt_score_updated": "2022-10-22T14:21:23Z",
+      "automarkable": true,
+      "attempted": true,
+      "score": 1,
+      "max_score": 1,
+      "question_reference": "2a0d66e6-a575-4d5f-9ac2-57aa7ae595c3",
+      "item_reference": "01860812-3e70-4adc-87bb-bb30d296ca3a",
+      "response": {
+        "value": [
+          "<span style=\"font-size:1.3em;\">When we began our project, tasks were shared out equally amongst members of my team. However, the tasks were not seen as equally difficult by all team members.&nbsp;As a result, the sense of unfairness made it challenging for us to work together as a team.</span>",
+          "<span style=\"font-size:1.3em;\">Social interdependence theory recognises a type of group interaction called “positive interdependence” (Johnson &amp; Johnson, 2008), which we did not experience in my group. This put my group at a disadvantage, as many studies show that cooperative learning experiences encourage higher achievement.” (Maughan &amp; Webb, 2010)</span>",
+          "<span style=\"font-size:1.3em;\">In the end, we managed to complete our project through further negotiation, but to improve the process, we perhaps needed a team leader to help encourage discussion and cooperation when tasks are being shared out. In future group work I would probably suggest this at the beginning of the project.</span>"
+        ],
+        "type": "array",
+        "updatedFormat": true,
+        "apiVersion": "v2.168.23",
+        "revision": 1,
+        "feedbackAttemptsCount": 1
+      },
+      "questionInfo": {
+        "type": "association",
+        "widget_type": "response",
+        "reference": "2a0d66e6-a575-4d5f-9ac2-57aa7ae595c3",
+        "data": {
+          "possible_responses": [
+            "<span style=\"font-size:1.3em;\">Social interdependence theory recognises a type of group interaction called “positive interdependence” (Johnson &amp; Johnson, 2008), which we did not experience in my group. This put my group at a disadvantage, as many studies show that cooperative learning experiences encourage higher achievement.” (Maughan &amp; Webb, 2010)</span>",
+            "<span style=\"font-size:1.3em;\">In the end, we managed to complete our project through further negotiation, but to improve the process, we perhaps needed a team leader to help encourage discussion and cooperation when tasks are being shared out. In future group work I would probably suggest this at the beginning of the project.</span>",
+            "<span style=\"font-size:1.3em;\">When we began our project, tasks were shared out equally amongst members of my team. However, the tasks were not seen as equally difficult by all team members.&nbsp;As a result, the sense of unfairness made it challenging for us to work together as a team.</span>"
+          ],
+          "stimulus": "<p><span style=\"color:#800080;\"><span style=\"font-size:1.5em;\"><strong>TASK 2:&nbsp;Structuring Reflective Writing: an example</strong></span></span></p>\n\n<p><strong><span style=\"font-size:1.3em;\">Organise the pieces of reflective writing below according to the structure.</span></strong></p>\n",
+          "stimulus_list": [
+            "<span style=\"font-size:1.3em;\">Description</span>",
+            "<span style=\"font-size:1.3em;\">Analysis</span>",
+            "<span style=\"font-size:1.3em;\">Outcome</span>"
+          ],
+          "type": "association",
+          "validation": {
+            "scoring_type": "partialMatchV2",
+            "valid_response": {
+              "score": 1,
+              "value": [
+                "<span style=\"font-size:1.3em;\">When we began our project, tasks were shared out equally amongst members of my team. However, the tasks were not seen as equally difficult by all team members.&nbsp;As a result, the sense of unfairness made it challenging for us to work together as a team.</span>",
+                "<span style=\"font-size:1.3em;\">Social interdependence theory recognises a type of group interaction called “positive interdependence” (Johnson &amp; Johnson, 2008), which we did not experience in my group. This put my group at a disadvantage, as many studies show that cooperative learning experiences encourage higher achievement.” (Maughan &amp; Webb, 2010)</span>",
+                "<span style=\"font-size:1.3em;\">In the end, we managed to complete our project through further negotiation, but to improve the process, we perhaps needed a team leader to help encourage discussion and cooperation when tasks are being shared out. In future group work I would probably suggest this at the beginning of the project.</span>"
+              ]
+            }
+          },
+          "instant_feedback": true
+        },
+        "metadata": {
+          "name": "Match list",
+          "template_reference": "1fa22aac-1f88-47f7-941b-3c77759549e6"
+        }
+      },
+      "feedbackInfo": [
+        null,
+        null
+      ]
+    },
+    {
+      "response_id": "ceaf9228-51b9-4de8-bf41-f7c175582647_e1f09a2331f8076a80364cc5f372fa97",
+      "question_type": "choicematrix",
+      "dt_score_updated": "2022-10-22T14:21:52Z",
+      "automarkable": true,
+      "attempted": true,
+      "score": 1,
+      "max_score": 1,
+      "question_reference": "24efabc1-f702-498d-a536-0f04275ad3c3",
+      "item_reference": "01860812-3e70-4adc-87bb-bb30d296ca3a",
+      "response": {
+        "value": [
+          [
+            0
+          ],
+          [
+            0
+          ],
+          [
+            0
+          ],
+          [
+            0
+          ],
+          [
+            0
+          ],
+          [
+            0
+          ]
+        ],
+        "type": "array",
+        "apiVersion": "v2.168.23",
+        "revision": 3,
+        "feedbackAttemptsCount": 2
+      },
+      "questionInfo": {
+        "type": "choicematrix",
+        "widget_type": "response",
+        "reference": "24efabc1-f702-498d-a536-0f04275ad3c3",
+        "data": {
+          "options": [
+            "<span style=\"font-size:1.3em;\">Yes</span>",
+            "<span style=\"font-size:1.3em;\">No</span>"
+          ],
+          "stems": [
+            "<span style=\"font-size:1.3em;\">Has the author described what happened and how they felt?</span>",
+            "<span style=\"font-size:1.3em;\">Has the author analysed the situation and considered why things happened?</span>",
+            "<span style=\"font-size:1.3em;\">Has the author used theory to help them understand their experience?</span>",
+            "<span style=\"font-size:1.3em;\">Has the author used personal language (e.g. I, my) to help them reflect on their experience?</span>",
+            "<span style=\"font-size:1.3em;\">Has the author written in a suitably formal academic style?</span>",
+            "<span style=\"font-size:1.3em;\">Has the author&nbsp;checked their writing for errors (e.g. spelling, punctuation, grammar)?</span>"
+          ],
+          "stimulus": "<p><span style=\"color:#800080;\"><span style=\"font-size:1.5em;\"><strong>TASK 3: Evaluation</strong></span></span></p>\n\n<p><span style=\"font-size:1.3em;\"><strong>Read the reflective writing again and answer the questions in the checklist below.</strong></span></p>\n",
+          "type": "choicematrix",
+          "ui_style": {
+            "stem_numeration": "upper-alpha",
+            "type": "table",
+            "horizontal_lines": false
+          },
+          "validation": {
+            "scoring_type": "partialMatchV2",
+            "valid_response": {
+              "score": 1,
+              "value": [
+                [
+                  0
+                ],
+                [
+                  0
+                ],
+                [
+                  0
+                ],
+                [
+                  0
+                ],
+                [
+                  0
+                ],
+                [
+                  0
+                ]
+              ]
+            }
+          },
+          "instant_feedback": true
+        },
+        "metadata": {
+          "name": "Choice matrix – labels",
+          "template_reference": "9de82e14-802c-4bea-a635-bf9ad0b622fb"
+        }
+      },
+      "feedbackInfo": [
+        null,
+        null
+      ]
+    },
+    {
+      "response_id": "ceaf9228-51b9-4de8-bf41-f7c175582647_8b706d153e4ce301984b756921892b47",
+      "question_type": "mcq",
+      "dt_score_updated": "2022-10-22T14:23:32Z",
+      "automarkable": true,
+      "attempted": true,
+      "score": 1,
+      "max_score": 1,
+      "question_reference": "aecaa6f4-8da0-4579-97bd-de7a5122a3bc",
+      "item_reference": "3dbf439b-515b-4c7f-9596-c9cd8c84a73f",
+      "response": {
+        "value": [
+          "1"
+        ],
+        "type": "array",
+        "apiVersion": "v2.168.23",
+        "revision": 1,
+        "feedbackAttemptsCount": 1
+      },
+      "questionInfo": {
+        "type": "mcq",
+        "widget_type": "response",
+        "reference": "aecaa6f4-8da0-4579-97bd-de7a5122a3bc",
+        "data": {
+          "options": [
+            {
+              "label": "Ellis (2012) argues that allocating tasks effectively can offer significant time savings when working in a group.&nbsp;",
+              "value": "0"
+            },
+            {
+              "label": "Largo &amp; Johns (2008) state that ensuring close matches between project roles and real-life personality traits are more likely to produce positive results.",
+              "value": "1"
+            },
+            {
+              "label": "Atkins &amp; Lowe (2011, p.19) argue that a successful team needs \"commitment from each team contributor to be a key agent of change\".",
+              "value": "2"
+            }
+          ],
+          "stimulus": "<span style=\"color:#0000cd;\"><span style=\"font-size:1.3em;\"><em><strong>ISSUE ONE:</strong></em> </span></span><span style=\"color:#0000cd;\"><span style=\"font-size:1.3em;\"><em>Reflecting upon my role as 'key negotiator', I felt at the time that this did not entirely suit my personality profile.</em></span></span>",
+          "type": "mcq",
+          "validation": {
+            "scoring_type": "exactMatch",
+            "valid_response": {
+              "score": 1,
+              "value": [
+                "1"
+              ]
+            }
+          },
+          "ui_style": {
+            "type": "horizontal"
+          },
+          "instant_feedback": true
+        },
+        "metadata": {
+          "name": "Multiple choice – standard",
+          "template_reference": "9e8149bd-e4d8-4dd6-a751-1a113a4b9163"
+        }
+      },
+      "feedbackInfo": [
+        null,
+        null
+      ]
+    },
+    {
+      "response_id": "ceaf9228-51b9-4de8-bf41-f7c175582647_57570fc28f24a8bc287a1ca2700291e9",
+      "question_type": "mcq",
+      "dt_score_updated": "2022-10-22T14:24:00Z",
+      "automarkable": true,
+      "attempted": true,
+      "score": 1,
+      "max_score": 1,
+      "question_reference": "4086d96e-bc53-4f63-8026-84891ecd6b70",
+      "item_reference": "3dbf439b-515b-4c7f-9596-c9cd8c84a73f",
+      "response": {
+        "value": [
+          "0"
+        ],
+        "type": "array",
+        "apiVersion": "v2.168.23",
+        "revision": 1,
+        "feedbackAttemptsCount": 2
+      },
+      "questionInfo": {
+        "type": "mcq",
+        "widget_type": "response",
+        "reference": "4086d96e-bc53-4f63-8026-84891ecd6b70",
+        "data": {
+          "options": [
+            {
+              "label": "Ellis (2012) argues that allocating tasks effectively can offer significant time savings when working in a group.&nbsp;&nbsp;",
+              "value": "0"
+            },
+            {
+              "label": "Largo &amp; Johns (2008) state that ensuring close matches between project roles and real-life personality traits are more likely to produce positive results.",
+              "value": "1"
+            },
+            {
+              "label": "Atkins &amp; Lowe (2011, p.19) argue that a successful team needs \"commitment from each team contributor to be a key agent of change\".",
+              "value": "2"
+            }
+          ],
+          "stimulus": "<span style=\"color:#0000cd;\"><em><span style=\"font-size:1.3em;\"><strong>ISSUE TWO:</strong> Effectively allocating tasks and meeting deadlines were two issues we faced. It was often hard to allocate tasks to team members, due to conflicting schedules, workloads and other commitments.</span></em></span>",
+          "type": "mcq",
+          "validation": {
+            "scoring_type": "exactMatch",
+            "valid_response": {
+              "score": 1,
+              "value": [
+                "0"
+              ]
+            }
+          },
+          "ui_style": {
+            "type": "horizontal"
+          },
+          "instant_feedback": true
+        },
+        "metadata": {
+          "name": "Multiple choice – standard",
+          "template_reference": "9e8149bd-e4d8-4dd6-a751-1a113a4b9163"
+        }
+      },
+      "feedbackInfo": [
+        null,
+        null
+      ]
+    },
+    {
+      "response_id": "ceaf9228-51b9-4de8-bf41-f7c175582647_eae4ffad828f5b580e72db5a84b00a61",
+      "question_type": "mcq",
+      "dt_score_updated": "2022-10-22T14:24:15Z",
+      "automarkable": true,
+      "attempted": true,
+      "score": 1,
+      "max_score": 1,
+      "question_reference": "b1e71edb-61ed-412f-88b8-3acced924f30",
+      "item_reference": "3dbf439b-515b-4c7f-9596-c9cd8c84a73f",
+      "response": {
+        "value": [
+          "2"
+        ],
+        "type": "array",
+        "apiVersion": "v2.168.23",
+        "revision": 1,
+        "feedbackAttemptsCount": 1
+      },
+      "questionInfo": {
+        "type": "mcq",
+        "widget_type": "response",
+        "reference": "b1e71edb-61ed-412f-88b8-3acced924f30",
+        "data": {
+          "options": [
+            {
+              "label": "Ellis (2012) argues that allocating tasks effectively can offer significant time savings when working in a group.&nbsp;",
+              "value": "0"
+            },
+            {
+              "label": "Largo &amp; Johns (2008) state that ensuring close matches between project roles and real-life personality traits are more likely to produce positive results.",
+              "value": "1"
+            },
+            {
+              "label": "Atkins &amp; Lowe (2011, p.19) argue that a successful team needs \"commitment from each team contributor to be a key agent of change\".",
+              "value": "2"
+            }
+          ],
+          "stimulus": "<span style=\"color:#0000cd;\"><span style=\"font-size:1.3em;\"><em><strong>ISSUE THREE:</strong> We had disputes with individuals not arriving to scheduled meetings on time and failing to undertake activities in a timely manner.</em></span></span>",
+          "type": "mcq",
+          "validation": {
+            "scoring_type": "exactMatch",
+            "valid_response": {
+              "score": 1,
+              "value": [
+                "2"
+              ]
+            }
+          },
+          "ui_style": {
+            "type": "horizontal"
+          },
+          "instant_feedback": true
+        },
+        "metadata": {
+          "name": "Multiple choice – standard",
+          "template_reference": "9e8149bd-e4d8-4dd6-a751-1a113a4b9163"
+        }
+      },
+      "feedbackInfo": [
+        null,
+        null
+      ]
+    },
+    {
+      "response_id": "ceaf9228-51b9-4de8-bf41-f7c175582647_5a338a87adfd97f67750a8bae1e38c98",
+      "question_type": "orderlist",
+      "dt_score_updated": "2022-10-22T14:25:11Z",
+      "automarkable": true,
+      "attempted": true,
+      "score": 5,
+      "max_score": 5,
+      "question_reference": "234ae976-c9a5-4c82-a807-4c43c30a2906",
+      "item_reference": "4584b43b-80d1-4060-bf75-308d6961e814",
+      "response": {
+        "value": [
+          2,
+          1,
+          0,
+          4,
+          3
+        ],
+        "type": "array",
+        "apiVersion": "v2.168.23",
+        "revision": 2,
+        "feedbackAttemptsCount": 2
+      },
+      "questionInfo": {
+        "type": "orderlist",
+        "widget_type": "response",
+        "reference": "234ae976-c9a5-4c82-a807-4c43c30a2906",
+        "data": {
+          "list": [
+            "Largo &amp; Johns (2008) state that ensuring close matches between project roles and real-life personality traits are more likely to produce positive results.",
+            "Reflecting upon my role as ‘key negotiator’, I felt at the time that this did not entirely suit my personality profile.",
+            "Our team had five members who were all delegated with a particular role within the project.",
+            "In hindsight, this was one of the biggest challenges I faced in this activity. However, it also allowed me to build my skills and confidence in these areas, which I will benefit me in future teamwork",
+            "For me, perhaps the most challenging part of being assigned this role was working and communicating effectively with our team in a clear and assertive way.&nbsp;Occasionally, I felt uneasy negotiating with other team members who I felt had their ‘own agenda’ and seemed unwilling at times to compromise."
+          ],
+          "stimulus": "<p><span style=\"font-size:1.5em;\"><span style=\"color:#800080;\"><strong>TASK 5: Organising Reflective Writing</strong></span></span></p>\n\n<p><span style=\"color:#0000cd;\"><span style=\"font-size:1.3em;\"></span></span><span style=\"font-size:1.3em;\">In the following questions, you will see mixed-up sentences from a piece of student reflective writing. Put the sentences in order to form logical structured paragraphs.</span><span style=\"color:#0000cd;\"><span style=\"font-size:1.3em;\"></span></span></p>\n\n<p>&nbsp;</p>\n\n<p><strong>PARAGRAPH ONE:</strong>&nbsp;</p>\n",
+          "type": "orderlist",
+          "validation": {
+            "scoring_type": "exactMatch",
+            "valid_response": {
+              "score": 5,
+              "value": [
+                2,
+                1,
+                0,
+                4,
+                3
+              ]
+            }
+          },
+          "instant_feedback": true
+        },
+        "metadata": {
+          "name": "Order list",
+          "template_reference": "0c7f68f7-2be6-4ae0-8492-0ab78c8d0010"
+        }
+      },
+      "feedbackInfo": [
+        null,
+        null
+      ]
+    },
+    {
+      "response_id": "ceaf9228-51b9-4de8-bf41-f7c175582647_dc2bb2d1deb84794bc109995f39f6b0d",
+      "question_type": "orderlist",
+      "dt_score_updated": "2022-10-22T14:25:39Z",
+      "automarkable": true,
+      "attempted": true,
+      "score": 5,
+      "max_score": 5,
+      "question_reference": "e3aa8a68-574a-47bd-946e-a60220b1d91f",
+      "item_reference": "4584b43b-80d1-4060-bf75-308d6961e814",
+      "response": {
+        "value": [
+          2,
+          3,
+          0,
+          1,
+          4
+        ],
+        "type": "array",
+        "apiVersion": "v2.168.23",
+        "revision": 2,
+        "feedbackAttemptsCount": 5
+      },
+      "questionInfo": {
+        "type": "orderlist",
+        "widget_type": "response",
+        "reference": "e3aa8a68-574a-47bd-946e-a60220b1d91f",
+        "data": {
+          "list": [
+            "For me, this was a significant handicap in our team and perhaps upon reflection I should have thought about how to allocate tasks in a more effective manner from the beginning.",
+            "Ellis (2012) argues that allocating tasks effectively can offer significant time savings when working in a group, so this is a skill I need to develop.",
+            "I will now reflect upon some of the challenges that our team faced, and how we could resolve them.",
+            "Effectively&nbsp;allocating tasks and meeting deadlines were two issues we faced.&nbsp;It was often hard to allocate tasks to team members due to conflicting schedules, workloads and other commitments.",
+            "Perhaps in future I could plan task allocation more carefully, taking into account the particular strengths or weaknesses of the individuals in my team."
+          ],
+          "stimulus": "<strong>PARAGRAPH TWO:</strong>",
+          "type": "orderlist",
+          "validation": {
+            "scoring_type": "exactMatch",
+            "valid_response": {
+              "score": 5,
+              "value": [
+                2,
+                3,
+                0,
+                1,
+                4
+              ]
+            }
+          },
+          "instant_feedback": true
+        },
+        "metadata": {
+          "name": "Order list",
+          "template_reference": "0c7f68f7-2be6-4ae0-8492-0ab78c8d0010"
+        }
+      },
+      "feedbackInfo": [
+        null,
+        null
+      ]
+    },
+    {
+      "response_id": "ceaf9228-51b9-4de8-bf41-f7c175582647_3aeb572767e3df0f123be2c44b7ac2ca",
+      "question_type": "orderlist",
+      "dt_score_updated": "2022-10-22T14:26:07Z",
+      "automarkable": true,
+      "attempted": true,
+      "score": 5,
+      "max_score": 5,
+      "question_reference": "3494d508-8fd3-43c2-8b02-65e1d54f04a2",
+      "item_reference": "4584b43b-80d1-4060-bf75-308d6961e814",
+      "response": {
+        "value": [
+          2,
+          0,
+          1,
+          4,
+          3
+        ],
+        "type": "array",
+        "apiVersion": "v2.168.23",
+        "revision": 2,
+        "feedbackAttemptsCount": 4
+      },
+      "questionInfo": {
+        "type": "orderlist",
+        "widget_type": "response",
+        "reference": "3494d508-8fd3-43c2-8b02-65e1d54f04a2",
+        "data": {
+          "list": [
+            "Looking back, we had disputes with individuals arriving to scheduled meetings on time and undertaking activities in a timely manner. These were all significant challenges both for me personally, as well as for the other team members.",
+            "Atkins &amp; Lowe (2011, p.19) argue that a successful team needs ‘commitment from each team contributor to be a key agent of change’.",
+            "In addition, we experienced some challenges in our time management principles.",
+            "Going forward, I would make sure that all actions agreed to in meetings are recorded in minutes and shared with the team. This could help to improve commitment within the team.",
+            "This commitment was an issue for some of our team members."
+          ],
+          "stimulus": "<strong>PARAGRAPH THREE:&nbsp;</strong>",
+          "type": "orderlist",
+          "validation": {
+            "scoring_type": "exactMatch",
+            "valid_response": {
+              "score": 5,
+              "value": [
+                2,
+                0,
+                1,
+                4,
+                3
+              ]
+            }
+          },
+          "instant_feedback": true
+        },
+        "metadata": {
+          "name": "Order list",
+          "template_reference": "0c7f68f7-2be6-4ae0-8492-0ab78c8d0010"
+        }
+      },
+      "feedbackInfo": [
+        null,
+        null
+      ]
+    },
+    {
+      "response_id": "ceaf9228-51b9-4de8-bf41-f7c175582647_9e241f73e610432ca7aab5e1a29dec4f",
+      "question_type": "rating",
+      "dt_score_updated": "2022-10-22T14:26:16Z",
+      "automarkable": false,
+      "attempted": true,
+      "score": null,
+      "max_score": null,
+      "question_reference": "0ee5204f-4127-48cb-b41f-efc7872ddd60",
+      "item_reference": "30138db8-62fc-4c2e-b10c-4eb367d84463",
+      "response": {
+        "value": "",
+        "type": "numeric",
+        "apiVersion": "v2.168.23",
+        "revision": 1
+      },
+      "questionInfo": {
+        "type": "rating",
+        "widget_type": "response",
+        "reference": "0ee5204f-4127-48cb-b41f-efc7872ddd60",
+        "data": {
+          "options": [
+            {
+              "value": "",
+              "label": "😀",
+              "tint": "#B85830"
+            },
+            {
+              "value": "",
+              "label": "😐",
+              "tint": "#2979AF"
+            },
+            {
+              "value": "",
+              "label": "🙁"
+            }
+          ],
+          "type": "rating",
+          "stimulus": "<p class=\"text-center\">Do you feel comfortable using the language covered in this exercise?</p>\n",
+          "ui_style": {
+            "fontsize": "xxlarge"
+          }
+        },
+        "metadata": {
+          "name": "Rating",
+          "template_reference": "8e99fa69-b829-4a7d-ae2a-eb935fe3a2c6"
+        }
+      },
+      "feedbackInfo": [
+        null,
+        null
+      ]
+    }
+  ]
+}

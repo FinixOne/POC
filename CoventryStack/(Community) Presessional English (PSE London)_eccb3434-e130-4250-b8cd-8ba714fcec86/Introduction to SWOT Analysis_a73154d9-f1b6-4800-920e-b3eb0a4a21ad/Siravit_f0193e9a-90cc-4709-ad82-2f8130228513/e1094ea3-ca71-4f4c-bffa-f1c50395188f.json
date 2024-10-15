@@ -1,0 +1,1037 @@
+{
+  "userId": "f0193e9a-90cc-4709-ad82-2f8130228513",
+  "firstName": "Siravit",
+  "lastName": "Prakaiphetkul",
+  "assigmentId": "a73154d9-f1b6-4800-920e-b3eb0a4a21ad",
+  "assigmentName": "Introduction to SWOT Analysis",
+  "sessionId": "e1094ea3-ca71-4f4c-bffa-f1c50395188f",
+  "email": "prakaiphes@coventry.ac.uk",
+  "spaceId": "eccb3434-e130-4250-b8cd-8ba714fcec86",
+  "spaceName": "(Community) Presessional English (PSE London)",
+  "score": 20,
+  "max_score": 20,
+  "questions": [
+    {
+      "response_id": "e1094ea3-ca71-4f4c-bffa-f1c50395188f_318b4cf72ed7a48bbd690fb3c932f468",
+      "question_type": "clozedropdown",
+      "dt_score_updated": "2023-07-14T10:21:20Z",
+      "automarkable": false,
+      "attempted": true,
+      "score": null,
+      "max_score": null,
+      "question_reference": "c4b3ec31-c3d0-4b66-882b-346f2c7cee8d",
+      "item_reference": "900acef2-054c-4af0-a405-d1dca928ae04",
+      "response": {
+        "value": [
+          "Strengths, Weakness, Opportunities, Threats"
+        ],
+        "type": "array",
+        "apiVersion": "v2.177.28",
+        "revision": 1
+      },
+      "questionInfo": {
+        "type": "clozedropdown",
+        "widget_type": "response",
+        "reference": "c4b3ec31-c3d0-4b66-882b-346f2c7cee8d",
+        "data": {
+          "possible_responses": [
+            [
+              "Social Ways of Overcoming Tourism",
+              "Sudden Weaknesses, Outstanding Threats",
+              "Staff, Warehouse, Outlet, Traffic",
+              "Strengths, Weakness, Opportunities, Threats"
+            ]
+          ],
+          "response_container": {
+            "pointer": "left"
+          },
+          "stimulus": "<h2><span style=\"color:#b22222;\"><b id=\"yui_3_17_2_1_1634312290110_3289\">Let's start by&nbsp;predicting&nbsp;what the lesson is about...</b></span></h2>\n\n<p><img height=\"154\" src=\"https://assets.learnosity.com/organisations/755/2d4e00cf-a1a1-4f69-af3a-de33aff671c0.jpg\" width=\"180\"></p>\n\n<h4>&nbsp;</h4>\n\n<h4 id=\"yui_3_17_2_1_1634312290110_3315\"><b id=\"yui_3_17_2_1_1634312290110_3313\">1.What do you think SWOT means?</b></h4>\n\n<p><img height=\"120\" src=\"https://assets.learnosity.com/organisations/755/fda115b5-eb4b-4d78-bfeb-43e16d895c27.jpg\" width=\"399\"></p>\n",
+          "template": "<span style=\"font-size:1.3em;\"><span style=\"color:#b22222;\">►&nbsp;</span>{{response}}</span>",
+          "type": "clozedropdown",
+          "case_sensitive": true,
+          "validation": {
+            "scoring_type": "exactMatch",
+            "valid_response": {
+              "score": 1,
+              "value": [
+                null
+              ]
+            }
+          },
+          "instant_feedback": true,
+          "shuffle_options": true
+        },
+        "metadata": {
+          "name": "Cloze with drop down",
+          "template_reference": "2fbba51b-e35e-441f-83c7-2662e2e81fa6"
+        }
+      },
+      "feedbackInfo": [
+        {
+          "id": "0707_f0193e9a-90cc-4709-ad82-2f8130228513_e1094ea3-ca71-4f4c-bffa-f1c50395188f_7b544b9e8e848974e5e63dbc56ccce1c",
+          "user_id": "f0193e9a-90cc-4709-ad82-2f8130228513",
+          "response_id": "e1094ea3-ca71-4f4c-bffa-f1c50395188f_7b544b9e8e848974e5e63dbc56ccce1c",
+          "type": "longtextV2",
+          "question": {
+            "type": "longtextV2",
+            "metadata": {
+              "source": {
+                "organisation_id": 755
+              },
+              "sheet_reference": "default_feedback",
+              "widget_reference": "de082b5f-742a-4ecf-82ca-4dc86e218fec",
+              "valid_response_count": 0
+            },
+            "stimulus": "Written feedback:",
+            "response_id": "e1094ea3-ca71-4f4c-bffa-f1c50395188f_7b544b9e8e848974e5e63dbc56ccce1c",
+            "show_word_count": false,
+            "show_word_limit": "off"
+          },
+          "response": null,
+          "creation_date": "2023-07-17 13:50:24",
+          "mod_date": "2023-07-17 13:50:24",
+          "persist_until": "2023-07-18 13:50:24",
+          "saved": false
+        },
+        {
+          "id": "0707_f0193e9a-90cc-4709-ad82-2f8130228513_e1094ea3-ca71-4f4c-bffa-f1c50395188f_3ec349f0bb6db6af7cf05f9c0945453d",
+          "user_id": "f0193e9a-90cc-4709-ad82-2f8130228513",
+          "response_id": "e1094ea3-ca71-4f4c-bffa-f1c50395188f_3ec349f0bb6db6af7cf05f9c0945453d",
+          "type": "audio",
+          "question": {
+            "type": "audio",
+            "metadata": {
+              "source": {
+                "organisation_id": 755
+              },
+              "sheet_reference": "default_feedback",
+              "widget_reference": "b2f049b4-bb33-4542-993d-0645ffedda1a",
+              "valid_response_count": 0
+            },
+            "stimulus": "Audio feedback:",
+            "ui_style": {
+              "type": "button"
+            },
+            "max_length": 600,
+            "response_id": "e1094ea3-ca71-4f4c-bffa-f1c50395188f_3ec349f0bb6db6af7cf05f9c0945453d"
+          },
+          "response": null,
+          "creation_date": "2023-07-17 13:50:25",
+          "mod_date": "2023-07-17 13:50:25",
+          "persist_until": "2023-07-18 13:50:25",
+          "saved": false
+        }
+      ]
+    },
+    {
+      "response_id": "e1094ea3-ca71-4f4c-bffa-f1c50395188f_a6ba27d5ae4badf483200603781a596c",
+      "question_type": "mcq",
+      "dt_score_updated": "2023-07-14T10:21:35Z",
+      "automarkable": true,
+      "attempted": true,
+      "score": 1,
+      "max_score": 1,
+      "question_reference": "8d20167e-2680-47a5-a94b-d5a98a1fa484",
+      "item_reference": "900acef2-054c-4af0-a405-d1dca928ae04",
+      "response": {
+        "value": [
+          "0"
+        ],
+        "type": "array",
+        "apiVersion": "v2.177.28",
+        "revision": 1,
+        "feedbackAttemptsCount": 1
+      },
+      "questionInfo": {
+        "type": "mcq",
+        "widget_type": "response",
+        "reference": "8d20167e-2680-47a5-a94b-d5a98a1fa484",
+        "data": {
+          "options": [
+            {
+              "label": "<span style=\"font-size:1.1em;\">they are things that the company has some control over and can change</span>",
+              "value": "0"
+            },
+            {
+              "label": "<span style=\"font-size:1.1em;\">they are things that only happen in your country</span>",
+              "value": "1"
+            }
+          ],
+          "stimulus": "<p>&nbsp;</p>\n\n<p>&nbsp;</p>\n\n<div class=\"lrn-well\"><span style=\"font-size:1.3em;\"><b>2. Strengths and Weaknesses are <span style=\"color:#0000cd;\">INTERNAL </span>factors because...</b></span></div>\n",
+          "type": "mcq",
+          "ui_style": {
+            "choice_label": "upper-alpha",
+            "type": "block"
+          },
+          "validation": {
+            "scoring_type": "exactMatch",
+            "valid_response": {
+              "score": 1,
+              "value": [
+                "0"
+              ]
+            }
+          },
+          "instant_feedback": true,
+          "shuffle_options": true
+        },
+        "metadata": {
+          "name": "Multiple choice – block layout",
+          "template_reference": "33d53a22-1a59-4a03-9671-7f5104edd62e"
+        }
+      },
+      "feedbackInfo": [
+        {
+          "id": "0707_f0193e9a-90cc-4709-ad82-2f8130228513_e1094ea3-ca71-4f4c-bffa-f1c50395188f_13a08197e1478a74d0e57700de7f01d7",
+          "user_id": "f0193e9a-90cc-4709-ad82-2f8130228513",
+          "response_id": "e1094ea3-ca71-4f4c-bffa-f1c50395188f_13a08197e1478a74d0e57700de7f01d7",
+          "type": "longtextV2",
+          "question": {
+            "type": "longtextV2",
+            "metadata": {
+              "source": {
+                "organisation_id": 755
+              },
+              "sheet_reference": "default_feedback",
+              "widget_reference": "de082b5f-742a-4ecf-82ca-4dc86e218fec",
+              "valid_response_count": 0
+            },
+            "stimulus": "Written feedback:",
+            "response_id": "e1094ea3-ca71-4f4c-bffa-f1c50395188f_13a08197e1478a74d0e57700de7f01d7",
+            "show_word_count": false,
+            "show_word_limit": "off"
+          },
+          "response": null,
+          "creation_date": "2023-07-17 13:50:25",
+          "mod_date": "2023-07-17 13:50:25",
+          "persist_until": "2023-07-18 13:50:25",
+          "saved": false
+        },
+        {
+          "id": "0707_f0193e9a-90cc-4709-ad82-2f8130228513_e1094ea3-ca71-4f4c-bffa-f1c50395188f_cdc053104028bfc5cfeaab018c2f5adb",
+          "user_id": "f0193e9a-90cc-4709-ad82-2f8130228513",
+          "response_id": "e1094ea3-ca71-4f4c-bffa-f1c50395188f_cdc053104028bfc5cfeaab018c2f5adb",
+          "type": "audio",
+          "question": {
+            "type": "audio",
+            "metadata": {
+              "source": {
+                "organisation_id": 755
+              },
+              "sheet_reference": "default_feedback",
+              "widget_reference": "b2f049b4-bb33-4542-993d-0645ffedda1a",
+              "valid_response_count": 0
+            },
+            "stimulus": "Audio feedback:",
+            "ui_style": {
+              "type": "button"
+            },
+            "max_length": 600,
+            "response_id": "e1094ea3-ca71-4f4c-bffa-f1c50395188f_cdc053104028bfc5cfeaab018c2f5adb"
+          },
+          "response": null,
+          "creation_date": "2023-07-17 13:50:25",
+          "mod_date": "2023-07-17 13:50:25",
+          "persist_until": "2023-07-18 13:50:25",
+          "saved": false
+        }
+      ]
+    },
+    {
+      "response_id": "e1094ea3-ca71-4f4c-bffa-f1c50395188f_50f27cebb86b4ec5855ef986ccef4f35",
+      "question_type": "mcq",
+      "dt_score_updated": "2023-07-14T10:21:35Z",
+      "automarkable": true,
+      "attempted": true,
+      "score": 1,
+      "max_score": 1,
+      "question_reference": "540a474a-1463-4251-b233-3cd92aa84b6d",
+      "item_reference": "900acef2-054c-4af0-a405-d1dca928ae04",
+      "response": {
+        "value": [
+          "0"
+        ],
+        "type": "array",
+        "apiVersion": "v2.177.28",
+        "revision": 1,
+        "feedbackAttemptsCount": 1
+      },
+      "questionInfo": {
+        "type": "mcq",
+        "widget_type": "response",
+        "reference": "540a474a-1463-4251-b233-3cd92aa84b6d",
+        "data": {
+          "options": [
+            {
+              "label": "<span style=\"font-size:1.1em;\">they are things that are going on outside the company, in the larger market</span>",
+              "value": "0"
+            },
+            {
+              "label": "<span style=\"font-size:1.1em;\">they are things that only happen outside your country</span>",
+              "value": "1"
+            }
+          ],
+          "stimulus": "<div class=\"lrn-well\"><span style=\"font-size:1.3em;\"><b>3. Opportunities and Strengths are&nbsp;<span style=\"color:#0000cd;\">EXTERNAL</span>&nbsp;factors because...</b></span></div>\n",
+          "type": "mcq",
+          "ui_style": {
+            "choice_label": "upper-alpha",
+            "type": "block"
+          },
+          "validation": {
+            "scoring_type": "exactMatch",
+            "valid_response": {
+              "score": 1,
+              "value": [
+                "0"
+              ]
+            }
+          },
+          "instant_feedback": true,
+          "shuffle_options": true
+        },
+        "metadata": {
+          "name": "Multiple choice – block layout",
+          "template_reference": "33d53a22-1a59-4a03-9671-7f5104edd62e"
+        }
+      },
+      "feedbackInfo": [
+        {
+          "id": "0707_f0193e9a-90cc-4709-ad82-2f8130228513_e1094ea3-ca71-4f4c-bffa-f1c50395188f_d4ee3928c0010a175b1dfae2e03036c9",
+          "user_id": "f0193e9a-90cc-4709-ad82-2f8130228513",
+          "response_id": "e1094ea3-ca71-4f4c-bffa-f1c50395188f_d4ee3928c0010a175b1dfae2e03036c9",
+          "type": "longtextV2",
+          "question": {
+            "type": "longtextV2",
+            "metadata": {
+              "source": {
+                "organisation_id": 755
+              },
+              "sheet_reference": "default_feedback",
+              "widget_reference": "de082b5f-742a-4ecf-82ca-4dc86e218fec",
+              "valid_response_count": 0
+            },
+            "stimulus": "Written feedback:",
+            "response_id": "e1094ea3-ca71-4f4c-bffa-f1c50395188f_d4ee3928c0010a175b1dfae2e03036c9",
+            "show_word_count": false,
+            "show_word_limit": "off"
+          },
+          "response": null,
+          "creation_date": "2023-07-17 13:50:25",
+          "mod_date": "2023-07-17 13:50:25",
+          "persist_until": "2023-07-18 13:50:25",
+          "saved": false
+        },
+        {
+          "id": "0707_f0193e9a-90cc-4709-ad82-2f8130228513_e1094ea3-ca71-4f4c-bffa-f1c50395188f_32806a6afd6b0964704aa1293574566b",
+          "user_id": "f0193e9a-90cc-4709-ad82-2f8130228513",
+          "response_id": "e1094ea3-ca71-4f4c-bffa-f1c50395188f_32806a6afd6b0964704aa1293574566b",
+          "type": "audio",
+          "question": {
+            "type": "audio",
+            "metadata": {
+              "source": {
+                "organisation_id": 755
+              },
+              "sheet_reference": "default_feedback",
+              "widget_reference": "b2f049b4-bb33-4542-993d-0645ffedda1a",
+              "valid_response_count": 0
+            },
+            "stimulus": "Audio feedback:",
+            "ui_style": {
+              "type": "button"
+            },
+            "max_length": 600,
+            "response_id": "e1094ea3-ca71-4f4c-bffa-f1c50395188f_32806a6afd6b0964704aa1293574566b"
+          },
+          "response": null,
+          "creation_date": "2023-07-17 13:50:25",
+          "mod_date": "2023-07-17 13:50:25",
+          "persist_until": "2023-07-18 13:50:25",
+          "saved": false
+        }
+      ]
+    },
+    {
+      "response_id": "e1094ea3-ca71-4f4c-bffa-f1c50395188f_67ec943e62a58e76b81dec5446b59786",
+      "question_type": "association",
+      "dt_score_updated": "2023-07-14T10:22:02Z",
+      "automarkable": true,
+      "attempted": true,
+      "score": 4,
+      "max_score": 4,
+      "question_reference": "eb3e3fcc-78ac-468b-89ba-b65b8700f5e4",
+      "item_reference": "2113b8da-9def-40fb-91e2-d00eb52a555b",
+      "response": {
+        "value": [
+          "things that your company is good at",
+          "things that your company does not do well",
+          "things that are happening in the market that can help your company",
+          "things that are happening in the market that can cause problems for your company"
+        ],
+        "type": "array",
+        "updatedFormat": true,
+        "apiVersion": "v2.177.28",
+        "revision": 2,
+        "feedbackAttemptsCount": 1
+      },
+      "questionInfo": {
+        "type": "association",
+        "widget_type": "response",
+        "reference": "eb3e3fcc-78ac-468b-89ba-b65b8700f5e4",
+        "data": {
+          "possible_responses": [
+            "things that are happening in the market that can cause problems for your company",
+            "things that your company is good at",
+            "things that your company does not do well",
+            "things that are happening in the market that can help your company"
+          ],
+          "stimulus": "<h2>&nbsp;</h2>\n\n<h2 id=\"yui_3_17_2_1_1634312591337_167\"><span style=\"color:#0000cd;\"><b id=\"yui_3_17_2_1_1634312591337_166\"><b id=\"yui_3_17_2_1_1634312591337_164\">Match the two parts of the sentences below.</b></b></span></h2>\n\n<p><img height=\"137\" src=\"https://assets.learnosity.com/organisations/755/44145267-ce82-4c00-ac97-bd81c88044d6.jpg\" width=\"201\"></p>\n",
+          "stimulus_list": [
+            "<span style=\"font-size:1.3em;\"><span style=\"color:#008000;\"><strong>STRENGTHS&nbsp;</strong></span>are&nbsp;</span>",
+            "<span style=\"font-size:1.3em;\"><span style=\"color:#ff0000;\"><strong>WEAKNESSES&nbsp;</strong></span>are&nbsp;</span>",
+            "<span style=\"font-size:1.3em;\"><span style=\"color:#008000;\"><strong>OPPORTUNITIES&nbsp;</strong></span>are&nbsp;</span>",
+            "<span style=\"font-size:1.3em;\"><span style=\"color:#ff0000;\"><strong>THREATS&nbsp;</strong></span>are&nbsp;</span>"
+          ],
+          "type": "association",
+          "validation": {
+            "scoring_type": "partialMatchV2",
+            "valid_response": {
+              "score": 4,
+              "value": [
+                "things that your company is good at",
+                "things that your company does not do well",
+                "things that are happening in the market that can help your company",
+                "things that are happening in the market that can cause problems for your company"
+              ]
+            }
+          },
+          "instant_feedback": true
+        },
+        "metadata": {
+          "name": "Match list",
+          "template_reference": "1fa22aac-1f88-47f7-941b-3c77759549e6"
+        }
+      },
+      "feedbackInfo": [
+        {
+          "id": "0707_f0193e9a-90cc-4709-ad82-2f8130228513_e1094ea3-ca71-4f4c-bffa-f1c50395188f_e37435aafd4b30d230840e3169a56e4a",
+          "user_id": "f0193e9a-90cc-4709-ad82-2f8130228513",
+          "response_id": "e1094ea3-ca71-4f4c-bffa-f1c50395188f_e37435aafd4b30d230840e3169a56e4a",
+          "type": "longtextV2",
+          "question": {
+            "type": "longtextV2",
+            "metadata": {
+              "source": {
+                "organisation_id": 755
+              },
+              "sheet_reference": "default_feedback",
+              "widget_reference": "de082b5f-742a-4ecf-82ca-4dc86e218fec",
+              "valid_response_count": 0
+            },
+            "stimulus": "Written feedback:",
+            "response_id": "e1094ea3-ca71-4f4c-bffa-f1c50395188f_e37435aafd4b30d230840e3169a56e4a",
+            "show_word_count": false,
+            "show_word_limit": "off"
+          },
+          "response": null,
+          "creation_date": "2023-07-17 13:50:26",
+          "mod_date": "2023-07-17 13:50:26",
+          "persist_until": "2023-07-18 13:50:26",
+          "saved": false
+        },
+        {
+          "id": "0707_f0193e9a-90cc-4709-ad82-2f8130228513_e1094ea3-ca71-4f4c-bffa-f1c50395188f_c2243a057bc047682d39e4608ccdd9db",
+          "user_id": "f0193e9a-90cc-4709-ad82-2f8130228513",
+          "response_id": "e1094ea3-ca71-4f4c-bffa-f1c50395188f_c2243a057bc047682d39e4608ccdd9db",
+          "type": "audio",
+          "question": {
+            "type": "audio",
+            "metadata": {
+              "source": {
+                "organisation_id": 755
+              },
+              "sheet_reference": "default_feedback",
+              "widget_reference": "b2f049b4-bb33-4542-993d-0645ffedda1a",
+              "valid_response_count": 0
+            },
+            "stimulus": "Audio feedback:",
+            "ui_style": {
+              "type": "button"
+            },
+            "max_length": 600,
+            "response_id": "e1094ea3-ca71-4f4c-bffa-f1c50395188f_c2243a057bc047682d39e4608ccdd9db"
+          },
+          "response": null,
+          "creation_date": "2023-07-17 13:50:26",
+          "mod_date": "2023-07-17 13:50:26",
+          "persist_until": "2023-07-18 13:50:26",
+          "saved": false
+        }
+      ]
+    },
+    {
+      "response_id": "e1094ea3-ca71-4f4c-bffa-f1c50395188f_fd1bc205a279183324d91f72d257289b",
+      "question_type": "clozedropdown",
+      "dt_score_updated": "2023-07-14T10:56:15Z",
+      "automarkable": true,
+      "attempted": true,
+      "score": 4,
+      "max_score": 4,
+      "question_reference": "dad106bc-41c8-4c59-936f-58429fea0946",
+      "item_reference": "2113b8da-9def-40fb-91e2-d00eb52a555b",
+      "response": {
+        "value": [
+          "Strengths",
+          "Opportunities",
+          "Opportunities",
+          "Strengths"
+        ],
+        "type": "array",
+        "apiVersion": "v2.177.28",
+        "revision": 3,
+        "feedbackAttemptsCount": 1
+      },
+      "questionInfo": {
+        "type": "clozedropdown",
+        "widget_type": "response",
+        "reference": "dad106bc-41c8-4c59-936f-58429fea0946",
+        "data": {
+          "possible_responses": [
+            [
+              "Strengths",
+              "Opportunities"
+            ],
+            [
+              "Strengths",
+              "Opportunities"
+            ],
+            [
+              "Strengths",
+              "Opportunities"
+            ],
+            [
+              "Strengths",
+              "Opportunities"
+            ]
+          ],
+          "response_container": {
+            "pointer": "left"
+          },
+          "stimulus": "<h2><b>The Positive Points:&nbsp;<span style=\"color:#008000;\">Strengths and Opportunities</span>&nbsp;</b></h2>\n\n<p><img height=\"161\" src=\"https://assets.learnosity.com/organisations/755/5c24e302-1ca7-4b7d-9e0a-4f9e0dc5a80a.jpg\" width=\"351\"></p>\n\n<h4><b>Consider the statements below.&nbsp;</b></h4>\n\n<h4><b><span style=\"color:#008000;\">► </span>Are they&nbsp;<span style=\"color:#008000;\">strengths</span>&nbsp;(<u>internal</u> factors) or&nbsp;<span style=\"color:#008000;\">opportunities</span>&nbsp;(<u>external</u> factors)?</b></h4>\n",
+          "template": "<ul id=\"yui_3_17_2_1_1634312951008_3276\">\n\t<li id=\"yui_3_17_2_1_1634312951008_3301\"><strong><span style=\"font-size:1.3em;\">Advantages that your organization has. {{response}}</span></strong></li>\n\t<li id=\"yui_3_17_2_1_1634312951008_3305\"><strong><span style=\"font-size:1.3em;\">Interesting trends that are happening in the market. {{response}}</span></strong></li>\n\t<li id=\"yui_3_17_2_1_1634312951008_3308\"><strong><span style=\"font-size:1.3em;\">Changes in technology that can help your company. {{response}}</span></strong></li>\n\t<li id=\"yui_3_17_2_1_1634312951008_3312\"><span style=\"font-size:1.3em;\"><strong>Things your company does better than anyone else. {{response}}</strong></span></li>\n</ul>\n",
+          "type": "clozedropdown",
+          "case_sensitive": true,
+          "validation": {
+            "scoring_type": "partialMatchV2",
+            "valid_response": {
+              "score": 4,
+              "value": [
+                "Strengths",
+                "Opportunities",
+                "Opportunities",
+                "Strengths"
+              ]
+            }
+          },
+          "instant_feedback": true
+        },
+        "metadata": {
+          "name": "Cloze with drop down",
+          "template_reference": "2fbba51b-e35e-441f-83c7-2662e2e81fa6"
+        }
+      },
+      "feedbackInfo": [
+        {
+          "id": "0707_f0193e9a-90cc-4709-ad82-2f8130228513_e1094ea3-ca71-4f4c-bffa-f1c50395188f_8a65217f700f38a9b9106a253bbb8e7c",
+          "user_id": "f0193e9a-90cc-4709-ad82-2f8130228513",
+          "response_id": "e1094ea3-ca71-4f4c-bffa-f1c50395188f_8a65217f700f38a9b9106a253bbb8e7c",
+          "type": "longtextV2",
+          "question": {
+            "type": "longtextV2",
+            "metadata": {
+              "source": {
+                "organisation_id": 755
+              },
+              "sheet_reference": "default_feedback",
+              "widget_reference": "de082b5f-742a-4ecf-82ca-4dc86e218fec",
+              "valid_response_count": 0
+            },
+            "stimulus": "Written feedback:",
+            "response_id": "e1094ea3-ca71-4f4c-bffa-f1c50395188f_8a65217f700f38a9b9106a253bbb8e7c",
+            "show_word_count": false,
+            "show_word_limit": "off"
+          },
+          "response": null,
+          "creation_date": "2023-07-17 13:50:26",
+          "mod_date": "2023-07-17 13:50:26",
+          "persist_until": "2023-07-18 13:50:26",
+          "saved": false
+        },
+        {
+          "id": "0707_f0193e9a-90cc-4709-ad82-2f8130228513_e1094ea3-ca71-4f4c-bffa-f1c50395188f_66f5158e327795a8844b8b18a1c62aa8",
+          "user_id": "f0193e9a-90cc-4709-ad82-2f8130228513",
+          "response_id": "e1094ea3-ca71-4f4c-bffa-f1c50395188f_66f5158e327795a8844b8b18a1c62aa8",
+          "type": "audio",
+          "question": {
+            "type": "audio",
+            "metadata": {
+              "source": {
+                "organisation_id": 755
+              },
+              "sheet_reference": "default_feedback",
+              "widget_reference": "b2f049b4-bb33-4542-993d-0645ffedda1a",
+              "valid_response_count": 0
+            },
+            "stimulus": "Audio feedback:",
+            "ui_style": {
+              "type": "button"
+            },
+            "max_length": 600,
+            "response_id": "e1094ea3-ca71-4f4c-bffa-f1c50395188f_66f5158e327795a8844b8b18a1c62aa8"
+          },
+          "response": null,
+          "creation_date": "2023-07-17 13:50:26",
+          "mod_date": "2023-07-17 13:50:26",
+          "persist_until": "2023-07-18 13:50:26",
+          "saved": false
+        }
+      ]
+    },
+    {
+      "response_id": "e1094ea3-ca71-4f4c-bffa-f1c50395188f_449bd08b25167734415c62d2a67ed0f1",
+      "question_type": "clozedropdown",
+      "dt_score_updated": "2023-07-14T10:59:35Z",
+      "automarkable": true,
+      "attempted": true,
+      "score": 1,
+      "max_score": 1,
+      "question_reference": "3f8aa847-8ed2-4a17-ba7b-fb632899e9ee",
+      "item_reference": "2113b8da-9def-40fb-91e2-d00eb52a555b",
+      "response": {
+        "value": [
+          "Threats",
+          "Threats",
+          "Weaknesses",
+          "Weaknesses"
+        ],
+        "type": "array",
+        "apiVersion": "v2.177.28",
+        "revision": 1,
+        "feedbackAttemptsCount": 1
+      },
+      "questionInfo": {
+        "type": "clozedropdown",
+        "widget_type": "response",
+        "reference": "3f8aa847-8ed2-4a17-ba7b-fb632899e9ee",
+        "data": {
+          "possible_responses": [
+            [
+              "Weaknesses",
+              "Threats"
+            ],
+            [
+              "Weaknesses",
+              "Threats"
+            ],
+            [
+              "Weaknesses",
+              "Threats"
+            ],
+            [
+              "Weaknesses",
+              "Threats"
+            ]
+          ],
+          "response_container": {
+            "pointer": "left"
+          },
+          "stimulus": "<h2><span style=\"color:#ff0000;\"><b>The Negative Points:&nbsp;Weaknesses and Threats&nbsp;&nbsp;</b></span></h2>\n\n<p><img height=\"167\" src=\"https://assets.learnosity.com/organisations/755/b0df46a8-70a9-46f8-9b8d-3e3574c19668.jpg\" width=\"350\" /></p>\n\n<h4><b>Consider the statements below.&nbsp;</b></h4>\n\n<h4><b><span style=\"color:#ff0000;\">► </span>Are they&nbsp;<span style=\"color:#ff0000;\">weaknesses&nbsp;</span>(<u>internal</u> factors) or&nbsp;<span style=\"color:#ff0000;\">threats&nbsp;</span>(<u>external</u> factors)?</b></h4>\n",
+          "template": "<ul>\n\t<li><span style=\"font-size:1.3em;\"><strong>Changes in regulations that can cause problems to your company.&nbsp;</strong>{{response}}</span></li>\n\t<li><span style=\"font-size:1.3em;\"><strong>What your competitors are doing. </strong>{{response}}</span></li>\n\t<li><span style=\"font-size:1.3em;\"><strong>Things that needs to be changed in your company. </strong>{{response}}</span></li>\n\t<li><span style=\"font-size:1.3em;\"><strong>Parts of your company that need to improve. </strong>{{response}}</span><strong><span style=\"font-size:1.3em;\"></span></strong></li>\n</ul>\n",
+          "type": "clozedropdown",
+          "case_sensitive": true,
+          "validation": {
+            "scoring_type": "partialMatchV2",
+            "valid_response": {
+              "score": 1,
+              "value": [
+                "Threats",
+                "Threats",
+                "Weaknesses",
+                "Weaknesses"
+              ]
+            }
+          },
+          "instant_feedback": true
+        },
+        "metadata": {
+          "name": "Cloze with drop down",
+          "template_reference": "2fbba51b-e35e-441f-83c7-2662e2e81fa6"
+        }
+      },
+      "feedbackInfo": [
+        {
+          "id": "0707_f0193e9a-90cc-4709-ad82-2f8130228513_e1094ea3-ca71-4f4c-bffa-f1c50395188f_0d148b3f0b0d1009406ea7a66008e17d",
+          "user_id": "f0193e9a-90cc-4709-ad82-2f8130228513",
+          "response_id": "e1094ea3-ca71-4f4c-bffa-f1c50395188f_0d148b3f0b0d1009406ea7a66008e17d",
+          "type": "longtextV2",
+          "question": {
+            "type": "longtextV2",
+            "metadata": {
+              "source": {
+                "organisation_id": 755
+              },
+              "sheet_reference": "default_feedback",
+              "widget_reference": "de082b5f-742a-4ecf-82ca-4dc86e218fec",
+              "valid_response_count": 0
+            },
+            "stimulus": "Written feedback:",
+            "response_id": "e1094ea3-ca71-4f4c-bffa-f1c50395188f_0d148b3f0b0d1009406ea7a66008e17d",
+            "show_word_count": false,
+            "show_word_limit": "off"
+          },
+          "response": null,
+          "creation_date": "2023-07-17 13:50:26",
+          "mod_date": "2023-07-17 13:50:26",
+          "persist_until": "2023-07-18 13:50:26",
+          "saved": false
+        },
+        {
+          "id": "0707_f0193e9a-90cc-4709-ad82-2f8130228513_e1094ea3-ca71-4f4c-bffa-f1c50395188f_9941b32768e9cde3c93aa7ee232fb369",
+          "user_id": "f0193e9a-90cc-4709-ad82-2f8130228513",
+          "response_id": "e1094ea3-ca71-4f4c-bffa-f1c50395188f_9941b32768e9cde3c93aa7ee232fb369",
+          "type": "audio",
+          "question": {
+            "type": "audio",
+            "metadata": {
+              "source": {
+                "organisation_id": 755
+              },
+              "sheet_reference": "default_feedback",
+              "widget_reference": "b2f049b4-bb33-4542-993d-0645ffedda1a",
+              "valid_response_count": 0
+            },
+            "stimulus": "Audio feedback:",
+            "ui_style": {
+              "type": "button"
+            },
+            "max_length": 600,
+            "response_id": "e1094ea3-ca71-4f4c-bffa-f1c50395188f_9941b32768e9cde3c93aa7ee232fb369"
+          },
+          "response": null,
+          "creation_date": "2023-07-17 13:50:26",
+          "mod_date": "2023-07-17 13:50:26",
+          "persist_until": "2023-07-18 13:50:26",
+          "saved": false
+        }
+      ]
+    },
+    {
+      "response_id": "e1094ea3-ca71-4f4c-bffa-f1c50395188f_81c0e1501f451774424dcf0a5b9e78f7",
+      "question_type": "mcq",
+      "dt_score_updated": "2023-07-14T10:22:31Z",
+      "automarkable": true,
+      "attempted": true,
+      "score": 1,
+      "max_score": 1,
+      "question_reference": "e05267ad-c539-4657-82df-8e9176d0ca59",
+      "item_reference": "5f17df18-b04d-4e80-9d0a-45f525c33cc1",
+      "response": {
+        "value": [
+          "2"
+        ],
+        "type": "array",
+        "apiVersion": "v2.177.28",
+        "revision": 1,
+        "feedbackAttemptsCount": 2
+      },
+      "questionInfo": {
+        "type": "mcq",
+        "widget_type": "response",
+        "reference": "e05267ad-c539-4657-82df-8e9176d0ca59",
+        "data": {
+          "options": [
+            {
+              "label": "<span style=\"color:#000000;\"><strong><span style=\"font-size:1.1em;\">Introduction</span></strong></span>",
+              "value": "0"
+            },
+            {
+              "label": "<span style=\"color:#000000;\"><span style=\"font-size:1.1em;\"><strong>Research Methods</strong></span></span>",
+              "value": "1"
+            },
+            {
+              "label": "<span style=\"color:#000000;\"><span style=\"font-size:1.1em;\"><strong>Secondary Research</strong></span></span>",
+              "value": "2"
+            },
+            {
+              "label": "<span style=\"color:#000000;\"><span style=\"font-size:1.1em;\"><strong>Conclusion</strong></span></span>",
+              "value": "3"
+            }
+          ],
+          "stimulus": "<h2><span style=\"color:#000000;\"><strong>Consider what you learned in the lesson \"</strong></span><span style=\"color:#b22222;\"><strong>Planning your Market Report</strong></span><span style=\"color:#000000;\"><strong>\".</strong></span></h2>\n\n<p><span style=\"color:#000000;\"><img height=\"150\" src=\"https://assets.learnosity.com/organisations/755/95f9ef2f-8e89-4464-b030-a445c02c9003.jpg\" width=\"175\" /></span></p>\n\n<div class=\"lrn-well\"><span style=\"font-size:1.5em;\"><span style=\"color:#000000;\"><strong>In which </strong></span><span style=\"color:#b22222;\"><strong>section </strong></span><span style=\"color:#000000;\"><strong>of the report should you write your SWOT analysis?</strong></span></span></div>\n",
+          "type": "mcq",
+          "ui_style": {
+            "choice_label": "upper-alpha",
+            "type": "block"
+          },
+          "validation": {
+            "scoring_type": "exactMatch",
+            "valid_response": {
+              "score": 1,
+              "value": [
+                "2"
+              ]
+            }
+          },
+          "instant_feedback": true
+        },
+        "metadata": {
+          "name": "Multiple choice – block layout",
+          "template_reference": "33d53a22-1a59-4a03-9671-7f5104edd62e"
+        }
+      },
+      "feedbackInfo": [
+        {
+          "id": "0707_f0193e9a-90cc-4709-ad82-2f8130228513_e1094ea3-ca71-4f4c-bffa-f1c50395188f_e664321e75050f4e156f72f08b6e94df",
+          "user_id": "f0193e9a-90cc-4709-ad82-2f8130228513",
+          "response_id": "e1094ea3-ca71-4f4c-bffa-f1c50395188f_e664321e75050f4e156f72f08b6e94df",
+          "type": "longtextV2",
+          "question": {
+            "type": "longtextV2",
+            "metadata": {
+              "source": {
+                "organisation_id": 755
+              },
+              "sheet_reference": "default_feedback",
+              "widget_reference": "de082b5f-742a-4ecf-82ca-4dc86e218fec",
+              "valid_response_count": 0
+            },
+            "stimulus": "Written feedback:",
+            "response_id": "e1094ea3-ca71-4f4c-bffa-f1c50395188f_e664321e75050f4e156f72f08b6e94df",
+            "show_word_count": false,
+            "show_word_limit": "off"
+          },
+          "response": null,
+          "creation_date": "2023-07-17 13:50:27",
+          "mod_date": "2023-07-17 13:50:27",
+          "persist_until": "2023-07-18 13:50:27",
+          "saved": false
+        },
+        {
+          "id": "0707_f0193e9a-90cc-4709-ad82-2f8130228513_e1094ea3-ca71-4f4c-bffa-f1c50395188f_1db6eb5b158e9d943958aec26059b7e6",
+          "user_id": "f0193e9a-90cc-4709-ad82-2f8130228513",
+          "response_id": "e1094ea3-ca71-4f4c-bffa-f1c50395188f_1db6eb5b158e9d943958aec26059b7e6",
+          "type": "audio",
+          "question": {
+            "type": "audio",
+            "metadata": {
+              "source": {
+                "organisation_id": 755
+              },
+              "sheet_reference": "default_feedback",
+              "widget_reference": "b2f049b4-bb33-4542-993d-0645ffedda1a",
+              "valid_response_count": 0
+            },
+            "stimulus": "Audio feedback:",
+            "ui_style": {
+              "type": "button"
+            },
+            "max_length": 600,
+            "response_id": "e1094ea3-ca71-4f4c-bffa-f1c50395188f_1db6eb5b158e9d943958aec26059b7e6"
+          },
+          "response": null,
+          "creation_date": "2023-07-17 13:50:27",
+          "mod_date": "2023-07-17 13:50:27",
+          "persist_until": "2023-07-18 13:50:27",
+          "saved": false
+        }
+      ]
+    },
+    {
+      "response_id": "e1094ea3-ca71-4f4c-bffa-f1c50395188f_8b410f552387575037b1184f79355ec0",
+      "question_type": "imageclozeassociationV2",
+      "dt_score_updated": "2023-07-14T10:24:40Z",
+      "automarkable": true,
+      "attempted": true,
+      "score": 8,
+      "max_score": 8,
+      "question_reference": "24ddd1ad-5839-487b-b44e-36414dc5c37a",
+      "item_reference": "5f17df18-b04d-4e80-9d0a-45f525c33cc1",
+      "response": {
+        "value": [
+          [
+            "What advantages does the university / your course have?",
+            "What does the university / your course offer that is better than any other?"
+          ],
+          [
+            "Which parts of your course need to be improved?",
+            "What doesn't the university / your course offer?"
+          ],
+          [
+            "What interesting trends are you aware of?",
+            "What global changes can help the university / your course?"
+          ],
+          [
+            "What are our competitors doing?",
+            "What global changes can cause problems?"
+          ]
+        ],
+        "type": "array",
+        "apiVersion": "v2.177.28",
+        "revision": 4,
+        "feedbackAttemptsCount": 1
+      },
+      "questionInfo": {
+        "type": "imageclozeassociationV2",
+        "widget_type": "response",
+        "reference": "24ddd1ad-5839-487b-b44e-36414dc5c37a",
+        "data": {
+          "image": {
+            "src": "https://assets.learnosity.com/organisations/755/fbb6b004-3c49-4c81-a3b5-4e39587a7ed3.jpg",
+            "width": 900,
+            "height": 294
+          },
+          "possible_responses": [
+            "What advantages does the university / your course have?",
+            "What does the university / your course offer that is better than any other?",
+            "What interesting trends are you aware of?",
+            "What global changes can help the university / your course?",
+            "What doesn't the university / your course offer?",
+            "What global changes can cause problems?",
+            "Which parts of your course need to be improved?",
+            "What are our competitors doing?"
+          ],
+          "response_containers": [
+            {
+              "x": 4.33,
+              "y": 11.9,
+              "width": "35.41%",
+              "height": "41.29%",
+              "aria_label": "",
+              "pointer": "undefined"
+            },
+            {
+              "x": 43.89,
+              "y": 11.9,
+              "width": "35.63%",
+              "height": "40.95%",
+              "aria_label": "",
+              "pointer": "undefined"
+            },
+            {
+              "x": 4.22,
+              "y": 60.88,
+              "width": "35.51%",
+              "height": "38.74%",
+              "aria_label": "",
+              "pointer": "undefined"
+            },
+            {
+              "x": 43.67,
+              "y": 61.22,
+              "aria_label": "",
+              "width": "35.99%",
+              "height": "39.08%",
+              "pointer": "none"
+            }
+          ],
+          "stimulus": "<h3>&nbsp;</h3>\n\n<h3><b>The topic of your <span style=\"color:#0000ff;\">Market Report </span>is&nbsp;<span style=\"color:#0000ff;\">Coventry</span><span style=\"color:#0000ff;\"> University London</span> and <span style=\"color:#0000ff;\">your destination course</span>.</b></h3>\n\n<h4><span style=\"color:#0000cd;\">►&nbsp;</span><b id=\"yui_3_17_2_1_1634313248685_126\">Your SWOT analysis should try to answer these questions:</b></h4>\n\n<p>&nbsp;</p>\n",
+          "type": "imageclozeassociationV2",
+          "case_sensitive": true,
+          "validation": {
+            "scoring_type": "partialMatchV2",
+            "valid_response": {
+              "score": 8,
+              "value": [
+                [
+                  "What does the university / your course offer that is better than any other?",
+                  "What advantages does the university / your course have?"
+                ],
+                [
+                  "Which parts of your course need to be improved?",
+                  "What doesn't the university / your course offer?"
+                ],
+                [
+                  "What interesting trends are you aware of?",
+                  "What global changes can help the university / your course?"
+                ],
+                [
+                  "What global changes can cause problems?",
+                  "What are our competitors doing?"
+                ]
+              ]
+            }
+          },
+          "ui_style": {
+            "show_drag_handle": true
+          },
+          "instant_feedback": true,
+          "shuffle_options": true,
+          "max_response_per_zone": 2,
+          "response_container": {
+            "background_color": "rgba(255, 255, 255, 0)"
+          }
+        },
+        "metadata": {
+          "name": "Label image with drag & drop",
+          "template_reference": "6e77b403-8f0c-43af-b464-9450e1ac70dc"
+        }
+      },
+      "feedbackInfo": [
+        {
+          "id": "0707_f0193e9a-90cc-4709-ad82-2f8130228513_e1094ea3-ca71-4f4c-bffa-f1c50395188f_68eb2760bbd123391b38eb3d682ae006",
+          "user_id": "f0193e9a-90cc-4709-ad82-2f8130228513",
+          "response_id": "e1094ea3-ca71-4f4c-bffa-f1c50395188f_68eb2760bbd123391b38eb3d682ae006",
+          "type": "longtextV2",
+          "question": {
+            "type": "longtextV2",
+            "metadata": {
+              "source": {
+                "organisation_id": 755
+              },
+              "sheet_reference": "default_feedback",
+              "widget_reference": "de082b5f-742a-4ecf-82ca-4dc86e218fec",
+              "valid_response_count": 0
+            },
+            "stimulus": "Written feedback:",
+            "response_id": "e1094ea3-ca71-4f4c-bffa-f1c50395188f_68eb2760bbd123391b38eb3d682ae006",
+            "show_word_count": false,
+            "show_word_limit": "off"
+          },
+          "response": null,
+          "creation_date": "2023-07-17 13:50:27",
+          "mod_date": "2023-07-17 13:50:27",
+          "persist_until": "2023-07-18 13:50:27",
+          "saved": false
+        },
+        {
+          "id": "0707_f0193e9a-90cc-4709-ad82-2f8130228513_e1094ea3-ca71-4f4c-bffa-f1c50395188f_2ec665e5bf1261523919f885c1427238",
+          "user_id": "f0193e9a-90cc-4709-ad82-2f8130228513",
+          "response_id": "e1094ea3-ca71-4f4c-bffa-f1c50395188f_2ec665e5bf1261523919f885c1427238",
+          "type": "audio",
+          "question": {
+            "type": "audio",
+            "metadata": {
+              "source": {
+                "organisation_id": 755
+              },
+              "sheet_reference": "default_feedback",
+              "widget_reference": "b2f049b4-bb33-4542-993d-0645ffedda1a",
+              "valid_response_count": 0
+            },
+            "stimulus": "Audio feedback:",
+            "ui_style": {
+              "type": "button"
+            },
+            "max_length": 600,
+            "response_id": "e1094ea3-ca71-4f4c-bffa-f1c50395188f_2ec665e5bf1261523919f885c1427238"
+          },
+          "response": null,
+          "creation_date": "2023-07-17 13:50:27",
+          "mod_date": "2023-07-17 13:50:27",
+          "persist_until": "2023-07-18 13:50:27",
+          "saved": false
+        }
+      ]
+    }
+  ]
+}

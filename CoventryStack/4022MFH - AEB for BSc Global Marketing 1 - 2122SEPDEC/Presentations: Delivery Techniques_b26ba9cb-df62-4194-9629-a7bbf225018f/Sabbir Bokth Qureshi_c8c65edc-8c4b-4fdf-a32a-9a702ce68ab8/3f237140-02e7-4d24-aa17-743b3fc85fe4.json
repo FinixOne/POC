@@ -1,0 +1,166 @@
+{
+  "userId": "c8c65edc-8c4b-4fdf-a32a-9a702ce68ab8",
+  "firstName": "Sabbir Bokth Qureshi",
+  "lastName": "Tipu",
+  "assigmentId": "b26ba9cb-df62-4194-9629-a7bbf225018f",
+  "assigmentName": "Presentations: Delivery Techniques",
+  "sessionId": "3f237140-02e7-4d24-aa17-743b3fc85fe4",
+  "email": "tipus@coventry.ac.uk",
+  "spaceId": "f0a13960-3d9c-44e4-804c-8b435a1cfd62",
+  "spaceName": "4022MFH - AEB for BSc Global Marketing 1 - 2122SEPDEC",
+  "score": 0,
+  "max_score": 1,
+  "questions": [
+    {
+      "response_id": "3f237140-02e7-4d24-aa17-743b3fc85fe4_a7a900b234a286c81cf8768282b7e1a1",
+      "question_type": "classification",
+      "dt_score_updated": "2021-10-16T19:04:43Z",
+      "automarkable": true,
+      "attempted": true,
+      "score": 0,
+      "max_score": 1,
+      "question_reference": "d3181523-5030-4fd2-ba67-102011ac8956",
+      "item_reference": "0de5b677-ad92-4885-a429-4f63d8409590",
+      "response": {
+        "value": [
+          [
+            13,
+            5,
+            15,
+            2,
+            17,
+            7
+          ],
+          [
+            12,
+            1,
+            19,
+            4,
+            6,
+            11
+          ],
+          [
+            3,
+            0,
+            10,
+            16
+          ],
+          [
+            9,
+            14,
+            8,
+            18
+          ]
+        ],
+        "type": "array",
+        "apiVersion": "v2.168.11",
+        "revision": 17
+      },
+      "questionInfo": {
+        "type": "classification",
+        "widget_type": "response",
+        "reference": "d3181523-5030-4fd2-ba67-102011ac8956",
+        "data": {
+          "possible_responses": [
+            "Here are the main points I've covered today",
+            "Moving onto to my next point",
+            "My presentation is going to be divided into 3 sections",
+            "To sum up my main points",
+            "Now let's take a look at",
+            "Hello and welcome to this analysis of the pros and cons of online learning",
+            "That brings me to my next point",
+            "If you have any questions, I'd be happy to answer them",
+            "That's an interesting question",
+            "I'm glad you asked me that",
+            "Let's take a look back at what we've talked about today",
+            "The next issue we are going to look at is what can be done to ensure more recycling is done in the workplace",
+            "So, if you take one thing from this presentation today, think about what you, as an individual, can do to reduce your use of packaging",
+            "What I hope you'll get from today's session is a clearer idea of how to succeed in the world of business",
+            "Thank you for your question",
+            "Thank you for coming to this short talk in which I hope to show you how to live cheaply as a student in the UK",
+            "That brings me to the end of my analysis",
+            "By the end of today's talk, you'll understand the benefits of studying online",
+            "I'll find out. Can I get back to you on that?",
+            "Let's start by looking at the most popular options"
+          ],
+          "stimulus": "Put these signposting phrases in the correct section of a presentation",
+          "type": "classification",
+          "ui_style": {
+            "column_count": 4,
+            "column_titles": [
+              "Introduction",
+              "Main body",
+              "Conclusion",
+              "Questions and Answers"
+            ]
+          },
+          "validation": {
+            "scoring_type": "exactMatch",
+            "valid_response": {
+              "score": 1,
+              "value": [
+                [
+                  2,
+                  5,
+                  13,
+                  17
+                ],
+                [
+                  1,
+                  4,
+                  6,
+                  11,
+                  15,
+                  16,
+                  19
+                ],
+                [
+                  0,
+                  3,
+                  10,
+                  12
+                ],
+                [
+                  7,
+                  9,
+                  14,
+                  18,
+                  8
+                ]
+              ]
+            },
+            "alt_responses": [
+              {
+                "score": 1,
+                "value": [
+                  [],
+                  [],
+                  [],
+                  []
+                ]
+              },
+              {
+                "score": 1,
+                "value": [
+                  [],
+                  [],
+                  [],
+                  []
+                ]
+              }
+            ]
+          },
+          "shuffle_options": true
+        },
+        "metadata": {
+          "name": "Classification",
+          "template_reference": "ef2648de-f826-4674-b17d-71e71889d8e6"
+        }
+      },
+      "feedbackInfo": [
+        null,
+        null
+      ]
+    }
+  ]
+}

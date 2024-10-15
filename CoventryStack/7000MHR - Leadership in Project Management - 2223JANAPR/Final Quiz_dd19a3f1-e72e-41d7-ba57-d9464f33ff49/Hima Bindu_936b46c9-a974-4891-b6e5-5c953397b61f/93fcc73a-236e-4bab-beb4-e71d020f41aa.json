@@ -1,0 +1,50 @@
+{
+  "userId": "936b46c9-a974-4891-b6e5-5c953397b61f",
+  "firstName": "Hima Bindu",
+  "lastName": "Guddeti",
+  "assigmentId": "dd19a3f1-e72e-41d7-ba57-d9464f33ff49",
+  "assigmentName": "Final Quiz",
+  "sessionId": "93fcc73a-236e-4bab-beb4-e71d020f41aa",
+  "email": "guddetih@coventry.ac.uk",
+  "spaceId": "4fb344e0-2505-4dbc-9179-c896b74e9fe2",
+  "spaceName": "7000MHR - Leadership in Project Management - 2223JANAPR",
+  "score": 0,
+  "max_score": 0,
+  "questions": [
+    {
+      "response_id": "93fcc73a-236e-4bab-beb4-e71d020f41aa_d74b3a6030c83fcf5ee153076270cc28",
+      "question_type": "longtextV2",
+      "dt_score_updated": "2023-03-27T09:24:24Z",
+      "automarkable": false,
+      "attempted": true,
+      "score": null,
+      "max_score": null,
+      "question_reference": "19cfb112-ed0c-48f3-9354-ee3d148b109b",
+      "item_reference": "48b87caa-f852-4992-b089-cc00d5b5a683",
+      "response": {
+        "value": "<p>Lewin developed a model in the 1940s, which is regarded as a cornerstone for understanding organizational change. He saw this as a three-stage process, which he likened to melting a block of ice, and refreezing it in a different shape. </p><p>The three stages are Unfreeze, Change and Refreeze.\n\n</p><p>In essence, the success of an organisational change depends on how well the people in the organisation understand:</p><ol><li>The reasons for the change;</li><li>The process of its implementation; and</li><li>What’s expected of them once the change has been made.</li></ol>\n\n<br>",
+        "wordCount": 87,
+        "type": "string",
+        "apiVersion": "v2.168.23",
+        "revision": 4
+      },
+      "questionInfo": {
+        "type": "longtextV2",
+        "widget_type": "response",
+        "reference": "19cfb112-ed0c-48f3-9354-ee3d148b109b",
+        "data": {
+          "stimulus": "Can you reflect on any change management model",
+          "type": "longtextV2"
+        },
+        "metadata": {
+          "name": "Essay with rich text",
+          "template_reference": "1e6039f8-0676-495d-aca9-108710a51ce5"
+        }
+      },
+      "feedbackInfo": [
+        null,
+        null
+      ]
+    }
+  ]
+}

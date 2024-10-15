@@ -1,0 +1,829 @@
+{
+  "userId": "a91bb26c-6023-49b1-acc2-1a34984fa042",
+  "firstName": "Nonlanee",
+  "lastName": "Patarat",
+  "assigmentId": "09def263-359e-4add-b1c2-db3624725eeb",
+  "assigmentName": "Reflective Writing (2)",
+  "sessionId": "68aa84de-1c79-4aa7-ae30-33e594aa48a4",
+  "email": "pataratn@coventry.ac.uk",
+  "spaceId": "eccb3434-e130-4250-b8cd-8ba714fcec86",
+  "spaceName": "(Community) Presessional English (PSE London)",
+  "score": 33,
+  "max_score": 33,
+  "questions": [
+    {
+      "response_id": "68aa84de-1c79-4aa7-ae30-33e594aa48a4_3e04909bc5543880805716f2136e1fd5",
+      "question_type": "mcq",
+      "dt_score_updated": "2022-09-28T10:57:21Z",
+      "automarkable": true,
+      "attempted": true,
+      "score": 1,
+      "max_score": 1,
+      "question_reference": "ba934faa-a590-4c63-b0c7-f5609b9399e0",
+      "item_reference": "9793db17-bd42-431b-b8b2-536ca654898f",
+      "response": {
+        "value": [
+          "0"
+        ],
+        "type": "array",
+        "apiVersion": "v2.168.23",
+        "revision": 2,
+        "feedbackAttemptsCount": 1
+      },
+      "questionInfo": {
+        "type": "mcq",
+        "widget_type": "response",
+        "reference": "ba934faa-a590-4c63-b0c7-f5609b9399e0",
+        "data": {
+          "options": [
+            {
+              "label": "To think about your learning experiences",
+              "value": "0"
+            },
+            {
+              "label": "To do research on a topic",
+              "value": "1"
+            },
+            {
+              "label": "To present innovative ideas",
+              "value": "2"
+            }
+          ],
+          "stimulus": "<h2><img height=\"168\" src=\"https://assets.learnosity.com/organisations/755/95d8f5d3-bbf0-4b10-a64e-66a6c7e078f7.png\" width=\"449\"></h2>\n\n<h2><b>Let's start by thinking about the characteristics&nbsp;of&nbsp;</b><span style=\"font-weight: bold; color: rgb(0, 0, 255);\">Reflective Writing</span><b>...</b></h2>\n\n<p>&nbsp;</p>\n\n<div class=\"lrn-well\"><span style=\"font-size:1.5em;\"><strong>1. What is the <span style=\"color:#0000ff;\">AIM </span>of Reflective Writing?</strong></span></div>\n\n<p><strong><span style=\"color:#ff0000;\"></span><span style=\"color:#ff0000;\">►&nbsp;</span><span style=\"color:#ff0000;\">You only have ONE check answer attempt!</span></strong></p>\n",
+          "type": "mcq",
+          "ui_style": {
+            "choice_label": "upper-alpha",
+            "type": "block"
+          },
+          "validation": {
+            "scoring_type": "exactMatch",
+            "valid_response": {
+              "score": 1,
+              "value": [
+                "0"
+              ]
+            }
+          },
+          "feedback_attempts": 1,
+          "instant_feedback": true,
+          "shuffle_options": true
+        },
+        "metadata": {
+          "name": "Multiple choice – block layout",
+          "template_reference": "33d53a22-1a59-4a03-9671-7f5104edd62e"
+        }
+      },
+      "feedbackInfo": [
+        null,
+        null
+      ]
+    },
+    {
+      "response_id": "68aa84de-1c79-4aa7-ae30-33e594aa48a4_d168311c79e25369081f4afe68c103ea",
+      "question_type": "mcq",
+      "dt_score_updated": "2022-09-28T10:57:21Z",
+      "automarkable": true,
+      "attempted": true,
+      "score": 1,
+      "max_score": 1,
+      "question_reference": "2387c306-26b6-4bf2-a5ec-e0bab46a0fb2",
+      "item_reference": "9793db17-bd42-431b-b8b2-536ca654898f",
+      "response": {
+        "value": [
+          "1"
+        ],
+        "type": "array",
+        "apiVersion": "v2.168.23",
+        "revision": 1,
+        "feedbackAttemptsCount": 1
+      },
+      "questionInfo": {
+        "type": "mcq",
+        "widget_type": "response",
+        "reference": "2387c306-26b6-4bf2-a5ec-e0bab46a0fb2",
+        "data": {
+          "options": [
+            {
+              "label": "Facts",
+              "value": "0"
+            },
+            {
+              "label": "Opinions&nbsp;",
+              "value": "1"
+            },
+            {
+              "label": "Recommendations",
+              "value": "2"
+            }
+          ],
+          "stimulus": "<div class=\"lrn-well\"><span style=\"font-size:1.5em;\"><strong>2. What is more common in Reflective Writing?</strong></span></div>\n\n<p><strong><span style=\"color:#ff0000;\"></span><span style=\"color:#ff0000;\">►&nbsp;</span><span style=\"color:#ff0000;\">You only have ONE check answer attempt!</span></strong></p>\n",
+          "type": "mcq",
+          "ui_style": {
+            "choice_label": "upper-alpha",
+            "type": "block"
+          },
+          "validation": {
+            "scoring_type": "exactMatch",
+            "valid_response": {
+              "score": 1,
+              "value": [
+                "1"
+              ]
+            }
+          },
+          "feedback_attempts": 1,
+          "instant_feedback": true,
+          "shuffle_options": true
+        },
+        "metadata": {
+          "name": "Multiple choice – block layout",
+          "template_reference": "33d53a22-1a59-4a03-9671-7f5104edd62e"
+        }
+      },
+      "feedbackInfo": [
+        null,
+        null
+      ]
+    },
+    {
+      "response_id": "68aa84de-1c79-4aa7-ae30-33e594aa48a4_33c2740261b7d8bb93dec5d8f4254f34",
+      "question_type": "mcq",
+      "dt_score_updated": "2022-09-28T10:57:34Z",
+      "automarkable": true,
+      "attempted": true,
+      "score": 1,
+      "max_score": 1,
+      "question_reference": "99aad3f6-5991-4251-b959-ff9d914eea9c",
+      "item_reference": "9793db17-bd42-431b-b8b2-536ca654898f",
+      "response": {
+        "value": [
+          "0"
+        ],
+        "type": "array",
+        "apiVersion": "v2.168.23",
+        "revision": 1,
+        "feedbackAttemptsCount": 1
+      },
+      "questionInfo": {
+        "type": "mcq",
+        "widget_type": "response",
+        "reference": "99aad3f6-5991-4251-b959-ff9d914eea9c",
+        "data": {
+          "options": [
+            {
+              "label": "Personal language&nbsp;(I / me / we ...)",
+              "value": "0"
+            },
+            {
+              "label": "Formal language (passives, nominalisations)&nbsp;",
+              "value": "1"
+            },
+            {
+              "label": "Dialogues",
+              "value": "2"
+            }
+          ],
+          "stimulus": "<div class=\"lrn-well\"><span style=\"font-size:1.5em;\"><strong>3. What kind of language should you use?&nbsp;</strong></span></div>\n\n<p><strong><span style=\"color:#ff0000;\"></span><span style=\"color:#ff0000;\">►&nbsp;</span><span style=\"color:#ff0000;\">You only have ONE check answer attempt!</span></strong></p>\n",
+          "type": "mcq",
+          "ui_style": {
+            "choice_label": "upper-alpha",
+            "type": "block"
+          },
+          "validation": {
+            "scoring_type": "exactMatch",
+            "valid_response": {
+              "score": 1,
+              "value": [
+                "0"
+              ]
+            }
+          },
+          "feedback_attempts": 1,
+          "instant_feedback": true,
+          "shuffle_options": true
+        },
+        "metadata": {
+          "name": "Multiple choice – block layout",
+          "template_reference": "33d53a22-1a59-4a03-9671-7f5104edd62e"
+        }
+      },
+      "feedbackInfo": [
+        null,
+        null
+      ]
+    },
+    {
+      "response_id": "68aa84de-1c79-4aa7-ae30-33e594aa48a4_7a24639d28d5bbaa6a7c110cf39e60f6",
+      "question_type": "association",
+      "dt_score_updated": "2022-09-28T10:58:03Z",
+      "automarkable": true,
+      "attempted": true,
+      "score": 3,
+      "max_score": 3,
+      "question_reference": "c039f833-35ff-4bf9-bcf3-ed7e48c53865",
+      "item_reference": "9793db17-bd42-431b-b8b2-536ca654898f",
+      "response": {
+        "value": [
+          "Think about what you are discussing: what happened? How&nbsp;did it happen?",
+          "What’s the most important / interesting / useful parts of the project or event? Can it be explained (e.g. with theory)?",
+          "What did you learn from this? What does this mean for your future approach?"
+        ],
+        "type": "array",
+        "updatedFormat": true,
+        "apiVersion": "v2.168.23",
+        "revision": 2,
+        "feedbackAttemptsCount": 3
+      },
+      "questionInfo": {
+        "type": "association",
+        "widget_type": "response",
+        "reference": "c039f833-35ff-4bf9-bcf3-ed7e48c53865",
+        "data": {
+          "possible_responses": [
+            "What did you learn from this? What does this mean for your future approach?",
+            "What’s the most important / interesting / useful parts of the project or event? Can it be explained (e.g. with theory)?",
+            "Think about what you are discussing: what happened? How&nbsp;did it happen?"
+          ],
+          "stimulus": "<p>&nbsp;</p>\n\n<h3><img height=\"186\" src=\"https://assets.learnosity.com/organisations/755/740e2abc-7cf7-488a-8c96-db0c4a97a601.png\" width=\"450\" /></h3>\n\n<h2><strong>In today's lesson you talked about the <span style=\"color:#0000ff;\">stages </span>of reflective writing.</strong></h2>\n\n<ul>\n\t<li>\n\t<h4>What do you do in each stage?&nbsp;</h4>\n\t</li>\n</ul>\n",
+          "stimulus_list": [
+            "<span style=\"color:#ff8c00;\"><span style=\"font-size:1.3em;\"><strong>1. Looking back at something</strong></span></span>",
+            "<span style=\"color:#008000;\"><span style=\"font-size:1.3em;\"><strong>2. Analysing the event or idea</strong></span></span>",
+            "<span style=\"font-size:1.3em;\"><span style=\"color:#800080;\"><strong>3. Carefully consider the results</strong></span></span>"
+          ],
+          "type": "association",
+          "validation": {
+            "scoring_type": "partialMatchV2",
+            "valid_response": {
+              "score": 3,
+              "value": [
+                "Think about what you are discussing: what happened? How&nbsp;did it happen?",
+                "What’s the most important / interesting / useful parts of the project or event? Can it be explained (e.g. with theory)?",
+                "What did you learn from this? What does this mean for your future approach?"
+              ]
+            }
+          },
+          "instant_feedback": true
+        },
+        "metadata": {
+          "name": "Match list",
+          "template_reference": "1fa22aac-1f88-47f7-941b-3c77759549e6"
+        }
+      },
+      "feedbackInfo": [
+        null,
+        null
+      ]
+    },
+    {
+      "response_id": "68aa84de-1c79-4aa7-ae30-33e594aa48a4_977f343b6947c34f60b71e0d80ce2408",
+      "question_type": "association",
+      "dt_score_updated": "2022-09-28T10:58:18Z",
+      "automarkable": true,
+      "attempted": true,
+      "score": 3,
+      "max_score": 3,
+      "question_reference": "6be703f1-bb04-475b-8b1d-d50a36f48bc6",
+      "item_reference": "9793db17-bd42-431b-b8b2-536ca654898f",
+      "response": {
+        "value": [
+          "<span style=\"font-size:1.3em;\">Description</span>",
+          "<span style=\"font-size:1.3em;\">Interpretation&nbsp;</span>",
+          "<span style=\"font-size:1.3em;\">Outcome</span>"
+        ],
+        "type": "array",
+        "updatedFormat": true,
+        "apiVersion": "v2.168.23",
+        "revision": 1,
+        "feedbackAttemptsCount": 1
+      },
+      "questionInfo": {
+        "type": "association",
+        "widget_type": "response",
+        "reference": "6be703f1-bb04-475b-8b1d-d50a36f48bc6",
+        "data": {
+          "possible_responses": [
+            "<span style=\"font-size:1.3em;\">Outcome</span>",
+            "<span style=\"font-size:1.3em;\">Description</span>",
+            "<span style=\"font-size:1.3em;\">Interpretation&nbsp;</span>"
+          ],
+          "stimulus_list": [
+            "<span style=\"color:#ff8c00;\"><span style=\"font-size:1.3em;\"><strong>1. Looking back at something</strong></span></span>",
+            "<span style=\"color:#008000;\"><span style=\"font-size:1.3em;\"><strong>2. Analysing the event or idea</strong></span></span>",
+            "<span style=\"font-size:1.3em;\"><span style=\"color:#800080;\"><strong>3. Carefully consider the results</strong></span></span>"
+          ],
+          "type": "association",
+          "validation": {
+            "scoring_type": "partialMatchV2",
+            "valid_response": {
+              "score": 3,
+              "value": [
+                "<span style=\"font-size:1.3em;\">Description</span>",
+                "<span style=\"font-size:1.3em;\">Interpretation&nbsp;</span>",
+                "<span style=\"font-size:1.3em;\">Outcome</span>"
+              ]
+            }
+          },
+          "instant_feedback": true,
+          "stimulus": "<h2><strong>What are the <span style=\"color:#0000ff;\">stages</span> called?</strong></h2>\n"
+        },
+        "metadata": {
+          "name": "Match list",
+          "template_reference": "1fa22aac-1f88-47f7-941b-3c77759549e6"
+        }
+      },
+      "feedbackInfo": [
+        null,
+        null
+      ]
+    },
+    {
+      "response_id": "68aa84de-1c79-4aa7-ae30-33e594aa48a4_091b1eb4d8d6181673d124249e2f8d7e",
+      "question_type": "imageclozeassociationV2",
+      "dt_score_updated": "2022-09-28T10:59:28Z",
+      "automarkable": true,
+      "attempted": true,
+      "score": 6,
+      "max_score": 6,
+      "question_reference": "0c16fe82-cc49-4db2-a977-0596ad59fe0d",
+      "item_reference": "3770395c-eba1-40bc-a774-be41dce04608",
+      "response": {
+        "value": [
+          [
+            "What happened?"
+          ],
+          [
+            "What were you feeling / thinking?"
+          ],
+          [
+            "What was good and bad about the experience?"
+          ],
+          [
+            "What are some reasons why that happened?"
+          ],
+          [
+            "What else could you have done?"
+          ],
+          [
+            "What would you do if you were in the same situation again?"
+          ]
+        ],
+        "type": "array",
+        "apiVersion": "v2.168.23",
+        "revision": 2,
+        "feedbackAttemptsCount": 3
+      },
+      "questionInfo": {
+        "type": "imageclozeassociationV2",
+        "widget_type": "response",
+        "reference": "0c16fe82-cc49-4db2-a977-0596ad59fe0d",
+        "data": {
+          "image": {
+            "src": "https://assets.learnosity.com/organisations/755/5668e45c-d682-490e-b103-66bf7d2e6c4e.jpg",
+            "width": 666,
+            "height": 717
+          },
+          "possible_responses": [
+            "What happened?",
+            "What were you feeling / thinking?",
+            "What was good and bad about the experience?",
+            "What are some reasons why that happened?",
+            "What else could you have done?",
+            "What would you do if you were in the same situation again?"
+          ],
+          "response_containers": [
+            {
+              "x": 37.69,
+              "y": 10.46,
+              "width": "24.03%",
+              "height": "10.81%",
+              "aria_label": "",
+              "pointer": "undefined"
+            },
+            {
+              "x": 72.52,
+              "y": 27.89,
+              "width": "24.64%",
+              "height": "10.95%",
+              "aria_label": "",
+              "pointer": "undefined"
+            },
+            {
+              "x": 73.42,
+              "y": 64.85,
+              "width": "24.18%",
+              "height": "11.79%",
+              "aria_label": "",
+              "pointer": "undefined"
+            },
+            {
+              "x": 38.14,
+              "y": 82.99,
+              "aria_label": "",
+              "width": "23.67%",
+              "height": "11.83%",
+              "pointer": "none"
+            },
+            {
+              "x": 2.7,
+              "y": 65.97,
+              "aria_label": "",
+              "width": "23.82%",
+              "height": "11.41%",
+              "pointer": "none"
+            },
+            {
+              "x": 2.4,
+              "y": 29.01,
+              "aria_label": "",
+              "width": "24.28%",
+              "height": "10.99%",
+              "pointer": "none"
+            }
+          ],
+          "stimulus": "<h2><span style=\"color:#008000;\"><strong>Below you can see an example of the Reflective Cycle (Gibbs, 1988).&nbsp;</strong></span></h2>\n\n<h3><strong><span style=\"color:#008000;\">►</span>&nbsp;What should you focus on in each of the stages?</strong></h3>\n\n<p>&nbsp;</p>\n\n<p><span style=\"font-size:1.5em;\">Complete the diagram:</span></p>\n",
+          "type": "imageclozeassociationV2",
+          "case_sensitive": true,
+          "validation": {
+            "scoring_type": "partialMatchV2",
+            "valid_response": {
+              "score": 6,
+              "value": [
+                [
+                  "What happened?"
+                ],
+                [
+                  "What were you feeling / thinking?"
+                ],
+                [
+                  "What was good and bad about the experience?"
+                ],
+                [
+                  "What are some reasons why that happened?"
+                ],
+                [
+                  "What else could you have done?"
+                ],
+                [
+                  "What would you do if you were in the same situation again?"
+                ]
+              ]
+            }
+          },
+          "instant_feedback": true,
+          "response_container": {
+            "background_color": "rgba(255, 255, 255, 0)"
+          },
+          "shuffle_options": true,
+          "max_response_per_zone": 6,
+          "ui_style": {
+            "possibility_list_position": "right",
+            "possibility_list_width": ""
+          }
+        },
+        "metadata": {
+          "name": "Label image with drag & drop",
+          "template_reference": "6e77b403-8f0c-43af-b464-9450e1ac70dc"
+        }
+      },
+      "feedbackInfo": [
+        null,
+        null
+      ]
+    },
+    {
+      "response_id": "68aa84de-1c79-4aa7-ae30-33e594aa48a4_5c393d6cc90ec0dc8d8082e225d8eefd",
+      "question_type": "clozedropdown",
+      "dt_score_updated": "2022-09-28T10:59:42Z",
+      "automarkable": true,
+      "attempted": true,
+      "score": 2,
+      "max_score": 2,
+      "question_reference": "8c070b6e-5f3b-4aaa-8b32-3b0a1b4c0352",
+      "item_reference": "3770395c-eba1-40bc-a774-be41dce04608",
+      "response": {
+        "value": [
+          "INTERPRETATION",
+          "OUTCOME"
+        ],
+        "type": "array",
+        "apiVersion": "v2.168.23",
+        "revision": 1,
+        "feedbackAttemptsCount": 2
+      },
+      "questionInfo": {
+        "type": "clozedropdown",
+        "widget_type": "response",
+        "reference": "8c070b6e-5f3b-4aaa-8b32-3b0a1b4c0352",
+        "data": {
+          "possible_responses": [
+            [
+              "INTERPRETATION",
+              "OUTCOME",
+              "REFLECTION",
+              "RECOMMENDATION"
+            ],
+            [
+              "INTERPRETATION",
+              "OUTCOME",
+              "REFLECTION",
+              "RECOMMENDATION"
+            ]
+          ],
+          "response_container": {
+            "pointer": "left"
+          },
+          "stimulus": "<h2><b>Consider at the different colour&nbsp;circles in the reflective cycle:</b></h2>\n",
+          "template": "<ul>\n\t<li><span style=\"font-size:1.5em;\">The <span style=\"color:#ff8c00;\"><strong>ORANGE </strong></span>circle is the <u><span style=\"color:#ff8c00;\"><strong>DESCRIPTION</strong></span></u>.</span></li>\n\t<li><span style=\"font-size:1.5em;\">The <span style=\"color:#008000;\"><strong>GREEN </strong></span>circles are </span><span style=\"font-size:1em;\">{{response}}</span><span style=\"font-size:1.5em;\"></span></li>\n\t<li><span style=\"font-size:1.5em;\">The <span style=\"color:#800080;\"><strong>PURPLE </strong></span>circles are the&nbsp;</span><span style=\"font-size:1em;\">{{response}}</span><span style=\"font-size:1.5em;\"></span></li>\n</ul>\n\n<p>&nbsp;</p>\n",
+          "type": "clozedropdown",
+          "case_sensitive": true,
+          "validation": {
+            "scoring_type": "partialMatchV2",
+            "valid_response": {
+              "score": 2,
+              "value": [
+                "INTERPRETATION",
+                "OUTCOME"
+              ]
+            }
+          },
+          "instant_feedback": true,
+          "shuffle_options": true
+        },
+        "metadata": {
+          "name": "Cloze with drop down",
+          "template_reference": "2fbba51b-e35e-441f-83c7-2662e2e81fa6"
+        }
+      },
+      "feedbackInfo": [
+        null,
+        null
+      ]
+    },
+    {
+      "response_id": "68aa84de-1c79-4aa7-ae30-33e594aa48a4_bee819d741c63d7c21062ec3efe3570b",
+      "question_type": "imageclozeassociationV2",
+      "dt_score_updated": "2022-09-28T11:01:21Z",
+      "automarkable": true,
+      "attempted": true,
+      "score": 6,
+      "max_score": 6,
+      "question_reference": "075bdef6-36b5-4613-8005-cef3a4867027",
+      "item_reference": "92f49883-3734-4312-8cf1-bddaa5411d32",
+      "response": {
+        "value": [
+          [
+            "<span style=\"font-size:1.1em;\">Keep this section short and direct.</span>",
+            "<span style=\"font-size:1.1em;\">Explain how you approached the tasks or activities.</span>",
+            "<span style=\"font-size:1.1em;\">What were your expectations before the the task?</span>",
+            "<span style=\"font-size:1.1em;\">Use verbs in the past.</span>",
+            "<span style=\"font-size:1.1em;\">Describe what happened.</span>"
+          ]
+        ],
+        "type": "array",
+        "apiVersion": "v2.168.23",
+        "revision": 5,
+        "feedbackAttemptsCount": 7
+      },
+      "questionInfo": {
+        "type": "imageclozeassociationV2",
+        "widget_type": "response",
+        "reference": "075bdef6-36b5-4613-8005-cef3a4867027",
+        "data": {
+          "image": {
+            "src": "https://assets.learnosity.com/organisations/755/fb83c18e-e033-448e-ae17-d4e7e64f0268.jpg",
+            "width": 500,
+            "height": 266
+          },
+          "possible_responses": [
+            "<span style=\"font-size:1.1em;\">What were your expectations before the the task?</span>",
+            "<span style=\"font-size:1.1em;\">Write the dates and time of all events.</span>",
+            "<span style=\"font-size:1.1em;\">Explain how you approached the tasks or activities.</span>",
+            "<span style=\"font-size:1.1em;\">Describe what happened.</span>",
+            "<span style=\"font-size:1.1em;\">Use verbs in the past.</span>",
+            "<span style=\"font-size:1.1em;\">Keep this section short and direct.</span>",
+            "<span style=\"font-size:1.1em;\">Include all the details you can remember.</span>",
+            "<span style=\"font-size:1.1em;\">This section is usually the longest</span>"
+          ],
+          "response_containers": [
+            {
+              "x": 2,
+              "y": 21.81,
+              "width": "95.32%",
+              "height": "72.83%",
+              "aria_label": "",
+              "pointer": "undefined"
+            }
+          ],
+          "stimulus": "<h2><strong>Next, let's consider <span style=\"color:#0000ff;\">what you should focus on</span> in each of the stages.</strong></h2>\n\n<p><span style=\"font-size:1.5em;\"><strong><span style=\"color:#0000ff;\">►</span> Drag the answers to the correct boxes.</strong></span></p>\n\n<p>&nbsp;</p>\n\n<p><span style=\"color:#ff0000;\"><strong>NOTE: There are extra options you don't need.</strong></span></p>\n",
+          "type": "imageclozeassociationV2",
+          "case_sensitive": true,
+          "validation": {
+            "scoring_type": "partialMatchV2",
+            "valid_response": {
+              "score": 6,
+              "value": [
+                [
+                  "<span style=\"font-size:1.1em;\">What were your expectations before the the task?</span>",
+                  "<span style=\"font-size:1.1em;\">Explain how you approached the tasks or activities.</span>",
+                  "<span style=\"font-size:1.1em;\">Describe what happened.</span>",
+                  "<span style=\"font-size:1.1em;\">Use verbs in the past.</span>",
+                  "<span style=\"font-size:1.1em;\">Keep this section short and direct.</span>"
+                ]
+              ]
+            }
+          },
+          "shuffle_options": true,
+          "max_response_per_zone": 5,
+          "instant_feedback": true,
+          "response_container": {
+            "background_color": "rgba(255, 255, 255, 0)"
+          }
+        },
+        "metadata": {
+          "name": "Label image with drag & drop",
+          "template_reference": "6e77b403-8f0c-43af-b464-9450e1ac70dc"
+        }
+      },
+      "feedbackInfo": [
+        null,
+        null
+      ]
+    },
+    {
+      "response_id": "68aa84de-1c79-4aa7-ae30-33e594aa48a4_b86b7138c2620d13db077ee9234b6aa3",
+      "question_type": "imageclozeassociationV2",
+      "dt_score_updated": "2022-09-28T11:02:04Z",
+      "automarkable": true,
+      "attempted": true,
+      "score": 6,
+      "max_score": 6,
+      "question_reference": "3ecd52f3-985a-4723-9345-a5eda930d9b8",
+      "item_reference": "92f49883-3734-4312-8cf1-bddaa5411d32",
+      "response": {
+        "value": [
+          [
+            "<span style=\"font-size:1.1em;\">How did your knowledge and understanding change?</span>",
+            "<span style=\"font-size:1.1em;\">Use examples to support your reasons&nbsp;</span>",
+            "<span style=\"font-size:1.1em;\">Compare this learning experience with past learning experiences</span>",
+            "<span style=\"font-size:1.1em;\">Consider the issue from different perspectives</span>",
+            "<span style=\"font-size:1.1em;\">What was good and bad about the learning experience?</span>",
+            "<span style=\"font-size:1.1em;\">This section is usually the longest</span>"
+          ]
+        ],
+        "type": "array",
+        "apiVersion": "v2.168.23",
+        "revision": 2,
+        "feedbackAttemptsCount": 6
+      },
+      "questionInfo": {
+        "type": "imageclozeassociationV2",
+        "widget_type": "response",
+        "reference": "3ecd52f3-985a-4723-9345-a5eda930d9b8",
+        "data": {
+          "image": {
+            "src": "https://assets.learnosity.com/organisations/755/859a4790-d099-40cc-88ff-dee5d37e0a87.jpg",
+            "width": 499,
+            "height": 265
+          },
+          "possible_responses": [
+            "<span style=\"font-size:1.1em;\">What was good and bad about the learning experience?</span>",
+            "<span style=\"font-size:1.1em;\">How did your knowledge and understanding change?</span>",
+            "<span style=\"font-size:1.1em;\">Use examples to support your reasons&nbsp;</span>",
+            "<span style=\"font-size:1.1em;\">Provide only ONE interpretation when reflecting</span>",
+            "<span style=\"font-size:1.1em;\">Compare this learning experience with past learning experiences</span>",
+            "<span style=\"font-size:1.1em;\">This section is usually the longest</span>",
+            "<span style=\"font-size:1.1em;\">Consider the issue from different perspectives</span>",
+            "<span style=\"font-size:1.1em;\">Don't use examples to support your reasons.</span>",
+            "<span style=\"font-size:1.1em;\">Keep this section short</span>"
+          ],
+          "response_containers": [
+            {
+              "x": 2,
+              "y": 23.02,
+              "width": "96.26%",
+              "height": "75.70%",
+              "aria_label": "",
+              "pointer": "undefined"
+            }
+          ],
+          "type": "imageclozeassociationV2",
+          "case_sensitive": true,
+          "validation": {
+            "scoring_type": "partialMatchV2",
+            "valid_response": {
+              "score": 6,
+              "value": [
+                [
+                  "<span style=\"font-size:1.1em;\">Use examples to support your reasons&nbsp;</span>",
+                  "<span style=\"font-size:1.1em;\">What was good and bad about the learning experience?</span>",
+                  "<span style=\"font-size:1.1em;\">How did your knowledge and understanding change?</span>",
+                  "<span style=\"font-size:1.1em;\">Compare this learning experience with past learning experiences</span>",
+                  "<span style=\"font-size:1.1em;\">This section is usually the longest</span>",
+                  "<span style=\"font-size:1.1em;\">Consider the issue from different perspectives</span>"
+                ]
+              ]
+            }
+          },
+          "instant_feedback": true,
+          "max_response_per_zone": 6,
+          "response_container": {
+            "background_color": "rgba(255, 255, 255, 0)"
+          }
+        },
+        "metadata": {
+          "name": "Label image with drag & drop",
+          "template_reference": "6e77b403-8f0c-43af-b464-9450e1ac70dc"
+        }
+      },
+      "feedbackInfo": [
+        null,
+        null
+      ]
+    },
+    {
+      "response_id": "68aa84de-1c79-4aa7-ae30-33e594aa48a4_ca03105ccd5b0e9ee6d5d70741179460",
+      "question_type": "imageclozeassociationV2",
+      "dt_score_updated": "2022-09-28T11:02:47Z",
+      "automarkable": true,
+      "attempted": true,
+      "score": 4,
+      "max_score": 4,
+      "question_reference": "4c970b2c-e1af-4abe-b9a1-e05c7a57714e",
+      "item_reference": "92f49883-3734-4312-8cf1-bddaa5411d32",
+      "response": {
+        "value": [
+          [
+            "How will the learning help you in your future career?",
+            "What did you learn from this experience?",
+            "How will the learning help you in your destination course?",
+            "Look into the future: if you were in the same situation again, what would you do differently?"
+          ]
+        ],
+        "type": "array",
+        "apiVersion": "v2.168.23",
+        "revision": 3,
+        "feedbackAttemptsCount": 3
+      },
+      "questionInfo": {
+        "type": "imageclozeassociationV2",
+        "widget_type": "response",
+        "reference": "4c970b2c-e1af-4abe-b9a1-e05c7a57714e",
+        "data": {
+          "image": {
+            "src": "https://assets.learnosity.com/organisations/755/3f188214-5117-4564-8001-b20e394b3c89.jpg",
+            "width": 499,
+            "height": 264
+          },
+          "possible_responses": [
+            "Explain why you have made your decisions.",
+            "Look into the future: if you were in the same situation again, what would you do differently?",
+            "What did you learn from this experience?",
+            "How will the learning help you in your destination course?",
+            "How will the learning help you in your future career?",
+            "Make recommendations for improvement.",
+            "Summarise the previous sections.&nbsp;"
+          ],
+          "response_containers": [
+            {
+              "x": 1,
+              "y": 22,
+              "width": "96.06%",
+              "height": "75.01%",
+              "aria_label": "",
+              "pointer": "undefined"
+            }
+          ],
+          "type": "imageclozeassociationV2",
+          "case_sensitive": true,
+          "validation": {
+            "scoring_type": "partialMatchV2",
+            "valid_response": {
+              "score": 4,
+              "value": [
+                [
+                  "Look into the future: if you were in the same situation again, what would you do differently?",
+                  "How will the learning help you in your destination course?",
+                  "How will the learning help you in your future career?",
+                  "What did you learn from this experience?"
+                ]
+              ]
+            }
+          },
+          "instant_feedback": true,
+          "response_container": {
+            "background_color": "rgba(255, 255, 255, 0)"
+          },
+          "max_response_per_zone": 4
+        },
+        "metadata": {
+          "name": "Label image with drag & drop",
+          "template_reference": "6e77b403-8f0c-43af-b464-9450e1ac70dc"
+        }
+      },
+      "feedbackInfo": [
+        null,
+        null
+      ]
+    }
+  ]
+}
