@@ -184,11 +184,10 @@
                 const questions = questionList?.map((ques, i) => {
                      const { data } = ques?.questionInfo || {}
                      const attempted = !!ques?.attempted;
-                     const div = document.createElement('div');
-                     console.log('------------>',`${path}/${data.image?.local_source}`)
-                     return `<div> 
-                        <img src="${data.image?.local_source}" height="${data.image?.height}" width="${data.image?.width}" />
-                        ${data?.stimulus} <div>`
+                   
+                     const imgUrl = data?.image?.local_source;
+                     console.log('------------>',`${path}/${imgUrl}`)
+                     return data?.stimulus
                 });
 
                  return (`
