@@ -74,7 +74,7 @@
         const mainContent = document.getElementById('mainContent');
         const fileList = document.getElementById('fileList');
         const endsWithJSON = new RegExp(/\.json$/i)
-        
+        let rootUrl;
         // Events
         directoryInput.addEventListener('change', createDirectories);
         let timeOut;
@@ -90,7 +90,10 @@
         }
 
         function createDirectories(event) {
-
+            const localBaseUrl = event?.target?.baseURI?.split('/');
+            localBaseUrl.pop();
+            rootUrl = localBaseUrl.join('/')
+            
             const files = [...event.target.files];
 
             const tree = buildTree(files);
@@ -120,13 +123,13 @@
             const fragment = document.createDocumentFragment();
 
             for (let key in tree) {
-                const value = tree[key];
+                const file = tree[key];
 
-                if (value instanceof File) {
+                if (file instanceof File) {
                     const label = document.createElement('label');
                     label.style = `padding:2px; background-color: yellow; font-weight: normal; border-radius: 10px; margin-top: 10px; cursor:pointer`
                     label.textContent = key;
-                    label.onclick = handleExtrectJson.bind(value)
+                    label.onclick = handleExtrectJson.bind(this,{file, filePath: file?.webkitRelativePath})
                     
                     endsWithJSON.test(key) && fragment.appendChild(label);
                 } else {
@@ -137,7 +140,7 @@
                     detailsTag.append(summary);
 
                     // Recursively add children
-                    const children = createTreeHTML(value);
+                    const children = createTreeHTML(file);
                     if (children.children.length > 0) {
                         detailsTag.appendChild(children);
                     }
@@ -152,12 +155,15 @@
             return fragment;
         }
 
-        function handleExtrectJson() {
+        function handleExtrectJson(data) {
             const reader = new FileReader();
             reader.onload = function(e) {
             try {
                 const json = JSON.parse(e.target.result); // Parse the JSON content
-                generateUI(json);
+                const filePath = data?.filePath?.split('/')
+                filePath.pop();
+                const path = `${rootUrl}/${filePath.join('/')}`
+                generateUI(json, path);
             } catch (error) {
                 mainContent.textContent = 'Error parsing JSON: ' + error.message;
                 console.error('Error parsing JSON:', error);
@@ -167,17 +173,22 @@
             reader.onerror = function() {
                 console.error('Error reading file');
             };
-            reader.readAsText(this);
+            reader.readAsText(data?.file);
         }
 
 
-        function generateUI(dataJSON) {
+        function generateUI(dataJSON, path) {
 
             const generateQuestions = (questionList) => {
+                
                 const questions = questionList?.map((ques, i) => {
                      const { data } = ques?.questionInfo || {}
                      const attempted = !!ques?.attempted;
-                     return data?.stimulus
+                     const div = document.createElement('div');
+                     console.log('------------>',`${path}/${data.image?.local_source}`)
+                     return `<div> 
+                        <img src="${data.image?.local_source}" height="${data.image?.height}" width="${data.image?.width}" />
+                        ${data?.stimulus} <div>`
                 });
 
                  return (`
@@ -212,7 +223,7 @@
                     `)
             }
             
-            console.log('JJJJJ>', dataJSON)
+            console.log('>>>>>', dataJSON)
             const TEMPLATE = `
             <div style="display: flex; flex-direction: column; gap: 10px;padding: 10px 5px;">
                ${generateUserInfo(dataJSON)}
